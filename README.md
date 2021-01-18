@@ -10,7 +10,6 @@
   - [APL](#apl)
   - [ActionScript](#actionscript)
   - [Ada](#ada)
-  - [ApacheConf](#apacheconf)
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
   - [Batchfile](#batchfile)
@@ -63,7 +62,6 @@
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
-  - [Mathematica](#mathematica)
   - [Matlab](#matlab)
   - [NSIS](#nsis)
   - [Nim](#nim)
@@ -152,10 +150,6 @@
 ## Ada 
 
 - [gnat-llvm](https://github.com/AdaCore/gnat-llvm) - LLVM based GNAT compiler
-
-## ApacheConf 
-
-- [bill_tracker](https://github.com/troy-open-data/bill_tracker) - Angular front-end to Troy City Tracker
 
 ## AppleScript 
 
@@ -324,7 +318,6 @@
 - [seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
 - [LEAF](https://github.com/spiricom/LEAF) - Lightweight Embedded Audio Framework
-- [GfeSDK](https://github.com/NVIDIAGameWorks/GfeSDK) - This is the home of the NVIDIA GeForce Experience SDK.
 - [minimp3-wasm](https://github.com/bashi/minimp3-wasm) - A tiny WebAssembly MP3 decoder
 - [DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [Quake-2](https://github.com/id-Software/Quake-2) - Quake 2 GPL Source Release
@@ -1026,7 +1019,6 @@
 - [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [qcad](https://github.com/qcad/qcad) - QCAD - The Open Source 2D CAD. QCAD is a crossplatform CAD solution for Windows, Mac OS X and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
 - [rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
-- [GfeSDK-UE4Plugin](https://github.com/NVIDIAGameWorks/GfeSDK-UE4Plugin) - GeForce Experience SDK in plugin form for UnrealEngine 4
 - [OOPS](https://github.com/mulshine/OOPS) - A C library for Audio synthesis and processing, intended for embedded applications, written using semi-OOP style.
 - [xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
 - [fuif](https://github.com/cloudinary/fuif) - Free Universal Image Format
@@ -1434,7 +1426,6 @@
 - [tuntaposx](https://github.com/bbits/tuntaposx) - Our fork of the tuntaposx device driver. We NO LONGER use this in our app, GetCloak.com. Instead, we've patched OpenVPN to use Darwin's utun. Some variant of that patch is now mainlined in OpenVPN.
 - [LLVMSlicer](https://github.com/jirislaby/LLVMSlicer) - Static Slicer for LLVM
 - [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) - An Open-Source subdivision surface library.
-- [photons](https://github.com/markemer/photons) - Photon mapping final project for Barb's class modified for Masters Thesis
 - [photons](https://github.com/laprej/photons) - Our photon mapping final project for Barb's class
 - [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
@@ -1512,7 +1503,6 @@
 - [tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [docker-jumpstart](https://github.com/odewahn/docker-jumpstart) - A quick introduction to Docker
 - [littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
-- [hubpress.io](https://github.com/HubPress/hubpress.io) - A web application to build your blog on GitHub
 - [markie](https://github.com/divshot/markie) - A simple Markdown editor built with AngularJS.
 - [hmda-viz-prototype](https://github.com/cfpb/hmda-viz-prototype) - Prototype for HMDA visualization
 - [simpsons-in-css](https://github.com/pattle/simpsons-in-css) - Simpsons characters in CSS
@@ -1552,7 +1542,6 @@
 - [callcongress](https://github.com/mtravers/callcongress) - Alexa skill for letting you know what your reps are doing and how to contact them
 - [VisualReview](https://github.com/xebia/VisualReview) - VisualReview, a human-friendly tool for testing and reviewing visual regressions.
 - [datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
-- [qu](https://github.com/cfpb/qu) - :warning: This project was archived on September 25th, 2020 and is no longer maintained
 - [drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
 
 ## CodeQL 
@@ -1617,6 +1606,7 @@
 
 ## Dart 
 
+- [xterm.dart](https://github.com/TerminalStudio/xterm.dart) - 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms.
 - [gallery](https://github.com/flutter/gallery) - Flutter Gallery is a resource to help developers evaluate and use Flutter
 - [flutter-samples](https://github.com/diegoveloper/flutter-samples) - Flutter Samples
 - [helm](https://github.com/chuabingquan/helm) - 💪 Helm is an app that gamifies stress/anxiety/depression management in an actionable manner to provide relief.
@@ -2555,7 +2545,6 @@
 - [Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [homebridge-liftmaster2](https://github.com/luisiam/homebridge-liftmaster2) - LiftMaster Plugin for HomeBridge (API 2.0): https://github.com/nfarina/homebridge
-- [api-crawler](https://github.com/Fundrise/api-crawler) - A Node JS script to crawl the API and generate stub responses, provided a valid staging access token.
 - [resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 - [gitbook-cli](https://github.com/GitbookIO/gitbook-cli) - GitBook's command line interface
 - [mesh](https://github.com/chrispsn/mesh) - Visualise data and edit JavaScript code using a spreadsheet interface.
@@ -3447,10 +3436,6 @@
 
 - [swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
-## Mathematica 
-
-- [ARTv2](https://github.com/EpicGames/ARTv2) - Suite of tools for Autodesk Maya to help with skeleton creation, skeleton placement, rig creation, and final animation.
-
 ## Matlab 
 
 - [FuseBox](https://github.com/sjtrny/FuseBox) - MATLAB library for pansharpening and image fusion
@@ -4134,7 +4119,6 @@
 - [Swift-Semantic-Icons](https://github.com/SwiftDocOrg/Swift-Semantic-Icons) - Icons used by swift-doc to represent Swift code symbols.
 - [microwave-tests](https://github.com/azonenberg/microwave-tests) - RF/microwave test boards that didn't fit anywhere else
 - [Data-Engineering-HowTo](https://github.com/adilkhash/Data-Engineering-HowTo) - A list of useful resources to learn Data Engineering from scratch
-- [api-stubs](https://github.com/Fundrise/api-stubs) - A repository of stub API responses.
 - [covid-19-data](https://github.com/nytimes/covid-19-data) - An ongoing repository of data on coronavirus cases and deaths in the U.S.
 - [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [fund-my-project](https://github.com/sakofchit/fund-my-project) - A directory of verified programs that offer grants + funding towards side projects/startups
@@ -4342,7 +4326,6 @@
 - [org-macros](https://github.com/fniessen/org-macros) - Macros for Org mode
 - [mediaremotetv-protocol](https://github.com/jeanregisser/mediaremotetv-protocol) - Unofficial Apple TV remote protocol specification
 - [netv2mvp-hardware](https://github.com/bunnie/netv2mvp-hardware) - Hardware for NeTV2MVP
-- [UnrealEngine](https://github.com/EpicGames/UnrealEngine) - Unreal Engine source code
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
@@ -4553,7 +4536,6 @@
 - [macfuse](https://github.com/henrik242/macfuse) - This is a clone of https://code.google.com/p/macfuse/source/checkout from 2011.01.28.
 - [json](https://github.com/rsanchez/json) - Output ExpressionEngine data in JSON format.
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [CadenceLibs](https://github.com/markemer/CadenceLibs) - Skill code for Cadence
 - [Adafruit-Eagle-Library](https://github.com/adafruit/Adafruit-Eagle-Library) - Slowly building up a collection of parts we use here ... This file includes some library parts from microbuilder.eu Most of 'em are either Eagle parts that I've changed a little to make them easier to solder, some are 'handmade' and a few are from microbuilder.eu  Its released into the Public Domain - that means you can do whatever you want. We'd like it if you kept the author email/url in the part description, just so we can be alerted if there are errors.  Enjoy!
 - [msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [VAFieldTest](https://github.com/valexa/VAFieldTest) - CoreTelephony based signal tests
@@ -6428,7 +6410,6 @@
 - [ADDatePicker](https://github.com/abhi-dave/ADDatePicker) - A fully customizable iOS Horizontal PickerView library, written in pure swift
 - [Swift-Mac-Utility](https://github.com/erica/Swift-Mac-Utility) - Taking the Mac out of the General Utility and putting it in its own package
 - [Meter](https://github.com/ChimeHQ/Meter) - Library for interacting with MetricKit
-- [iOS](https://github.com/Fundrise/iOS) - 
 - [AztecEditor-iOS](https://github.com/wordpress-mobile/AztecEditor-iOS) - A reusable native iOS visual HTML text editor component.
 - [HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 - [carton](https://github.com/swiftwasm/carton) - 📦 Watcher, bundler, and test runner for your SwiftWasm apps
@@ -6455,7 +6436,6 @@
 - [TriangleDraw-iOS](https://github.com/triangledraw/TriangleDraw-iOS) - TriangleDraw is a pixel editor for iPad and iPhone.
 - [GitBuddy](https://github.com/WeTransfer/GitBuddy) - Your buddy in managing and maintaining GitHub repositories, and releases. Automatically generate changelogs from issues and merged pull-requests.
 - [remind](https://github.com/erica/remind) - Schedule a notification-center reminder from the command-line because sometime we just want to use tools already at hand to get on with the rest of our work.
-- [CovidByCountry](https://github.com/AdrianBinDC/CovidByCountry) - 
 - [now](https://github.com/erica/now) - Times around the world because no brain should have to work out what time it is in NYC or what time it is here when it's 4PM in London or what time 4PM in London is here...
 - [PracticalAIwithSwift1stEd-Code](https://github.com/AIwithSwift/PracticalAIwithSwift1stEd-Code) - Code for the book's first edition.
 - [bow-arch](https://github.com/bow-swift/bow-arch) - 🏛 Functional Architecture in Swift using Bow
@@ -7356,6 +7336,7 @@
 - [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.
 - [WobbleView](https://github.com/dotintent/WobbleView) - 
 - [CloudKit-Demo.Swift](https://github.com/Yalantis/CloudKit-Demo.Swift) - 
+- [CloudKit-Demo.Swift](https://github.com/Yalantis/CloudKit-Demo.Swift) - 
 - [Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit
 - [MotionKit](https://github.com/MHaroonBaig/MotionKit) - Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple  :octocat:   :satellite:
@@ -7515,7 +7496,6 @@
 - [opencompute](https://github.com/facebookarchive/opencompute) - A community of engineers whose mission is to design and enable the delivery of the most efficient server, storage and data center hardware designs for scalable computing.
 - [texlive.js](https://github.com/manuels/texlive.js) - Compiling LaTeX (TeX live) in your browser
 - [rpi-latex-thesis](https://github.com/markemer/rpi-latex-thesis) - RPI Latex Thesis Class
-- [Thesis](https://github.com/markemer/Thesis) - Mark's Masters and PhD Thesis
 
 ## TypeScript 
 
