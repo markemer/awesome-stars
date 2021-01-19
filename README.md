@@ -5840,6 +5840,7 @@
 
 ## Rust 
 
+- [bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
 - [Theseus](https://github.com/theseus-os/Theseus) - A modern experimental OS written from scratch in Rust to explore novel OS structure, state management techniques, and how to maximally leverage the power of language by shifting OS responsibilities into the compiler.
 - [redscript](https://github.com/jac3km4/redscript) - Toolkit for working with scripts used by REDengine in Cyberpunk 2077.
 - [voyager](https://github.com/mattsse/voyager) - crawl and scrape web pages in rust
@@ -5876,7 +5877,7 @@
 - [oxidize-core](https://github.com/steveftoth/oxidize-core) - Implementation of core unix utilities in rust
 - [minesweeper-rs](https://github.com/robmikh/minesweeper-rs) - A port of robmikh/Minesweeper using winrt-rs.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [windows-rs](https://github.com/microsoft/windows-rs) - Rust language projection for the Windows API
+- [windows-rs](https://github.com/microsoft/windows-rs) - Rust for the Windows API
 - [rvemu-for-book](https://github.com/d0iasm/rvemu-for-book) - Reference implementation for the book "Writing a RISC-V Emulator in Rust".
 - [smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
@@ -6304,6 +6305,7 @@
 
 ## Swift 
 
+- [FTPopOverMenu_Swift](https://github.com/liufengting/FTPopOverMenu_Swift) - FTPopOverMenu_Swift, swift version of FTPopOverMenu. FTPopOverMenu is a pop over menu for iOS which is maybe the easiest one to use. Supports both portrait and landscape. It can show from any UIView, any UIBarButtonItem and any CGRect.
 - [CoreXLSX](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format parser written in pure Swift
 - [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
 - [TermiNetwork](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
@@ -7336,7 +7338,6 @@
 - [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.
 - [WobbleView](https://github.com/dotintent/WobbleView) - 
 - [CloudKit-Demo.Swift](https://github.com/Yalantis/CloudKit-Demo.Swift) - 
-- [CloudKit-Demo.Swift](https://github.com/Yalantis/CloudKit-Demo.Swift) - 
 - [Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit
 - [MotionKit](https://github.com/MHaroonBaig/MotionKit) - Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple  :octocat:   :satellite:
@@ -7499,6 +7500,7 @@
 
 ## TypeScript 
 
+- [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - An intuitive and stylish markdown note app for the developers.
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
