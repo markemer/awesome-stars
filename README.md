@@ -132,7 +132,6 @@
 ## API Blueprint 
 
 - [XcodeServer-API-Docs](https://github.com/buildasaurs/XcodeServer-API-Docs) - Unofficial documentation of the Xcode Server API (Xcode 7 edition)
-- [api](https://github.com/cloudapp/api) - The CloudApp API
 
 ## APL 
 
@@ -155,7 +154,6 @@
 
 - [Dash-CotEditor-Plugin](https://github.com/coteditor/Dash-CotEditor-Plugin) - CotEditor script for Dash
 - [custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
-- [spillo-applescript](https://github.com/ddeville/spillo-applescript) - AppleScript examples for Spillo
 - [iterm2-finder-tools](https://github.com/peterldowns/iterm2-finder-tools) - Open iTerm2 from the Finder
 
 ## Assembly 
@@ -206,6 +204,7 @@
 
 ## C 
 
+- [mcux-sdk](https://github.com/NXPmicro/mcux-sdk) - MCUXpresso SDK
 - [circuitpython](https://github.com/adafruit/circuitpython) - CircuitPython - a Python implementation for teaching coding with microcontrollers
 - [mcurses](https://github.com/ChrisMicro/mcurses) - 
 - [remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) - remarkable2 framebuffer reversing
@@ -336,7 +335,6 @@
 - [lightwave](https://github.com/vmware/lightwave) - Identity services for traditional infrastructure, applications and containers.
 - [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [meloader](https://github.com/peterbjornx/meloader) - Linux i386 tool to load and execute ME modules.
-- [moonjit](https://github.com/moonjit/moonjit) - Just-In-Time Compiler for the Lua Programming language. Fork of LuaJIT to continue development. This project does not have an active maintainer, see https://twitter.com/siddhesh_p/status/1308594269502885889?s=20 for more detail.
 - [HomeKitADK](https://github.com/apple/HomeKitADK) - 
 - [httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
 - [Adafruit_nRF52_Bootloader](https://github.com/adafruit/Adafruit_nRF52_Bootloader) - USB-enabled bootloaders for the nRF52 BLE SoC chips
@@ -541,7 +539,6 @@
 - [sensible-side-buttons](https://github.com/archagon/sensible-side-buttons) - A macOS menu bar app that enables system-wide navigation functionality for the side buttons on third-party mice.
 - [xkeys](https://github.com/piengineering/xkeys) - X-Keys Linux Library
 - [winfile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
-- [android_device_ouya_cardhu](https://github.com/cwalker/android_device_ouya_cardhu) - Android 5.0 for OUYA (device tree)
 - [shockmac](https://github.com/NightDive-Studio/shockmac) - System Shock (PowerMac version / Official GPL Release)
 - [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Source scanning laser rangefinder
 - [stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
@@ -852,7 +849,6 @@
 - [WindowsCommunityToolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit is part of the .NET Foundation.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [pgina](https://github.com/pgina/pgina) - pGina: Open Source Windows Authentication
-- [rant3](https://github.com/TheBerkin/rant3) - (Obsolete) Archive of Rant 3.x.
 - [opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac.
 - [MarkdownViewerPlusPlus](https://github.com/nea/MarkdownViewerPlusPlus) - A Notepad++ Plugin to view a Markdown file rendered on-the-fly
 - [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
@@ -913,6 +909,7 @@
 
 ## C++ 
 
+- [f4se](https://github.com/ianpatt/f4se) - Fallout 4 Script Extender
 - [RTLSDR-Airband](https://github.com/szpajder/RTLSDR-Airband) - Multichannel AM/NFM demodulator
 - [Win32CaptureSample](https://github.com/robmikh/Win32CaptureSample) - A simple sample using the Windows.Graphics.Capture APIs in a Win32 application.
 - [CyberpunkSaveEditor](https://github.com/PixelRick/CyberpunkSaveEditor) - A tool to edit Cyberpunk 2077 sav.dat files
@@ -938,7 +935,6 @@
 - [PBRVulkan](https://github.com/Zielon/PBRVulkan) - Vulkan Real-time Path Tracer Engine
 - [shaders](https://github.com/seanbaxter/shaders) - Circle C++ shaders
 - [RaspberryPi](https://github.com/PeterLemon/RaspberryPi) - Raspberry Pi Bare Metal Assembly Programming
-- [firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [casadi](https://github.com/casadi/casadi) - CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as SUNDIALS, IPOPT etc. It can be used from C++, Python or Matlab/Octave.
 - [koryuu-fw](https://github.com/megari/koryuu-fw) - Firmware for the Koryuu transcoder
 - [fceux](https://github.com/TASVideos/fceux) - FCEUX, a NES Emulator
@@ -1075,7 +1071,6 @@
 - [floor](https://github.com/a2flo/floor) - A C++ Compute/Graphics Library and Toolchain enabling same-source CUDA/Host/Metal/OpenCL/Vulkan C++ programming and execution.
 - [swift-kstdlib](https://github.com/spevans/swift-kstdlib) - Fork of apple/swift with modifications to the stdlib to use in a bare metal kernel for use with swift-project1
 - [BlingFire](https://github.com/microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
-- [llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [my_toy_compiler](https://github.com/lsegal/my_toy_compiler) - My Toy Compiler. Read about how I did it at the homepage URL
 - [simple_wc_example](https://github.com/jonathan-beard/simple_wc_example) - simple word count example using flex/bison parser
 - [macemu](https://github.com/emaculation/macemu) - Basilisk II and SheepShaver Macintosh emulators, maintained
@@ -1163,7 +1158,6 @@
 - [libopenshot](https://github.com/OpenShot/libopenshot) - OpenShot Video Library (libopenshot) is a free, open-source project dedicated to delivering high quality video editing, animation, and playback solutions to the world. API currently supports C++, Python, and Ruby.
 - [node-gamebryo-savegames](https://github.com/Nexus-Mods/node-gamebryo-savegames) - Savegame parser for Fallout 3, Fallout NV, Fallout 4, Oblivion, Skyrim and Skyrim Special Edition
 - [loot](https://github.com/loot/loot) - A load order optimisation tool for the Elder Scrolls (Morrowind and later) and Fallout (3 and later) games.
-- [f4se-mirror](https://github.com/osvein/f4se-mirror) - This used to be a mirror. Check out the new official repo. Let me know if you still need this.
 - [f4mcm](https://github.com/reg2k/f4mcm) - The Mod Configuration Menu is a settings page for mods. It provides a central location for mod configuration, accessible via the Pause menu.
 - [rva](https://github.com/reg2k/rva) - An RVA encapsulates a version-specific relative virtual address and a version-independent address signature pattern.
 - [xdi](https://github.com/reg2k/xdi) - The Extended Dialogue Interface removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options.
@@ -2929,7 +2923,7 @@
 - [sample-message-menus-node](https://github.com/slackapi/sample-message-menus-node) - An example Slack app that demonstrates use of message menus
 - [node-slack-interactive-messages](https://github.com/slackapi/node-slack-interactive-messages) - Slack Buttons, Menus, and Dialogs made simpler for Node
 - [easy-peasy-bot](https://github.com/slackapi/easy-peasy-bot) - A template project to get you started writing Botkit bots for Slack
-- [zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files
+- [zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files in the browser
 - [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
 - [delaunator](https://github.com/mapbox/delaunator) - An incredibly fast JavaScript library for Delaunay triangulation of 2D points
 - [giddy](https://github.com/captainsafia/giddy) - A CLI wrapper around git for an improved developer experience
@@ -3016,7 +3010,7 @@
 - [yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [tmpin](https://github.com/sindresorhus/tmpin) - Add stdin support to any CLI app that accepts file input
 - [accounting.js](https://github.com/openexchangerates/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
 - [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
@@ -3362,7 +3356,7 @@
 
 ## Lua 
 
-- [BraindanceProtocol](https://github.com/WolvenKit/BraindanceProtocol) - A collection of LUA scripts to modify your Cyberpunk 2077 experience
+- [BraindanceProtocol](https://github.com/WolvenKit/BraindanceProtocol) - A GUI to modify your Cyberpunk 2077 experience
 - [Civ6-UIFiles-Restructured](https://github.com/civfanatics/Civ6-UIFiles-Restructured) - 
 - [CQUI_Community-Edition](https://github.com/civfanatics/CQUI_Community-Edition) - Civilization 6 mod - UI enhancements, reduce clicks and manage your empire faster!
 - [ProductionQueue](https://github.com/kblease/ProductionQueue) - Civilization 6 mod that adds production queuing
@@ -3497,6 +3491,7 @@
 - [vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
 - [airdrop-keychain-extractor](https://github.com/seemoo-lab/airdrop-keychain-extractor) - Extracting Apple ID Validation Record, Certificate, and Key for AirDrop
 - [sentry-cocoa](https://github.com/getsentry/sentry-cocoa) - The official Sentry SDK for iOS, tvOS, macOS, watchOS
+- [firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [plaid-link-ios](https://github.com/plaid/plaid-link-ios) - Plaid Link iOS SDK
 - [v002-Camera-Live](https://github.com/v002/v002-Camera-Live) - Live Syphon Camera
 - [fhe-toolkit-ios](https://github.com/IBM/fhe-toolkit-ios) - IBM Fully Homomorphic Encryption Toolkit For iOS
@@ -3721,7 +3716,6 @@
 - [keybase-ios](https://github.com/KeybaseApp/keybase-ios) - An iOS client for keybase.io
 - [APTimeZones](https://github.com/Alterplay/APTimeZones) - The easiest offline way to get NSTimeZone from CLLocation by folks from
 - [popping](https://github.com/schneiderandre/popping) - A collection of animation examples for iOS apps.
-- [pebble-sdk-examples](https://github.com/pebble/pebble-sdk-examples) - Examples for Pebble SDK
 - [peertalk](https://github.com/rsms/peertalk) - iOS and Mac Cocoa library for communicating over USB
 - [EasySocial](https://github.com/pjebs/EasySocial) - The Easiest and Simplest iOS library for Twitter and Facebook. Just Drop in and Use!
 - [DMRemoteRequest](https://github.com/davidmuzi/DMRemoteRequest) - iOS library which structures the handling of requests originating from an Watch
@@ -4061,7 +4055,7 @@
 - [awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 - [ME-ESP8266](https://github.com/MaloufSleep/ME-ESP8266) - Malouf Electronics - ESP8266 Dev Board
 - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-- [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers and blogs by organizations sharing their work on data science & machine learning in production.
+- [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking) - A guide for hacking unity games
 - [guides](https://github.com/swift-server/guides) - Guides for building, debugging and deploying Swift Server applications
@@ -4173,6 +4167,7 @@
 - [mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
 - [example](https://github.com/GitbookIO/example) - Simple GitBook example
 - [ossc_pcb](https://github.com/marqs85/ossc_pcb) - ossc pcb design files
+- [llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [subaru-starlink-research](https://github.com/sgayou/subaru-starlink-research) - Subaru StarLink persistent root code execution.
 - [ROCm](https://github.com/RadeonOpenCompute/ROCm) - ROCm -  Open Source Platform for HPC and Ultrascale GPU Computing
 - [xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
@@ -4349,7 +4344,6 @@
 - [gb-sketch-segmentcircle](https://github.com/design4use/gb-sketch-segmentcircle) - Sketch plugin creates circular graphics for diagrams, instrumentation and analytics.
 - [FrostyToolSuite](https://github.com/GalaxyEham/FrostyToolSuite) - This repository contains the releases for all the tools in the Frosty Suite
 - [apfs.ksy](https://github.com/cugu/apfs.ksy) - APFS filesystem format for Kaitai Struct
-- [Gibbed.MassEffectAndromeda.SaveEdit](https://github.com/gibbed/Gibbed.MassEffectAndromeda.SaveEdit) - 
 - [mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks) - List of open-source OS X frameworks.
 - [mac-apps](https://github.com/jeffreyjackson/mac-apps) - Open Source Mac Apps
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
@@ -4530,7 +4524,6 @@
 - [refind-edk2](https://github.com/snare/refind-edk2) - rEFInd EDKII build stuff
 - [dasein-cloud](https://github.com/greese/dasein-cloud) - Dasein Cloud is an Open Source cloud abstraction library for Java under the Apache Software License v2.0. REGULAR CODE COMMITS DO NOT HAPPEN AGAINST THIS REPOSITORY. This project is simply a shell with references to submodules. Visit the linked submodules for active work against a specific cloud.
 - [netv-fpga](https://github.com/bunnie/netv-fpga) - verilog FPGA code for NeTV
-- [Twitter-Bootstrap-for-Omnigraffle](https://github.com/vigetlabs/Twitter-Bootstrap-for-Omnigraffle) - Omnigraffle stencil, template, and color picker modeled after Twitter Bootstrap
 - [BrightScript.tmbundle](https://github.com/cmink/BrightScript.tmbundle) - BrightScript Bundle for TextMate and editors using TextMate bundles.
 - [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [macfuse](https://github.com/henrik242/macfuse) - This is a clone of https://code.google.com/p/macfuse/source/checkout from 2011.01.28.
@@ -4632,6 +4625,7 @@
 
 ## Perl 
 
+- [ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
 - [Perl-LanguageServer](https://github.com/richterger/Perl-LanguageServer) - Language Server for Perl
 - [openxpki](https://github.com/openxpki/openxpki) - OpenXPKI Code
 - [edge](https://github.com/zerotier/edge) - ZeroTier Edge software and root filesystem (AARCH64)
@@ -4699,6 +4693,7 @@
 
 ## Python 
 
+- [novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source markdown-like plain text editor designed for writing and organising novels. Written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform deployment.
 - [git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [ipwndfu](https://github.com/t8012/ipwndfu) - The T2 fork of the checkm8 bug
@@ -5044,7 +5039,7 @@
 - [kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [codechecker](https://github.com/Ericsson/codechecker) - CodeChecker is an analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang Tidy
 - [open-data-registry](https://github.com/awslabs/open-data-registry) - A registry of publicly available datasets on AWS
-- [frictionless-py](https://github.com/frictionlessdata/frictionless-py) - Frictionless is a framework to describe, extract, transform, and validate tabular data.
+- [frictionless-py](https://github.com/frictionlessdata/frictionless-py) - Frictionless is a framework to describe, extract, validate, and transform tabular data.
 - [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [dcos](https://github.com/dcos/dcos) - DC/OS - The Datacenter Operating System
 - [rubber-docker](https://github.com/Fewbytes/rubber-docker) - A workshop on Linux containers: Rebuild Docker from Scratch
@@ -5840,6 +5835,7 @@
 
 ## Rust 
 
+- [rant](https://github.com/rant-lang/rant) - Rant - High-level procedural templating language
 - [bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
 - [Theseus](https://github.com/theseus-os/Theseus) - A modern experimental OS written from scratch in Rust to explore novel OS structure, state management techniques, and how to maximally leverage the power of language by shifting OS responsibilities into the compiler.
 - [redscript](https://github.com/jac3km4/redscript) - Toolkit for working with scripts used by REDengine in Cyberpunk 2077.
@@ -5877,7 +5873,7 @@
 - [oxidize-core](https://github.com/steveftoth/oxidize-core) - Implementation of core unix utilities in rust
 - [minesweeper-rs](https://github.com/robmikh/minesweeper-rs) - A port of robmikh/Minesweeper using winrt-rs.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [windows-rs](https://github.com/microsoft/windows-rs) - Rust for the Windows API
+- [windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [rvemu-for-book](https://github.com/d0iasm/rvemu-for-book) - Reference implementation for the book "Writing a RISC-V Emulator in Rust".
 - [smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
@@ -6305,6 +6301,8 @@
 
 ## Swift 
 
+- [CustomizableActionSheet](https://github.com/beryu/CustomizableActionSheet) - Action sheet allows including your custom views and buttons.
+- [AnyFormatKit](https://github.com/luximetr/AnyFormatKit) - Simple text formatting in Swift
 - [FTPopOverMenu_Swift](https://github.com/liufengting/FTPopOverMenu_Swift) - FTPopOverMenu_Swift, swift version of FTPopOverMenu. FTPopOverMenu is a pop over menu for iOS which is maybe the easiest one to use. Supports both portrait and landscape. It can show from any UIView, any UIBarButtonItem and any CGRect.
 - [CoreXLSX](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format parser written in pure Swift
 - [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
