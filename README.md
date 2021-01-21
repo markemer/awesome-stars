@@ -211,6 +211,7 @@
 - [HTHSM](https://github.com/TheHumbleTransistor/HTHSM) - A framework for implementing hierarchical finite state machines (HSMs) in C code. It's a good fit for firmware projects, and helps keep your event-driven system orderly with readable code.
 - [duckyPad](https://github.com/dekuNukem/duckyPad) - Do-It-All Mechanical Macropad
 - [PlayStation_on_FPGA](https://github.com/pgate1/PlayStation_on_FPGA) - implemented PlayStation(PSX) on an FPGA.
+- [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) - Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
 - [oniguruma](https://github.com/kkos/oniguruma) - regular expression library
 - [lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
 - [uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
@@ -842,6 +843,7 @@
 - [renode](https://github.com/renode/renode) - Renode - Antmicro's virtual development framework for complex embedded systems
 - [asm-dude](https://github.com/HJLebbink/asm-dude) - Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
 - [wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [BlueMuse](https://github.com/kowalej/BlueMuse) - Windows 10 app to stream data from Muse EEG headsets via LSL (Lab Streaming Layer).
 - [t1bootstrap](https://github.com/t1lang/t1bootstrap) - Bootstrap compiler
@@ -921,7 +923,6 @@
 - [CP77HookFileName](https://github.com/WolvenKit/CP77HookFileName) - Hook filenames in Cyberpunk 2077 (used in unpack .archive)
 - [RED4ext](https://github.com/WopsS/RED4ext) - A script extender for REDengine 4.
 - [RED4ext](https://github.com/yamashi/RED4ext) - A script extender for REDengine 4.
-- [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) - Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
 - [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Time Series Visualization Tool that you deserve.
 - [meshpy](https://github.com/inducer/meshpy) - 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
@@ -1041,7 +1042,6 @@
 - [pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [STL](https://github.com/microsoft/STL) - MSVC's implementation of the C++ Standard Library.
 - [esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [PROJ](https://github.com/OSGeo/PROJ) - PROJ - Cartographic Projections and Coordinate Transformations Library
 - [cpp-osx-os_kext_return](https://github.com/pqrs-org/cpp-osx-os_kext_return) - 
 - [cpp-osx-launchctl](https://github.com/pqrs-org/cpp-osx-launchctl) - 
@@ -1222,7 +1222,7 @@
 - [aasdk](https://github.com/f1xpl/aasdk) - Library to build AndroidAuto headunit emulator
 - [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.
 - [a-plus](https://github.com/PlanetAPL/a-plus) - The A+ programming language from Morgan Stanley
-- [xeus](https://github.com/jupyter-xeus/xeus) - C++ implementation of the Jupyter kernel protocol
+- [xeus](https://github.com/jupyter-xeus/xeus) - Implementation of the Jupyter kernel protocol in C++
 - [inspector](https://github.com/inspector-repl/inspector) - A drop-anywhere C++ REPL
 - [Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
 - [rpcs3](https://github.com/Nekotekina/rpcs3) - PS3 emulator/debugger
