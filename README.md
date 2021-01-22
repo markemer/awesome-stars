@@ -843,7 +843,6 @@
 - [renode](https://github.com/renode/renode) - Renode - Antmicro's virtual development framework for complex embedded systems
 - [asm-dude](https://github.com/HJLebbink/asm-dude) - Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
 - [wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [BlueMuse](https://github.com/kowalej/BlueMuse) - Windows 10 app to stream data from Muse EEG headsets via LSL (Lab Streaming Layer).
 - [t1bootstrap](https://github.com/t1lang/t1bootstrap) - Bootstrap compiler
@@ -1042,6 +1041,7 @@
 - [pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [STL](https://github.com/microsoft/STL) - MSVC's implementation of the C++ Standard Library.
 - [esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [PROJ](https://github.com/OSGeo/PROJ) - PROJ - Cartographic Projections and Coordinate Transformations Library
 - [cpp-osx-os_kext_return](https://github.com/pqrs-org/cpp-osx-os_kext_return) - 
 - [cpp-osx-launchctl](https://github.com/pqrs-org/cpp-osx-launchctl) - 
@@ -2507,6 +2507,7 @@
 - [stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books everyone should read!
 - [wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
+- [playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [paintbynumbersgenerator](https://github.com/drake7707/paintbynumbersgenerator) - Paint by numbers generator
 - [nb](https://github.com/anvaka/nb) - Neighborhood beautification: Graph layout through message passing
 - [cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
@@ -3421,6 +3422,7 @@
 - [swiftenv-docker](https://github.com/kylef/swiftenv-docker) - This repository contains swiftenv images for Docker
 - [turtlebot2e](https://github.com/turtlebot/turtlebot2e) - 
 - [odin](https://github.com/tylerreckart/odin) - A git flavored zsh prompt
+- [http2-spec](https://github.com/httpwg/http2-spec) - Working copy of the HTTP/2 Specification
 - [PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [arm-eabi-toolchain](https://github.com/jsnyder/arm-eabi-toolchain) - Makefile & supporting patches/scripts to build a bare metal ARM EABI toolchain.
 - [spksrc](https://github.com/SynoCommunity/spksrc) - Cross compilation framework to create native packages for the Synology's NAS
@@ -5871,7 +5873,7 @@
 - [materialize](https://github.com/MaterializeInc/materialize) - Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.
 - [ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
 - [oxidize-core](https://github.com/steveftoth/oxidize-core) - Implementation of core unix utilities in rust
-- [minesweeper-rs](https://github.com/robmikh/minesweeper-rs) - A port of robmikh/Minesweeper using winrt-rs.
+- [minesweeper-rs](https://github.com/robmikh/minesweeper-rs) - A port of robmikh/Minesweeper using windows-rs.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [rvemu-for-book](https://github.com/d0iasm/rvemu-for-book) - Reference implementation for the book "Writing a RISC-V Emulator in Rust".
@@ -7511,7 +7513,6 @@
 - [actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [firetable](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
 - [mathlive](https://github.com/arnog/mathlive) - A web component for easy math input
-- [playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [vscode-caddyfile-support](https://github.com/matthewpi/vscode-caddyfile-support) - Rich Caddyfile support for Visual Studio Code
 - [vscode-swift-development-environment](https://github.com/vknabel/vscode-swift-development-environment) - New home of Swift Development Environment for VS Code
@@ -7751,7 +7752,6 @@
 
 - [sample_ccdas](https://github.com/chb/sample_ccdas) - Repository of Sample CCDA Documents -- all comers welcome!
 - [git-scribe](https://github.com/schacon/git-scribe) - basically the best way to write an ebook
-- [http2-spec](https://github.com/httpwg/http2-spec) - Working copy of the HTTP/2 Specification
 
 ## YARA 
 
