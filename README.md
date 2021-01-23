@@ -1890,7 +1890,7 @@
 - [router7](https://github.com/rtr7/router7) - a small home internet router completely written in Go
 - [novm](https://github.com/google/novm) - Experimental KVM-based VMM for containers, written in Go.
 - [nanobox](https://github.com/nanobox-io/nanobox) - The ideal platform for developers
-- [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - Terraform IBM provider https://cloud.ibm.com/docs/terraform?topic=terraform-getting-started
+- [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - Terraform on IBM provider https://cloud.ibm.com/docs/ibm-cloud-provider-for-terraform?topic=ibm-cloud-provider-for-terraform-getting-started
 - [rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud on a continuous basis with OTA updates.
 - [ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [go-ssh-examples](https://github.com/Scalingo/go-ssh-examples) - Go examples of SSH servers and clients
@@ -5005,7 +5005,7 @@
 - [hexgridgeo-py](https://github.com/gojuno/hexgridgeo-py) - GEO wrapper for HexGrid
 - [hexgrid-py](https://github.com/gojuno/hexgrid-py) - Configurable hex grid on abstract surface
 - [fbarc](https://github.com/justinlittman/fbarc) - A commandline tool and Python library for archiving data from Facebook using the Graph API.
-- [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, europeandataportal.eu/data, data.humdata.org among many other sites.
+- [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.
 - [lambda-packs](https://github.com/ryfeus/lambda-packs) - Precompiled packages for AWS Lambda
 - [foxpass-tools](https://github.com/foxpass/foxpass-tools) - Foxpass tools and utilities
 - [foxpass-setup](https://github.com/foxpass/foxpass-setup) - Scripts for setting up Foxpass integration in common environments
