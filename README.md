@@ -1128,7 +1128,7 @@
 - [sling](https://github.com/google/sling) - SLING - A natural language frame semantics parser
 - [SkyrimSETest](https://github.com/Nukem9/SkyrimSETest) - Reverse engineering TES: Skyrim Special Edition.
 - [rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
-- [EngineFixesSkyrim64](https://github.com/aers/EngineFixesSkyrim64) - WIP skse64 pluign to fix stuff in Skyrim SE (and probably VR at some point)
+- [EngineFixesSkyrim64](https://github.com/aers/EngineFixesSkyrim64) - WIP skse64 plugin to fix stuff in Skyrim SE (and probably VR at some point)
 - [CellularHelper](https://github.com/rickkas7/CellularHelper) - Handy utility functions for Particle cellular devices
 - [electron_cellular](https://github.com/rickkas7/electron_cellular) - Example code for using the Particle Electron to directly access the u-blox cellular modem
 - [JContainers](https://github.com/SilverIce/JContainers) - JSON-based data structures for Papyrus (TESV Skyrim scripting language)
@@ -2365,6 +2365,7 @@
 - [elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) - Use SQL to query Elasticsearch
 - [blade-ink](https://github.com/bladecoder/blade-ink) - Inkle Ink runtime implementation in Java
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+- [OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue) - A render management system you can deploy for visual effects and animation productions.
 - [fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) - A record-oriented store built on FoundationDB
 - [gravitee-gateway](https://github.com/gravitee-io/gravitee-gateway) - Gravitee.io - API Management - OpenSource API Gateway
 - [bazel-buildfarm](https://github.com/bazelbuild/bazel-buildfarm) - Bazel remote caching and execution service
@@ -3981,7 +3982,6 @@
 - [OmniGroup](https://github.com/omnigroup/OmniGroup) - Source for many of The Omni Group's frameworks
 - [symboliclinker](https://github.com/nickzman/symboliclinker) - A contextual menu plugin & service for Mac OS X that allows users to make symbolic links in the Finder
 - [three20](https://github.com/facebookarchive/three20) - Three20 is an Objective-C library for iPhone developers
-- [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver Project Source
 - [gitx](https://github.com/brotherbard/gitx) - Experimental fork of Pieter's nice git GUI for OS X. Includes: sidebar, fetch, pull, push, add remote, merge, cherry-pick, rebase, clone, clone to. Mac OS X 10.5+ (see wiki for screenshot)
 - [hunch-cocoa](https://github.com/rsms/hunch-cocoa) - An assortment of Cocoa — mixed extensions and additions to Cocoa
@@ -4913,7 +4913,6 @@
 - [iamer](https://github.com/percolate/iamer) - Dump and load your AWS IAM configuration into text files
 - [kicad_footprints](https://github.com/kitspace/kicad_footprints) - A collection of all the KiCad footprints on the internet
 - [ludwig](https://github.com/ludwig-ai/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
-- [OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue) - A render management system you can deploy for visual effects and animation productions.
 - [isign](https://github.com/sauce-archives/isign) - Code sign iOS applications, without proprietary Apple software or hardware
 - [GerryChain](https://github.com/leesharma/GerryChain) - Use MCMC to analyze districting plans and gerrymanders
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
@@ -6406,7 +6405,7 @@
 - [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
 - [swift-tools-support-core](https://github.com/apple/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
 - [KeyboardKit](https://github.com/danielsaidi/KeyboardKit) - KeyboardKit is a Swift library that helps you create iOS keyboard extensions.
-- [Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building apps for browsers/WebAssembly and other platforms
+- [Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
 - [swift-nio-extras](https://github.com/apple/swift-nio-extras) - Useful code around SwiftNIO.
 - [grid-compositional-layout](https://github.com/jVirus/grid-compositional-layout) - 🧲 Grid Compositional Layout is a SwiftUI 2.0 view that lays out the supplied views in a grid. Easily configurable and lazily retained [Swift 5.3, iOS 14.0+, iPadOS 14.0+, macOS 11.0(10.16)+]
 - [ADDatePicker](https://github.com/abhi-dave/ADDatePicker) - A fully customizable iOS Horizontal PickerView library, written in pure swift
@@ -7424,6 +7423,7 @@
 - [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) - An iBeacons example app for iOS 10, with Apple Watch (watchOS 3.0) support, written in Swift 3.
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
 - [cocoafob](https://github.com/glebd/cocoafob) - A set of registration code generation and verification helpers for Obj-C, Ruby (Potion Store), PHP and FastSpring
+- [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [waterwheel.swift](https://github.com/kylebrowning/waterwheel.swift) - The Waterwheel Swift SDK provides classes to natively connect iOS, macOS, tvOS, and watchOS applications to Drupal 7 and 8.
 
 ## SystemVerilog 
