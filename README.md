@@ -910,6 +910,7 @@
 
 ## C++ 
 
+- [skift](https://github.com/skiftOS/skift) - 🥑 A simple, handmade, operating system with a graphical user interface.
 - [f4se](https://github.com/ianpatt/f4se) - Fallout 4 Script Extender
 - [RTLSDR-Airband](https://github.com/szpajder/RTLSDR-Airband) - Multichannel AM/NFM demodulator
 - [Win32CaptureSample](https://github.com/robmikh/Win32CaptureSample) - A simple sample using the Windows.Graphics.Capture APIs in a Win32 application.
@@ -4848,7 +4849,7 @@
 - [imgspy](https://github.com/nkanaev/imgspy) - imgspy finds the metadata (type, size) of an image given its url by fetching as little as needed
 - [tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
 - [openelections-metadata](https://github.com/openelections/openelections-metadata) - Metadata about elections in states
-- [cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot http://cowrie.readthedocs.io
+- [cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 - [switch_sysmodule](https://github.com/yellows8/switch_sysmodule) - Custom sysmodule for Nintendo Switch for native RPC.
 - [Mayan-EDMS](https://github.com/mayan-edms/Mayan-EDMS) - Free Open Source Document Management System (mirror, no pull request or issues)
 - [edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
@@ -5977,6 +5978,7 @@
 
 ## SCSS 
 
+- [doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [XcodeBuildSettings.com](https://github.com/NSHipster/XcodeBuildSettings.com) - A convenient reference of available build settings for Xcode projects.
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [ocamlverse.github.io](https://github.com/OCamlverse/ocamlverse.github.io) - Documentation of everything relevant in the OCaml world
