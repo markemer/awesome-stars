@@ -843,6 +843,7 @@
 - [renode](https://github.com/renode/renode) - Renode - Antmicro's virtual development framework for complex embedded systems
 - [asm-dude](https://github.com/HJLebbink/asm-dude) - Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
 - [wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [BlueMuse](https://github.com/kowalej/BlueMuse) - Windows 10 app to stream data from Muse EEG headsets via LSL (Lab Streaming Layer).
 - [t1bootstrap](https://github.com/t1lang/t1bootstrap) - Bootstrap compiler
@@ -910,6 +911,7 @@
 
 ## C++ 
 
+- [ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) - Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
 - [skift](https://github.com/skiftOS/skift) - 🥑 A simple, handmade, operating system with a graphical user interface.
 - [f4se](https://github.com/ianpatt/f4se) - Fallout 4 Script Extender
 - [RTLSDR-Airband](https://github.com/szpajder/RTLSDR-Airband) - Multichannel AM/NFM demodulator
@@ -1042,7 +1044,6 @@
 - [pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [STL](https://github.com/microsoft/STL) - MSVC's implementation of the C++ Standard Library.
 - [esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [PROJ](https://github.com/OSGeo/PROJ) - PROJ - Cartographic Projections and Coordinate Transformations Library
 - [cpp-osx-os_kext_return](https://github.com/pqrs-org/cpp-osx-os_kext_return) - 
 - [cpp-osx-launchctl](https://github.com/pqrs-org/cpp-osx-launchctl) - 
@@ -1584,7 +1585,6 @@
 ## Coq 
 
 - [sail-riscv](https://github.com/rems-project/sail-riscv) - Sail RISC-V model
-- [sdr](https://github.com/ZipCPU/sdr) - A basic Soft(Gate)ware Defined Radio architecture
 
 ## Crystal 
 
@@ -2385,7 +2385,7 @@
 - [haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [ME3ModManager](https://github.com/ME3Tweaks/ME3ModManager) - Legacy mod manager for Mass Effect 3 (superceded by ME3Tweaks Mod Manager)
-- [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
+- [elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [keywhiz](https://github.com/square/keywhiz) - A system for distributing and managing secrets
 - [Prana](https://github.com/Netflix/Prana) - A sidecar for your NetflixOSS based services.
 - [android](https://github.com/owntracks/android) - OwnTracks Android App
@@ -6304,6 +6304,8 @@
 
 ## Swift 
 
+- [Alderis](https://github.com/hbang/Alderis) - iOS color picker library
+- [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
 - [CustomizableActionSheet](https://github.com/beryu/CustomizableActionSheet) - Action sheet allows including your custom views and buttons.
 - [AnyFormatKit](https://github.com/luximetr/AnyFormatKit) - Simple text formatting in Swift
 - [FTPopOverMenu_Swift](https://github.com/liufengting/FTPopOverMenu_Swift) - FTPopOverMenu_Swift, swift version of FTPopOverMenu. FTPopOverMenu is a pop over menu for iOS which is maybe the easiest one to use. Supports both portrait and landscape. It can show from any UIView, any UIBarButtonItem and any CGRect.
@@ -7691,6 +7693,7 @@
 - [openlane](https://github.com/efabless/openlane) - OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
 - [aib-phy-hardware](https://github.com/chipsalliance/aib-phy-hardware) - Advanced Interface Bus (AIB) die-to-die hardware open source
 - [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) - OpenROAD's unified application implementing an RTL-to-GDS Flow
+- [sdr](https://github.com/ZipCPU/sdr) - A basic Soft(Gate)ware Defined Radio architecture
 - [Toooba](https://github.com/bluespec/Toooba) - RISC-V Core; superscalar, out-of-order, multi-core capable; based on RISCY-OOO from MIT
 - [ao486_MiSTer](https://github.com/MiSTer-devel/ao486_MiSTer) - ao486 port for MiSTer
 - [jt12](https://github.com/jotego/jt12) - FM sound source written in Verilog, fully compatible with YM2612, YM3438 (JT12), YM2203 (JT03) and YM2610 (JT10)
