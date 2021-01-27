@@ -204,6 +204,7 @@
 
 ## C 
 
+- [sdate](https://github.com/df7cb/sdate) - never ending September date
 - [mcux-sdk](https://github.com/NXPmicro/mcux-sdk) - MCUXpresso SDK
 - [circuitpython](https://github.com/adafruit/circuitpython) - CircuitPython - a Python implementation for teaching coding with microcontrollers
 - [mcurses](https://github.com/ChrisMicro/mcurses) - 
@@ -477,7 +478,7 @@
 - [llvm-lua](https://github.com/Neopallium/llvm-lua) - Automatically exported from code.google.com/p/llvm-lua
 - [google-authenticator-libpam](https://github.com/google/google-authenticator-libpam) - 
 - [pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
-- [netv2](https://github.com/enjoy-digital/netv2) - NeTV2 SoC based on LiteX
+- [netv2](https://github.com/enjoy-digital/netv2) - Experiments with NeTV2 on LiteX
 - [xhyve-manager](https://github.com/xhyve-manager/xhyve-manager) - A simple commandline utility to manage xhyve Virtual Machines
 - [OperatingSystem](https://github.com/pdumais/OperatingSystem) - my homebrew OS
 - [windows-internals](https://github.com/LordNoteworthy/windows-internals) - My notes while studying Windows internals
@@ -911,6 +912,7 @@
 
 ## C++ 
 
+- [fontdiff](https://github.com/googlefonts/fontdiff) - tool for finding visual differences between two font versions
 - [ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) - Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
 - [skift](https://github.com/skiftOS/skift) - 🥑 A simple, handmade, operating system with a graphical user interface.
 - [f4se](https://github.com/ianpatt/f4se) - Fallout 4 Script Extender
@@ -2519,7 +2521,6 @@
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [formula-parser](https://github.com/handsontable/formula-parser) - Javascript Library parsing Excel Formulas and more
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [civ6save-editing](https://github.com/lucienmaloney/civ6save-editing) - A work in progress collection of tools and information related to editing .Civ6save files
 - [homebridge-messenger](https://github.com/potrudeau/homebridge-messenger) - Send HomeKit messages with HomeBridge (Pushover / IFTTT / Email)
 - [Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer) - View Algorithms in the Browser! - Built with ReactJs
@@ -2775,7 +2776,6 @@
 - [dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag
 - [security-headers-cloudflare-worker](https://github.com/securityheaders/security-headers-cloudflare-worker) - A Cloudflare Worker to enable Security Headers on your site.
 - [webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
-- [tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [idyll-apparatus-component](https://github.com/idyll-lang/idyll-apparatus-component) - Component base class to make it easy to integrate Apparatus into Idyll projects
@@ -3457,6 +3457,7 @@
 - [unikernels](https://github.com/roburio/unikernels) - MirageOS unikernels
 - [dns-primary-git](https://github.com/roburio/dns-primary-git) - A MirageOS unikernel acting as primary DNS server, data stored in a remote git repository
 - [qubes-mirage-firewall](https://github.com/mirage/qubes-mirage-firewall) - A Mirage firewall VM for QubesOS
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [learn-ocaml](https://github.com/ocaml-sf/learn-ocaml) - A Web Application for Learning OCaml
 - [hardcaml](https://github.com/janestreet/hardcaml) - Hardcaml is an OCaml library for designing hardware.
@@ -6356,7 +6357,7 @@
 - [swift-service-discovery](https://github.com/apple/swift-service-discovery) - 
 - [xcframework](https://github.com/jeffctown/xcframework) - A simple tool to create an XCFramework
 - [CoreTextWorkshop](https://github.com/krzyzanowskim/CoreTextWorkshop) - Take a look at the CoreText API - a foundation of layout and drawing text on macOS and iOS. In this workshop we’ll attempt to build Text Label (akin UILabel), learn about layers of CoreText API and how to use it.
-- [xcodes](https://github.com/RobotsAndPencils/xcodes) - Manage the Xcodes installed on your Mac
+- [xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [ActivityView](https://github.com/shaps80/ActivityView) - A SwiftUI view that presents a UIActivityViewController correctly on all devices.
 - [SwiftyTesseract](https://github.com/SwiftyTesseract/SwiftyTesseract) - A Swift wrapper around Tesseract for use in iOS, macOS, and Linux applications
 - [swift-algorithms](https://github.com/apple/swift-algorithms) - Swift Algorithms is an open-source package of sequence and collection algorithms, along with their related types.
@@ -7504,6 +7505,7 @@
 
 ## TypeScript 
 
+- [backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - An intuitive and stylish markdown note app for the developers.
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
@@ -7600,6 +7602,7 @@
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [el-3270](https://github.com/mflorence99/el-3270) - Electron-based 3270 Emulator
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
+- [tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
 - [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
