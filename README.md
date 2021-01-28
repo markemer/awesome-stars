@@ -1817,8 +1817,8 @@
 - [srp](https://github.com/1Password/srp) - A set of Go functions for Secure Remote Password protocol implementation in 1Password Teams
 - [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
 - [unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
-- [terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) - Terraform provider for the SecretHub Secrets Management API
-- [secrethub-go](https://github.com/secrethub/secrethub-go) - Go client library for the SecretHub Secrets Management API
+- [terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) - Terraform Provider to manage and use secrets
+- [secrethub-go](https://github.com/secrethub/secrethub-go) - Golang SDK for the SecretHub Secrets Management API
 - [secrethub-cli](https://github.com/secrethub/secrethub-cli) - A secrets management platform that every engineer can use with minimal code changes.
 - [cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) - Community-contributed images for Google Cloud Build
 - [api-linter](https://github.com/googleapis/api-linter) - A linter for APIs defined in protocol buffers.
@@ -1846,7 +1846,7 @@
 - [openfaas-cloud](https://github.com/openfaas/openfaas-cloud) - The Multi-user OpenFaaS Platform
 - [abs](https://github.com/abs-lang/abs) - Home of the ABS programming language: the joy of shell scripting.
 - [iv](https://github.com/ktye/iv) - APL interpreter and stream processor
-- [aws-lambda-container-image-converter](https://github.com/awslabs/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
+- [aws-lambda-container-image-converter](https://github.com/amazon-archives/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
 - [readahead](https://github.com/google/readahead) - readahead is a package that provides readers that enable concurrent reads from seekable or compressed files
 - [gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [go-lua](https://github.com/Shopify/go-lua) - A Lua VM in Go
@@ -2252,7 +2252,6 @@
 - [redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [congress-votes-servo](https://github.com/unitedstates/congress-votes-servo) - Tracking changes to the official U.S. House and Senate roll call votes XML data files. Monitored hourly-ish by @GovTrack/@JoshData.
-- [opendata.cern.ch](https://github.com/cernopendata/opendata.cern.ch) - Source code for the CERN Open Data portal
 - [github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [coconduct-builder](https://github.com/gembarrett/coconduct-builder) - An online tool for building a thorough and well-supported Code of Conduct specific to a community's online and/or offline environment.
 - [drupal-vm](https://github.com/geerlingguy/drupal-vm) - A VM for Drupal development
@@ -2368,7 +2367,6 @@
 - [elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) - Use SQL to query Elasticsearch
 - [blade-ink](https://github.com/bladecoder/blade-ink) - Inkle Ink runtime implementation in Java
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue) - A render management system you can deploy for visual effects and animation productions.
 - [fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) - A record-oriented store built on FoundationDB
 - [gravitee-gateway](https://github.com/gravitee-io/gravitee-gateway) - Gravitee.io - API Management - OpenSource API Gateway
 - [bazel-buildfarm](https://github.com/bazelbuild/bazel-buildfarm) - Bazel remote caching and execution service
@@ -4029,6 +4027,7 @@
 
 ## Others 
 
+- [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [A64FX](https://github.com/fujitsu/A64FX) - 
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘Awesome package manager resources :hibiscus:
@@ -4915,6 +4914,7 @@
 - [iamer](https://github.com/percolate/iamer) - Dump and load your AWS IAM configuration into text files
 - [kicad_footprints](https://github.com/kitspace/kicad_footprints) - A collection of all the KiCad footprints on the internet
 - [ludwig](https://github.com/ludwig-ai/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
+- [OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue) - A render management system you can deploy for visual effects and animation productions.
 - [isign](https://github.com/sauce-archives/isign) - Code sign iOS applications, without proprietary Apple software or hardware
 - [GerryChain](https://github.com/leesharma/GerryChain) - Use MCMC to analyze districting plans and gerrymanders
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
@@ -5281,6 +5281,7 @@
 - [aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
 - [ib-unfuck-git](https://github.com/Reflejo/ib-unfuck-git) - 
 - [invenio](https://github.com/inveniosoftware/invenio) - Invenio digital library framework
+- [opendata.cern.ch](https://github.com/cernopendata/opendata.cern.ch) - Source code for the CERN Open Data portal
 - [mdwebhook](https://github.com/dropbox/mdwebhook) - A sample app that uses webhooks to convert Markdown files to HTML.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
 - [terryfy](https://github.com/MacPython/terryfy) - Utilities for testing OSX on travis-ci.org
@@ -6305,6 +6306,8 @@
 
 ## Swift 
 
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+- [MarkdownUI](https://github.com/gonzalezreal/MarkdownUI) - Render Markdown text in SwiftUI
 - [Alderis](https://github.com/hbang/Alderis) - iOS color picker library
 - [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
 - [CustomizableActionSheet](https://github.com/beryu/CustomizableActionSheet) - Action sheet allows including your custom views and buttons.
