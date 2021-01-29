@@ -830,7 +830,7 @@
 
 - [Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
 - [CP77Tools](https://github.com/WolvenKit/CP77Tools) - Cyberpunk2077 archive modding tools.
-- [Wolven-kit](https://github.com/WolvenKit/Wolven-kit) - Mod editor/creator for RED Engine games. The point is to have an all in one tool for creating mods for the games made with the engine.
+- [Wolvenkit](https://github.com/WolvenKit/Wolvenkit) - Mod editor/creator for RED Engine games. The point is to have an all in one tool for creating mods for the games made with the engine.
 - [K4os.Compression.LZ4](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) - LZ4/LH4HC compression for .NET Standard 1.6/2.0 (formerly known as lz4net)
 - [CyberCAT](https://github.com/WolvenKit/CyberCAT) - CyberPunk 2077 Customization Assistant Tool. Work in progress Savegame editor.
 - [YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games!
@@ -912,6 +912,7 @@
 
 ## C++ 
 
+- [pelomon](https://github.com/ihaque/pelomon) - Source code for the PeloMon Bluetooth LE sensor relay and for decoding Peloton communications
 - [fontdiff](https://github.com/googlefonts/fontdiff) - tool for finding visual differences between two font versions
 - [ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) - Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
 - [skift](https://github.com/skiftOS/skift) - 🥑 A simple, handmade, operating system with a graphical user interface.
@@ -1513,7 +1514,6 @@
 - [porngram](https://github.com/sexualitics/porngram) - Code source of the Porngram ::
 - [bower-components](https://github.com/sindresorhus/bower-components) - [DEPRECATED] Site to discover Bower components
 - [recess](https://github.com/twitter/recess) - A simple and attractive code quality tool for CSS built on top of LESS
-- [requestbin](https://github.com/Runscope/requestbin) - Inspect HTTP requests. Debug webhooks. Originally created by @progrium.
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [holmes](https://github.com/redroot/holmes) - Holmes is stand-alone diagnostic CSS stylesheet that can highlight potentially invalid or erroneous HTML(5) markup by adding one class
 - [markemer.github.io](https://github.com/markemer/markemer.github.io) - GitHub User Page
@@ -4551,7 +4551,7 @@
 - [wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [google-api-php-client](https://github.com/googleapis/google-api-php-client) - A PHP client library for accessing Google APIs
 - [custom-post-type-ui](https://github.com/WebDevStudios/custom-post-type-ui) - Admin UI settings for creating custom post types and taxonomies in WordPress
-- [raspap-webgui](https://github.com/billz/raspap-webgui) - Simple AP setup & WiFi management for Debian-based devices
+- [raspap](https://github.com/billz/raspap) - Simple AP setup & WiFi management for Debian-based devices
 - [gitium](https://github.com/presslabs/gitium) - Keep all your WordPress code on git with a simple plugin and a repo
 - [minimer](https://github.com/AlxMedia/minimer) - Minimer WordPress Theme
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
