@@ -604,7 +604,6 @@
 - [riscv-fesvr](https://github.com/riscv/riscv-fesvr) - RISC-V Frontend Server
 - [amazon-freertos](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers.
 - [libmemleak](https://github.com/CarloWood/libmemleak) - A shared library that can be LD_PRELOAD-ed to show memory increments per second per backtrace on dynamically chosen time intervals.
-- [scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
 - [capstone](https://github.com/aquynh/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
 - [haxm](https://github.com/intel/haxm) - Intel® Hardware Accelerated Execution Manager (Intel® HAXM)
 - [Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS) - Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64.
@@ -2479,7 +2478,7 @@
 ## JavaScript 
 
 - [procedural-gl-react](https://github.com/felixpalmer/procedural-gl-react) - React component for the Procedural GL JS library
-- [game-cyberpunk2077](https://github.com/thor79/game-cyberpunk2077) - Adds support for Cyberpunk 2077 to Vortex.
+- [game-cyberpunk2077](https://github.com/thundergod97/game-cyberpunk2077) - Adds support for Cyberpunk 2077 to Vortex.
 - [xeokit-sdk](https://github.com/xeokit/xeokit-sdk) - JavaScript SDK for viewing high-detail, full-precision 3D BIM and AEC models in the Web browser.
 - [hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
@@ -5111,6 +5110,7 @@
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [tf-coreml](https://github.com/tf-coreml/tf-coreml) - TensorFlow to CoreML Converter
 - [swift](https://github.com/openstack/swift) - OpenStack Storage (Swift). Mirror of code maintained at opendev.org.
+- [scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
 - [PythonistaAppTemplate](https://github.com/omz/PythonistaAppTemplate) - Xcode template for building standalone apps from Pythonista (iOS) scripts
 - [aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [voxbox](https://github.com/DavidWilliams81/voxbox) - A Python package for working with voxel data
@@ -5196,7 +5196,7 @@
 - [credstash](https://github.com/fugue/credstash) - A little utility for managing credentials in the cloud
 - [flow-dashboard](https://github.com/onejgordon/flow-dashboard) - A goal, task & habit tracker + personal dashboard to focus on what matters
 - [pyup](https://github.com/pyupio/pyup) - A tool to update your project's dependencies on GitHub. Runs on pyup.io, comes with a command line interface.
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [PyOpenAirMirror](https://github.com/tzwenn/PyOpenAirMirror) - An open source AirPlay mirroring server in Python for iOS 6-8
 - [Slave-in-the-Magic-Mirror](https://github.com/espes/Slave-in-the-Magic-Mirror) - Open source implementation of AirPlay Mirroring. WIP.
