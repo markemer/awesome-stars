@@ -1670,6 +1670,7 @@
 - [melpa](https://github.com/melpa/melpa) - Recipes and build machinery for the biggest Emacs package repo
 - [xcompose](https://github.com/kragen/xcompose) - for sharing .XCompose keybindings
 - [aquamacs-emacs](https://github.com/aquamacs-emacs/aquamacs-emacs) - Aquamacs Emacs
+- [dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 
 ## Erlang 
 
@@ -2477,6 +2478,7 @@
 
 ## JavaScript 
 
+- [SierraDeathGenerator](https://github.com/foone/SierraDeathGenerator) - Generate fake screenshots from video games
 - [procedural-gl-react](https://github.com/felixpalmer/procedural-gl-react) - React component for the Procedural GL JS library
 - [game-cyberpunk2077](https://github.com/thundergod97/game-cyberpunk2077) - Adds support for Cyberpunk 2077 to Vortex.
 - [xeokit-sdk](https://github.com/xeokit/xeokit-sdk) - JavaScript SDK for viewing high-detail, full-precision 3D BIM and AEC models in the Web browser.
@@ -6275,7 +6277,6 @@
 - [ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
 - [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 - [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 
 ## Stan 
@@ -7641,7 +7642,7 @@
 - [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [kaitai_struct_webide](https://github.com/kaitai-io/kaitai_struct_webide) - Online editor / visualizer for Kaitai Struct .ksy files
-- [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
+- [nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
 - [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [peril](https://github.com/danger/peril) - ☢️ Serious and immediate danger.
