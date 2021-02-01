@@ -347,7 +347,6 @@
 - [ia32-doc](https://github.com/wbenny/ia32-doc) - IA32-doc is a project which aims to put as many definitions from the Intel Manual into machine-processable format as possible
 - [gbhv](https://github.com/Gbps/gbhv) - Simple x86-64 VT-x Hypervisor with EPT Hooking
 - [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
-- [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 - [pspg](https://github.com/okbob/pspg) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.
 - [ljx](https://github.com/katlogic/ljx) - LuaJIT with native 5.2 and 5.3 support
@@ -1040,6 +1039,7 @@
 - [llvm-tutor](https://github.com/banach-space/llvm-tutor) - A collection of out-of-tree LLVM passes for teaching and learning
 - [LjTools](https://github.com/rochus-keller/LjTools) - LuaJIT 2.0 bytecode parser, viewer, assembler and test VM. Lua 5.1 parser, IDE and debugger.
 - [Internet-Hosting-Tool](https://github.com/moonlight-stream/Internet-Hosting-Tool) - Enable Moonlight streaming from your PC over the Internet with no configuration required
+- [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [libriscv](https://github.com/fwsGonzo/libriscv) - C++17 RISC-V RV32GC / RV64GC userspace emulator library
 - [gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
 - [fabpide2](https://github.com/oxplot/fabpide2) - STUSB4500 Breakout — Stand-alone USB PD Sink Controller
@@ -1703,6 +1703,7 @@
 
 ## Go 
 
+- [go-fluent-ffmpeg](https://github.com/modfy/go-fluent-ffmpeg) - A Go implementation of fluent-ffmpeg
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for 'myrepos' to work with.
 - [gpm](https://github.com/WolvenKit/gpm) - gpm or Game Package Manager is a tool for downloading, installing, uninstalling, building, and publishing mod packages
