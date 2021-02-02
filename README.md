@@ -3945,7 +3945,7 @@
 - [TMCache](https://github.com/TumblrArchive/TMCache) - Fast parallel object cache for iOS and OS X.
 - [GrowingTextView](https://github.com/HansPinckaers/GrowingTextView) - [UNMAINTAINED] An UITextView which grows/shrinks with the text and starts scrolling when the content reaches a certain number of lines. Similar to the one Apple uses in the SMS-app. See blog-post for a small screencast.
 - [PHFComposeBarView](https://github.com/fphilipe/PHFComposeBarView) - Compose bar from iOS 7 Messages.app
-- [xctool](https://github.com/facebook/xctool) - An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
+- [xctool](https://github.com/facebookarchive/xctool) - An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
 - [Alcatraz](https://github.com/alcatraz/Alcatraz) - Package manager for Xcode
 - [NSDate-TimeAgo](https://github.com/kevinlawler/NSDate-TimeAgo) - A "time ago", "time since", "relative date", or "fuzzy date" category for NSDate and iOS, Objective-C, Cocoa Touch, iPhone, iPad
 - [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand.
@@ -4249,7 +4249,6 @@
 - [inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [rakuguide](https://github.com/hankache/rakuguide) - The Raku Guide
-- [twilio-voice-ios](https://github.com/twilio/twilio-voice-ios) - Programmable Voice SDK by Twilio
 - [twilio-chat-ios](https://github.com/twilio/twilio-chat-ios) - Carthage releases
 - [awesome-cocoapods](https://github.com/freeskys/awesome-cocoapods) - Awesome list for cocoapods support libraries
 - [DataJournalismTextbook](https://github.com/datajtext/DataJournalismTextbook) - The main repository for a collaborative text on data journalism.
@@ -6865,6 +6864,7 @@
 - [FloatingPointApproximation](https://github.com/Flight-School/FloatingPointApproximation) - A correct way to determine if two floating-point numbers are approximately equal to one another in Swift
 - [Kitura-CredentialsHTTP](https://github.com/Kitura/Kitura-CredentialsHTTP) - A plugin for the Kitura-Credentials framework that authenticates using HTTP Basic and Digest authentication
 - [example-package-dealer](https://github.com/apple/example-package-dealer) - Example package for use with the Swift Package Manager
+- [twilio-voice-ios](https://github.com/twilio/twilio-voice-ios) - Programmable Voice SDK by Twilio
 - [twilio-video-ios](https://github.com/twilio/twilio-video-ios) - Programmable Video SDK by Twilio
 - [GoogleAPISwiftClient](https://github.com/mattwyskiel/GoogleAPISwiftClient) - A Google API Client for Cocoa and Cocoa Touch in 2015
 - [CurrencyConverter](https://github.com/Flight-School/CurrencyConverter) - Utilities for doing currency conversion with the Money library
