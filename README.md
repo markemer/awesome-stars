@@ -3597,7 +3597,6 @@
 - [blink](https://github.com/holzschu/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase iOS SDK
 - [DRKonamiCode](https://github.com/objectiveSee/DRKonamiCode) - The Konami Code gesture recognizer for iOS.
-- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [detect.location](https://github.com/KrauseFx/detect.location) - An easy way to access the user's iOS location data without actually having access
 - [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 - [Sketch-Toolbox](https://github.com/shahruz/Sketch-Toolbox) - A plugin manager for Sketch.app
@@ -3803,7 +3802,7 @@
 - [EasyTimeline](https://github.com/mmislam101/EasyTimeline) - An easy timeline class for your timeline needs
 - [Ono](https://github.com/mattt/Ono) - A sensible way to deal with XML & HTML for iOS & macOS
 - [DictionaryKit](https://github.com/mattt/DictionaryKit) - An Objective-C Wrapper for Private Dictionary Services on Mac OS X
-- [Shimmer](https://github.com/facebook/Shimmer) - An easy way to add a simple, shimmering effect to any view in an iOS app.
+- [Shimmer](https://github.com/facebookarchive/Shimmer) - An easy way to add a simple, shimmering effect to any view in an iOS app.
 - [Navajo](https://github.com/mattt/Navajo) - Password Validator & Strength Evaluator
 - [MBSliderView](https://github.com/mattlawer/MBSliderView) - An iOS control that looks like the 'Slide to unlock' slider
 - [CRToast](https://github.com/cruffenach/CRToast) - A modern iOS toast view that can fit your notification needs
@@ -4552,7 +4551,7 @@
 - [wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [google-api-php-client](https://github.com/googleapis/google-api-php-client) - A PHP client library for accessing Google APIs
 - [custom-post-type-ui](https://github.com/WebDevStudios/custom-post-type-ui) - Admin UI settings for creating custom post types and taxonomies in WordPress
-- [raspap](https://github.com/billz/raspap) - Simple AP setup & WiFi management for Debian-based devices
+- [raspap](https://github.com/billz/raspap) - Simple wireless AP setup & management for Debian-based devices
 - [gitium](https://github.com/presslabs/gitium) - Keep all your WordPress code on git with a simple plugin and a repo
 - [minimer](https://github.com/AlxMedia/minimer) - Minimer WordPress Theme
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -7027,6 +7026,7 @@
 - [SourceDocs](https://github.com/eneko/SourceDocs) - Generate Markdown documentation from source code
 - [highway](https://github.com/ChristianKienle/highway) - Automate development tasks using Swift.
 - [DoctorPretty](https://github.com/bkase/DoctorPretty) - Wadler's "A prettier printer" embedded pretty-printer DSL for Swift
+- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [BulletinBoard](https://github.com/alexisakers/BulletinBoard) - General-purpose contextual cards for iOS
 - [Mint](https://github.com/yonaskolb/Mint) - A package manager that installs and runs executable Swift packages
 - [Time](https://github.com/dreymonde/Time) - 🕰 Type-safe time calculations in Swift, powered by generics
