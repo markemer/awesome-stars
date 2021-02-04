@@ -204,6 +204,7 @@
 
 ## C 
 
+- [esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for ESP32.
 - [sdate](https://github.com/df7cb/sdate) - never ending September date
 - [mcux-sdk](https://github.com/NXPmicro/mcux-sdk) - MCUXpresso SDK
 - [circuitpython](https://github.com/adafruit/circuitpython) - CircuitPython - a Python implementation for teaching coding with microcontrollers
@@ -216,7 +217,6 @@
 - [oniguruma](https://github.com/kkos/oniguruma) - regular expression library
 - [lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
 - [uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
-- [cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux.
 - [rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
 - [learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
 - [ChibiOS](https://github.com/qmk/ChibiOS) - Mirror of the ChibiOS SVN repository
@@ -910,6 +910,7 @@
 
 ## C++ 
 
+- [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac
 - [pelomon](https://github.com/ihaque/pelomon) - Source code for the PeloMon Bluetooth LE sensor relay and for decoding Peloton communications
 - [fontdiff](https://github.com/googlefonts/fontdiff) - tool for finding visual differences between two font versions
 - [ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) - Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
@@ -2254,7 +2255,6 @@
 - [code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [congress-votes-servo](https://github.com/unitedstates/congress-votes-servo) - Tracking changes to the official U.S. House and Senate roll call votes XML data files. Monitored hourly-ish by @GovTrack/@JoshData.
 - [github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-- [coconduct-builder](https://github.com/gembarrett/coconduct-builder) - An online tool for building a thorough and well-supported Code of Conduct specific to a community's online and/or offline environment.
 - [drupal-vm](https://github.com/geerlingguy/drupal-vm) - A VM for Drupal development
 - [HorizonSDK-iOS](https://github.com/HorizonCamera/HorizonSDK-iOS) - Horizon SDK for iOS
 - [otto](https://github.com/hashicorp/otto) - Development and deployment made easy.
@@ -2479,6 +2479,7 @@
 
 ## JavaScript 
 
+- [prs-merged-since](https://github.com/suchipi/prs-merged-since) - CLI and JS API to list all PRs merged into a GitHub repo since a given tag
 - [SierraDeathGenerator](https://github.com/foone/SierraDeathGenerator) - Generate fake screenshots from video games
 - [procedural-gl-react](https://github.com/felixpalmer/procedural-gl-react) - React component for the Procedural GL JS library
 - [game-cyberpunk2077](https://github.com/thundergod97/game-cyberpunk2077) - Adds support for Cyberpunk 2077 to Vortex.
@@ -3045,6 +3046,7 @@
 - [d3-hexbin](https://github.com/d3/d3-hexbin) - Group two-dimensional points into hexagonal bins.
 - [doi2bib](https://github.com/davidagraf/doi2bib) - give us a DOI and we'll do our best to get you the BibTeX entry
 - [github-gmail](https://github.com/muan/github-gmail) - [WebExtension] Open GitHub notifications with shortcuts in Gmail.
+- [coconduct-builder](https://github.com/gembarrett/coconduct-builder) - An online tool for building a thorough and well-supported Code of Conduct specific to a community's online and/or offline environment.
 - [kbsslenforcer](https://github.com/kbitdk/kbsslenforcer) - Automatic security, browse encrypted
 - [sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
@@ -4551,7 +4553,7 @@
 - [wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [google-api-php-client](https://github.com/googleapis/google-api-php-client) - A PHP client library for accessing Google APIs
 - [custom-post-type-ui](https://github.com/WebDevStudios/custom-post-type-ui) - Admin UI settings for creating custom post types and taxonomies in WordPress
-- [raspap](https://github.com/billz/raspap) - Simple wireless AP setup & management for Debian-based devices
+- [raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
 - [gitium](https://github.com/presslabs/gitium) - Keep all your WordPress code on git with a simple plugin and a repo
 - [minimer](https://github.com/AlxMedia/minimer) - Minimer WordPress Theme
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -5840,6 +5842,8 @@
 
 ## Rust 
 
+- [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
+- [GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba
 - [rant](https://github.com/rant-lang/rant) - Rant - High-level procedural templating language
 - [bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
 - [Theseus](https://github.com/theseus-os/Theseus) - A modern experimental OS written from scratch in Rust to explore novel OS structure, state management techniques, and how to maximally leverage the power of language by shifting OS responsibilities into the compiler.
@@ -6044,8 +6048,10 @@
 
 ## Shell 
 
+- [yoe-distro](https://github.com/YoeDistro/yoe-distro) - Embedded Linux distribution optimized for product development (based on OE/Yocto)
 - [markdown-to-google-doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive
 - [toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
+- [cfetch](https://github.com/kluntze/cfetch) - A simple system information tool for Linux.
 - [RPi4](https://github.com/pftf/RPi4) - Raspberry Pi 4 UEFI Firmware Images [EXPERIMENTAL]
 - [bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
 - [macos-installer-builder](https://github.com/KosalaHerath/macos-installer-builder) - Generate macOS installers for your applications and products from one command
@@ -6306,6 +6312,7 @@
 
 ## Swift 
 
+- [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient & secure logging during development & release in Swift 3, 4 & 5
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 - [MarkdownUI](https://github.com/gonzalezreal/MarkdownUI) - Render Markdown text in SwiftUI
 - [Alderis](https://github.com/hbang/Alderis) - iOS color picker library
