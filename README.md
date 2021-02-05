@@ -40,7 +40,6 @@
   - [Fortran](#fortran)
   - [G-code](#g-code)
   - [GLSL](#glsl)
-  - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HCL](#hcl)
@@ -204,6 +203,7 @@
 
 ## C 
 
+- [akt](https://github.com/blakemcbride/akt) - Keyboard handler for gnu-apl on Linux
 - [esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for ESP32.
 - [sdate](https://github.com/df7cb/sdate) - never ending September date
 - [mcux-sdk](https://github.com/NXPmicro/mcux-sdk) - MCUXpresso SDK
@@ -910,6 +910,8 @@
 
 ## C++ 
 
+- [STM32RTC](https://github.com/stm32duino/STM32RTC) - Arduino RTC library for STM32.
+- [LifeBrush](https://github.com/timdecode/LifeBrush) - A toolkit for painting agent-based mesoscale molecular simulations and illustrations.
 - [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac
 - [pelomon](https://github.com/ihaque/pelomon) - Source code for the PeloMon Bluetooth LE sensor relay and for decoding Peloton communications
 - [fontdiff](https://github.com/googlefonts/fontdiff) - tool for finding visual differences between two font versions
@@ -1000,7 +1002,6 @@
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor) - ShaderConductor is a tool designed for cross-compiling HLSL to other shading languages
 - [imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
-- [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [entity-manager](https://github.com/openbmc/entity-manager) - Run-time JSON driven system configuration manager
 - [mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) - Mitsuba 2: A Retargetable Forward and Inverse Renderer
 - [control-health-regen](https://github.com/reg2k/control-health-regen) - A mod for Control that adds configurable in-combat / out-of-combat health regeneration.
@@ -1441,6 +1442,7 @@
 - [kicad-packages3D](https://github.com/KiCad/kicad-packages3D) - Official KiCad 3D model libraries for rendering and MCAD integration
 - [kicad-footprints](https://github.com/KiCad/kicad-footprints) - Official KiCad Footprint Libraries for Kicad version 5
 - [kicad-symbols](https://github.com/KiCad/kicad-symbols) - Official KiCad schematic symbol libraries for Kicad 5
+- [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [swift-cmake-examples](https://github.com/compnerd/swift-cmake-examples) - Swift example projects
 - [flutter_embedded](https://github.com/jwinarske/flutter_embedded) - Embedded Flutter
 - [toolchain-infrastructure](https://github.com/compnerd/toolchain-infrastructure) - infrastructure for building a complete swift, clang, llvm toolchain
@@ -1698,12 +1700,9 @@
 - [ayab-hardware](https://github.com/AllYarnsAreBeautiful/ayab-hardware) - Contains the schematics and layouts for the AYAB Arduino shield
 - [thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders.
 
-## Gherkin 
-
-- [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
-
 ## Go 
 
+- [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [go-fluent-ffmpeg](https://github.com/modfy/go-fluent-ffmpeg) - A Go implementation of fluent-ffmpeg
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for 'myrepos' to work with.
@@ -2254,6 +2253,7 @@
 - [redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [congress-votes-servo](https://github.com/unitedstates/congress-votes-servo) - Tracking changes to the official U.S. House and Senate roll call votes XML data files. Monitored hourly-ish by @GovTrack/@JoshData.
+- [opendata.cern.ch](https://github.com/cernopendata/opendata.cern.ch) - Source code for the CERN Open Data portal
 - [github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [drupal-vm](https://github.com/geerlingguy/drupal-vm) - A VM for Drupal development
 - [HorizonSDK-iOS](https://github.com/HorizonCamera/HorizonSDK-iOS) - Horizon SDK for iOS
@@ -3268,6 +3268,7 @@
 
 ## Jupyter Notebook 
 
+- [cat-localizer](https://github.com/filipsPL/cat-localizer) - Localize your cat at home with BLE beacon, ESP32s, and Machine Learning
 - [databaker](https://github.com/sensiblecodeio/databaker) - Command line tool to convert spreadsheets to databases, made for the UK's Office for National Statistics.
 - [covid19](https://github.com/necsi/covid19) - This is the repository for all of the code that necsi is writing about covid19, along with documentation.
 - [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
@@ -4030,6 +4031,7 @@
 
 ## Others 
 
+- [6502-kicad-library](https://github.com/Alarm-Siren/6502-kicad-library) - Kicad Schematic Library for the 6502 microprocessor and associated ecosystem (MOS, CSG, etc)
 - [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [A64FX](https://github.com/fujitsu/A64FX) - 
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -5284,7 +5286,6 @@
 - [aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
 - [ib-unfuck-git](https://github.com/Reflejo/ib-unfuck-git) - 
 - [invenio](https://github.com/inveniosoftware/invenio) - Invenio digital library framework
-- [opendata.cern.ch](https://github.com/cernopendata/opendata.cern.ch) - Source code for the CERN Open Data portal
 - [mdwebhook](https://github.com/dropbox/mdwebhook) - A sample app that uses webhooks to convert Markdown files to HTML.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
 - [terryfy](https://github.com/MacPython/terryfy) - Utilities for testing OSX on travis-ci.org
@@ -6245,6 +6246,7 @@
 - [create_os_x_vm_install_dmg](https://github.com/rtrouton/create_os_x_vm_install_dmg) - 
 - [osx-vm-templates](https://github.com/timsutton/osx-vm-templates) - macOS templates for Packer and VeeWee.
 - [Coveralls-iOS](https://github.com/azu/Coveralls-iOS) - iOS/Objective-C: minimum setup for Coveralls.
+- [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [spksrc-vagrant](https://github.com/cytec/spksrc-vagrant) - 
 - [mirage-vagrant-vms](https://github.com/mor1/mirage-vagrant-vms) - Packer and Vagrant images for building Mirage
 - [Mac-Scripts](https://github.com/MacMiniVault/Mac-Scripts) - Automation scripts focused around Mac OS X Server
@@ -6312,6 +6314,8 @@
 
 ## Swift 
 
+- [environment](https://github.com/wlisac/environment) - Type-safe environment variables in Swift.
+- [Cancellor](https://github.com/icanzilb/Cancellor) - Bind multiple cancellables to the lifetime of another object like a view controller.
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient & secure logging during development & release in Swift 3, 4 & 5
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 - [MarkdownUI](https://github.com/gonzalezreal/MarkdownUI) - Render Markdown text in SwiftUI
@@ -7517,6 +7521,7 @@
 
 ## TypeScript 
 
+- [vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) - Visual Studio Code extension for ESP-IDF projects
 - [backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - An intuitive and stylish markdown note app for the developers.
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
