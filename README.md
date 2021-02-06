@@ -274,7 +274,6 @@
 - [sol](https://github.com/rsms/sol) - A sunny little virtual machine
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [Smalltalk](https://github.com/dbanay/Smalltalk) - By the Bluebook implementation of Smalltalk-80
-- [defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [romfont](https://github.com/spacerace/romfont) - VGA and BIOS rom font extraction
 - [microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 - [ltui](https://github.com/tboox/ltui) - 🍖 A cross-platform terminal ui library based on Lua
@@ -910,6 +909,7 @@
 
 ## C++ 
 
+- [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [STM32RTC](https://github.com/stm32duino/STM32RTC) - Arduino RTC library for STM32.
 - [LifeBrush](https://github.com/timdecode/LifeBrush) - A toolkit for painting agent-based mesoscale molecular simulations and illustrations.
 - [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac
@@ -989,6 +989,7 @@
 - [fontedit](https://github.com/ayoy/fontedit) - A desktop app to import, edit and export fonts as byte arrays for use in embedded systems
 - [plywood](https://github.com/arc80/plywood) - The Plywood C++ Framework
 - [GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
+- [defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [cppwinrt](https://github.com/microsoft/cppwinrt) - C++ language projection for the Windows Runtime
 - [imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor using ImGui
 - [ImWindow](https://github.com/thennequin/ImWindow) - Window and GUI system based on Dear ImGui from OCornut
@@ -1715,7 +1716,7 @@
 - [xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
 - [eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-- [crowdsec](https://github.com/crowdsecurity/crowdsec) - Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.
+- [crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - an open-source massively multiplayer firewall able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global IP reputation database to protect the user network.
 - [wally-cli](https://github.com/zsa/wally-cli) - Flash your ZSA Keyboard the EZ way.
 - [wally](https://github.com/zsa/wally) - The Flash(ing tool)
 - [wireguard-windows](https://github.com/WireGuard/wireguard-windows) - Download WireGuard for Windows at https://www.wireguard.com/install . This repo is a mirror only. Official repository is at https://git.zx2c4.com/wireguard-windows
@@ -2346,6 +2347,7 @@
 - [skija](https://github.com/JetBrains/skija) - Skia bindings for Java
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [karate](https://github.com/intuit/karate) - Test Automation Made Simple
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [tabula-java](https://github.com/tabulapdf/tabula-java) - Extract tables from PDF files
 - [maptool](https://github.com/RPTools/maptool) - Virtual Tabletop for playing roleplaying games with remote players or face to face.
 - [TrashEmail](https://github.com/r0hi7/TrashEmail) - A hosted disposable email telegram bot; Extremely privacy friendly; Proudly hosted for community.
@@ -3460,7 +3462,6 @@
 - [unikernels](https://github.com/roburio/unikernels) - MirageOS unikernels
 - [dns-primary-git](https://github.com/roburio/dns-primary-git) - A MirageOS unikernel acting as primary DNS server, data stored in a remote git repository
 - [qubes-mirage-firewall](https://github.com/mirage/qubes-mirage-firewall) - A Mirage firewall VM for QubesOS
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [learn-ocaml](https://github.com/ocaml-sf/learn-ocaml) - A Web Application for Learning OCaml
 - [hardcaml](https://github.com/janestreet/hardcaml) - Hardcaml is an OCaml library for designing hardware.
@@ -5144,7 +5145,7 @@
 - [openelections-data-ny](https://github.com/openelections/openelections-data-ny) - Election results for New York
 - [openelections-core](https://github.com/openelections/openelections-core) - Core repo for election results data acquisition, transformation and output.
 - [honssh](https://github.com/tnich/honssh) - HonSSH is designed to log all SSH communications between a client and server.
-- [yq](https://github.com/kislyuk/yq) - Command-line YAML and XML processor - jq wrapper for YAML/XML documents
+- [yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [inter](https://github.com/rsms/inter) - The Inter font family
 - [octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [python-graphql-client](https://github.com/prisma-labs/python-graphql-client) - Simple GraphQL client for Python 2.7+
@@ -6314,6 +6315,7 @@
 
 ## Swift 
 
+- [atlantis](https://github.com/ProxymanApp/atlantis) - A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
 - [environment](https://github.com/wlisac/environment) - Type-safe environment variables in Swift.
 - [Cancellor](https://github.com/icanzilb/Cancellor) - Bind multiple cancellables to the lifetime of another object like a view controller.
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient & secure logging during development & release in Swift 3, 4 & 5
