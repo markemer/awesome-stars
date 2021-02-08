@@ -1830,7 +1830,6 @@
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [go-samples](https://github.com/googleworkspace/go-samples) - Go samples for Google Workspace APIs
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
-- [git-tidy](https://github.com/drewwyatt/git-tidy) - Delete local git branches that have a remote tracking branch that is ": gone".
 - [nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [generate-ssh-configs](https://github.com/danihodovic/generate-ssh-configs) - Automatically generate ssh config files for your cloud servers
 - [dbdot](https://github.com/akarki15/dbdot) - Generate DOT description for postgres db schema
@@ -3271,6 +3270,7 @@
 
 ## Jupyter Notebook 
 
+- [introtodeeplearning](https://github.com/aamini/introtodeeplearning) - Lab Materials for MIT 6.S191: Introduction to Deep Learning
 - [cat-localizer](https://github.com/filipsPL/cat-localizer) - Localize your cat at home with BLE beacon, ESP32s, and Machine Learning
 - [databaker](https://github.com/sensiblecodeio/databaker) - Command line tool to convert spreadsheets to databases, made for the UK's Office for National Statistics.
 - [covid19](https://github.com/necsi/covid19) - This is the repository for all of the code that necsi is writing about covid19, along with documentation.
@@ -4702,6 +4702,8 @@
 
 ## Python 
 
+- [finance-dl](https://github.com/jbms/finance-dl) - Tools for automatically downloading/scraping personal financial data.
+- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
 - [inkscape-raytracing](https://github.com/damienBloch/inkscape-raytracing) - 
 - [novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source markdown-like plain text editor designed for writing and organising novels. Written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform deployment.
 - [git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
@@ -4945,7 +4947,7 @@
 - [brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud
 - [freeipa](https://github.com/freeipa/freeipa) - Mirror of FreeIPA, an integrated security information management solution
 - [fbkutils](https://github.com/facebook/fbkutils) - A variety of utilities built and maintained by Facebook's Linux Kernel Team that we wish to share with the community.
-- [memegen](https://github.com/jacebrowning/memegen) - The open source meme generator.
+- [memegen](https://github.com/jacebrowning/memegen) - The free and open source meme generator.
 - [freesample](https://github.com/azonenberg/freesample) - High performance sampling oscilloscope based on INTEGRALSTICK
 - [spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 - [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
@@ -5937,6 +5939,7 @@
 - [rust-hypervisor-firmware](https://github.com/cloud-hypervisor/rust-hypervisor-firmware) - 
 - [org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [orange_slice](https://github.com/gamozolabs/orange_slice) - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost
+- [git-tidy](https://github.com/drewwyatt/git-tidy) - Delete local git branches that have a remote tracking branch that is ": gone".
 - [lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
 - [wand-of-rust](https://github.com/influenza/wand-of-rust) - Rust bindings for ImageMagick's MagickWand API
 - [luster](https://github.com/kyren/luster) - An experimental Lua VM implemented in pure Rust
@@ -6052,6 +6055,7 @@
 
 ## Shell 
 
+- [hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [yoe-distro](https://github.com/YoeDistro/yoe-distro) - Embedded Linux distribution optimized for product development (based on OE/Yocto)
 - [markdown-to-google-doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive
 - [toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
@@ -6317,6 +6321,8 @@
 
 ## Swift 
 
+- [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 4.2
+- [iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant Companion for iOS
 - [atlantis](https://github.com/ProxymanApp/atlantis) - A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
 - [environment](https://github.com/wlisac/environment) - Type-safe environment variables in Swift.
 - [Cancellor](https://github.com/icanzilb/Cancellor) - Bind multiple cancellables to the lifetime of another object like a view controller.
