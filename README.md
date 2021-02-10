@@ -47,6 +47,7 @@
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
+  - [Hy](#hy)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jsonnet](#jsonnet)
@@ -203,6 +204,8 @@
 
 ## C 
 
+- [PicoDVI](https://github.com/Wren6991/PicoDVI) - 
+- [neo-mc](https://github.com/neo-mc/neo-mc) - A Midnight Commander fork with scripting and other features.
 - [akt](https://github.com/blakemcbride/akt) - Keyboard handler for gnu-apl on Linux
 - [esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for ESP32.
 - [sdate](https://github.com/df7cb/sdate) - never ending September date
@@ -1652,6 +1655,7 @@
 
 ## Emacs Lisp 
 
+- [latex-preview-pane](https://github.com/jsinglet/latex-preview-pane) - Makes LaTeX editing less painful by providing a updatable preview pane
 - [calctex](https://github.com/johnbcoughlin/calctex) - 
 - [dotemacs](https://github.com/bzg/dotemacs) - My .emacs.el file.
 - [projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
@@ -2339,6 +2343,10 @@
 
 - [ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
 - [openfl](https://github.com/openfl/openfl) - The Open Flash Library for creative expression on the web, desktop, mobile and consoles.
+
+## Hy 
+
+- [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 
 ## Java 
 
@@ -3602,6 +3610,7 @@
 - [blink](https://github.com/holzschu/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase iOS SDK
 - [DRKonamiCode](https://github.com/objectiveSee/DRKonamiCode) - The Konami Code gesture recognizer for iOS.
+- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [detect.location](https://github.com/KrauseFx/detect.location) - An easy way to access the user's iOS location data without actually having access
 - [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 - [Sketch-Toolbox](https://github.com/shahruz/Sketch-Toolbox) - A plugin manager for Sketch.app
@@ -4947,7 +4956,7 @@
 - [brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud
 - [freeipa](https://github.com/freeipa/freeipa) - Mirror of FreeIPA, an integrated security information management solution
 - [fbkutils](https://github.com/facebook/fbkutils) - A variety of utilities built and maintained by Facebook's Linux Kernel Team that we wish to share with the community.
-- [memegen](https://github.com/jacebrowning/memegen) - The free and open source meme generator.
+- [memegen](https://github.com/jacebrowning/memegen) - The free and open source API to generate memes.
 - [freesample](https://github.com/azonenberg/freesample) - High performance sampling oscilloscope based on INTEGRALSTICK
 - [spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 - [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
@@ -5159,7 +5168,7 @@
 - [translate](https://github.com/translate/translate) - Useful localization tools with Python API for building localization & translation systems
 - [virtaal](https://github.com/translate/virtaal) - Easy-to-use and powerful offline translation tool
 - [pootle](https://github.com/translate/pootle) - Online translation tool
-- [PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
+- [PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 - [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
 - [roamer](https://github.com/abaldwin88/roamer) - The Plain Text File Manager
 - [me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
@@ -5173,7 +5182,6 @@
 - [pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer
 - [plasma](https://github.com/plasma-disassembler/plasma) - Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 - [jupyter-c-kernel](https://github.com/brendan-rius/jupyter-c-kernel) - Minimal Jupyter C kernel
-- [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - The x86 processor fuzzer
 - [aliyun-odps-python-sdk](https://github.com/aliyun/aliyun-odps-python-sdk) - ODPS Python SDK and data analysis framework
 - [pget](https://github.com/halilozercan/pget) - Fast download in chunks
@@ -5848,6 +5856,7 @@
 
 ## Rust 
 
+- [texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba
 - [rant](https://github.com/rant-lang/rant) - Rant - High-level procedural templating language
@@ -7047,7 +7056,6 @@
 - [SourceDocs](https://github.com/eneko/SourceDocs) - Generate Markdown documentation from source code
 - [highway](https://github.com/ChristianKienle/highway) - Automate development tasks using Swift.
 - [DoctorPretty](https://github.com/bkase/DoctorPretty) - Wadler's "A prettier printer" embedded pretty-printer DSL for Swift
-- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [BulletinBoard](https://github.com/alexisakers/BulletinBoard) - General-purpose contextual cards for iOS
 - [Mint](https://github.com/yonaskolb/Mint) - A package manager that installs and runs executable Swift packages
 - [Time](https://github.com/dreymonde/Time) - 🕰 Type-safe time calculations in Swift, powered by generics
