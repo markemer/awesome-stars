@@ -403,7 +403,7 @@
 - [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library
 - [bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
 - [sixxsd](https://github.com/massar/sixxsd) - sixxsd - The SixXS Daemon - IPv6 Tunnel & Routing Engine
-- [SVT-AV1](https://github.com/AOMediaCodec/SVT-AV1) - Welcome to the GitHub repo for the SVT-AV1!
+- [SVT-AV1](https://github.com/AOMediaCodec/SVT-AV1) - Welcome to the GitHub repo for the SVT-AV1! This repo is set to read-only for archiving purposes. Please join us at https://gitlab.com/AOMediaCodec/SVT-AV1. We look forward to seeing you there
 - [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
 - [chopstx](https://github.com/Nitrokey/chopstx) - Unofficial mirror of GNUK's submodule: Chopstx
 - [chopstx](https://github.com/im-tomu/chopstx) - U2F firmware for Tomu board (+ chopstx port)
@@ -2250,7 +2250,7 @@
 - [sketch-measure](https://github.com/utom/sketch-measure) - Make it a fun to create spec for developers and teammates
 - [skill-sample-nodejs-adventure-game](https://github.com/alexa/skill-sample-nodejs-adventure-game) - This tool provides an easy to use front-end that allows developers to instantly deploy code for your story, or use the generated code as a starting point for more complex projects.
 - [documentation-starter](https://github.com/LucyBot-Inc/documentation-starter) - Interactive REST API Documentation
-- [ec2instances.info](https://github.com/powdahound/ec2instances.info) - Amazon EC2 instance comparison site
+- [ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [phproject](https://github.com/Alanaktion/phproject) - A high performance full-featured project management system
 - [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [literally](https://github.com/notwaldorf/literally) - 🎞🎀 Literally another slide making thingie.
@@ -2489,6 +2489,7 @@
 
 ## JavaScript 
 
+- [retroReversing](https://github.com/RetroReversing/retroReversing) - Awesome website for reverse engineering retro games:
 - [prs-merged-since](https://github.com/suchipi/prs-merged-since) - CLI and JS API to list all PRs merged into a GitHub repo since a given tag
 - [SierraDeathGenerator](https://github.com/foone/SierraDeathGenerator) - Generate fake screenshots from video games
 - [procedural-gl-react](https://github.com/felixpalmer/procedural-gl-react) - React component for the Procedural GL JS library
@@ -5226,7 +5227,7 @@
 - [imreg_dft](https://github.com/matejak/imreg_dft) - Image registration using discrete Fourier transform.
 - [timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
 - [bonobo](https://github.com/python-bonobo/bonobo) - Extract Transform Load for Python 3.5+
-- [freenas](https://github.com/freenas/freenas) - FreeNAS Git Repository
+- [freenas](https://github.com/truenas/freenas) - FreeNAS Git Repository
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [qubes-secpack](https://github.com/QubesOS/qubes-secpack) - Qubes Security Pack
 - [osxcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X
@@ -5948,7 +5949,7 @@
 - [rust-hypervisor-firmware](https://github.com/cloud-hypervisor/rust-hypervisor-firmware) - 
 - [org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [orange_slice](https://github.com/gamozolabs/orange_slice) - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost
-- [git-tidy](https://github.com/drewwyatt/git-tidy) - Delete local git branches that have a remote tracking branch that is ": gone".
+- [git-tidy](https://github.com/drewwyatt/git-tidy) - Tidy up stale git branches.
 - [lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
 - [wand-of-rust](https://github.com/influenza/wand-of-rust) - Rust bindings for ImageMagick's MagickWand API
 - [luster](https://github.com/kyren/luster) - An experimental Lua VM implemented in pure Rust
@@ -6442,7 +6443,7 @@
 - [swift-service-lifecycle](https://github.com/swift-server/swift-service-lifecycle) - Cleanly startup and shutdown server application, freeing resources in order before exiting.
 - [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
 - [swift-tools-support-core](https://github.com/apple/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
-- [KeyboardKit](https://github.com/danielsaidi/KeyboardKit) - KeyboardKit is a Swift library that helps you create iOS keyboard extensions.
+- [KeyboardKit](https://github.com/danielsaidi/KeyboardKit) - KeyboardKit is a Swift library that helps you create custom keyboard extensions for iOS and ipadOS.
 - [Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
 - [swift-nio-extras](https://github.com/apple/swift-nio-extras) - Useful code around SwiftNIO.
 - [grid-compositional-layout](https://github.com/jVirus/grid-compositional-layout) - 🧲 Grid Compositional Layout is a SwiftUI 2.0 view that lays out the supplied views in a grid. Easily configurable and lazily retained [Swift 5.3, iOS 14.0+, iPadOS 14.0+, macOS 11.0(10.16)+]
