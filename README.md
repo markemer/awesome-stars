@@ -1531,7 +1531,7 @@
 
 ## Clojure 
 
-- [penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source prototyping tool
+- [penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - config karabiner with ease
 - [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 - [orcpub](https://github.com/Orcpub/orcpub) - Code for Dungeon Master's Vault Community Edition
@@ -2258,7 +2258,6 @@
 - [redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [congress-votes-servo](https://github.com/unitedstates/congress-votes-servo) - Tracking changes to the official U.S. House and Senate roll call votes XML data files. Monitored hourly-ish by @GovTrack/@JoshData.
-- [opendata.cern.ch](https://github.com/cernopendata/opendata.cern.ch) - Source code for the CERN Open Data portal
 - [github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [drupal-vm](https://github.com/geerlingguy/drupal-vm) - A VM for Drupal development
 - [HorizonSDK-iOS](https://github.com/HorizonCamera/HorizonSDK-iOS) - Horizon SDK for iOS
@@ -5227,7 +5226,7 @@
 - [imreg_dft](https://github.com/matejak/imreg_dft) - Image registration using discrete Fourier transform.
 - [timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
 - [bonobo](https://github.com/python-bonobo/bonobo) - Extract Transform Load for Python 3.5+
-- [freenas](https://github.com/truenas/freenas) - FreeNAS Git Repository
+- [freenas](https://github.com/truenas/freenas) - TrueNAS CORE/Enterprise/SCALE Git Repository
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [qubes-secpack](https://github.com/QubesOS/qubes-secpack) - Qubes Security Pack
 - [osxcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X
@@ -5300,6 +5299,7 @@
 - [aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
 - [ib-unfuck-git](https://github.com/Reflejo/ib-unfuck-git) - 
 - [invenio](https://github.com/inveniosoftware/invenio) - Invenio digital library framework
+- [opendata.cern.ch](https://github.com/cernopendata/opendata.cern.ch) - Source code for the CERN Open Data portal
 - [mdwebhook](https://github.com/dropbox/mdwebhook) - A sample app that uses webhooks to convert Markdown files to HTML.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
 - [terryfy](https://github.com/MacPython/terryfy) - Utilities for testing OSX on travis-ci.org
