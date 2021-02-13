@@ -2488,6 +2488,7 @@
 
 ## JavaScript 
 
+- [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [retroReversing](https://github.com/RetroReversing/retroReversing) - Awesome website for reverse engineering retro games:
 - [prs-merged-since](https://github.com/suchipi/prs-merged-since) - CLI and JS API to list all PRs merged into a GitHub repo since a given tag
 - [SierraDeathGenerator](https://github.com/foone/SierraDeathGenerator) - Generate fake screenshots from video games
@@ -4713,7 +4714,7 @@
 
 - [finance-dl](https://github.com/jbms/finance-dl) - Tools for automatically downloading/scraping personal financial data.
 - [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
-- [inkscape-raytracing](https://github.com/damienBloch/inkscape-raytracing) - 
+- [inkscape-raytracing](https://github.com/damienBloch/inkscape-raytracing) - An extension for Inkscape that makes it easier to draw optical diagrams.
 - [novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source markdown-like plain text editor designed for writing and organising novels. Written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform deployment.
 - [git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
@@ -6455,7 +6456,7 @@
 - [carton](https://github.com/swiftwasm/carton) - 📦 Watcher, bundler, and test runner for your SwiftWasm apps
 - [FuzzCheck](https://github.com/loiclec/FuzzCheck) - Swift package fuzzing engine
 - [Clip](https://github.com/rileytestut/Clip) - Clip is a clipboard manager for iOS that can monitor your clipboard indefinitely in the background — no jailbreak required.
-- [AppDesignKit](https://github.com/relatedcode/AppDesignKit) - Swift coded, ready-to-use, iOS app templates
+- [RealtimeChat](https://github.com/relatedcode/RealtimeChat) - Open source, native iOS Messenger, with audio/video calls and realtime chat conversations (full offline support).
 - [Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. In slow yet steady progress.
 - [Once](https://github.com/bscothern/Once) - A replacement for Dispatch Once in Swift
 - [Swift-General-Utility](https://github.com/erica/Swift-General-Utility) - General utility types and functionality
@@ -6825,7 +6826,7 @@
 - [appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) - The Swift SDK to work with the App Store Connect API from Apple.
 - [SwiftR](https://github.com/kalanyuz/SwiftR) - A Swift framework for Real-time time series data visualization
 - [Pixel](https://github.com/muukii/Pixel) - 🎨🖼 An image editor and engine using CoreImage
-- [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
+- [FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [sourcekite](https://github.com/vknabel/sourcekite) - the backend of SDE's language server
 - [ExpandableLabel](https://github.com/apploft/ExpandableLabel) - A simple UILabel subclass that shows a tappable link if the content doesn't fit the specified number of lines
 - [albookcode](https://github.com/kharrison/albookcode) - Modern Auto Layout Book Sample Code And Solutions
