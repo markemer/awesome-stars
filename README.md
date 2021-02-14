@@ -3414,6 +3414,7 @@
 
 ## Makefile 
 
+- [magic-inverter](https://github.com/mattvenn/magic-inverter) - an inverter drawn in magic with makefile to simulate
 - [nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [kbd](https://github.com/foostan/kbd) - for building keyboard libraries
@@ -5030,7 +5031,7 @@
 - [foxpass-tools](https://github.com/foxpass/foxpass-tools) - Foxpass tools and utilities
 - [foxpass-setup](https://github.com/foxpass/foxpass-setup) - Scripts for setting up Foxpass integration in common environments
 - [foxpass-ipsec-vpn](https://github.com/foxpass/foxpass-ipsec-vpn) - L2TP/IPSEC VPN with built-in Duo support
-- [vyos-1x](https://github.com/vyos/vyos-1x) - VyOS 1.2.0+ configuration scripts and data
+- [vyos-1x](https://github.com/vyos/vyos-1x) - VyOS command definitions, scripts, and utilities
 - [scipy](https://github.com/scipy/scipy) - Scipy library main repository
 - [who-the-hill](https://github.com/newsdev/who-the-hill) - Who The Hill: An MMS-based facial recognition service for members of Congress.
 - [MarzipanTool](https://github.com/zhuowei/MarzipanTool) - Tools for running iOSMac apps on macOS 10.14 Beta
@@ -5095,7 +5096,7 @@
 - [keras-visuals](https://github.com/chasingbob/keras-visuals) - Tools to help you visualise the training of your Keras model
 - [capirca](https://github.com/google/capirca) - Multi-platform ACL generation system
 - [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [serverless-application-model](https://github.com/aws/serverless-application-model) - AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
 - [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [harold](https://github.com/spladug/harold) - harold is a shame mechanism
@@ -6160,7 +6161,7 @@
 - [irdb](https://github.com/probonopd/irdb) - One of the largest crowd-sourced, manufacturer-independent databases of infrared remote control codes on the web, and aspiring to become the most comprehensive and most accurate one
 - [ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
 - [build-ami](https://github.com/vyos/build-ami) - VyOS AMI build scripts
-- [vyos-build](https://github.com/vyos/vyos-build) - Top level build scripts for VyOS &gt;= 1.2
+- [vyos-build](https://github.com/vyos/vyos-build) - VyOS image build scripts
 - [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
 - [vdpm](https://github.com/vitasdk/vdpm) - SDK installer and package "manager" for $VITASDK
 - [libretro-super](https://github.com/libretro/libretro-super) - Super repo for other libretro projects. Fetches, builds and installs.
