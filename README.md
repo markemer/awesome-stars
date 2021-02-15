@@ -912,6 +912,7 @@
 
 ## C++ 
 
+- [re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [STM32RTC](https://github.com/stm32duino/STM32RTC) - Arduino RTC library for STM32.
 - [LifeBrush](https://github.com/timdecode/LifeBrush) - A toolkit for painting agent-based mesoscale molecular simulations and illustrations.
@@ -4044,6 +4045,7 @@
 
 ## Others 
 
+- [sky130_fd_pr](https://github.com/mattvenn/sky130_fd_pr) - 
 - [6502-kicad-library](https://github.com/Alarm-Siren/6502-kicad-library) - Kicad Schematic Library for the 6502 microprocessor and associated ecosystem (MOS, CSG, etc)
 - [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [A64FX](https://github.com/fujitsu/A64FX) - 
@@ -6333,6 +6335,8 @@
 
 ## Swift 
 
+- [InspectorSpellBook](https://github.com/magesteve/InspectorSpellBook) - Swift Package to provide standard left & right side panels (commonly used as Inspectors) for Macintosh App Development (Cocoa).
+- [CocoaGrimoire](https://github.com/magesteve/CocoaGrimoire) - A Macintosh example program using the various SpellBook swift package published by the author.
 - [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 4.2
 - [iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant Companion for iOS
 - [atlantis](https://github.com/ProxymanApp/atlantis) - A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
@@ -6951,7 +6955,7 @@
 - [console-kit](https://github.com/vapor/console-kit) - 💻 APIs for creating interactive CLI tools.
 - [Kickstarter-Prelude](https://github.com/kickstarter/Kickstarter-Prelude) - A collection of useful Swift tools that are used in the Kickstarter apps.
 - [tulsi](https://github.com/bazelbuild/tulsi) - An Xcode Project Generator For Bazel
-- [Pock](https://github.com/pigigaldi/Pock) - Display macOS Dock in Touch Bar
+- [pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [HeckelDiff](https://github.com/mcudich/HeckelDiff) - A fast Swift diffing library.
 - [VisualProgrammingLanguage](https://github.com/NathanFlurry/VisualProgrammingLanguage) - Visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission.
 - [SwiftGit2](https://github.com/SwiftGit2/SwiftGit2) - Swift bindings to libgit2
@@ -7584,7 +7588,6 @@
 - [jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - A Git extension for JupyterLab
 - [talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [dt-mergebot](https://github.com/DefinitelyTyped/dt-mergebot) - The (new as of 2020) bot which handles auto-merging your PRs
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [vscode-cmake-tools](https://github.com/microsoft/vscode-cmake-tools) - CMake integration in Visual Studio Code
 - [typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
