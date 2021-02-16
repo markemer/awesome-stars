@@ -158,6 +158,7 @@
 
 ## Assembly 
 
+- [heart](https://github.com/nanochess/heart) - x86 16-bit program drawing the heart curve equation
 - [HelloSilicon](https://github.com/below/HelloSilicon) - An attempt with ARM64 assembly on Apple Silicon Macs
 - [ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
 - [DOOM-FX](https://github.com/RandalLinden/DOOM-FX) - Doom/FX for Super Nintendo with SuperFX GSU2A
@@ -2141,6 +2142,7 @@
 
 ## HTML 
 
+- [applegpu](https://github.com/dougallj/applegpu) - Apple G13 GPU architecture docs and tools
 - [hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
 - [kbpcb](https://github.com/fcoury/kbpcb) - Automated Keyboard PCB generator for KiCad
 - [nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
@@ -2489,6 +2491,7 @@
 
 ## JavaScript 
 
+- [argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
 - [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [retroReversing](https://github.com/RetroReversing/retroReversing) - Awesome website for reverse engineering retro games:
 - [prs-merged-since](https://github.com/suchipi/prs-merged-since) - CLI and JS API to list all PRs merged into a GitHub repo since a given tag
@@ -5861,6 +5864,8 @@
 
 ## Rust 
 
+- [ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
+- [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba
@@ -5971,7 +5976,7 @@
 - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [opensnoop-native](https://github.com/bolinfest/opensnoop-native) - opensnoop in pure C using eBPF
 - [gfx](https://github.com/gfx-rs/gfx) - A low-overhead Vulkan-like GPU API for Rust.
-- [doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH server proxy written in Rust.
+- [doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH server proxy written in Rust (doh-proxy).
 - [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 - [hypervisor-rs](https://github.com/saurvs/hypervisor-rs) - Rust API to the OS X Hypervisor framework for hardware-accelerated virtualization
 - [libhermit-rs](https://github.com/hermitcore/libhermit-rs) - libhermit-rs: A Rust-based library operating system
@@ -6006,6 +6011,7 @@
 
 ## SCSS 
 
+- [pidcodes.github.com](https://github.com/pidcodes/pidcodes.github.com) - Website for pid.codes
 - [doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [XcodeBuildSettings.com](https://github.com/NSHipster/XcodeBuildSettings.com) - A convenient reference of available build settings for Xcode projects.
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
@@ -6335,6 +6341,8 @@
 
 ## Swift 
 
+- [Prism](https://github.com/GettEngineering/Prism) - Gett's Design System code generator. Use Zeplin Styleguides as your R&D's Single Source of Truth.
+- [swift-raft](https://github.com/makadaw/swift-raft) - Raft protocol implementation in Swift
 - [InspectorSpellBook](https://github.com/magesteve/InspectorSpellBook) - Swift Package to provide standard left & right side panels (commonly used as Inspectors) for Macintosh App Development (Cocoa).
 - [CocoaGrimoire](https://github.com/magesteve/CocoaGrimoire) - A Macintosh example program using the various SpellBook swift package published by the author.
 - [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 4.2
@@ -7546,6 +7554,7 @@
 
 ## TypeScript 
 
+- [editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux - by Curvenote.
 - [vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) - Visual Studio Code extension for ESP-IDF projects
 - [backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - An intuitive and stylish markdown note app for the developers.
