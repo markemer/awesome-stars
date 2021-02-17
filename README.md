@@ -737,7 +737,6 @@
 - [RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [icmptunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets.
 - [brotli](https://github.com/google/brotli) - Brotli compression format
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
 - [linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
@@ -913,6 +912,7 @@
 
 ## C++ 
 
+- [Status-Monitor-Overlay](https://github.com/masagrator/Status-Monitor-Overlay) - Monitor many stats of Nintendo Switch hardware
 - [re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [STM32RTC](https://github.com/stm32duino/STM32RTC) - Arduino RTC library for STM32.
@@ -1709,6 +1709,7 @@
 
 ## Go 
 
+- [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
 - [iamlive](https://github.com/iann0036/iamlive) - Generate a basic IAM policy from AWS client-side monitoring (CSM)
 - [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [go-fluent-ffmpeg](https://github.com/modfy/go-fluent-ffmpeg) - A Go implementation of fluent-ffmpeg
@@ -2595,7 +2596,7 @@
 - [Action-setup-swift](https://github.com/YOCKOW/Action-setup-swift) - GitHub Action that sets up Swift.
 - [texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 - [roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
-- [ViewFinder](https://github.com/c9fe/ViewFinder) - :camera: ViewFinder - NodeJS product to make the browser  into a web app. WTF RBI. CBII. Remote browser isolation, embeddable browserview, secure chrome saas. Licenses, managed, self-hosted. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but open source with free live demos available now! Also, integrated RBI/CDR with CDR from https://github.com/dosyago/p2%2e
+- [ViewFinderJS](https://github.com/c9fe/ViewFinderJS) - :camera: ViewFinder - NodeJS product to make the browser  into a web app. WTF RBI. CBII. Remote browser isolation, embeddable browserview, secure chrome saas. Licenses, managed, self-hosted. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but open source with free live demos available now! Also, integrated RBI/CDR with CDR from https://github.com/dosyago/p2%2e
 - [bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
@@ -3065,6 +3066,7 @@
 - [kbsslenforcer](https://github.com/kbitdk/kbsslenforcer) - Automatic security, browse encrypted
 - [sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [CocoaConferences](https://github.com/Lascorbe/CocoaConferences) - List of Cocoa conferences for iOS & macOS developers
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
@@ -3289,7 +3291,6 @@
 - [covid19](https://github.com/necsi/covid19) - This is the repository for all of the code that necsi is writing about covid19, along with documentation.
 - [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [police-contract-text](https://github.com/davidshere/police-contract-text) - Repository contains text from PDF files scraped and parsed from checkthepolice.org/databases, as well as the scraper code to generate the files.
-- [nbdev_template](https://github.com/fastai/nbdev_template) - Template for nbdev projects
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
 - [Epidemiology101](https://github.com/DataForScience/Epidemiology101) - Epidemic Modeling for Everyone
 - [Face-Image-Motion-Model](https://github.com/tg-bomze/Face-Image-Motion-Model) - Face Image Motion Model (Photo-2-Video) based on "first-order-model" repository.
@@ -4718,6 +4719,7 @@
 
 ## Python 
 
+- [strongarm](https://github.com/datatheorem/strongarm) - Mach-O analysis library 💪
 - [finance-dl](https://github.com/jbms/finance-dl) - Tools for automatically downloading/scraping personal financial data.
 - [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
 - [inkscape-raytracing](https://github.com/damienBloch/inkscape-raytracing) - An extension for Inkscape that makes it easier to draw optical diagrams.
@@ -4792,6 +4794,7 @@
 - [VIBE](https://github.com/mkocabas/VIBE) - Official implementation of CVPR2020 paper "VIBE: Video Inference for Human Body Pose and Shape Estimation"
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [gitmask](https://github.com/AnalogJ/gitmask) - Contribute Code Anonymously
+- [nbdev_template](https://github.com/fastai/nbdev_template) - Template for nbdev projects
 - [warcit](https://github.com/webrecorder/warcit) - Convert Directories, Files and ZIP Files to Web Archives (WARC)
 - [conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -5233,7 +5236,7 @@
 - [imreg_dft](https://github.com/matejak/imreg_dft) - Image registration using discrete Fourier transform.
 - [timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
 - [bonobo](https://github.com/python-bonobo/bonobo) - Extract Transform Load for Python 3.5+
-- [freenas](https://github.com/truenas/freenas) - TrueNAS CORE/Enterprise/SCALE Git Repository
+- [middleware](https://github.com/truenas/middleware) - TrueNAS CORE/Enterprise/SCALE Middleware Git Repository
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [qubes-secpack](https://github.com/QubesOS/qubes-secpack) - Qubes Security Pack
 - [osxcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X
@@ -6310,7 +6313,7 @@
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
 - [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 
 ## Stan 
@@ -6341,6 +6344,7 @@
 
 ## Swift 
 
+- [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift.
 - [Prism](https://github.com/GettEngineering/Prism) - Gett's Design System code generator. Use Zeplin Styleguides as your R&D's Single Source of Truth.
 - [swift-raft](https://github.com/makadaw/swift-raft) - Raft protocol implementation in Swift
 - [InspectorSpellBook](https://github.com/magesteve/InspectorSpellBook) - Swift Package to provide standard left & right side panels (commonly used as Inspectors) for Macintosh App Development (Cocoa).
@@ -7654,6 +7658,7 @@
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
+- [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
 - [phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
 - [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
@@ -7796,7 +7801,6 @@
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
 - [well-managed-deployments](https://github.com/djfurman/well-managed-deployments) - Deployments are hard, doing it with proper oversight is harder, tracking it is near impossible without crazy expense. Meet a serverless solution to the problem.
-- [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
