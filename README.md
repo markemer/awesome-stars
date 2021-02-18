@@ -215,7 +215,6 @@
 - [mcurses](https://github.com/ChrisMicro/mcurses) - 
 - [remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) - remarkable2 framebuffer reversing
 - [HTHSM](https://github.com/TheHumbleTransistor/HTHSM) - A framework for implementing hierarchical finite state machines (HSMs) in C code. It's a good fit for firmware projects, and helps keep your event-driven system orderly with readable code.
-- [duckyPad](https://github.com/dekuNukem/duckyPad) - Do-It-All Mechanical Macropad
 - [PlayStation_on_FPGA](https://github.com/pgate1/PlayStation_on_FPGA) - implemented PlayStation(PSX) on an FPGA.
 - [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) - Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
 - [oniguruma](https://github.com/kkos/oniguruma) - regular expression library
@@ -253,6 +252,7 @@
 - [liburkel](https://github.com/chjj/liburkel) - Authenticated key-value store (i.e. an urkel tree)
 - [ret-sync](https://github.com/bootleg/ret-sync) - ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra/Binary Ninja disassemblers.
 - [TZ-TRNG](https://github.com/ARM-software/TZ-TRNG) - TrustZone True Number Generator
+- [opae-sdk](https://github.com/OPAE/opae-sdk) - Open Programmable Acceleration Engine
 - [Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library
 - [uvc-gadget](https://github.com/climberhunt/uvc-gadget) - enhance uvc-gadget test application
 - [kvazaar](https://github.com/ultravideo/kvazaar) - An open-source HEVC encoder
@@ -926,6 +926,7 @@
 - [RTLSDR-Airband](https://github.com/szpajder/RTLSDR-Airband) - Multichannel AM/NFM demodulator
 - [Win32CaptureSample](https://github.com/robmikh/Win32CaptureSample) - A simple sample using the Windows.Graphics.Capture APIs in a Win32 application.
 - [CyberpunkSaveEditor](https://github.com/PixelRick/CyberpunkSaveEditor) - A tool to edit Cyberpunk 2077 sav.dat files
+- [duckyPad](https://github.com/dekuNukem/duckyPad) - Do-It-All Mechanical Macropad
 - [volbx](https://github.com/przemek83/volbx) - Graphical tool for data manipulation written in C++/Qt
 - [rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [iotsa](https://github.com/cwi-dis/iotsa) - This library contains a framework to easily create web servers that can interface to all sorts of sensors and actuators. esp32 and esp8266.
@@ -952,7 +953,6 @@
 - [fceux](https://github.com/TASVideos/fceux) - FCEUX, a NES Emulator
 - [xc3sprog](https://github.com/matrix-io/xc3sprog) - xc3sprog is a suite of utilities for programming Xilinx FPGAs, CPLDs, and EEPROMs with the Xilinx Parallel Cable and other JTAG adapters under Linux. Used to program the FPGA of the MATRIX Creator/Voice via Raspberry Pi.
 - [libcudacxx](https://github.com/NVIDIA/libcudacxx) - The C++ Standard Library for your entire system.
-- [opae-sdk](https://github.com/OPAE/opae-sdk) - Open Programmable Acceleration Engine
 - [tiled](https://github.com/mapeditor/tiled) - A flexible level editor
 - [qradiolink](https://github.com/qradiolink/qradiolink) - Multimode SDR transceiver for GNU radio
 - [connectedhomeip](https://github.com/project-chip/connectedhomeip) - Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.
@@ -1092,7 +1092,6 @@
 - [pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
 - [REDasm](https://github.com/REDasmOrg/REDasm) - The OpenSource Disassembler
 - [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
-- [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [snark-barker](https://github.com/schlae/snark-barker) - A 100% compatible replica of the famed SB 1.0 sound card
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [spectrum](https://github.com/facebookincubator/spectrum) - A client-side image transcoding library.
@@ -2029,7 +2028,7 @@
 - [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [rooms](https://github.com/thenrich/rooms) - Ephemeral conference rooms powered by Twilio and Google App Engine
 - [slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
-- [flannel](https://github.com/coreos/flannel) - flannel is a network fabric for containers, designed for Kubernetes
+- [flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [fsql](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
 - [find-lf](https://github.com/schollz/find-lf) - Track the location of every Wi-Fi device (:iphone:) in your house using Raspberry Pis and FIND
 - [deploykit](https://github.com/docker/deploykit) - A toolkit for creating and managing declarative, self-healing infrastructure.
@@ -3391,6 +3390,7 @@
 - [lsyncd](https://github.com/axkibe/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [dns](https://github.com/luadns/dns) - Example DNS repository
 - [vita](https://github.com/inters/vita) - Vita: simple and fast VPN gateway
+- [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
 - [pink](https://github.com/premek/pink) - An attempt to implement a subset of ink in lpeg (very minimal / buggy)
 - [Spoons](https://github.com/Hammerspoon/Spoons) - The official repository of Spoon plugins
@@ -5894,7 +5894,7 @@
 - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU code 🚧
 - [rppal](https://github.com/golemparts/rppal) - A Rust library that provides access to the Raspberry Pi's GPIO, I2C, PWM, SPI and UART peripherals.
 - [rusty-clock](https://github.com/TeXitoi/rusty-clock) - An alarm clock with environment stats in pure bare metal embedded rust
-- [redbpf](https://github.com/redsift/redbpf) - Rust library for building and running BPF/eBPF modules
+- [redbpf](https://github.com/ingraind/redbpf) - Rust library for building and running BPF/eBPF modules
 - [uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
 - [nes-rust](https://github.com/novoselov-ab/nes-rust) - NES emulator in Rust with GUI
 - [krabs](https://github.com/o8vm/krabs) - An x86 bootloader written in Rust.
