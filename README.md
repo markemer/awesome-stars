@@ -393,7 +393,6 @@
 - [Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
 - [ubertooth](https://github.com/greatscottgadgets/ubertooth) - Software, firmware and hardware designs for Ubertooth
 - [minimp4](https://github.com/lieff/minimp4) - Minimalistic MP4 mux/demux single header library
-- [klipper](https://github.com/KevinOConnor/klipper) - Klipper is a 3d-printer firmware
 - [flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
 - [rmagick](https://github.com/rmagick/rmagick) - Ruby bindings for ImageMagick
 - [fishhook](https://github.com/facebook/fishhook) - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
@@ -740,7 +739,7 @@
 - [movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
 - [linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
-- [s2n](https://github.com/awslabs/s2n) - s2n : an implementation of the TLS/SSL protocols
+- [s2n-tls](https://github.com/aws/s2n-tls) - s2n : an implementation of the TLS/SSL protocols
 - [tmux](https://github.com/tmux/tmux) - tmux source code
 - [userland](https://github.com/raspberrypi/userland) - Source code for ARM side libraries for interfacing to Raspberry Pi GPU.
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders shaders
@@ -912,6 +911,7 @@
 
 ## C++ 
 
+- [openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Universal utility for programming FPGA
 - [Status-Monitor-Overlay](https://github.com/masagrator/Status-Monitor-Overlay) - Monitor many stats of Nintendo Switch hardware
 - [re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
@@ -1083,6 +1083,7 @@
 - [floor](https://github.com/a2flo/floor) - A C++ Compute/Graphics Library and Toolchain enabling same-source CUDA/Host/Metal/OpenCL/Vulkan C++ programming and execution.
 - [swift-kstdlib](https://github.com/spevans/swift-kstdlib) - Fork of apple/swift with modifications to the stdlib to use in a bare metal kernel for use with swift-project1
 - [BlingFire](https://github.com/microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
+- [klipper](https://github.com/KevinOConnor/klipper) - Klipper is a 3d-printer firmware
 - [my_toy_compiler](https://github.com/lsegal/my_toy_compiler) - My Toy Compiler. Read about how I did it at the homepage URL
 - [simple_wc_example](https://github.com/jonathan-beard/simple_wc_example) - simple word count example using flex/bison parser
 - [macemu](https://github.com/emaculation/macemu) - Basilisk II and SheepShaver Macintosh emulators, maintained
@@ -4049,6 +4050,7 @@
 
 ## Others 
 
+- [cheap-pcb](https://github.com/hardenedlinux/cheap-pcb) - Cheap PCB: Better understanding the current status of hardware supply chain
 - [sky130_fd_pr](https://github.com/mattvenn/sky130_fd_pr) - 
 - [6502-kicad-library](https://github.com/Alarm-Siren/6502-kicad-library) - Kicad Schematic Library for the 6502 microprocessor and associated ecosystem (MOS, CSG, etc)
 - [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
@@ -4719,6 +4721,7 @@
 
 ## Python 
 
+- [KiKit](https://github.com/yaqwsx/KiKit) - Automation tools for KiCAD
 - [strongarm](https://github.com/datatheorem/strongarm) - Mach-O analysis library 💪
 - [finance-dl](https://github.com/jbms/finance-dl) - Tools for automatically downloading/scraping personal financial data.
 - [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
@@ -6286,7 +6289,7 @@
 - [git-cheat](https://github.com/0xAX/git-cheat) - git cheat sheets in your command line
 - [veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
 - [paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-- [freeipa-container](https://github.com/freeipa/freeipa-container) - FreeIPA server in containers; see hub.docker.com for the images:
+- [freeipa-container](https://github.com/freeipa/freeipa-container) - FreeIPA server in containers; see hub.docker.com or quay.io for the images: https://hub.docker.com/r/freeipa/freeipa-server/ or https://quay.io/repository/freeipa/freeipa-server
 - [traveling-ruby](https://github.com/phusion/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
@@ -6344,6 +6347,7 @@
 
 ## Swift 
 
+- [ExampleOfiOSLiDAR](https://github.com/TokyoYoshida/ExampleOfiOSLiDAR) - Example Of iOS ARKit LiDAR
 - [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift.
 - [Prism](https://github.com/GettEngineering/Prism) - Gett's Design System code generator. Use Zeplin Styleguides as your R&D's Single Source of Truth.
 - [swift-raft](https://github.com/makadaw/swift-raft) - Raft protocol implementation in Swift
@@ -6461,7 +6465,7 @@
 - [swift-service-lifecycle](https://github.com/swift-server/swift-service-lifecycle) - Cleanly startup and shutdown server application, freeing resources in order before exiting.
 - [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
 - [swift-tools-support-core](https://github.com/apple/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
-- [KeyboardKit](https://github.com/danielsaidi/KeyboardKit) - KeyboardKit is a Swift library that helps you create custom keyboard extensions for iOS and ipadOS.
+- [KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - KeyboardKit is a Swift library that helps you create custom keyboard extensions for iOS and ipadOS.
 - [Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
 - [swift-nio-extras](https://github.com/apple/swift-nio-extras) - Useful code around SwiftNIO.
 - [grid-compositional-layout](https://github.com/jVirus/grid-compositional-layout) - 🧲 Grid Compositional Layout is a SwiftUI 2.0 view that lays out the supplied views in a grid. Easily configurable and lazily retained [Swift 5.3, iOS 14.0+, iPadOS 14.0+, macOS 11.0(10.16)+]
