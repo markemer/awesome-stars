@@ -216,7 +216,6 @@
 - [remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) - remarkable2 framebuffer reversing
 - [HTHSM](https://github.com/TheHumbleTransistor/HTHSM) - A framework for implementing hierarchical finite state machines (HSMs) in C code. It's a good fit for firmware projects, and helps keep your event-driven system orderly with readable code.
 - [PlayStation_on_FPGA](https://github.com/pgate1/PlayStation_on_FPGA) - implemented PlayStation(PSX) on an FPGA.
-- [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) - Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
 - [oniguruma](https://github.com/kkos/oniguruma) - regular expression library
 - [lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
 - [uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
@@ -236,7 +235,6 @@
 - [qmkJsonConverter](https://github.com/jhelvy/qmkJsonConverter) - R code to convert the .json file from the QMK configurator into a keymap.c file
 - [minos](https://github.com/minosproject/minos) - Microkernel RTOS with SMP and Virtualization support for ARMv8-A
 - [hangover](https://github.com/AndreRH/hangover) - Hangover runs simple Win64/Win32 applications on arm64/ppc64le/x86_64 Linux and x86_64 Mac
-- [DAPLink](https://github.com/ARMmbed/DAPLink) - 
 - [undelete_jpg](https://github.com/saintmarina/undelete_jpg) - Recovers JPG images from SD cards and hard drives.
 - [EF-S-Adapter](https://github.com/Jan--Henrik/EF-S-Adapter) - https://twitter.com/JanHenrikH/status/1317520812761546753
 - [ec](https://github.com/system76/ec) - System76 Open Source Embedded Controller
@@ -935,6 +933,7 @@
 - [CP77HookFileName](https://github.com/WolvenKit/CP77HookFileName) - Hook filenames in Cyberpunk 2077 (used in unpack .archive)
 - [RED4ext](https://github.com/WopsS/RED4ext) - A script extender for REDengine 4.
 - [RED4ext](https://github.com/yamashi/RED4ext) - A script extender for REDengine 4.
+- [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) - Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
 - [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Time Series Visualization Tool that you deserve.
 - [meshpy](https://github.com/inducer/meshpy) - 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
@@ -946,6 +945,7 @@
 - [hedron](https://github.com/cyberus-technology/hedron) - The Hedron Microhypervisor
 - [viewts](https://github.com/OlivierLeBozec/viewts) - Display PCR, DTS, PTS, bitrate, jitter of a mpeg TS.
 - [PBRVulkan](https://github.com/Zielon/PBRVulkan) - Vulkan Real-time Path Tracer Engine
+- [DAPLink](https://github.com/ARMmbed/DAPLink) - 
 - [shaders](https://github.com/seanbaxter/shaders) - Circle C++ shaders
 - [RaspberryPi](https://github.com/PeterLemon/RaspberryPi) - Raspberry Pi Bare Metal Assembly Programming
 - [casadi](https://github.com/casadi/casadi) - CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as SUNDIALS, IPOPT etc. It can be used from C++, Python or Matlab/Octave.
@@ -4050,6 +4050,7 @@
 
 ## Others 
 
+- [NetFPGA-SUME-public](https://github.com/NetFPGA/NetFPGA-SUME-public) - NetFPGA-SUME public repository
 - [cheap-pcb](https://github.com/hardenedlinux/cheap-pcb) - Cheap PCB: Better understanding the current status of hardware supply chain
 - [sky130_fd_pr](https://github.com/mattvenn/sky130_fd_pr) - 
 - [6502-kicad-library](https://github.com/Alarm-Siren/6502-kicad-library) - Kicad Schematic Library for the 6502 microprocessor and associated ecosystem (MOS, CSG, etc)
@@ -6347,6 +6348,7 @@
 
 ## Swift 
 
+- [swiftui.builds](https://github.com/FranckNdame/swiftui.builds) - building cool stuff with swiftui
 - [ExampleOfiOSLiDAR](https://github.com/TokyoYoshida/ExampleOfiOSLiDAR) - Example Of iOS ARKit LiDAR
 - [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift.
 - [Prism](https://github.com/GettEngineering/Prism) - Gett's Design System code generator. Use Zeplin Styleguides as your R&D's Single Source of Truth.
@@ -6456,10 +6458,8 @@
 - [Vexil](https://github.com/unsignedapps/Vexil) - Vexil (named for Vexillology) is a Swift package for managing feature flags (also called feature toggles) in a flexible, multi-provider way.
 - [GameOfLife](https://github.com/wingateep/GameOfLife) - 
 - [SimpleVM](https://github.com/KhaosT/SimpleVM) - Sample code for Virtualization framework
-- [FleetMacOSKit](https://github.com/magesteve/FleetMacOSKit) - Slam based Framework for standard Apps on MacOS
 - [SwiftGUI](https://github.com/erickjung/SwiftGUI) - SwiftGUI is an API inspired by SwiftUI DSL, using Dear ImGui as renderer and running on macOS 10.13+ and iOS 11+
 - [SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
-- [SlamMacOSKit-Demo](https://github.com/magesteve/SlamMacOSKit-Demo) - Hopefully, this project will demonstrate using the SlamMacOSKit.
 - [CalendarKit](https://github.com/richardtop/CalendarKit) - 📅 Calendar for iOS, iPadOS and macOS in Swift
 - [tuist](https://github.com/tuist/tuist) - 🚀 Create, maintain, and interact with Xcode projects at scale
 - [swift-service-lifecycle](https://github.com/swift-server/swift-service-lifecycle) - Cleanly startup and shutdown server application, freeing resources in order before exiting.
@@ -7662,7 +7662,7 @@
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
-- [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
+- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
 - [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
@@ -7747,6 +7747,7 @@
 
 ## Verilog 
 
+- [netfpga](https://github.com/NetFPGA/netfpga) - NetFPGA 1G infrastructure and gateware
 - [xschem_sky130](https://github.com/StefanSchippers/xschem_sky130) - XSCHEM symbol libraries for the Google-Skywater 130nm process design kit.
 - [caravel](https://github.com/efabless/caravel) - Caravel is a standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space.
 - [vt52-fpga](https://github.com/AndresNavarro82/vt52-fpga) - 
