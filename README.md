@@ -1893,7 +1893,7 @@
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 - [m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
-- [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
+- [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [depscheck](https://github.com/divan/depscheck) - Dependency checker for Golang (Go) packages. Prints stats and suggests to remove small LeftPad-like imports if any.
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
@@ -2647,7 +2647,7 @@
 - [localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [plugin-swift](https://github.com/prettier/plugin-swift) - Prettier Swift Plugin - WARNING: The AST parser is not stable yet
 - [find-my-iphone](https://github.com/matt-kruse/find-my-iphone) - A Node module to trigger the "Find My iPhone" feature from iCloud, to play a sound on the phone
-- [aws-extend-switch-roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Extend your AWS IAM switching roles by Chrome extension or Firefox add-on
+- [aws-extend-switch-roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 - [leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [storyboarder](https://github.com/wonderunit/storyboarder) - ✏️ Storyboarder makes it easy to visualize a story as fast you can draw stick figures.
@@ -5511,6 +5511,7 @@
 
 - [oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
 - [design-files](https://github.com/MinnowBoard-org/design-files) - MinnowBoard.org Official Hardware Design Files
+- [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
 
@@ -6251,7 +6252,6 @@
 - [route53-dynamic-dns-with-lambda](https://github.com/awslabs/route53-dynamic-dns-with-lambda) - A Dynamic DNS system built with API Gateway, Lambda & Route 53.
 - [PORTALofPi](https://github.com/grugq/PORTALofPi) - PORTAL of Pi - RaspberyPi based PORTAL device. Certified UNIX Network Technicians only!
 - [oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
-- [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [firehol](https://github.com/firehol/firehol) - A firewall for humans...
 - [xcenv](https://github.com/xcenv/xcenv) - Groom your Xcode environment.
