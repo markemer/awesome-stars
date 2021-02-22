@@ -440,6 +440,7 @@
 - [open-amp](https://github.com/OpenAMP/open-amp) - 
 - [open-amp](https://github.com/Xilinx/open-amp) - 
 - [qemu](https://github.com/Xilinx/qemu) - Xilinx's fork of Quick EMUlator (QEMU) with improved support and modelling for the Xilinx platforms.
+- [XRT](https://github.com/Xilinx/XRT) - Xilinx Run Time for FPGA
 - [ImageSmoothing](https://github.com/soundsilence/ImageSmoothing) - A collection of image smoothing algorithms.
 - [ossc](https://github.com/marqs85/ossc) - Open Source Scan Converter
 - [mc](https://github.com/oridb/mc) - Myrddin Compiler
@@ -1124,7 +1125,6 @@
 - [betrfs](https://github.com/oscarlab/betrfs) - 
 - [JContainers](https://github.com/ryobg/JContainers) - JSON-based data structures for Papyrus - the TESV Skyrim SE scripting language
 - [SDAccel_Examples](https://github.com/Xilinx/SDAccel_Examples) - SDAccel Examples
-- [XRT](https://github.com/Xilinx/XRT) - Xilinx Run Time for FPGA
 - [Vitis-AWS-F1-Developer-Labs](https://github.com/Xilinx/Vitis-AWS-F1-Developer-Labs) - 
 - [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) - This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang.
 - [CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
@@ -2344,6 +2344,8 @@
 
 ## Haxe 
 
+- [msignal](https://github.com/massiveinteractive/msignal) - A Haxe port of the ActionScript 3 Signals library that leverages Haxe type parameters. Supports AVM1, AVM2, JavaScript, Neko and C++.
+- [TownGeneratorOS](https://github.com/watabou/TownGeneratorOS) - The source code of the Medieval Fantasy City Generator
 - [ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
 - [openfl](https://github.com/openfl/openfl) - The Open Flash Library for creative expression on the web, desktop, mobile and consoles.
 
@@ -2492,6 +2494,7 @@
 
 ## JavaScript 
 
+- [adventurerscodex](https://github.com/adventurerscodex/adventurerscodex) - Experience the next step in tabletop RPGs
 - [argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
 - [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [retroReversing](https://github.com/RetroReversing/retroReversing) - Awesome website for reverse engineering retro games:
@@ -4330,6 +4333,7 @@
 - [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) - GitHub's employee intellectual property agreement, open sourced and reusable
 - [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) - List of all tools (apps, services) that startups should use.
+- [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [openwhisk-external-resources](https://github.com/apache/openwhisk-external-resources) - ✨ Curated list of awesome OpenWhisk things ✨
 - [awesome-visualization-research](https://github.com/mathisonian/awesome-visualization-research) - A list of recommended research papers and other readings on data visualization
 - [awesome-deepbio](https://github.com/gokceneraslan/awesome-deepbio) - A curated list of awesome deep learning applications in the field of computational biology
@@ -5993,7 +5997,6 @@
 - [spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
@@ -7562,6 +7565,8 @@
 
 ## TypeScript 
 
+- [SnowFS](https://github.com/Snowtrack/SnowFS) - 👋 [Looking for maintainers] SnowFS - a fast, scalable version control file storage for graphic files :art:
+- [improved-initiative](https://github.com/cynicaloptimist/improved-initiative) - Combat tracker for Dungeons and Dragons (D&D) 5th Edition
 - [editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux - by Curvenote.
 - [vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) - Visual Studio Code extension for ESP-IDF projects
 - [backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
