@@ -205,6 +205,7 @@
 
 ## C 
 
+- [generic-node-se](https://github.com/TheThingsIndustries/generic-node-se) - Generic Node Sensor Edition
 - [PicoDVI](https://github.com/Wren6991/PicoDVI) - 
 - [neo-mc](https://github.com/neo-mc/neo-mc) - A Midnight Commander fork with scripting and other features.
 - [akt](https://github.com/blakemcbride/akt) - Keyboard handler for gnu-apl on Linux
@@ -615,7 +616,6 @@
 - [sniproxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
 - [riscv-gcc](https://github.com/riscv/riscv-gcc) - 
 - [odp](https://github.com/OpenDataPlane/odp) - The ODP project is an open-source, cross-platform set of application programming interfaces (APIs) for the networking data plane
-- [mbed-os](https://github.com/ARMmbed/mbed-os) - Arm Mbed OS is a platform operating system designed for the internet of things
 - [BSA-Manager](https://github.com/ousnius/BSA-Manager) - Manager program for the Bethesda Softworks Archives (BSA)
 - [darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
 - [OpenCR](https://github.com/ROBOTIS-GIT/OpenCR) - Software for ROS Embedded board (a.k.a. OpenCR). OpenCR means Open-source Control Module for ROS.
@@ -1274,6 +1274,7 @@
 - [recompiler](https://github.com/rexdex/recompiler) - Xbox360 -&gt; Windows executable converter
 - [sfw](https://github.com/github-for-unity/sfw) - A super fast and scaleable file watcher that provides a consistent interface on Linux, OSX and Windows
 - [nsfw](https://github.com/Axosoft/nsfw) - A super fast and scaleable file watcher that provides a consistent interface on Linux, OSX and Windows
+- [mbed-os](https://github.com/ARMmbed/mbed-os) - Arm Mbed OS is a platform operating system designed for the internet of things
 - [godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [netlib](https://github.com/gonum/netlib) - netlib contains C wrappers for netlib code in particular BLAS and LAPACK
 - [heif](https://github.com/nokiatech/heif) - High Efficiency Image File Format
@@ -1709,6 +1710,7 @@
 
 ## Go 
 
+- [gapic-generator-go](https://github.com/googleapis/gapic-generator-go) - Generate Go API client libraries from Protocol Buffers.
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
 - [iamlive](https://github.com/iann0036/iamlive) - Generate a basic IAM policy from AWS client-side monitoring (CSM)
 - [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
@@ -3140,7 +3142,7 @@
 - [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [end-to-end](https://github.com/google/end-to-end) - End-To-End is a crypto library to encrypt, decrypt, digital sign, and verify signed messages (implementing OpenPGP)
-- [raw](https://github.com/rawgraphs/raw) - The missing link between spreadsheets and data visualization
+- [rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - The missing link between spreadsheets and data visualization
 - [nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 - [JS-Interpreter](https://github.com/NeilFraser/JS-Interpreter) - A sandboxed JavaScript interpreter in JavaScript.
 - [blockly](https://github.com/google/blockly) - The web-based visual programming editor.
@@ -3536,7 +3538,7 @@
 - [BarMagnet](https://github.com/Qata/BarMagnet) - An iOS app that interfaces with remote torrent clients
 - [yubikit-ios](https://github.com/Yubico/yubikit-ios) - Yubico Mobile iOS SDK - YubiKit
 - [UBKAccessibilityKit](https://github.com/NAB/UBKAccessibilityKit) - An iOS framework to help with accessibility development and testing.
-- [Tachyon-iOS](https://github.com/linkedin/Tachyon-iOS) - Tachyon provides configurable UI components for iOS that are commonly used in calendar features and applications.
+- [Tachyon-iOS](https://github.com/LinkedInAttic/Tachyon-iOS) - Tachyon provides configurable UI components for iOS that are commonly used in calendar features and applications.
 - [DrawKit](https://github.com/DrawKit/DrawKit) - Vector and illustration framework for macOS
 - [ILTesting](https://github.com/InfiniteLoopDK/ILTesting) - Various helper classes to assist when testing for iOS and Mac OS X
 - [libevil_patch](https://github.com/landonf/libevil_patch) - An implementation of function patching for iOS, without the use of W|X pages.
@@ -4726,6 +4728,7 @@
 
 ## Python 
 
+- [KiBus](https://github.com/esden/KiBus) - KiCad bus length matching script.
 - [KiKit](https://github.com/yaqwsx/KiKit) - Automation tools for KiCAD
 - [strongarm](https://github.com/datatheorem/strongarm) - Mach-O analysis library 💪
 - [finance-dl](https://github.com/jbms/finance-dl) - Tools for automatically downloading/scraping personal financial data.
@@ -6351,6 +6354,8 @@
 
 ## Swift 
 
+- [CombineMarbles](https://github.com/robertpalmer/CombineMarbles) - Interactive diagrams of apple's combine for iOS and macOS.
+- [WebsiteResultBuilder](https://github.com/heestand-xyz/WebsiteResultBuilder) - Write HTML & CSS in Swift
 - [swiftui.builds](https://github.com/FranckNdame/swiftui.builds) - building cool stuff with swiftui
 - [ExampleOfiOSLiDAR](https://github.com/TokyoYoshida/ExampleOfiOSLiDAR) - Example Of iOS ARKit LiDAR
 - [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift.
@@ -7084,7 +7089,7 @@
 - [DoctorPretty](https://github.com/bkase/DoctorPretty) - Wadler's "A prettier printer" embedded pretty-printer DSL for Swift
 - [BulletinBoard](https://github.com/alexisakers/BulletinBoard) - General-purpose contextual cards for iOS
 - [Mint](https://github.com/yonaskolb/Mint) - A package manager that installs and runs executable Swift packages
-- [Time](https://github.com/dreymonde/Time) - 🕰 Type-safe time calculations in Swift, powered by generics
+- [Time](https://github.com/dreymonde/Time) - 🕰 Type-safe time calculations in Swift
 - [SwiftRichString](https://github.com/malcommac/SwiftRichString) - 👩‍🎨 Elegant Attributed String composition in Swift sauce
 - [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Find retain cycles / memory leaks sooner.
 - [CodableCache](https://github.com/asowers1/CodableCache) - A minimalist memory and disk based cache backed by NSCache, NSKeyedArchive, and the Swift 4 Codable protocol.
