@@ -1710,6 +1710,7 @@
 
 ## Go 
 
+- [libdns](https://github.com/libdns/libdns) - Core interfaces for universal DNS record manipulation across providers
 - [gapic-generator-go](https://github.com/googleapis/gapic-generator-go) - Generate Go API client libraries from Protocol Buffers.
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
 - [iamlive](https://github.com/iann0036/iamlive) - Generate a basic IAM policy from AWS client-side monitoring (CSM)
@@ -2064,7 +2065,7 @@
 - [goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [kbfs](https://github.com/keybase/kbfs) - Keybase Filesystem (KBFS)
-- [teleport](https://github.com/gravitational/teleport) - Unified access for SSH servers, Kubernetes, web applications, and databases written in Go
+- [teleport](https://github.com/gravitational/teleport) - Certificate authority and Identity aware proxy for SSH, Kubernetes, web applications, and databases
 - [find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [unigornel](https://github.com/unigornel/unigornel) - A library operating system for Go
@@ -2450,7 +2451,7 @@
 - [hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds.
 - [SikuliNG](https://github.com/RaiMan/SikuliNG) - SikuliX NG pre-alpha
 - [gwt](https://github.com/gwtproject/gwt) - GWT Open Source Project
-- [stetho](https://github.com/facebookarchive/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
+- [stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 - [closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [xcode-plugin](https://github.com/jenkinsci/xcode-plugin) - Xcode integration for mobile/iOS developments (iPhone, iPad, ...).
 - [vdt-plugin](https://github.com/Elphel/vdt-plugin) - mirror of https://git.elphel.com/Elphel/vdt-plugin
@@ -5764,7 +5765,7 @@
 - [roo](https://github.com/pivotal-benchmark/roo) - Roo provides an interface to Open Office, Excel, and Google Spreadsheets.
 - [roo-xls](https://github.com/roo-rb/roo-xls) - Roo::Xls add support for legacy Excel file standards to Roo.
 - [roo](https://github.com/roo-rb/roo) - Roo provides an interface to spreadsheets of several sorts.
-- [rubocop](https://github.com/rubocop-hq/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [Rainforest](https://github.com/CocoaPods/Rainforest) - Automate the tasks necessary to develop on CocoaPods
 - [legislative_twitter](https://github.com/troy-open-data/legislative_twitter) - An application designed to keep, track, and archive legislation; generate minutes and agendas; and streamline the workflow of the city clerk.
 - [crashlytics-services](https://github.com/crashlytics/crashlytics-services) - Simple, powerful, declarative integrations for popular third-party services.
@@ -7671,7 +7672,6 @@
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
-- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
 - [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
@@ -7816,6 +7816,7 @@
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
 - [well-managed-deployments](https://github.com/djfurman/well-managed-deployments) - Deployments are hard, doing it with proper oversight is harder, tracking it is near impossible without crazy expense. Meet a serverless solution to the problem.
+- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
