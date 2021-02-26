@@ -205,6 +205,7 @@
 
 ## C 
 
+- [RPI-pico-FreeRTOS](https://github.com/PicoCPP/RPI-pico-FreeRTOS) - 
 - [generic-node-se](https://github.com/TheThingsIndustries/generic-node-se) - Generic Node Sensor Edition
 - [PicoDVI](https://github.com/Wren6991/PicoDVI) - 
 - [neo-mc](https://github.com/neo-mc/neo-mc) - A Midnight Commander fork with scripting and other features.
@@ -537,10 +538,11 @@
 - [pv](https://github.com/icetee/pv) - Pipe Viewer Mirror - 1.6
 - [bitstream](https://github.com/videolan/bitstream) - Please send patches as pull requests.
 - [libqrencode](https://github.com/fukuchi/libqrencode) - A fast and compact QR Code encoding library
+- [meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi) - Yocto BSP layer for the Raspberry Pi boards
 - [swift-sodium](https://github.com/jedisct1/swift-sodium) - Safe and easy to use crypto for iOS and macOS
 - [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [sensible-side-buttons](https://github.com/archagon/sensible-side-buttons) - A macOS menu bar app that enables system-wide navigation functionality for the side buttons on third-party mice.
-- [xkeys](https://github.com/piengineering/xkeys) - X-Keys Linux Library
+- [X-keys_Linux](https://github.com/piengineering/X-keys_Linux) - X-Keys Linux Library
 - [winfile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
 - [shockmac](https://github.com/NightDive-Studio/shockmac) - System Shock (PowerMac version / Official GPL Release)
 - [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Source scanning laser rangefinder
@@ -735,6 +737,7 @@
 - [RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [icmptunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets.
 - [brotli](https://github.com/google/brotli) - Brotli compression format
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
 - [linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
@@ -1211,7 +1214,6 @@
 - [openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
 - [hls_lfcd_lds_driver](https://github.com/ROBOTIS-GIT/hls_lfcd_lds_driver) - ROS package for HLDS HLS-LFCD LDS driver
-- [meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi) - Yocto BSP layer for the Raspberry Pi boards
 - [nmatrix](https://github.com/SciRuby/nmatrix) - Dense and sparse linear algebra library for Ruby via SciRuby
 - [yarpgen](https://github.com/intel/yarpgen) - Yet Another Random Program Generator
 - [aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
@@ -1489,7 +1491,6 @@
 - [ios-factor.com](https://github.com/ios-factor/ios-factor.com) - A methodology for building high-quality iOS apps on a solid architecture
 - [botw-object-map](https://github.com/MrCheeze/botw-object-map) - A map of every single object in Zelda: Breath of the Wild. https://mrcheeze.github.io/botw-object-map
 - [squarespace-social-links](https://github.com/Squarespace/squarespace-social-links) - 
-- [wright-framework](https://github.com/Squarespace/wright-framework) - 
 - [endeavor-framework](https://github.com/Squarespace/endeavor-framework) - 
 - [playbook](https://github.com/usds/playbook) - The Digital Services Playbook
 - [macports-guide](https://github.com/macports/macports-guide) - A guide for MacPorts users and developers
@@ -2363,7 +2364,6 @@
 - [skija](https://github.com/JetBrains/skija) - Skia bindings for Java
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [karate](https://github.com/intuit/karate) - Test Automation Made Simple
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [tabula-java](https://github.com/tabulapdf/tabula-java) - Extract tables from PDF files
 - [maptool](https://github.com/RPTools/maptool) - Virtual Tabletop for playing roleplaying games with remote players or face to face.
 - [TrashEmail](https://github.com/r0hi7/TrashEmail) - A hosted disposable email telegram bot; Extremely privacy friendly; Proudly hosted for community.
@@ -2985,7 +2985,7 @@
 - [realtime-v2](https://github.com/usecanvas/realtime-v2) - 
 - [web-v2](https://github.com/usecanvas/web-v2) - 
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
+- [Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
@@ -3071,7 +3071,6 @@
 - [kbsslenforcer](https://github.com/kbitdk/kbsslenforcer) - Automatic security, browse encrypted
 - [sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [CocoaConferences](https://github.com/Lascorbe/CocoaConferences) - List of Cocoa conferences for iOS & macOS developers
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
@@ -3205,7 +3204,7 @@
 - [tracing-framework](https://github.com/google/tracing-framework) - Web Tracing Framework libraries and extensions.
 - [jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
 - [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
-- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [mongo-auth](https://github.com/tejohnso/mongo-auth) - log in/out routines for mongo web apps
 - [pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser
@@ -3381,6 +3380,7 @@
 
 - [homebrewery](https://github.com/naturalcrit/homebrewery) - Create authentic looking D&D homebrews using only markdown
 - [Bolt-Docs](https://github.com/UDOOboard/Bolt-Docs) - UDOO Bolt Documentation
+- [wright-framework](https://github.com/Squarespace/wright-framework) - 
 
 ## Lua 
 
@@ -3484,6 +3484,7 @@
 - [unikernels](https://github.com/roburio/unikernels) - MirageOS unikernels
 - [dns-primary-git](https://github.com/roburio/dns-primary-git) - A MirageOS unikernel acting as primary DNS server, data stored in a remote git repository
 - [qubes-mirage-firewall](https://github.com/mirage/qubes-mirage-firewall) - A Mirage firewall VM for QubesOS
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [learn-ocaml](https://github.com/ocaml-sf/learn-ocaml) - A Web Application for Learning OCaml
 - [hardcaml](https://github.com/janestreet/hardcaml) - Hardcaml is an OCaml library for designing hardware.
@@ -3557,7 +3558,7 @@
 - [ios-sdk](https://github.com/spotify/ios-sdk) - Spotify SDK for iOS
 - [cTiVo](https://github.com/mackworth/cTiVo) - TiVo Show Downloads for MacOS
 - [kxmovie](https://github.com/kolyvan/kxmovie) - movie player for iOS using ffmpeg
-- [Sloth](https://github.com/sveinbjornt/Sloth) - Native Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
+- [Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [WiFiAuth](https://github.com/KrauseFx/WiFiAuth) - Because connecting to WiFis is still an unsolved problem 😂
 - [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.
 - [CAARPlayer](https://github.com/insidegui/CAARPlayer) - An app that lets you view .caar files
@@ -4055,6 +4056,7 @@
 
 ## Others 
 
+- [awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [NetFPGA-SUME-public](https://github.com/NetFPGA/NetFPGA-SUME-public) - NetFPGA-SUME public repository
 - [cheap-pcb](https://github.com/hardenedlinux/cheap-pcb) - Cheap PCB: Better understanding the current status of hardware supply chain
 - [sky130_fd_pr](https://github.com/mattvenn/sky130_fd_pr) - 
@@ -4317,7 +4319,7 @@
 - [awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
 - [dieter](https://github.com/numworks/dieter) - STL files for the NumWorks graphing calcultor
 - [touchbar](https://github.com/loretoparisi/touchbar) - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples
-- [awesome-touchbar](https://github.com/zridouh-chwy/awesome-touchbar) - :point_right: :star2: delightful macOS resources for your touchbar
+- [awesome-touchbar](https://github.com/z11h/awesome-touchbar) - :point_right: :star2: delightful macOS resources for your touchbar
 - [PCalc-Hybrid-Layout](https://github.com/diegobit/PCalc-Hybrid-Layout) - An RPN layout for PCalc
 - [quality_mobile_apps](https://github.com/mgasiorowski/quality_mobile_apps) - Tools, articles, etc. related to quality in mobile applications.
 - [tessdata_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
@@ -4424,7 +4426,7 @@
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
-- [ruby-style-guide](https://github.com/rubocop-hq/ruby-style-guide) - A community-driven Ruby coding style guide
+- [ruby-style-guide](https://github.com/rubocop/ruby-style-guide) - A community-driven Ruby coding style guide
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [qubes-issues](https://github.com/QubesOS/qubes-issues) - The Qubes OS Project issue tracker
@@ -4794,7 +4796,7 @@
 - [distance-assistant](https://github.com/amzn/distance-assistant) - Pedestrian monitor that provides visual feedback to help ensure proper social distancing guidelines are being observed
 - [spelling](https://github.com/sphinx-contrib/spelling) - A spelling checker for Sphinx-based documentation
 - [avrae](https://github.com/avrae/avrae) - A Discord bot to streamline running D&D 5e.
-- [fastPunct](https://github.com/notAI-tech/fastPunct) - Fast and accurate punctuation restoration on unsegmented text using sequence to sequence model consisting of bidirectional recurrent neural network model ( LSTM ) and attention mechanism.
+- [fastPunct](https://github.com/notAI-tech/fastPunct) - Punctuation restoration and spell correction experiments.
 - [glslTexture](https://github.com/patriciogonzalezvivo/glslTexture) - Blender addon to create 2D textures from GLSL. It follows the same nomenclature that glslViewer, glslCanvas, glslEditor, ofxShader and PixelSpirit
 - [xword-dl](https://github.com/thisisparker/xword-dl) - 
 - [opensearch](https://github.com/dewitt/opensearch) - OpenSearch is a collection of simple formats for the sharing of search results.
@@ -6854,7 +6856,7 @@
 - [Notarize](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts.
 - [appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) - The Swift SDK to work with the App Store Connect API from Apple.
 - [SwiftR](https://github.com/kalanyuz/SwiftR) - A Swift framework for Real-time time series data visualization
-- [Pixel](https://github.com/muukii/Pixel) - 🎨🖼 An image editor and engine using CoreImage
+- [Pixel](https://github.com/muukii/Pixel) - 📷 An image editor and engine using CoreImage
 - [FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [sourcekite](https://github.com/vknabel/sourcekite) - the backend of SDE's language server
 - [ExpandableLabel](https://github.com/apploft/ExpandableLabel) - A simple UILabel subclass that shows a tappable link if the content doesn't fit the specified number of lines
