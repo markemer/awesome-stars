@@ -205,6 +205,8 @@
 
 ## C 
 
+- [lvgl](https://github.com/lvgl/lvgl) - Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
+- [mod_tls](https://github.com/icing/mod_tls) - Bringing rustls into the Apache server.
 - [RPI-pico-FreeRTOS](https://github.com/PicoCPP/RPI-pico-FreeRTOS) - 
 - [generic-node-se](https://github.com/TheThingsIndustries/generic-node-se) - Generic Node Sensor Edition
 - [PicoDVI](https://github.com/Wren6991/PicoDVI) - 
@@ -351,7 +353,7 @@
 - [gbhv](https://github.com/Gbps/gbhv) - Simple x86-64 VT-x Hypervisor with EPT Hooking
 - [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
-- [pspg](https://github.com/okbob/pspg) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.
+- [pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard.
 - [ljx](https://github.com/katlogic/ljx) - LuaJIT with native 5.2 and 5.3 support
 - [freedom-metal](https://github.com/sifive/freedom-metal) - Bare Metal Compatibility Library for the Freedom Platform
 - [1st-CLaaS](https://github.com/stevehoover/1st-CLaaS) - Framework for developing and deploying FPGA logic in the cloud as a microservice for web and cloud applications
@@ -1636,7 +1638,6 @@
 - [hugo-on-fire](https://github.com/wajahatkarim3/hugo-on-fire) - 🔥 A Github Action to build a Hugo site and deploy it on Firebase Hosting.
 - [swift_codespaces](https://github.com/taki-on/swift_codespaces) - Swift 5 in GitHub Codespaces
 - [SwiftAction](https://github.com/Didstopia/SwiftAction) - Swift support for GitHub Actions.
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
 - [vsce-action](https://github.com/lannonbr/vsce-action) - A GitHub Action to automate deploying VS Code extensions
 - [swift-on-balena](https://github.com/wlisac/swift-on-balena) - Docker images for Swift on Raspberry Pi and other ARM devices from balena's base images.
@@ -2505,7 +2506,7 @@
 - [SierraDeathGenerator](https://github.com/foone/SierraDeathGenerator) - Generate fake screenshots from video games
 - [procedural-gl-react](https://github.com/felixpalmer/procedural-gl-react) - React component for the Procedural GL JS library
 - [game-cyberpunk2077](https://github.com/thundergod97/game-cyberpunk2077) - Adds support for Cyberpunk 2077 to Vortex.
-- [xeokit-sdk](https://github.com/xeokit/xeokit-sdk) - JavaScript SDK for viewing high-detail, full-precision 3D BIM and AEC models in the Web browser.
+- [xeokit-sdk](https://github.com/xeokit/xeokit-sdk) - Open source JavaScript SDK for viewing high-detail, full-precision 3D BIM and AEC models in the Web browser.
 - [hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [function-templates](https://github.com/twilio-labs/function-templates) - Twilio Function templates for different Voice, SMS, Video, Chat, Sync, etc use cases
@@ -3289,6 +3290,7 @@
 
 ## Jupyter Notebook 
 
+- [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
 - [introtodeeplearning](https://github.com/aamini/introtodeeplearning) - Lab Materials for MIT 6.S191: Introduction to Deep Learning
 - [cat-localizer](https://github.com/filipsPL/cat-localizer) - Localize your cat at home with BLE beacon, ESP32s, and Machine Learning
 - [databaker](https://github.com/sensiblecodeio/databaker) - Command line tool to convert spreadsheets to databases, made for the UK's Office for National Statistics.
@@ -6107,6 +6109,7 @@
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [firebase-action](https://github.com/w9jds/firebase-action) - GitHub Action for interacting with Firebase
 - [typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
 - [heads](https://github.com/osresearch/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
