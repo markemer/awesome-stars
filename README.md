@@ -225,7 +225,6 @@
 - [uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 - [rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
 - [learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
-- [ChibiOS](https://github.com/qmk/ChibiOS) - Mirror of the ChibiOS SVN repository
 - [ChibiOS](https://github.com/mabl/ChibiOS) - Mirror of the ChibiOS SVN repository (updated every 10 minutes)
 - [linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
 - [xvisor-next](https://github.com/avpatel/xvisor-next) - Xvisor: eXtensible Versatile hypervISOR
@@ -941,6 +940,7 @@
 - [RED4ext](https://github.com/yamashi/RED4ext) - A script extender for REDengine 4.
 - [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) - Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
 - [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Time Series Visualization Tool that you deserve.
+- [ChibiOS](https://github.com/qmk/ChibiOS) - Mirror of the ChibiOS SVN repository
 - [meshpy](https://github.com/inducer/meshpy) - 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
@@ -4732,6 +4732,7 @@
 
 ## Python 
 
+- [graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [KiBus](https://github.com/esden/KiBus) - KiCad bus length matching script.
 - [KiKit](https://github.com/yaqwsx/KiKit) - Automation tools for KiCAD
 - [strongarm](https://github.com/datatheorem/strongarm) - Mach-O analysis library 💪
@@ -6859,7 +6860,7 @@
 - [Notarize](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts.
 - [appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) - The Swift SDK to work with the App Store Connect API from Apple.
 - [SwiftR](https://github.com/kalanyuz/SwiftR) - A Swift framework for Real-time time series data visualization
-- [Pixel](https://github.com/muukii/Pixel) - 📷 An image editor and engine using CoreImage
+- [Pixel](https://github.com/muukii/Pixel) - 📷 An image editor and engine using CoreImage - Started v2 development!
 - [FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [sourcekite](https://github.com/vknabel/sourcekite) - the backend of SDE's language server
 - [ExpandableLabel](https://github.com/apploft/ExpandableLabel) - A simple UILabel subclass that shows a tappable link if the content doesn't fit the specified number of lines
@@ -7575,6 +7576,7 @@
 
 ## TypeScript 
 
+- [xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
 - [SnowFS](https://github.com/Snowtrack/SnowFS) - 👋 [Looking for maintainers] SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [improved-initiative](https://github.com/cynicaloptimist/improved-initiative) - Combat tracker for Dungeons and Dragons (D&D) 5th Edition
 - [editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux - by Curvenote.
