@@ -842,7 +842,7 @@
 - [d2](https://github.com/OpenRA/d2) - A d2 mod for OpenRA
 - [OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-- [cortex-v2-example](https://github.com/Emotiv/cortex-v2-example) - Example code for Cortex V2
+- [cortex-v2-example](https://github.com/Emotiv/cortex-v2-example) - Example with Cortex V2 API
 - [renode](https://github.com/renode/renode) - Renode - Antmicro's virtual development framework for complex embedded systems
 - [asm-dude](https://github.com/HJLebbink/asm-dude) - Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
 - [wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
@@ -1715,7 +1715,7 @@
 - [libdns](https://github.com/libdns/libdns) - Core interfaces for universal DNS record manipulation across providers
 - [gapic-generator-go](https://github.com/googleapis/gapic-generator-go) - Generate Go API client libraries from Protocol Buffers.
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
-- [iamlive](https://github.com/iann0036/iamlive) - Generate a basic IAM policy from AWS client-side monitoring (CSM)
+- [iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
 - [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [go-fluent-ffmpeg](https://github.com/modfy/go-fluent-ffmpeg) - A Go implementation of fluent-ffmpeg
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
@@ -2710,7 +2710,6 @@
 - [tracery](https://github.com/galaxykate/tracery) - Tracery: a story-grammar generation library for javascript
 - [idyll-embed](https://github.com/idyll-lang/idyll-embed) - Embed Idyll directly in an HTML page
 - [svg-3d-builder](https://github.com/captainwz/svg-3d-builder) - an elaborate tool to create 3d model with svg
-- [highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [generator-llvm](https://github.com/mshockwave/generator-llvm) - Generate project templates for executables that use LLVM and LLVM passes
 - [electro-grammar](https://github.com/kitspace/electro-grammar) - :zap: A parser for electronic component descriptions
 - [tensorflow-experiments](https://github.com/notwaldorf/tensorflow-experiments) - 
@@ -4059,6 +4058,7 @@
 
 ## Others 
 
+- [Airports](https://github.com/mwgg/Airports) - A JSON database of 28k+ airports with ICAO/IATA codes, names, cities, two-letter country identifiers, elevation, latitude & longitude, and a timezone identifier
 - [NullCIC](https://github.com/Redherring32/NullCIC) - A little board to replace the CIC on the original NES or OpenTendo.
 - [OpenTendo](https://github.com/Redherring32/OpenTendo) - An Open-Source HardWare (OSHW) recreation of the original 1985 front-loading NES Motherboard
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
@@ -7669,6 +7669,7 @@
 - [d3-dag](https://github.com/erikbrinkman/d3-dag) - Layout algorithms for visualizing directed acyclic graphs
 - [vscode-theme-generator](https://github.com/Tyriar/vscode-theme-generator) - Easily generate themes for VS Code with only a few colors
 - [chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
+- [highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [ink-tmlanguage](https://github.com/inkle/ink-tmlanguage) - TextMate grammar files for Ink. (VS Code, Sublime Text, and Atom)
 - [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
