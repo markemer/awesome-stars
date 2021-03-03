@@ -63,6 +63,7 @@
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Matlab](#matlab)
+  - [Mustache](#mustache)
   - [NSIS](#nsis)
   - [Nim](#nim)
   - [Nix](#nix)
@@ -205,6 +206,7 @@
 
 ## C 
 
+- [lotusdrv](https://github.com/taviso/lotusdrv) - Lotus 1-2-3 R4D Display Driver for DOSEMU
 - [lvgl](https://github.com/lvgl/lvgl) - Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
 - [mod_tls](https://github.com/icing/mod_tls) - Bringing rustls into the Apache server.
 - [RPI-pico-FreeRTOS](https://github.com/PicoCPP/RPI-pico-FreeRTOS) - 
@@ -738,7 +740,6 @@
 - [RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [icmptunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets.
 - [brotli](https://github.com/google/brotli) - Brotli compression format
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
 - [linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
@@ -1031,7 +1032,7 @@
 - [pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes and Search for Academia
 - [cxxmatrix](https://github.com/akinomyoga/cxxmatrix) - C++ Matrix: The Matrix Reloaded in Terminals (Number falls, Banners, Matrix rains, Conway's Game of Life and Mandelbrot set)
 - [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [qcad](https://github.com/qcad/qcad) - QCAD - The Open Source 2D CAD. QCAD is a crossplatform CAD solution for Windows, Mac OS X and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
+- [qcad](https://github.com/qcad/qcad) - QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
 - [rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [OOPS](https://github.com/mulshine/OOPS) - A C library for Audio synthesis and processing, intended for embedded applications, written using semi-OOP style.
 - [xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
@@ -2277,7 +2278,6 @@
 - [fauxpas-web-presenter](https://github.com/FauxPasApp/fauxpas-web-presenter) - Standalone client-side web app for presenting Faux Pas diagnostics
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
-- [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [statement](https://github.com/TheUpshot/statement) - A Ruby gem that extracts press releases and statements by members of Congress.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [tinderbox](https://github.com/crockpotveggies/tinderbox) - Automate Tinder swiping and introductions with Eigenfaces and StanfordNLP. NOTE: support for this project has been sunset, and the original author has since directed efforts towards Bernie AI.
@@ -2451,7 +2451,6 @@
 - [ghprb](https://github.com/janinko/ghprb) - github pull requests builder plugin for Jenkins
 - [groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 - [hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds.
-- [SikuliNG](https://github.com/RaiMan/SikuliNG) - SikuliX NG pre-alpha
 - [gwt](https://github.com/gwtproject/gwt) - GWT Open Source Project
 - [stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 - [closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
@@ -2553,7 +2552,7 @@
 - [cartogram-chart](https://github.com/vasturiano/cartogram-chart) - A cartogram chart web component for visualizing geographical data by distorting a TopoJson topology
 - [RecallGraph](https://github.com/RecallGraph/RecallGraph) - A versioning data store for time-variant graph data.
 - [password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
-- [sharedrop](https://github.com/cowbell/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+- [sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [debugger-protocol-viewer](https://github.com/ChromeDevTools/debugger-protocol-viewer) - DevTools Protocol API docs—its domains, methods, and events
 - [devtools-protocol](https://github.com/ChromeDevTools/devtools-protocol) - Chrome DevTools Protocol
@@ -3072,6 +3071,7 @@
 - [kbsslenforcer](https://github.com/kbitdk/kbsslenforcer) - Automatic security, browse encrypted
 - [sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [CocoaConferences](https://github.com/Lascorbe/CocoaConferences) - List of Cocoa conferences for iOS & macOS developers
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
@@ -3466,6 +3466,10 @@
 ## Matlab 
 
 - [FuseBox](https://github.com/sjtrny/FuseBox) - MATLAB library for pansharpening and image fusion
+
+## Mustache 
+
+- [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 
 ## NSIS 
 
@@ -6850,7 +6854,7 @@
 - [SwiftyUserDefaults](https://github.com/sunshinejr/SwiftyUserDefaults) - Modern Swift API for NSUserDefaults
 - [Komondor](https://github.com/shibapm/Komondor) - Git Hooks for Swift projects 🐩
 - [objectbox-swift](https://github.com/objectbox/objectbox-swift) - ObjectBox Swift - persisting your Swift objects superfast and simple
-- [set-simulator-location](https://github.com/lyft/set-simulator-location) - CLI for setting location in the iOS simulator
+- [set-simulator-location](https://github.com/MobileNativeFoundation/set-simulator-location) - CLI for setting location in the iOS simulator
 - [linenoise-swift](https://github.com/andybest/linenoise-swift) - A pure Swift replacement for readline
 - [Files](https://github.com/JohnSundell/Files) - A nicer way to handle files & folders in Swift
 - [Commandant](https://github.com/Carthage/Commandant) - Type-safe command line argument handling
