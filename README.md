@@ -164,7 +164,6 @@
 - [ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
 - [DOOM-FX](https://github.com/RandalLinden/DOOM-FX) - Doom/FX for Super Nintendo with SuperFX GSU2A
 - [BootMine](https://github.com/io12/BootMine) - Bootable minesweeper game in a 512-byte boot sector
-- [efi-clang](https://github.com/yoppeh/efi-clang) - Build UEFI applications with the Clang compiler and LLD linker.
 - [sixty5o2](https://github.com/janroesner/sixty5o2) - Micro Kernel / Bootloader for Ben Eater's 6502 Computer
 - [usbcopynesblue](https://github.com/bbbradsmith/usbcopynesblue) - USBCopyNESBlue for Windows
 - [PiPU](https://github.com/rasteri/PiPU) - Project to use a Raspberry Pi as a NES graphics accelerator
@@ -388,7 +387,6 @@
 - [micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [mist-binaries](https://github.com/mist-devel/mist-binaries) - Firmware and core binaries for the MIST board
-- [Ingenic-SDK-T10T20-3.12.0-20180320](https://github.com/yuanhao0226/Ingenic-SDK-T10T20-3.12.0-20180320) - 
 - [Ingenic-T10_20](https://github.com/debugdump/Ingenic-T10_20) - Ingenic T10 T20 SDK 3.9.0 20161209
 - [Ingenic-kernel](https://github.com/beihuijie/Ingenic-kernel) - 
 - [SaBRe](https://github.com/srg-imperial/SaBRe) - Load-time selective binary rewriting
@@ -852,7 +850,7 @@
 - [BlueMuse](https://github.com/kowalej/BlueMuse) - Windows 10 app to stream data from Muse EEG headsets via LSL (Lab Streaming Layer).
 - [t1bootstrap](https://github.com/t1lang/t1bootstrap) - Bootstrap compiler
 - [flashdevelop](https://github.com/fdorg/flashdevelop) - FlashDevelop is a free and open source code editor.
-- [WindowsCommunityToolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit is part of the .NET Foundation.
+- [WindowsCommunityToolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit is part of the .NET Foundation.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [pgina](https://github.com/pgina/pgina) - pGina: Open Source Windows Authentication
 - [opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac.
@@ -1010,6 +1008,7 @@
 - [Karabiner-DriverKit-VirtualHIDDevice](https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice) - 
 - [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
 - [circle](https://github.com/seanbaxter/circle) - The compiler is available for download. Get it!
+- [efi-clang](https://github.com/yoppeh/efi-clang) - Build UEFI applications with the Clang compiler and LLD linker.
 - [Mouse](https://github.com/biomurph/Mouse) - Repository for Open Source Mouse Firmware and Hardware
 - [ShaderConductor](https://github.com/EpicGames/ShaderConductor) - ShaderConductor is a tool designed for cross-compiling HLSL to other shading languages
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor) - ShaderConductor is a tool designed for cross-compiling HLSL to other shading languages
@@ -1909,7 +1908,7 @@
 - [novm](https://github.com/google/novm) - Experimental KVM-based VMM for containers, written in Go.
 - [nanobox](https://github.com/nanobox-io/nanobox) - The ideal platform for developers
 - [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - Terraform on IBM provider https://cloud.ibm.com/docs/ibm-cloud-provider-for-terraform?topic=ibm-cloud-provider-for-terraform-getting-started
-- [rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud on a continuous basis with OTA updates.
+- [rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud.
 - [ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [go-ssh-examples](https://github.com/Scalingo/go-ssh-examples) - Go examples of SSH servers and clients
 - [spark](https://github.com/rif/spark) - Emergency web server
@@ -2281,7 +2280,7 @@
 - [statement](https://github.com/TheUpshot/statement) - A Ruby gem that extracts press releases and statements by members of Congress.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [tinderbox](https://github.com/crockpotveggies/tinderbox) - Automate Tinder swiping and introductions with Eigenfaces and StanfordNLP. NOTE: support for this project has been sunset, and the original author has since directed efforts towards Bernie AI.
-- [fonts](https://github.com/google/fonts) - Font files available from Google Fonts
+- [fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
@@ -2603,7 +2602,7 @@
 - [Action-setup-swift](https://github.com/YOCKOW/Action-setup-swift) - GitHub Action that sets up Swift.
 - [texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 - [roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
-- [ViewFinderJS](https://github.com/c9fe/ViewFinderJS) - :camera: ViewFinder - NodeJS product to make the browser  into a web app. WTF RBI. CBII. Remote browser isolation, embeddable browserview, secure chrome saas. Licenses, managed, self-hosted. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but open source with free live demos available now! Also, integrated RBI/CDR with CDR from https://github.com/dosyago/p2%2e
+- [ViewFinderJS](https://github.com/i5ik/ViewFinderJS) - :camera: ViewFinder - NodeJS product to make the browser  into a web app. WTF RBI. CBII. Remote browser isolation, embeddable browserview, secure chrome saas. Licenses, managed, self-hosted. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but open source with free live demos available now! Also, integrated RBI/CDR with CDR from https://github.com/dosyago/p2%2e
 - [bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
@@ -2994,7 +2993,7 @@
 - [mobile-gamepad](https://github.com/sbidolach/mobile-gamepad) - Mobile wifi gamepad for RetroPie
 - [lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [crxautoreload](https://github.com/icai/crxautoreload) - chrome extension development runtime auto reload
-- [svgo](https://github.com/svg/svgo) - :tiger: Node.js tool for optimizing SVG files
+- [svgo](https://github.com/svg/svgo) - :gear: Node.js tool for optimizing SVG files
 - [linter-rubocop](https://github.com/AtomLinter/linter-rubocop) - Linter plugin for Ruby, using rubocop
 - [linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers http://steelbrain.me/linter/
 - [opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
@@ -3124,7 +3123,7 @@
 - [react-calendar](https://github.com/hanse/react-calendar) - React.js Calendar Component (npm install react-calendar-component) 📅
 - [kbpgp](https://github.com/keybase/kbpgp) - OpenPGP (RFC4880) Implementation in IcedCoffeeScript
 - [remtail](https://github.com/NickCarneiro/remtail) - tail log files from multiple remote hosts
-- [highlight.js](https://github.com/highlightjs/highlight.js) - Javascript syntax highlighter
+- [highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection.
 - [raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library
 - [jison](https://github.com/zaach/jison) - Bison in JavaScript.
 - [uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
@@ -4062,6 +4061,7 @@
 
 ## Others 
 
+- [Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
 - [Airports](https://github.com/mwgg/Airports) - A JSON database of 28k+ airports with ICAO/IATA codes, names, cities, two-letter country identifiers, elevation, latitude & longitude, and a timezone identifier
 - [NullCIC](https://github.com/Redherring32/NullCIC) - A little board to replace the CIC on the original NES or OpenTendo.
 - [OpenTendo](https://github.com/Redherring32/OpenTendo) - An Open-Source HardWare (OSHW) recreation of the original 1985 front-loading NES Motherboard
@@ -4739,6 +4739,7 @@
 
 ## Python 
 
+- [rpi-metro-display](https://github.com/kenschneider18/rpi-metro-display) - Code for Raspberry Pi based dot matrix DC Metro times display
 - [graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [KiBus](https://github.com/esden/KiBus) - KiCad bus length matching script.
 - [KiKit](https://github.com/yaqwsx/KiKit) - Automation tools for KiCAD
@@ -7589,7 +7590,7 @@
 - [editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux - by Curvenote.
 - [vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) - Visual Studio Code extension for ESP-IDF projects
 - [backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
-- [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - An intuitive and stylish markdown note app for the developers.
+- [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - Boost Note is a powerful, lightspeed collaborative workspace for developer teams.
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
