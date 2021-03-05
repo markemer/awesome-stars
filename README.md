@@ -190,7 +190,6 @@
 - [connectedNES](https://github.com/hxlnt/connectedNES) - 📡 A WiFi "modem" that connects your NES to the internet. Includes sample Twitter client.
 - [servasm](https://github.com/zarkzork/servasm) - X86_64 Linux webserver in assembler
 - [mal](https://github.com/kanaka/mal) - mal - Make a Lisp
-- [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [asm](https://github.com/0xAX/asm) - Learning assembly for linux-x64
 
 ## Batchfile 
@@ -2420,7 +2419,7 @@
 - [cello](https://github.com/CIDARLAB/cello) - Genetic circuit design automation
 - [intellij-sdk-docs](https://github.com/JetBrains/intellij-sdk-docs) - IntelliJ SDK Platform Documentation
 - [codebuff](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning (uh, like, is this possible? YES, apparently).
-- [intellij-plugin-v4](https://github.com/antlr/intellij-plugin-v4) - An intellij plugin for ANTLR v4 in Intellij 12.1, 13.X, 2018.2
+- [intellij-plugin-v4](https://github.com/antlr/intellij-plugin-v4) - An IntelliJ plugin for ANTLR v4
 - [antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [GKD](https://github.com/mcheung63/GKD) - General kernel debugger
 - [clojure](https://github.com/clojure/clojure) - The Clojure programming language
@@ -3123,6 +3122,7 @@
 - [react-calendar](https://github.com/hanse/react-calendar) - React.js Calendar Component (npm install react-calendar-component) 📅
 - [kbpgp](https://github.com/keybase/kbpgp) - OpenPGP (RFC4880) Implementation in IcedCoffeeScript
 - [remtail](https://github.com/NickCarneiro/remtail) - tail log files from multiple remote hosts
+- [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection.
 - [raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library
 - [jison](https://github.com/zaach/jison) - Bison in JavaScript.
@@ -6868,7 +6868,7 @@
 - [Notarize](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts.
 - [appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) - The Swift SDK to work with the App Store Connect API from Apple.
 - [SwiftR](https://github.com/kalanyuz/SwiftR) - A Swift framework for Real-time time series data visualization
-- [Pixel](https://github.com/muukii/Pixel) - 📷 An image editor and engine using CoreImage - Started v2 development!
+- [Pixel](https://github.com/muukii/Pixel) - 📷 [v2 development started 🧵] An image editor and engine using CoreImage
 - [FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [sourcekite](https://github.com/vknabel/sourcekite) - the backend of SDE's language server
 - [ExpandableLabel](https://github.com/apploft/ExpandableLabel) - A simple UILabel subclass that shows a tappable link if the content doesn't fit the specified number of lines
