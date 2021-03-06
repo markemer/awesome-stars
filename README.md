@@ -1528,7 +1528,6 @@
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [holmes](https://github.com/redroot/holmes) - Holmes is stand-alone diagnostic CSS stylesheet that can highlight potentially invalid or erroneous HTML(5) markup by adding one class
 - [markemer.github.io](https://github.com/markemer/markemer.github.io) - GitHub User Page
-- [susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass
 
 ## Chapel 
 
@@ -3532,7 +3531,7 @@
 - [plaid-link-ios](https://github.com/plaid/plaid-link-ios) - Plaid Link iOS SDK
 - [v002-Camera-Live](https://github.com/v002/v002-Camera-Live) - Live Syphon Camera
 - [fhe-toolkit-ios](https://github.com/IBM/fhe-toolkit-ios) - IBM Fully Homomorphic Encryption Toolkit For iOS
-- [Zebra](https://github.com/zbrateam/Zebra) - A Useful Package Manager for iOS
+- [Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [plcrashreporter](https://github.com/microsoft/plcrashreporter) - Reliable, open-source crash reporting for iOS, macOS and tvOS
 - [AppleSimulatorUtils](https://github.com/wix/AppleSimulatorUtils) - A collection of command-line utils for Apple simulators.
 - [Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
@@ -6050,6 +6049,7 @@
 - [guides](https://github.com/rubygems/guides) - An effort to provide awesome documentation for the RubyGems ecosystem.
 - [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass
 
 ## Sass 
 
@@ -7585,7 +7585,7 @@
 ## TypeScript 
 
 - [xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
-- [SnowFS](https://github.com/Snowtrack/SnowFS) - 👋 [Looking for maintainers] SnowFS - a fast, scalable version control file storage for graphic files :art:
+- [SnowFS](https://github.com/Snowtrack/SnowFS) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [improved-initiative](https://github.com/cynicaloptimist/improved-initiative) - Combat tracker for Dungeons and Dragons (D&D) 5th Edition
 - [editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux - by Curvenote.
 - [vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) - Visual Studio Code extension for ESP-IDF projects
