@@ -6368,6 +6368,12 @@
 
 ## Swift 
 
+- [swift-helpful](https://github.com/danielmartin/swift-helpful) - A Self-Documenting Emacs Programming Environment for Swift. Includes curated Swift 5.3 documentation and reference in GNU Info format, with cross-references, and keyword/topic indices.
+- [BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
+- [variable-injector](https://github.com/LucianoPAlmeida/variable-injector) - Continuous Integration Tool for Swift Projects
+- [star](https://github.com/thumbtack/star) - Generate reports on how frequently specified Swift types are being used in your iOS codebase
+- [Pecker](https://github.com/woshiccm/Pecker) - CodePecker is a tool to detect unused Swift code.
+- [SwiftInspector](https://github.com/fdiaz/SwiftInspector) - SwiftInspector is a command line tool built on top of SwiftSyntax to help inspect usage of Swift code
 - [CombineMarbles](https://github.com/robertpalmer/CombineMarbles) - Interactive diagrams of apple's combine for iOS and macOS.
 - [WebsiteResultBuilder](https://github.com/heestand-xyz/WebsiteResultBuilder) - Write HTML & CSS in Swift
 - [swiftui.builds](https://github.com/FranckNdame/swiftui.builds) - building cool stuff with swiftui
@@ -6602,7 +6608,7 @@
 - [ExpyTableView](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method.
 - [KeyboardGuide](https://github.com/niw/KeyboardGuide) - A modern, real iOS keyboard system notifications handler framework that Just Works.
 - [SwiftPackageIndex-Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server) - The Swift Package Index is the place to find Swift packages!
-- [Messenger](https://github.com/realpaliy/Messenger) - iOS - Real-time messaging app  🎨
+- [Messenger](https://github.com/vitaliy-paliy/Messenger) - iOS - Real-time messaging app  🎨
 - [MacSymbolicator](https://github.com/inket/MacSymbolicator) - Symbolicating macOS/iOS crash reports, easily.
 - [CommonMarkAttributedString](https://github.com/mattt/CommonMarkAttributedString) - Create NSAttributedStrings from Markdown Text
 - [ComposableDiffableMVP](https://github.com/timd/ComposableDiffableMVP) - Being a minimally-viable UICollectionView using a composable layout and a diffable data source
