@@ -204,6 +204,7 @@
 
 ## C 
 
+- [slimbootloader](https://github.com/slimbootloader/slimbootloader) - Visit http://slimbootloader.github.io for documentation
 - [lotusdrv](https://github.com/taviso/lotusdrv) - Lotus 1-2-3 R4D Display Driver for DOSEMU
 - [lvgl](https://github.com/lvgl/lvgl) - Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
 - [mod_tls](https://github.com/icing/mod_tls) - Bringing rustls into the Apache server.
@@ -361,7 +362,6 @@
 - [natasha](https://github.com/scaleway/natasha) - Natasha is a fast and scalable, DPDK powered, stateless NAT44 packet processor
 - [openadk](https://github.com/wbx-github/openadk) - Open Source Appliance Development Kit (mirror)
 - [idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
-- [alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [chiaki](https://github.com/thestr4ng3r/chiaki) - Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client
 - [x48](https://github.com/gwenhael-le-moine/x48) - HP48 calculator emulator (mirror of sourceforge's mirror of berlios)
 - [i48](https://github.com/dparnell/i48) - A HP48GX emulator for the iPhone and iPod touch
@@ -1633,6 +1633,7 @@
 
 ## Dockerfile 
 
+- [docker-x11-bridge](https://github.com/JAremko/docker-x11-bridge) - Simple Xpra X11 bridge to enable GUI with any docker image
 - [hugo-on-fire](https://github.com/wajahatkarim3/hugo-on-fire) - 🔥 A Github Action to build a Hugo site and deploy it on Firebase Hosting.
 - [swift_codespaces](https://github.com/taki-on/swift_codespaces) - Swift 5 in GitHub Codespaces
 - [SwiftAction](https://github.com/Didstopia/SwiftAction) - Swift support for GitHub Actions.
@@ -2991,7 +2992,7 @@
 - [mobile-gamepad](https://github.com/sbidolach/mobile-gamepad) - Mobile wifi gamepad for RetroPie
 - [lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [crxautoreload](https://github.com/icai/crxautoreload) - chrome extension development runtime auto reload
-- [svgo](https://github.com/svg/svgo) - :gear: Node.js tool for optimizing SVG files
+- [svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [linter-rubocop](https://github.com/AtomLinter/linter-rubocop) - Linter plugin for Ruby, using rubocop
 - [linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers http://steelbrain.me/linter/
 - [opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
@@ -4060,6 +4061,7 @@
 
 ## Others 
 
+- [Pi400-Pico-Plate](https://github.com/Wren6991/Pi400-Pico-Plate) - 
 - [Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
 - [Airports](https://github.com/mwgg/Airports) - A JSON database of 28k+ airports with ICAO/IATA codes, names, cities, two-letter country identifiers, elevation, latitude & longitude, and a timezone identifier
 - [NullCIC](https://github.com/Redherring32/NullCIC) - A little board to replace the CIC on the original NES or OpenTendo.
@@ -4359,7 +4361,7 @@
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [heads-wiki](https://github.com/osresearch/heads-wiki) - Documentation for the Heads firmware project
-- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck
+- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [Xcode-Templates](https://github.com/kharrison/Xcode-Templates) - Xcode File And Project Templates
 - [pluto](https://github.com/carrotIndustries/pluto) - Pluto is a programmable digital watch that re-uses case and LCD panel of the Casio® F-91W. (Hardware)
 - [favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
@@ -6102,6 +6104,7 @@
 
 ## Shell 
 
+- [docker-emacs](https://github.com/JAremko/docker-emacs) - Dockerized Emacs (GUI)
 - [hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [yoe-distro](https://github.com/YoeDistro/yoe-distro) - Embedded Linux distribution optimized for product development (based on OE/Yocto)
 - [markdown-to-google-doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive
@@ -6149,6 +6152,7 @@
 - [awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [opiterm](https://github.com/geoffeg/opiterm) - 1Password integration for iTerm2
 - [xcderiveddata](https://github.com/NSHipster/xcderiveddata) - A command-line utility that prints the path of the derived data directory for the current Xcode project
+- [alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [ios-device-identifiers](https://github.com/fieldnotescommunities/ios-device-identifiers) - 
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [raspberrypi_cross_compilation_sdk](https://github.com/chinmaygarde/raspberrypi_cross_compilation_sdk) - A GN Cross Compilation Buildroot (for targets like the Raspberry Pi)
@@ -7590,6 +7594,7 @@
 
 ## TypeScript 
 
+- [ink-language-server](https://github.com/ephread/ink-language-server) - A language server for inkle's Ink.
 - [xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
 - [SnowFS](https://github.com/Snowtrack/SnowFS) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [improved-initiative](https://github.com/cynicaloptimist/improved-initiative) - Combat tracker for Dungeons and Dragons (D&D) 5th Edition
