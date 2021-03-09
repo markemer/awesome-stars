@@ -957,7 +957,7 @@
 - [fceux](https://github.com/TASVideos/fceux) - FCEUX, a NES Emulator
 - [xc3sprog](https://github.com/matrix-io/xc3sprog) - xc3sprog is a suite of utilities for programming Xilinx FPGAs, CPLDs, and EEPROMs with the Xilinx Parallel Cable and other JTAG adapters under Linux. Used to program the FPGA of the MATRIX Creator/Voice via Raspberry Pi.
 - [libcudacxx](https://github.com/NVIDIA/libcudacxx) - The C++ Standard Library for your entire system.
-- [tiled](https://github.com/mapeditor/tiled) - A flexible level editor
+- [tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [qradiolink](https://github.com/qradiolink/qradiolink) - Multimode SDR transceiver for GNU radio
 - [connectedhomeip](https://github.com/project-chip/connectedhomeip) - Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.
 - [xls](https://github.com/google/xls) - XLS: Accelerated HW Synthesis
@@ -1456,7 +1456,7 @@
 - [swift-cmake-examples](https://github.com/compnerd/swift-cmake-examples) - Swift example projects
 - [flutter_embedded](https://github.com/jwinarske/flutter_embedded) - Embedded Flutter
 - [toolchain-infrastructure](https://github.com/compnerd/toolchain-infrastructure) - infrastructure for building a complete swift, clang, llvm toolchain
-- [ios-cmake](https://github.com/leetal/ios-cmake) - A CMake toolchain file for iOS, watchOS and tvOS C/C++/Obj-C++ development
+- [ios-cmake](https://github.com/leetal/ios-cmake) - A CMake toolchain file for iOS, macOS, watchOS & tvOS C/C++/Obj-C++ development
 - [lua-resty-template](https://github.com/LuaDist/lua-resty-template) - Templating Engine (HTML) for Lua and OpenResty.
 - [ida-cmake](https://github.com/zyantific/ida-cmake) - IDA plugin CMake build-script
 - [llvm-pass-skeleton](https://github.com/sampsyo/llvm-pass-skeleton) - example LLVM pass
@@ -1850,7 +1850,7 @@
 - [imagick](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API
 - [go2ll-talk](https://github.com/pwaller/go2ll-talk) - Live coding a basic Go compiler with LLVM in 20 minutes
 - [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
-- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
+- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
 - [notary](https://github.com/theupdateframework/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
 - [kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
 - [iamy](https://github.com/99designs/iamy) - A cli tool for importing and exporting AWS IAM configuration to YAML files
@@ -1974,6 +1974,7 @@
 - [guardian](https://github.com/kochie/guardian) - A distributed SSH key management service.
 - [guardian-server](https://github.com/kochie/guardian-server) - Server for communicating with guardian hosts.
 - [graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
+- [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar
 - [kr](https://github.com/kryptco/kr) - A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
 - [memviz](https://github.com/bradleyjkemp/memviz) - Visualize your Go data structures using graphviz
 - [mayday](https://github.com/coreos/mayday) - A diagnostics tool for capturing system state.
@@ -3615,7 +3616,6 @@
 - [Sketch-Headers](https://github.com/abynim/Sketch-Headers) - Headers from Sketch app exported using class-dump
 - [promises](https://github.com/google/promises) - Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
 - [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for macOS
-- [bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [ProjectFileTool](https://github.com/ConfusedVorlon/ProjectFileTool) - tool for extracting the paths of files included in xcode project targets
 - [Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS) - In-app design review tool to inspect measurements, attributes, and animations.
