@@ -1177,7 +1177,7 @@
 - [f4mcm](https://github.com/reg2k/f4mcm) - The Mod Configuration Menu is a settings page for mods. It provides a central location for mod configuration, accessible via the Pause menu.
 - [rva](https://github.com/reg2k/rva) - An RVA encapsulates a version-specific relative virtual address and a version-independent address signature pattern.
 - [xdi](https://github.com/reg2k/xdi) - The Extended Dialogue Interface removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options.
-- [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
+- [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [SwiftAA](https://github.com/onekiloparsec/SwiftAA) - The most comprehensive collection of accurate astronomical algorithms in (C++, Objective-C and) Swift.
 - [zimg](https://github.com/sekrit-twc/zimg) - Scaling, colorspace conversion, and dithering library
@@ -1711,6 +1711,7 @@
 
 ## Go 
 
+- [amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - Agent to enable remote management of your Amazon EC2 instance configuration.
 - [libdns](https://github.com/libdns/libdns) - Core interfaces for universal DNS record manipulation across providers
 - [gapic-generator-go](https://github.com/googleapis/gapic-generator-go) - Generate Go API client libraries from Protocol Buffers.
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
@@ -2360,6 +2361,7 @@
 
 ## Java 
 
+- [intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
 - [zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
 - [skija](https://github.com/JetBrains/skija) - Skia bindings for Java
