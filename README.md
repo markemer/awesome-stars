@@ -912,6 +912,7 @@
 
 ## C++ 
 
+- [usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)
 - [openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Universal utility for programming FPGA
 - [Status-Monitor-Overlay](https://github.com/masagrator/Status-Monitor-Overlay) - Monitor many stats of Nintendo Switch hardware
 - [re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
@@ -991,6 +992,7 @@
 - [Cingulata](https://github.com/CEA-LIST/Cingulata) - Cingulata (pronounced "tchingulata") is a compiler toolchain and RTE for running C++ programs over encrypted data by means of fully homomorphic encryption techniques.
 - [HElib](https://github.com/homenc/HElib) - HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations for efficient homomorphic evaluation, focusing on effective use of ciphertext packing techniques and on the Gentry-Halevi-Smart optimizations.
 - [fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM Homomorphic Encryption Toolkit For MacOS
+- [fhe-toolkit-ios](https://github.com/IBM/fhe-toolkit-ios) - IBM Fully Homomorphic Encryption Toolkit For iOS
 - [xbox-live-api](https://github.com/microsoft/xbox-live-api) - This repo contains the C++ and WinRT version of the Microsoft Xbox Live Service API (XSAPI) that enables game developers to access Xbox Live. To get access to the Xbox Live service, you can join the Xbox Live Creators Program at https://aka.ms/xblcp, or apply to the ID@Xbox program at http://www.xbox.com/en-us/Developers/id
 - [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - 
 - [zld](https://github.com/michaeleisel/zld) - A faster version of Apple's linker
@@ -1711,6 +1713,7 @@
 
 ## Go 
 
+- [semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - Agent to enable remote management of your Amazon EC2 instance configuration.
 - [libdns](https://github.com/libdns/libdns) - Core interfaces for universal DNS record manipulation across providers
 - [gapic-generator-go](https://github.com/googleapis/gapic-generator-go) - Generate Go API client libraries from Protocol Buffers.
@@ -2530,7 +2533,7 @@
 - [sentry-round-robin](https://github.com/getsentry/sentry-round-robin) - Sample internal integration for Sentry that assigns new issues to users, round-robin style
 - [screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
-- [better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
+- [better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :warning: without maintaining in a period & any cooperative purpose are welcome
 - [uf2](https://github.com/microsoft/uf2) - UF2 file format specification
 - [github-pr-release](https://github.com/uiur/github-pr-release) - Create a release pull request using GitHub API
 - [opendnd](https://github.com/opendnd/opendnd) - This is the main collection of OpenDnD Tools with generators for persons, dynasties, cities, towns, and more
@@ -3537,7 +3540,6 @@
 - [firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [plaid-link-ios](https://github.com/plaid/plaid-link-ios) - Plaid Link iOS SDK
 - [v002-Camera-Live](https://github.com/v002/v002-Camera-Live) - Live Syphon Camera
-- [fhe-toolkit-ios](https://github.com/IBM/fhe-toolkit-ios) - IBM Fully Homomorphic Encryption Toolkit For iOS
 - [Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [plcrashreporter](https://github.com/microsoft/plcrashreporter) - Reliable, open-source crash reporting for iOS, macOS and tvOS
 - [AppleSimulatorUtils](https://github.com/wix/AppleSimulatorUtils) - A collection of command-line utils for Apple simulators.
@@ -4066,6 +4068,7 @@
 
 ## Others 
 
+- [awesome-function-builders](https://github.com/carson-katri/awesome-function-builders) - A list of cool DSLs made with Swift 5.1’s @functionBuilder
 - [Pi400-Pico-Plate](https://github.com/Wren6991/Pi400-Pico-Plate) - 
 - [Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
 - [Airports](https://github.com/mwgg/Airports) - A JSON database of 28k+ airports with ICAO/IATA codes, names, cities, two-letter country identifiers, elevation, latitude & longitude, and a timezone identifier
@@ -6094,7 +6097,7 @@
 - [aerosolve](https://github.com/airbnb/aerosolve) - A machine learning package built for humans.
 - [cassovary](https://github.com/twitter/cassovary) - Cassovary is a simple big graph processing library for the JVM
 - [summingbird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm
-- [predictionio](https://github.com/apache/predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
+- [attic-predictionio](https://github.com/apache/attic-predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
 - [grasp](https://github.com/phyous/grasp) - A mouse controller for OSX powered by the Leap Motion device.
 - [moe](https://github.com/MoeOrganization/moe) - An -OFun prototype of an Ultra Modern Perl 5
 - [kestrel](https://github.com/twitter-archive/kestrel) - simple, distributed message queue system (inactive)
