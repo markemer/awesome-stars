@@ -330,7 +330,7 @@
 - [glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
 - [cats](https://github.com/pete/cats) - Implementations of cat(1) from various sources.
 - [mkernel](https://github.com/arjun024/mkernel) - A minimalist kernel
-- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
+- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal runtime)
 - [flutter-pi](https://github.com/ardera/flutter-pi) - A light-weight Flutter Engine Embedder for Raspberry Pi that runs without X.
 - [tslib](https://github.com/libts/tslib) - Touchscreen access library
 - [yubico-pam](https://github.com/Yubico/yubico-pam) - Yubico Pluggable Authentication Module (PAM)
@@ -4068,6 +4068,7 @@
 
 ## Others 
 
+- [discussions](https://github.com/MobileNativeFoundation/discussions) - Discussions about projects, technologies, and processes around building large-scale mobile apps
 - [awesome-function-builders](https://github.com/carson-katri/awesome-function-builders) - A list of cool DSLs made with Swift 5.1’s @functionBuilder
 - [Pi400-Pico-Plate](https://github.com/Wren6991/Pi400-Pico-Plate) - 
 - [Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
@@ -5532,7 +5533,7 @@
 
 ## Rich Text Format 
 
-- [ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.
+- [ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [ckeditor4](https://github.com/ckeditor/ckeditor4) - The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.
 - [macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
 
@@ -6396,7 +6397,7 @@
 - [InspectorSpellBook](https://github.com/magesteve/InspectorSpellBook) - Swift Package to provide standard left & right side panels (commonly used as Inspectors) for Macintosh App Development (Cocoa).
 - [CocoaGrimoire](https://github.com/magesteve/CocoaGrimoire) - A Macintosh example program using the various SpellBook swift package published by the author.
 - [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 4.2
-- [iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant Companion for iOS
+- [iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
 - [atlantis](https://github.com/ProxymanApp/atlantis) - A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
 - [environment](https://github.com/wlisac/environment) - Type-safe environment variables in Swift.
 - [Cancellor](https://github.com/icanzilb/Cancellor) - Bind multiple cancellables to the lifetime of another object like a view controller.
