@@ -1616,6 +1616,7 @@
 ## Dart 
 
 - [xterm.dart](https://github.com/TerminalStudio/xterm.dart) - 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms.
+- [fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [gallery](https://github.com/flutter/gallery) - Flutter Gallery is a resource to help developers evaluate and use Flutter
 - [flutter-samples](https://github.com/diegoveloper/flutter-samples) - Flutter Samples
 - [helm](https://github.com/chuabingquan/helm) - 💪 Helm is an app that gamifies stress/anxiety/depression management in an actionable manner to provide relief.
@@ -3037,7 +3038,6 @@
 - [package-generator](https://github.com/atom/package-generator) - Package to generate new packages
 - [clockworacle](https://github.com/jtq/clockworacle) - Clockwork Oracle mod for the game Sunless Sea
 - [icloud-tabs](https://github.com/sindresorhus/icloud-tabs) - Get the iCloud tabs for all synced devices (macOS)
-- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
@@ -4581,6 +4581,7 @@
 - [dasein-cloud](https://github.com/greese/dasein-cloud) - Dasein Cloud is an Open Source cloud abstraction library for Java under the Apache Software License v2.0. REGULAR CODE COMMITS DO NOT HAPPEN AGAINST THIS REPOSITORY. This project is simply a shell with references to submodules. Visit the linked submodules for active work against a specific cloud.
 - [netv-fpga](https://github.com/bunnie/netv-fpga) - verilog FPGA code for NeTV
 - [BrightScript.tmbundle](https://github.com/cmink/BrightScript.tmbundle) - BrightScript Bundle for TextMate and editors using TextMate bundles.
+- [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [macfuse](https://github.com/henrik242/macfuse) - This is a clone of https://code.google.com/p/macfuse/source/checkout from 2011.01.28.
 - [json](https://github.com/rsanchez/json) - Output ExpressionEngine data in JSON format.
@@ -6113,6 +6114,7 @@
 
 ## Shell 
 
+- [superconsole](https://github.com/alexchmykhalo/superconsole) - SuperConsole is a software collection based on ConEmu, MSYS2, Mintty, Zsh, Git for Windows, grml-zsh-config, Antigen and agkozak-zsh-theme projects, customized and configured for everyday use.
 - [docker-emacs](https://github.com/JAremko/docker-emacs) - Dockerized Emacs (GUI)
 - [hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [yoe-distro](https://github.com/YoeDistro/yoe-distro) - Embedded Linux distribution optimized for product development (based on OE/Yocto)
@@ -6349,7 +6351,6 @@
 - [dotfiles](https://github.com/cowboy/dotfiles) - My Ubuntu / OS X dotfiles.
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
-- [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 
@@ -7616,7 +7617,6 @@
 - [meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [action-release](https://github.com/getsentry/action-release) - GitHub Action for creating a release on Sentry
 - [sentry-docs](https://github.com/getsentry/sentry-docs) - The new place for the sentry documentation (and tools to build it)
-- [fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [swift-project-creation](https://github.com/cgrevisse/swift-project-creation) - VS Code Extension for Swift Project/Package creation.
@@ -7750,6 +7750,7 @@
 - [zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
+- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
 - [botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
