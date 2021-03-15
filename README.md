@@ -7851,7 +7851,7 @@
 - [DiceCloud](https://github.com/ThaumRystra/DiceCloud) - D&D 5e digital character manager
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 150k+ developers. https://hoppscotch.io
 - [well-managed-deployments](https://github.com/djfurman/well-managed-deployments) - Deployments are hard, doing it with proper oversight is harder, tracking it is near impossible without crazy expense. Meet a serverless solution to the problem.
 - [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
