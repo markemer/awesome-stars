@@ -1615,6 +1615,7 @@
 
 ## Dart 
 
+- [dart-pad](https://github.com/dart-lang/dart-pad) - An online Dart editor with support for console, web, and Flutter apps
 - [xterm.dart](https://github.com/TerminalStudio/xterm.dart) - 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms.
 - [fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [gallery](https://github.com/flutter/gallery) - Flutter Gallery is a resource to help developers evaluate and use Flutter
@@ -2184,7 +2185,6 @@
 - [texme](https://github.com/opendocs/texme) - TeXMe documentation and examples
 - [FPGADesignElements](https://github.com/laforest/FPGADesignElements) - A self-contained online book containing a library of FPGA design modules and related coding/design guides.
 - [digikey-partner-kicad-library](https://github.com/Digi-Key/digikey-partner-kicad-library) - 
-- [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [cloud-run-hello](https://github.com/GoogleCloudPlatform/cloud-run-hello) - Demo container for Google Cloud Run
 - [awesome-dashboard-ui-kit](https://github.com/htmlstreamofficial/awesome-dashboard-ui-kit) - Awesome Dashboard UI Kit is a beautiful Open Source Bootstrap 4 Dashboard UI Kit crafted by Htmlstream.
@@ -2505,6 +2505,7 @@
 
 ## JavaScript 
 
+- [appium-desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux
 - [adventurerscodex](https://github.com/adventurerscodex/adventurerscodex) - Experience the next step in tabletop RPGs
 - [argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
 - [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
@@ -2618,6 +2619,7 @@
 - [graphviz](https://github.com/rsms/graphviz) - Graphviz web app
 - [satellite](https://github.com/buildasaurs/satellite) - Node.js server for providing build status badges for GitHub branches.
 - [graphql-showcase](https://github.com/timburks/graphql-showcase) - An experimental GraphQL wrapper of the GAPIC Showcase API
+- [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [interlock](https://github.com/f-secure-foundry/interlock) - INTERLOCK - file encryption and HSM front-end
 - [fl-conversion-helper](https://github.com/gallmarch/fl-conversion-helper) - Fallen London Conversion Helper
 - [Universal-Link-Validator](https://github.com/shortstuffsushi/Universal-Link-Validator) - A simple node app for testing your Apple App Site Association file setup.
@@ -4750,6 +4752,8 @@
 
 ## Python 
 
+- [samples](https://github.com/kobiton/samples) - Getting started for running automation testing on Kobiton platform
+- [gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [rpi-metro-display](https://github.com/kenschneider18/rpi-metro-display) - Code for Raspberry Pi based dot matrix DC Metro times display
 - [graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [KiBus](https://github.com/esden/KiBus) - KiCad bus length matching script.
@@ -5903,6 +5907,7 @@
 
 ## Rust 
 
+- [ssh-key-dir](https://github.com/coreos/ssh-key-dir) - sshd AuthorizedKeysCommand to read ~/.ssh/authorized_keys.d
 - [ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
@@ -6049,6 +6054,7 @@
 
 ## SCSS 
 
+- [autotools-mythbuster](https://github.com/Flameeyes/autotools-mythbuster) - Autotools Mythbuster (The Guide)
 - [pidcodes.github.com](https://github.com/pidcodes/pidcodes.github.com) - Website for pid.codes
 - [doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [XcodeBuildSettings.com](https://github.com/NSHipster/XcodeBuildSettings.com) - A convenient reference of available build settings for Xcode projects.
@@ -6382,6 +6388,7 @@
 
 ## Swift 
 
+- [XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
 - [swift-helpful](https://github.com/danielmartin/swift-helpful) - A Self-Documenting Emacs Programming Environment for Swift. Includes curated Swift 5.3 documentation and reference in GNU Info format, with cross-references, and keyword/topic indices.
 - [BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
 - [variable-injector](https://github.com/LucianoPAlmeida/variable-injector) - Continuous Integration Tool for Swift Projects
