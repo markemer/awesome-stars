@@ -828,6 +828,7 @@
 
 ## C# # 
 
+- [scalar](https://github.com/microsoft/scalar) - Scalar: A set of tools and extensions for Git to allow very large monorepos to run on Git without a virtualization layer
 - [Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
 - [CP77Tools](https://github.com/WolvenKit/CP77Tools) - Cyberpunk2077 archive modding tools.
 - [Wolvenkit](https://github.com/WolvenKit/Wolvenkit) - Mod editor/creator for RED Engine games. The point is to have an all in one tool for creating mods for the games made with the engine.
@@ -1715,6 +1716,7 @@
 
 ## Go 
 
+- [netbootd](https://github.com/DSpeichert/netbootd) - Lightweight network boot/install server (DHCP, TFTP, HTTP)
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - Agent to enable remote management of your Amazon EC2 instance configuration.
 - [libdns](https://github.com/libdns/libdns) - Core interfaces for universal DNS record manipulation across providers
@@ -1980,7 +1982,7 @@
 - [guardian](https://github.com/kochie/guardian) - A distributed SSH key management service.
 - [guardian-server](https://github.com/kochie/guardian-server) - Server for communicating with guardian hosts.
 - [graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
-- [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar
+- [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [kr](https://github.com/kryptco/kr) - A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
 - [memviz](https://github.com/bradleyjkemp/memviz) - Visualize your Go data structures using graphviz
 - [mayday](https://github.com/coreos/mayday) - A diagnostics tool for capturing system state.
@@ -4420,7 +4422,6 @@
 - [drawio-diagrams](https://github.com/jgraph/drawio-diagrams) - Diagrams for draw.io
 - [machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [ltc-book-hardware](https://github.com/bunnie/ltc-book-hardware) - Hardware mounted within the LTC Book
-- [awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) - Awesome native Xcode extensions.
 - [Solar-Panel-Drawings](https://github.com/VoltaicEngineering/Solar-Panel-Drawings) - Technical Drawings of Voltaic Solar Panels
 - [cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
@@ -4752,6 +4753,7 @@
 
 ## Python 
 
+- [cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 - [samples](https://github.com/kobiton/samples) - Getting started for running automation testing on Kobiton platform
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [rpi-metro-display](https://github.com/kenschneider18/rpi-metro-display) - Code for Raspberry Pi based dot matrix DC Metro times display
@@ -5550,6 +5552,7 @@
 
 ## Ruby 
 
+- [foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [fastlane-plugin-firebase_app_distribution](https://github.com/fastlane/fastlane-plugin-firebase_app_distribution) - fastlane plugin for Firebase App Distribution. https://firebase.google.com/docs/app-distribution
 - [sentry-ruby-api](https://github.com/thierryxing/sentry-ruby-api) - Ruby wrapper for getsentry/Sentry REST API
 - [homebrew-aws](https://github.com/aws/homebrew-aws) - Homebrew is a package manager for macOS which provides easy installation and update management of additional software. This Tap (repository) contains the Formulae that are used in the macOS AMI that AWS offers.
@@ -5670,6 +5673,7 @@
 - [webpacker](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails
 - [ipa-scale](https://github.com/armadanilo/ipa-scale) - Fastlane plugin - Checks the size of your built .ipa and warns you if you you are near the given threshold.
 - [screengif](https://github.com/dergachev/screengif) - Create animated gif screencasts.
+- [awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) - Awesome native Xcode extensions.
 - [fastlane-plugin-codecov_reporter](https://github.com/BinaryBeard/fastlane-plugin-codecov_reporter) - Fastlane plugin that uploads coverage reports to Codecov.io
 - [aws-ruby-developer-guide](https://github.com/awsdocs/aws-ruby-developer-guide) - Source for the AWS SDK for Ruby Developer Guide. Provides information about how to install, set up, and use the AWS SDK for Ruby to create Ruby applications that use AWS services.
 - [cocoapods-dependencies](https://github.com/segiddins/cocoapods-dependencies) - Shows a project's CocoaPods dependency graph
