@@ -204,6 +204,8 @@
 
 ## C 
 
+- [Otter-Iron](https://github.com/Jan--Henrik/Otter-Iron) - A TS100 USB-PD replacement PCB.
+- [Otter-Iron-PRO](https://github.com/Jan--Henrik/Otter-Iron-PRO) - USB-PD soldering station for JBC C245 handles.
 - [slimbootloader](https://github.com/slimbootloader/slimbootloader) - Visit http://slimbootloader.github.io for documentation
 - [lotusdrv](https://github.com/taviso/lotusdrv) - Lotus 1-2-3 R4D Display Driver for DOSEMU
 - [lvgl](https://github.com/lvgl/lvgl) - Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
@@ -248,7 +250,6 @@
 - [ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
 - [esp-homekit-sdk](https://github.com/espressif/esp-homekit-sdk) - 
 - [WiringPi](https://github.com/WiringPi/WiringPi) - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi (Unofficial Mirror for WiringPi bindings)
-- [mm-sdk](https://github.com/madmachineio/mm-sdk) - CLI based SDK for building MadMachine project.
 - [finalgrom99](https://github.com/endlos99/finalgrom99) - A cartridge for the TI 99/4A that runs ROM and GROM images from an SD card
 - [qmk_firmware](https://github.com/zsa/qmk_firmware) - QMK, forked for ZSA's Oryx Configurator (to safeguard stability)
 - [liburkel](https://github.com/chjj/liburkel) - Authenticated key-value store (i.e. an urkel tree)
@@ -3099,7 +3100,7 @@
 - [ShapeJS-Example](https://github.com/Shapeways/ShapeJS-Example) - Sample Application using ShapeJS
 - [kalabox](https://github.com/kalabox/kalabox) - A deprecated GUI for awesome shit
 - [freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
-- [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
+- [Hygieia](https://github.com/hygieia/Hygieia) - CapitalOne  DevOps Dashboard
 - [uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [nuclide](https://github.com/facebookarchive/nuclide) - An open IDE for web and native mobile development, built on top of Atom
@@ -3406,7 +3407,6 @@
 - [MoreLenses](https://github.com/astog/MoreLenses) - More Lenses - Mod for Civilization VI
 - [BTS](https://github.com/astog/BTS) - Better Trade Screen - Mod for Civilization VI
 - [sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
-- [hs._asm.undocumented.spaces](https://github.com/asmagill/hs._asm.undocumented.spaces) - Spaces Module for Hammerspoon
 - [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [lsyncd](https://github.com/axkibe/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [dns](https://github.com/luadns/dns) - Example DNS repository
@@ -3556,6 +3556,7 @@
 - [MarkdownAttributedString](https://github.com/chockenberry/MarkdownAttributedString) - Adding Markdown support to NSAttributedString.
 - [KeychainCracker](https://github.com/macmade/KeychainCracker) - macOS keychain cracking tool
 - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
+- [hs._asm.undocumented.spaces](https://github.com/asmagill/hs._asm.undocumented.spaces) - Spaces Module for Hammerspoon
 - [BarMagnet](https://github.com/Qata/BarMagnet) - An iOS app that interfaces with remote torrent clients
 - [yubikit-ios](https://github.com/Yubico/yubikit-ios) - Yubico Mobile iOS SDK - YubiKit
 - [UBKAccessibilityKit](https://github.com/NAB/UBKAccessibilityKit) - An iOS framework to help with accessibility development and testing.
@@ -4790,6 +4791,7 @@
 - [manim](https://github.com/ManimCommunity/manim) - Animation engine for explanatory math videos
 - [dnd-tools](https://github.com/savagezen/dnd-tools) - Interactive CLI tools for Dungeons and Dragons 5e
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+- [mm-sdk](https://github.com/madmachineio/mm-sdk) - CLI based SDK for building MadMachine project.
 - [tipi](https://github.com/jedimatt42/tipi) - TI-99/4A to Raspberry PI messaging through console sideport
 - [tipi](https://github.com/jgparker/tipi) - TI-99/4A to Raspberry PI messaging through console sideport
 - [igloo](https://github.com/getoutofmyyard/igloo) - igloo 4.4
@@ -7865,7 +7867,7 @@
 - [DiceCloud](https://github.com/ThaumRystra/DiceCloud) - D&D 5e digital character manager
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 150k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 170k+ developers. https://hoppscotch.io
 - [well-managed-deployments](https://github.com/djfurman/well-managed-deployments) - Deployments are hard, doing it with proper oversight is harder, tracking it is near impossible without crazy expense. Meet a serverless solution to the problem.
 - [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
