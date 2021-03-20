@@ -204,6 +204,7 @@
 
 ## C 
 
+- [freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit patches at https://www.hostedredmine.com/projects/freeciv
 - [Otter-Iron](https://github.com/Jan--Henrik/Otter-Iron) - A TS100 USB-PD replacement PCB.
 - [Otter-Iron-PRO](https://github.com/Jan--Henrik/Otter-Iron-PRO) - USB-PD soldering station for JBC C245 handles.
 - [slimbootloader](https://github.com/slimbootloader/slimbootloader) - Visit http://slimbootloader.github.io for documentation
@@ -363,7 +364,6 @@
 - [natasha](https://github.com/scaleway/natasha) - Natasha is a fast and scalable, DPDK powered, stateless NAT44 packet processor
 - [openadk](https://github.com/wbx-github/openadk) - Open Source Appliance Development Kit (mirror)
 - [idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
-- [chiaki](https://github.com/thestr4ng3r/chiaki) - Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client
 - [x48](https://github.com/gwenhael-le-moine/x48) - HP48 calculator emulator (mirror of sourceforge's mirror of berlios)
 - [i48](https://github.com/dparnell/i48) - A HP48GX emulator for the iPhone and iPod touch
 - [pam_reattach](https://github.com/fabianishere/pam_reattach) - Reattach to the user's GUI session on macOS during authentication (for Touch ID support in tmux)
@@ -600,7 +600,6 @@
 - [zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler library
 - [flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [HyperBone](https://github.com/DarthTon/HyperBone) - Minimalistic VT-x hypervisor with hooks
-- [riscv-glibc](https://github.com/riscv/riscv-glibc) - RISC-V port of GNU's libc
 - [dislocker](https://github.com/Aorimn/dislocker) - FUSE driver to read/write Windows' BitLocker-ed volumes under Linux / Mac OSX
 - [riscv-pk](https://github.com/riscv/riscv-pk) - RISC-V Proxy Kernel
 - [riscv-tests](https://github.com/riscv/riscv-tests) - 
@@ -2510,6 +2509,8 @@
 
 ## JavaScript 
 
+- [latexcgi](https://github.com/davidcarlisle/latexcgi) - LaTeX server via perl cgi script, developed for learnlatex.org
+- [freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
 - [appium-desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux
 - [adventurerscodex](https://github.com/adventurerscodex/adventurerscodex) - Experience the next step in tabletop RPGs
 - [argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
@@ -4031,6 +4032,7 @@
 - [OmniGroup](https://github.com/omnigroup/OmniGroup) - Source for many of The Omni Group's frameworks
 - [symboliclinker](https://github.com/nickzman/symboliclinker) - A contextual menu plugin & service for Mac OS X that allows users to make symbolic links in the Finder
 - [three20](https://github.com/facebookarchive/three20) - Three20 is an Objective-C library for iPhone developers
+- [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver Project Source
 - [gitx](https://github.com/brotherbard/gitx) - Experimental fork of Pieter's nice git GUI for OS X. Includes: sidebar, fetch, pull, push, add remote, merge, cherry-pick, rebase, clone, clone to. Mac OS X 10.5+ (see wiki for screenshot)
 - [hunch-cocoa](https://github.com/rsms/hunch-cocoa) - An assortment of Cocoa — mixed extensions and additions to Cocoa
@@ -4212,6 +4214,7 @@
 - [support.Githubbers](https://github.com/MSWorkers/support.Githubbers) - Star this repo to show your support to Githubbers!
 - [nrol-39-logo](https://github.com/palewire/nrol-39-logo) - A vector PDF of the official mission logo of NROL-39 released via FOIA
 - [ios-resources](https://github.com/Siguza/ios-resources) - Useful resources for iOS hacking
+- [chiaki](https://github.com/thestr4ng3r/chiaki) - Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client
 - [awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [interesting-papers](https://github.com/jarikoi/interesting-papers) - Jari's collection of interesting papers.
 - [010editor](https://github.com/fesh0r/010editor) - Templates and scripts for 010 editor
@@ -4395,6 +4398,7 @@
 - [toolsforactivism](https://github.com/drewrwilson/toolsforactivism) - growing list of digital tools for activism things
 - [idaplugins-list](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins
 - [ida-consonance](https://github.com/eugeneching/ida-consonance) - Consonance, a dark color scheme for IDA.
+- [riscv-glibc](https://github.com/riscv/riscv-glibc) - RISC-V port of GNU's libc
 - [tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with support for legacy and LSTM OCR engine
 - [langdata](https://github.com/tesseract-ocr/langdata) - Source training data for Tesseract for lots of languages
 - [freedom-u-sdk](https://github.com/sifive/freedom-u-sdk) - Freedom Unleashed Software Development Kit
@@ -4757,6 +4761,7 @@
 
 ## Python 
 
+- [nmigen](https://github.com/nmigen/nmigen) - A refreshed Python toolbox for building complex digital hardware
 - [cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 - [samples](https://github.com/kobiton/samples) - Getting started for running automation testing on Kobiton platform
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
@@ -5787,7 +5792,7 @@
 - [markdown2confluence](https://github.com/jedi4ever/markdown2confluence) - Converting Markdown to Confluence Markup using Kramdown Gem
 - [fastlane](https://github.com/AFNetworking/fastlane) - A fastlane setup to deploy Objective-C and Swift frameworks.
 - [xcpretty-profiler-formatter](https://github.com/larslockefeer/xcpretty-profiler-formatter) - xcpretty formatter that profiles compile times per file
-- [nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) is a Rubygem providing HTML, XML, SAX, and Reader parsers with XPath and CSS selector support.
+- [nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [crowdin-cli-v1](https://github.com/crowdin/crowdin-cli-v1) - A command-line client for the Crowdin API v1
 - [crowdin-ruby-client-v1](https://github.com/crowdin/crowdin-ruby-client-v1) - The Crowdin Ruby Client is used to interact with the Crowdin API v1 from Ruby
 - [xliffle](https://github.com/sr189/xliffle) - A gem to build xliff files from translated strings
@@ -5916,6 +5921,10 @@
 
 ## Rust 
 
+- [druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
+- [runebender](https://github.com/linebender/runebender) - A font editor written in Rust.
+- [xargo](https://github.com/japaric/xargo) - The sysroot manager that lets you build and customize `std`
+- [asm-cli-rust](https://github.com/cch123/asm-cli-rust) - interative assembly shell written in rust
 - [ssh-key-dir](https://github.com/coreos/ssh-key-dir) - sshd AuthorizedKeysCommand to read ~/.ssh/authorized_keys.d
 - [ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -6129,6 +6138,7 @@
 
 ## Shell 
 
+- [rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
 - [superconsole](https://github.com/alexchmykhalo/superconsole) - SuperConsole is a software collection based on ConEmu, MSYS2, Mintty, Zsh, Git for Windows, grml-zsh-config, Antigen and agkozak-zsh-theme projects, customized and configured for everyday use.
 - [docker-emacs](https://github.com/JAremko/docker-emacs) - Dockerized Emacs (GUI)
 - [hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
@@ -7543,7 +7553,6 @@
 - [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) - An iBeacons example app for iOS 10, with Apple Watch (watchOS 3.0) support, written in Swift 3.
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
 - [cocoafob](https://github.com/glebd/cocoafob) - A set of registration code generation and verification helpers for Obj-C, Ruby (Potion Store), PHP and FastSpring
-- [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [waterwheel.swift](https://github.com/kylebrowning/waterwheel.swift) - The Waterwheel Swift SDK provides classes to natively connect iOS, macOS, tvOS, and watchOS applications to Drupal 7 and 8.
 
 ## SystemVerilog 
@@ -7620,6 +7629,7 @@
 
 ## TypeScript 
 
+- [codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor.
 - [ink-language-server](https://github.com/ephread/ink-language-server) - A language server for inkle's Ink.
 - [xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
 - [SnowFS](https://github.com/Snowtrack/SnowFS) - SnowFS - a fast, scalable version control file storage for graphic files :art:
