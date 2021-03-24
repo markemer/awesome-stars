@@ -159,6 +159,7 @@
 
 ## Assembly 
 
+- [fjballest/nixMarkIV](https://github.com/fjballest/nixMarkIV) - Nix source
 - [nanochess/heart](https://github.com/nanochess/heart) - x86 16-bit program drawing the heart curve equation
 - [below/HelloSilicon](https://github.com/below/HelloSilicon) - An attempt with ARM64 assembly on Apple Silicon Macs
 - [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
@@ -204,6 +205,7 @@
 
 ## C 
 
+- [0intro/plan9](https://github.com/0intro/plan9) - Plan 9 from Bell Labs
 - [dakanji/RefindPlus](https://github.com/dakanji/RefindPlus) - Enhanced version of the rEFInd Boot Manager incorporating various fixes and additional features.
 - [freeciv/freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit patches at https://www.hostedredmine.com/projects/freeciv
 - [Jan--Henrik/Otter-Iron](https://github.com/Jan--Henrik/Otter-Iron) - A TS100 USB-PD replacement PCB.
@@ -451,7 +453,6 @@
 - [johnxnguyen/Down](https://github.com/johnxnguyen/Down) - Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [google/wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
-- [solokeys/solo](https://github.com/solokeys/solo) - Solo: open security key supporting FIDO2 & U2F over USB + NFC
 - [FDio/vpp](https://github.com/FDio/vpp) - 
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
 - [tleonhardt/practical_cryptography_engineering](https://github.com/tleonhardt/practical_cryptography_engineering) - Cryptography code examples using libsodium and mbedtls C libraries and Python cryptography and PyNaCl modules
@@ -813,7 +814,6 @@
 - [sutajiokousagi/netv-recovery](https://github.com/sutajiokousagi/netv-recovery) - Standalone recovery mode for NeTV
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [sphero-inc/Sphero-iOS-SDK](https://github.com/sphero-inc/Sphero-iOS-SDK) - 🚫 DEPRECATED: Sphero™ is the amazing robotic ball ( sphero.com ) created by Orbotix, this is the repository for the iOS SDK for Sphero™. Visit dev site for more information:
-- [macfuse/macfuse](https://github.com/macfuse/macfuse) - The Easiest and Fastest Way to Create File Systems for Mac OS X
 - [tuxera/macfuse](https://github.com/tuxera/macfuse) - Tuxera's MacFUSE modifications
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [bitly/simplehttp](https://github.com/bitly/simplehttp) - a family of libraries and daemons for building scalable web infrastructure
@@ -1149,6 +1149,7 @@
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [google/souper](https://github.com/google/souper) - A superoptimizer for LLVM IR
 - [google/sling](https://github.com/google/sling) - SLING - A natural language frame semantics parser
+- [solokeys/solo](https://github.com/solokeys/solo) - Solo: open security key supporting FIDO2 & U2F over USB + NFC
 - [Nukem9/SkyrimSETest](https://github.com/Nukem9/SkyrimSETest) - Reverse engineering TES: Skyrim Special Edition.
 - [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
 - [aers/EngineFixesSkyrim64](https://github.com/aers/EngineFixesSkyrim64) - WIP skse64 plugin to fix stuff in Skyrim SE (and probably VR at some point)
@@ -4082,6 +4083,7 @@
 
 ## Others 
 
+- [flosse/rust-os-comparison](https://github.com/flosse/rust-os-comparison) - A comparison of operating systems written in Rust
 - [cutiepi-io/cutiepi-board](https://github.com/cutiepi-io/cutiepi-board) - Open source hardware design for the CutiePi tablet
 - [MobileNativeFoundation/discussions](https://github.com/MobileNativeFoundation/discussions) - Discussions about projects, technologies, and processes around building large-scale mobile apps
 - [carson-katri/awesome-function-builders](https://github.com/carson-katri/awesome-function-builders) - A list of cool DSLs made with Swift 5.1’s @functionBuilder
@@ -4316,7 +4318,6 @@
 - [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [hankache/rakuguide](https://github.com/hankache/rakuguide) - The Raku Guide
-- [twilio/twilio-chat-ios](https://github.com/twilio/twilio-chat-ios) - Carthage releases
 - [freeskys/awesome-cocoapods](https://github.com/freeskys/awesome-cocoapods) - Awesome list for cocoapods support libraries
 - [datajtext/DataJournalismTextbook](https://github.com/datajtext/DataJournalismTextbook) - The main repository for a collaborative text on data journalism.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
@@ -5359,7 +5360,7 @@
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [oxidane/tmuxomatic](https://github.com/oxidane/tmuxomatic) - Intelligent tmux session management
 - [tflearn/tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
 - [century-arcade/xd](https://github.com/century-arcade/xd) - a futureproof crossword corpus toolset
 - [pascaldevink/git-smb](https://github.com/pascaldevink/git-smb) - Play sounds effects (from Super Mario Bros (NES) or Zelda (NES)) on common git commands
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
@@ -6069,7 +6070,7 @@
 - [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 - [rusticata/rusticata](https://github.com/rusticata/rusticata) - Rusticata: Rust parsers for Suricata (test code)
 - [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
-- [jfecher/ante](https://github.com/jfecher/ante) - The compile-time language
+- [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [d-unseductable/ruru](https://github.com/d-unseductable/ruru) - Native Ruby extensions written in Rust
@@ -6996,6 +6997,7 @@
 - [Kitura/Kitura-CredentialsHTTP](https://github.com/Kitura/Kitura-CredentialsHTTP) - A plugin for the Kitura-Credentials framework that authenticates using HTTP Basic and Digest authentication
 - [apple/example-package-dealer](https://github.com/apple/example-package-dealer) - Example package for use with the Swift Package Manager
 - [twilio/twilio-voice-ios](https://github.com/twilio/twilio-voice-ios) - Programmable Voice SDK by Twilio
+- [twilio/twilio-chat-ios](https://github.com/twilio/twilio-chat-ios) - SPM releases
 - [twilio/twilio-video-ios](https://github.com/twilio/twilio-video-ios) - Programmable Video SDK by Twilio
 - [mattwyskiel/GoogleAPISwiftClient](https://github.com/mattwyskiel/GoogleAPISwiftClient) - A Google API Client for Cocoa and Cocoa Touch in 2015
 - [Flight-School/CurrencyConverter](https://github.com/Flight-School/CurrencyConverter) - Utilities for doing currency conversion with the Money library
