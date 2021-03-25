@@ -606,7 +606,7 @@
 - [riscv/riscv-pk](https://github.com/riscv/riscv-pk) - RISC-V Proxy Kernel
 - [riscv/riscv-tests](https://github.com/riscv/riscv-tests) - 
 - [ucb-bar/chipyard](https://github.com/ucb-bar/chipyard) - An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
-- [riscv/riscv-fesvr](https://github.com/riscv/riscv-fesvr) - RISC-V Frontend Server
+- [riscvarchive/riscv-fesvr](https://github.com/riscvarchive/riscv-fesvr) - RISC-V Frontend Server
 - [aws/amazon-freertos](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers.
 - [CarloWood/libmemleak](https://github.com/CarloWood/libmemleak) - A shared library that can be LD_PRELOAD-ed to show memory increments per second per backtrace on dynamically chosen time intervals.
 - [aquynh/capstone](https://github.com/aquynh/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
@@ -659,7 +659,7 @@
 - [nfc-tools/libnfc](https://github.com/nfc-tools/libnfc) - Platform independent Near Field Communication (NFC) library
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [riscv/riscv-binutils-gdb](https://github.com/riscv/riscv-binutils-gdb) - RISC-V backports for binutils-gdb.  Development is done upstream at the FSF.
-- [riscv/riscv-qemu](https://github.com/riscv/riscv-qemu) - QEMU with RISC-V (RV64G, RV32G) Emulation Support
+- [riscvarchive/riscv-qemu](https://github.com/riscvarchive/riscv-qemu) - QEMU with RISC-V (RV64G, RV32G) Emulation Support
 - [riscv/riscv-isa-sim](https://github.com/riscv/riscv-isa-sim) - Spike, a RISC-V ISA Simulator
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [libffi/libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library.
@@ -1570,6 +1570,7 @@
 - [atmos/camo](https://github.com/atmos/camo) - :lock: an http proxy to route images through SSL
 - [bevry/cson](https://github.com/bevry/cson) - CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects.
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
+- [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [davidedc/Algebrite](https://github.com/davidedc/Algebrite) - Computer Algebra System in Javascript (Coffeescript)
 - [cdglabs/apparatus](https://github.com/cdglabs/apparatus) - A hybrid graphics editor and programming environment for creating interactive diagrams.
 - [randy3k/remote-atom](https://github.com/randy3k/remote-atom) - rmate for atom
@@ -2780,7 +2781,6 @@
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
-- [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [jessepeterson/margarita](https://github.com/jessepeterson/margarita) - Web frontend for reposado
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
@@ -4455,7 +4455,7 @@
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
 - [raywenderlich/english-style-guide](https://github.com/raywenderlich/english-style-guide) - Style guide for writing in English for tutorials and articles at raywenderlich.com.
 - [raywenderlich/kotlin-style-guide](https://github.com/raywenderlich/kotlin-style-guide) - The raywenderlich.com Kotlin style guide
-- [riscv/riscv-clang](https://github.com/riscv/riscv-clang) - 
+- [riscvarchive/riscv-clang](https://github.com/riscvarchive/riscv-clang) - 
 - [riscv/riscv-asm-manual](https://github.com/riscv/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [Vitorian/awesome-mpsoc](https://github.com/Vitorian/awesome-mpsoc) - Public resources available for Xilinx  MPSOC+ and SDSOC hardware
 - [mahemoff/chrome-boilerplate](https://github.com/mahemoff/chrome-boilerplate) - A boilerplate for Chrome app, extension, and theme development.
@@ -4801,7 +4801,7 @@
 - [CQCumbers/kle_render](https://github.com/CQCumbers/kle_render) - Get prettier images of Keyboard Layout Editor designs
 - [kronenthaler/mod-pbxproj](https://github.com/kronenthaler/mod-pbxproj) - A python module to manipulate XCode projects
 - [touchlab/xcode-kotlin](https://github.com/touchlab/xcode-kotlin) - Kotlin Native Xcode Plugin
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - Animation engine for explanatory math videos
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [savagezen/dnd-tools](https://github.com/savagezen/dnd-tools) - Interactive CLI tools for Dungeons and Dragons 5e
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [madmachineio/mm-sdk](https://github.com/madmachineio/mm-sdk) - CLI based SDK for building MadMachine project.
