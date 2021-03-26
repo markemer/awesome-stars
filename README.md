@@ -4122,6 +4122,7 @@
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [UnrealEngineHTML5/Documentation](https://github.com/UnrealEngineHTML5/Documentation) - 
 - [pwsacademy/swift-setup](https://github.com/pwsacademy/swift-setup) - Student-friendly setup instructions for platforms, editors, and IDEs that support Swift.
+- [pftf/RPi4](https://github.com/pftf/RPi4) - Raspberry Pi 4 UEFI Firmware Images [EXPERIMENTAL]
 - [keebio/Keebio-Parts.pretty](https://github.com/keebio/Keebio-Parts.pretty) - Various KiCAD footprints for mechanical keyboard parts
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
 - [InQuest/awesome-yara](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
@@ -6158,7 +6159,6 @@
 - [timwis/markdown-to-google-doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive
 - [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
 - [kluntze/cfetch](https://github.com/kluntze/cfetch) - A simple system information tool for Linux.
-- [pftf/RPi4](https://github.com/pftf/RPi4) - Raspberry Pi 4 UEFI Firmware Images [EXPERIMENTAL]
 - [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
 - [KosalaHerath/macos-installer-builder](https://github.com/KosalaHerath/macos-installer-builder) - Generate macOS installers for your applications and products from one command
 - [dslm4515/Musl-LFS](https://github.com/dslm4515/Musl-LFS) - Linux From Scratch using Musl as Libc
@@ -6487,7 +6487,7 @@
 - [maxkonovalov/MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - ⭕️ Ring progress view similar to Activity app on Apple Watch
 - [steipete/InterposeKit](https://github.com/steipete/InterposeKit) - A modern library to swizzle elegantly in Swift.
 - [adafruit/Bluefruit_LE_Connect_v2](https://github.com/adafruit/Bluefruit_LE_Connect_v2) - iOS app for use with Bluefruit Bluetooth LE modules and dev boards from Adafruit (v2.0)
-- [varabeis/SPFakeBar](https://github.com/varabeis/SPFakeBar) - Very similar to original Navigation Bar. Full customisable - height, buttons and other
+- [ivanvorobei/SPFakeBar](https://github.com/ivanvorobei/SPFakeBar) - Very similar to original Navigation Bar. Full customisable - height, buttons and other
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [Kitura/Swift-JWT](https://github.com/Kitura/Swift-JWT) - JSON Web Tokens in Swift
 - [rsrbk/GoSwifty](https://github.com/rsrbk/GoSwifty) - A command line tool for analyzing Swift/Objective-C ratio in codebase
@@ -6843,7 +6843,7 @@
 - [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 - [Kitura/BlueRSA](https://github.com/Kitura/BlueRSA) - RSA public/private key encryption, private key signing and public key verification in Swift using the Swift Package Manager. Works on iOS, macOS, and Linux (work in progress).
 - [joeblau/sensor-visualizer-kit](https://github.com/joeblau/sensor-visualizer-kit) - Visualize iOS sensors for live presentations, iOS AppStore demos, Apple Store prototypes, design reviews.
-- [varabeis/SPLarkController](https://github.com/varabeis/SPLarkController) - Custom transition between controllers. Settings controller for your iOS app.
+- [ivanvorobei/SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Custom transition between controllers. Settings controller for your iOS app.
 - [spevans/swift-project1](https://github.com/spevans/swift-project1) - A minimal bare metal kernel in Swift
 - [objcio/markdown-playgrounds](https://github.com/objcio/markdown-playgrounds) - A Markdown Editor that can execute Swift code
 - [akramhussein/Mute](https://github.com/akramhussein/Mute) - Detect if silent/mute switch is enabled/disabled on iOS device
@@ -7146,7 +7146,7 @@
 - [krzysztofzablocki/Difference](https://github.com/krzysztofzablocki/Difference) - Simple way to identify what is different between 2 instances of any type. Must have for TDD.
 - [meghaphone/FaceDetection](https://github.com/meghaphone/FaceDetection) - Sample app for using Vision for Face Detection
 - [KiranJasvanee/OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - A simple and flexible way to add source of overlapping circular pictures, currently supports horizontal overlapping or distant pictures with great layout flexibility.
-- [varabeis/SPPermissions](https://github.com/varabeis/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
+- [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
 - [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute!
 - [JohnSundell/ImagineEngine](https://github.com/JohnSundell/ImagineEngine) - A project to create a blazingly fast Swift game engine that is a joy to use 🚀
 - [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
@@ -7890,7 +7890,7 @@
 - [ThaumRystra/DiceCloud](https://github.com/ThaumRystra/DiceCloud) - D&D 5e digital character manager
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 170k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 180k+ developers. https://hoppscotch.io
 - [djfurman/well-managed-deployments](https://github.com/djfurman/well-managed-deployments) - Deployments are hard, doing it with proper oversight is harder, tracking it is near impossible without crazy expense. Meet a serverless solution to the problem.
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
