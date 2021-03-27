@@ -206,7 +206,7 @@
 ## C 
 
 - [0intro/plan9](https://github.com/0intro/plan9) - Plan 9 from Bell Labs
-- [dakanji/RefindPlus](https://github.com/dakanji/RefindPlus) - Enhanced version of the rEFInd Boot Manager incorporating various fixes and additional features.
+- [dakanji/RefindPlus](https://github.com/dakanji/RefindPlus) - A variant of the rEFInd Boot Manager incorporating various fixes and additional features.
 - [freeciv/freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit patches at https://www.hostedredmine.com/projects/freeciv
 - [Jan--Henrik/Otter-Iron](https://github.com/Jan--Henrik/Otter-Iron) - A TS100 USB-PD replacement PCB.
 - [Jan--Henrik/Otter-Iron-PRO](https://github.com/Jan--Henrik/Otter-Iron-PRO) - USB-PD soldering station for JBC C245 handles.
@@ -2289,6 +2289,7 @@
 - [censusreporter/censusreporter](https://github.com/censusreporter/censusreporter) - Census Reporter is a Knight News Challenge-funded project to make it easier for journalists to write stories using information from the U.S. Census bureau.
 - [FauxPasApp/fauxpas-web-presenter](https://github.com/FauxPasApp/fauxpas-web-presenter) - Standalone client-side web app for presenting Faux Pas diagnostics
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
+- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
 - [TheUpshot/statement](https://github.com/TheUpshot/statement) - A Ruby gem that extracts press releases and statements by members of Congress.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -2514,6 +2515,7 @@
 
 ## JavaScript 
 
+- [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of tools for building rich text editors.
 - [davidcarlisle/latexcgi](https://github.com/davidcarlisle/latexcgi) - LaTeX server via perl cgi script, developed for learnlatex.org
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux
@@ -3528,7 +3530,6 @@
 - [realworldocaml/scripts](https://github.com/realworldocaml/scripts) - Command-line utilities for Real World OCaml
 - [realworldocaml/examples](https://github.com/realworldocaml/examples) - All the examples in Real World OCaml
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
-- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [mirleft/ocaml-tls](https://github.com/mirleft/ocaml-tls) - TLS in pure OCaml
 - [ocamllabs/ocaml-ctypes](https://github.com/ocamllabs/ocaml-ctypes) - Library for binding to C libraries using pure OCaml
 - [mirage/mirage-www](https://github.com/mirage/mirage-www) - Website infrastructure and content for mirage.io
@@ -4083,6 +4084,7 @@
 
 ## Others 
 
+- [Xcode-Tips/xcode-tips.github.io](https://github.com/Xcode-Tips/xcode-tips.github.io) - Community-run website for documenting Xcode Tips
 - [flosse/rust-os-comparison](https://github.com/flosse/rust-os-comparison) - A comparison of operating systems written in Rust
 - [cutiepi-io/cutiepi-board](https://github.com/cutiepi-io/cutiepi-board) - Open source hardware design for the CutiePi tablet
 - [MobileNativeFoundation/discussions](https://github.com/MobileNativeFoundation/discussions) - Discussions about projects, technologies, and processes around building large-scale mobile apps
@@ -4769,6 +4771,7 @@
 
 ## Python 
 
+- [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 - [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 - [nmigen/nmigen](https://github.com/nmigen/nmigen) - A refreshed Python toolbox for building complex digital hardware
 - [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
@@ -6151,6 +6154,7 @@
 
 ## Shell 
 
+- [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [japaric/rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
 - [alexchmykhalo/superconsole](https://github.com/alexchmykhalo/superconsole) - SuperConsole is a software collection based on ConEmu, MSYS2, Mintty, Zsh, Git for Windows, grml-zsh-config, Antigen and agkozak-zsh-theme projects, customized and configured for everyday use.
 - [JAremko/docker-emacs](https://github.com/JAremko/docker-emacs) - Dockerized Emacs (GUI)
@@ -6557,7 +6561,7 @@
 - [swiftwasm/carton](https://github.com/swiftwasm/carton) - 📦 Watcher, bundler, and test runner for your SwiftWasm apps
 - [loiclec/FuzzCheck](https://github.com/loiclec/FuzzCheck) - Swift package fuzzing engine
 - [rileytestut/Clip](https://github.com/rileytestut/Clip) - Clip is a clipboard manager for iOS that can monitor your clipboard indefinitely in the background — no jailbreak required.
-- [relatedcode/RealtimeChat](https://github.com/relatedcode/RealtimeChat) - Open source, native iOS Messenger, with realtime chat conversations (full offline support).
+- [relatedcode/GraphQLite](https://github.com/relatedcode/GraphQLite) - GraphQLite is a toolkit to work with GraphQL servers easily. It also provides several other features to make life easier during iOS application development.
 - [IvanMathy/Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. In slow yet steady progress.
 - [bscothern/Once](https://github.com/bscothern/Once) - A replacement for Dispatch Once in Swift
 - [erica/Swift-General-Utility](https://github.com/erica/Swift-General-Utility) - General utility types and functionality
@@ -7642,6 +7646,7 @@
 
 ## TypeScript 
 
+- [dungeon-revealer/dungeon-revealer](https://github.com/dungeon-revealer/dungeon-revealer) - A web app for tabletop gaming to allow the game master to reveal areas of the game map to players, roll dice and take notes.
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor.
 - [ephread/ink-language-server](https://github.com/ephread/ink-language-server) - A language server for inkle's Ink.
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
