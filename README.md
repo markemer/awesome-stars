@@ -653,7 +653,7 @@
 - [miniupnp/miniupnp](https://github.com/miniupnp/miniupnp) - UPnP IGD implementation
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [skeeto/stack-clash-coroutine](https://github.com/skeeto/stack-clash-coroutine) - Stack clash coroutine demonstration
-- [ejurgensen/pair_ap](https://github.com/ejurgensen/pair_ap) - C client implementation of Apple TV device verification and Homekit pairing for AirPlay 2
+- [ejurgensen/pair_ap](https://github.com/ejurgensen/pair_ap) - C implementation of Apple TV device verification (client) and Homekit pairing for AirPlay 2 (client + server)
 - [openairplay/AirPlayAuth-ObjC](https://github.com/openairplay/AirPlayAuth-ObjC) - AirPlayAuth-ObjC
 - [SWI-Prolog/swipl-devel](https://github.com/SWI-Prolog/swipl-devel) - Main development repository
 - [nfc-tools/libnfc](https://github.com/nfc-tools/libnfc) - Platform independent Near Field Communication (NFC) library
@@ -5356,7 +5356,7 @@
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [getlocalization/python-glcli](https://github.com/getlocalization/python-glcli) - Get Localization Command-Line Interface
@@ -6423,6 +6423,8 @@
 
 ## Swift 
 
+- [sunshinejr/Pouch](https://github.com/sunshinejr/Pouch) - Secret management tool.
+- [SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs) - Complete SwiftUI Docs with Examples
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [danielmartin/swift-helpful](https://github.com/danielmartin/swift-helpful) - A Self-Documenting Emacs Programming Environment for Swift. Includes curated Swift 5.3 documentation and reference in GNU Info format, with cross-references, and keyword/topic indices.
 - [Flinesoft/BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
@@ -6930,7 +6932,7 @@
 - [macmade/Notarize](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts.
 - [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) - The Swift SDK to work with the App Store Connect API from Apple.
 - [kalanyuz/SwiftR](https://github.com/kalanyuz/SwiftR) - A Swift framework for Real-time time series data visualization
-- [muukii/Pixel](https://github.com/muukii/Pixel) - 📷 [v2 development started 🧵] An image editor and engine using CoreImage
+- [muukii/Brightroom](https://github.com/muukii/Brightroom) - 📷 [v2 development started 🧵] An image editor and engine using CoreImage
 - [scenee/FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [vknabel/sourcekite](https://github.com/vknabel/sourcekite) - the backend of SDE's language server
 - [apploft/ExpandableLabel](https://github.com/apploft/ExpandableLabel) - A simple UILabel subclass that shows a tappable link if the content doesn't fit the specified number of lines
@@ -7317,7 +7319,7 @@
 - [ayunav/MeetupOrganizer](https://github.com/ayunav/MeetupOrganizer) - 📲 An iOS app for meetup goers, hosts, and organizers that extends native Meetup app's functionality and lets you upload multiple photos to meetup events.
 - [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 - [maximedegreve/TinyFaces](https://github.com/maximedegreve/TinyFaces) - Free stock avatars for everyone  👦🏼👨🏾👩🏻  (Built w/ Swift)
-- [llvm-swift/LLVMSwift](https://github.com/llvm-swift/LLVMSwift) - A Swift wrapper for the LLVM C API (version 9.0.1)
+- [llvm-swift/LLVMSwift](https://github.com/llvm-swift/LLVMSwift) - A Swift wrapper for the LLVM C API (version 11.0)
 - [Otbivnoe/XShared](https://github.com/Otbivnoe/XShared) - Xcode extension that allows you copying the code with special formatting quotes for social (Slack, Telegram)
 - [choefele/AlexaSkillsKit](https://github.com/choefele/AlexaSkillsKit) - Swift library to develop custom Alexa Skills
 - [choefele/swift-lambda-app](https://github.com/choefele/swift-lambda-app) - Amazon Lambda app with Swift and Docker
@@ -7815,6 +7817,7 @@
 
 ## VHDL 
 
+- [stnolting/neo430](https://github.com/stnolting/neo430) - A very small msp430-compatible customizable soft-core microcontroller-like processor system written in platform-independent VHDL.
 - [openpower-cores/a2i](https://github.com/openpower-cores/a2i) - 
 - [ghdl/ghdl](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator
 - [ghdl/ghdl-yosys-plugin](https://github.com/ghdl/ghdl-yosys-plugin) - VHDL synthesis (based on ghdl)
