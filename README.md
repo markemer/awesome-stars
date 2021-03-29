@@ -6423,6 +6423,7 @@
 
 ## Swift 
 
+- [mfcollins3/SwiftMonacoEditor](https://github.com/mfcollins3/SwiftMonacoEditor) - Visual Studio Code's Monaco text editor packaged as a host-able UIKit or SwiftUI component.
 - [sunshinejr/Pouch](https://github.com/sunshinejr/Pouch) - Secret management tool.
 - [SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs) - Complete SwiftUI Docs with Examples
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
@@ -6932,7 +6933,7 @@
 - [macmade/Notarize](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts.
 - [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) - The Swift SDK to work with the App Store Connect API from Apple.
 - [kalanyuz/SwiftR](https://github.com/kalanyuz/SwiftR) - A Swift framework for Real-time time series data visualization
-- [muukii/Brightroom](https://github.com/muukii/Brightroom) - 📷 [v2 development started 🧵] An image editor and engine using CoreImage
+- [muukii/Brightroom](https://github.com/muukii/Brightroom) - 📷 [v2-alpha.1 now open] An image editor and engine using CoreImage
 - [scenee/FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [vknabel/sourcekite](https://github.com/vknabel/sourcekite) - the backend of SDE's language server
 - [apploft/ExpandableLabel](https://github.com/apploft/ExpandableLabel) - A simple UILabel subclass that shows a tappable link if the content doesn't fit the specified number of lines
