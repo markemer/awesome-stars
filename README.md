@@ -2994,7 +2994,7 @@
 - [timuric/sketchapp-scripter](https://github.com/timuric/sketchapp-scripter) - Atom package for running sketch app scripts from the atom editor
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Golang + EmberJS
 - [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
-- [times/cardkit](https://github.com/times/cardkit) - A simple, powerful and fully configurable image editor for web browsers and servers. Optional UI included.
+- [chrishutchinson/cardkit](https://github.com/chrishutchinson/cardkit) - A simple, powerful and fully configurable image editor for web browsers and servers. Optional UI included.
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -3481,6 +3481,7 @@
 
 ## Markdown 
 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
 ## Matlab 
@@ -4745,6 +4746,7 @@
 
 ## PowerShell 
 
+- [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 - [majkinetor/posh](https://github.com/majkinetor/posh) - Powershell modules and functions by majkinetor
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [fulgerul/nvidia-kvm-patcher](https://github.com/fulgerul/nvidia-kvm-patcher) - Fixes "Bug" in Nvidia Driver preventing "Unsupported Configurations" from being used on KVM
@@ -5931,6 +5933,8 @@
 
 ## Rust 
 
+- [PurpleMyst/rusty_tcl](https://github.com/PurpleMyst/rusty_tcl) - rusty_tcl provides Rustic bindings to the Tcl C library
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [rust-osdev/acpi](https://github.com/rust-osdev/acpi) - Rust library for parsing ACPI tables and AML
 - [rust-osdev/x86_64](https://github.com/rust-osdev/x86_64) - Library to program x86_64 hardware.
@@ -6279,7 +6283,6 @@
 - [aaossa/git-gud](https://github.com/aaossa/git-gud) - A simple git commit checker
 - [nuket/provision-osx](https://github.com/nuket/provision-osx) - Batch files to provision OS X as a virtual machine host and manage those VMs.
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [gilhaz/hassbian-homebridge-install](https://github.com/gilhaz/hassbian-homebridge-install) - Auto install homebridge on RaspberryPi running Hassbian
 - [lexrus/LTFinderButtons](https://github.com/lexrus/LTFinderButtons) - My Finder buttons collection for macOS.
 - [openfaas/store](https://github.com/openfaas/store) - Official Function and Template Store for OpenFaaS
