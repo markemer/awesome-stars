@@ -169,7 +169,7 @@
 - [rasteri/PiPU](https://github.com/rasteri/PiPU) - Project to use a Raspberry Pi as a NES graphics accelerator
 - [nanochess/Pillman](https://github.com/nanochess/Pillman) - Pillman boot sector game, a yellow thing eats pills and is chased by monsters.
 - [mattmacleod/swift-bare-metal](https://github.com/mattmacleod/swift-bare-metal) - Swift on bare metal x64
-- [cirosantilli/x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) - Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup
+- [cirosantilli/x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) - Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QEMU 2.10中的Ubuntu 17.10主机和真实硬件上进行了测试。 Userland作弊网址：https：//github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM裸机安装程序位于：https：//github.com/cirosantilli/linux-kernel-module-cheat#baremetal- 设置
 - [pjimenezmateo/curriculum-bootloader](https://github.com/pjimenezmateo/curriculum-bootloader) - Here I share the code of my CV, which is also a bootable bootloader :)
 - [bluewaysw/pcgeos](https://github.com/bluewaysw/pcgeos) - #FreeGEOS source codes. The offical home of the PC/GEOS operating system technology. For personal computing fans. For all developers and assembly lovers. For YOU!
 - [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) - Working draft of the proposed RISC-V V vector extension
@@ -1622,6 +1622,7 @@
 
 ## Dart 
 
+- [huextrat/Taskist](https://github.com/huextrat/Taskist) - Flutter ToDo App with Firebase
 - [dart-lang/dart-pad](https://github.com/dart-lang/dart-pad) - An online Dart editor with support for console, web, and Flutter apps
 - [TerminalStudio/xterm.dart](https://github.com/TerminalStudio/xterm.dart) - 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -3145,7 +3146,7 @@
 - [keybase/kbpgp](https://github.com/keybase/kbpgp) - OpenPGP (RFC4880) Implementation in IcedCoffeeScript
 - [NickCarneiro/remtail](https://github.com/NickCarneiro/remtail) - tail log files from multiple remote hosts
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection.
+- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library
 - [zaach/jison](https://github.com/zaach/jison) - Bison in JavaScript.
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
@@ -3408,6 +3409,7 @@
 
 ## Lua 
 
+- [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [WolvenKit/BraindanceProtocol](https://github.com/WolvenKit/BraindanceProtocol) - A GUI to modify your Cyberpunk 2077 experience
 - [civfanatics/Civ6-UIFiles-Restructured](https://github.com/civfanatics/Civ6-UIFiles-Restructured) - 
 - [civfanatics/CQUI_Community-Edition](https://github.com/civfanatics/CQUI_Community-Edition) - Civilization 6 mod - UI enhancements, reduce clicks and manage your empire faster!
@@ -4886,7 +4888,7 @@
 - [FoldingAtHome/covid-moonshot](https://github.com/FoldingAtHome/covid-moonshot) - Scripts and input files associated with docking and free energy calculations for the COVID Moonshot
 - [open-covid-19/data](https://github.com/open-covid-19/data) - Daily time-series epidemiology and hospitalization data for all countries, state/province data for 50+ countries and county/municipality data for CO, FR, NL, PH, UK and US. Covariates for all available regions include demographics, mobility reports, government interventions, weather and more.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
-- [cirosantilli/linux-kernel-module-cheat](https://github.com/cirosantilli/linux-kernel-module-cheat) - The perfect emulation setup to study and develop the Linux kernel v5.4.3, kernel modules, QEMU, gem5 and x86_64, ARMv7 and ARMv8 userland and baremetal assembly, ANSI C, C++ and POSIX. GDB step debug and KGDB just work. Powered by Buildroot and crosstool-NG. Highly automated. Thoroughly documented. Automated tests. "Tested" in an Ubuntu 19.10 host.
+- [cirosantilli/linux-kernel-module-cheat](https://github.com/cirosantilli/linux-kernel-module-cheat) - The perfect emulation setup to study and develop the Linux kernel v5.4.3, kernel modules, QEMU, gem5 and x86_64, ARMv7 and ARMv8 userland and baremetal assembly, ANSI C, C++ and POSIX. GDB step debug and KGDB just work. Powered by Buildroot and crosstool-NG. Highly automated. Thoroughly documented. Automated tests. "Tested" in an Ubuntu 19.10 host.完美的仿真设置，可用于研究和开发Linux内核v5.4.3，内核模块，QEMU，gem5和x86_64，ARMv7和ARMv8用户界面以及裸机装配，ANSI C，C ++和POSIX。 GDB步骤调试和KGDB可以正常工作。 由Buildroot和crosstool-NG支持。 高度自动化。 彻底记录。 自动化测试。 在Ubuntu 19.10主机中经过“测试”。
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [simonw/fec-to-sqlite](https://github.com/simonw/fec-to-sqlite) - Save FEC campaign finance data to a SQLite database
 - [firstlookmedia/dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
@@ -5934,6 +5936,7 @@
 
 ## Rust 
 
+- [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [RWTH-OS/eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - A teaching operating system written in Rust
 - [buildkite/iam-ssh-agent](https://github.com/buildkite/iam-ssh-agent) - Keyless SSH Agent for IAM Entities
@@ -6431,7 +6434,7 @@
 - [sunshinejr/Pouch](https://github.com/sunshinejr/Pouch) - Secret management tool.
 - [SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs) - Complete SwiftUI Docs with Examples
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
-- [danielmartin/swift-helpful](https://github.com/danielmartin/swift-helpful) - A Self-Documenting Emacs Programming Environment for Swift. Includes curated Swift 5.3 documentation and reference in GNU Info format, with cross-references, and keyword/topic indices.
+- [danielmartin/swift-helpful](https://github.com/danielmartin/swift-helpful) - A Self-Documenting Emacs Programming Environment for Swift. Includes curated Swift 5.4 documentation and reference in GNU Info format, with cross-references, and keyword/topic indices.
 - [Flinesoft/BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
 - [LucianoPAlmeida/variable-injector](https://github.com/LucianoPAlmeida/variable-injector) - Continuous Integration Tool for Swift Projects
 - [thumbtack/star](https://github.com/thumbtack/star) - Generate reports on how frequently specified Swift types are being used in your iOS codebase
@@ -7653,6 +7656,8 @@
 
 ## TypeScript 
 
+- [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
+- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [dungeon-revealer/dungeon-revealer](https://github.com/dungeon-revealer/dungeon-revealer) - A web app for tabletop gaming to allow the game master to reveal areas of the game map to players, roll dice and take notes.
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor.
 - [ephread/ink-language-server](https://github.com/ephread/ink-language-server) - A language server for inkle's Ink.
