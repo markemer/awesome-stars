@@ -2855,7 +2855,7 @@
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [xtina-starr/pull-lock](https://github.com/xtina-starr/pull-lock) - 
-- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
+- [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
 - [brrd/abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
 - [regl-project/regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
 - [calculist/calculist](https://github.com/calculist/calculist) - the open source thinking tool for problem solvers
@@ -7940,6 +7940,7 @@
 
 ## ZIL 
 
+- [historicalsource/suspended](https://github.com/historicalsource/suspended) - Suspended by Mike Berlyn (Infocom)
 - [historicalsource/zork3](https://github.com/historicalsource/zork3) - Zork III (Infocom)
 - [historicalsource/zork1](https://github.com/historicalsource/zork1) - Zork I (Microcomputer Version) by Infocom
 
