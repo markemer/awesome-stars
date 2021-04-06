@@ -373,7 +373,7 @@
 - [signalapp/libsignal-protocol-c](https://github.com/signalapp/libsignal-protocol-c) - Signal Protocol C Library
 - [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
 - [parsec-cloud/parsec-sdk](https://github.com/parsec-cloud/parsec-sdk) - Low latency, peer-to-peer, interactive game streaming.
-- [chrisd1100/cddNES](https://github.com/chrisd1100/cddNES) - Cycle accurate NES emulator written in C w/ Parsec SDK support.
+- [matoya/cddNES](https://github.com/matoya/cddNES) - Cycle accurate NES emulator written in C w/ Parsec SDK support.
 - [alephsecurity/xnu-qemu-arm64-tools](https://github.com/alephsecurity/xnu-qemu-arm64-tools) - 
 - [randy408/libspng](https://github.com/randy408/libspng) - Simple, modern libpng alternative
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
@@ -2571,6 +2571,7 @@
 - [potrudeau/homebridge-messenger](https://github.com/potrudeau/homebridge-messenger) - Send HomeKit messages with HomeBridge (Pushover / IFTTT / Email)
 - [Walker-TW/Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer) - View Algorithms in the Browser! - Built with ReactJs
 - [anvaka/peak-map](https://github.com/anvaka/peak-map) - Make a ridge line chart from any region on Earth
+- [naturalcrit/homebrewery](https://github.com/naturalcrit/homebrewery) - Create authentic looking D&D homebrews using only markdown
 - [vasturiano/cartogram-chart](https://github.com/vasturiano/cartogram-chart) - A cartogram chart web component for visualizing geographical data by distorting a TopoJson topology
 - [RecallGraph/RecallGraph](https://github.com/RecallGraph/RecallGraph) - A versioning data store for time-variant graph data.
 - [apple/password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
@@ -3403,7 +3404,6 @@
 
 ## Less 
 
-- [naturalcrit/homebrewery](https://github.com/naturalcrit/homebrewery) - Create authentic looking D&D homebrews using only markdown
 - [UDOOboard/Bolt-Docs](https://github.com/UDOOboard/Bolt-Docs) - UDOO Bolt Documentation
 - [Squarespace/wright-framework](https://github.com/Squarespace/wright-framework) - 
 
@@ -6430,6 +6430,7 @@
 
 ## Swift 
 
+- [apple/swift-collections](https://github.com/apple/swift-collections) - A package of production grade Swift data structures
 - [mfcollins3/SwiftMonacoEditor](https://github.com/mfcollins3/SwiftMonacoEditor) - Visual Studio Code's Monaco text editor packaged as a host-able UIKit or SwiftUI component.
 - [sunshinejr/Pouch](https://github.com/sunshinejr/Pouch) - Secret management tool.
 - [SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs) - Complete SwiftUI Docs with Examples
