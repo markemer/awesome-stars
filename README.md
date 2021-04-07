@@ -205,7 +205,7 @@
 ## C 
 
 - [0intro/plan9](https://github.com/0intro/plan9) - Plan 9 from Bell Labs
-- [dakanji/RefindPlus](https://github.com/dakanji/RefindPlus) - A variant of the rEFInd Boot Manager
+- [dakanji/RefindPlus](https://github.com/dakanji/RefindPlus) - A Variant of the rEFInd Boot Manager
 - [freeciv/freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit patches at https://www.hostedredmine.com/projects/freeciv
 - [Jan--Henrik/Otter-Iron](https://github.com/Jan--Henrik/Otter-Iron) - A TS100 USB-PD replacement PCB.
 - [Jan--Henrik/Otter-Iron-PRO](https://github.com/Jan--Henrik/Otter-Iron-PRO) - USB-PD soldering station for JBC C245 handles.
@@ -618,7 +618,6 @@
 - [analang/como-lang-ng](https://github.com/analang/como-lang-ng) - como-lang-ng is now ana-lang, located at https://github.com/analang/ana
 - [PlanetAPL/openAPL](https://github.com/PlanetAPL/openAPL) - 
 - [dlundquist/sniproxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
-- [riscv/riscv-gcc](https://github.com/riscv/riscv-gcc) - 
 - [OpenDataPlane/odp](https://github.com/OpenDataPlane/odp) - The ODP project is an open-source, cross-platform set of application programming interfaces (APIs) for the networking data plane
 - [ousnius/BSA-Manager](https://github.com/ousnius/BSA-Manager) - Manager program for the Bethesda Softworks Archives (BSA)
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
@@ -1396,7 +1395,6 @@
 - [frida/cryptoshark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
 - [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror) - This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.
 - [capnproto/ekam](https://github.com/capnproto/ekam) - Ekam Build System
-- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [aidin36/tocc](https://github.com/aidin36/tocc) - A tag based file management system.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
@@ -3859,7 +3857,7 @@
 - [github/Archimedes](https://github.com/github/Archimedes) - Geometry functions for Cocoa and Cocoa Touch
 - [mmislam101/EasyTimeline](https://github.com/mmislam101/EasyTimeline) - An easy timeline class for your timeline needs
 - [mattt/Ono](https://github.com/mattt/Ono) - A sensible way to deal with XML & HTML for iOS & macOS
-- [mattt/DictionaryKit](https://github.com/mattt/DictionaryKit) - An Objective-C Wrapper for Private Dictionary Services on Mac OS X
+- [NSHipster/DictionaryKit](https://github.com/NSHipster/DictionaryKit) - An Objective-C Wrapper for Private Dictionary Services on Mac OS X
 - [facebookarchive/Shimmer](https://github.com/facebookarchive/Shimmer) - An easy way to add a simple, shimmering effect to any view in an iOS app.
 - [mattt/Navajo](https://github.com/mattt/Navajo) - Password Validator & Strength Evaluator
 - [mattlawer/MBSliderView](https://github.com/mattlawer/MBSliderView) - An iOS control that looks like the 'Slide to unlock' slider
@@ -4424,6 +4422,7 @@
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [design4use/gb-sketch-segmentcircle](https://github.com/design4use/gb-sketch-segmentcircle) - Sketch plugin creates circular graphics for diagrams, instrumentation and analytics.
 - [GalaxyEham/FrostyToolSuite](https://github.com/GalaxyEham/FrostyToolSuite) - This repository contains the releases for all the tools in the Frosty Suite
+- [riscv/riscv-gcc](https://github.com/riscv/riscv-gcc) - 
 - [cugu/apfs.ksy](https://github.com/cugu/apfs.ksy) - APFS filesystem format for Kaitai Struct
 - [jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks) - List of open-source OS X frameworks.
 - [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps) - Open Source Mac Apps
@@ -5552,6 +5551,7 @@
 
 ## Racket 
 
+- [mbutterick/hyphenate](https://github.com/mbutterick/hyphenate) - Racket implementation of Knuth–Liang hyphenation algorithm
 - [racket/drracket](https://github.com/racket/drracket) - DrRacket, IDE for Racket
 
 ## Raku 
@@ -7657,6 +7657,7 @@
 
 ## TypeScript 
 
+- [paulshen/birthday-report](https://github.com/paulshen/birthday-report) - 
 - [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [dungeon-revealer/dungeon-revealer](https://github.com/dungeon-revealer/dungeon-revealer) - A web app for tabletop gaming to allow the game master to reveal areas of the game map to players, roll dice and take notes.
