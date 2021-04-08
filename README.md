@@ -204,6 +204,8 @@
 
 ## C 
 
+- [katef/kgt](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams
+- [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple library for communicating with USB and Bluetooth HID devices on Linux, Mac and Windows.
 - [0intro/plan9](https://github.com/0intro/plan9) - Plan 9 from Bell Labs
 - [dakanji/RefindPlus](https://github.com/dakanji/RefindPlus) - A Variant of the rEFInd Boot Manager
 - [freeciv/freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit patches at https://www.hostedredmine.com/projects/freeciv
@@ -259,7 +261,7 @@
 - [bootleg/ret-sync](https://github.com/bootleg/ret-sync) - ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra/Binary Ninja disassemblers.
 - [ARM-software/TZ-TRNG](https://github.com/ARM-software/TZ-TRNG) - TrustZone True Number Generator
 - [OPAE/opae-sdk](https://github.com/OPAE/opae-sdk) - Open Programmable Acceleration Engine
-- [Hamlib/Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library
+- [Hamlib/Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library for rigs, rotators, tuners, and amplifiers
 - [climberhunt/uvc-gadget](https://github.com/climberhunt/uvc-gadget) - enhance uvc-gadget test application
 - [ultravideo/kvazaar](https://github.com/ultravideo/kvazaar) - An open-source HEVC encoder
 - [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE802.11/Wi-Fi baseband chip/FPGA design
@@ -738,6 +740,7 @@
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [DhavalKapil/icmptunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets.
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
 - [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
@@ -1721,6 +1724,8 @@
 
 ## Go 
 
+- [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
+- [billziss-gh/hubfs](https://github.com/billziss-gh/hubfs) - File system for GitHub
 - [climech/grit](https://github.com/climech/grit) - A multitree-based personal task manager
 - [DSpeichert/netbootd](https://github.com/DSpeichert/netbootd) - Lightweight network boot/install server (DHCP, TFTP, HTTP)
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
@@ -2051,7 +2056,7 @@
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [kashav/fsql](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
 - [schollz/find-lf](https://github.com/schollz/find-lf) - Track the location of every Wi-Fi device (:iphone:) in your house using Raspberry Pis and FIND
-- [docker/deploykit](https://github.com/docker/deploykit) - A toolkit for creating and managing declarative, self-healing infrastructure.
+- [docker-archive/deploykit](https://github.com/docker-archive/deploykit) - A toolkit for creating and managing declarative, self-healing infrastructure.
 - [bradfitz/campher](https://github.com/bradfitz/campher) - Embed Perl in Go. This works, but was a joke for a presentation. Don't use.
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [icecrime/poule](https://github.com/icecrime/poule) - :chicken: A framework for GitHub automation
@@ -3091,7 +3096,6 @@
 - [kbitdk/kbsslenforcer](https://github.com/kbitdk/kbsslenforcer) - Automatic security, browse encrypted
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [guardian/scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [Lascorbe/CocoaConferences](https://github.com/Lascorbe/CocoaConferences) - List of Cocoa conferences for iOS & macOS developers
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [h2non/toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
@@ -4085,6 +4089,7 @@
 
 ## Others 
 
+- [ligurio/practical-fm](https://github.com/ligurio/practical-fm) - A gently curated list of companies using verification formal methods in industry
 - [NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) - RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges.  With the rollout of vaccines for COVID-19, these synthetic mRNAs have become broadly distributed RNA species in numerous human populations.  Despite their ubiquity, sequences are not always available for such RNAs.  Standard methods facilitate such sequencing.  In this note, we provide experimental sequence information for the RNA components of the initial Moderna (https://pubmed.ncbi.nlm.nih.gov/32756549/) and Pfizer/BioNTech (https://pubmed.ncbi.nlm.nih.gov/33301246/) COVID-19 vaccines, allowing a working assembly of the former and a confirmation of previously reported sequence information for the latter RNA.  Sharing of sequence information for broadly used therapeutics has the benefit of allowing any researchers or clinicians using sequencing approaches to rapidly identify such sequences as therapeutic-derived rather than host or infectious in origin.   For this work, RNAs were obtained as discards from the small portions of vaccine doses that remained in vials after immunization; such portions would have been required to be otherwise discarded and were analyzed under FDA authorization for research use.  To obtain the small amounts of RNA needed for characterization, vaccine remnants were phenol-chloroform extracted using TRIzol Reagent (Invitrogen), with intactness assessed by Agilent 2100 Bioanalyzer before and after extraction.    Although our analysis mainly focused on RNAs obtained as soon as possible following discard, we also analyzed samples which had been refrigerated (~4 ℃) for up to 42 days with and without the addition of EDTA.  Interestingly a substantial fraction of the RNA remained intact in these preparations.  We note that the formulation of the vaccines includes numerous key chemical components which are quite possibly unstable under these conditions-- so these data certainly do not suggest that the vaccine as a biological agent is stable.  But it is of interest that chemical stability of RNA itself is not sufficient to preclude eventual development of vaccines with a much less involved cold-chain storage and transportation.   For further analysis, the initial RNAs were fragmented by heating to 94℃, primed with a random hexamer-tailed adaptor, amplified through a template-switch protocol (Takara SMARTerer Stranded RNA-seq kit), and sequenced using a MiSeq instrument (Illumina) with paired end 78-per end sequencing.  As a reference material in specific assays, we included RNA of known concentration and sequence (from bacteriophage MS2).  From these data, we obtained partial information on strandedness and a set of segments that could be used for assembly.  This was particularly useful for the Moderna vaccine, for which the original vaccine RNA sequence was not available at the time our study was carried out.  Contigs encoding full-length spikes were assembled from the Moderna and Pfizer datasets.  The Pfizer/BioNTech data [Figure 1] verified the reported sequence for that vaccine (https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/), while the Moderna sequence [Figure 2] could not be checked against a published reference.   RNA preparations lacking dsRNA are desirable in generating vaccine formulations as these will minimize an otherwise dramatic biological (and nonspecific) response that vertebrates have to double stranded character in RNA (https://www.nature.com/articles/nrd.2017.243).  In the sequence data that we analyzed, we found that the vast majority of reads were from the expected sense strand.  In addition, the minority of antisense reads appeared different from sense reads in lacking the characteristic extensions expected from the template switching protocol.  Examining only the reads with an evident template switch (as an indicator for strand-of-origin), we observed that both vaccines overwhelmingly yielded sense reads (&gt;99.99%).  Independent sequencing assays and other experimental measurements are ongoing and will be needed to determine whether this template-switched sense read fraction in the SmarterSeq protocol indeed represents the actual dsRNA content in the original material.  This work provides an initial assessment of two RNAs that are now a part of the human ecosystem and that are likely to appear in numerous other high throughput RNA-seq studies in which a fraction of the individuals may have previously been vaccinated.  ProtoAcknowledgements: Thanks to our colleagues for help and suggestions (Nimit Jain, Emily Greenwald, Lamia Wahba, William Wang, Amisha Kumar, Sameer Sundrani, David Lipman, Bijoyita Roy).  Figure 1: Spike-encoding contig assembled from BioNTech/Pfizer BNT-162b2 vaccine.  Although the full coding region is included, the nature of the methodology used for sequencing and assembly is such that the assembled contig could lack some sequence from the ends of the RNA.  Within the assembled sequence, this hypothetical sequence shows a perfect match to the corresponding sequence from documents available online derived from manufacturer communications with the World Health Organization [as reported by https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/].  The 5’ end for the assembly matches the start site noted in these documents, while the read-based assembly lacks an interrupted polyA tail (A30(GCATATGACT)A70) that is expected to be present in the mRNA.
 - [Xcode-Tips/xcode-tips.github.io](https://github.com/Xcode-Tips/xcode-tips.github.io) - Community-run website for documenting Xcode Tips
 - [flosse/rust-os-comparison](https://github.com/flosse/rust-os-comparison) - A comparison of operating systems written in Rust
@@ -4772,6 +4777,7 @@
 
 ## Python 
 
+- [rizinorg/rz-pipe](https://github.com/rizinorg/rz-pipe) - Access rizin via pipe from any programming language!
 - [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 - [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 - [nmigen/nmigen](https://github.com/nmigen/nmigen) - A refreshed Python toolbox for building complex digital hardware
@@ -5936,6 +5942,7 @@
 
 ## Rust 
 
+- [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [RWTH-OS/eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - A teaching operating system written in Rust
@@ -6430,6 +6437,8 @@
 
 ## Swift 
 
+- [maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL client that lets you forget about GraphQL.
+- [AndrewBennet/PersistedPropertyWrapper](https://github.com/AndrewBennet/PersistedPropertyWrapper) - A Swift library to enable easy persistent UserDefaults storage
 - [apple/swift-collections](https://github.com/apple/swift-collections) - A package of production grade Swift data structures
 - [mfcollins3/SwiftMonacoEditor](https://github.com/mfcollins3/SwiftMonacoEditor) - Visual Studio Code's Monaco text editor packaged as a host-able UIKit or SwiftUI component.
 - [sunshinejr/Pouch](https://github.com/sunshinejr/Pouch) - Secret management tool.
