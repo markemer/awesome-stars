@@ -318,7 +318,6 @@
 - [darrylb123/usbrelay](https://github.com/darrylb123/usbrelay) - Control usb relay - based on hidapi
 - [flashrom/flashrom](https://github.com/flashrom/flashrom) - Patches welcome, see https://www.flashrom.org/Development_Guidelines#Patch_submission
 - [kamailio/kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
-- [adafruit/Adafruit_nRF52_Arduino](https://github.com/adafruit/Adafruit_nRF52_Arduino) - Adafruit code for the Nordic nRF52 BLE SoC on Arduino
 - [OpenSIPS/opensips](https://github.com/OpenSIPS/opensips) - OpenSIPS is a GPL implementation of a multi-functionality SIP Server that targets to deliver a high-level technical solution (performance, security and quality) to be used in professional SIP server platforms.
 - [alephsecurity/xnu-qemu-arm64](https://github.com/alephsecurity/xnu-qemu-arm64) - 
 - [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS) - The Memory Process File System
@@ -738,6 +737,7 @@
 - [machyve/xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution
 - [rumpkernel/rumprun](https://github.com/rumpkernel/rumprun) - The Rumprun unikernel and toolchain for various platforms
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
+- [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [DhavalKapil/icmptunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets.
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
@@ -1037,6 +1037,7 @@
 - [brettcvz/upnext](https://github.com/brettcvz/upnext) - A desktop calendar, based on a raspberry pi and e-ink display
 - [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.
 - [pisa-engine/pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes and Search for Academia
+- [adafruit/Adafruit_nRF52_Arduino](https://github.com/adafruit/Adafruit_nRF52_Arduino) - Adafruit code for the Nordic nRF52 BLE SoC on Arduino
 - [akinomyoga/cxxmatrix](https://github.com/akinomyoga/cxxmatrix) - C++ Matrix: The Matrix Reloaded in Terminals (Number falls, Banners, Matrix rains, Conway's Game of Life and Mandelbrot set)
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [qcad/qcad](https://github.com/qcad/qcad) - QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
@@ -1520,6 +1521,7 @@
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [restcookbook/restcookbook](https://github.com/restcookbook/restcookbook) - Jekyll cms site for restcookbook.com
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
+- [gembarrett/coconduct-builder](https://github.com/gembarrett/coconduct-builder) - An online tool for building a thorough and well-supported Code of Conduct specific to a community's online and/or offline environment.
 - [odewahn/docker-jumpstart](https://github.com/odewahn/docker-jumpstart) - A quick introduction to Docker
 - [littleosbook/littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
 - [divshot/markie](https://github.com/divshot/markie) - A simple Markdown editor built with AngularJS.
@@ -1724,6 +1726,10 @@
 
 ## Go 
 
+- [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
+- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
+- [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [billziss-gh/hubfs](https://github.com/billziss-gh/hubfs) - File system for GitHub
 - [climech/grit](https://github.com/climech/grit) - A multitree-based personal task manager
@@ -2388,6 +2394,7 @@
 - [JetBrains/skija](https://github.com/JetBrains/skija) - Skia bindings for Java
 - [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [intuit/karate](https://github.com/intuit/karate) - Test Automation Made Simple
+- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [tabulapdf/tabula-java](https://github.com/tabulapdf/tabula-java) - Extract tables from PDF files
 - [RPTools/maptool](https://github.com/RPTools/maptool) - Virtual Tabletop for playing roleplaying games with remote players or face to face.
 - [r0hi7/TrashEmail](https://github.com/r0hi7/TrashEmail) - A hosted disposable email telegram bot; Extremely privacy friendly; Proudly hosted for community.
@@ -2691,7 +2698,7 @@
 - [ericalli/static-site-boilerplate](https://github.com/ericalli/static-site-boilerplate) - A better workflow for building modern static websites.
 - [mathisonian/idyll-animation-article](https://github.com/mathisonian/idyll-animation-article) - How to use CSS animations and custom tweening to animate elements in Idyll.
 - [schasins/helena](https://github.com/schasins/helena) - A Chrome extension for writing custom web scraping programs and web automation programs.  Just demonstrate how to collect the first row of data, then let the extension write the program for collecting all rows.
-- [acro5piano/docker-run.com](https://github.com/acro5piano/docker-run.com) - [demo] A new and better way to run Docker containers in production
+- [acro5piano/docker-run.com](https://github.com/acro5piano/docker-run.com) - [demo] A new and better way to run Docker containers in production. This is uncompleted side project, you know
 - [thenativeweb/wolkenkit-boards](https://github.com/thenativeweb/wolkenkit-boards) - wolkenkit-boards is a team collaboration application.
 - [trys/JournalBook](https://github.com/trys/JournalBook) - JournalBook is a private, offline-first personal journal.
 - [aceakash/string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
@@ -3092,7 +3099,6 @@
 - [d3/d3-hexbin](https://github.com/d3/d3-hexbin) - Group two-dimensional points into hexagonal bins.
 - [davidagraf/doi2bib](https://github.com/davidagraf/doi2bib) - give us a DOI and we'll do our best to get you the BibTeX entry
 - [muan/github-gmail](https://github.com/muan/github-gmail) - [WebExtension] Open GitHub notifications with shortcuts in Gmail.
-- [gembarrett/coconduct-builder](https://github.com/gembarrett/coconduct-builder) - An online tool for building a thorough and well-supported Code of Conduct specific to a community's online and/or offline environment.
 - [kbitdk/kbsslenforcer](https://github.com/kbitdk/kbsslenforcer) - Automatic security, browse encrypted
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [guardian/scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
@@ -3411,6 +3417,7 @@
 
 ## Lua 
 
+- [tongson/LadyLua](https://github.com/tongson/LadyLua) - Single executable(static), batteries included, Lua 5.1 interpreter.
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [WolvenKit/BraindanceProtocol](https://github.com/WolvenKit/BraindanceProtocol) - A GUI to modify your Cyberpunk 2077 experience
 - [civfanatics/Civ6-UIFiles-Restructured](https://github.com/civfanatics/Civ6-UIFiles-Restructured) - 
@@ -3449,6 +3456,7 @@
 - [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) - OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
 - [zouchuhang/LayoutNet](https://github.com/zouchuhang/LayoutNet) - Torch implementation of our CVPR 18 paper: "LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image"
 - [matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.
+- [AaronJackson/vrn](https://github.com/AaronJackson/vrn) - :man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"
 
 ## Makefile 
 
@@ -3516,7 +3524,6 @@
 - [roburio/unikernels](https://github.com/roburio/unikernels) - MirageOS unikernels
 - [roburio/dns-primary-git](https://github.com/roburio/dns-primary-git) - A MirageOS unikernel acting as primary DNS server, data stored in a remote git repository
 - [mirage/qubes-mirage-firewall](https://github.com/mirage/qubes-mirage-firewall) - A Mirage firewall VM for QubesOS
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [ocaml-sf/learn-ocaml](https://github.com/ocaml-sf/learn-ocaml) - A Web Application for Learning OCaml
 - [janestreet/hardcaml](https://github.com/janestreet/hardcaml) - Hardcaml is an OCaml library for designing hardware.
@@ -5813,7 +5820,6 @@
 - [jedi4ever/markdown2confluence](https://github.com/jedi4ever/markdown2confluence) - Converting Markdown to Confluence Markup using Kramdown Gem
 - [AFNetworking/fastlane](https://github.com/AFNetworking/fastlane) - A fastlane setup to deploy Objective-C and Swift frameworks.
 - [larslockefeer/xcpretty-profiler-formatter](https://github.com/larslockefeer/xcpretty-profiler-formatter) - xcpretty formatter that profiles compile times per file
-- [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [crowdin/crowdin-cli-v1](https://github.com/crowdin/crowdin-cli-v1) - A command-line client for the Crowdin API v1
 - [crowdin/crowdin-ruby-client-v1](https://github.com/crowdin/crowdin-ruby-client-v1) - The Crowdin Ruby Client is used to interact with the Crowdin API v1 from Ruby
 - [sr189/xliffle](https://github.com/sr189/xliffle) - A gem to build xliff files from translated strings
@@ -6304,7 +6310,6 @@
 - [sdt/docker-raspberry-pi-cross-compiler](https://github.com/sdt/docker-raspberry-pi-cross-compiler) - Raspberry Pi cross-compiler and sysroot in a Docker container.
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to https://PlexGuide.com ~ Rapidly deploy multiple-hasty Docker Containers through Ansible with local or Unlimited Google HD Space!
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
-- [AaronJackson/vrn](https://github.com/AaronJackson/vrn) - :man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
@@ -6437,6 +6442,8 @@
 
 ## Swift 
 
+- [kean/Pulse](https://github.com/kean/Pulse) - Network Inspector for Apple Platforms
+- [vincent-pradeilles/swift-tips](https://github.com/vincent-pradeilles/swift-tips) - A collection useful tips for the Swift language
 - [maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL client that lets you forget about GraphQL.
 - [AndrewBennet/PersistedPropertyWrapper](https://github.com/AndrewBennet/PersistedPropertyWrapper) - A Swift library to enable easy persistent UserDefaults storage
 - [apple/swift-collections](https://github.com/apple/swift-collections) - A package of production grade Swift data structures
