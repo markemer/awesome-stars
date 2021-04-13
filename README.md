@@ -648,6 +648,7 @@
 - [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 - [kosua20/herebedragons](https://github.com/kosua20/herebedragons) - A basic 3D scene implemented with various engines, frameworks or APIs.
 - [ctz/cifra](https://github.com/ctz/cifra) - A collection of cryptographic primitives targeted at embedded use.
+- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 - [pmem/vltrace](https://github.com/pmem/vltrace) - Tool tracing syscalls in a fast way using eBPF linux kernel feature
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [libimobiledevice/ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller) - Manage apps of iOS devices
@@ -743,6 +744,7 @@
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
+- [adventuregamestudio/ags](https://github.com/adventuregamestudio/ags) - AGS editor and engine source code
 - [pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
 - [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 - [aws/s2n-tls](https://github.com/aws/s2n-tls) - s2n : an implementation of the TLS/SSL protocols
@@ -1310,7 +1312,6 @@
 - [google/pik](https://github.com/google/pik) - A new lossy/lossless image format for photos and the internet
 - [google/butteraugli](https://github.com/google/butteraugli) - butteraugli estimates the psychovisual difference between two images
 - [solarus-games/solarus](https://github.com/solarus-games/solarus) - This repository was moved to GitLab: https://gitlab.com/solarus-games/solarus
-- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 - [herumi/fmath](https://github.com/herumi/fmath) - fast log and exp functions for x86/x64 SSE
 - [herumi/xbyak](https://github.com/herumi/xbyak) - a JIT assembler for x86(IA-32)/x64(AMD64, x86-64) MMX/SSE/SSE2/SSE3/SSSE3/SSE4/FPU/AVX/AVX2/AVX-512 by C++ header
 - [includeos/IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
@@ -1385,7 +1386,6 @@
 - [rahv/FallenLondon-ConversionCalculator](https://github.com/rahv/FallenLondon-ConversionCalculator) - 
 - [chjj/pty.js](https://github.com/chjj/pty.js) - Bindings to forkpty(3) for node.js.
 - [steveicarus/iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
-- [adventuregamestudio/ags](https://github.com/adventuregamestudio/ags) - AGS editor and engine source code
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [Netflix/NfWebCrypto](https://github.com/Netflix/NfWebCrypto) - Web Cryptography API Polyfill
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1487,6 +1487,7 @@
 - [OfficerHalf/homebrewery-vscode](https://github.com/OfficerHalf/homebrewery-vscode) - Adding 5e Homebrewery markdown formatting to Visual Studio Code's markdown preview
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [keyboardio/keyswitch_documentation](https://github.com/keyboardio/keyswitch_documentation) - A shared public repository of datasheets and other public documentation of keyswitches, both current and historical
+- [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [Fmstrat/diy-ipmi](https://github.com/Fmstrat/diy-ipmi) - A DIY IPMI / IP KVM system utilizing the Raspberry Pi
 - [heapwolf/levelui](https://github.com/heapwolf/levelui) - A GUI for LevelDB management based on atom-shell.
 - [balena-io-hardware/balena-fin](https://github.com/balena-io-hardware/balena-fin) - General information about the balenaFin including design files, software support, and more
@@ -2181,6 +2182,7 @@
 - [brendena/MathEquationsGoogleSlide](https://github.com/brendena/MathEquationsGoogleSlide) - convert latex to img on google slides
 - [sigio/cipherli.st](https://github.com/sigio/cipherli.st) - Ciplerli.st - strong ciphers for NGINX, Apache and Lighttpd
 - [atomicbird/tomlehrersongs.com](https://github.com/atomicbird/tomlehrersongs.com) - Mirror of tomlehrersongs.com
+- [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [openvizsla/ov_ftdi](https://github.com/openvizsla/ov_ftdi) - FT2232H-based USB sniffer
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
@@ -3021,7 +3023,6 @@
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
-- [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [louischatriot/nedb](https://github.com/louischatriot/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
 - [sbidolach/mobile-gamepad](https://github.com/sbidolach/mobile-gamepad) - Mobile wifi gamepad for RetroPie
@@ -4159,7 +4160,6 @@
 - [kiibohd/pcb](https://github.com/kiibohd/pcb) - PCB and PCB related bits
 - [stormbard/Keyboard.pretty](https://github.com/stormbard/Keyboard.pretty) - KiCad Module Repository for keyboard PCB creation.
 - [egladman/keebs.pretty](https://github.com/egladman/keebs.pretty) - KiCAD footprint library for hybrid MX/Alps footprints and microcontrollers
-- [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [arnholm/angelcad-docs](https://github.com/arnholm/angelcad-docs) - AngelCAD - user documentation
 - [new-york-civil-liberties-union/NYPD-Misconduct-Complaint-Database](https://github.com/new-york-civil-liberties-union/NYPD-Misconduct-Complaint-Database) - This database is a record of NYPD misconduct complaints made by the public to the Civilian Complaint Review Board (CCRB).
 - [plaid/plaid-postman](https://github.com/plaid/plaid-postman) - Postman collection for the Plaid API
@@ -4836,7 +4836,6 @@
 - [bslatkin/dpxdt](https://github.com/bslatkin/dpxdt) - Make continuous deployment safe by comparing before and after webpage screenshots for each release. Depicted shows when any visual, perceptual differences are found. This is the ultimate, automated end-to-end test.
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 - [greatscottgadgets/luna](https://github.com/greatscottgadgets/luna) - a USB multitool + nMigen framework for monitoring, hacking, and developing USB devices
-- [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [mechkeys/mechkeys](https://github.com/mechkeys/mechkeys) - 
 - [magicleap/Atlas](https://github.com/magicleap/Atlas) - Atlas: End-to-End 3D Scene Reconstruction from Posed Images
 - [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) - Scots Army Knife for electronics
@@ -5595,6 +5594,7 @@
 
 ## Ruby 
 
+- [linnify/fastlane-plugin-kobiton](https://github.com/linnify/fastlane-plugin-kobiton) - A Fastlane plugin useful for automatically uploading builds to Kobiton.
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [fastlane/fastlane-plugin-firebase_app_distribution](https://github.com/fastlane/fastlane-plugin-firebase_app_distribution) - fastlane plugin for Firebase App Distribution. https://firebase.google.com/docs/app-distribution
 - [thierryxing/sentry-ruby-api](https://github.com/thierryxing/sentry-ruby-api) - Ruby wrapper for getsentry/Sentry REST API
@@ -5952,6 +5952,7 @@
 
 ## Rust 
 
+- [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
@@ -6446,6 +6447,8 @@
 
 ## Swift 
 
+- [alemar11/Mechanica](https://github.com/alemar11/Mechanica) - A cross-platform library of Swift utils to ease your iOS | macOS | watchOS | tvOS and Linux development.
+- [nathanborror/logger](https://github.com/nathanborror/logger) - Logger lets you quickly send messages to yourself as a means of fast note taking.
 - [robb/Swim](https://github.com/robb/Swim) - A DSL for writing HTML in Swift
 - [kean/Pulse](https://github.com/kean/Pulse) - Network Inspector for Apple Platforms
 - [vincent-pradeilles/swift-tips](https://github.com/vincent-pradeilles/swift-tips) - A collection useful tips for the Swift language
@@ -7825,6 +7828,7 @@
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
+- [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [danger/peril](https://github.com/danger/peril) - ☢️ Serious and immediate danger.
 - [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -7931,7 +7935,7 @@
 - [ThaumRystra/DiceCloud](https://github.com/ThaumRystra/DiceCloud) - D&D 5e digital character manager
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers https://hoppscotch.io
 - [djfurman/well-managed-deployments](https://github.com/djfurman/well-managed-deployments) - Deployments are hard, doing it with proper oversight is harder, tracking it is near impossible without crazy expense. Meet a serverless solution to the problem.
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
