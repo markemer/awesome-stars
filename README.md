@@ -75,6 +75,7 @@
   - [PHP](#php)
   - [PLSQL](#plsql)
   - [PLpgSQL](#plpgsql)
+  - [POV-Ray SDL](#pov-ray-sdl)
   - [Papyrus](#papyrus)
   - [Pascal](#pascal)
   - [Perl](#perl)
@@ -215,7 +216,7 @@
 - [slimbootloader/slimbootloader](https://github.com/slimbootloader/slimbootloader) - Visit http://slimbootloader.github.io for documentation
 - [taviso/lotusdrv](https://github.com/taviso/lotusdrv) - Lotus 1-2-3 R4D Display Driver for DOSEMU
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
-- [icing/mod_tls](https://github.com/icing/mod_tls) - Bringing rustls into the Apache server.
+- [abetterinternet/mod_tls](https://github.com/abetterinternet/mod_tls) - Bringing rustls into the Apache server.
 - [PicoCPP/RPI-pico-FreeRTOS](https://github.com/PicoCPP/RPI-pico-FreeRTOS) - 
 - [TheThingsIndustries/generic-node-se](https://github.com/TheThingsIndustries/generic-node-se) - Generic Node Sensor Edition
 - [Wren6991/PicoDVI](https://github.com/Wren6991/PicoDVI) - 
@@ -953,7 +954,7 @@
 - [inducer/meshpy](https://github.com/inducer/meshpy) - 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
-- [DTolm/VkFFT](https://github.com/DTolm/VkFFT) - Vulkan/CUDA/HIP Fast Fourier Transform library
+- [DTolm/VkFFT](https://github.com/DTolm/VkFFT) - Vulkan/CUDA/HIP/OpenCL Fast Fourier Transform library
 - [badgeek/svg2shenzhen](https://github.com/badgeek/svg2shenzhen) - Convert Inkscape SVG drawings to KiCad PCB and footprint modules
 - [solemnwarning/rehex](https://github.com/solemnwarning/rehex) - Reverse Engineers' Hex Editor
 - [intel/fastuidraw](https://github.com/intel/fastuidraw) - 
@@ -1161,7 +1162,6 @@
 - [rickkas7/CellularHelper](https://github.com/rickkas7/CellularHelper) - Handy utility functions for Particle cellular devices
 - [rickkas7/electron_cellular](https://github.com/rickkas7/electron_cellular) - Example code for using the Particle Electron to directly access the u-blox cellular modem
 - [SilverIce/JContainers](https://github.com/SilverIce/JContainers) - JSON-based data structures for Papyrus (TESV Skyrim scripting language)
-- [projectchrono/chrono](https://github.com/projectchrono/chrono) - C++ library for multi-physics simulation
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
 - [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
 - [tpoechtrager/apple-libtapi](https://github.com/tpoechtrager/apple-libtapi) - Apple TAPI Library
@@ -1727,6 +1727,11 @@
 
 ## Go 
 
+- [1Password/spg](https://github.com/1Password/spg) - 1Password's Strong Password Generator - Go package
+- [1Password/connect-sdk-go](https://github.com/1Password/connect-sdk-go) - 
+- [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword) - Use the 1Password Connect Terraform Provider to reference, create, or update items in your 1Password Vaults.
+- [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - 
+- [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) - Hashicorp Vault plugin that allows for the retrieval, creation, and deletion of items stored in a 1Password vault accessed by use of the 1Password Connect.
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
@@ -2580,6 +2585,7 @@
 - [handsontable/formula-parser](https://github.com/handsontable/formula-parser) - Javascript Library parsing Excel Formulas and more
 - [lucienmaloney/civ6save-editing](https://github.com/lucienmaloney/civ6save-editing) - A work in progress collection of tools and information related to editing .Civ6save files
 - [potrudeau/homebridge-messenger](https://github.com/potrudeau/homebridge-messenger) - Send HomeKit messages with HomeBridge (Pushover / IFTTT / Email)
+- [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [Walker-TW/Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer) - View Algorithms in the Browser! - Built with ReactJs
 - [anvaka/peak-map](https://github.com/anvaka/peak-map) - Make a ridge line chart from any region on Earth
 - [naturalcrit/homebrewery](https://github.com/naturalcrit/homebrewery) - Create authentic looking D&D homebrews using only markdown
@@ -4099,6 +4105,8 @@
 
 ## Others 
 
+- [westonb/open-pmic](https://github.com/westonb/open-pmic) - A current mode buck converter on the SKY130 PDK
+- [craigjb/DX7-JTAG](https://github.com/craigjb/DX7-JTAG) - Adapter board for access to the Kintex and MachXO2 JTAG ports on a HAPS-DX7
 - [MoralCode/pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - Research shows Google collects 20x more data from Android than Apple collects from iOS. Block both using pihole
 - [toltec-dev/toolchain](https://github.com/toltec-dev/toolchain) - Set of Docker images for cross-compiling binaries targeting the reMarkable tablet.
 - [ligurio/practical-fm](https://github.com/ligurio/practical-fm) - A gently curated list of companies using verification formal methods in industry
@@ -4707,6 +4715,10 @@
 - [turbo/pg-shortkey](https://github.com/turbo/pg-shortkey) - YouTube-like Short IDs as Postgres Primary Keys
 - [df8org/scaledger](https://github.com/df8org/scaledger) - A double-entry accounting database with a typed GraphQL API
 
+## POV-Ray SDL 
+
+- [projectchrono/chrono](https://github.com/projectchrono/chrono) - C++ library for multi-physics simulation
+
 ## Papyrus 
 
 - [Ryan-rsm-McKenzie/NQS_NamedQuicksaves](https://github.com/Ryan-rsm-McKenzie/NQS_NamedQuicksaves) - 
@@ -4788,6 +4800,8 @@
 
 ## Python 
 
+- [1Password/connect-sdk-python](https://github.com/1Password/connect-sdk-python) - Python SDK for 1Password Connect
+- [1Password/ansible-onepasswordconnect-collection](https://github.com/1Password/ansible-onepasswordconnect-collection) - Ansible Collection for 1Password Connect
 - [mzucker/maptrace](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images
 - [rizinorg/rz-pipe](https://github.com/rizinorg/rz-pipe) - Access rizin via pipe from any programming language!
 - [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
@@ -5547,7 +5561,6 @@
 
 ## R 
 
-- [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [oganm/dndstats](https://github.com/oganm/dndstats) - Statistics of DnD characters submitted to https://oganm.com/shiny/printSheetApp and https://oganm.com/shiny/interactiveSheet. A larger dataset is at https://github.com/oganm/dnddata
 - [oganm/dnddata](https://github.com/oganm/dnddata) - Weekly updated dataset of D&D characters submitted to https://oganm.com/shiny/printSheetApp and https://oganm.com/shiny/interactiveSheet. A superset of characters used in oganm/dndstats
 - [tidyverse/googlesheets4](https://github.com/tidyverse/googlesheets4) - Google Spreadsheets R API (reboot of the googlesheets package)
@@ -5910,7 +5923,6 @@
 - [nomad/dubai](https://github.com/nomad/dubai) - Generate and Preview Passbook Passes
 - [nomad/shenzhen](https://github.com/nomad/shenzhen) - CLI for Building & Distributing iOS Apps (.ipa Files)
 - [nomad/cupertino](https://github.com/nomad/cupertino) - CLI for the Apple Dev Center
-- [dnsimple/dnsimple-developer](https://github.com/dnsimple/dnsimple-developer) - The DNSimple API Documentation.
 - [etsy/deployinator](https://github.com/etsy/deployinator) - Deployinate!
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [xcpretty/xcpretty](https://github.com/xcpretty/xcpretty) - Flexible and fast xcodebuild formatter
@@ -5952,6 +5964,10 @@
 
 ## Rust 
 
+- [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
+- [1Password/zxcvbn-rs](https://github.com/1Password/zxcvbn-rs) - Port of Dropbox's zxcvbn password strength library for Rust. This repo is forked from shssoichiro with added wasm32 support.
+- [1Password/password-rules-parser](https://github.com/1Password/password-rules-parser) - Rust parser for the passwordrules attribute
+- [craigjb/stm32f7xx-hal](https://github.com/craigjb/stm32f7xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F7 family
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
@@ -6127,6 +6143,7 @@
 - [rubygems/guides](https://github.com/rubygems/guides) - An effort to provide awesome documentation for the RubyGems ecosystem.
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [dnsimple/dnsimple-developer](https://github.com/dnsimple/dnsimple-developer) - The DNSimple API Documentation.
 - [oddbird/susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass
 
 ## Sass 
@@ -6810,7 +6827,7 @@
 - [tnantoka/edhita](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS written in Swift.
 - [ElaWorkshop/TagListView](https://github.com/ElaWorkshop/TagListView) - Simple and highly customizable iOS tag list view, in Swift.
 - [wordpress-mobile/WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS) - WordPress for iOS - Official repository
-- [Mindinventory/SwiftUI-Sample-App](https://github.com/Mindinventory/SwiftUI-Sample-App) - This swiftUI Demo is very simple & easy to understand. This swiftUI demo includes On-boarding screens, login screen, forgot password screen, sign up screen, home & logout.
+- [Mindinventory/SwiftUI-App](https://github.com/Mindinventory/SwiftUI-App) - This swiftUI Demo is very simple & easy to understand. This swiftUI demo includes On-boarding screens, login screen, forgot password screen, sign up screen, home & logout.
 - [apple/swift-numerics](https://github.com/apple/swift-numerics) - Numerical APIs for Swift
 - [igorkulman/iOSLocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS and macOS app localizations by allowing you to edit all the translations side by side
 - [ole/AnalogDial](https://github.com/ole/AnalogDial) - A circular analog dial that can display a numeric value in a specified range (like an analog speedometer).
@@ -7681,6 +7698,7 @@
 
 ## TypeScript 
 
+- [1Password/connect-sdk-js](https://github.com/1Password/connect-sdk-js) - Node SDK for 1Password Connect
 - [paulshen/birthday-report](https://github.com/paulshen/birthday-report) - 
 - [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
@@ -7935,7 +7953,7 @@
 - [ThaumRystra/DiceCloud](https://github.com/ThaumRystra/DiceCloud) - D&D 5e digital character manager
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [djfurman/well-managed-deployments](https://github.com/djfurman/well-managed-deployments) - Deployments are hard, doing it with proper oversight is harder, tracking it is near impossible without crazy expense. Meet a serverless solution to the problem.
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
