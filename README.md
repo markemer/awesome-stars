@@ -206,6 +206,7 @@
 
 ## C 
 
+- [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
 - [updatekit/upkit](https://github.com/updatekit/upkit) - UpKit: Software Updates for Internet of Things devices
 - [TUD-OS/M3](https://github.com/TUD-OS/M3) - Microkernel-based system for heterogeneous manycores
 - [katef/kgt](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams
@@ -1324,6 +1325,7 @@
 - [splunk/pion](https://github.com/splunk/pion) - Pion Network Library (Boost licensed open source)
 - [ipkn/crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
 - [etr/libhttpserver](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more)
+- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [ucb-bar/esp-llvm](https://github.com/ucb-bar/esp-llvm) - UCB-BAR fork of LLVM! NOT UPSTREAM RISCV LLVM
@@ -1729,6 +1731,7 @@
 
 ## Go 
 
+- [pojntfx/liwasc](https://github.com/pojntfx/liwasc) - List, wake and scan nodes in a network.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [1Password/spg](https://github.com/1Password/spg) - 1Password's Strong Password Generator - Go package
 - [1Password/connect-sdk-go](https://github.com/1Password/connect-sdk-go) - 
@@ -1741,7 +1744,7 @@
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [billziss-gh/hubfs](https://github.com/billziss-gh/hubfs) - File system for GitHub
-- [climech/grit](https://github.com/climech/grit) - A multitree-based personal task manager
+- [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
 - [DSpeichert/netbootd](https://github.com/DSpeichert/netbootd) - Lightweight network boot/install server (DHCP, TFTP, HTTP)
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - Agent to enable remote management of your Amazon EC2 instance configuration.
@@ -1801,7 +1804,7 @@
 - [intel-go/nff-go](https://github.com/intel-go/nff-go) - NFF-Go -Network Function Framework for GO (former YANFF)
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: ShellHub enables teams to easily access any Linux device behind firewall and NAT.
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
@@ -2451,7 +2454,6 @@
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [openairplay/AirPlayAuth](https://github.com/openairplay/AirPlayAuth) - Since tvOS 10.2 AppleTV is enforcing the "Device verification" for AirPlay, which could be manually enabled/disabled before. This library allows to pair with an AppleTV and can be used in any app supporting streaming/casting to an AppleTV.
-- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [itext/rups](https://github.com/itext/rups) - [DEPRECATED - please use i7j-rups instead] RUPS is an abbreviation for Reading and Updating PDF Syntax. RUPS is a tool built on top of iText® that allows you to look inside a PDF document and browse the different PDF objects and content streams.
 - [itext/itext7](https://github.com/itext/itext7) - iText 7 for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText 7 can be a boon to nearly every workflow.
 - [CIDARLAB/cello](https://github.com/CIDARLAB/cello) - Genetic circuit design automation
@@ -2724,6 +2726,7 @@
 - [bbc/peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with audio waveforms
 - [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [hgraph-os/hGraph](https://github.com/hgraph-os/hGraph) - hGraph is an open source javascript library for visualizing health data.
+- [Polymer/lit-html](https://github.com/Polymer/lit-html) - Lit is a simple library for building fast, lightweight web components.
 - [vkbansal/react-contextmenu](https://github.com/vkbansal/react-contextmenu) - Project is no longer maintained
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -4111,6 +4114,8 @@
 
 ## Others 
 
+- [washingtonpost/data-school-shootings](https://github.com/washingtonpost/data-school-shootings) - The Washington Post is compiling a database of school shootings in the United States since Columbine.
+- [washingtonpost/data-police-shootings](https://github.com/washingtonpost/data-police-shootings) - The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since 2015.
 - [westonb/open-pmic](https://github.com/westonb/open-pmic) - A current mode buck converter on the SKY130 PDK
 - [craigjb/DX7-JTAG](https://github.com/craigjb/DX7-JTAG) - Adapter board for access to the Kintex and MachXO2 JTAG ports on a HAPS-DX7
 - [MoralCode/pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - Research shows Google collects 20x more data from Android than Apple collects from iOS. Block this non-consensual telemetry using pihole blocklists.
@@ -4806,6 +4811,8 @@
 
 ## Python 
 
+- [adamrehn/ue4cli](https://github.com/adamrehn/ue4cli) - Command-line interface for Unreal Engine 4
+- [adamrehn/ue4-conan-recipes](https://github.com/adamrehn/ue4-conan-recipes) - Conan recipes for UE4-compatible library packages
 - [nalgeon/dataviz](https://github.com/nalgeon/dataviz) - Data visualization guide for presentations, reports, and dashboards
 - [1Password/connect-sdk-python](https://github.com/1Password/connect-sdk-python) - Python SDK for 1Password Connect
 - [1Password/ansible-onepasswordconnect-collection](https://github.com/1Password/ansible-onepasswordconnect-collection) - Ansible Collection for 1Password Connect
@@ -7788,7 +7795,6 @@
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A directory-first photo gallery website, witch rich UI,  optimised for running on low resource servers (especially on raspberry pi)
 - [Polymer/lit-element](https://github.com/Polymer/lit-element) - A simple base class for creating fast, lightweight web components
-- [Polymer/lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.
 - [codesandbox/codesandbox-importers](https://github.com/codesandbox/codesandbox-importers) - All importers & exporters for CodeSandbox
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
