@@ -83,6 +83,7 @@
   - [PostScript](#postscript)
   - [PowerShell](#powershell)
   - [Processing](#processing)
+  - [Propeller Spin](#propeller-spin)
   - [PureScript](#purescript)
   - [Python](#python)
   - [Q#](#q#)
@@ -4802,6 +4803,10 @@
 
 - [nature-of-code/noc-examples-processing](https://github.com/nature-of-code/noc-examples-processing) - Repository for example code from The Nature of Code book
 
+## Propeller Spin 
+
+- [parallaxinc/propeller](https://github.com/parallaxinc/propeller) - Propeller P1 & P2 multicore microcontroller development resources and example code.  See https://propeller.parallax.com for more.
+
 ## PureScript 
 
 - [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units
@@ -6480,7 +6485,7 @@
 - [alemar11/Mechanica](https://github.com/alemar11/Mechanica) - A cross-platform library of Swift utils to ease your iOS | macOS | watchOS | tvOS and Linux development.
 - [nathanborror/logger](https://github.com/nathanborror/logger) - Logger lets you quickly send messages to yourself as a means of fast note taking.
 - [robb/Swim](https://github.com/robb/Swim) - A DSL for writing HTML in Swift
-- [kean/Pulse](https://github.com/kean/Pulse) - Network Inspector for Apple Platforms
+- [kean/Pulse](https://github.com/kean/Pulse) - Logger and Network Inspector for Apple Platforms
 - [vincent-pradeilles/swift-tips](https://github.com/vincent-pradeilles/swift-tips) - A collection useful tips for the Swift language
 - [maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL client that lets you forget about GraphQL.
 - [AndrewBennet/PersistedPropertyWrapper](https://github.com/AndrewBennet/PersistedPropertyWrapper) - A Swift library to enable easy persistent UserDefaults storage
