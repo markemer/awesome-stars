@@ -207,6 +207,7 @@
 
 ## C 
 
+- [Infineon/cli-optiga-trust-m](https://github.com/Infineon/cli-optiga-trust-m) - Command Line Interface (CLI) for OPTIGA™ Trust M1 security solution
 - [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
 - [updatekit/upkit](https://github.com/updatekit/upkit) - UpKit: Software Updates for Internet of Things devices
 - [TUD-OS/M3](https://github.com/TUD-OS/M3) - Microkernel-based system for heterogeneous manycores
@@ -2450,7 +2451,7 @@
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [square/keywhiz](https://github.com/square/keywhiz) - A system for distributing and managing secrets
 - [Netflix/Prana](https://github.com/Netflix/Prana) - A sidecar for your NetflixOSS based services.
-- [sap-archive/xliff-1-2](https://github.com/sap-archive/xliff-1-2) - The XLIFF 1.2 Core library offers functionality for constructing, reading, modifying and writing XLIFF 1.2 files according to the OASIS specification.
+- [SAP-archive/xliff-1-2](https://github.com/SAP-archive/xliff-1-2) - The XLIFF 1.2 Core library offers functionality for constructing, reading, modifying and writing XLIFF 1.2 files according to the OASIS specification.
 - [graalvm/sulong](https://github.com/graalvm/sulong) - Obsolete repository. Moved to oracle/graal.
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
@@ -2653,6 +2654,7 @@
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
 - [rsms/graphviz](https://github.com/rsms/graphviz) - Graphviz web app
+- [stevehoover/warp-v](https://github.com/stevehoover/warp-v) - WARP-V is an open-source RISC-V CPU core generator written in TL-Verilog.
 - [buildasaurs/satellite](https://github.com/buildasaurs/satellite) - Node.js server for providing build status badges for GitHub branches.
 - [timburks/graphql-showcase](https://github.com/timburks/graphql-showcase) - An experimental GraphQL wrapper of the GAPIC Showcase API
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
@@ -3355,7 +3357,7 @@
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [SymbiFlow/symbiflow-arch-defs](https://github.com/SymbiFlow/symbiflow-arch-defs) - FOSS architecture definitions of FPGA hardware useful for doing PnR device generation.
 - [sdiehl/numpile](https://github.com/sdiehl/numpile) - A tiny 1000 line LLVM-based numeric specializer for scientific Python code.
-- [GokuMohandas/madewithml](https://github.com/GokuMohandas/madewithml) - Learn how to responsibly deliver value with applied ML.
+- [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
 - [NeuroTechX/eeg-notebooks_v0.1](https://github.com/NeuroTechX/eeg-notebooks_v0.1) - Previous version of eeg-notebooks
 - [makinarocks/awesome-industrial-machine-datasets](https://github.com/makinarocks/awesome-industrial-machine-datasets) - 
 - [tensorflow/docs](https://github.com/tensorflow/docs) - TensorFlow documentation
@@ -4114,6 +4116,7 @@
 
 ## Others 
 
+- [htruong/zenreader](https://github.com/htruong/zenreader) - Makes your M5Paper an E-ink RSS Reader with built-in Reader mode, to solve annoyances with the Kindle Experimental browser.
 - [washingtonpost/data-school-shootings](https://github.com/washingtonpost/data-school-shootings) - The Washington Post is compiling a database of school shootings in the United States since Columbine.
 - [washingtonpost/data-police-shootings](https://github.com/washingtonpost/data-police-shootings) - The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since 2015.
 - [westonb/open-pmic](https://github.com/westonb/open-pmic) - A current mode buck converter on the SKY130 PDK
@@ -4571,7 +4574,6 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [philipamour/ios9-uikit](https://github.com/philipamour/ios9-uikit) - iOS 9 UIKit for Sketch
 - [fastlane-old/spaceship](https://github.com/fastlane-old/spaceship) - Ruby library to access the Apple Dev Center and iTunes Connect
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [0ax1/MPI-Checker](https://github.com/0ax1/MPI-Checker) - Checks to verify the usage of the MPI API in C and C++ code, based on Clang’s Static Analyzer and Clang-Tidy.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [keen/keen-js](https://github.com/keen/keen-js) - https://keen.io/ JavaScript SDKs. Track users and visualise the results. Demo http://keen.github.io/keen-dataviz.js/
@@ -4813,6 +4815,8 @@
 
 ## Python 
 
+- [Infineon/personalize-optiga-trust](https://github.com/Infineon/personalize-optiga-trust) - OPTIGA™ Trust personalization application note
+- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [adamrehn/ue4cli](https://github.com/adamrehn/ue4cli) - Command-line interface for Unreal Engine 4
 - [adamrehn/ue4-conan-recipes](https://github.com/adamrehn/ue4-conan-recipes) - Conan recipes for UE4-compatible library packages
 - [nalgeon/dataviz](https://github.com/nalgeon/dataviz) - Data visualization guide for presentations, reports, and dashboards
@@ -5624,6 +5628,7 @@
 
 ## Ruby 
 
+- [standardnotes/syncing-server](https://github.com/standardnotes/syncing-server) - The Standard Notes syncing server
 - [linnify/fastlane-plugin-kobiton](https://github.com/linnify/fastlane-plugin-kobiton) - A Fastlane plugin useful for automatically uploading builds to Kobiton.
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [fastlane/fastlane-plugin-firebase_app_distribution](https://github.com/fastlane/fastlane-plugin-firebase_app_distribution) - fastlane plugin for Firebase App Distribution. https://firebase.google.com/docs/app-distribution
@@ -5648,7 +5653,7 @@
 - [getsentry/sentry-fastlane-plugin](https://github.com/getsentry/sentry-fastlane-plugin) - Official fastlane plugin for Sentry
 - [leavez/cocoapods-static-swift-framework](https://github.com/leavez/cocoapods-static-swift-framework) - A cocoapods plugin enables static framework for all pods
 - [microsoft/fastlane-plugin-appcenter](https://github.com/microsoft/fastlane-plugin-appcenter) - App Center fastlane integration.
-- [azohra/forsis](https://github.com/azohra/forsis) - 
+- [azohra/forsis](https://github.com/azohra/forsis) - A Fastlane plugin that converts JUnit test reports to generic test execution reports supported by SonarQube
 - [roverdotcom/danger-jira_sync](https://github.com/roverdotcom/danger-jira_sync) - Connects JIRA with GitHub via Danger
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [grab/cocoapods-pod-merge](https://github.com/grab/cocoapods-pod-merge) - Cocoapods plugin to merge pods used by your Xcode project, reducing the number of dynamic frameworks your app has to load on startup
@@ -6414,6 +6419,7 @@
 - [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration for developing with WordPress
 - [rtrouton/create_os_x_vm_install_dmg](https://github.com/rtrouton/create_os_x_vm_install_dmg) - 
 - [timsutton/osx-vm-templates](https://github.com/timsutton/osx-vm-templates) - macOS templates for Packer and VeeWee.
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [azu/Coveralls-iOS](https://github.com/azu/Coveralls-iOS) - iOS/Objective-C: minimum setup for Coveralls.
 - [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [cytec/spksrc-vagrant](https://github.com/cytec/spksrc-vagrant) - 
@@ -7650,7 +7656,6 @@
 - [hdl-util/hdmi](https://github.com/hdl-util/hdmi) - Send video/audio over HDMI on an FPGA
 - [lowRISC/ibex](https://github.com/lowRISC/ibex) - Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.
 - [lowRISC/opentitan](https://github.com/lowRISC/opentitan) - OpenTitan: Open source silicon root of trust
-- [stevehoover/warp-v](https://github.com/stevehoover/warp-v) - WARP-V is an open-source RISC-V CPU core generator written in TL-Verilog.
 - [syntacore/scr1](https://github.com/syntacore/scr1) - SCR1 is a high-quality open-source RISC-V MCU core in Verilog
 - [chipsalliance/Cores-SweRV](https://github.com/chipsalliance/Cores-SweRV) - SweRV EH1 core
 - [pulp-platform/fpnew](https://github.com/pulp-platform/fpnew) - Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.
@@ -7717,6 +7722,7 @@
 
 ## TypeScript 
 
+- [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.org
 - [1Password/connect-sdk-js](https://github.com/1Password/connect-sdk-js) - Node SDK for 1Password Connect
 - [paulshen/birthday-report](https://github.com/paulshen/birthday-report) - 
 - [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
