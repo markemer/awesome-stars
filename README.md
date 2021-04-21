@@ -2729,7 +2729,7 @@
 - [bbc/peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with audio waveforms
 - [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [hgraph-os/hGraph](https://github.com/hgraph-os/hGraph) - hGraph is an open source javascript library for visualizing health data.
-- [Polymer/lit-html](https://github.com/Polymer/lit-html) - Lit is a simple library for building fast, lightweight web components.
+- [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [vkbansal/react-contextmenu](https://github.com/vkbansal/react-contextmenu) - Project is no longer maintained
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -6784,7 +6784,7 @@
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
 - [hebertialmeida/MarkdownSyntax](https://github.com/hebertialmeida/MarkdownSyntax) - ☄️ A Type-safe Markdown parser in Swift.
 - [igor-makarov/swift-ffi](https://github.com/igor-makarov/swift-ffi) - Demo for exporting Swift code to use with Ruby FFI
-- [SwiftDocOrg/swift-doc](https://github.com/SwiftDocOrg/swift-doc) - Generates documentation for Swift projects
+- [SwiftDocOrg/swift-doc](https://github.com/SwiftDocOrg/swift-doc) - A documentation generator for Swift projects
 - [belozierov/SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines for iOS, macOS and Linux.
 - [emqx/CocoaMQTT](https://github.com/emqx/CocoaMQTT) - MQTT for iOS and macOS written with Swift
 - [nicklockwood/VectorMath](https://github.com/nicklockwood/VectorMath) - A Swift library for Mac and iOS that implements common 2D and 3D vector and matrix functions, useful for games or vector-based graphics
