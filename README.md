@@ -341,6 +341,7 @@
 - [mulshine/OOPS](https://github.com/mulshine/OOPS) - OOPS is now LEAF! A C library for Audio synthesis and processing, intended for embedded applications, written using semi-OOP style.
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [id-Software/Quake-2](https://github.com/id-Software/Quake-2) - Quake 2 GPL Source Release
+- [apple/swift-crypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
 - [pete/cats](https://github.com/pete/cats) - Implementations of cat(1) from various sources.
 - [arjun024/mkernel](https://github.com/arjun024/mkernel) - A minimalist kernel
@@ -6779,7 +6780,6 @@
 - [twostraws/Sitrep](https://github.com/twostraws/Sitrep) - A source code analyzer for Swift projects.
 - [Ahmadalsofi/SOPullUpView](https://github.com/Ahmadalsofi/SOPullUpView) - SOPullUpView library for iOS, with pull up gesture 📱🖐️↕️
 - [pointfreeco/swift-case-paths](https://github.com/pointfreeco/swift-case-paths) - 🧰 Case paths bring the power and ergonomics of key paths to enums!
-- [apple/swift-crypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
 - [RudyB/Deluge-Remote](https://github.com/RudyB/Deluge-Remote) - iOS App That Remotely Controls Deluge Torrent Clients
 - [apptekstudios/ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - A SwiftUI collection view with support for custom layouts, preloading, and more.
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
