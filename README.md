@@ -928,6 +928,8 @@
 
 ## C++ 
 
+- [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
+- [thliebig/CSXCAD](https://github.com/thliebig/CSXCAD) - A C++ library to describe geometrical objects and their physical or non-physical properties.
 - [pslehisl/dwarf2cpp](https://github.com/pslehisl/dwarf2cpp) - Converts DWARF v1 debug data into C/C++ definitions.
 - [ardyesp/ESPWebDAV](https://github.com/ardyesp/ESPWebDAV) - Wifi WebDAV server using ESP8266
 - [greiman/SdFat](https://github.com/greiman/SdFat) - Arduino FAT16/FAT32 exFAT Library
@@ -2324,7 +2326,7 @@
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
-- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian Dot Com.
+- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [webcomponents/xtag-boilerplate](https://github.com/webcomponents/xtag-boilerplate) - Fork this repo if you want to start your own Web Component using X-Tag
 - [webcomponents/element-boilerplate](https://github.com/webcomponents/element-boilerplate) - Fork this repo if you want to start your own Web Component using VanillaJS
@@ -3587,6 +3589,7 @@
 - [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) - The official Sentry SDK for iOS, tvOS, macOS, watchOS
 - [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [plaid/plaid-link-ios](https://github.com/plaid/plaid-link-ios) - Plaid Link iOS SDK
+- [relatedcode/GraphQLite](https://github.com/relatedcode/GraphQLite) - GraphQLite is a toolkit to work with GraphQL servers easily. It also provides several other features to make life easier during iOS application development.
 - [v002/v002-Camera-Live](https://github.com/v002/v002-Camera-Live) - Live Syphon Camera
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [microsoft/plcrashreporter](https://github.com/microsoft/plcrashreporter) - Reliable, open-source crash reporting for iOS, macOS and tvOS
@@ -3766,7 +3769,7 @@
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [appsquickly/typhoon](https://github.com/appsquickly/typhoon) - Powerful dependency injection for Objective-C ✨✨ (https://PILGRIM.PH is the pure Swift successor to Typhoon!!)✨✨
 - [parse-community/ParseUI-iOS](https://github.com/parse-community/ParseUI-iOS) - A collection of a handy user interface components to be used with the Parse iOS SDK.
-- [parse-community/Parse-SDK-iOS-OSX](https://github.com/parse-community/Parse-SDK-iOS-OSX) - The iOS | macOS | watchOS | tvOS SDK for the Parse Platform
+- [parse-community/Parse-SDK-iOS-OSX](https://github.com/parse-community/Parse-SDK-iOS-OSX) - The Objective-C iOS | macOS | watchOS | tvOS SDK for the Parse Platform
 - [AlexDenisov/xcconf](https://github.com/AlexDenisov/xcconf) - YAML-based configuration for ObjC projects
 - [meiwin/NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
 - [adamontherun/xCodeGenerateDescriptionPlugin](https://github.com/adamontherun/xCodeGenerateDescriptionPlugin) - Plugin to automatically generate the description for your class in XCode
@@ -5989,6 +5992,7 @@
 
 ## Rust 
 
+- [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [1Password/zxcvbn-rs](https://github.com/1Password/zxcvbn-rs) - Port of Dropbox's zxcvbn password strength library for Rust. This repo is forked from shssoichiro with added wasm32 support.
@@ -6267,7 +6271,7 @@
 - [SymbiFlow/prjxray-db](https://github.com/SymbiFlow/prjxray-db) - Project X-Ray Database: XC7 Series
 - [brianhanifin/Home-Assistant-Config](https://github.com/brianhanifin/Home-Assistant-Config) - 
 - [cooljeanius/macportsscripts](https://github.com/cooljeanius/macportsscripts) - Various little scripts for MacPorts. Forked to add more stuff to it and stuff.
-- [julian-fairfax/macos-downloader](https://github.com/julian-fairfax/macos-downloader) - Command line tool for downloading macOS installers and beta updates - End of support/development
+- [julianfairfax/macos-downloader](https://github.com/julianfairfax/macos-downloader) - Command line tool for downloading macOS installers and beta updates - End of support/development
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [geoffeg/opiterm](https://github.com/geoffeg/opiterm) - 1Password integration for iTerm2
@@ -6639,7 +6643,6 @@
 - [swiftwasm/carton](https://github.com/swiftwasm/carton) - 📦 Watcher, bundler, and test runner for your SwiftWasm apps
 - [loiclec/FuzzCheck](https://github.com/loiclec/FuzzCheck) - Swift package fuzzing engine
 - [rileytestut/Clip](https://github.com/rileytestut/Clip) - Clip is a clipboard manager for iOS that can monitor your clipboard indefinitely in the background — no jailbreak required.
-- [relatedcode/GraphQLite](https://github.com/relatedcode/GraphQLite) - GraphQLite is a toolkit to work with GraphQL servers easily. It also provides several other features to make life easier during iOS application development.
 - [IvanMathy/Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. In slow yet steady progress.
 - [bscothern/Once](https://github.com/bscothern/Once) - A replacement for Dispatch Once in Swift
 - [erica/Swift-General-Utility](https://github.com/erica/Swift-General-Utility) - General utility types and functionality
