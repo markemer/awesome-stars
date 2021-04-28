@@ -359,6 +359,7 @@
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [peterbjornx/meloader](https://github.com/peterbjornx/meloader) - Linux i386 tool to load and execute ME modules.
 - [apple/HomeKitADK](https://github.com/apple/HomeKitADK) - 
+- [balena-io-hardware/balena-fin](https://github.com/balena-io-hardware/balena-fin) - General information about the balenaFin including design files, software support, and more
 - [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
 - [adafruit/Adafruit_nRF52_Bootloader](https://github.com/adafruit/Adafruit_nRF52_Bootloader) - USB-enabled bootloaders for the nRF52 BLE SoC chips
 - [gregfjohnson/aplette](https://github.com/gregfjohnson/aplette) - This is a new take on an old language:  APL.  The goal is to pare APL down to its elegant essence.  This version of APL is oriented toward scripting within a Unix-style computing environment.
@@ -546,7 +547,6 @@
 - [open-power/snap](https://github.com/open-power/snap) - CAPI SNAP Framework Hardware and Software
 - [open-power/petitboot](https://github.com/open-power/petitboot) - 
 - [coreboot/coreboot](https://github.com/coreboot/coreboot) - Mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
-- [intel/FSP](https://github.com/intel/FSP) - Intel(R) Firmware Support Package (FSP)
 - [pmattes/x3270](https://github.com/pmattes/x3270) - Family of IBM 3270 emulators
 - [xboot/xboot](https://github.com/xboot/xboot) - The extensible bootloader for embedded system with application engine, write once, run everywhere.
 - [icetee/pv](https://github.com/icetee/pv) - Pipe Viewer Mirror - 1.6
@@ -945,7 +945,7 @@
 - [ihaque/pelomon](https://github.com/ihaque/pelomon) - Source code for the PeloMon Bluetooth LE sensor relay and for decoding Peloton communications
 - [googlefonts/fontdiff](https://github.com/googlefonts/fontdiff) - tool for finding visual differences between two font versions
 - [CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) - Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
-- [skiftOS/skift](https://github.com/skiftOS/skift) - 🥑 A simple, handmade, operating system with a graphical user interface.
+- [skiftOS/skift](https://github.com/skiftOS/skift) - 🥑 An *hobby* operating system built from scratch in modern C++, featuring a reactive UI library, and a strong emphasis on user experience.
 - [ianpatt/f4se](https://github.com/ianpatt/f4se) - Fallout 4 Script Extender
 - [szpajder/RTLSDR-Airband](https://github.com/szpajder/RTLSDR-Airband) - Multichannel AM/NFM demodulator
 - [robmikh/Win32CaptureSample](https://github.com/robmikh/Win32CaptureSample) - A simple sample using the Windows.Graphics.Capture APIs in a Win32 application.
@@ -1501,7 +1501,6 @@
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [Fmstrat/diy-ipmi](https://github.com/Fmstrat/diy-ipmi) - A DIY IPMI / IP KVM system utilizing the Raspberry Pi
 - [heapwolf/levelui](https://github.com/heapwolf/levelui) - A GUI for LevelDB management based on atom-shell.
-- [balena-io-hardware/balena-fin](https://github.com/balena-io-hardware/balena-fin) - General information about the balenaFin including design files, software support, and more
 - [riscv/risc-v-getting-started-guide](https://github.com/riscv/risc-v-getting-started-guide) - The official RISC-V getting started guide
 - [tiran/pki-vagans](https://github.com/tiran/pki-vagans) - Vagrant + Ansible for Dogtag PKI (WIP and highly experimental)
 - [Ryshackleton/idyll-template](https://github.com/Ryshackleton/idyll-template) - A React app that mimics the basic template project provided by Idyll-lang.org
@@ -1753,7 +1752,7 @@
 - [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
 - [DSpeichert/netbootd](https://github.com/DSpeichert/netbootd) - Lightweight network boot/install server (DHCP, TFTP, HTTP)
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
-- [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - Agent to enable remote management of your Amazon EC2 instance configuration.
+- [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - An agent to enable remote management of your EC2 instances, on-premises servers, or virtual machines (VMs).
 - [libdns/libdns](https://github.com/libdns/libdns) - Core interfaces for universal DNS record manipulation across providers
 - [googleapis/gapic-generator-go](https://github.com/googleapis/gapic-generator-go) - Generate Go API client libraries from Protocol Buffers.
 - [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go
@@ -3654,6 +3653,7 @@
 - [biscuitehh/MarzipanPlatter](https://github.com/biscuitehh/MarzipanPlatter) - UIKit + macOS
 - [objective-see/DoNotDisturb](https://github.com/objective-see/DoNotDisturb) - Detect Evil Maid Attacks
 - [objective-see/ProcInfo](https://github.com/objective-see/ProcInfo) - process info/monitoring library for macOS
+- [intel/FSP](https://github.com/intel/FSP) - Intel(R) Firmware Support Package (FSP)
 - [colloquy/colloquy](https://github.com/colloquy/colloquy) - Colloquy is an advanced IRC, SILC & ICB client for macOS and iOS!
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native Mac applications from command line scripts.
 - [dustinrue/ControlPlane](https://github.com/dustinrue/ControlPlane) - ControlPlane - context-sensitive computing for OS X
@@ -6581,7 +6581,7 @@
 - [Kitura/Swift-JWT](https://github.com/Kitura/Swift-JWT) - JSON Web Tokens in Swift
 - [rsrbk/GoSwifty](https://github.com/rsrbk/GoSwifty) - A command line tool for analyzing Swift/Objective-C ratio in codebase
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
-- [apple/swift-service-discovery](https://github.com/apple/swift-service-discovery) - 
+- [apple/swift-service-discovery](https://github.com/apple/swift-service-discovery) - A service discovery API for Swift.
 - [jeffctown/xcframework](https://github.com/jeffctown/xcframework) - A simple tool to create an XCFramework
 - [krzyzanowskim/CoreTextWorkshop](https://github.com/krzyzanowskim/CoreTextWorkshop) - Take a look at the CoreText API - a foundation of layout and drawing text on macOS and iOS. In this workshop we’ll attempt to build Text Label (akin UILabel), learn about layers of CoreText API and how to use it.
 - [RobotsAndPencils/xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
