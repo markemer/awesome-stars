@@ -755,7 +755,6 @@
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
-- [adventuregamestudio/ags](https://github.com/adventuregamestudio/ags) - AGS editor and engine source code
 - [pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
 - [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 - [aws/s2n-tls](https://github.com/aws/s2n-tls) - s2n : an implementation of the TLS/SSL protocols
@@ -1398,6 +1397,7 @@
 - [rahv/FallenLondon-ConversionCalculator](https://github.com/rahv/FallenLondon-ConversionCalculator) - 
 - [chjj/pty.js](https://github.com/chjj/pty.js) - Bindings to forkpty(3) for node.js.
 - [steveicarus/iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
+- [adventuregamestudio/ags](https://github.com/adventuregamestudio/ags) - AGS editor and engine source code
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [Netflix/NfWebCrypto](https://github.com/Netflix/NfWebCrypto) - Web Cryptography API Polyfill
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1472,6 +1472,7 @@
 
 ## CMake 
 
+- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [KiCad/kicad-packages3D](https://github.com/KiCad/kicad-packages3D) - Official KiCad 3D model libraries for rendering and MCAD integration
 - [KiCad/kicad-footprints](https://github.com/KiCad/kicad-footprints) - Official KiCad Footprint Libraries for Kicad version 5
 - [KiCad/kicad-symbols](https://github.com/KiCad/kicad-symbols) - Official KiCad schematic symbol libraries for Kicad 5
@@ -3328,6 +3329,7 @@
 
 ## Julia 
 
+- [fonsp/PlutoUI.jl](https://github.com/fonsp/PlutoUI.jl) - 
 - [microsoft/OpticSim.jl](https://github.com/microsoft/OpticSim.jl) - Optical Simulation software
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [JuliaML/MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) - Utility package for accessing common Machine Learning datasets in Julia
@@ -4822,6 +4824,7 @@
 
 ## Python 
 
+- [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
 - [Infineon/personalize-optiga-trust](https://github.com/Infineon/personalize-optiga-trust) - OPTIGA™ Trust personalization application note
 - [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [adamrehn/ue4cli](https://github.com/adamrehn/ue4cli) - Command-line interface for Unreal Engine 4
@@ -5011,6 +5014,7 @@
 - [andrey-git/home-assistant-customizer](https://github.com/andrey-git/home-assistant-customizer) - Companion component for home-assistant CustomUI
 - [googleprojectzero/iOS-messaging-tools](https://github.com/googleprojectzero/iOS-messaging-tools) - 
 - [pfultz2/cget](https://github.com/pfultz2/cget) - C++ package retrieval
+- [hail-is/hail](https://github.com/hail-is/hail) - Scalable genomic data analysis.
 - [lbschenkel/broadlink-bridge](https://github.com/lbschenkel/broadlink-bridge) - Bridge to Broadlink devices supporting REST, MQTT and LIRC protocols
 - [hexway/apple_bleee](https://github.com/hexway/apple_bleee) - Apple BLE research
 - [rackerlabs/lambda-uploader](https://github.com/rackerlabs/lambda-uploader) - Helps package and upload Python lambda functions to AWS
@@ -5994,10 +5998,10 @@
 
 ## Rust 
 
+- [sixtyfpsui/sixtyfps](https://github.com/sixtyfpsui/sixtyfps) - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
-- [1Password/zxcvbn-rs](https://github.com/1Password/zxcvbn-rs) - Port of Dropbox's zxcvbn password strength library for Rust. This repo is forked from shssoichiro with added wasm32 support.
 - [1Password/password-rules-parser](https://github.com/1Password/password-rules-parser) - Rust parser for the passwordrules attribute
 - [craigjb/stm32f7xx-hal](https://github.com/craigjb/stm32f7xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F7 family
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
@@ -6185,7 +6189,6 @@
 ## Scala 
 
 - [ucb-bar/midas](https://github.com/ucb-bar/midas) - FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL
-- [hail-is/hail](https://github.com/hail-is/hail) - Scalable genomic data analysis.
 - [schoeberl/chisel-examples](https://github.com/schoeberl/chisel-examples) - Chisel examples and code snippets
 - [freechipsproject/diagrammer](https://github.com/freechipsproject/diagrammer) - Provides dot visualizations of chisel/firrtl circuits
 - [chipsalliance/treadle](https://github.com/chipsalliance/treadle) - Chisel/Firrtl execution engine
@@ -7814,7 +7817,7 @@
 - [alexandercerutti/passkit-generator](https://github.com/alexandercerutti/passkit-generator) - The easiest way to generate custom Apple Wallet passes in Node.js
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A directory-first photo gallery website, witch rich UI,  optimised for running on low resource servers (especially on raspberry pi)
-- [lit/lit-element](https://github.com/lit/lit-element) - A simple base class for creating fast, lightweight web components
+- [lit/lit-element](https://github.com/lit/lit-element) - LEGACY REPO. This repository is for maintenance of the legacy LitElement library. The LitElement base class is now part of the Lit library, which is developed in the lit monorepo.
 - [codesandbox/codesandbox-importers](https://github.com/codesandbox/codesandbox-importers) - All importers & exporters for CodeSandbox
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
