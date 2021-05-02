@@ -4824,6 +4824,8 @@
 
 ## Python 
 
+- [aws/aws-parallelcluster-node](https://github.com/aws/aws-parallelcluster-node) - aws-parallelcluster-node is the python package installed on the Amazon EC2 instances launched as part of AWS ParallelCluster
+- [aws/aws-parallelcluster](https://github.com/aws/aws-parallelcluster) - AWS ParallelCluster is an AWS supported Open Source cluster management tool to deploy and manage HPC clusters in the AWS cloud.
 - [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
 - [Infineon/personalize-optiga-trust](https://github.com/Infineon/personalize-optiga-trust) - OPTIGA™ Trust personalization application note
 - [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
@@ -5640,6 +5642,7 @@
 
 ## Ruby 
 
+- [aws/aws-parallelcluster-cookbook](https://github.com/aws/aws-parallelcluster-cookbook) - The Chef cookbook used to build and bootstrap AWS ParallelCluster
 - [standardnotes/syncing-server](https://github.com/standardnotes/syncing-server) - The Standard Notes syncing server
 - [linnify/fastlane-plugin-kobiton](https://github.com/linnify/fastlane-plugin-kobiton) - A Fastlane plugin useful for automatically uploading builds to Kobiton.
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
