@@ -404,6 +404,7 @@
 - [commaai/chffrplus](https://github.com/commaai/chffrplus) - open source dashcam software
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
+- [MassEffectModder/MassEffectModder](https://github.com/MassEffectModder/MassEffectModder) - Mass Effect Modder (MEM)
 - [mist-devel/mist-binaries](https://github.com/mist-devel/mist-binaries) - Firmware and core binaries for the MIST board
 - [debugdump/Ingenic-T10_20](https://github.com/debugdump/Ingenic-T10_20) - Ingenic T10 T20 SDK 3.9.0 20161209
 - [beihuijie/Ingenic-kernel](https://github.com/beihuijie/Ingenic-kernel) - 
@@ -1096,7 +1097,6 @@
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [jmroot/UnRarX](https://github.com/jmroot/UnRarX) - 
 - [starkgate/TextureMapper](https://github.com/starkgate/TextureMapper) - This program is intended to facilitate modding of the Mass Effect trilogy (ME1, ME2, ME3). C++, Qt5, SQLite.
-- [MassEffectModder/MassEffectModder](https://github.com/MassEffectModder/MassEffectModder) - Mass Effect Modder (MEM)
 - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
 - [chinmaygarde/flutter_from_scratch](https://github.com/chinmaygarde/flutter_from_scratch) - A minimal Flutter Embedder from Scratch.
 - [beihuijie/carrier-rtsp-server](https://github.com/beihuijie/carrier-rtsp-server) - 
@@ -2202,6 +2202,7 @@
 - [dougallj/applegpu](https://github.com/dougallj/applegpu) - Apple G13 GPU architecture docs and tools
 - [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
 - [fcoury/kbpcb](https://github.com/fcoury/kbpcb) - Automated Keyboard PCB generator for KiCad
+- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [alex/nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
 - [brendena/MathEquationsGoogleSlide](https://github.com/brendena/MathEquationsGoogleSlide) - convert latex to img on google slides
 - [sigio/cipherli.st](https://github.com/sigio/cipherli.st) - Ciplerli.st - strong ciphers for NGINX, Apache and Lighttpd
@@ -3501,7 +3502,6 @@
 - [zaellis/continue_with_sv](https://github.com/zaellis/continue_with_sv) - Software and resources to help Purdue students (and others) continue developing with SystemVerilog after losing access to proprietary tools.
 - [mattvenn/magic-inverter](https://github.com/mattvenn/magic-inverter) - an inverter drawn in magic with makefile to simulate
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
-- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [foostan/kbd](https://github.com/foostan/kbd) - for building keyboard libraries
 - [adobe-type-tools/cmap-resources](https://github.com/adobe-type-tools/cmap-resources) - CMap Resources
 - [pqrs-org/gh-pages-karabiner-elements.pqrs.org](https://github.com/pqrs-org/gh-pages-karabiner-elements.pqrs.org) - 
@@ -4130,6 +4130,7 @@
 
 ## OpenSCAD 
 
+- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [tenderlove/analog-terminal-bell](https://github.com/tenderlove/analog-terminal-bell) - A bell for your terminal that is analog
 - [rsheldiii/KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library
 - [openscad/MCAD](https://github.com/openscad/MCAD) - OpenSCAD Parametric CAD Library (LGPL 2.1)
@@ -4841,7 +4842,6 @@
 - [aws/aws-parallelcluster](https://github.com/aws/aws-parallelcluster) - AWS ParallelCluster is an AWS supported Open Source cluster management tool to deploy and manage HPC clusters in the AWS cloud.
 - [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
 - [Infineon/personalize-optiga-trust](https://github.com/Infineon/personalize-optiga-trust) - OPTIGA™ Trust personalization application note
-- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [adamrehn/ue4cli](https://github.com/adamrehn/ue4cli) - Command-line interface for Unreal Engine 4
 - [adamrehn/ue4-conan-recipes](https://github.com/adamrehn/ue4-conan-recipes) - Conan recipes for UE4-compatible library packages
 - [nalgeon/dataviz](https://github.com/nalgeon/dataviz) - Data visualization guide for presentations, reports, and dashboards
@@ -6600,7 +6600,7 @@
 - [cx-org/CombineX](https://github.com/cx-org/CombineX) - Open source implementation for Apple's Combine
 - [rsyncOSX/rcloneosx](https://github.com/rsyncOSX/rcloneosx) - A macOS GUI for rclone
 - [dlvm-team/dlvm-core](https://github.com/dlvm-team/dlvm-core) - 
-- [dduan/Markra](https://github.com/dduan/Markra) - A Markdown-to-JIRA syntax editor.
+- [dduan/Markra](https://github.com/dduan/Markra) - An open-source Markdown-to-JIRA syntax editor written in SwiftUI for macOS
 - [AvdLee/CustomSwiftOperators](https://github.com/AvdLee/CustomSwiftOperators) - Demonstrating custom Swift operators. Including prefix, postfix, infix, and compound assignment operators.
 - [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) - SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
 - [maxkonovalov/MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - ⭕️ Ring progress view similar to Activity app on Apple Watch
