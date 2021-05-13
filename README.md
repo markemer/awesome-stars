@@ -1280,7 +1280,6 @@
 - [dotBunny/CLionSourceCodeAccess](https://github.com/dotBunny/CLionSourceCodeAccess) - A CLion Plugin for Unreal Engine
 - [gildor2/UEViewer](https://github.com/gildor2/UEViewer) - Viewer and exporter for Unreal Engine 1-4 assets (UE Viewer).
 - [apitrace/apitrace](https://github.com/apitrace/apitrace) - Tools for tracing OpenGL, Direct3D, and other graphics APIs
-- [CRYTEK/CRYENGINE](https://github.com/CRYTEK/CRYENGINE) - CRYENGINE is a powerful real-time game development platform created by Crytek.
 - [raspberrypi/tools](https://github.com/raspberrypi/tools) - 
 - [Xtra-Computing/thundersvm](https://github.com/Xtra-Computing/thundersvm) - ThunderSVM: A Fast SVM Library on GPUs and CPUs
 - [HexHive/HexType](https://github.com/HexHive/HexType) - HexType: Efficient Detection of Type Confusion Errors for C++
@@ -4849,7 +4848,7 @@
 - [nalgeon/dataviz](https://github.com/nalgeon/dataviz) - Data visualization guide for presentations, reports, and dashboards
 - [1Password/connect-sdk-python](https://github.com/1Password/connect-sdk-python) - Python SDK for 1Password Connect
 - [1Password/ansible-onepasswordconnect-collection](https://github.com/1Password/ansible-onepasswordconnect-collection) - Ansible Collection for 1Password Connect
-- [MoralCode/pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - Research shows Google collects 20x more data from Android than Apple collects from iOS. Block this non-consensual telemetry using pihole blocklists.
+- [MoralCode/pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - Research shows Google and Apple are collecting data on you. Block some of this non-consensual telemetry using pihole.
 - [mzucker/maptrace](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images
 - [rizinorg/rz-pipe](https://github.com/rizinorg/rz-pipe) - Access rizin via pipe from any programming language!
 - [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
@@ -6237,7 +6236,7 @@
 - [airbnb/aerosolve](https://github.com/airbnb/aerosolve) - A machine learning package built for humans.
 - [twitter/cassovary](https://github.com/twitter/cassovary) - Cassovary is a simple big graph processing library for the JVM
 - [twitter/summingbird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm
-- [apache/attic-predictionio](https://github.com/apache/attic-predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
+- [apache/predictionio](https://github.com/apache/predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
 - [phyous/grasp](https://github.com/phyous/grasp) - A mouse controller for OSX powered by the Leap Motion device.
 - [MoeOrganization/moe](https://github.com/MoeOrganization/moe) - An -OFun prototype of an Ultra Modern Perl 5
 - [twitter-archive/kestrel](https://github.com/twitter-archive/kestrel) - simple, distributed message queue system (inactive)
@@ -6523,6 +6522,7 @@
 
 ## Swift 
 
+- [DuncanMC/AnimatePaths](https://github.com/DuncanMC/AnimatePaths) - 
 - [macmade/QEMU-Manager](https://github.com/macmade/QEMU-Manager) - macOS graphical frontend to QEMU
 - [chriseidhof/TerminalUI](https://github.com/chriseidhof/TerminalUI) - 
 - [sindresorhus/Regex](https://github.com/sindresorhus/Regex) - Swifty regular expressions
@@ -7880,6 +7880,7 @@
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
+- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [phosphorjs/phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
 - [ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
@@ -8030,7 +8031,6 @@
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [djfurman/well-managed-deployments](https://github.com/djfurman/well-managed-deployments) - Deployments are hard, doing it with proper oversight is harder, tracking it is near impossible without crazy expense. Meet a serverless solution to the problem.
-- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
