@@ -936,6 +936,7 @@
 
 ## C++ 
 
+- [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [bespoke-silicon-group/bsg_replicant](https://github.com/bespoke-silicon-group/bsg_replicant) - Bespoke Silicon Group AWS EC2 F1 Infrastructure and Interface logic for HammerBlade
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [thliebig/CSXCAD](https://github.com/thliebig/CSXCAD) - A C++ library to describe geometrical objects and their physical or non-physical properties.
@@ -2365,7 +2366,7 @@
 ## Haskell 
 
 - [jgm/gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
-- [david-janssen/kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [jonschoning/espial](https://github.com/jonschoning/espial) - Espial is an open-source, web-based bookmarking server.
 - [smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
 - [simonmar/alex](https://github.com/simonmar/alex) - A lexical analyser generator for Haskell
@@ -2550,6 +2551,7 @@
 
 ## JavaScript 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
@@ -5030,6 +5032,7 @@
 - [andrey-git/home-assistant-customizer](https://github.com/andrey-git/home-assistant-customizer) - Companion component for home-assistant CustomUI
 - [googleprojectzero/iOS-messaging-tools](https://github.com/googleprojectzero/iOS-messaging-tools) - 
 - [pfultz2/cget](https://github.com/pfultz2/cget) - C++ package retrieval
+- [hail-is/hail](https://github.com/hail-is/hail) - Scalable genomic data analysis.
 - [lbschenkel/broadlink-bridge](https://github.com/lbschenkel/broadlink-bridge) - Bridge to Broadlink devices supporting REST, MQTT and LIRC protocols
 - [hexway/apple_bleee](https://github.com/hexway/apple_bleee) - Apple BLE research
 - [rackerlabs/lambda-uploader](https://github.com/rackerlabs/lambda-uploader) - Helps package and upload Python lambda functions to AWS
@@ -6207,7 +6210,6 @@
 ## Scala 
 
 - [ucb-bar/midas](https://github.com/ucb-bar/midas) - FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL
-- [hail-is/hail](https://github.com/hail-is/hail) - Scalable genomic data analysis.
 - [schoeberl/chisel-examples](https://github.com/schoeberl/chisel-examples) - Chisel examples and code snippets
 - [freechipsproject/diagrammer](https://github.com/freechipsproject/diagrammer) - Provides dot visualizations of chisel/firrtl circuits
 - [chipsalliance/treadle](https://github.com/chipsalliance/treadle) - Chisel/Firrtl execution engine
@@ -6522,6 +6524,9 @@
 
 ## Swift 
 
+- [willdale/SwiftUICharts](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility features built in.
+- [alexsteinerde/docker-client-swift](https://github.com/alexsteinerde/docker-client-swift) - This is a Docker Client written in Swift. It's using the NIO Framework to communicate with the Docker Engine via sockets.
+- [DataDog/dd-sdk-ios](https://github.com/DataDog/dd-sdk-ios) - Datadog SDK for iOS - Swift and Objective-C.
 - [DuncanMC/AnimatePaths](https://github.com/DuncanMC/AnimatePaths) - 
 - [macmade/QEMU-Manager](https://github.com/macmade/QEMU-Manager) - macOS graphical frontend to QEMU
 - [chriseidhof/TerminalUI](https://github.com/chriseidhof/TerminalUI) - 
@@ -7769,7 +7774,7 @@
 
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Public Beta 🎉)
 - [thoughtspile/grafar](https://github.com/thoughtspile/grafar) - Reactive multidimensional math & data visualization for the web.
-- [githubocto/flat](https://github.com/githubocto/flat) - The GitHub action which powers Flat
+- [githubocto/flat](https://github.com/githubocto/flat) - The GitHub Action which powers Flat
 - [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.org
 - [1Password/connect-sdk-js](https://github.com/1Password/connect-sdk-js) - Node SDK for 1Password Connect
 - [paulshen/birthday-report](https://github.com/paulshen/birthday-report) - 
