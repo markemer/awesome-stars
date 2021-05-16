@@ -209,6 +209,7 @@
 ## C 
 
 - [microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
+- [audulus/vger](https://github.com/audulus/vger) - 2D GPU renderer for dynamic UIs
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 - [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs) - DEFLATE, gzip, and zlib bindings for Rust
 - [jdah/tetris-os](https://github.com/jdah/tetris-os) - An operating system, but it only plays Tetris.
@@ -406,7 +407,6 @@
 - [commaai/chffrplus](https://github.com/commaai/chffrplus) - open source dashcam software
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
-- [MassEffectModder/MassEffectModder](https://github.com/MassEffectModder/MassEffectModder) - Mass Effect Modder (MEM)
 - [mist-devel/mist-binaries](https://github.com/mist-devel/mist-binaries) - Firmware and core binaries for the MIST board
 - [debugdump/Ingenic-T10_20](https://github.com/debugdump/Ingenic-T10_20) - Ingenic T10 T20 SDK 3.9.0 20161209
 - [beihuijie/Ingenic-kernel](https://github.com/beihuijie/Ingenic-kernel) - 
@@ -1100,6 +1100,7 @@
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [jmroot/UnRarX](https://github.com/jmroot/UnRarX) - 
 - [starkgate/TextureMapper](https://github.com/starkgate/TextureMapper) - This program is intended to facilitate modding of the Mass Effect trilogy (ME1, ME2, ME3). C++, Qt5, SQLite.
+- [MassEffectModder/MassEffectModder](https://github.com/MassEffectModder/MassEffectModder) - Mass Effect Modder (MEM)
 - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
 - [chinmaygarde/flutter_from_scratch](https://github.com/chinmaygarde/flutter_from_scratch) - A minimal Flutter Embedder from Scratch.
 - [beihuijie/carrier-rtsp-server](https://github.com/beihuijie/carrier-rtsp-server) - 
@@ -1501,6 +1502,7 @@
 
 ## CSS 
 
+- [adobe-fonts/source-serif](https://github.com/adobe-fonts/source-serif) - Typeface for setting text in many sizes, weights, and languages. Designed to complement Source Sans.
 - [OfficerHalf/homebrewery-vscode](https://github.com/OfficerHalf/homebrewery-vscode) - Adding 5e Homebrewery markdown formatting to Visual Studio Code's markdown preview
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [keyboardio/keyswitch_documentation](https://github.com/keyboardio/keyswitch_documentation) - A shared public repository of datasheets and other public documentation of keyswitches, both current and historical
@@ -1743,6 +1745,7 @@
 
 ## Go 
 
+- [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
 - [Philipp15b/go-steam](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go to allow automation of different actions on the Steam network without running an actual Steam client. Includes APIs for friends, chatting, trading, trade offers and TF2 crafting.
 - [bpftools/kube-bpf](https://github.com/bpftools/kube-bpf) - (e)BPF primitives for Kubernetes
 - [pojntfx/liwasc](https://github.com/pojntfx/liwasc) - List, wake and scan nodes in a network.
@@ -2944,7 +2947,6 @@
 - [staltz/rxmarbles](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables
 - [inkle/inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
 - [dfabulich/choicescript](https://github.com/dfabulich/choicescript) - ChoiceScript is a language for developing multiple-choice games.
-- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 - [lazerwalker/storyboard-iOS](https://github.com/lazerwalker/storyboard-iOS) - Swift reference client for the Storyboard storytelling engine
 - [nathanhleung/oganesson](https://github.com/nathanhleung/oganesson) - A parser for chemical formula strings.
@@ -4112,7 +4114,6 @@
 
 ## Objective-C++ 
 
-- [audulus/vger](https://github.com/audulus/vger) - 2D GPU renderer for dynamic UIs
 - [0xxd0/objc4](https://github.com/0xxd0/objc4) - A latest buildable and debuggable Objective-C runtime (objc4-818.2) project.
 - [johnboiles/obs-mac-virtualcam](https://github.com/johnboiles/obs-mac-virtualcam) - ARCHIVED! This plugin is officially a part of OBS as of version 26.1. See note below for info on upgrading. 🎉🎉🎉Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like CatxFish/obs-virtualcam but for macOS.
 - [sortofsleepy/ofxARKit](https://github.com/sortofsleepy/ofxARKit) - A starting point for openFramworks and ARKit experimenting.
@@ -5769,6 +5770,7 @@
 - [lostisland/faraday_middleware](https://github.com/lostisland/faraday_middleware) - Various Faraday middlewares for Faraday-based API wrappers
 - [dmarkow/faraday_yaml](https://github.com/dmarkow/faraday_yaml) - YAML Response/Request Middleware for Faraday
 - [pengwynn/faraday_middleware](https://github.com/pengwynn/faraday_middleware) - Various Faraday middlewares for Faraday-based API wrappers
+- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [Nedomas/indicators](https://github.com/Nedomas/indicators) - A gem for calculating technical analysis indicators.
 - [cloudfoundry-community/swift-buildpack](https://github.com/cloudfoundry-community/swift-buildpack) - 
 - [mahemoff/lokalise](https://github.com/mahemoff/lokalise) - (No longer maintained!) Unofficial command-line utility for Lokalise, mainly lets you download strings in your preferred format. May also be incorporated into Ruby/Rake scripts.
@@ -6524,6 +6526,7 @@
 
 ## Swift 
 
+- [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [willdale/SwiftUICharts](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility features built in.
 - [alexsteinerde/docker-client-swift](https://github.com/alexsteinerde/docker-client-swift) - This is a Docker Client written in Swift. It's using the NIO Framework to communicate with the Docker Engine via sockets.
 - [DataDog/dd-sdk-ios](https://github.com/DataDog/dd-sdk-ios) - Datadog SDK for iOS - Swift and Objective-C.
@@ -7772,6 +7775,8 @@
 
 ## TypeScript 
 
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
+- [DarylBuckle/dnd-character-sheets](https://github.com/DarylBuckle/dnd-character-sheets) - Dungeons and Dragons 5th Edition character sheets created in ReactJS.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Public Beta 🎉)
 - [thoughtspile/grafar](https://github.com/thoughtspile/grafar) - Reactive multidimensional math & data visualization for the web.
 - [githubocto/flat](https://github.com/githubocto/flat) - The GitHub Action which powers Flat
@@ -7975,6 +7980,7 @@
 
 ## Verilog 
 
+- [schlae/graphics-gremlin](https://github.com/schlae/graphics-gremlin) - Open source retro ISA video card
 - [esa-tu-darmstadt/tapasco](https://github.com/esa-tu-darmstadt/tapasco) - The Task Parallel System Composer (TaPaSCo)
 - [oskirby/tinydfu-bootloader](https://github.com/oskirby/tinydfu-bootloader) - USB DFU Bootloader for small FPGAs
 - [NetFPGA/netfpga](https://github.com/NetFPGA/netfpga) - NetFPGA 1G infrastructure and gateware
