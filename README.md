@@ -936,6 +936,7 @@
 
 ## C++ 
 
+- [gogcom/galaxy-ue4-oss-plugin](https://github.com/gogcom/galaxy-ue4-oss-plugin) - OnlineSubsystem interface implementation for GOG Galaxy platform
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [bespoke-silicon-group/bsg_replicant](https://github.com/bespoke-silicon-group/bsg_replicant) - Bespoke Silicon Group AWS EC2 F1 Infrastructure and Interface logic for HammerBlade
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
@@ -1745,6 +1746,7 @@
 
 ## Go 
 
+- [AkihiroSuda/lima](https://github.com/AkihiroSuda/lima) - Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac")
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
 - [Philipp15b/go-steam](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go to allow automation of different actions on the Steam network without running an actual Steam client. Includes APIs for friends, chatting, trading, trade offers and TF2 crafting.
 - [bpftools/kube-bpf](https://github.com/bpftools/kube-bpf) - (e)BPF primitives for Kubernetes
@@ -4839,6 +4841,7 @@
 
 ## Python 
 
+- [gogcom/galaxy-integrations-python-api](https://github.com/gogcom/galaxy-integrations-python-api) - NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the Galaxy Client 2.0 shall be sent via Galaxy Client menu
 - [libretro/libretro-database](https://github.com/libretro/libretro-database) - Repository containing cheatcode files, content data files, etc.
 - [ValvePython/steam](https://github.com/ValvePython/steam) - ☁️ Python package for interacting with Steam
 - [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
@@ -6255,6 +6258,7 @@
 
 ## Shell 
 
+- [seemoo-lab/mobisys2018_nexmon_software_defined_radio](https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio) - Proof of concept project for operating Broadcom Wi-Fi chips as arbitrary signal transmitters similar to software-defined radios (SDRs)
 - [SteamDatabase/Protobufs](https://github.com/SteamDatabase/Protobufs) - 👑 Automatically tracked Steam, CS:GO, Dota 2, Artifact, Underlords and TF2 protobufs.
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [japaric/rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
@@ -6301,7 +6305,6 @@
 - [SymbiFlow/prjxray-db](https://github.com/SymbiFlow/prjxray-db) - Project X-Ray Database: XC7 Series
 - [brianhanifin/Home-Assistant-Config](https://github.com/brianhanifin/Home-Assistant-Config) - 
 - [cooljeanius/macportsscripts](https://github.com/cooljeanius/macportsscripts) - Various little scripts for MacPorts. Forked to add more stuff to it and stuff.
-- [julianfairfax/macos-downloader](https://github.com/julianfairfax/macos-downloader) - Command line tool for downloading macOS installers and beta updates - End of support/development
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [geoffeg/opiterm](https://github.com/geoffeg/opiterm) - 1Password integration for iTerm2
@@ -6526,6 +6529,7 @@
 
 ## Swift 
 
+- [jameshurst/Transmission-Swift](https://github.com/jameshurst/Transmission-Swift) - A Combine powered Transmission RPC API client.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [willdale/SwiftUICharts](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility features built in.
 - [alexsteinerde/docker-client-swift](https://github.com/alexsteinerde/docker-client-swift) - This is a Docker Client written in Swift. It's using the NIO Framework to communicate with the Docker Engine via sockets.
