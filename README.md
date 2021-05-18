@@ -208,6 +208,7 @@
 
 ## C 
 
+- [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
 - [microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
 - [audulus/vger](https://github.com/audulus/vger) - 2D GPU renderer for dynamic UIs
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
@@ -2419,6 +2420,7 @@
 
 ## Java 
 
+- [reds-heig/logisim-evolution](https://github.com/reds-heig/logisim-evolution) - Digital logic designer and simulator
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
@@ -2669,7 +2671,7 @@
 - [YOCKOW/Action-setup-swift](https://github.com/YOCKOW/Action-setup-swift) - GitHub Action that sets up Swift.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 - [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
-- [i5ik/ViewFinderJS](https://github.com/i5ik/ViewFinderJS) - :camera: ViewFinder - NodeJS product to make the browser  into a web app. WTF RBI. CBII. Remote browser isolation, embeddable browserview, secure chrome saas. Licenses, managed, self-hosted. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but open source with free live demos available now! Also, integrated RBI/CDR with CDR from https://github.com/dosyago/p2%2e
+- [i5ik/ViewFinderJS](https://github.com/i5ik/ViewFinderJS) - :camera: ViewFinder - Remote isolated browser for security and building on top of. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed options available. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and open-source. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
 - [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [millette/oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
@@ -4949,7 +4951,6 @@
 - [mart1nro/joycontrol](https://github.com/mart1nro/joycontrol) - Emulate Nintendo Switch Controllers over Bluetooth
 - [astropy/astroquery](https://github.com/astropy/astroquery) - Functions and classes to access online data resources. Maintainers: @keflavich and @bsipocz and @ceb8
 - [abhishekkr/gmail-helper](https://github.com/abhishekkr/gmail-helper) - it will contain different utilities for GMail API over OAuth2
-- [jmillikin/rules_bison](https://github.com/jmillikin/rules_bison) - Bazel build rules for GNU Bison
 - [mathandy/svgpathtools](https://github.com/mathandy/svgpathtools) - A collection of tools for manipulating and analyzing SVG Path objects and Bezier curves.
 - [SchrodingersGat/KiBoM](https://github.com/SchrodingersGat/KiBoM) - Configurable BoM generation tool for KiCad EDA (http://kicad-pcb.org/)
 - [alexisvl/kicad-schlib](https://github.com/alexisvl/kicad-schlib) - Alternative KiCad schematic library
@@ -6512,6 +6513,7 @@
 ## Starlark 
 
 - [jez/as-tree-cpp](https://github.com/jez/as-tree-cpp) - Print a list of paths as a tree of paths 🌳
+- [jmillikin/rules_bison](https://github.com/jmillikin/rules_bison) - Bazel build rules for GNU Bison
 - [line/rules_apple_line](https://github.com/line/rules_apple_line) - LINE's Apple rules for Bazel
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [airbnb/BuckSample](https://github.com/airbnb/BuckSample) - An example app showing how Buck can be used to build a simple iOS app.
@@ -6529,6 +6531,8 @@
 
 ## Swift 
 
+- [circt/MLIRSwift](https://github.com/circt/MLIRSwift) - MLIR Bindings for Swift
+- [circt/Edith](https://github.com/circt/Edith) - Electronic Design in Swithft
 - [jameshurst/Transmission-Swift](https://github.com/jameshurst/Transmission-Swift) - A Combine powered Transmission RPC API client.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [willdale/SwiftUICharts](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility features built in.
