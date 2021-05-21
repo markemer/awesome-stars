@@ -2498,7 +2498,6 @@
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [sleekbyte/tailor](https://github.com/sleekbyte/tailor) - Cross-platform static analyzer and linter for Swift.
 - [jenkinsci/email-ext-plugin](https://github.com/jenkinsci/email-ext-plugin) - Jenkins Email Extension Plugin
-- [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
 - [benoit-dumas/OpenRTS](https://github.com/benoit-dumas/OpenRTS) - Real-Time Strategy game 3D engine coded in pure java
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database
 - [dropbox/hackpad](https://github.com/dropbox/hackpad) - Hackpad is a web-based realtime wiki.
@@ -3025,7 +3024,7 @@
 - [captainsafia/giddy](https://github.com/captainsafia/giddy) - A CLI wrapper around git for an improved developer experience
 - [zalando/zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser)
 - [facebook/prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
@@ -5667,7 +5666,7 @@
 
 - [htdebeer/paru](https://github.com/htdebeer/paru) - Control pandoc with Ruby and write pandoc filters in Ruby
 - [aws/aws-parallelcluster-cookbook](https://github.com/aws/aws-parallelcluster-cookbook) - The Chef cookbook used to build and bootstrap AWS ParallelCluster
-- [standardnotes/syncing-server](https://github.com/standardnotes/syncing-server) - The Standard Notes syncing server
+- [standardnotes/syncing-server](https://github.com/standardnotes/syncing-server) - [Deprecated: Use our new Node server: https://github.com/standardnotes/syncing-server-js]
 - [linnify/fastlane-plugin-kobiton](https://github.com/linnify/fastlane-plugin-kobiton) - A Fastlane plugin useful for automatically uploading builds to Kobiton.
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [fastlane/fastlane-plugin-firebase_app_distribution](https://github.com/fastlane/fastlane-plugin-firebase_app_distribution) - fastlane plugin for Firebase App Distribution. https://firebase.google.com/docs/app-distribution
@@ -6528,7 +6527,7 @@
 
 ## Svelte 
 
-- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server and MongoDB. Runs under Windows, Linux, Mac or as web application
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
 
 ## Swift 
@@ -7785,6 +7784,7 @@
 
 ## TypeScript 
 
+- [nick-invision/private-action-loader](https://github.com/nick-invision/private-action-loader) - Allows private GitHub Actions to be easily reused
 - [jupyterlab/jupyterlab-latex](https://github.com/jupyterlab/jupyterlab-latex) - JupyterLab extension for live editing of LaTeX documents
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [DarylBuckle/dnd-character-sheets](https://github.com/DarylBuckle/dnd-character-sheets) - Dungeons and Dragons 5th Edition character sheets created in ReactJS.
@@ -7948,6 +7948,7 @@
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [firebase/firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
+- [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
