@@ -1429,7 +1429,7 @@
 - [ducin/piet](https://github.com/ducin/piet) - Piet graphical programming language interpreter
 - [romitagl/shared](https://github.com/romitagl/shared) - Collection of C++ projects
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
-- [facebook/facebook-clang-plugins](https://github.com/facebook/facebook-clang-plugins) - Plugins to clang-analyzer and clang-frontend
+- [facebookarchive/facebook-clang-plugins](https://github.com/facebookarchive/facebook-clang-plugins) - Plugins to clang-analyzer and clang-frontend
 - [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
 - [laprej/ROSS--](https://github.com/laprej/ROSS--) - ROSS-- + C++ = ROSS + C
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
@@ -1748,6 +1748,8 @@
 
 ## Go 
 
+- [martinbaillie/vault-plugin-secrets-github](https://github.com/martinbaillie/vault-plugin-secrets-github) - Create ephemeral, finely-scoped @github access tokens using @hashicorp Vault.
+- [klauspost/pgzip](https://github.com/klauspost/pgzip) - Go parallel gzip (de)compression
 - [AkihiroSuda/lima](https://github.com/AkihiroSuda/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
 - [Philipp15b/go-steam](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go to allow automation of different actions on the Steam network without running an actual Steam client. Includes APIs for friends, chatting, trading, trade offers and TF2 crafting.
@@ -2559,6 +2561,7 @@
 
 ## JavaScript 
 
+- [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
@@ -4146,6 +4149,8 @@
 
 ## Others 
 
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
+- [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [b1ackmai1er/SBC-V2-005](https://github.com/b1ackmai1er/SBC-V2-005) - Retrobrew Computers SBC-V2 development.
 - [JELaVallee/ampd_up_flutter_amplify_graphql](https://github.com/JELaVallee/ampd_up_flutter_amplify_graphql) - Amp'd Up Flutter Development with AWS Amplify Demo ToDo Application
 - [htruong/zenreader](https://github.com/htruong/zenreader) - Makes your M5Paper an E-ink RSS Reader with built-in Reader mode, to solve annoyances with the Kindle Experimental browser.
@@ -5566,7 +5571,7 @@
 - [tomchop/malcom](https://github.com/tomchop/malcom) - Malcom - Malware Communications Analyzer
 - [DanChianucci/Eagle2Kicad](https://github.com/DanChianucci/Eagle2Kicad) - Converts an Eagle 6.0+ .brd into a kicad .brd
 - [ehamiter/GitHubinator](https://github.com/ehamiter/GitHubinator) - Sublime Text plugin that shows selected text on remote GitHub or Bitbucket repo
-- [Theano/Theano](https://github.com/Theano/Theano) - Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
+- [Theano/Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as aesara: www.github.com/pymc-devs/aesara
 - [nojhan/colout](https://github.com/nojhan/colout) - Color text streams with a polished command line interface
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [dabeaz/ply](https://github.com/dabeaz/ply) - Python Lex-Yacc
@@ -6607,7 +6612,7 @@
 - [art-divin/XcodeUpdates](https://github.com/art-divin/XcodeUpdates) - SwiftUI implementation of xcodes by RobotsAndPencils
 - [a2/MessagePack.swift](https://github.com/a2/MessagePack.swift) - It's like JSON, but fast and small…and Swift! – msgpack.org[Swift]
 - [target/XCBBuildServiceProxy](https://github.com/target/XCBBuildServiceProxy) - A framework to create proxies for XCBBuildService, which allows for custom Xcode build integrations.
-- [ChimeHQ/Wells](https://github.com/ChimeHQ/Wells) - A lightweight diagnostics report submission system
+- [stacksift/Wells](https://github.com/stacksift/Wells) - A lightweight diagnostics report submission system
 - [marmelroy/PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
 - [mohakapt/Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
 - [thecb4/blanket](https://github.com/thecb4/blanket) - 
@@ -6691,7 +6696,7 @@
 - [jVirus/grid-compositional-layout](https://github.com/jVirus/grid-compositional-layout) - 🧲 Grid Compositional Layout is a SwiftUI 2.0 view that lays out the supplied views in a grid. Easily configurable and lazily retained [Swift 5.3, iOS 14.0+, iPadOS 14.0+, macOS 11.0(10.16)+]
 - [abhi-dave/ADDatePicker](https://github.com/abhi-dave/ADDatePicker) - A fully customizable iOS Horizontal PickerView library, written in pure swift
 - [erica/Swift-Mac-Utility](https://github.com/erica/Swift-Mac-Utility) - Taking the Mac out of the General Utility and putting it in its own package
-- [ChimeHQ/Meter](https://github.com/ChimeHQ/Meter) - Library for interacting with MetricKit
+- [stacksift/Meter](https://github.com/stacksift/Meter) - Library for interacting with MetricKit
 - [wordpress-mobile/AztecEditor-iOS](https://github.com/wordpress-mobile/AztecEditor-iOS) - A reusable native iOS visual HTML text editor component.
 - [airbnb/HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 - [swiftwasm/carton](https://github.com/swiftwasm/carton) - 📦 Watcher, bundler, and test runner for your SwiftWasm apps
@@ -7290,7 +7295,7 @@
 - [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute!
 - [JohnSundell/ImagineEngine](https://github.com/JohnSundell/ImagineEngine) - A project to create a blazingly fast Swift game engine that is a joy to use 🚀
 - [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
-- [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift
+- [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
 - [CocoaPods/CocoaPods-app](https://github.com/CocoaPods/CocoaPods-app) - A full-featured and standalone installation of CocoaPods.
 - [macmade/Console](https://github.com/macmade/Console) - OS X console application.
 - [macmade/Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS.
