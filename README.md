@@ -596,7 +596,7 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [google/cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime.
 - [psaghelyi/MachOView](https://github.com/psaghelyi/MachOView) - Apple Mach-O binary explorer.
-- [libexpat/libexpat](https://github.com/libexpat/libexpat) - :herb: Expat library: Fast streaming XML parser written in C; in the process of migrating from SourceForge to GitHub
+- [libexpat/libexpat](https://github.com/libexpat/libexpat) - :herb: Expat library: Fast streaming XML parser written in C99; in the process of migrating from SourceForge to GitHub
 - [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [chipsec/chipsec](https://github.com/chipsec/chipsec) - Platform Security Assessment Framework
@@ -6030,6 +6030,8 @@
 
 ## Rust 
 
+- [charsyam/hashids_rust](https://github.com/charsyam/hashids_rust) - rust hashids implements
+- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - 
 - [blitz/clac](https://github.com/blitz/clac) - A reverse polish calculator - a modern replacement for dc
 - [sixtyfpsui/sixtyfps](https://github.com/sixtyfpsui/sixtyfps) - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
