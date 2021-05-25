@@ -7557,7 +7557,7 @@
 - [bignerdranch/CoreDataStack](https://github.com/bignerdranch/CoreDataStack) - The Big Nerd Ranch Core Data Stack
 - [shu223/watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler) - Code examples for new features of watchOS 2.
 - [davedelong/DDMathParser](https://github.com/davedelong/DDMathParser) - String → Number
-- [kean/Nuke](https://github.com/kean/Nuke) - Powerful image loading and caching system
+- [kean/Nuke](https://github.com/kean/Nuke) - Image Loading System
 - [oisdk/SwiftSequence](https://github.com/oisdk/SwiftSequence) - A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools, Haskell's standard library, and other things.
 - [shu223/iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler) - Code examples for the new features of iOS 9.
 - [takuoka/TKSubmitTransition](https://github.com/takuoka/TKSubmitTransition) - Animated UIButton of Loading Animation and Transition Animation. Inspired by  https://dribbble.com/shots/1945593-Login-Home-Screen
@@ -7881,7 +7881,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [alexandercerutti/passkit-generator](https://github.com/alexandercerutti/passkit-generator) - The easiest way to generate custom Apple Wallet passes in Node.js
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
-- [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A directory-first photo gallery website, witch rich UI,  optimised for running on low resource servers (especially on raspberry pi)
+- [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
 - [lit/lit-element](https://github.com/lit/lit-element) - LEGACY REPO. This repository is for maintenance of the legacy LitElement library. The LitElement base class is now part of the Lit library, which is developed in the lit monorepo.
 - [codesandbox/codesandbox-importers](https://github.com/codesandbox/codesandbox-importers) - All importers & exporters for CodeSandbox
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
