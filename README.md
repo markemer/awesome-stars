@@ -215,7 +215,7 @@
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 - [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs) - DEFLATE, gzip, and zlib bindings for Rust
 - [jdah/tetris-os](https://github.com/jdah/tetris-os) - An operating system, but it only plays Tetris.
-- [Infineon/cli-optiga-trust-m](https://github.com/Infineon/cli-optiga-trust-m) - Command Line Interface (CLI) for OPTIGA™ Trust M1/M3 security solution
+- [Infineon/linux-optiga-trust-m](https://github.com/Infineon/linux-optiga-trust-m) - Linux tools and examples for OPTIGA™ Trust M1/M3 security solution
 - [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
 - [updatekit/upkit](https://github.com/updatekit/upkit) - UpKit: Software Updates for Internet of Things devices
 - [TUD-OS/M3](https://github.com/TUD-OS/M3) - Microkernel-based system for heterogeneous manycores
@@ -918,7 +918,7 @@
 - [ME3Explorer/ME3Explorer](https://github.com/ME3Explorer/ME3Explorer) - Modding Toolset for Mass Effect 1 - 3
 - [ousnius/Material-Editor](https://github.com/ousnius/Material-Editor) - A small UI application to edit BGSM/BGEM material files.
 - [gibbed/Gibbed.MassEffect3](https://github.com/gibbed/Gibbed.MassEffect3) - Tools & code for use with Mass Effect 3.
-- [gibbed/Gibbed.MassEffect2](https://github.com/gibbed/Gibbed.MassEffect2) - 
+- [gibbed/Gibbed.MassEffect2](https://github.com/gibbed/Gibbed.MassEffect2) - Tools & code for use with Mass Effect 2.
 - [gibbed/Gibbed.Bioware](https://github.com/gibbed/Gibbed.Bioware) - Tools & code for use with Bioware developed games (Dragon Age series).
 - [gibbed/Gibbed.MassEffectAndromeda](https://github.com/gibbed/Gibbed.MassEffectAndromeda) - Tools & code for use with Mass Effect: Andromeda.
 - [GMMan/SteamCloudFileManagerLite](https://github.com/GMMan/SteamCloudFileManagerLite) - View, download, and delete Steam Cloud files.
@@ -958,7 +958,7 @@
 - [ihaque/pelomon](https://github.com/ihaque/pelomon) - Source code for the PeloMon Bluetooth LE sensor relay and for decoding Peloton communications
 - [googlefonts/fontdiff](https://github.com/googlefonts/fontdiff) - tool for finding visual differences between two font versions
 - [CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) - Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
-- [skiftOS/skift](https://github.com/skiftOS/skift) - 🥑 An *hobby* operating system built from scratch in modern C++, featuring a reactive UI library, and a strong emphasis on user experience.
+- [skiftOS/skift](https://github.com/skiftOS/skift) - 🥑 A hobby operating system built from scratch in modern C++. Featuring a reactive UI library and a strong emphasis on user experience.
 - [ianpatt/f4se](https://github.com/ianpatt/f4se) - Fallout 4 Script Extender
 - [szpajder/RTLSDR-Airband](https://github.com/szpajder/RTLSDR-Airband) - Multichannel AM/NFM demodulator
 - [robmikh/Win32CaptureSample](https://github.com/robmikh/Win32CaptureSample) - A simple sample using the Windows.Graphics.Capture APIs in a Win32 application.
@@ -995,7 +995,7 @@
 - [NVIDIA/libcudacxx](https://github.com/NVIDIA/libcudacxx) - The C++ Standard Library for your entire system.
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [qradiolink/qradiolink](https://github.com/qradiolink/qradiolink) - Multimode SDR transceiver for GNU radio
-- [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - This industry unifying standard is a promise of reliable, secure connectivity—a seal of approval that devices will work seamlessly together, today and tomorrow. Matter is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers. This collaborative breakthrough is built on proven technologies and guided by the Connectivity Standards Alliance (formerly Zigbee Alliance), whose members come together from across industries to transform the future of connectivity.
+- [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).
 - [google/xls](https://github.com/google/xls) - XLS: Accelerated HW Synthesis
 - [project64/project64](https://github.com/project64/project64) - N64 Emulator
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - :dromedary_camel: Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one.
@@ -1510,6 +1510,7 @@
 - [OfficerHalf/homebrewery-vscode](https://github.com/OfficerHalf/homebrewery-vscode) - Adding 5e Homebrewery markdown formatting to Visual Studio Code's markdown preview
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [keyboardio/keyswitch_documentation](https://github.com/keyboardio/keyswitch_documentation) - A shared public repository of datasheets and other public documentation of keyswitches, both current and historical
+- [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [Fmstrat/diy-ipmi](https://github.com/Fmstrat/diy-ipmi) - A DIY IPMI / IP KVM system utilizing the Raspberry Pi
 - [heapwolf/levelui](https://github.com/heapwolf/levelui) - A GUI for LevelDB management based on atom-shell.
@@ -1749,6 +1750,7 @@
 
 ## Go 
 
+- [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [martinbaillie/vault-plugin-secrets-github](https://github.com/martinbaillie/vault-plugin-secrets-github) - Create ephemeral, finely-scoped @github access tokens using @hashicorp Vault.
 - [klauspost/pgzip](https://github.com/klauspost/pgzip) - Go parallel gzip (de)compression
 - [AkihiroSuda/lima](https://github.com/AkihiroSuda/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
@@ -4854,6 +4856,7 @@
 
 ## Python 
 
+- [CriticMarkup/CriticMarkup-toolkit](https://github.com/CriticMarkup/CriticMarkup-toolkit) - Various tools to use CriticMarkup in your daily workflow
 - [Lyrositor/fallen_london_chronicler](https://github.com/Lyrositor/fallen_london_chronicler) - A tool for recording and exporting Fallen London content.
 - [n0stalghia/Sunless_Skies_Save_Editor](https://github.com/n0stalghia/Sunless_Skies_Save_Editor) - Python-based save editor for Sunless Skies
 - [chip-red-pill/uCodeDisasm](https://github.com/chip-red-pill/uCodeDisasm) - 
@@ -4917,7 +4920,6 @@
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [Gadgetoid/Pinout.xyz](https://github.com/Gadgetoid/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
 - [bslatkin/dpxdt](https://github.com/bslatkin/dpxdt) - Make continuous deployment safe by comparing before and after webpage screenshots for each release. Depicted shows when any visual, perceptual differences are found. This is the ultimate, automated end-to-end test.
-- [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 - [greatscottgadgets/luna](https://github.com/greatscottgadgets/luna) - a USB multitool + nMigen framework for monitoring, hacking, and developing USB devices
 - [mechkeys/mechkeys](https://github.com/mechkeys/mechkeys) - 
 - [magicleap/Atlas](https://github.com/magicleap/Atlas) - Atlas: End-to-End 3D Scene Reconstruction from Posed Images
@@ -6037,6 +6039,8 @@
 
 ## Rust 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [charsyam/hashids_rust](https://github.com/charsyam/hashids_rust) - rust hashids implements
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - 
@@ -7798,11 +7802,13 @@
 
 ## TypeScript 
 
+- [davidar/pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [nick-invision/private-action-loader](https://github.com/nick-invision/private-action-loader) - Allows private GitHub Actions to be easily reused
 - [jupyterlab/jupyterlab-latex](https://github.com/jupyterlab/jupyterlab-latex) - JupyterLab extension for live editing of LaTeX documents
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [DarylBuckle/dnd-character-sheets](https://github.com/DarylBuckle/dnd-character-sheets) - Dungeons and Dragons 5th Edition character sheets created in ReactJS.
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Public Beta 🎉)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [thoughtspile/grafar](https://github.com/thoughtspile/grafar) - Reactive multidimensional math & data visualization for the web.
 - [githubocto/flat](https://github.com/githubocto/flat) - The GitHub Action which powers Flat
 - [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.org
@@ -8062,6 +8068,7 @@
 
 ## Vue 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [ThaumRystra/DiceCloud](https://github.com/ThaumRystra/DiceCloud) - D&D 5e digital character manager
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
