@@ -4745,7 +4745,7 @@
 - [HTTPArchive/legacy.httparchive.org](https://github.com/HTTPArchive/legacy.httparchive.org) - &lt;&lt;THIS REPOSITORY IS DEPRECATED&gt;&gt; The HTTP Archive provides information about website performance such as # of HTTP requests, use of gzip, and amount of JavaScript. This information is recorded over time revealing trends in how the Internet is performing. Built using Open Source software, the code and data are available to everyone allowing researchers large and small to work from a common base.
 - [virtphp/virtphp](https://github.com/virtphp/virtphp) - virtPHP is a tool to create isolated PHP environments.
 - [EvanHahn/two-factor-auth-list](https://github.com/EvanHahn/two-factor-auth-list) - a list of websites supporting two-factor authentication
-- [phacility/phabricator](https://github.com/phacility/phabricator) - Open software engineering platform and fun adventure game
+- [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
 - [laravel/laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans.
 - [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
 - [podio-community/podio-php](https://github.com/podio-community/podio-php) - PHP Client for the Podio API.
@@ -5668,6 +5668,7 @@
 ## Rich Text Format 
 
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
+- [lexrus/LTFinderButtons](https://github.com/lexrus/LTFinderButtons) - My Finder buttons collection for macOS.
 - [ckeditor/ckeditor4](https://github.com/ckeditor/ckeditor4) - The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
 
@@ -6410,7 +6411,6 @@
 - [nuket/provision-osx](https://github.com/nuket/provision-osx) - Batch files to provision OS X as a virtual machine host and manage those VMs.
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [gilhaz/hassbian-homebridge-install](https://github.com/gilhaz/hassbian-homebridge-install) - Auto install homebridge on RaspberryPi running Hassbian
-- [lexrus/LTFinderButtons](https://github.com/lexrus/LTFinderButtons) - My Finder buttons collection for macOS.
 - [openfaas/store](https://github.com/openfaas/store) - Official Function and Template Store for OpenFaaS
 - [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker) - Docker container for Caddy
 - [sdt/docker-raspberry-pi-cross-compiler](https://github.com/sdt/docker-raspberry-pi-cross-compiler) - Raspberry Pi cross-compiler and sysroot in a Docker container.
