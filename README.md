@@ -6040,6 +6040,7 @@
 
 ## Rust 
 
+- [PaddiM8/kalk](https://github.com/PaddiM8/kalk) - A calculator/expression evaluator written in rust that supports variables and functions.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [charsyam/hashids_rust](https://github.com/charsyam/hashids_rust) - rust hashids implements
