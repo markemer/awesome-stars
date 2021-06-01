@@ -68,6 +68,7 @@
   - [NSIS](#nsis)
   - [Nim](#nim)
   - [Nix](#nix)
+  - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
@@ -2259,7 +2260,6 @@
 - [amber-stubbs/mae-annotation](https://github.com/amber-stubbs/mae-annotation) - Automatically exported from code.google.com/p/mae-annotation
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [clauswilke/dataviz](https://github.com/clauswilke/dataviz) - A book covering the fundamentals of data visualization
-- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [aaronvegh/nsregextester](https://github.com/aaronvegh/nsregextester) - A simple Mac OS X application for testing native regular expressions.
 - [tjukanovt/QGIS-tutorial](https://github.com/tjukanovt/QGIS-tutorial) - QGIS tutorial created for an absolute beginner workshop. Aiming to be a collection of useful materials for users on different levels with QGIS.
 - [ncase/remember](https://github.com/ncase/remember) - An interactive comic on Spaced Repetition
@@ -2430,6 +2430,7 @@
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
 - [JetBrains/skija](https://github.com/JetBrains/skija) - Skia bindings for Java
@@ -3573,6 +3574,10 @@
 ## Nix 
 
 - [blitz/ulx3s-tools](https://github.com/blitz/ulx3s-tools) - Nix packages for ULX3s FPGA development
+
+## Nunjucks 
+
+- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 
 ## OCaml 
 
@@ -6073,7 +6078,6 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
-- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - High-level procedural templating language
 - [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware in order to maximally leverage the power of language safety, and thus shift OS responsibilities (resource management) into the compiler.
