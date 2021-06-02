@@ -3774,7 +3774,7 @@
 - [Boris-Em/BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph) - Elegant Line Graphs for iOS. (Charting library)
 - [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X
 - [BradLarson/MoleculesMac](https://github.com/BradLarson/MoleculesMac) - The Mac version of the open source Molecules molecular visualizer.
-- [facebook/FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - iOS tool that helps with profiling iOS Memory usage.
+- [facebookarchive/FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler) - iOS tool that helps with profiling iOS Memory usage.
 - [krzysztofzablocki/Bootstrap](https://github.com/krzysztofzablocki/Bootstrap) - iOS project bootstrap aimed at high quality coding.
 - [josh-/CloudyTabs](https://github.com/josh-/CloudyTabs) - CloudyTabs is a simple menu bar application that lists your iCloud Tabs.
 - [marcinolawski/StoryboardMerge](https://github.com/marcinolawski/StoryboardMerge) - Xcode storyboards diff and merge tool.
