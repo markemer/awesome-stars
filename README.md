@@ -418,6 +418,7 @@
 - [KhronosGroup/Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
 - [greatscottgadgets/ubertooth](https://github.com/greatscottgadgets/ubertooth) - Software, firmware and hardware designs for Ubertooth
 - [lieff/minimp4](https://github.com/lieff/minimp4) - Minimalistic MP4 mux/demux single header library
+- [KevinOConnor/klipper](https://github.com/KevinOConnor/klipper) - Klipper is a 3d-printer firmware
 - [westes/flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
 - [rmagick/rmagick](https://github.com/rmagick/rmagick) - Ruby bindings for ImageMagick
 - [facebook/fishhook](https://github.com/facebook/fishhook) - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
@@ -438,6 +439,7 @@
 - [RealTimeLogic/MinnowServer](https://github.com/RealTimeLogic/MinnowServer) - A super small and fast embedded HTTP(S) WebSocket server
 - [pulp-platform/pulp-sdk](https://github.com/pulp-platform/pulp-sdk) - 
 - [retroplasma/earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
+- [open-power/hostboot](https://github.com/open-power/hostboot) - System initialization firmware for Power systems
 - [OpenAMP/libmetal](https://github.com/OpenAMP/libmetal) - an abstraction layer across user-space Linux, baremetal, and RTOS environments
 - [rsms/fontkit](https://github.com/rsms/fontkit) - JS & WASM library for working with fonts
 - [CelesteBlue-dev/PSVita-RE-tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools) - A bundle of RE tools for analyzing and modding PSVita OS
@@ -640,6 +642,7 @@
 - [PlanetAPL/openAPL](https://github.com/PlanetAPL/openAPL) - 
 - [dlundquist/sniproxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
 - [OpenDataPlane/odp](https://github.com/OpenDataPlane/odp) - The ODP project is an open-source, cross-platform set of application programming interfaces (APIs) for the networking data plane
+- [ARMmbed/mbed-os](https://github.com/ARMmbed/mbed-os) - Arm Mbed OS is a platform operating system designed for the internet of things
 - [ousnius/BSA-Manager](https://github.com/ousnius/BSA-Manager) - Manager program for the Bethesda Softworks Archives (BSA)
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
 - [ROBOTIS-GIT/OpenCR](https://github.com/ROBOTIS-GIT/OpenCR) - Software for ROS Embedded board (a.k.a. OpenCR). OpenCR means Open-source Control Module for ROS.
@@ -854,7 +857,7 @@
 
 ## C# # 
 
-- [Akintos/SkylessDump](https://github.com/Akintos/SkylessDump) - Sunless Skies data export/import tool
+- [akintos/SkylessDump](https://github.com/akintos/SkylessDump) - Sunless Skies data export/import tool
 - [microsoft/scalar](https://github.com/microsoft/scalar) - Scalar: A set of tools and extensions for Git to allow very large monorepos to run on Git without a virtualization layer
 - [files-community/Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
 - [WolvenKit/CP77Tools](https://github.com/WolvenKit/CP77Tools) - Cyberpunk2077 archive modding tools.
@@ -1125,7 +1128,6 @@
 - [a2flo/floor](https://github.com/a2flo/floor) - A C++ Compute/Graphics Library and Toolchain enabling same-source CUDA/Host/Metal/OpenCL/Vulkan C++ programming and execution.
 - [spevans/swift-kstdlib](https://github.com/spevans/swift-kstdlib) - Fork of apple/swift with modifications to the stdlib to use in a bare metal kernel for use with swift-project1
 - [microsoft/BlingFire](https://github.com/microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
-- [KevinOConnor/klipper](https://github.com/KevinOConnor/klipper) - Klipper is a 3d-printer firmware
 - [lsegal/my_toy_compiler](https://github.com/lsegal/my_toy_compiler) - My Toy Compiler. Read about how I did it at the homepage URL
 - [jonathan-beard/simple_wc_example](https://github.com/jonathan-beard/simple_wc_example) - simple word count example using flex/bison parser
 - [emaculation/macemu](https://github.com/emaculation/macemu) - Basilisk II and SheepShaver Macintosh emulators, maintained
@@ -1139,7 +1141,6 @@
 - [visualfc/liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [facebookincubator/spectrum](https://github.com/facebookincubator/spectrum) - A client-side image transcoding library.
 - [FoundationDB/fdb-document-layer](https://github.com/FoundationDB/fdb-document-layer) - A document data model on FoundationDB, implementing MongoDB® wire protocol
-- [open-power/hostboot](https://github.com/open-power/hostboot) - System initialization firmware for Power systems
 - [google/draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
 - [TwoLivesLeft/Codea-Runtime](https://github.com/TwoLivesLeft/Codea-Runtime) - Codea Runtime Library for iPad by Two Lives Left
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
@@ -1313,7 +1314,6 @@
 - [rexdex/recompiler](https://github.com/rexdex/recompiler) - Xbox360 -&gt; Windows executable converter
 - [github-for-unity/sfw](https://github.com/github-for-unity/sfw) - A super fast and scaleable file watcher that provides a consistent interface on Linux, OSX and Windows
 - [Axosoft/nsfw](https://github.com/Axosoft/nsfw) - A super fast and scaleable file watcher that provides a consistent interface on Linux, OSX and Windows
-- [ARMmbed/mbed-os](https://github.com/ARMmbed/mbed-os) - Arm Mbed OS is a platform operating system designed for the internet of things
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [gonum/netlib](https://github.com/gonum/netlib) - netlib contains C wrappers for netlib code in particular BLAS and LAPACK
 - [nokiatech/heif](https://github.com/nokiatech/heif) - High Efficiency Image File Format
@@ -3761,7 +3761,7 @@
 - [nickdowell/xliff-editor-osx](https://github.com/nickdowell/xliff-editor-osx) - XLIFF Editor for Mac OS X
 - [linkedin/LayoutTest-iOS](https://github.com/linkedin/LayoutTest-iOS) - Write unit tests which test the layout of a view in multiple configurations
 - [ios-control/ios-deploy](https://github.com/ios-control/ios-deploy) - Install and debug iPhone apps from the command line, without using Xcode
-- [linkedin/bluepill](https://github.com/linkedin/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
+- [MobileNativeFoundation/bluepill](https://github.com/MobileNativeFoundation/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
 - [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) - An in-app debugging and exploration tool for iOS
 - [hamzasood/pam_touchid](https://github.com/hamzasood/pam_touchid) - A PAM module for authentication with Touch ID
 - [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
@@ -6045,7 +6045,7 @@
 
 ## Rust 
 
-- [PaddiM8/kalk](https://github.com/PaddiM8/kalk) - A calculator/expression evaluator written in rust that supports variables and functions.
+- [PaddiM8/kalker](https://github.com/PaddiM8/kalker) - Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [charsyam/hashids_rust](https://github.com/charsyam/hashids_rust) - rust hashids implements
@@ -8073,7 +8073,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative.
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [ThaumRystra/DiceCloud](https://github.com/ThaumRystra/DiceCloud) - D&D 5e digital character manager
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
