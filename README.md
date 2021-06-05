@@ -123,6 +123,7 @@
   - [WebAssembly](#webassembly)
   - [XSLT](#xslt)
   - [YARA](#yara)
+  - [YASnippet](#yasnippet)
   - [Yacc](#yacc)
   - [ZAP](#zap)
   - [ZIL](#zil)
@@ -2240,7 +2241,6 @@
 - [COVID19StatePolicy/SocialDistancing](https://github.com/COVID19StatePolicy/SocialDistancing) - 
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [haukex/webperl](https://github.com/haukex/webperl) - Run Perl in the browser with WebPerl!
-- [yitang/.emacs.d](https://github.com/yitang/.emacs.d) - Emacs configuration
 - [gluster/glusterdocs](https://github.com/gluster/glusterdocs) - This repo contains the source of official Gluster documentation rendered at https://docs.gluster.org
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [opendocs/texme](https://github.com/opendocs/texme) - TeXMe documentation and examples
@@ -2902,7 +2902,6 @@
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [alexwforsythe/code-blocks](https://github.com/alexwforsythe/code-blocks) - Syntax highlighting for Google Docs
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture
 - [lightning-viz/lightning](https://github.com/lightning-viz/lightning) - Data Visualization Server
 - [PlanetAPL/node-apl](https://github.com/PlanetAPL/node-apl) - An ancient programming language adapted to a JavaScript-dominated world
 - [vigetlabs/blendid](https://github.com/vigetlabs/blendid) - A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder
@@ -3625,7 +3624,7 @@
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [evansm7/vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
 - [seemoo-lab/airdrop-keychain-extractor](https://github.com/seemoo-lab/airdrop-keychain-extractor) - Extracting Apple ID Validation Record, Certificate, and Key for AirDrop
-- [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) - The official Sentry SDK for iOS, tvOS, macOS, watchOS
+- [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) - The official Sentry SDK for iOS, tvOS, macOS, watchOS.
 - [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [plaid/plaid-link-ios](https://github.com/plaid/plaid-link-ios) - Plaid Link iOS SDK
 - [v002/v002-Camera-Live](https://github.com/v002/v002-Camera-Live) - Live Syphon Camera
@@ -4697,6 +4696,7 @@
 
 ## PHP 
 
+- [wordplate/wordplate](https://github.com/wordplate/wordplate) - WordPlate is a wrapper around WordPress. It makes developers life easier. It is just like building any other WordPress website with themes and plugins. Just with sprinkles on top.
 - [twilio/twilio-php](https://github.com/twilio/twilio-php) - A PHP library for communicating with the Twilio REST API and generating TwiML.
 - [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
 - [RaymiiOrg/certificate-expiry-monitor](https://github.com/RaymiiOrg/certificate-expiry-monitor) - https://certificatemonitor.org
@@ -5906,7 +5906,7 @@
 - [chriswailes/RLTK](https://github.com/chriswailes/RLTK) - The Ruby Language Toolkit
 - [sumoheavy/jira-ruby](https://github.com/sumoheavy/jira-ruby) - A Ruby gem for the JIRA REST API
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
-- [erikhuda/thor](https://github.com/erikhuda/thor) - Thor is a toolkit for building powerful command-line interfaces.
+- [rails/thor](https://github.com/rails/thor) - Thor is a toolkit for building powerful command-line interfaces.
 - [davetron5000/gli](https://github.com/davetron5000/gli) - Make awesome command-line applications the easy way
 - [commander-rb/commander](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables
 - [geminabox/geminabox](https://github.com/geminabox/geminabox) - Really simple rubygem hosting
@@ -6149,6 +6149,7 @@
 - [tessi/rpiet](https://github.com/tessi/rpiet) - The Piet interpreter written in Rust 🖼
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [kryptco/ssh-wire](https://github.com/kryptco/ssh-wire) - 
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust
 - [samuela/rustybox](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust 🦀
@@ -7769,6 +7770,7 @@
 
 ## TeX 
 
+- [clever-algorithms/CleverAlgorithms](https://github.com/clever-algorithms/CleverAlgorithms) - Clever Algorithms: Nature-Inspired Programming Recipes
 - [patmorin/ods](https://github.com/patmorin/ods) - Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [sswatson/julia-in-tex](https://github.com/sswatson/julia-in-tex) - My setup for running Julia code inside a TeX document
@@ -7931,6 +7933,7 @@
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [phosphorjs/phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
 - [ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [davidtheclark/cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module
@@ -8088,7 +8091,6 @@
 
 ## WebAssembly 
 
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - Definitely not a TypeScript to WebAssembly compiler 🚀
 - [WebAssembly/spec](https://github.com/WebAssembly/spec) - WebAssembly specification, reference interpreter, and test suite.
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly
@@ -8101,6 +8103,10 @@
 ## YARA 
 
 - [rednaga/APKiD](https://github.com/rednaga/APKiD) - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
+
+## YASnippet 
+
+- [yitang/.emacs.d](https://github.com/yitang/.emacs.d) - Emacs configuration
 
 ## Yacc 
 
