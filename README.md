@@ -455,7 +455,6 @@
 - [jarun/binprint](https://github.com/jarun/binprint) - ... because printf doesn't show the binary representation of a number
 - [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [srg320/FpgaSnes](https://github.com/srg320/FpgaSnes) - SNES FPGA Emulator
 - [bztsrc/raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial) - Bare metal Raspberry Pi 3 tutorials
 - [ldthomas/apg-6.3](https://github.com/ldthomas/apg-6.3) - APG - ABNF Parser Generator, generates recursive-descent parsers from ABNF grammars.
@@ -562,6 +561,7 @@
 - [open-power/snap](https://github.com/open-power/snap) - CAPI SNAP Framework Hardware and Software
 - [open-power/petitboot](https://github.com/open-power/petitboot) - 
 - [coreboot/coreboot](https://github.com/coreboot/coreboot) - Mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
+- [intel/FSP](https://github.com/intel/FSP) - Intel(R) Firmware Support Package (FSP)
 - [pmattes/x3270](https://github.com/pmattes/x3270) - Family of IBM 3270 emulators
 - [xboot/xboot](https://github.com/xboot/xboot) - The extensible bootloader for embedded system with application engine, write once, run everywhere.
 - [icetee/pv](https://github.com/icetee/pv) - Pipe Viewer Mirror - 1.6
@@ -2566,6 +2566,8 @@
 
 ## JavaScript 
 
+- [TeaWithLucas/DNDBeyond-DM-Screen](https://github.com/TeaWithLucas/DNDBeyond-DM-Screen) - The script aims to provide a simple DM screen by displaying handy stats and info on the campaign screen.
+- [crobi/rpg-cards](https://github.com/crobi/rpg-cards) - RPG spell/item/monster card generator
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [pidtuner/pidtuner.github.io](https://github.com/pidtuner/pidtuner.github.io) - Free PID Controller gains tuning tool
 - [TheGiddyLimit/TheGiddyLimit.github.io](https://github.com/TheGiddyLimit/TheGiddyLimit.github.io) - A site dedicated to making playing games with your friends as easy as possible.
@@ -3692,7 +3694,6 @@
 - [biscuitehh/MarzipanPlatter](https://github.com/biscuitehh/MarzipanPlatter) - UIKit + macOS
 - [objective-see/DoNotDisturb](https://github.com/objective-see/DoNotDisturb) - Detect Evil Maid Attacks
 - [objective-see/ProcInfo](https://github.com/objective-see/ProcInfo) - process info/monitoring library for macOS
-- [intel/FSP](https://github.com/intel/FSP) - Intel(R) Firmware Support Package (FSP)
 - [colloquy/colloquy](https://github.com/colloquy/colloquy) - Colloquy is an advanced IRC, SILC & ICB client for macOS and iOS!
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native Mac applications from command line scripts.
 - [dustinrue/ControlPlane](https://github.com/dustinrue/ControlPlane) - ControlPlane - context-sensitive computing for OS X
@@ -6188,7 +6189,7 @@
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [bolinfest/opensnoop-native](https://github.com/bolinfest/opensnoop-native) - opensnoop in pure C using eBPF
 - [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - A low-overhead Vulkan-like GPU API for Rust.
-- [jedisct1/doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust (doh-proxy).
+- [jedisct1/doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
 - [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 - [saurvs/hypervisor-rs](https://github.com/saurvs/hypervisor-rs) - Rust API to the OS X Hypervisor framework for hardware-accelerated virtualization
 - [hermitcore/libhermit-rs](https://github.com/hermitcore/libhermit-rs) - libhermit-rs: A Rust-based library operating system
@@ -7074,6 +7075,7 @@
 - [Ether-CLI/Ether](https://github.com/Ether-CLI/Ether) - A Command-Line Interface for the Swift Package Manager
 - [uber/needle](https://github.com/uber/needle) - Compile-time safe Swift dependency injection framework
 - [pvieito/PythonKit](https://github.com/pvieito/PythonKit) - Swift framework to interact with Python.
+- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [llvm-swift/ClangSwift](https://github.com/llvm-swift/ClangSwift) - A Swift wrapper for the libclang C API (version 4.0.x)
 - [evgenyneu/SigmaSwiftStatistics](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation written in Swift.
 - [sunshinejr/SwiftyUserDefaults](https://github.com/sunshinejr/SwiftyUserDefaults) - Modern Swift API for NSUserDefaults
@@ -7284,7 +7286,7 @@
 - [ethanal/Nimbus](https://github.com/ethanal/Nimbus) - Not maintained. A private file sharer and URL shortener (like Cloudapp and TinyURL).
 - [caiyue1993/IceCream](https://github.com/caiyue1993/IceCream) - Sync Realm Database with CloudKit
 - [TheSwiftAlps/SwiftARlps](https://github.com/TheSwiftAlps/SwiftARlps) - Fun with ARKit, sorry for the bad pun 🤭
-- [airbnb/Lona](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
+- [Lona/Lona](https://github.com/Lona/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
 - [mkchoi212/CircularCrownSelector](https://github.com/mkchoi212/CircularCrownSelector) - watchOS UI for a circular selection menu
 - [agens-no/EllipticCurveKeyPair](https://github.com/agens-no/EllipticCurveKeyPair) - Sign, verify, encrypt and decrypt using the Secure Enclave
 - [KrauseFx/MajorKey](https://github.com/KrauseFx/MajorKey) - The fastest iOS app to add a note to your email inbox
