@@ -6560,6 +6560,7 @@
 
 ## Swift 
 
+- [mchakravarty/CodeEditorView](https://github.com/mchakravarty/CodeEditorView) - SwiftUI code editor view for iOS and macOS
 - [circt/MLIRSwift](https://github.com/circt/MLIRSwift) - MLIR Bindings for Swift
 - [circt/Edith](https://github.com/circt/Edith) - Electronic Design in Swithft
 - [jameshurst/Transmission-Swift](https://github.com/jameshurst/Transmission-Swift) - A Combine powered Transmission RPC API client.
