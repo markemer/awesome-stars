@@ -5040,7 +5040,6 @@
 - [openbmc/openbmc-tools](https://github.com/openbmc/openbmc-tools) - Collection of useful tools to interact with openbmc
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [Backblaze/b2-sdk-python](https://github.com/Backblaze/b2-sdk-python) - Python library to access B2 cloud storage.
-- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [jgehrcke/goeffel](https://github.com/jgehrcke/goeffel) - A tool for measuring the resource utilization of a specific process over time
 - [usb-tools/Facedancer](https://github.com/usb-tools/Facedancer) - modern FaceDancer core for multiple devices-- including GreatFET
 - [rndusr/torf](https://github.com/rndusr/torf) - Python module to create, parse and edit torrent files and magnet links
@@ -6341,6 +6340,7 @@
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [geoffeg/opiterm](https://github.com/geoffeg/opiterm) - 1Password integration for iTerm2
 - [NSHipster/xcderiveddata](https://github.com/NSHipster/xcderiveddata) - A command-line utility that prints the path of the derived data directory for the current Xcode project
+- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [fieldnotescommunities/ios-device-identifiers](https://github.com/fieldnotescommunities/ios-device-identifiers) - 
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [chinmaygarde/raspberrypi_cross_compilation_sdk](https://github.com/chinmaygarde/raspberrypi_cross_compilation_sdk) - A GN Cross Compilation Buildroot (for targets like the Raspberry Pi)
@@ -7854,7 +7854,7 @@
 - [matthewpi/vscode-caddyfile-support](https://github.com/matthewpi/vscode-caddyfile-support) - Rich Caddyfile support for Visual Studio Code
 - [vknabel/vscode-swift-development-environment](https://github.com/vknabel/vscode-swift-development-environment) - New home of Swift Development Environment for VS Code
 - [OpenCircuits/FSS](https://github.com/OpenCircuits/FSS) - Finite State Simulator
-- [OpenCircuits/OpenCircuits](https://github.com/OpenCircuits/OpenCircuits) - An open source circuit designer.
+- [OpenCircuits/OpenCircuits](https://github.com/OpenCircuits/OpenCircuits) - A free, open source, online digital circuit/logic designer.
 - [actions-rs/audit-check](https://github.com/actions-rs/audit-check) - 🛡️ GitHub Action for security audits
 - [Lona/vscode-github-actions](https://github.com/Lona/vscode-github-actions) - VSCode extension providing Github Actions YAML support.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
