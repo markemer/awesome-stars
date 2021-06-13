@@ -44,6 +44,7 @@
   - [Groovy](#groovy)
   - [HCL](#hcl)
   - [HTML](#html)
+  - [Hack](#hack)
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
@@ -2102,7 +2103,7 @@
 - [thenrich/rooms](https://github.com/thenrich/rooms) - Ephemeral conference rooms powered by Twilio and Google App Engine
 - [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
-- [kashav/fsql](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
+- [kashav/fsql](https://github.com/kashav/fsql) - Find files with SQL
 - [schollz/find-lf](https://github.com/schollz/find-lf) - Track the location of every Wi-Fi device (:iphone:) in your house using Raspberry Pis and FIND
 - [docker-archive/deploykit](https://github.com/docker-archive/deploykit) - A toolkit for creating and managing declarative, self-healing infrastructure.
 - [bradfitz/campher](https://github.com/bradfitz/campher) - Embed Perl in Go. This works, but was a joke for a presentation. Don't use.
@@ -2302,7 +2303,6 @@
 - [broccolini/athena](https://github.com/broccolini/athena) - A simple and elegant theme for Jekyll and GitHub Pages.
 - [GSA/data](https://github.com/GSA/data) - Assorted data from the General Services Administration.
 - [mariechatfield/call-my-congress](https://github.com/mariechatfield/call-my-congress) - DEPRECATED. Simple app that displays contact information for US Congress representatives by district.
-- [wincent/masochist](https://github.com/wincent/masochist) - ⛓ Website infrastructure for over-engineers
 - [ft-interactive/chart-doctor](https://github.com/ft-interactive/chart-doctor) - Sample files to accompany the FT's Chart Doctor column
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [guildai/_guild-legacy](https://github.com/guildai/_guild-legacy) - Legacy code for Guild's original implementation in Erlang
@@ -2373,6 +2373,10 @@
 - [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://beautifulwebtype.com
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [sikuli/sikuli](https://github.com/sikuli/sikuli) - Sikuli's official repository on github. Ask questions or report bugs at http://launchpad.net/sikuli.
+
+## Hack 
+
+- [wincent/masochist](https://github.com/wincent/masochist) - ⛓ Website infrastructure for over-engineers
 
 ## Handlebars 
 
@@ -3709,7 +3713,7 @@
 - [ddeville/spillo-sharing-sdk](https://github.com/ddeville/spillo-sharing-sdk) - The SDK to create a Sharing Service for Spillo
 - [Mathpix/ios-client](https://github.com/Mathpix/ios-client) - iOS Mathpix API client, installable via cocoapods.
 - [richardjrossiii/mach_override_example](https://github.com/richardjrossiii/mach_override_example) - An example using of mach_override on iOS to hook the Objective-C runtime.
-- [vicc/Chameleon](https://github.com/vicc/Chameleon) - Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more).
+- [vicc/chameleon](https://github.com/vicc/chameleon) - Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more).
 - [jeffhodnett/Unused](https://github.com/jeffhodnett/Unused) - A Mac app for checking Xcode projects for unused resources
 - [jcavar/xcfui](https://github.com/jcavar/xcfui) - Xcode plugin for fui tool
 - [josh-/TodayFlights](https://github.com/josh-/TodayFlights) - TodayFlights is a Notification Center widget that allows you to track flights using the 'FlightUtilities' macOS system framework.
