@@ -211,6 +211,7 @@
 
 ## C 
 
+- [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 - [d00telemental/LEBinkProxy](https://github.com/d00telemental/LEBinkProxy) - A small multi-functional proxy DLL for all the four apps in Mass Effect Legendary Edition. Enables dev. console, loads native plugins, adds a command line switch for the Launcher to boot directly into one of the games.
 - [skeeto/hastyhex](https://github.com/skeeto/hastyhex) - A blazing fast hex dumper
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
@@ -1773,6 +1774,7 @@
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
+- [tongson/LadyLua](https://github.com/tongson/LadyLua) - Single executable(static), batteries included, Lua 5.1 interpreter.
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [billziss-gh/hubfs](https://github.com/billziss-gh/hubfs) - File system for GitHub
 - [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
@@ -3480,7 +3482,6 @@
 
 ## Lua 
 
-- [tongson/LadyLua](https://github.com/tongson/LadyLua) - Single executable(static), batteries included, Lua 5.1 interpreter.
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [WolvenKit/BraindanceProtocol](https://github.com/WolvenKit/BraindanceProtocol) - A GUI to modify your Cyberpunk 2077 experience
 - [civfanatics/Civ6-UIFiles-Restructured](https://github.com/civfanatics/Civ6-UIFiles-Restructured) - 
