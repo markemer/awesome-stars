@@ -2231,7 +2231,6 @@
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [openvizsla/ov_ftdi](https://github.com/openvizsla/ov_ftdi) - FT2232H-based USB sniffer
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
-- [unsignedapps/Vexil](https://github.com/unsignedapps/Vexil) - Vexil (named for Vexillology) is a Swift package for managing feature flags (also called feature toggles) in a flexible, multi-provider way.
 - [Umbyology/OGL-SRD5](https://github.com/Umbyology/OGL-SRD5) - D&D 5E SRD converted line-by-line to Markdown and many other publishing formats.
 - [TheEconomist/us-potus-model](https://github.com/TheEconomist/us-potus-model) - Code for a dynamic multilevel Bayesian model to predict US presidential elections. Written in R and Stan.
 - [insidegui/wwdc.io](https://github.com/insidegui/wwdc.io) - The official website for the unofficial WWDC app for macOS 🤓 ❤️
@@ -4583,7 +4582,7 @@
 - [grugq/portal](https://github.com/grugq/portal) - Personal Onion Router To Assure Liberty
 - [komar007/gh60](https://github.com/komar007/gh60) - GH60 - an open-source mechanical keyboard PCB designed for the community at geekhack.org
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟Curated design resources
+- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 - [slackhq/slack-api-docs](https://github.com/slackhq/slack-api-docs) - API Docs for Slack.com
@@ -6712,6 +6711,7 @@
 - [viktorstrate/swift-tree-sitter](https://github.com/viktorstrate/swift-tree-sitter) - Swift bindings for the tree-sitter parsing library
 - [RoaringBitmap/SwiftRoaring](https://github.com/RoaringBitmap/SwiftRoaring) - A better compressed bitset in Swift http://roaringbitmap.org/
 - [1024jp/GzipSwift](https://github.com/1024jp/GzipSwift) - Swift framework that enables gzip/gunzip Data using zlib
+- [unsignedapps/Vexil](https://github.com/unsignedapps/Vexil) - Vexil (named for Vexillology) is a Swift package for managing feature flags (also called feature toggles) in a flexible, multi-provider way.
 - [wingateep/GameOfLife](https://github.com/wingateep/GameOfLife) - 
 - [KhaosT/SimpleVM](https://github.com/KhaosT/SimpleVM) - Sample code for Virtualization framework
 - [erickjung/SwiftGUI](https://github.com/erickjung/SwiftGUI) - SwiftGUI is an API inspired by SwiftUI DSL, using Dear ImGui as renderer and running on macOS 10.13+ and iOS 11+
