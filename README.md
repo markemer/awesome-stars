@@ -863,7 +863,7 @@
 
 ## C# # 
 
-- [ME3Tweaks/ME3Explorer](https://github.com/ME3Tweaks/ME3Explorer) - Bleeding edge modding toolkit for the Mass Effect Trilogy, and the only actively developed version of the toolset
+- [ME3Tweaks/LegendaryExplorer](https://github.com/ME3Tweaks/LegendaryExplorer) - Bleeding edge modding toolkit for the Mass Effect Trilogy, and the only actively developed version of the toolset
 - [akintos/SkylessDump](https://github.com/akintos/SkylessDump) - Sunless Skies data export/import tool
 - [microsoft/scalar](https://github.com/microsoft/scalar) - Scalar: A set of tools and extensions for Git to allow very large monorepos to run on Git without a virtualization layer
 - [files-community/Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
@@ -1510,6 +1510,7 @@
 
 ## CSS 
 
+- [Automattic/_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
 - [adobe-fonts/source-serif](https://github.com/adobe-fonts/source-serif) - Typeface for setting text in many sizes, weights, and languages. Designed to complement Source Sans.
 - [OfficerHalf/homebrewery-vscode](https://github.com/OfficerHalf/homebrewery-vscode) - Adding 5e Homebrewery markdown formatting to Visual Studio Code's markdown preview
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
@@ -2481,6 +2482,7 @@
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 - [simon987/Much-Assembly-Required](https://github.com/simon987/Much-Assembly-Required) - Assembly programming game
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
+- [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [ME3Tweaks/ME3ModManager](https://github.com/ME3Tweaks/ME3ModManager) - Legacy mod manager for Mass Effect 3 (superceded by ME3Tweaks Mod Manager)
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [square/keywhiz](https://github.com/square/keywhiz) - A system for distributing and managing secrets
@@ -5411,7 +5413,7 @@
 - [dask/s3fs](https://github.com/dask/s3fs) - S3 Filesystem
 - [kpreid/shinysdr](https://github.com/kpreid/shinysdr) - Software-defined radio receiver application built on GNU Radio with a web-based UI and plugins. In development, usable but incomplete. Compatible with RTL-SDR.
 - [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
-- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: browser-independent bookmark manager
 - [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [matejak/imreg_dft](https://github.com/matejak/imreg_dft) - Image registration using discrete Fourier transform.
 - [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
@@ -6296,6 +6298,7 @@
 
 ## Shell 
 
+- [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [seemoo-lab/mobisys2018_nexmon_software_defined_radio](https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio) - Proof of concept project for operating Broadcom Wi-Fi chips as arbitrary signal transmitters similar to software-defined radios (SDRs)
 - [SteamDatabase/Protobufs](https://github.com/SteamDatabase/Protobufs) - 👑 Automatically tracked Steam, CS:GO, Dota 2, Artifact, Underlords and TF2 protobufs.
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
@@ -7317,7 +7320,6 @@
 - [Kitura/KituraKit](https://github.com/Kitura/KituraKit) - Swift client library for using Codable routes with Kitura
 - [Kitura/KituraContracts](https://github.com/Kitura/KituraContracts) - A library containing type definitions shared by client and server Kitura code.
 - [intere/UITestKit](https://github.com/intere/UITestKit) - Programmatic UI Tests (not using the Apple UI Test Framework).  XCTest-based tests.
-- [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [JohnSundell/Xgen](https://github.com/JohnSundell/Xgen) - A Swift package for generating Xcode workspaces & playgrounds
 - [trivago/Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS, written in Swift.
 - [blueapron/Mandoline](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your "picking" needs
