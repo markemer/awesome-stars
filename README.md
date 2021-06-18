@@ -211,6 +211,7 @@
 
 ## C 
 
+- [electronicarts/MELE_ModdingSupport](https://github.com/electronicarts/MELE_ModdingSupport) - 
 - [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 - [d00telemental/LEBinkProxy](https://github.com/d00telemental/LEBinkProxy) - A small multi-functional proxy DLL for all the four apps in Mass Effect Legendary Edition. Enables dev. console, loads native plugins, adds a command line switch for the Launcher to boot directly into one of the games.
 - [skeeto/hastyhex](https://github.com/skeeto/hastyhex) - A blazing fast hex dumper
@@ -262,7 +263,6 @@
 - [QB64Team/qb64](https://github.com/QB64Team/qb64) - BASIC for the modern era.
 - [k06a/Cliple](https://github.com/k06a/Cliple) - Simple clipboard manage app for Mac OS X
 - [MalphasWats/hawk](https://github.com/MalphasWats/hawk) - Tutorial for making an ARM dev board in KiCAD
-- [adam-fowler/mqtt-nio](https://github.com/adam-fowler/mqtt-nio) - A Swift NIO MQTT 3.1.1 Client
 - [Infineon/optiga-trust-m](https://github.com/Infineon/optiga-trust-m) - OPTIGA™ Trust M Software Framework
 - [jhelvy/qmkJsonConverter](https://github.com/jhelvy/qmkJsonConverter) - R code to convert the .json file from the QMK configurator into a keymap.c file
 - [minosproject/minos](https://github.com/minosproject/minos) - Microkernel RTOS with SMP and Virtualization support for ARMv8-A
@@ -378,7 +378,6 @@
 - [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
 - [adafruit/Adafruit_nRF52_Bootloader](https://github.com/adafruit/Adafruit_nRF52_Bootloader) - USB-enabled bootloaders for the nRF52 BLE SoC chips
 - [gregfjohnson/aplette](https://github.com/gregfjohnson/aplette) - This is a new take on an old language:  APL.  The goal is to pare APL down to its elegant essence.  This version of APL is oriented toward scripting within a Unix-style computing environment.
-- [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [nRFMesh/nRF52_Mesh](https://github.com/nRFMesh/nRF52_Mesh) - nRF52 custom RF mesh sensors and dongle firmware using nRF SDK
 - [wbenny/ia32-doc](https://github.com/wbenny/ia32-doc) - IA32-doc is a project which aims to put as many definitions from the Intel Manual into machine-processable format as possible
@@ -1091,6 +1090,7 @@
 - [openthread/wpantund](https://github.com/openthread/wpantund) - Wireless Network Interface Daemon for Low-Power Wireless SoCs
 - [kfrlib/kfr](https://github.com/kfrlib/kfr) - Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON)
 - [Croteam-official/Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
+- [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [percona/PerconaFT](https://github.com/percona/PerconaFT) - PerconaFT is a high-performance, transactional key-value store
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor) - A collection of out-of-tree LLVM passes for teaching and learning
@@ -2949,7 +2949,6 @@
 - [netlify/headlesscms.org](https://github.com/netlify/headlesscms.org) - Source for headlesscms.org
 - [SSLMate/caa_helper](https://github.com/SSLMate/caa_helper) - Generate a CAA policy
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
-- [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [atom/electron-link](https://github.com/atom/electron-link) - A module to bundle your electron app into a single file that can be used for V8 snapshots.
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
@@ -3498,7 +3497,7 @@
 - [auto-ssl/lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
 - [premek/pink](https://github.com/premek/pink) - An attempt to implement a subset of ink in lpeg (very minimal / buggy)
 - [Hammerspoon/Spoons](https://github.com/Hammerspoon/Spoons) - The official repository of Spoon plugins
-- [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A simple, embedabble CLI debugger for Lua.
+- [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .c)
 - [CommandPost/CommandPost](https://github.com/CommandPost/CommandPost) - Workflow Enhancements for Creatives
 - [openresty/opm](https://github.com/openresty/opm) - OpenResty Package Manager
 - [pandoc/lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
@@ -4871,6 +4870,7 @@
 
 ## Python 
 
+- [willmcgugan/textual](https://github.com/willmcgugan/textual) - A Text User Interface with Rich as the renderer
 - [CriticMarkup/CriticMarkup-toolkit](https://github.com/CriticMarkup/CriticMarkup-toolkit) - Various tools to use CriticMarkup in your daily workflow
 - [Lyrositor/fallen_london_chronicler](https://github.com/Lyrositor/fallen_london_chronicler) - A tool for recording and exporting Fallen London content.
 - [n0stalghia/Sunless_Skies_Save_Editor](https://github.com/n0stalghia/Sunless_Skies_Save_Editor) - Python-based save editor for Sunless Skies
@@ -5144,7 +5144,7 @@
 - [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [ezaquarii/vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole
-- [jarun/imgp](https://github.com/jarun/imgp) - :camera_flash: High-performance cli batch image resizer and rotator
+- [jarun/imgp](https://github.com/jarun/imgp) - :camera_flash: Fast batch image resizer and rotator
 - [bbc/brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud
 - [freeipa/freeipa](https://github.com/freeipa/freeipa) - Mirror of FreeIPA, an integrated security information management solution
 - [facebook/fbkutils](https://github.com/facebook/fbkutils) - A variety of utilities built and maintained by Facebook's Linux Kernel Team that we wish to share with the community.
@@ -5413,7 +5413,7 @@
 - [dask/s3fs](https://github.com/dask/s3fs) - S3 Filesystem
 - [kpreid/shinysdr](https://github.com/kpreid/shinysdr) - Software-defined radio receiver application built on GNU Radio with a web-based UI and plugins. In development, usable but incomplete. Compatible with RTL-SDR.
 - [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
-- [jarun/buku](https://github.com/jarun/buku) - :bookmark: browser-independent bookmark manager
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [matejak/imreg_dft](https://github.com/matejak/imreg_dft) - Image registration using discrete Fourier transform.
 - [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
@@ -6055,6 +6055,7 @@
 
 ## Rust 
 
+- [lukaslueg/macro_railroad](https://github.com/lukaslueg/macro_railroad) - A library to generate syntax diagrams for Rust macros.
 - [KarlitosVII/trilogy-save-editor](https://github.com/KarlitosVII/trilogy-save-editor) - A save editor for Mass Effect Trilogy (and Legendary)
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
 - [PaddiM8/kalker](https://github.com/PaddiM8/kalker) - Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
@@ -6662,6 +6663,7 @@
 - [cx-org/CombineX](https://github.com/cx-org/CombineX) - Open source implementation for Apple's Combine
 - [rsyncOSX/rcloneosx](https://github.com/rsyncOSX/rcloneosx) - A macOS GUI for rclone
 - [dlvm-team/dlvm-core](https://github.com/dlvm-team/dlvm-core) - 
+- [adam-fowler/mqtt-nio](https://github.com/adam-fowler/mqtt-nio) - A Swift NIO MQTT 3.1.1 Client
 - [dduan/Markra](https://github.com/dduan/Markra) - An open-source Markdown-to-JIRA syntax editor written in SwiftUI for macOS
 - [AvdLee/CustomSwiftOperators](https://github.com/AvdLee/CustomSwiftOperators) - Demonstrating custom Swift operators. Including prefix, postfix, infix, and compound assignment operators.
 - [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) - SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
@@ -6900,7 +6902,7 @@
 - [swift-embedded/swift-embedded](https://github.com/swift-embedded/swift-embedded) - Swift for Embedded Systems ✨
 - [parski/SnapshotTest](https://github.com/parski/SnapshotTest) - Snapshot testing tool for iOS and tvOS
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
-- [Iterable/swift-sdk](https://github.com/Iterable/swift-sdk) - Official Iterable iOS SDK
+- [Iterable/swift-sdk](https://github.com/Iterable/swift-sdk) - Iterable's iOS SDK. Receive and track pushes to Iterable from your iOS app.
 - [ChargePoint/xcparse](https://github.com/ChargePoint/xcparse) - Command line tool & Swift framework for parsing Xcode 11+ xcresult
 - [Ahmadalsofi/SOTabBar](https://github.com/Ahmadalsofi/SOTabBar) - Light way to add Fancy bottom bar 📲
 - [wireapp/wire-ios](https://github.com/wireapp/wire-ios) - 📱 Wire for iOS (iPhone and iPad)
@@ -7954,6 +7956,7 @@
 - [davidtheclark/cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [ilcato/homebridge-ifttt](https://github.com/ilcato/homebridge-ifttt) - Homebridge plugin for IFTTT Maker channel
+- [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [1backend/1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
