@@ -270,6 +270,7 @@
 - [ARMmbed/DAPLink](https://github.com/ARMmbed/DAPLink) - 
 - [saintmarina/undelete_jpg](https://github.com/saintmarina/undelete_jpg) - Recovers JPG images from SD cards and hard drives.
 - [Jan--Henrik/EF-S-Adapter](https://github.com/Jan--Henrik/EF-S-Adapter) - https://twitter.com/JanHenrikH/status/1317520812761546753
+- [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [system76/ec](https://github.com/system76/ec) - System76 Open Source Embedded Controller
 - [cocoahuke/coBlue](https://github.com/cocoahuke/coBlue) - Use Bluetooth Low Energy for remote commands, file transfer, Based on bluez Bluetooth protocol stack (BLE Terminal)
 - [devanlai/dap42](https://github.com/devanlai/dap42) - CMSIS-DAP debugger firmware for STM32F042Fx and STM32F103xx
@@ -2247,7 +2248,6 @@
 - [haukex/webperl](https://github.com/haukex/webperl) - Run Perl in the browser with WebPerl!
 - [gluster/glusterdocs](https://github.com/gluster/glusterdocs) - This repo contains the source of official Gluster documentation rendered at https://docs.gluster.org
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
-- [opendocs/texme](https://github.com/opendocs/texme) - TeXMe documentation and examples
 - [laforest/FPGADesignElements](https://github.com/laforest/FPGADesignElements) - A self-contained online book containing a library of FPGA design modules and related coding/design guides.
 - [Digi-Key/digikey-partner-kicad-library](https://github.com/Digi-Key/digikey-partner-kicad-library) - 
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
@@ -2954,7 +2954,6 @@
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [Granjow/graphs-with-javascript](https://github.com/Granjow/graphs-with-javascript) - node.js module teaching some basics about graphs
 - [nationalparkservice/data](https://github.com/nationalparkservice/data) - An unofficial repository of National Park Service data.
-- [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format
 - [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A repository of global open address data.
 - [h5bp/html5boilerplate.com](https://github.com/h5bp/html5boilerplate.com) - Files for the HTML5 Boilerplate website.
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
@@ -3632,7 +3631,6 @@
 - [evansm7/vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
 - [seemoo-lab/airdrop-keychain-extractor](https://github.com/seemoo-lab/airdrop-keychain-extractor) - Extracting Apple ID Validation Record, Certificate, and Key for AirDrop
 - [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) - The official Sentry SDK for iOS, tvOS, macOS, watchOS.
-- [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [plaid/plaid-link-ios](https://github.com/plaid/plaid-link-ios) - Plaid Link iOS SDK
 - [v002/v002-Camera-Live](https://github.com/v002/v002-Camera-Live) - Live Syphon Camera
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
@@ -4496,6 +4494,7 @@
 - [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Cool links & research papers related to Machine Learning applied to source code (MLonCode)
 - [beamandrew/medical-data](https://github.com/beamandrew/medical-data) - 
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
+- [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format
 - [drewrwilson/toolsforactivism](https://github.com/drewrwilson/toolsforactivism) - growing list of digital tools for activism things
 - [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins
 - [eugeneching/ida-consonance](https://github.com/eugeneching/ida-consonance) - Consonance, a dark color scheme for IDA.
