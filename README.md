@@ -3969,7 +3969,6 @@
 - [steipete/PSPDFTextView](https://github.com/steipete/PSPDFTextView) - A subclass of UITextView that fixes the most glaring problems from iOS 7 and 7.1.
 - [iwasrobbed/RPFloatingPlaceholders](https://github.com/iwasrobbed/RPFloatingPlaceholders) - UITextField and UITextView subclasses with placeholders that change into floating labels when the fields are populated with text.
 - [mdiep/MMMarkdown](https://github.com/mdiep/MMMarkdown) - An Objective-C framework for converting Markdown to HTML.
-- [ashchan/mail-notifr](https://github.com/ashchan/mail-notifr) - Mail Notifr - Gmail Notifier for macOS
 - [twitter/CocoaSPDY](https://github.com/twitter/CocoaSPDY) - SPDY for iOS and OS X
 - [nrj/StretchyHeaderCollectionViewLayout](https://github.com/nrj/StretchyHeaderCollectionViewLayout) - Custom UICollectionView layout with a stretchy header.
 - [amazon-archives/aws-sdk-ios-v1](https://github.com/amazon-archives/aws-sdk-ios-v1) - ARCHIVED: Version 1 of the AWS SDK for iOS
@@ -5151,7 +5150,7 @@
 - [azonenberg/freesample](https://github.com/azonenberg/freesample) - High performance sampling oscilloscope based on INTEGRALSTICK
 - [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
-- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [LINKIWI/modern-paste](https://github.com/LINKIWI/modern-paste) - A modern, feature-rich Pastebin alternative
 - [mme/vergeml](https://github.com/mme/vergeml) - Machine Learning Environment - alpha version
 - [AlphamaxMedia/usb-mapping](https://github.com/AlphamaxMedia/usb-mapping) - Utility for mapping USB ports to physical device nodes
@@ -7745,6 +7744,7 @@
 - [timd/MactsAsBeacon](https://github.com/timd/MactsAsBeacon) - A tiny app to turn a Bluetooth LE-equipped Mac into an iBeacon
 - [michalkonturek/MKUnits](https://github.com/michalkonturek/MKUnits) - Unit conversion library for Swift.
 - [arturdev/AMSlideMenu2](https://github.com/arturdev/AMSlideMenu2) - Sliding Menu for iOS (Left and Right menus).  Multiple storyboards and XIBs support.
+- [ashchan/mail-notifr](https://github.com/ashchan/mail-notifr) - Mail Notifr - Gmail Notifier for macOS
 - [nicktoumpelis/HiBeacons](https://github.com/nicktoumpelis/HiBeacons) - An iBeacons example app for iOS 10, with Apple Watch (watchOS 3.0) support, written in Swift 3.
 - [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
 - [glebd/cocoafob](https://github.com/glebd/cocoafob) - A set of registration code generation and verification helpers for Obj-C, Ruby (Potion Store), PHP and FastSpring
