@@ -753,7 +753,6 @@
 - [jncronin/rpi-boot](https://github.com/jncronin/rpi-boot) - A second stage bootloader for the Raspberry Pi
 - [ciderapps/lustre](https://github.com/ciderapps/lustre) - Lustre Filesystem For macOS
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
-- [cpmech/gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
 - [LuaDist/luajit](https://github.com/LuaDist/luajit) - LuaJIT is JIT compiler for the Lua language.
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
@@ -863,6 +862,7 @@
 
 ## C# # 
 
+- [ME3Tweaks/ModManagerCommandLineTools](https://github.com/ME3Tweaks/ModManagerCommandLineTools) - Command line tools for Mass Effect 3 Mod Manager
 - [ME3Tweaks/LegendaryExplorer](https://github.com/ME3Tweaks/LegendaryExplorer) - Bleeding edge modding toolkit for the Mass Effect Trilogy, and the only actively developed version of the toolset
 - [akintos/SkylessDump](https://github.com/akintos/SkylessDump) - Sunless Skies data export/import tool
 - [microsoft/scalar](https://github.com/microsoft/scalar) - Scalar: A set of tools and extensions for Git to allow very large monorepos to run on Git without a virtualization layer
@@ -950,6 +950,7 @@
 
 ## C++ 
 
+- [brwarner/inkcpp](https://github.com/brwarner/inkcpp) - Inkle Ink C++ Runtime with JSON&gt;Binary Compiler
 - [gogcom/galaxy-ue4-oss-plugin](https://github.com/gogcom/galaxy-ue4-oss-plugin) - OnlineSubsystem interface implementation for GOG Galaxy platform
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [bespoke-silicon-group/bsg_replicant](https://github.com/bespoke-silicon-group/bsg_replicant) - Bespoke Silicon Group AWS EC2 F1 Infrastructure and Interface logic for HammerBlade
@@ -2139,6 +2140,7 @@
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [keybase/kbfs](https://github.com/keybase/kbfs) - Keybase Filesystem (KBFS)
 - [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
+- [cpmech/gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
 - [schollz/find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [unigornel/unigornel](https://github.com/unigornel/unigornel) - A library operating system for Go
@@ -4164,6 +4166,7 @@
 
 ## Others 
 
+- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [azonenberg/sky130-validation](https://github.com/azonenberg/sky130-validation) - Silicon validation projects for SKY130 stuff
 - [0xnr/awesome-analytics](https://github.com/0xnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
@@ -4868,6 +4871,7 @@
 
 ## Python 
 
+- [chromy/ink-proof](https://github.com/chromy/ink-proof) - Testing for Ink compilers and runtimes
 - [willmcgugan/textual](https://github.com/willmcgugan/textual) - A Text User Interface with Rich as the renderer
 - [CriticMarkup/CriticMarkup-toolkit](https://github.com/CriticMarkup/CriticMarkup-toolkit) - Various tools to use CriticMarkup in your daily workflow
 - [Lyrositor/fallen_london_chronicler](https://github.com/Lyrositor/fallen_london_chronicler) - A tool for recording and exporting Fallen London content.
@@ -6053,6 +6057,8 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo) - A working demo of RustDesk server implementation
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [lukaslueg/macro_railroad](https://github.com/lukaslueg/macro_railroad) - A library to generate syntax diagrams for Rust macros.
 - [KarlitosVII/trilogy-save-editor](https://github.com/KarlitosVII/trilogy-save-editor) - A save editor for Mass Effect Trilogy (and Legendary)
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
@@ -6568,6 +6574,7 @@
 
 ## Swift 
 
+- [heestand-xyz/PixelKit](https://github.com/heestand-xyz/PixelKit) - Live Graphics
 - [Automattic/XCUITestHelpers](https://github.com/Automattic/XCUITestHelpers) - 
 - [DuncanMC/FireEmitter](https://github.com/DuncanMC/FireEmitter) - 
 - [mchakravarty/CodeEditorView](https://github.com/mchakravarty/CodeEditorView) - SwiftUI code editor view for iOS and macOS
