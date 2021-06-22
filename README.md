@@ -4496,7 +4496,7 @@
 - [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Cool links & research papers related to Machine Learning applied to source code (MLonCode)
 - [beamandrew/medical-data](https://github.com/beamandrew/medical-data) - 
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
-- [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format
+- [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [drewrwilson/toolsforactivism](https://github.com/drewrwilson/toolsforactivism) - growing list of digital tools for activism things
 - [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins
 - [eugeneching/ida-consonance](https://github.com/eugeneching/ida-consonance) - Consonance, a dark color scheme for IDA.
@@ -4871,6 +4871,7 @@
 
 ## Python 
 
+- [openrazer/openrazer](https://github.com/openrazer/openrazer) - An entirely open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux
 - [chromy/ink-proof](https://github.com/chromy/ink-proof) - Testing for Ink compilers and runtimes
 - [willmcgugan/textual](https://github.com/willmcgugan/textual) - A Text User Interface with Rich as the renderer
 - [CriticMarkup/CriticMarkup-toolkit](https://github.com/CriticMarkup/CriticMarkup-toolkit) - Various tools to use CriticMarkup in your daily workflow
@@ -6057,6 +6058,7 @@
 
 ## Rust 
 
+- [io12/unf](https://github.com/io12/unf) - UNixize Filename -- replace annoying anti-unix characters in filenames
 - [rustdesk/rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo) - A working demo of RustDesk server implementation
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [lukaslueg/macro_railroad](https://github.com/lukaslueg/macro_railroad) - A library to generate syntax diagrams for Rust macros.
@@ -6574,6 +6576,7 @@
 
 ## Swift 
 
+- [darrarski/xcframework-maker](https://github.com/darrarski/xcframework-maker) - macOS utility for converting fat-frameworks to SPM-compatible XCFramework with arm64-simulator support
 - [heestand-xyz/PixelKit](https://github.com/heestand-xyz/PixelKit) - Live Graphics
 - [Automattic/XCUITestHelpers](https://github.com/Automattic/XCUITestHelpers) - 
 - [DuncanMC/FireEmitter](https://github.com/DuncanMC/FireEmitter) - 
