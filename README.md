@@ -6576,6 +6576,7 @@
 
 ## Swift 
 
+- [johnno1962/SwiftTrace](https://github.com/johnno1962/SwiftTrace) - Trace Swift and Objective-C method invocations
 - [darrarski/xcframework-maker](https://github.com/darrarski/xcframework-maker) - macOS utility for converting fat-frameworks to SPM-compatible XCFramework with arm64-simulator support
 - [heestand-xyz/PixelKit](https://github.com/heestand-xyz/PixelKit) - Live Graphics
 - [Automattic/XCUITestHelpers](https://github.com/Automattic/XCUITestHelpers) - 
