@@ -103,6 +103,7 @@
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
+  - [SourcePawn](#sourcepawn)
   - [Stan](#stan)
   - [Standard ML](#standard-ml)
   - [Starlark](#starlark)
@@ -555,7 +556,7 @@
 - [FRRouting/frr](https://github.com/FRRouting/frr) - The FRRouting Protocol Suite
 - [clicon/clixon](https://github.com/clicon/clixon) - YANG-based toolchain including NETCONF and RESTCONF interfaces and an interactive CLI
 - [open-watcom/open-watcom-v2](https://github.com/open-watcom/open-watcom-v2) - Latest binary build, including all installers - https://github.com/open-watcom/open-watcom-v2/releases
-- [jarun/bcal](https://github.com/jarun/bcal) - :1234: Storage and general-purpose calculator
+- [jarun/bcal](https://github.com/jarun/bcal) - :1234: Storage expression and general-purpose calculator
 - [bikerglen/small-keyboards](https://github.com/bikerglen/small-keyboards) - 
 - [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
 - [MrCheeze/botw-tools](https://github.com/MrCheeze/botw-tools) - Some datamining stuff for The Legend of Zelda: Breath of the Wild
@@ -862,6 +863,7 @@
 
 ## C# # 
 
+- [d00telemental/LECoal](https://github.com/d00telemental/LECoal) - Tool for packing and unpacking LE1/LE2 Coalesced_INT.bin files.
 - [ME3Tweaks/ModManagerCommandLineTools](https://github.com/ME3Tweaks/ModManagerCommandLineTools) - Command line tools for Mass Effect 3 Mod Manager
 - [ME3Tweaks/LegendaryExplorer](https://github.com/ME3Tweaks/LegendaryExplorer) - Bleeding edge modding toolkit for the Mass Effect Trilogy, and the only actively developed version of the toolset
 - [akintos/SkylessDump](https://github.com/akintos/SkylessDump) - Sunless Skies data export/import tool
@@ -1367,7 +1369,6 @@
 - [csete/gqrx](https://github.com/csete/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
 - [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) - pgModeler - PostgreSQL Database Modeler - is an open source data modeling tool designed for PostgreSQL. No more DDL commands written by hand let pgModeler do the job for you! This software reunites the concepts of entity-relationship diagrams and the features that PostgreSQL implements as extensions of SQL standards. Support this project by donate on project's official web site link:
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
-- [disks86/VK9](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan.
 - [robertmaynard/Sandbox](https://github.com/robertmaynard/Sandbox) - Random place to try out ideas
 - [civilmaps/cm-hal](https://github.com/civilmaps/cm-hal) - Civil Maps Hardware Abstraction Layer
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
@@ -4167,6 +4168,7 @@
 
 ## Others 
 
+- [d00telemental/AutoTOC-asi](https://github.com/d00telemental/AutoTOC-asi) - asi plugin to AutoTOC Mass Effect 3 and Mass Effect Legendary Edition
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [azonenberg/sky130-validation](https://github.com/azonenberg/sky130-validation) - Silicon validation projects for SKY130 stuff
 - [0xnr/awesome-analytics](https://github.com/0xnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
@@ -6110,7 +6112,7 @@
 - [rust-vmm/vm-superio](https://github.com/rust-vmm/vm-superio) - Emulation for legacy devices
 - [mattsse/chromiumoxide](https://github.com/mattsse/chromiumoxide) - Chrome Devtools Protocol rust API
 - [betrusted-io/xous-core](https://github.com/betrusted-io/xous-core) - Core modules for the Xous microkernel
-- [abetterinternet/crustls](https://github.com/abetterinternet/crustls) - C-to-rustls bindings
+- [rustls/rustls-ffi](https://github.com/rustls/rustls-ffi) - C-to-rustls bindings
 - [servo/pathfinder](https://github.com/servo/pathfinder) - A fast, practical GPU rasterizer for fonts and vector graphics
 - [nical/lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
 - [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio) - virtio implementation
@@ -6137,7 +6139,7 @@
 - [steveftoth/oxidize-core](https://github.com/steveftoth/oxidize-core) - Implementation of core unix utilities in rust
 - [robmikh/minesweeper-rs](https://github.com/robmikh/minesweeper-rs) - A port of robmikh/Minesweeper using windows-rs.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows SDK
 - [d0iasm/rvemu-for-book](https://github.com/d0iasm/rvemu-for-book) - Reference implementation for the book "Writing a RISC-V Emulator in Rust".
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
@@ -6307,6 +6309,7 @@
 
 ## Shell 
 
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [seemoo-lab/mobisys2018_nexmon_software_defined_radio](https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio) - Proof of concept project for operating Broadcom Wi-Fi chips as arbitrary signal transmitters similar to software-defined radios (SDRs)
 - [SteamDatabase/Protobufs](https://github.com/SteamDatabase/Protobufs) - 👑 Automatically tracked Steam, CS:GO, Dota 2, Artifact, Underlords and TF2 protobufs.
@@ -6549,6 +6552,10 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 
+## SourcePawn 
+
+- [efabless/sky130_sram_macros](https://github.com/efabless/sky130_sram_macros) - 
+
 ## Stan 
 
 - [stan-dev/stan](https://github.com/stan-dev/stan) - Stan development repository. The master branch contains the current release. The develop branch contains the latest stable development.  See the Developer Process Wiki for details.
@@ -6578,6 +6585,7 @@
 
 ## Swift 
 
+- [maxgribov/Spine](https://github.com/maxgribov/Spine) - Unofficial Spine runtime Swift library, allows you to play animations created in the Spine app (http://esotericsoftware.com).
 - [jegnux/BackedCodable](https://github.com/jegnux/BackedCodable) - Powerful property wrapper to back codable properties.
 - [marksands/BetterCodable](https://github.com/marksands/BetterCodable) - Better Codable through Property Wrappers
 - [johnno1962/SwiftTrace](https://github.com/johnno1962/SwiftTrace) - Trace Swift and Objective-C method invocations
@@ -7850,7 +7858,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [thoughtspile/grafar](https://github.com/thoughtspile/grafar) - Reactive multidimensional math & data visualization for the web.
 - [githubocto/flat](https://github.com/githubocto/flat) - The GitHub Action which powers Flat
-- [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.org
+- [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.com
 - [1Password/connect-sdk-js](https://github.com/1Password/connect-sdk-js) - Node SDK for 1Password Connect
 - [paulshen/birthday-report](https://github.com/paulshen/birthday-report) - 
 - [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
@@ -7984,7 +7992,7 @@
 - [lazerwalker/storyboard](https://github.com/lazerwalker/storyboard) - A narrative engine for interactive storytelling
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
-- [ionic-team/stencil](https://github.com/ionic-team/stencil) - A Web Component compiler for building fast, reusable UI components and static site generated Progressive Web Apps
+- [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 - [atom/atom-languageclient](https://github.com/atom/atom-languageclient) - Language Server Protocol support for Atom (the basis of Atom-IDE)
 - [gilbarbara/react-inlinesvg](https://github.com/gilbarbara/react-inlinesvg) - An SVG loader component for ReactJS
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
