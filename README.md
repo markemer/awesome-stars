@@ -202,6 +202,7 @@
 
 ## Batchfile 
 
+- [microsoft/GDK](https://github.com/microsoft/GDK) - Microsoft Public GDK
 - [sparkfun/SparkFun_Artemis](https://github.com/sparkfun/SparkFun_Artemis) - World's first open source hardware module using a Cortex-M4F capable of running TensorFlow models and Arduino sketches..
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
@@ -2225,6 +2226,7 @@
 
 - [mspinksosu/NES-Power-Board](https://github.com/mspinksosu/NES-Power-Board) - A PCB that will fit in place of the stock NES frontloader's RF module.
 - [dougallj/applegpu](https://github.com/dougallj/applegpu) - Apple G13 GPU architecture docs and tools
+- [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
 - [fcoury/kbpcb](https://github.com/fcoury/kbpcb) - Automated Keyboard PCB generator for KiCad
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
@@ -6139,7 +6141,7 @@
 - [steveftoth/oxidize-core](https://github.com/steveftoth/oxidize-core) - Implementation of core unix utilities in rust
 - [robmikh/minesweeper-rs](https://github.com/robmikh/minesweeper-rs) - A port of robmikh/Minesweeper using windows-rs.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows SDK
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for the Windows SDK
 - [d0iasm/rvemu-for-book](https://github.com/d0iasm/rvemu-for-book) - Reference implementation for the book "Writing a RISC-V Emulator in Rust".
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
@@ -6244,7 +6246,6 @@
 
 - [Flameeyes/autotools-mythbuster](https://github.com/Flameeyes/autotools-mythbuster) - Autotools Mythbuster (The Guide)
 - [pidcodes/pidcodes.github.com](https://github.com/pidcodes/pidcodes.github.com) - Website for pid.codes
-- [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
 - [NSHipster/XcodeBuildSettings.com](https://github.com/NSHipster/XcodeBuildSettings.com) - A convenient reference of available build settings for Xcode projects.
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
