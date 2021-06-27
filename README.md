@@ -4876,6 +4876,7 @@
 
 ## Python 
 
+- [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - An entirely open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux
 - [chromy/ink-proof](https://github.com/chromy/ink-proof) - Testing for Ink compilers and runtimes
 - [willmcgugan/textual](https://github.com/willmcgugan/textual) - A Text User Interface with Rich as the renderer
