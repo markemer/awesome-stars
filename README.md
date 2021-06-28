@@ -599,6 +599,7 @@
 - [rockdaboot/libpsl](https://github.com/rockdaboot/libpsl) - C library for the Public Suffix List
 - [gnuplot/gnuplot](https://github.com/gnuplot/gnuplot) - Unofficial mirror of gnuplot's git repository. Please don't open pull requests here, go to https://sourceforge.net/p/gnuplot/gnuplot-main/merge-requests/ instead.
 - [krb5/krb5](https://github.com/krb5/krb5) - mirror of MIT krb5 repository
+- [mist-devel/mist-board](https://github.com/mist-devel/mist-board) - Core sources and tools for the MIST board
 - [kohler/gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
 - [xsawyerx/xs-fun](https://github.com/xsawyerx/xs-fun) - XS is fun: a simple and easy tutorial on writing Perl XS
 - [mjolnirapp/mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X
@@ -953,6 +954,7 @@
 
 ## C++ 
 
+- [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
 - [SirCxyrtyx/AutoTOC-asi](https://github.com/SirCxyrtyx/AutoTOC-asi) - asi plugin to AutoTOC Mass Effect 3 and Mass Effect Legendary Edition
 - [brwarner/inkcpp](https://github.com/brwarner/inkcpp) - Inkle Ink C++ Runtime with JSON&gt;Binary Compiler
 - [gogcom/galaxy-ue4-oss-plugin](https://github.com/gogcom/galaxy-ue4-oss-plugin) - OnlineSubsystem interface implementation for GOG Galaxy platform
@@ -4121,7 +4123,7 @@
 - [programming-nu/nu](https://github.com/programming-nu/nu) - Nu is an interpreted Lisp that builds on the Objective-C runtime and Foundation framework.
 - [pokeb/asi-http-request](https://github.com/pokeb/asi-http-request) - Easy to use CFNetwork wrapper for HTTP requests, Objective-C,  Mac OS X and iPhone
 - [omnigroup/OmniGroup](https://github.com/omnigroup/OmniGroup) - Source for many of The Omni Group's frameworks
-- [nickzman/symboliclinker](https://github.com/nickzman/symboliclinker) - A contextual menu plugin & service for Mac OS X that allows users to make symbolic links in the Finder
+- [nickzman/symboliclinker](https://github.com/nickzman/symboliclinker) - A contextual menu plugin & service for macOS that allows users to make symbolic links in the Finder
 - [facebookarchive/three20](https://github.com/facebookarchive/three20) - Three20 is an Objective-C library for iPhone developers
 - [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver Project Source
@@ -4642,7 +4644,7 @@
 - [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries
 - [google/maps-for-work-samples](https://github.com/google/maps-for-work-samples) - 
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
-- [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [openstack-infra/jenkins-job-builder](https://github.com/openstack-infra/jenkins-job-builder) - MOVED: Now at https://opendev.org/jjb/jenkins-job-builder
 - [google/keyczar](https://github.com/google/keyczar) - Easy-to-use crypto toolkit
 - [ilyavorobiev/atom-docs](https://github.com/ilyavorobiev/atom-docs) - Documentation for Github Atom Editor and Atom Shell
@@ -4876,8 +4878,9 @@
 
 ## Python 
 
+- [AYasinAkalin/MELE_quickIniEditor](https://github.com/AYasinAkalin/MELE_quickIniEditor) - A terminal application allowing users and modders to modify .ini and Coalesced_*.bin files of ME Legendary Edition easily without replacing the whole file; losing possible early modifications in process. (ME3 is not supported)
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
-- [openrazer/openrazer](https://github.com/openrazer/openrazer) - An entirely open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux
+- [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [chromy/ink-proof](https://github.com/chromy/ink-proof) - Testing for Ink compilers and runtimes
 - [willmcgugan/textual](https://github.com/willmcgugan/textual) - A Text User Interface with Rich as the renderer
 - [CriticMarkup/CriticMarkup-toolkit](https://github.com/CriticMarkup/CriticMarkup-toolkit) - Various tools to use CriticMarkup in your daily workflow
@@ -5584,7 +5587,6 @@
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [wmcbrine/hmeforpython](https://github.com/wmcbrine/hmeforpython) - An implementation of TiVo's HME (Home Media Extensions) protocol for Python.
 - [fusepy/fusepy](https://github.com/fusepy/fusepy) - Simple ctypes bindings for FUSE
-- [ashchan/mail-notifr](https://github.com/ashchan/mail-notifr) - Mail Notifr - Gmail Notifier for macOS
 - [numenta/nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [OpenEndedGroup/Field](https://github.com/OpenEndedGroup/Field) - A development environment for art
 - [twilio/authy-python](https://github.com/twilio/authy-python) - Authy API Client for Python
@@ -6311,6 +6313,7 @@
 
 ## Shell 
 
+- [ogra1/zoom-snap](https://github.com/ogra1/zoom-snap) - 
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [seemoo-lab/mobisys2018_nexmon_software_defined_radio](https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio) - Proof of concept project for operating Broadcom Wi-Fi chips as arbitrary signal transmitters similar to software-defined radios (SDRs)
@@ -6962,7 +6965,7 @@
 - [FormatterKit/PostalCodeValidator](https://github.com/FormatterKit/PostalCodeValidator) - A validator for postal codes with support for 200+ regions
 - [llvm-swift/FileCheck](https://github.com/llvm-swift/FileCheck) - A standalone Swift version of LLVM's flexible pattern matching file verifier
 - [JamitLabs/Accio](https://github.com/JamitLabs/Accio) - A dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
-- [mkchoi212/LBAC-Swift](https://github.com/mkchoi212/LBAC-Swift) - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds
+- [mkchoi212/LBAC-Swift](https://github.com/mkchoi212/LBAC-Swift) - Learn how to build a compiler by interacting with Let's Build a Compiler by Jack Crenshaw in Swift Playgrounds
 - [ahoppen/introduction-to-compilers](https://github.com/ahoppen/introduction-to-compilers) - Swift Playground giving an overview over the inner workings of modern compilers
 - [paypal/Illuminator](https://github.com/paypal/Illuminator) - iOS Automator
 - [swift-server/async-http-client](https://github.com/swift-server/async-http-client) - HTTP client library built on SwiftNIO
@@ -7769,6 +7772,7 @@
 - [timd/MactsAsBeacon](https://github.com/timd/MactsAsBeacon) - A tiny app to turn a Bluetooth LE-equipped Mac into an iBeacon
 - [michalkonturek/MKUnits](https://github.com/michalkonturek/MKUnits) - Unit conversion library for Swift.
 - [arturdev/AMSlideMenu2](https://github.com/arturdev/AMSlideMenu2) - Sliding Menu for iOS (Left and Right menus).  Multiple storyboards and XIBs support.
+- [ashchan/mail-notifr](https://github.com/ashchan/mail-notifr) - Mail Notifr - Gmail Notifier for macOS
 - [nicktoumpelis/HiBeacons](https://github.com/nicktoumpelis/HiBeacons) - An iBeacons example app for iOS 10, with Apple Watch (watchOS 3.0) support, written in Swift 3.
 - [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
 - [glebd/cocoafob](https://github.com/glebd/cocoafob) - A set of registration code generation and verification helpers for Obj-C, Ruby (Potion Store), PHP and FastSpring
@@ -8053,7 +8057,6 @@
 - [Speccery/EP994A](https://github.com/Speccery/EP994A) - My TI-99/4A clone, two versions: FPGA+TMS99105 CPU and FPGA with my CPU core
 - [open-power/capi2-bsp](https://github.com/open-power/capi2-bsp) - CAPI 2.0 Board Support Package
 - [ATaylorCEngFIET/UltraZed_PCIe](https://github.com/ATaylorCEngFIET/UltraZed_PCIe) - UltraZed and PCIe example
-- [mist-devel/mist-board](https://github.com/mist-devel/mist-board) - Core sources and tools for the MIST board
 - [zylin/zpu](https://github.com/zylin/zpu) - The Zylin ZPU
 - [aws/aws-fpga](https://github.com/aws/aws-fpga) - Official repository of the AWS EC2 FPGA Hardware and Software Development Kit
 - [bunnie/netv2-fpga-basic-overlay](https://github.com/bunnie/netv2-fpga-basic-overlay) - Vivado design for basic NeTV2 FPGA with chroma-based overlay
