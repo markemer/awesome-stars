@@ -2291,8 +2291,8 @@
 - [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
 - [sahilchinoy/irs-itemizer](https://github.com/sahilchinoy/irs-itemizer) - Web application to explore political contributions and expenditures filed with the IRS
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
-- [domchristie/turndown-plugin-gfm](https://github.com/domchristie/turndown-plugin-gfm) - :octocat: Turndown plugin to add GitHub Flavored Markdown extensions
-- [domchristie/turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+- [mixmark-io/turndown-plugin-gfm](https://github.com/mixmark-io/turndown-plugin-gfm) - :octocat: Turndown plugin to add GitHub Flavored Markdown extensions
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [vega/vega-lib](https://github.com/vega/vega-lib) - Include Vega in projects using minimal dependencies.
 - [TeXShop/TeXShop](https://github.com/TeXShop/TeXShop) - Unofficial TeXShop source code repository. This repository is generated via scripts from the official source releases.
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
@@ -4172,6 +4172,7 @@
 
 ## Others 
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [d00telemental/AutoTOC-asi](https://github.com/d00telemental/AutoTOC-asi) - asi plugin to AutoTOC Mass Effect 3 and Mass Effect Legendary Edition
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [azonenberg/sky130-validation](https://github.com/azonenberg/sky130-validation) - Silicon validation projects for SKY130 stuff
@@ -4587,7 +4588,7 @@
 - [hackaye/activism-framework](https://github.com/hackaye/activism-framework) - A framework for planning activist campaigns.
 - [uhub/awesome-cpp](https://github.com/uhub/awesome-cpp) - A curated list of awesome C++ frameworks, libraries and software.
 - [radex/dotfiles](https://github.com/radex/dotfiles) - 
-- [xesscorp/kicad-3rd-party-tools](https://github.com/xesscorp/kicad-3rd-party-tools) - Tools made by others to augment the KiCad PCB EDA suite.
+- [devbisme/kicad-3rd-party-tools](https://github.com/devbisme/kicad-3rd-party-tools) - Tools made by others to augment the KiCad PCB EDA suite.
 - [grugq/portal](https://github.com/grugq/portal) - Personal Onion Router To Assure Liberty
 - [komar007/gh60](https://github.com/komar007/gh60) - GH60 - an open-source mechanical keyboard PCB designed for the community at geekhack.org
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -6313,6 +6314,7 @@
 
 ## Shell 
 
+- [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [ogra1/zoom-snap](https://github.com/ogra1/zoom-snap) - 
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
@@ -6590,6 +6592,7 @@
 
 ## Swift 
 
+- [macmade/IOBrowser](https://github.com/macmade/IOBrowser) - A macOS application for browsing the IOKit registry.
 - [maxgribov/Spine](https://github.com/maxgribov/Spine) - Unofficial Spine runtime Swift library, allows you to play animations created in the Spine app (http://esotericsoftware.com).
 - [jegnux/BackedCodable](https://github.com/jegnux/BackedCodable) - Powerful property wrapper to back codable properties.
 - [marksands/BetterCodable](https://github.com/marksands/BetterCodable) - Better Codable through Property Wrappers
@@ -6847,7 +6850,7 @@
 - [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - VT100/Xterm Terminal emulator in Swift
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [SwiftDocOrg/GraphViz](https://github.com/SwiftDocOrg/GraphViz) - A Swift package for working with GraphViz
-- [Flinesoft/AnyLint](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of Swift & regular expressions.
+- [Flinesoft/AnyLint](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of scripts & regular expressions.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [migueldeicaza/TextBufferKit](https://github.com/migueldeicaza/TextBufferKit) - Swift TextBuffer
 - [migueldeicaza/TermKit](https://github.com/migueldeicaza/TermKit) - Terminal Kit - Console UI toolkit for Swift applications
