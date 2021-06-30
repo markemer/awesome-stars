@@ -2581,6 +2581,7 @@
 
 ## JavaScript 
 
+- [juliangruber/read-file-action](https://github.com/juliangruber/read-file-action) - Read file contents
 - [TeaWithLucas/DNDBeyond-DM-Screen](https://github.com/TeaWithLucas/DNDBeyond-DM-Screen) - The script aims to provide a simple DM screen by displaying handy stats and info on the campaign screen.
 - [crobi/rpg-cards](https://github.com/crobi/rpg-cards) - RPG spell/item/monster card generator
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
@@ -4337,7 +4338,7 @@
 - [azonenberg/superzircon](https://github.com/azonenberg/superzircon) - Microscope camera / control software
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [commaai/neo](https://github.com/commaai/neo) - comma neo research platform
-- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android ⚡️
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [sparkfun/BlackBoard_Artemis_Nano](https://github.com/sparkfun/BlackBoard_Artemis_Nano) - Tiny Arduino compatible carrier board for SparkFun's Artemis module.
 - [soheilpro/catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
 - [donutloop/machine-learning-research-papers](https://github.com/donutloop/machine-learning-research-papers) - Collection of machine learning research paper references
@@ -6689,7 +6690,7 @@
 - [kean/Formatting](https://github.com/kean/Formatting) - 
 - [Flight-School/MessagePack](https://github.com/Flight-School/MessagePack) - A MessagePack encoder and decoder for Codable types
 - [mortenbekditlevsen/SwiftGTKUI](https://github.com/mortenbekditlevsen/SwiftGTKUI) - A simple 'hello-world' app using SwiftGtk
-- [cx-org/CombineX](https://github.com/cx-org/CombineX) - Open source implementation for Apple's Combine
+- [cx-org/CombineX](https://github.com/cx-org/CombineX) - Open source implementation of Apple's Combine
 - [rsyncOSX/rcloneosx](https://github.com/rsyncOSX/rcloneosx) - A macOS GUI for rclone
 - [dlvm-team/dlvm-core](https://github.com/dlvm-team/dlvm-core) - 
 - [adam-fowler/mqtt-nio](https://github.com/adam-fowler/mqtt-nio) - A Swift NIO MQTT 3.1.1 Client
@@ -6892,7 +6893,7 @@
 - [wickwirew/Runtime](https://github.com/wickwirew/Runtime) - A Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.
 - [twostraws/watchOS](https://github.com/twostraws/watchOS) - The project source code for Hacking with watchOS.
 - [Ramotion/swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) - Swift UI libraries, iOS components and animations by @Ramotion
-- [macmade/Xclean](https://github.com/macmade/Xclean) - 
+- [macmade/Xclean](https://github.com/macmade/Xclean) - Xclean is a macOS menu bar app that provides a convenient way to clear Xcode's derived data or module cache.
 - [apple/swift-standard-library-preview](https://github.com/apple/swift-standard-library-preview) - 
 - [insidegui/TwitterPublishPlugin](https://github.com/insidegui/TwitterPublishPlugin) - A plugin for Publish that let's you easily embed tweets in your posts.
 - [composed-swift/ComposedLayouts](https://github.com/composed-swift/ComposedLayouts) - A Swift framework that provides conveniences for using Composed with UICollectionViewCompositionalLayout and UICollectionViewFlowLayout.
