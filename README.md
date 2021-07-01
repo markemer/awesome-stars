@@ -320,7 +320,7 @@
 - [horizon-eda/horizon](https://github.com/horizon-eda/horizon) - Horizon is a free EDA package
 - [yoppeh/efi](https://github.com/yoppeh/efi) - efi headers
 - [intel/nemu](https://github.com/intel/nemu) - ARCHIVED: Modern Hypervisor for the Cloud. See https://github.com/cloud-hypervisor/cloud-hypervisor instead
-- [eradman/entr](https://github.com/eradman/entr) - A utility for running arbitrary commands when files change
+- [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
 - [hse-project/hse](https://github.com/hse-project/hse) - Heterogeneous-memory storage engine (HSE)
 - [westerndigitalcorporation/riscv-fw-infrastructure](https://github.com/westerndigitalcorporation/riscv-fw-infrastructure) - Firmware infrastructure, contain RTOS Abstraction Layer, demos and more...
@@ -6693,7 +6693,7 @@
 - [cx-org/CombineX](https://github.com/cx-org/CombineX) - Open source implementation of Apple's Combine
 - [rsyncOSX/rcloneosx](https://github.com/rsyncOSX/rcloneosx) - A macOS GUI for rclone
 - [dlvm-team/dlvm-core](https://github.com/dlvm-team/dlvm-core) - 
-- [adam-fowler/mqtt-nio](https://github.com/adam-fowler/mqtt-nio) - A Swift NIO MQTT 3.1.1 Client
+- [adam-fowler/mqtt-nio](https://github.com/adam-fowler/mqtt-nio) - A Swift NIO MQTT v3.1.1 and v5.0 Client
 - [dduan/Markra](https://github.com/dduan/Markra) - An open-source Markdown-to-JIRA syntax editor written in SwiftUI for macOS
 - [AvdLee/CustomSwiftOperators](https://github.com/AvdLee/CustomSwiftOperators) - Demonstrating custom Swift operators. Including prefix, postfix, infix, and compound assignment operators.
 - [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) - SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
