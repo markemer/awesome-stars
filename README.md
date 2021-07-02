@@ -5397,7 +5397,7 @@
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [sony/nnabla](https://github.com/sony/nnabla) - Neural Network Libraries
 - [infobyte/spoilerwall](https://github.com/infobyte/spoilerwall) - Spoilerwall introduces a brand new concept in the field of network hardening. Avoid being scanned by spoiling movies on all your ports!
-- [iogf/lax](https://github.com/iogf/lax) - A pythonic way of writting latex.
+- [iogf/lax](https://github.com/iogf/lax) - Write Python instead of Latex for math expressions.
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [DerekSelander/LLDB](https://github.com/DerekSelander/LLDB) - A collection of LLDB aliases/regexes and Python scripts to aid in your debugging sessions
 - [slackapi/Slack-Python-Onboarding-Tutorial](https://github.com/slackapi/Slack-Python-Onboarding-Tutorial) - a simple python onboarding bot and tutorial for Slack
@@ -5624,7 +5624,7 @@
 - [mathics/Mathics](https://github.com/mathics/Mathics) - A general-purpose computer algebra system.
 - [facebookarchive/fbconsole](https://github.com/facebookarchive/fbconsole) - A micro api client for writing scripts against the Facebook Graph API.
 - [davecranwell/inline-styler](https://github.com/davecranwell/inline-styler) - Creates HTML emails with maximal CSS compatibility by inlining external CSS files.
-- [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard
+- [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [SublimeText/PackageDev](https://github.com/SublimeText/PackageDev) - Tools to ease the creation of snippets, syntax definitions, etc. for Sublime Text.
 - [colah/surfcad](https://github.com/colah/surfcad) - Surface-Oriented CAD Library for Python
 - [shazow/s3funnel](https://github.com/shazow/s3funnel) - multithreaded command line tool for Amazon's Simple Storage Service (S3)
@@ -7863,7 +7863,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [nick-invision/private-action-loader](https://github.com/nick-invision/private-action-loader) - Allows private GitHub Actions to be easily reused
 - [jupyterlab/jupyterlab-latex](https://github.com/jupyterlab/jupyterlab-latex) - JupyterLab extension for live editing of LaTeX documents
-- [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [DarylBuckle/dnd-character-sheets](https://github.com/DarylBuckle/dnd-character-sheets) - Dungeons and Dragons 5th Edition character sheets created in ReactJS.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [thoughtspile/grafar](https://github.com/thoughtspile/grafar) - Reactive multidimensional math & data visualization for the web.
