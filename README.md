@@ -213,6 +213,7 @@
 
 ## C 
 
+- [libtcod/libtcod](https://github.com/libtcod/libtcod) - The official repository for libtcod.  A roguelike development library.
 - [electronicarts/MELE_ModdingSupport](https://github.com/electronicarts/MELE_ModdingSupport) - 
 - [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 - [d00telemental/LEBinkProxy](https://github.com/d00telemental/LEBinkProxy) - A small multi-functional proxy DLL for all the four apps in Mass Effect Legendary Edition. Enables dev. console, loads native plugins, adds a command line switch for the Launcher to boot directly into one of the games.
@@ -784,7 +785,6 @@
 - [adafruit/adafruit-raspberrypi-linux](https://github.com/adafruit/adafruit-raspberrypi-linux) - Adafruit's hacking-friendly Raspberry Pi linux kernel
 - [droe/sslsplit](https://github.com/droe/sslsplit) - Transparent SSL/TLS interception
 - [nginx/nginx-releases](https://github.com/nginx/nginx-releases) - * NOTE: This repository has been retired *. Complete (unofficial) history of nginx releases.  Please note that this repository is unofficial and pull requests have no chance of being merged. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html.
-- [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror) - This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.
 - [openworm/sibernetic](https://github.com/openworm/sibernetic) - This is a C++/OpenCL implementation of the PCISPH algorithm supplemented with a set of biomechanics related features applied to C. elegans locomotion
 - [espressif/ESP8266_RTOS_SDK](https://github.com/espressif/ESP8266_RTOS_SDK) - Latest ESP8266 SDK based on FreeRTOS, esp-idf style.
 - [esp8266/esp8266-wiki](https://github.com/esp8266/esp8266-wiki) - 
@@ -867,7 +867,7 @@
 
 - [d00telemental/LECoal](https://github.com/d00telemental/LECoal) - Tool for packing and unpacking LE1/LE2 Coalesced_INT.bin files.
 - [ME3Tweaks/ModManagerCommandLineTools](https://github.com/ME3Tweaks/ModManagerCommandLineTools) - Command line tools for Mass Effect 3 Mod Manager
-- [ME3Tweaks/LegendaryExplorer](https://github.com/ME3Tweaks/LegendaryExplorer) - Bleeding edge modding toolkit for the Mass Effect Trilogy, and the only actively developed version of the toolset
+- [ME3Tweaks/LegendaryExplorer](https://github.com/ME3Tweaks/LegendaryExplorer) - Editor toolset for Mass Effect Trilogy and Mass Effect Legendary Edition
 - [akintos/SkylessDump](https://github.com/akintos/SkylessDump) - Sunless Skies data export/import tool
 - [microsoft/scalar](https://github.com/microsoft/scalar) - Scalar: A set of tools and extensions for Git to allow very large monorepos to run on Git without a virtualization layer
 - [files-community/Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
@@ -1433,6 +1433,7 @@
 - [tdenniston/bish](https://github.com/tdenniston/bish) - Bish is a language that compiles to Bash. It's designed to give shell scripting a more comfortable and modern feel.
 - [adafruit/Adafruit_LED_Backpack](https://github.com/adafruit/Adafruit_LED_Backpack) - Adafruit LED Backpack Library for our 8x8 matrix and 7-segment LED backpacks
 - [frida/cryptoshark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
+- [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror) - This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.
 - [capnproto/ekam](https://github.com/capnproto/ekam) - Ekam Build System
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [aidin36/tocc](https://github.com/aidin36/tocc) - A tag based file management system.
@@ -1906,7 +1907,7 @@
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [1Password/srp](https://github.com/1Password/srp) - A set of Go functions for Secure Remote Password protocol implementation in 1Password Teams
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [unidoc/unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
 - [secrethub/terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) - Terraform Provider to manage and use secrets
 - [secrethub/secrethub-go](https://github.com/secrethub/secrethub-go) - Golang SDK for the SecretHub Secrets Management API
@@ -2583,6 +2584,7 @@
 
 ## JavaScript 
 
+- [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [galaxykate/codoodle](https://github.com/galaxykate/codoodle) - Unfussy platform for multiplayer Jackbox style doodle rooms
 - [juliangruber/read-file-action](https://github.com/juliangruber/read-file-action) - Read file contents
 - [TeaWithLucas/DNDBeyond-DM-Screen](https://github.com/TeaWithLucas/DNDBeyond-DM-Screen) - The script aims to provide a simple DM screen by displaying handy stats and info on the campaign screen.
@@ -4176,6 +4178,7 @@
 
 ## Others 
 
+- [joenash/awesome-infinidash](https://github.com/joenash/awesome-infinidash) - An awesome list for the awe-inspiring power of Infinidash, an imaginary product.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [d00telemental/AutoTOC-asi](https://github.com/d00telemental/AutoTOC-asi) - asi plugin to AutoTOC Mass Effect 3 and Mass Effect Legendary Edition
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
