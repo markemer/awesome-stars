@@ -7,7 +7,6 @@
 
   - [ANTLR](#antlr)
   - [API Blueprint](#api-blueprint)
-  - [APL](#apl)
   - [ActionScript](#actionscript)
   - [Ada](#ada)
   - [AppleScript](#applescript)
@@ -139,10 +138,6 @@
 ## API Blueprint 
 
 - [buildasaurs/XcodeServer-API-Docs](https://github.com/buildasaurs/XcodeServer-API-Docs) - Unofficial documentation of the Xcode Server API (Xcode 7 edition)
-
-## APL 
-
-- [Dyalog/MiServer](https://github.com/Dyalog/MiServer) - MiServer- an APL-based web server - requires Dyalog APL available from http://www.dyalog.com
 
 ## ActionScript 
 
@@ -622,6 +617,7 @@
 - [jiixyj/libebur128](https://github.com/jiixyj/libebur128) - A library implementing the EBU R128 loudness standard.
 - [jiixyj/loudness-scanner](https://github.com/jiixyj/loudness-scanner) - A tool that scans your music files and tags them with loudness information.
 - [gleitz/npiet](https://github.com/gleitz/npiet) - a language where the programs are works of modern art (updated for OSX)
+- [raspberrypi/tools](https://github.com/raspberrypi/tools) - 
 - [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
 - [MutexUnlocked/DEOS](https://github.com/MutexUnlocked/DEOS) - The distributed exokernel operating system
 - [lowRISC/lowrisc-fpga](https://github.com/lowRISC/lowrisc-fpga) - Untethered (stand-alone) FPGA implementation of the lowRISC SoC
@@ -865,7 +861,7 @@
 
 ## C# # 
 
-- [d00telemental/LECoal](https://github.com/d00telemental/LECoal) - Tool for packing and unpacking LE1/LE2 Coalesced_INT.bin files.
+- [d00telemental/LECoal](https://github.com/d00telemental/LECoal) - A DEPRECATED tool for packing and unpacking LE1/LE2 Coalesced_INT.bin files.
 - [ME3Tweaks/ModManagerCommandLineTools](https://github.com/ME3Tweaks/ModManagerCommandLineTools) - Command line tools for Mass Effect 3 Mod Manager
 - [ME3Tweaks/LegendaryExplorer](https://github.com/ME3Tweaks/LegendaryExplorer) - Editor toolset for Mass Effect Trilogy and Mass Effect Legendary Edition
 - [akintos/SkylessDump](https://github.com/akintos/SkylessDump) - Sunless Skies data export/import tool
@@ -1301,7 +1297,6 @@
 - [dotBunny/CLionSourceCodeAccess](https://github.com/dotBunny/CLionSourceCodeAccess) - A CLion Plugin for Unreal Engine
 - [gildor2/UEViewer](https://github.com/gildor2/UEViewer) - Viewer and exporter for Unreal Engine 1-4 assets (UE Viewer).
 - [apitrace/apitrace](https://github.com/apitrace/apitrace) - Tools for tracing OpenGL, Direct3D, and other graphics APIs
-- [raspberrypi/tools](https://github.com/raspberrypi/tools) - 
 - [Xtra-Computing/thundersvm](https://github.com/Xtra-Computing/thundersvm) - ThunderSVM: A Fast SVM Library on GPUs and CPUs
 - [HexHive/HexType](https://github.com/HexHive/HexType) - HexType: Efficient Detection of Type Confusion Errors for C++
 - [graphql/libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs
@@ -3491,6 +3486,7 @@
 ## Less 
 
 - [UDOOboard/Bolt-Docs](https://github.com/UDOOboard/Bolt-Docs) - UDOO Bolt Documentation
+- [Dyalog/MiServer](https://github.com/Dyalog/MiServer) - MiServer- an APL-based web server - requires Dyalog APL available from http://www.dyalog.com
 - [Squarespace/wright-framework](https://github.com/Squarespace/wright-framework) - 
 
 ## Lua 
