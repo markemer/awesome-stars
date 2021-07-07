@@ -650,7 +650,7 @@
 - [OpenDataPlane/odp](https://github.com/OpenDataPlane/odp) - The ODP project is an open-source, cross-platform set of application programming interfaces (APIs) for the networking data plane
 - [ARMmbed/mbed-os](https://github.com/ARMmbed/mbed-os) - Arm Mbed OS is a platform operating system designed for the internet of things
 - [ousnius/BSA-Manager](https://github.com/ousnius/BSA-Manager) - Manager program for the Bethesda Softworks Archives (BSA)
-- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
+- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-reporting/
 - [ROBOTIS-GIT/OpenCR](https://github.com/ROBOTIS-GIT/OpenCR) - Software for ROS Embedded board (a.k.a. OpenCR). OpenCR means Open-source Control Module for ROS.
 - [walesey/binPipe](https://github.com/walesey/binPipe) - 
 - [mruby/mruby](https://github.com/mruby/mruby) - Lightweight Ruby
@@ -6115,7 +6115,7 @@
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - High-level procedural templating language
 - [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware in order to maximally leverage the power of language safety, and thus shift OS responsibilities (resource management) into the compiler.
-- [jac3km4/redscript](https://github.com/jac3km4/redscript) - Compiler/decompiler toolkit for REDengine scripts
+- [jac3km4/redscript](https://github.com/jac3km4/redscript) - Compiler/decompiler toolkit for redscript
 - [mattsse/voyager](https://github.com/mattsse/voyager) - crawl and scrape web pages in rust
 - [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
