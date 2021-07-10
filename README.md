@@ -284,7 +284,7 @@
 - [Hamlib/Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library for rigs, rotators, tuners, and amplifiers
 - [climberhunt/uvc-gadget](https://github.com/climberhunt/uvc-gadget) - enhance uvc-gadget test application
 - [ultravideo/kvazaar](https://github.com/ultravideo/kvazaar) - An open-source HEVC encoder
-- [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE802.11/Wi-Fi baseband chip/FPGA design
+- [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source 802.11 WiFi baseband chip/FPGA design
 - [oxplot/fpx](https://github.com/oxplot/fpx) - easy USB-C power for all your devices
 - [scandum/binary_search](https://github.com/scandum/binary_search) - A collection of improved binary search algorithms.
 - [riscv/riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain) - GNU toolchain for RISC-V, including GCC
@@ -2439,6 +2439,7 @@
 
 ## Java 
 
+- [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring integration for GraphQL
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic designer and simulator
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
@@ -2579,6 +2580,7 @@
 
 ## JavaScript 
 
+- [tuist/tuist-action](https://github.com/tuist/tuist-action) - A GitHub action to run Tuist from GitHub workflows
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [galaxykate/codoodle](https://github.com/galaxykate/codoodle) - Unfussy platform for multiplayer Jackbox style doodle rooms
 - [juliangruber/read-file-action](https://github.com/juliangruber/read-file-action) - Read file contents
@@ -2614,7 +2616,7 @@
 - [atlassian/gajira-cli](https://github.com/atlassian/gajira-cli) - 
 - [atlassian/gajira-find-issue-key](https://github.com/atlassian/gajira-find-issue-key) - 
 - [atlassian/gajira-login](https://github.com/atlassian/gajira-login) - Jira Login GitHub Action
-- [andris9/imapapi](https://github.com/andris9/imapapi) - Self hosted application to access IMAP and SMTP accounts over REST
+- [andris9/imapapi](https://github.com/andris9/imapapi) - Headless email client
 - [plaid/plaid-node](https://github.com/plaid/plaid-node) - Node bindings for Plaid
 - [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - A javascript library to build expressive web presentations in seconds.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
@@ -5714,6 +5716,7 @@
 
 ## Ruby 
 
+- [tenderlove/fisk](https://github.com/tenderlove/fisk) - A pure Ruby assembler
 - [Lightricks/Kintsugi](https://github.com/Lightricks/Kintsugi) - A tool to automatically resolve Git conflicts that occur in Xcode project files
 - [htdebeer/paru](https://github.com/htdebeer/paru) - Control pandoc with Ruby and write pandoc filters in Ruby
 - [aws/aws-parallelcluster-cookbook](https://github.com/aws/aws-parallelcluster-cookbook) - The Chef cookbook used to build and bootstrap AWS ParallelCluster
@@ -6074,6 +6077,7 @@
 
 ## Rust 
 
+- [Shopify/shadowenv](https://github.com/Shopify/shadowenv) - reversible directory-local environment variable manipulations
 - [io12/unf](https://github.com/io12/unf) - UNixize Filename -- replace annoying anti-unix characters in filenames
 - [rustdesk/rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo) - A working demo of RustDesk server implementation
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
@@ -6597,6 +6601,7 @@
 
 ## Swift 
 
+- [birdrides/mockingbird](https://github.com/birdrides/mockingbird) - A convenient mocking framework for Swift
 - [macmade/IOBrowser](https://github.com/macmade/IOBrowser) - A macOS application for browsing the IOKit registry.
 - [maxgribov/Spine](https://github.com/maxgribov/Spine) - Unofficial Spine runtime Swift library, allows you to play animations created in the Spine app (http://esotericsoftware.com).
 - [jegnux/BackedCodable](https://github.com/jegnux/BackedCodable) - Powerful property wrapper to back codable properties.
@@ -6627,7 +6632,7 @@
 - [alemar11/Mechanica](https://github.com/alemar11/Mechanica) - A cross-platform library of Swift utils to ease your iOS | macOS | watchOS | tvOS and Linux development.
 - [nathanborror/logger](https://github.com/nathanborror/logger) - Logger lets you quickly send messages to yourself as a means of fast note taking.
 - [robb/Swim](https://github.com/robb/Swim) - A DSL for writing HTML in Swift
-- [kean/Pulse](https://github.com/kean/Pulse) - Logger and Network Inspector for Apple Platforms
+- [kean/Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
 - [vincent-pradeilles/swift-tips](https://github.com/vincent-pradeilles/swift-tips) - A collection useful tips for the Swift language
 - [maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL client that lets you forget about GraphQL.
 - [AndrewBennet/PersistedPropertyWrapper](https://github.com/AndrewBennet/PersistedPropertyWrapper) - A Swift library to enable easy persistent UserDefaults storage
