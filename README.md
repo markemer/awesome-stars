@@ -161,6 +161,7 @@
 
 ## Assembly 
 
+- [Myself086/Project-Nested](https://github.com/Myself086/Project-Nested) - 
 - [fjballest/nixMarkIV](https://github.com/fjballest/nixMarkIV) - Nix source
 - [nanochess/heart](https://github.com/nanochess/heart) - x86 16-bit program drawing the heart curve equation
 - [below/HelloSilicon](https://github.com/below/HelloSilicon) - An attempt with ARM64 assembly on Apple Silicon Macs
@@ -251,7 +252,6 @@
 - [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 - [tomvita/SE-tools](https://github.com/tomvita/SE-tools) - This repository put together a set of tools I created for switch memory hacking
 - [rizinorg/rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
-- [BrunoLevy/learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
 - [mabl/ChibiOS](https://github.com/mabl/ChibiOS) - Mirror of the ChibiOS SVN repository (updated every 10 minutes)
 - [mkirchner/linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
 - [avpatel/xvisor-next](https://github.com/avpatel/xvisor-next) - Xvisor: eXtensible Versatile hypervISOR
@@ -949,6 +949,8 @@
 
 ## C++ 
 
+- [polivilas/UnrealEngineSDKGenerator](https://github.com/polivilas/UnrealEngineSDKGenerator) - Generate SDKs from Unreal Engine games (UE1 - 4 supported).
+- [d00telemental/LE1SDK](https://github.com/d00telemental/LE1SDK) - An SDK-like projection of UnrealScript-accessible code for Mass Effect 1 (Legendary Edition)
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
 - [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
 - [SirCxyrtyx/AutoTOC-asi](https://github.com/SirCxyrtyx/AutoTOC-asi) - asi plugin to AutoTOC Mass Effect 3 and Mass Effect Legendary Edition
@@ -1924,7 +1926,7 @@
 - [gographics/imagick](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API
 - [pwaller/go2ll-talk](https://github.com/pwaller/go2ll-talk) - Live coding a basic Go compiler with LLVM in 20 minutes
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
-- [inlets/inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
+- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel
 - [theupdateframework/notary](https://github.com/theupdateframework/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
 - [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
 - [99designs/iamy](https://github.com/99designs/iamy) - A cli tool for importing and exporting AWS IAM configuration to YAML files
@@ -4887,6 +4889,7 @@
 
 ## Python 
 
+- [ratanakvlun/deluge-ltconfig](https://github.com/ratanakvlun/deluge-ltconfig) - 
 - [AYasinAkalin/MELE_quickIniEditor](https://github.com/AYasinAkalin/MELE_quickIniEditor) - A terminal application allowing users and modders to modify .ini and Coalesced_*.bin files of ME Legendary Edition easily without replacing the whole file; losing possible early modifications in process. (ME3 is not supported)
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
@@ -8086,6 +8089,7 @@
 - [oskirby/tinydfu-bootloader](https://github.com/oskirby/tinydfu-bootloader) - USB DFU Bootloader for small FPGAs
 - [NetFPGA/netfpga](https://github.com/NetFPGA/netfpga) - NetFPGA 1G infrastructure and gateware
 - [StefanSchippers/xschem_sky130](https://github.com/StefanSchippers/xschem_sky130) - XSCHEM symbol libraries for the Google-Skywater 130nm process design kit.
+- [BrunoLevy/learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
 - [efabless/caravel](https://github.com/efabless/caravel) - Caravel is a standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space.
 - [AndresNavarro82/vt52-fpga](https://github.com/AndresNavarro82/vt52-fpga) - 
 - [analogdevicesinc/hdl](https://github.com/analogdevicesinc/hdl) - HDL libraries and projects
