@@ -1258,6 +1258,7 @@
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) - Fast and simple homebrew save manager for 3DS and Switch.
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
+- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [intel/libyami](https://github.com/intel/libyami) - Yet Another Media Infrastructure. it is core part of media codec with hardware acceleration, it is yummy to your video experience on Linux like platform.
 - [boostorg/compute](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
@@ -1629,7 +1630,6 @@
 - [replit-archive/repl.it](https://github.com/replit-archive/repl.it) - https://repl.it/feedback Online REPL for 15+ languages.
 - [replit-archive/jq-console](https://github.com/replit-archive/jq-console) - Feature complete web terminal
 - [jashkenas/coffeescript](https://github.com/jashkenas/coffeescript) - Unfancy JavaScript
-- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [twilio/authy-form-helpers](https://github.com/twilio/authy-form-helpers) - Authy javascripts and css file to help create quick forms for the authy api
 - [hipchat/hubot-hipchat](https://github.com/hipchat/hubot-hipchat) - HipChat adapter for GitHub's Hubot
 - [jaymedavis/hubble](https://github.com/jaymedavis/hubble) - A dashboard that displays in the terminal
@@ -1675,7 +1675,6 @@
 - [2d-inc/Flare-Flutter](https://github.com/2d-inc/Flare-Flutter) - Load and get full control of your Rive files in a Flutter project using this library.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
-- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
 ## Dhall 
@@ -2554,7 +2553,6 @@
 - [space150/google-glass-playground](https://github.com/space150/google-glass-playground) - 
 - [azharb/HelloGlass](https://github.com/azharb/HelloGlass) - 
 - [ouya/ouya-sdk-examples](https://github.com/ouya/ouya-sdk-examples) - Examples for ouya sdk engines
-- [eclipse/mylyn](https://github.com/eclipse/mylyn) - Mylyn project repository (mylyn)
 - [JetBrains/MPS](https://github.com/JetBrains/MPS) - JetBrains Meta programming System
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [SmartBear/soapui](https://github.com/SmartBear/soapui) - SoapUI is a free and open source cross-platform functional testing solution for APIs and web services.
@@ -3277,6 +3275,7 @@
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [googlearchive/firebase-simple-login](https://github.com/googlearchive/firebase-simple-login) - Firebase Simple Login Web Client
 - [tomlarkworthy/firesafe](https://github.com/tomlarkworthy/firesafe) - secure firebase state machines
+- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - PLEASE READ THE PROJECT STATUS BELOW.  Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. Please read the README.md file before submitting an issue!
 - [Kitware/tangelo](https://github.com/Kitware/tangelo) - A simple, quick, powerful web framework
 - [soulwire/fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
@@ -5277,7 +5276,7 @@
 - [Ericsson/codechecker](https://github.com/Ericsson/codechecker) - CodeChecker is an analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang Tidy
 - [awslabs/open-data-registry](https://github.com/awslabs/open-data-registry) - A registry of publicly available datasets on AWS
 - [frictionlessdata/frictionless-py](https://github.com/frictionlessdata/frictionless-py) - Frictionless is a framework to describe, extract, validate, and transform tabular data.
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [dcos/dcos](https://github.com/dcos/dcos) - DC/OS - The Datacenter Operating System
 - [Fewbytes/rubber-docker](https://github.com/Fewbytes/rubber-docker) - A workshop on Linux containers: Rebuild Docker from Scratch
 - [webosose/build-webos](https://github.com/webosose/build-webos) - webOS OSE build layer
@@ -6604,6 +6603,7 @@
 
 ## Swift 
 
+- [soapyigu/LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift) - Solutions to LeetCode by Swift
 - [birdrides/mockingbird](https://github.com/birdrides/mockingbird) - A convenient mocking framework for Swift
 - [macmade/IOBrowser](https://github.com/macmade/IOBrowser) - A macOS application for browsing the IOKit registry.
 - [maxgribov/Spine](https://github.com/maxgribov/Spine) - Unofficial Spine runtime Swift library, allows you to play animations created in the Spine app (http://esotericsoftware.com).
@@ -7099,8 +7099,6 @@
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
 - [paulw11/Seam3](https://github.com/paulw11/Seam3) - Cloudkit based persistent store for Core Data
 - [f-meloni/danger-swift-xcodesummary](https://github.com/f-meloni/danger-swift-xcodesummary) - A Danger-Swift plugin that adds build errors, warnings and unit tests results generated from xcodebuild to your Danger report
-- [FoundationDB/fdb-swift-c-packaging](https://github.com/FoundationDB/fdb-swift-c-packaging) - 
-- [FoundationDB/fdb-swift-bindings](https://github.com/FoundationDB/fdb-swift-bindings) - 
 - [mxcl/swift-sh](https://github.com/mxcl/swift-sh) - Easily script with third-party Swift dependencies.
 - [steprescott/XcodeGen](https://github.com/steprescott/XcodeGen) - Repo to support a talk about XcodeGen
 - [Kitura/SwiftKueryMySQL](https://github.com/Kitura/SwiftKueryMySQL) - MySQL plugin for Swift-Kuery framework
