@@ -860,6 +860,7 @@
 
 ## C# # 
 
+- [ME3Tweaks/ME3TweaksModManager](https://github.com/ME3Tweaks/ME3TweaksModManager) - Next generation Mod Manager for all Mass Effect Trilogy games
 - [d00telemental/LECoal](https://github.com/d00telemental/LECoal) - A DEPRECATED tool for packing and unpacking LE1/LE2 Coalesced_INT.bin files.
 - [ME3Tweaks/ModManagerCommandLineTools](https://github.com/ME3Tweaks/ModManagerCommandLineTools) - Command line tools for Mass Effect 3 Mod Manager
 - [ME3Tweaks/LegendaryExplorer](https://github.com/ME3Tweaks/LegendaryExplorer) - Editor toolset for Mass Effect Trilogy and Mass Effect Legendary Edition
@@ -879,7 +880,6 @@
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [Emotiv/cortex-v2-example](https://github.com/Emotiv/cortex-v2-example) - Example with Cortex V2 API
 - [renode/renode](https://github.com/renode/renode) - Renode - Antmicro's virtual development framework for complex embedded systems
-- [HJLebbink/asm-dude](https://github.com/HJLebbink/asm-dude) - Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
 - [dotnet/wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
@@ -2096,7 +2096,7 @@
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [JamesLMilner/cheap-ruler-go](https://github.com/JamesLMilner/cheap-ruler-go) - 📏 cheapruler in Go: fast geodesic measurements
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Kubernetes controller for OpenFaaS
+- [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless on Kubernetes with OpenFaaS
 - [ScottHelme/HPACK-Encode](https://github.com/ScottHelme/HPACK-Encode) - Encode strings with HPACK.
 - [pwaller/go-ffmpeg-video-encoding](https://github.com/pwaller/go-ffmpeg-video-encoding) - Basic bindings for ffmpeg video encoding
 - [vivint/infectious](https://github.com/vivint/infectious) - Reed-Solomon forward error correcting library
@@ -2580,6 +2580,7 @@
 
 ## JavaScript 
 
+- [dineshsonachalam/markdown-autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - ✨ A GitHub Action that automatically generates & updates markdown content (like your README.md) from external or remote files.
 - [tuist/tuist-action](https://github.com/tuist/tuist-action) - A GitHub action to run Tuist from GitHub workflows
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [galaxykate/codoodle](https://github.com/galaxykate/codoodle) - Unfussy platform for multiplayer Jackbox style doodle rooms
@@ -2703,7 +2704,7 @@
 - [YOCKOW/Action-setup-swift](https://github.com/YOCKOW/Action-setup-swift) - GitHub Action that sets up Swift.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 - [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
-- [i5ik/ViewFinderJS](https://github.com/i5ik/ViewFinderJS) - :camera: ViewFinder - Remote isolated browser for security and building on top of. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed options available. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and open-source. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
+- [i5ik/ViewFinderJS](https://github.com/i5ik/ViewFinderJS) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and open-source. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
 - [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [millette/oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
@@ -4888,6 +4889,7 @@
 
 ## Python 
 
+- [avrae/d20](https://github.com/avrae/d20) - A fast, powerful, and extensible dice engine for D&D, d20 systems, and any other system that needs dice!
 - [ratanakvlun/deluge-ltconfig](https://github.com/ratanakvlun/deluge-ltconfig) - 
 - [AYasinAkalin/MELE_quickIniEditor](https://github.com/AYasinAkalin/MELE_quickIniEditor) - A terminal application allowing users and modders to modify .ini and Coalesced_*.bin files of ME Legendary Edition easily without replacing the whole file; losing possible early modifications in process. (ME3 is not supported)
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
@@ -5071,6 +5073,7 @@
 - [openbmc/openbmc-tools](https://github.com/openbmc/openbmc-tools) - Collection of useful tools to interact with openbmc
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [Backblaze/b2-sdk-python](https://github.com/Backblaze/b2-sdk-python) - Python library to access B2 cloud storage.
+- [HJLebbink/asm-dude](https://github.com/HJLebbink/asm-dude) - Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
 - [jgehrcke/goeffel](https://github.com/jgehrcke/goeffel) - A tool for measuring the resource utilization of a specific process over time
 - [usb-tools/Facedancer](https://github.com/usb-tools/Facedancer) - modern FaceDancer core for multiple devices-- including GreatFET
 - [rndusr/torf](https://github.com/rndusr/torf) - Python module to create, parse and edit torrent files and magnet links
@@ -7368,7 +7371,7 @@
 - [krzysztofzablocki/Difference](https://github.com/krzysztofzablocki/Difference) - Simple way to identify what is different between 2 instances of any type. Must have for TDD.
 - [meghaphone/FaceDetection](https://github.com/meghaphone/FaceDetection) - Sample app for using Vision for Face Detection
 - [KiranJasvanee/OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - A simple and flexible way to add source of overlapping circular pictures, currently supports horizontal overlapping or distant pictures with great layout flexibility.
-- [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
+- [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission. Support SwiftUI.
 - [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute!
 - [JohnSundell/ImagineEngine](https://github.com/JohnSundell/ImagineEngine) - A project to create a blazingly fast Swift game engine that is a joy to use 🚀
 - [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
