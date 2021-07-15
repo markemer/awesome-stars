@@ -886,7 +886,7 @@
 - [kowalej/BlueMuse](https://github.com/kowalej/BlueMuse) - Windows 10 app to stream data from Muse EEG headsets via LSL (Lab Streaming Layer).
 - [t1lang/t1bootstrap](https://github.com/t1lang/t1bootstrap) - Bootstrap compiler
 - [fdorg/flashdevelop](https://github.com/fdorg/flashdevelop) - FlashDevelop is a free and open source code editor.
-- [windows-toolkit/WindowsCommunityToolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit is part of the .NET Foundation.
+- [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit is part of the .NET Foundation.
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [pgina/pgina](https://github.com/pgina/pgina) - pGina: Open Source Windows Authentication
 - [opentk/opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac.
@@ -955,7 +955,7 @@
 - [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
 - [SirCxyrtyx/AutoTOC-asi](https://github.com/SirCxyrtyx/AutoTOC-asi) - asi plugin to AutoTOC Mass Effect 3 and Mass Effect Legendary Edition
 - [brwarner/inkcpp](https://github.com/brwarner/inkcpp) - Inkle Ink C++ Runtime with JSON&gt;Binary Compiler
-- [d00telemental/LEBinkProxy](https://github.com/d00telemental/LEBinkProxy) - A small multi-functional proxy DLL for all the four apps in Mass Effect Legendary Edition. Enables dev. console, loads native plugins, adds a command line switch for the Launcher to boot directly into one of the games.
+- [d00telemental/LEBinkProxy](https://github.com/d00telemental/LEBinkProxy) - A multi-functional proxy DLL for Mass Effect Legendary Edition. Unlocks console, loads native plugins, provides an option for bypassing the launcher.
 - [gogcom/galaxy-ue4-oss-plugin](https://github.com/gogcom/galaxy-ue4-oss-plugin) - OnlineSubsystem interface implementation for GOG Galaxy platform
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [bespoke-silicon-group/bsg_replicant](https://github.com/bespoke-silicon-group/bsg_replicant) - Bespoke Silicon Group AWS EC2 F1 Infrastructure and Interface logic for HammerBlade
@@ -1891,7 +1891,7 @@
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) - A bazel BUILD file formatter and editor
 - [golang/protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
-- [cuelang/cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
+- [cuelang/cue](https://github.com/cuelang/cue) - CUE has moved to https://github.com/cue-lang/cue
 - [GoogleCloudPlatform/cloud-run-button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
@@ -3593,6 +3593,7 @@
 
 ## Nix 
 
+- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [blitz/ulx3s-tools](https://github.com/blitz/ulx3s-tools) - Nix packages for ULX3s FPGA development
 
 ## Nunjucks 
