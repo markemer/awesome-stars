@@ -209,6 +209,7 @@
 
 ## C 
 
+- [Wolfgang-Spraul/fpgatools](https://github.com/Wolfgang-Spraul/fpgatools) - public domain tools for FPGAs
 - [libtcod/libtcod](https://github.com/libtcod/libtcod) - The official repository for libtcod.  A roguelike development library.
 - [electronicarts/MELE_ModdingSupport](https://github.com/electronicarts/MELE_ModdingSupport) - 
 - [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
@@ -949,6 +950,7 @@
 
 ## C++ 
 
+- [d00telemental/LENativeExperiments](https://github.com/d00telemental/LENativeExperiments) - Some native modding research experiments for Legendary Edition
 - [polivilas/UnrealEngineSDKGenerator](https://github.com/polivilas/UnrealEngineSDKGenerator) - Generate SDKs from Unreal Engine games (UE1 - 4 supported).
 - [d00telemental/LE1SDK](https://github.com/d00telemental/LE1SDK) - An SDK-like projection of UnrealScript-accessible code for Mass Effect 1 (Legendary Edition)
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
@@ -1242,7 +1244,6 @@
 - [LunarG/VulkanTools](https://github.com/LunarG/VulkanTools) - Tools to aid in Vulkan development including useful layers, trace and replay, and tests
 - [haiku/haiku](https://github.com/haiku/haiku) - The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).
 - [XiaoMi/mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
-- [facebookincubator/BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [chunying/gaminganywhere](https://github.com/chunying/gaminganywhere) - GamingAnywhere: An Open Cloud Gaming System
 - [probonopd/MakeHex](https://github.com/probonopd/MakeHex) - MakeHex by John Fine. Makes clean IR sequences from IR protocol files.
@@ -2392,6 +2393,7 @@
 
 ## Haskell 
 
+- [jez/pandoc-sidenote](https://github.com/jez/pandoc-sidenote) - Convert Pandoc Markdown-style footnotes into sidenotes
 - [jgm/pandoc-server](https://github.com/jgm/pandoc-server) - Simple server app for pandoc conversions.
 - [jgm/gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
@@ -3395,7 +3397,7 @@
 
 ## Jupyter Notebook 
 
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 24 lessons, classic Machine Learning for all
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all
 - [freechipsproject/chisel-bootcamp](https://github.com/freechipsproject/chisel-bootcamp) - Generator Bootcamp Material: Learn Chisel the Right Way
 - [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
 - [aamini/introtodeeplearning](https://github.com/aamini/introtodeeplearning) - Lab Materials for MIT 6.S191: Introduction to Deep Learning
@@ -4436,6 +4438,7 @@
 - [freeskys/awesome-cocoapods](https://github.com/freeskys/awesome-cocoapods) - Awesome list for cocoapods support libraries
 - [datajtext/DataJournalismTextbook](https://github.com/datajtext/DataJournalismTextbook) - The main repository for a collaborative text on data journalism.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+- [facebookincubator/BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries
 - [MacroFab/MF_Part_Style_Guide](https://github.com/MacroFab/MF_Part_Style_Guide) - Part Style Guide for part footprints.
 - [MacroFab/EDALibraries](https://github.com/MacroFab/EDALibraries) - EDA Libraries for MacroFab House Parts
 - [GoogleCloudPlatform/cloud-code-intellij](https://github.com/GoogleCloudPlatform/cloud-code-intellij) - Plugin to support the Google Cloud Platform in IntelliJ IDEA - Docs and Issues Repository
@@ -6608,6 +6611,7 @@
 
 ## Swift 
 
+- [mattt/swift-package-sbom](https://github.com/mattt/swift-package-sbom) - A software bill of materials (SBoM) generator for Swift packages
 - [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library
 - [soapyigu/LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift) - Solutions to LeetCode by Swift
 - [birdrides/mockingbird](https://github.com/birdrides/mockingbird) - A convenient mocking framework for Swift
