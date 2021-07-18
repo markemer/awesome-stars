@@ -1056,7 +1056,7 @@
 - [microsoft/cppwinrt](https://github.com/microsoft/cppwinrt) - C++ language projection for the Windows Runtime
 - [thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor using ImGui
 - [thennequin/ImWindow](https://github.com/thennequin/ImWindow) - Window and GUI system based on Dear ImGui from OCornut
-- [epezent/implot](https://github.com/epezent/implot) - Advanced 2D Plotting for Dear ImGui
+- [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty McBloatface: a size profiler for binaries
 - [pqrs-org/Karabiner-DriverKit-VirtualHIDDevice](https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice) - 
 - [protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
@@ -7492,8 +7492,8 @@
 - [SwipeCellKit/SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.
 - [PodBuilder/XcodeKit](https://github.com/PodBuilder/XcodeKit) - An Objective-C library that parses Xcode projects
 - [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool and Xcode Extension for formatting Swift code
-- [i-schuetz/PieCharts](https://github.com/i-schuetz/PieCharts) - Easy to use and highly customizable pie charts library for iOS
-- [i-schuetz/ChartLegends](https://github.com/i-schuetz/ChartLegends) - Easy to use and highly customizable chart legends
+- [ivanschuetz/PieCharts](https://github.com/ivanschuetz/PieCharts) - Easy to use and highly customizable pie charts library for iOS
+- [ivanschuetz/ChartLegends](https://github.com/ivanschuetz/ChartLegends) - Easy to use and highly customizable chart legends
 - [BalestraPatrick/SquishButton](https://github.com/BalestraPatrick/SquishButton) - A button that squishes when pressed. As seen in the Clips app.
 - [JohnSundell/Marathon](https://github.com/JohnSundell/Marathon) - [DEPRECATED] Marathon makes it easy to write, run and manage your Swift scripts 🏃
 - [material-motion/material-motion-swift](https://github.com/material-motion/material-motion-swift) - A toolkit for building responsive motion using Core Animation.
@@ -7703,7 +7703,7 @@
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [MrMatthias/SwiftColorPicker](https://github.com/MrMatthias/SwiftColorPicker) - An iOS HSB color picker implemented in Swift
 - [gpbl/SwiftChart](https://github.com/gpbl/SwiftChart) - Line and area chart library for iOS
-- [i-schuetz/SwiftCharts](https://github.com/i-schuetz/SwiftCharts) - Easy to use and highly customizable charts library for iOS
+- [ivanschuetz/SwiftCharts](https://github.com/ivanschuetz/SwiftCharts) - Easy to use and highly customizable charts library for iOS
 - [haaakon/SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, written in Swift. Also supports accessability!
 - [naoty/Timepiece](https://github.com/naoty/Timepiece) - Intuitive date handling in Swift
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
