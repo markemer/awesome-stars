@@ -950,7 +950,7 @@
 
 ## C++ 
 
-- [d00telemental/LENativeExperiments](https://github.com/d00telemental/LENativeExperiments) - Some native modding research experiments for Legendary Edition
+- [d00telemental/LENativeExperiments](https://github.com/d00telemental/LENativeExperiments) - Some native modding experiments for Mass Effect (Legendary Edition).
 - [polivilas/UnrealEngineSDKGenerator](https://github.com/polivilas/UnrealEngineSDKGenerator) - Generate SDKs from Unreal Engine games (UE1 - 4 supported).
 - [d00telemental/LE1SDK](https://github.com/d00telemental/LE1SDK) - An SDK-like projection of UnrealScript-accessible code for Mass Effect 1 (Legendary Edition)
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
@@ -4184,6 +4184,7 @@
 
 ## Others 
 
+- [mooltipass/minible_hw](https://github.com/mooltipass/minible_hw) - Repository for the Mini BLE Hardware
 - [bluescan/proggyfonts](https://github.com/bluescan/proggyfonts) - Monospaced fonts for programming.
 - [joenash/awesome-infinidash](https://github.com/joenash/awesome-infinidash) - An awesome list for the awe-inspiring power of Infinidash, an imaginary product.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -7313,7 +7314,7 @@
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [kharrison/MapFilterReduce](https://github.com/kharrison/MapFilterReduce) - A Swift Guide To Map Filter And Reduce
 - [dreymonde/Shallows](https://github.com/dreymonde/Shallows) - 🛶 Your lightweight persistence toolbox
-- [kizitonwose/PodsUpdater](https://github.com/kizitonwose/PodsUpdater) - A macOS app which helps you manage dependency releases in your Podfile.
+- [kizitonwose/PodsUpdater](https://github.com/kizitonwose/PodsUpdater) - A macOS app that helps you manage dependency releases in your Podfile.
 - [raspu/Highlightr](https://github.com/raspu/Highlightr) - iOS & OSX Syntax Highlighter.
 - [GitHawkApp/MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement written in Swift for the iPhone X.
 - [noppoMan/Hexaville](https://github.com/noppoMan/Hexaville) - The modern serverless web application engine and framework for Swift
