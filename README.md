@@ -4184,6 +4184,7 @@
 
 ## Others 
 
+- [henbagle/LE1CommunityPatch](https://github.com/henbagle/LE1CommunityPatch) - Issue tracker for the Community Patch mod for Mass Effect 1: Legendary Edition
 - [mooltipass/minible_hw](https://github.com/mooltipass/minible_hw) - Repository for the Mini BLE Hardware
 - [bluescan/proggyfonts](https://github.com/bluescan/proggyfonts) - Monospaced fonts for programming.
 - [joenash/awesome-infinidash](https://github.com/joenash/awesome-infinidash) - An awesome list for the awe-inspiring power of Infinidash, an imaginary product.
@@ -6612,6 +6613,8 @@
 
 ## Swift 
 
+- [mleiv/MEGameTracker](https://github.com/mleiv/MEGameTracker) - The source code for my Mass Effect tracking app.
+- [softhausHQ/CircleBar](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 - [mattt/swift-package-sbom](https://github.com/mattt/swift-package-sbom) - A software bill of materials (SBoM) generator for Swift packages
 - [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library
 - [soapyigu/LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift) - Solutions to LeetCode by Swift
@@ -8093,6 +8096,7 @@
 
 ## Verilog 
 
+- [ultraembedded/core_uriscv](https://github.com/ultraembedded/core_uriscv) - Another tiny RISC-V implementation
 - [schlae/graphics-gremlin](https://github.com/schlae/graphics-gremlin) - Open source retro ISA video card
 - [esa-tu-darmstadt/tapasco](https://github.com/esa-tu-darmstadt/tapasco) - The Task Parallel System Composer (TaPaSCo)
 - [oskirby/tinydfu-bootloader](https://github.com/oskirby/tinydfu-bootloader) - USB DFU Bootloader for small FPGAs
