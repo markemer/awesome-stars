@@ -1259,6 +1259,7 @@
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) - Fast and simple homebrew save manager for 3DS and Switch.
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
+- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [intel/libyami](https://github.com/intel/libyami) - Yet Another Media Infrastructure. it is core part of media codec with hardware acceleration, it is yummy to your video experience on Linux like platform.
 - [boostorg/compute](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
@@ -1675,7 +1676,6 @@
 - [2d-inc/Flare-Flutter](https://github.com/2d-inc/Flare-Flutter) - Load and get full control of your Rive files in a Flutter project using this library.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
-- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
 ## Dhall 
@@ -2620,7 +2620,7 @@
 - [atlassian/gajira-cli](https://github.com/atlassian/gajira-cli) - 
 - [atlassian/gajira-find-issue-key](https://github.com/atlassian/gajira-find-issue-key) - 
 - [atlassian/gajira-login](https://github.com/atlassian/gajira-login) - Jira Login GitHub Action
-- [andris9/imapapi](https://github.com/andris9/imapapi) - Headless email client
+- [postalsys/imapapi](https://github.com/postalsys/imapapi) - Headless email client
 - [plaid/plaid-node](https://github.com/plaid/plaid-node) - Node bindings for Plaid
 - [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - A javascript library to build expressive web presentations in seconds.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
@@ -2926,6 +2926,7 @@
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [alexwforsythe/code-blocks](https://github.com/alexwforsythe/code-blocks) - Syntax highlighting for Google Docs
+- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [lightning-viz/lightning](https://github.com/lightning-viz/lightning) - Data Visualization Server
 - [PlanetAPL/node-apl](https://github.com/PlanetAPL/node-apl) - An ancient programming language adapted to a JavaScript-dominated world
 - [vigetlabs/blendid](https://github.com/vigetlabs/blendid) - A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder
@@ -3228,7 +3229,7 @@
 - [zaach/jison](https://github.com/zaach/jison) - Bison in JavaScript.
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [whiteout-io/mail](https://github.com/whiteout-io/mail) - [ABANDONED] Mail App with integrated OpenPGP encryption
-- [hsw107/Photoshop-Export-Layers-to-Files-Fast](https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast) - This script allows you to export your layers as individual JPGs / PNGs at a speed much faster than the built-in script from adobe.
+- [hsw107/Photoshop-Export-Layers-to-Files-Fast](https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast) - This script allows you to export your layers as individual files at a speed much faster than the built-in script from adobe.
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
@@ -5715,7 +5716,6 @@
 
 ## Rich Text Format 
 
-- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [lexrus/LTFinderButtons](https://github.com/lexrus/LTFinderButtons) - My Finder buttons collection for macOS.
 - [ckeditor/ckeditor4](https://github.com/ckeditor/ckeditor4) - The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
