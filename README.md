@@ -1572,6 +1572,7 @@
 - [vatesfr/xo](https://github.com/vatesfr/xo) - Merged with monorepo https://github.com/vatesfr/xen-orchestra
 - [sexualitics/porngram](https://github.com/sexualitics/porngram) - Code source of the Porngram ::
 - [sindresorhus/bower-components](https://github.com/sindresorhus/bower-components) - [DEPRECATED] Site to discover Bower components
+- [chromatic/modern_perl_book](https://github.com/chromatic/modern_perl_book) - Modern Perl: the book
 - [twitter/recess](https://github.com/twitter/recess) - A simple and attractive code quality tool for CSS built on top of LESS
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [redroot/holmes](https://github.com/redroot/holmes) - Holmes is stand-alone diagnostic CSS stylesheet that can highlight potentially invalid or erroneous HTML(5) markup by adding one class
@@ -1926,7 +1927,7 @@
 - [gographics/imagick](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API
 - [pwaller/go2ll-talk](https://github.com/pwaller/go2ll-talk) - Live coding a basic Go compiler with LLVM in 20 minutes
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
-- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel
+- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [theupdateframework/notary](https://github.com/theupdateframework/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
 - [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
 - [99designs/iamy](https://github.com/99designs/iamy) - A cli tool for importing and exporting AWS IAM configuration to YAML files
@@ -2697,7 +2698,7 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [kav2k/fl_favourites](https://github.com/kav2k/fl_favourites) - Playing Favourites for Fallen London
 - [sdob/fl-social-notifications](https://github.com/sdob/fl-social-notifications) - An unofficial extension for Fallen London that checks your Messages tab for you.
-- [integrations/jira](https://github.com/integrations/jira) - Connect your code with your project management in Jira
+- [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira) - Connect your code with your project management in Jira
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [PaulTaykalo/objc-dependency-visualizer](https://github.com/PaulTaykalo/objc-dependency-visualizer) - Objective-C and Swift dependency visualizer. It's tool that helps to visualize current state of your project. It's really easy to see how tight your classes are coupled.
@@ -4426,6 +4427,7 @@
 - [okzach/fallout_savegame_010_editor_binary_template](https://github.com/okzach/fallout_savegame_010_editor_binary_template) - A Binary Template describing Fallout 4 save game files for use with 010 Editor.
 - [sp4ke/awesome-explorables](https://github.com/sp4ke/awesome-explorables) - A curated list of awesome explorable explanations.
 - [nwinkler/atom-keyboard-shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts) - A list of keyboard shortcuts for the Atom text editor
+- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
 - [struct/mms](https://github.com/struct/mms) - Modern Memory Safety in C/C++
 - [AlphamaxMedia/netv2-case](https://github.com/AlphamaxMedia/netv2-case) - Case design for NeTV2
 - [AlphamaxMedia/netv2-dvt-mainboard](https://github.com/AlphamaxMedia/netv2-dvt-mainboard) - NeTV2 mainboard design files
@@ -4856,7 +4858,6 @@
 - [yogan/cope](https://github.com/yogan/cope) - A colourful wrapper for terminal programs
 - [PerlDancer/Dancer](https://github.com/PerlDancer/Dancer) - The easiest way to write web applications with Perl (Perl web micro-framework)
 - [exflickr/GodAuth](https://github.com/exflickr/GodAuth) - Authentication layer for web app tools
-- [chromatic/modern_perl_book](https://github.com/chromatic/modern_perl_book) - Modern Perl: the book
 - [zentyal/zentyal](https://github.com/zentyal/zentyal) - Linux Small Business Server
 - [creaktive/rainbarf](https://github.com/creaktive/rainbarf) - it's like Rainmeter, but for CLI!
 - [libwww-perl/libwww-perl](https://github.com/libwww-perl/libwww-perl) - The libwww-perl collection is a set of Perl modules which provides a simple and consistent application programming interface to the World-Wide Web. The main focus of the library is to provide classes and functions that allow you to write WWW clients. The library also contain modules that are of more general use and even classes that help you implement simple HTTP servers.
@@ -4960,7 +4961,6 @@
 - [touchlab/xcode-kotlin](https://github.com/touchlab/xcode-kotlin) - Kotlin Native Xcode Plugin
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [savagezen/dnd-tools](https://github.com/savagezen/dnd-tools) - Interactive CLI tools for Dungeons and Dragons 5e
-- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [madmachineio/mm-sdk](https://github.com/madmachineio/mm-sdk) - CLI based SDK for building MadMachine project.
 - [jedimatt42/tipi](https://github.com/jedimatt42/tipi) - TI-99/4A to Raspberry PI messaging through console sideport
@@ -5200,7 +5200,7 @@
 - [tkrajina/gpxpy](https://github.com/tkrajina/gpxpy) - gpx-py is a python GPX parser. GPX (GPS eXchange Format) is an XML based file format for GPS tracks.
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [KhronosGroup/glTF-Blender-Exporter](https://github.com/KhronosGroup/glTF-Blender-Exporter) - Moved to https://github.com/KhronosGroup/glTF-Blender-IO.
-- [aaronpenne/generative_art](https://github.com/aaronpenne/generative_art) - A collection of my generative artwork, mostly with Processing in Python mode
+- [aaronpenne/generative_art](https://github.com/aaronpenne/generative_art) - A collection of my *old* generative artwork, mostly with Processing in Python mode
 - [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
 - [NVIDIA/vid2vid](https://github.com/NVIDIA/vid2vid) - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 - [NVIDIA/apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
@@ -5217,7 +5217,6 @@
 - [Dyalog/dyalog-jupyter-kernel](https://github.com/Dyalog/dyalog-jupyter-kernel) - A Jupyter kernel for Dyalog APL
 - [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [IDArlingTeam/IDArling](https://github.com/IDArlingTeam/IDArling) - Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays
-- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [caobokai/DeepMood](https://github.com/caobokai/DeepMood) - 
 - [mitsuhiko/flask-pastebin](https://github.com/mitsuhiko/flask-pastebin) - Example pastebin with websockets, sqlalchemy, facebook connect and a bunch of other buzzwords
@@ -6352,6 +6351,7 @@
 - [timwis/markdown-to-google-doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive
 - [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
 - [clieg/cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux.
+- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
 - [KosalaHerath/macos-installer-builder](https://github.com/KosalaHerath/macos-installer-builder) - Generate macOS installers for your applications and products from one command
 - [dslm4515/Musl-LFS](https://github.com/dslm4515/Musl-LFS) - Linux From Scratch using Musl as Libc
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le)
