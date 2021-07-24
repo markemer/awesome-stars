@@ -2690,7 +2690,6 @@
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [aws-actions/amazon-ecr-login](https://github.com/aws-actions/amazon-ecr-login) - Logs into Amazon ECR with the local Docker client.
 - [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
-- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [glebm/render-whitespace-on-github](https://github.com/glebm/render-whitespace-on-github) - Are they tabs? Are they spaces? How many? Never wonder again!
 - [maddox/harmony-api](https://github.com/maddox/harmony-api) - 🗼 A simple server allowing you to query/control multiple local Harmony Home Hubs over HTTP or MQTT
@@ -3468,7 +3467,6 @@
 
 ## Kotlin 
 
-- [awslabs/smithy-rs](https://github.com/awslabs/smithy-rs) - 
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [GitLiveApp/firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
@@ -6102,6 +6100,7 @@
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [charsyam/hashids_rust](https://github.com/charsyam/hashids_rust) - rust hashids implements
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
+- [awslabs/smithy-rs](https://github.com/awslabs/smithy-rs) - 
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - 
 - [blitz/clac](https://github.com/blitz/clac) - A reverse polish calculator - a modern replacement for dc
 - [sixtyfpsui/sixtyfps](https://github.com/sixtyfpsui/sixtyfps) - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
@@ -7952,6 +7951,7 @@
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [firebase/firebase-functions-test](https://github.com/firebase/firebase-functions-test) - 
 - [jtenner/as-pect](https://github.com/jtenner/as-pect) - 🔥Blazing🔥 fast testing with AssemblyScript
+- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
 - [googleapis/github-repo-automation](https://github.com/googleapis/github-repo-automation) - A set of tools to automate multiple GitHub repository management.
 - [actions/setup-ruby](https://github.com/actions/setup-ruby) - Set up your GitHub Actions workflow with a specific version of Ruby
 - [JordanMartin/harmonyhub-api](https://github.com/JordanMartin/harmonyhub-api) - Harmony Hub API that use the local websocket API of the hub
@@ -8156,7 +8156,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [ThaumRystra/DiceCloud](https://github.com/ThaumRystra/DiceCloud) - D&D 5e digital character manager
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
