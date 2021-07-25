@@ -578,6 +578,7 @@
 - [iliasam/OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Source scanning laser rangefinder
 - [getdnsapi/stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [m-labs/misoc](https://github.com/m-labs/misoc) - A high performance and small footprint system-on-chip based on Migen
 - [enjoy-digital/pcie_screamer](https://github.com/enjoy-digital/pcie_screamer) - PCIe Screamer - TLPs experiments...
 - [enjoy-digital/litex](https://github.com/enjoy-digital/litex) - Build your hardware, easily!
 - [bunnie/netv2-soc](https://github.com/bunnie/netv2-soc) - NeTV2 SoC based on LiteX
@@ -781,6 +782,7 @@
 - [adafruit/adafruit-raspberrypi-linux](https://github.com/adafruit/adafruit-raspberrypi-linux) - Adafruit's hacking-friendly Raspberry Pi linux kernel
 - [droe/sslsplit](https://github.com/droe/sslsplit) - Transparent SSL/TLS interception
 - [nginx/nginx-releases](https://github.com/nginx/nginx-releases) - * NOTE: This repository has been retired *. Complete (unofficial) history of nginx releases.  Please note that this repository is unofficial and pull requests have no chance of being merged. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html.
+- [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror) - This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.
 - [openworm/sibernetic](https://github.com/openworm/sibernetic) - This is a C++/OpenCL implementation of the PCISPH algorithm supplemented with a set of biomechanics related features applied to C. elegans locomotion
 - [espressif/ESP8266_RTOS_SDK](https://github.com/espressif/ESP8266_RTOS_SDK) - Latest ESP8266 SDK based on FreeRTOS, esp-idf style.
 - [esp8266/esp8266-wiki](https://github.com/esp8266/esp8266-wiki) - 
@@ -1433,7 +1435,6 @@
 - [tdenniston/bish](https://github.com/tdenniston/bish) - Bish is a language that compiles to Bash. It's designed to give shell scripting a more comfortable and modern feel.
 - [adafruit/Adafruit_LED_Backpack](https://github.com/adafruit/Adafruit_LED_Backpack) - Adafruit LED Backpack Library for our 8x8 matrix and 7-segment LED backpacks
 - [frida/cryptoshark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
-- [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror) - This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.
 - [capnproto/ekam](https://github.com/capnproto/ekam) - Ekam Build System
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [aidin36/tocc](https://github.com/aidin36/tocc) - A tag based file management system.
@@ -1544,6 +1545,7 @@
 - [usds/playbook](https://github.com/usds/playbook) - The Digital Services Playbook
 - [macports/macports-guide](https://github.com/macports/macports-guide) - A guide for MacPorts users and developers
 - [caddyserver/examples](https://github.com/caddyserver/examples) - OBSOLETE. This repo was for Caddy v1. For v2 and newer, see our forum's wiki category.
+- [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 - [andev-software/graphql-ide](https://github.com/andev-software/graphql-ide) - ⚡️ GraphQL IDE - An extensive IDE for exploring GraphQL API's
 - [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book) - 
 - [helios-framework/helios](https://github.com/helios-framework/helios) - An extensible open-source mobile backend framework
@@ -1762,6 +1764,7 @@
 
 ## Go 
 
+- [blacktop/go-macho](https://github.com/blacktop/go-macho) - Package macho implements access to and creation of Mach-O object files.
 - [aws/session-manager-plugin](https://github.com/aws/session-manager-plugin) - This plugin helps you to use the AWS Command Line Interface (AWS CLI) to start and end sessions to your managed instances
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [martinbaillie/vault-plugin-secrets-github](https://github.com/martinbaillie/vault-plugin-secrets-github) - Create ephemeral, finely-scoped @github access tokens using @hashicorp Vault.
@@ -2984,7 +2987,6 @@
 - [staltz/rxmarbles](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables
 - [inkle/inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
 - [dfabulich/choicescript](https://github.com/dfabulich/choicescript) - ChoiceScript is a language for developing multiple-choice games.
-- [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 - [lazerwalker/storyboard-iOS](https://github.com/lazerwalker/storyboard-iOS) - Swift reference client for the Storyboard storytelling engine
 - [nathanhleung/oganesson](https://github.com/nathanhleung/oganesson) - A parser for chemical formula strings.
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
@@ -5294,7 +5296,6 @@
 - [enjoy-digital/litejesd204b](https://github.com/enjoy-digital/litejesd204b) - Small footprint and configurable JESD204B core
 - [enjoy-digital/litesata](https://github.com/enjoy-digital/litesata) - Small footprint and configurable SATA core
 - [enjoy-digital/litesdcard](https://github.com/enjoy-digital/litesdcard) - Small footprint and configurable SDCard core
-- [m-labs/misoc](https://github.com/m-labs/misoc) - A high performance and small footprint system-on-chip based on Migen
 - [enjoy-digital/liteeth](https://github.com/enjoy-digital/liteeth) - Small footprint and configurable Ethernet core
 - [enjoy-digital/litevideo](https://github.com/enjoy-digital/litevideo) - Small footprint and configurable video cores
 - [enjoy-digital/litedram](https://github.com/enjoy-digital/litedram) - Small footprint and configurable DRAM core
