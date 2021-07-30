@@ -1766,6 +1766,8 @@
 
 ## Go 
 
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
+- [syncfast/clockwise](https://github.com/syncfast/clockwise) - Clockwise is a meeting cost calculator designed to encourage more efficient meetings.
 - [blacktop/go-macho](https://github.com/blacktop/go-macho) - Package macho implements access to and creation of Mach-O object files.
 - [aws/session-manager-plugin](https://github.com/aws/session-manager-plugin) - This plugin helps you to use the AWS Command Line Interface (AWS CLI) to start and end sessions to your managed instances
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
@@ -1885,7 +1887,7 @@
 - [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use
 - [replit/upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
-- [motemen/gore](https://github.com/motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
+- [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [google/schedviz](https://github.com/google/schedviz) - A tool for gathering and visualizing kernel scheduling traces on Linux machines
 - [google/renameio](https://github.com/google/renameio) - Package renameio provides a way to atomically create or replace a file or symbolic link.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -2628,7 +2630,7 @@
 - [atlassian/gajira-cli](https://github.com/atlassian/gajira-cli) - 
 - [atlassian/gajira-find-issue-key](https://github.com/atlassian/gajira-find-issue-key) - 
 - [atlassian/gajira-login](https://github.com/atlassian/gajira-login) - Jira Login GitHub Action
-- [postalsys/imapapi](https://github.com/postalsys/imapapi) - Headless email client
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client
 - [plaid/plaid-node](https://github.com/plaid/plaid-node) - Node bindings for Plaid
 - [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - A javascript library to build expressive web presentations in seconds.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
@@ -3121,7 +3123,6 @@
 - [dhleong/ps4-waker](https://github.com/dhleong/ps4-waker) - Wake your PS4 over LAN (with help from the Playstation App)
 - [timonreinhard/wemo-client](https://github.com/timonreinhard/wemo-client) - JavaScript client library for controlling and subscribing to Wemo Devices
 - [JoeKuhns/PiedPiPer.safariextension](https://github.com/JoeKuhns/PiedPiPer.safariextension) - Add Picture-in-Picture Functionality to Netflix, YouTube, Plex, and dailymotion in macOS Sierra
-- [lgpage/nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [keen/keen-dataviz.js](https://github.com/keen/keen-dataviz.js) - Data Visualization Charting Library
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
 - [hotosm/osm-tasking-manager2](https://github.com/hotosm/osm-tasking-manager2) - Designed and built for Humanitarian OpenStreetMap Team collaborative emergency/disaster mapping, the OSM Tasking Manager 2.0 divides an area into individual squares that can be rapidly mapped by thousands of volunteers.
@@ -4385,6 +4386,7 @@
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [dsasmblr/game-hacking](https://github.com/dsasmblr/game-hacking) - Tutorials, tools, and more as related to reverse engineering video games.
+- [GPUOpen-Drivers/AMDVLK](https://github.com/GPUOpen-Drivers/AMDVLK) - AMD Open Source Driver For Vulkan
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [marcdemers/FIGR-8](https://github.com/marcdemers/FIGR-8) - Few-shot Image Generation with Reptile: the dataset
 - [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
@@ -5170,7 +5172,6 @@
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [munki/macadmin-scripts](https://github.com/munki/macadmin-scripts) - Scripts of possible interest to macOS admins
 - [ktraunmueller/Computable](https://github.com/ktraunmueller/Computable) - IPython and SciPy on the iPad
-- [GPUOpen-Drivers/AMDVLK](https://github.com/GPUOpen-Drivers/AMDVLK) - AMD Open Source Driver For Vulkan
 - [rbanffy/3270font](https://github.com/rbanffy/3270font) - A 3270 font in a modern format
 - [HackerPoet/Avant-Garfield](https://github.com/HackerPoet/Avant-Garfield) - Trains neural networks to generate new Garfield comics
 - [mortada/fredapi](https://github.com/mortada/fredapi) - Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
@@ -5191,7 +5192,7 @@
 - [jacebrowning/memegen](https://github.com/jacebrowning/memegen) - The free and open source API to generate memes.
 - [azonenberg/freesample](https://github.com/azonenberg/freesample) - High performance sampling oscilloscope based on INTEGRALSTICK
 - [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [LINKIWI/modern-paste](https://github.com/LINKIWI/modern-paste) - A modern, feature-rich Pastebin alternative
 - [mme/vergeml](https://github.com/mme/vergeml) - Machine Learning Environment - alpha version
@@ -5880,7 +5881,7 @@
 - [slackapi/Slack-Ruby-Onboarding-Tutorial](https://github.com/slackapi/Slack-Ruby-Onboarding-Tutorial) - An example Slack bot written in Ruby
 - [heartcombo/devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden.
 - [bblimke/webmock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests in Ruby.
-- [postalserver/postal](https://github.com/postalserver/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [linjunpop/imessage](https://github.com/linjunpop/imessage) - 💬 Send iMessages from command-line
 - [domitry/nyaplot](https://github.com/domitry/nyaplot) - interactive plots generator for Ruby
 - [rake-compiler/rake-compiler](https://github.com/rake-compiler/rake-compiler) - Provide a standard and simplified way to build and package Ruby C and Java extensions using Rake as glue.
@@ -6342,6 +6343,7 @@
 
 ## Shell 
 
+- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [ogra1/zoom-snap](https://github.com/ogra1/zoom-snap) - 
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
@@ -6621,6 +6623,7 @@
 
 ## Swift 
 
+- [chenyun122/StepIndicator](https://github.com/chenyun122/StepIndicator) - StepIndicator is an iOS library that indicates steps in an animated way.
 - [mleiv/MEGameTracker](https://github.com/mleiv/MEGameTracker) - The source code for my Mass Effect tracking app.
 - [softhausHQ/CircleBar](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 - [mattt/swift-package-sbom](https://github.com/mattt/swift-package-sbom) - A software bill of materials (SBoM) generator for Swift packages
@@ -8055,6 +8058,7 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
+- [lgpage/nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [danger/peril](https://github.com/danger/peril) - ☢️ Serious and immediate danger.
 - [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
