@@ -782,7 +782,6 @@
 - [adafruit/adafruit-raspberrypi-linux](https://github.com/adafruit/adafruit-raspberrypi-linux) - Adafruit's hacking-friendly Raspberry Pi linux kernel
 - [droe/sslsplit](https://github.com/droe/sslsplit) - Transparent SSL/TLS interception
 - [nginx/nginx-releases](https://github.com/nginx/nginx-releases) - * NOTE: This repository has been retired *. Complete (unofficial) history of nginx releases.  Please note that this repository is unofficial and pull requests have no chance of being merged. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html.
-- [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror) - This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.
 - [openworm/sibernetic](https://github.com/openworm/sibernetic) - This is a C++/OpenCL implementation of the PCISPH algorithm supplemented with a set of biomechanics related features applied to C. elegans locomotion
 - [espressif/ESP8266_RTOS_SDK](https://github.com/espressif/ESP8266_RTOS_SDK) - Latest ESP8266 SDK based on FreeRTOS, esp-idf style.
 - [esp8266/esp8266-wiki](https://github.com/esp8266/esp8266-wiki) - 
@@ -1437,6 +1436,7 @@
 - [tdenniston/bish](https://github.com/tdenniston/bish) - Bish is a language that compiles to Bash. It's designed to give shell scripting a more comfortable and modern feel.
 - [adafruit/Adafruit_LED_Backpack](https://github.com/adafruit/Adafruit_LED_Backpack) - Adafruit LED Backpack Library for our 8x8 matrix and 7-segment LED backpacks
 - [frida/cryptoshark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
+- [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror) - This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.
 - [capnproto/ekam](https://github.com/capnproto/ekam) - Ekam Build System
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [aidin36/tocc](https://github.com/aidin36/tocc) - A tag based file management system.
@@ -2233,6 +2233,7 @@
 
 ## HTML 
 
+- [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [lmanul/welltemperedtraveler](https://github.com/lmanul/welltemperedtraveler) - Well-Tempered Traveler
 - [mspinksosu/NES-Power-Board](https://github.com/mspinksosu/NES-Power-Board) - A PCB that will fit in place of the stock NES frontloader's RF module.
 - [dougallj/applegpu](https://github.com/dougallj/applegpu) - Apple G13 GPU architecture docs and tools
@@ -2588,10 +2589,10 @@
 - [facebookarchive/cassandra](https://github.com/facebookarchive/cassandra) - A distributed storage system for managing structured data while providing reliability at scale.
 - [apache/cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
 - [ether/pad](https://github.com/ether/pad) - Etherpad Open-Source Repository
-- [facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) - Used to integrate Android apps with Facebook Platform.
 
 ## JavaScript 
 
+- [transitive-bullshit/ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) - Concats a list of videos together using ffmpeg with sexy OpenGL transitions.
 - [amishne/mipui](https://github.com/amishne/mipui) - Online collaborative map editor for role-playing games.
 - [dineshsonachalam/markdown-autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - ✨ A GitHub Action that automatically generates & updates markdown content (like your README.md) from external or remote files.
 - [tuist/tuist-action](https://github.com/tuist/tuist-action) - A GitHub action to run Tuist from GitHub workflows
@@ -3491,6 +3492,7 @@
 - [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App
 - [ftomassetti/LangSandbox](https://github.com/ftomassetti/LangSandbox) - Project to illustrate how to build a programming language
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+- [facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) - Used to integrate Android apps with Facebook Platform.
 
 ## LLVM 
 
@@ -4739,7 +4741,7 @@
 
 ## PHP 
 
-- [wordplate/wordplate](https://github.com/wordplate/wordplate) - WordPlate is a wrapper around WordPress. It makes developers life easier. It is just like building any other WordPress website with themes and plugins. Just with sprinkles on top.
+- [wordplate/wordplate](https://github.com/wordplate/wordplate) - WordPlate is a wrapper around WordPress. It is like building any other WordPress website with themes and plugins. Just with sprinkles on top.
 - [twilio/twilio-php](https://github.com/twilio/twilio-php) - A PHP library for communicating with the Twilio REST API and generating TwiML.
 - [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
 - [RaymiiOrg/certificate-expiry-monitor](https://github.com/RaymiiOrg/certificate-expiry-monitor) - https://certificatemonitor.org
@@ -6623,6 +6625,7 @@
 
 ## Swift 
 
+- [MaxDesiatov/XMLCoder](https://github.com/MaxDesiatov/XMLCoder) - Easy XML parsing using Codable protocols in Swift
 - [chenyun122/StepIndicator](https://github.com/chenyun122/StepIndicator) - StepIndicator is an iOS library that indicates steps in an animated way.
 - [mleiv/MEGameTracker](https://github.com/mleiv/MEGameTracker) - The source code for my Mass Effect tracking app.
 - [softhausHQ/CircleBar](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
