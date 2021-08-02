@@ -6248,7 +6248,7 @@
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [bolinfest/opensnoop-native](https://github.com/bolinfest/opensnoop-native) - opensnoop in pure C using eBPF
-- [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - A low-overhead Vulkan-like GPU API for Rust.
+- [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust.
 - [jedisct1/doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
 - [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 - [saurvs/hypervisor-rs](https://github.com/saurvs/hypervisor-rs) - Rust API to the OS X Hypervisor framework for hardware-accelerated virtualization
