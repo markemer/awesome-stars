@@ -4195,6 +4195,7 @@
 
 ## Others 
 
+- [langjam/langjam](https://github.com/langjam/langjam) - 
 - [henbagle/LE1CommunityPatch](https://github.com/henbagle/LE1CommunityPatch) - Issue tracker for the Community Patch mod for Mass Effect 1: Legendary Edition
 - [mooltipass/minible_hw](https://github.com/mooltipass/minible_hw) - Repository for the Mini BLE Hardware
 - [bluescan/proggyfonts](https://github.com/bluescan/proggyfonts) - Monospaced fonts for programming.
@@ -4742,6 +4743,7 @@
 
 ## PHP 
 
+- [fantasycalendar/Fantasy-Calendar](https://github.com/fantasycalendar/Fantasy-Calendar) - This is for the fantasy-calendar website, specifically the 2.0 update. Feel free to contribute and help improve the site!
 - [wordplate/extended-acf](https://github.com/wordplate/extended-acf) - Register advanced custom fields with object oriented PHP
 - [outlandishideas/wpackagist](https://github.com/outlandishideas/wpackagist) - WordPress Packagist — manage your plugins with Composer
 - [wordplate/wordplate](https://github.com/wordplate/wordplate) - WordPlate is a wrapper around WordPress. It is like building any other WordPress website with themes and plugins. Just with sprinkles on top.
@@ -5197,7 +5199,7 @@
 - [jacebrowning/memegen](https://github.com/jacebrowning/memegen) - The free and open source API to generate memes.
 - [azonenberg/freesample](https://github.com/azonenberg/freesample) - High performance sampling oscilloscope based on INTEGRALSTICK
 - [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [LINKIWI/modern-paste](https://github.com/LINKIWI/modern-paste) - A modern, feature-rich Pastebin alternative
 - [mme/vergeml](https://github.com/mme/vergeml) - Machine Learning Environment - alpha version
@@ -7860,6 +7862,7 @@
 
 ## TeX 
 
+- [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.x kernels)
 - [clever-algorithms/CleverAlgorithms](https://github.com/clever-algorithms/CleverAlgorithms) - Clever Algorithms: Nature-Inspired Programming Recipes
 - [patmorin/ods](https://github.com/patmorin/ods) - Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
