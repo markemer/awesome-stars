@@ -4191,6 +4191,8 @@
 
 ## Others 
 
+- [IronMooseDevelopment/awesome-cheap-tiers](https://github.com/IronMooseDevelopment/awesome-cheap-tiers) - 💸 A curated list of tools and X-as-a-services that have free or cheap tiers so you can get the most bang for your 💲
+- [IronMooseDevelopment/FoundryVTT-dScryb-public](https://github.com/IronMooseDevelopment/FoundryVTT-dScryb-public) - dScryb provides Boxed Text—descriptive text of places, monsters, spells, and other observations—meant to be read aloud by GMs to players. It is set in the world of epic fantasy, like many of your favorite RPGs. Good boxed text shows its subject by describing the sensory experience. And it often sets the narrative tone, introduces the scene, or spotlights what is important.
 - [langjam/langjam](https://github.com/langjam/langjam) - 
 - [henbagle/LE1CommunityPatch](https://github.com/henbagle/LE1CommunityPatch) - Issue tracker for the Community Patch mod for Mass Effect 1: Legendary Edition
 - [mooltipass/minible_hw](https://github.com/mooltipass/minible_hw) - Repository for the Mini BLE Hardware
@@ -8188,7 +8190,7 @@
 
 ## WebAssembly 
 
-- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - Definitely not a TypeScript to WebAssembly compiler 🚀
+- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 - [WebAssembly/spec](https://github.com/WebAssembly/spec) - WebAssembly specification, reference interpreter, and test suite.
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly
 
