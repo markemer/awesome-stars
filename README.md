@@ -2592,6 +2592,7 @@
 
 ## JavaScript 
 
+- [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [transitive-bullshit/ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) - Concats a list of videos together using ffmpeg with sexy OpenGL transitions.
 - [amishne/mipui](https://github.com/amishne/mipui) - Online collaborative map editor for role-playing games.
 - [dineshsonachalam/markdown-autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - ✨ A GitHub Action that automatically generates & updates markdown content (like your README.md) from external or remote files.
@@ -6374,7 +6375,7 @@
 - [YoeDistro/yoe-distro](https://github.com/YoeDistro/yoe-distro) - Embedded Linux distribution optimized for product development (based on OE/Yocto)
 - [timwis/markdown-to-google-doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive
 - [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
-- [clieg/cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux.
+- [notclint/cfetch](https://github.com/notclint/cfetch) - A simple system information tool for Linux.
 - [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
 - [KosalaHerath/macos-installer-builder](https://github.com/KosalaHerath/macos-installer-builder) - Generate macOS installers for your applications and products from one command
 - [dslm4515/Musl-LFS](https://github.com/dslm4515/Musl-LFS) - Linux From Scratch using Musl as Libc
@@ -6878,7 +6879,7 @@
 - [JamieScanlon/AugmentKit](https://github.com/JamieScanlon/AugmentKit) - An Augmented Reality framework. Built on ARKit. Made with app developers in mind.
 - [KaneCheshire/BiometricAutomationDemo](https://github.com/KaneCheshire/BiometricAutomationDemo) - Dependency free iOS biometric automation example.
 - [kishikawakatsumi/swift-magic](https://github.com/kishikawakatsumi/swift-magic) - A Swift wrapper for libmagic
-- [kishikawakatsumi/swift-ast-explorer](https://github.com/kishikawakatsumi/swift-ast-explorer) - Swift AST to HTML conversion
+- [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - Swift AST to HTML conversion
 - [matteopuc/swiftui-navigation-stack](https://github.com/matteopuc/swiftui-navigation-stack) - An alternative SwiftUI NavigationView implementing classic stack-based navigation giving also some more control on animations and programmatic navigation.
 - [JosephDuffy/xcutils](https://github.com/JosephDuffy/xcutils) - A collection of utilities to aid the use of the Xcode CLI
 - [harlanhaskins/Probably](https://github.com/harlanhaskins/Probably) - A Swift probability and statistics library
