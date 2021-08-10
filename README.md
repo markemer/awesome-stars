@@ -38,6 +38,7 @@
   - [F#](#f#)
   - [Fortran](#fortran)
   - [G-code](#g-code)
+  - [GDScript](#gdscript)
   - [GLSL](#glsl)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -1763,6 +1764,10 @@
 
 - [macchina/m2-enclosures](https://github.com/macchina/m2-enclosures) - 3D-printable M2 enclosures designed by Macchina
 
+## GDScript 
+
+- [ephread/inkgd](https://github.com/ephread/inkgd) - Implementation of inkle's Ink in pure GDScript for Godot, with editor support.
+
 ## GLSL 
 
 - [higan-emu/higan](https://github.com/higan-emu/higan) - higan is a multi-system emulator focused on accuracy, preservation, and configurability.
@@ -2189,7 +2194,7 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
-- [google/mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
+- [google/mtail](https://github.com/google/mtail) - extract internal monitoring data from application logs for collection in a timeseries database
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
 - [rancher/go-machine-service](https://github.com/rancher/go-machine-service) - 
@@ -2297,6 +2302,7 @@
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - CoreUI is free bootstrap admin template
 - [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
 - [SwiftDocOrg/swiftdoc.org](https://github.com/SwiftDocOrg/swiftdoc.org) - Auto-generated documentation for Swift. Command-click no more.
+- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [pjrule/federal-election-data](https://github.com/pjrule/federal-election-data) - Federal election data released by the Federal Election Commission from 1982-present in an open format
 - [lordelph/pastebin](https://github.com/lordelph/pastebin) - The original pastebin source, available under an AGPL licence
 - [amyjko/user-interface-software-and-technology](https://github.com/amyjko/user-interface-software-and-technology) - A book surveying the literature on user interface software and technology.
@@ -2592,6 +2598,7 @@
 
 ## JavaScript 
 
+- [elliotherriman/calico](https://github.com/elliotherriman/calico) - a web engine for interactive fiction
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [transitive-bullshit/ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) - Concats a list of videos together using ffmpeg with sexy OpenGL transitions.
 - [amishne/mipui](https://github.com/amishne/mipui) - Online collaborative map editor for role-playing games.
@@ -2719,7 +2726,7 @@
 - [YOCKOW/Action-setup-swift](https://github.com/YOCKOW/Action-setup-swift) - GitHub Action that sets up Swift.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 - [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
-- [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and open-source. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
+- [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and source-available. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
 - [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [millette/oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
@@ -4197,6 +4204,7 @@
 
 ## Others 
 
+- [ephread/hiring-without-whiteboards](https://github.com/ephread/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [rust-embedded/book](https://github.com/rust-embedded/book) - Documentation on how to use the Rust Programming Language to develop firmware for bare metal (microcontroller) devices
 - [ivRodriguezCA/RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps) - A completely free, open source and online course about Reverse Engineering iOS Applications.
 - [worproject/RPi-Windows-Drivers](https://github.com/worproject/RPi-Windows-Drivers) - Windows on ARM device drivers for the Raspberry Pi single-board computer.
@@ -4304,6 +4312,7 @@
 - [slashmo/awesome-swift-nio](https://github.com/slashmo/awesome-swift-nio) - 📖 A collaborative list of all things Swift NIO
 - [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
 - [bridgetkromhout/devops-against-humanity](https://github.com/bridgetkromhout/devops-against-humanity) - DevOps Against Humanity
+- [relatedcode/GraphQLite](https://github.com/relatedcode/GraphQLite) - GraphQLite is a toolkit to work with GraphQL servers easily. It also provides several other features to make life easier during iOS application development.
 - [rtakehara/5e-Framework](https://github.com/rtakehara/5e-Framework) - A comprehensive 5th Edition Dungeons & Dragons Framework for MapTool.
 - [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on http://game-icons.net
 - [swift-server/sswg](https://github.com/swift-server/sswg) - Swift Server Working Group (SSWG)
@@ -4444,7 +4453,6 @@
 - [okzach/fallout_savegame_010_editor_binary_template](https://github.com/okzach/fallout_savegame_010_editor_binary_template) - A Binary Template describing Fallout 4 save game files for use with 010 Editor.
 - [sp4ke/awesome-explorables](https://github.com/sp4ke/awesome-explorables) - A curated list of awesome explorable explanations.
 - [nwinkler/atom-keyboard-shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts) - A list of keyboard shortcuts for the Atom text editor
-- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
 - [struct/mms](https://github.com/struct/mms) - Modern Memory Safety in C/C++
 - [AlphamaxMedia/netv2-case](https://github.com/AlphamaxMedia/netv2-case) - Case design for NeTV2
 - [AlphamaxMedia/netv2-dvt-mainboard](https://github.com/AlphamaxMedia/netv2-dvt-mainboard) - NeTV2 mainboard design files
@@ -6640,6 +6648,8 @@
 
 ## Swift 
 
+- [ephread/Snowflake](https://github.com/ephread/Snowflake) - ❄️  SVG in Swift
+- [ephread/awesome-ios](https://github.com/ephread/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [macmade/DSStoreView](https://github.com/macmade/DSStoreView) - .DS_Store file parser/viewer.
 - [krzyzanowskim/SwiftUI.AnimatedImage](https://github.com/krzyzanowskim/SwiftUI.AnimatedImage) - SwiftUI AnimatedImage View
 - [MaxDesiatov/XMLCoder](https://github.com/MaxDesiatov/XMLCoder) - Easy XML parsing using Codable protocols in Swift
@@ -6827,7 +6837,6 @@
 - [swiftwasm/carton](https://github.com/swiftwasm/carton) - 📦 Watcher, bundler, and test runner for your SwiftWasm apps
 - [loiclec/FuzzCheck](https://github.com/loiclec/FuzzCheck) - Swift package fuzzing engine
 - [rileytestut/Clip](https://github.com/rileytestut/Clip) - Clip is a clipboard manager for iOS that can monitor your clipboard indefinitely in the background — no jailbreak required.
-- [relatedcode/GraphQLite](https://github.com/relatedcode/GraphQLite) - GraphQLite is a toolkit to work with GraphQL servers easily. It also provides several other features to make life easier during iOS application development.
 - [bscothern/Once](https://github.com/bscothern/Once) - A replacement for Dispatch Once in Swift
 - [erica/Swift-General-Utility](https://github.com/erica/Swift-General-Utility) - General utility types and functionality
 - [krzyzanowskim/CoreTextSwift](https://github.com/krzyzanowskim/CoreTextSwift) - CoreText Swift bindings
@@ -7914,6 +7923,9 @@
 
 ## TypeScript 
 
+- [ephread/sophisticate](https://github.com/ephread/sophisticate) - Sophisticate SVG editors outputs to display them within interactive web pages.
+- [ephread/vscode-ink](https://github.com/ephread/vscode-ink) - Ink support for VS Code
+- [elliotherriman/vscode-ink](https://github.com/elliotherriman/vscode-ink) - Adds support for ink to Visual Studio Code.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
 - [mxcl/xcodebuild](https://github.com/mxcl/xcodebuild) - A continuously resilient `xcodebuild` action. Also it’s the best.
