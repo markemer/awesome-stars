@@ -624,7 +624,6 @@
 - [gleitz/npiet](https://github.com/gleitz/npiet) - a language where the programs are works of modern art (updated for OSX)
 - [raspberrypi/tools](https://github.com/raspberrypi/tools) - 
 - [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
-- [MutexUnlocked/DEOS](https://github.com/MutexUnlocked/DEOS) - The distributed exokernel operating system
 - [lowRISC/lowrisc-fpga](https://github.com/lowRISC/lowrisc-fpga) - Untethered (stand-alone) FPGA implementation of the lowRISC SoC
 - [riscv/riscv-newlib](https://github.com/riscv/riscv-newlib) - RISC-V port of newlib
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -2460,6 +2459,7 @@
 
 ## Java 
 
+- [RobertLarsen/GhidraFirmwareToolkit](https://github.com/RobertLarsen/GhidraFirmwareToolkit) - 
 - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring integration for GraphQL
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic designer and simulator
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
@@ -2598,6 +2598,8 @@
 
 ## JavaScript 
 
+- [League-of-Foundry-Developers/FoundryVTT-Module-Template](https://github.com/League-of-Foundry-Developers/FoundryVTT-Module-Template) - A template repository for FoundryVTT module development that comes with versioned CI/CD
+- [MrPrimate/ddb-importer-chrome](https://github.com/MrPrimate/ddb-importer-chrome) - 
 - [elliotherriman/calico](https://github.com/elliotherriman/calico) - a web engine for interactive fiction
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [transitive-bullshit/ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) - Concats a list of videos together using ffmpeg with sexy OpenGL transitions.
@@ -4204,6 +4206,7 @@
 
 ## Others 
 
+- [IamWarHead/ddb-game-log](https://github.com/IamWarHead/ddb-game-log) - DDB Gamelog makes your D&D Beyond rolls visible in Foundry VTT without any browser extensions.
 - [ephread/hiring-without-whiteboards](https://github.com/ephread/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [rust-embedded/book](https://github.com/rust-embedded/book) - Documentation on how to use the Rust Programming Language to develop firmware for bare metal (microcontroller) devices
 - [ivRodriguezCA/RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps) - A completely free, open source and online course about Reverse Engineering iOS Applications.
@@ -4541,6 +4544,7 @@
 - [carrotIndustries/pluto](https://github.com/carrotIndustries/pluto) - Pluto is a programmable digital watch that re-uses case and LCD panel of the Casio® F-91W. (Hardware)
 - [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
 - [fniessen/org-macros](https://github.com/fniessen/org-macros) - Macros for Org mode
+- [MutexUnlocked/exoberry](https://github.com/MutexUnlocked/exoberry) - An exokernel for the raspberry pi.
 - [jeanregisser/mediaremotetv-protocol](https://github.com/jeanregisser/mediaremotetv-protocol) - Unofficial Apple TV remote protocol specification
 - [bunnie/netv2mvp-hardware](https://github.com/bunnie/netv2mvp-hardware) - Hardware for NeTV2MVP
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
@@ -4926,6 +4930,7 @@
 
 ## Python 
 
+- [bespoke-silicon-group/bsg_bladerunner](https://github.com/bespoke-silicon-group/bsg_bladerunner) - Meta-Repository for Bespoke Silicon Group's Manycore Architecture (A.K.A HammerBlade)
 - [jgillum/foiamachine](https://github.com/jgillum/foiamachine) - Automate your FOIAs. The real, production version.
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
 - [AmnestyTech/investigations](https://github.com/AmnestyTech/investigations) - Indicators from Amnesty International's investigations
@@ -6648,6 +6653,7 @@
 
 ## Swift 
 
+- [eonist/FileWatcher](https://github.com/eonist/FileWatcher) - Monitoring file system changes in macOS
 - [ephread/Snowflake](https://github.com/ephread/Snowflake) - ❄️  SVG in Swift
 - [ephread/awesome-ios](https://github.com/ephread/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [macmade/DSStoreView](https://github.com/macmade/DSStoreView) - .DS_Store file parser/viewer.
@@ -8090,7 +8096,7 @@
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [kaitai-io/kaitai_struct_webide](https://github.com/kaitai-io/kaitai_struct_webide) - Online editor / visualizer for Kaitai Struct .ksy files
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
-- [botpress/botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
+- [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [lgpage/nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
