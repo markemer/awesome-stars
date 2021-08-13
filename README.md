@@ -132,6 +132,7 @@
 
 ## ANTLR 
 
+- [opencomputeproject/Time-Appliance-Project](https://github.com/opencomputeproject/Time-Appliance-Project) - Develop an end-to-end hypothetical reference model, network architectures, performance objectives and the methods to distribute, operate, monitor time synchronization within data center and much more...
 - [c4puter/motherboard](https://github.com/c4puter/motherboard) - 
 - [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 
@@ -624,6 +625,7 @@
 - [gleitz/npiet](https://github.com/gleitz/npiet) - a language where the programs are works of modern art (updated for OSX)
 - [raspberrypi/tools](https://github.com/raspberrypi/tools) - 
 - [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
+- [MutexUnlocked/exoberry](https://github.com/MutexUnlocked/exoberry) - An exokernel for the raspberry pi 3.
 - [lowRISC/lowrisc-fpga](https://github.com/lowRISC/lowrisc-fpga) - Untethered (stand-alone) FPGA implementation of the lowRISC SoC
 - [riscv/riscv-newlib](https://github.com/riscv/riscv-newlib) - RISC-V port of newlib
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -866,6 +868,7 @@
 
 ## C# # 
 
+- [garrynewman/SteamScreenshotDownloader](https://github.com/garrynewman/SteamScreenshotDownloader) - Download all of your (public) steam screenshots
 - [ME3Tweaks/ME3TweaksModManager](https://github.com/ME3Tweaks/ME3TweaksModManager) - Next generation Mod Manager for all Mass Effect Trilogy games
 - [d00telemental/LECoal](https://github.com/d00telemental/LECoal) - A DEPRECATED tool for packing and unpacking LE1/LE2 Coalesced_INT.bin files.
 - [ME3Tweaks/ModManagerCommandLineTools](https://github.com/ME3Tweaks/ModManagerCommandLineTools) - Command line tools for Mass Effect 3 Mod Manager
@@ -1757,6 +1760,7 @@
 
 ## Fortran 
 
+- [usnistgov/dataplot](https://github.com/usnistgov/dataplot) - Source code and auxiliary files for dataplot.
 - [fortran-lang/stdlib](https://github.com/fortran-lang/stdlib) - Fortran Standard Library
 
 ## G-code 
@@ -3485,6 +3489,7 @@
 
 ## Kotlin 
 
+- [jpd236/kotwords](https://github.com/jpd236/kotwords) - Collection of crossword puzzle file format converters and other utilities, written in Kotlin.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [GitLiveApp/firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
@@ -4544,7 +4549,6 @@
 - [carrotIndustries/pluto](https://github.com/carrotIndustries/pluto) - Pluto is a programmable digital watch that re-uses case and LCD panel of the Casio® F-91W. (Hardware)
 - [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
 - [fniessen/org-macros](https://github.com/fniessen/org-macros) - Macros for Org mode
-- [MutexUnlocked/exoberry](https://github.com/MutexUnlocked/exoberry) - An exokernel for the raspberry pi.
 - [jeanregisser/mediaremotetv-protocol](https://github.com/jeanregisser/mediaremotetv-protocol) - Unofficial Apple TV remote protocol specification
 - [bunnie/netv2mvp-hardware](https://github.com/bunnie/netv2mvp-hardware) - Hardware for NeTV2MVP
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
@@ -4930,6 +4934,7 @@
 
 ## Python 
 
+- [SamSchott/maestral](https://github.com/SamSchott/maestral) - Open-source Dropbox client for macOS and Linux
 - [bespoke-silicon-group/bsg_bladerunner](https://github.com/bespoke-silicon-group/bsg_bladerunner) - Meta-Repository for Bespoke Silicon Group's Manycore Architecture (A.K.A HammerBlade)
 - [jgillum/foiamachine](https://github.com/jgillum/foiamachine) - Automate your FOIAs. The real, production version.
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
@@ -5762,6 +5767,8 @@
 
 ## Ruby 
 
+- [jfelchner/ruby-progressbar](https://github.com/jfelchner/ruby-progressbar) - Ruby/ProgressBar is a text progress bar library for Ruby.
+- [rodrigorichter/steamblower](https://github.com/rodrigorichter/steamblower) - 
 - [tenderlove/fisk](https://github.com/tenderlove/fisk) - A pure Ruby assembler
 - [Lightricks/Kintsugi](https://github.com/Lightricks/Kintsugi) - A tool to automatically resolve Git conflicts that occur in Xcode project files
 - [htdebeer/paru](https://github.com/htdebeer/paru) - Control pandoc with Ruby and write pandoc filters in Ruby
@@ -6653,6 +6660,9 @@
 
 ## Swift 
 
+- [macmade/PropertyListEditor](https://github.com/macmade/PropertyListEditor) - macOS PropertyList Editor
+- [KhaosT/MacVM](https://github.com/KhaosT/MacVM) - macOS VM for Apple Silicon using Virtualization API
+- [vapor/leaf](https://github.com/vapor/leaf) - 🍃 An expressive, performant, and extensible templating language built for Swift.
 - [eonist/FileWatcher](https://github.com/eonist/FileWatcher) - Monitoring file system changes in macOS
 - [ephread/Snowflake](https://github.com/ephread/Snowflake) - ❄️  SVG in Swift
 - [ephread/awesome-ios](https://github.com/ephread/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
@@ -7929,6 +7939,7 @@
 
 ## TypeScript 
 
+- [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 - [ephread/sophisticate](https://github.com/ephread/sophisticate) - Sophisticate SVG editors outputs to display them within interactive web pages.
 - [ephread/vscode-ink](https://github.com/ephread/vscode-ink) - Ink support for VS Code
 - [elliotherriman/vscode-ink](https://github.com/elliotherriman/vscode-ink) - Adds support for ink to Visual Studio Code.
