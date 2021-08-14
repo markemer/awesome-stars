@@ -210,6 +210,7 @@
 
 ## C 
 
+- [pgwipeout/linux](https://github.com/pgwipeout/linux) - Linux kernel source tree, working on sbc support.
 - [librsync/librsync](https://github.com/librsync/librsync) - remote delta-compression library
 - [raspberrypi/windows-drivers](https://github.com/raspberrypi/windows-drivers) - Windows IOT drivers
 - [ATaylorCEngFIET/Xilinx_BootCamp](https://github.com/ATaylorCEngFIET/Xilinx_BootCamp) - Slides and material for Xilinx bootcamp
@@ -4211,6 +4212,8 @@
 
 ## Others 
 
+- [pgwipeout/ouya_bootmenu](https://github.com/pgwipeout/ouya_bootmenu) - bootmenu for ouya. utilises kexec to boot images from system and datamedia.
+- [scholtzm/awesome-steam](https://github.com/scholtzm/awesome-steam) - 😎 A curated list of packages and resources regarding Steam development
 - [IamWarHead/ddb-game-log](https://github.com/IamWarHead/ddb-game-log) - DDB Gamelog makes your D&D Beyond rolls visible in Foundry VTT without any browser extensions.
 - [ephread/hiring-without-whiteboards](https://github.com/ephread/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [rust-embedded/book](https://github.com/rust-embedded/book) - Documentation on how to use the Rust Programming Language to develop firmware for bare metal (microcontroller) devices
@@ -6280,7 +6283,7 @@
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [bolinfest/opensnoop-native](https://github.com/bolinfest/opensnoop-native) - opensnoop in pure C using eBPF
 - [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust.
-- [jedisct1/doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
+- [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
 - [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 - [saurvs/hypervisor-rs](https://github.com/saurvs/hypervisor-rs) - Rust API to the OS X Hypervisor framework for hardware-accelerated virtualization
 - [hermitcore/libhermit-rs](https://github.com/hermitcore/libhermit-rs) - libhermit-rs: A Rust-based library operating system
