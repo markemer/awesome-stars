@@ -6399,7 +6399,7 @@
 - [timwis/markdown-to-google-doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive
 - [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
 - [notclint/cfetch](https://github.com/notclint/cfetch) - A simple system information tool for Linux.
-- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secured by default !
+- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
 - [KosalaHerath/macos-installer-builder](https://github.com/KosalaHerath/macos-installer-builder) - Generate macOS installers for your applications and products from one command
 - [dslm4515/Musl-LFS](https://github.com/dslm4515/Musl-LFS) - Linux From Scratch using Musl as Libc
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le)
