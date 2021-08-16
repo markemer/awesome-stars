@@ -4657,7 +4657,6 @@
 - [jiahao/backus-dijkstra-letters-1979](https://github.com/jiahao/backus-dijkstra-letters-1979) - Images and text transcripts of the correspondence between John Backus and Edsger Dijkstra, 1978-1979. Ref: https://medium.com/@acidflask/this-guys-arrogance-takes-your-breath-away-5b903624ca5f#.j6x6ppjc8 https://news.ycombinator.com/item?id=11796557
 - [uhub/awesome-c](https://github.com/uhub/awesome-c) - A curated list of awesome C frameworks, libraries and software.
 - [mdo/jekyll-snippets](https://github.com/mdo/jekyll-snippets) - Library of commonly used snippets for Jekyll sites.
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [marciok/CRuby](https://github.com/marciok/CRuby) - ruby.h on Swift.
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [glotcode/glot](https://github.com/glotcode/glot) - Pastebin with runnable snippets and API
@@ -6574,6 +6573,7 @@
 - [danielbruce/entypo](https://github.com/danielbruce/entypo) - Further development of the pictogram suite Entypo
 - [joshua/dotfiles](https://github.com/joshua/dotfiles) - conceitedly assertive and dogmatic dotfiles
 - [ridvank/UIImageViewWithWords](https://github.com/ridvank/UIImageViewWithWords) - Create UIImageView with words in Swift
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [keith/zsh-xcode-completions](https://github.com/keith/zsh-xcode-completions) - Zsh completion for the Xcode command line tools
