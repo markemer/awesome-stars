@@ -210,6 +210,8 @@
 
 ## C 
 
+- [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
+- [solderparty/bbq10kbd_i2c_sw](https://github.com/solderparty/bbq10kbd_i2c_sw) - 
 - [pgwipeout/linux](https://github.com/pgwipeout/linux) - Linux kernel source tree, working on sbc support.
 - [librsync/librsync](https://github.com/librsync/librsync) - remote delta-compression library
 - [raspberrypi/windows-drivers](https://github.com/raspberrypi/windows-drivers) - Windows IOT drivers
@@ -869,6 +871,7 @@
 
 ## C# # 
 
+- [uxmal/reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
 - [garrynewman/SteamScreenshotDownloader](https://github.com/garrynewman/SteamScreenshotDownloader) - Download all of your (public) steam screenshots
 - [ME3Tweaks/ME3TweaksModManager](https://github.com/ME3Tweaks/ME3TweaksModManager) - Next generation Mod Manager for all Mass Effect Trilogy games
 - [d00telemental/LECoal](https://github.com/d00telemental/LECoal) - A DEPRECATED tool for packing and unpacking LE1/LE2 Coalesced_INT.bin files.
@@ -959,6 +962,7 @@
 
 ## C++ 
 
+- [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [zodiacon/RegExp](https://github.com/zodiacon/RegExp) - Registry Explorer - enhanced Registry editor/viewer
 - [ME3Tweaks/LE1-ASI-Plugins](https://github.com/ME3Tweaks/LE1-ASI-Plugins) - 
 - [d00telemental/LENativeExperiments](https://github.com/d00telemental/LENativeExperiments) - Some native modding experiments for Mass Effect (Legendary Edition).
@@ -1458,6 +1462,7 @@
 - [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
 - [laprej/ROSS--](https://github.com/laprej/ROSS--) - ROSS-- + C++ = ROSS + C
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [Smoothieware/Smoothiepanel](https://github.com/Smoothieware/Smoothiepanel) - SmoothiePanel is an Open Source Hardware control interface for industrial robotic machinery.
 - [Smoothieware/Smoothieware](https://github.com/Smoothieware/Smoothieware) - Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
@@ -1781,6 +1786,7 @@
 
 ## Go 
 
+- [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [syncfast/clockwise](https://github.com/syncfast/clockwise) - Clockwise is a meeting cost calculator designed to encourage more efficient meetings.
 - [blacktop/go-macho](https://github.com/blacktop/go-macho) - Package macho implements access to and creation of Mach-O object files.
@@ -2247,6 +2253,7 @@
 
 ## HTML 
 
+- [solderparty/keyboard_featherwing_hw](https://github.com/solderparty/keyboard_featherwing_hw) - 
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [lmanul/welltemperedtraveler](https://github.com/lmanul/welltemperedtraveler) - Well-Tempered Traveler
 - [mspinksosu/NES-Power-Board](https://github.com/mspinksosu/NES-Power-Board) - A PCB that will fit in place of the stock NES frontloader's RF module.
@@ -2603,6 +2610,7 @@
 
 ## JavaScript 
 
+- [inlife/nexrender](https://github.com/inlife/nexrender) - 📹  Data-driven render automation for After Effects
 - [League-of-Foundry-Developers/FoundryVTT-Module-Template](https://github.com/League-of-Foundry-Developers/FoundryVTT-Module-Template) - A template repository for FoundryVTT module development that comes with versioned CI/CD
 - [MrPrimate/ddb-importer-chrome](https://github.com/MrPrimate/ddb-importer-chrome) - 
 - [elliotherriman/calico](https://github.com/elliotherriman/calico) - a web engine for interactive fiction
@@ -2647,7 +2655,6 @@
 - [atlassian/gajira-find-issue-key](https://github.com/atlassian/gajira-find-issue-key) - 
 - [atlassian/gajira-login](https://github.com/atlassian/gajira-login) - Jira Login GitHub Action
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client
-- [plaid/plaid-node](https://github.com/plaid/plaid-node) - Node bindings for Plaid
 - [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - A javascript library to build expressive web presentations in seconds.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [kentcdodds/babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros) - 🎣 Allows you to build simple compile-time libraries
@@ -4936,6 +4943,7 @@
 
 ## Python 
 
+- [cea-sec/miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework in Python
 - [SamSchott/maestral](https://github.com/SamSchott/maestral) - Open-source Dropbox client for macOS and Linux
 - [bespoke-silicon-group/bsg_bladerunner](https://github.com/bespoke-silicon-group/bsg_bladerunner) - Meta-Repository for Bespoke Silicon Group's Manycore Architecture (A.K.A HammerBlade)
 - [jgillum/foiamachine](https://github.com/jgillum/foiamachine) - Automate your FOIAs. The real, production version.
@@ -5297,7 +5305,7 @@
 - [foxpass/foxpass-setup](https://github.com/foxpass/foxpass-setup) - Scripts for setting up Foxpass integration in common environments
 - [foxpass/foxpass-ipsec-vpn](https://github.com/foxpass/foxpass-ipsec-vpn) - L2TP/IPSEC VPN with built-in Duo support
 - [vyos/vyos-1x](https://github.com/vyos/vyos-1x) - VyOS command definitions, scripts, and utilities
-- [scipy/scipy](https://github.com/scipy/scipy) - Scipy library main repository
+- [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [newsdev/who-the-hill](https://github.com/newsdev/who-the-hill) - Who The Hill: An MMS-based facial recognition service for members of Congress.
 - [zhuowei/MarzipanTool](https://github.com/zhuowei/MarzipanTool) - Tools for running iOSMac apps on macOS 10.14 Beta
 - [clayshieh/django-imessage](https://github.com/clayshieh/django-imessage) - Django project to read the contents of iOS iMessage sqlite databases
@@ -5633,7 +5641,6 @@
 - [kjellmf/dot2tex](https://github.com/kjellmf/dot2tex) - Convert graphs generated by Graphviz to LaTeX friendly formats
 - [nvidia-compiler-sdk/pynvvm](https://github.com/nvidia-compiler-sdk/pynvvm) - Python bindings for libNVVM
 - [m-labs/migen](https://github.com/m-labs/migen) - A Python toolbox for building complex digital hardware
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [aws-samples/aws-python-sample](https://github.com/aws-samples/aws-python-sample) - Sample project to demonstrate usage of the AWS SDK for Python
@@ -6132,6 +6139,7 @@
 
 ## Rust 
 
+- [x4e/classfile-rs](https://github.com/x4e/classfile-rs) - JVM classfile parser and writer for Rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [Kampfkarren/full-moon](https://github.com/Kampfkarren/full-moon) - A lossless Lua 5.1 parser
@@ -7942,6 +7950,7 @@
 
 ## TypeScript 
 
+- [joplin/plugin-abc-sheet-music](https://github.com/joplin/plugin-abc-sheet-music) - ABC Sheet Music Plugin for Joplin
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 - [ephread/sophisticate](https://github.com/ephread/sophisticate) - Sophisticate SVG editors outputs to display them within interactive web pages.
 - [ephread/vscode-ink](https://github.com/ephread/vscode-ink) - Ink support for VS Code
@@ -7977,6 +7986,7 @@
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
+- [plaid/plaid-node](https://github.com/plaid/plaid-node) - Node bindings for Plaid
 - [getsentry/action-release](https://github.com/getsentry/action-release) - GitHub Action for creating a release on Sentry
 - [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs) - The new place for the sentry documentation (and tools to build it)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
