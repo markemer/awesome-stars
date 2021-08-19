@@ -809,7 +809,6 @@
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [etoile/Languages](https://github.com/etoile/Languages) - Framework to create dynamic OO languages, either interpreted or compiled with LLVM, on top of the ObjC runtime (includes Étoilé Smalltalk implementation)
 - [limpkin/mooltipass](https://github.com/limpkin/mooltipass) - Github repository dedicated to the mooltipass project
-- [docopt/docopt.c](https://github.com/docopt/docopt.c) - C-code generator for docopt language.
 - [gonsie/SR](https://github.com/gonsie/SR) - Simplified ROSS (now with history!)
 - [nvidia-compiler-sdk/nvvmir-samples](https://github.com/nvidia-compiler-sdk/nvvmir-samples) - 
 - [kjn/lbzip2](https://github.com/kjn/lbzip2) - Parallel bzip2 utility
@@ -871,6 +870,7 @@
 
 ## C# # 
 
+- [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP taskbar for modern versions of Windows
 - [uxmal/reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
 - [garrynewman/SteamScreenshotDownloader](https://github.com/garrynewman/SteamScreenshotDownloader) - Download all of your (public) steam screenshots
 - [ME3Tweaks/ME3TweaksModManager](https://github.com/ME3Tweaks/ME3TweaksModManager) - Next generation Mod Manager for all Mass Effect Trilogy games
@@ -1009,7 +1009,7 @@
 - [facontidavide/PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Time Series Visualization Tool that you deserve.
 - [qmk/ChibiOS](https://github.com/qmk/ChibiOS) - Mirror of the ChibiOS SVN repository
 - [inducer/meshpy](https://github.com/inducer/meshpy) - 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
 - [DTolm/VkFFT](https://github.com/DTolm/VkFFT) - Vulkan/CUDA/HIP/OpenCL Fast Fourier Transform library
 - [badgeek/svg2shenzhen](https://github.com/badgeek/svg2shenzhen) - Convert Inkscape SVG drawings to KiCad PCB and footprint modules
@@ -1787,7 +1787,7 @@
 ## Go 
 
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
-- [jonaslu/ain](https://github.com/jonaslu/ain) - An API client for the terminal
+- [jonaslu/ain](https://github.com/jonaslu/ain) - An HTTP API client for the terminal
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [syncfast/clockwise](https://github.com/syncfast/clockwise) - Clockwise is a meeting cost calculator designed to encourage more efficient meetings.
@@ -2347,7 +2347,7 @@
 - [broccolini/athena](https://github.com/broccolini/athena) - A simple and elegant theme for Jekyll and GitHub Pages.
 - [GSA/data](https://github.com/GSA/data) - Assorted data from the General Services Administration.
 - [mariechatfield/call-my-congress](https://github.com/mariechatfield/call-my-congress) - DEPRECATED. Simple app that displays contact information for US Congress representatives by district.
-- [ft-interactive/chart-doctor](https://github.com/ft-interactive/chart-doctor) - Sample files to accompany the FT's Chart Doctor column
+- [Financial-Times/chart-doctor](https://github.com/Financial-Times/chart-doctor) - Sample files to accompany the FT's Chart Doctor column
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [guildai/_guild-legacy](https://github.com/guildai/_guild-legacy) - Legacy code for Guild's original implementation in Erlang
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
@@ -4947,6 +4947,8 @@
 
 ## Python 
 
+- [Groundworkstech/pybfd](https://github.com/Groundworkstech/pybfd) - A Python interface to the GNU Binary File Descriptor (BFD) library.
+- [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX.
 - [andreas-abel/uiCA](https://github.com/andreas-abel/uiCA) - uops.info Code Analyzer
 - [cea-sec/miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework in Python
 - [SamSchott/maestral](https://github.com/SamSchott/maestral) - Open-source Dropbox client for macOS and Linux
@@ -5639,6 +5641,7 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [arc90/git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
 - [devicenull/ipmi_firmware_tools](https://github.com/devicenull/ipmi_firmware_tools) - IPMI analysis tools
+- [docopt/docopt.c](https://github.com/docopt/docopt.c) - C-code generator for docopt language.
 - [twilio/stashboard](https://github.com/twilio/stashboard) - An open-source status dashboard running on App Engine
 - [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [viewfinderco/viewfinder](https://github.com/viewfinderco/viewfinder) - Viewfinder client and server code
@@ -6395,6 +6398,7 @@
 
 ## Shell 
 
+- [mattpolzin/swift-codecov-action](https://github.com/mattpolzin/swift-codecov-action) - 
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [ogra1/zoom-snap](https://github.com/ogra1/zoom-snap) - 
