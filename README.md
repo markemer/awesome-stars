@@ -102,6 +102,7 @@
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
+  - [Smarty](#smarty)
   - [SourcePawn](#sourcepawn)
   - [Stan](#stan)
   - [Standard ML](#standard-ml)
@@ -870,6 +871,7 @@
 
 ## C# # 
 
+- [cairoshell/ManagedShell](https://github.com/cairoshell/ManagedShell) - A library for creating Windows shell replacements using .NET.
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP taskbar for modern versions of Windows
 - [uxmal/reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
 - [garrynewman/SteamScreenshotDownloader](https://github.com/garrynewman/SteamScreenshotDownloader) - Download all of your (public) steam screenshots
@@ -1786,6 +1788,7 @@
 
 ## Go 
 
+- [swill/kad](https://github.com/swill/kad) - Keyboard Automated Design (KAD) is a Golang library for designing mechanical keyboards
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [jonaslu/ain](https://github.com/jonaslu/ain) - An HTTP API client for the terminal
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
@@ -2613,6 +2616,9 @@
 
 ## JavaScript 
 
+- [eswai/KL3V](https://github.com/eswai/KL3V) - Keyboard Layout 3D Viewer
+- [ijprest/kle-serial](https://github.com/ijprest/kle-serial) - Serialization library for keyboard-layout-editor.com
+- [spiermar/d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - A D3.js plugin that produces flame graphs from hierarchical data.
 - [inlife/nexrender](https://github.com/inlife/nexrender) - 📹  Data-driven render automation for After Effects
 - [League-of-Foundry-Developers/FoundryVTT-Module-Template](https://github.com/League-of-Foundry-Developers/FoundryVTT-Module-Template) - A template repository for FoundryVTT module development that comes with versioned CI/CD
 - [MrPrimate/ddb-importer-chrome](https://github.com/MrPrimate/ddb-importer-chrome) - 
@@ -4222,6 +4228,7 @@
 
 ## Others 
 
+- [caddy-dns/namecheap](https://github.com/caddy-dns/namecheap) - 
 - [HankiDesign/awesome-dear-imgui](https://github.com/HankiDesign/awesome-dear-imgui) - A collection of awesome dear imgui bindings, extensions and resources
 - [pgwipeout/ouya_bootmenu](https://github.com/pgwipeout/ouya_bootmenu) - bootmenu for ouya. utilises kexec to boot images from system and datamedia.
 - [scholtzm/awesome-steam](https://github.com/scholtzm/awesome-steam) - 😎 A curated list of packages and resources regarding Steam development
@@ -4947,6 +4954,8 @@
 
 ## Python 
 
+- [clueboard/kalerator](https://github.com/clueboard/kalerator) - Software for converting keyboard-layout-editor.com designs into EAGLE PCB's
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Groundworkstech/pybfd](https://github.com/Groundworkstech/pybfd) - A Python interface to the GNU Binary File Descriptor (BFD) library.
 - [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX.
 - [andreas-abel/uiCA](https://github.com/andreas-abel/uiCA) - uops.info Code Analyzer
@@ -5780,7 +5789,6 @@
 
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
 - [MinnowBoard-org/design-files](https://github.com/MinnowBoard-org/design-files) - MinnowBoard.org Official Hardware Design Files
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
 
@@ -6147,6 +6155,8 @@
 
 ## Rust 
 
+- [Doctave/doctave](https://github.com/Doctave/doctave) - A batteries-included developer documentation site generator
+- [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [x4e/classfile-rs](https://github.com/x4e/classfile-rs) - JVM classfile parser and writer for Rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
@@ -6578,6 +6588,7 @@
 - [awslabs/route53-dynamic-dns-with-lambda](https://github.com/awslabs/route53-dynamic-dns-with-lambda) - A Dynamic DNS system built with API Gateway, Lambda & Route 53.
 - [grugq/PORTALofPi](https://github.com/grugq/PORTALofPi) - PORTAL of Pi - RaspberyPi based PORTAL device. Certified UNIX Network Technicians only!
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [firehol/firehol](https://github.com/firehol/firehol) - A firewall for humans...
 - [xcenv/xcenv](https://github.com/xcenv/xcenv) - Groom your Xcode environment.
@@ -6647,6 +6658,10 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 
+## Smarty 
+
+- [jeroen94704/klepcbgen](https://github.com/jeroen94704/klepcbgen) - Generates a KiCAD schematic and PCB layout using a Keyboard Layout Editor json file as input
+
 ## SourcePawn 
 
 - [efabless/sky130_sram_macros](https://github.com/efabless/sky130_sram_macros) - 
@@ -6680,6 +6695,7 @@
 
 ## Swift 
 
+- [ergunemr/BottomPopup](https://github.com/ergunemr/BottomPopup) - BottomPopup provides a popup-like presentation style to any view controller
 - [vineetchoudhary/Downloader-for-Apple-Developers](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers) - Download Xcode, WWDC Videos, and other developer tools up to 16 times faster.
 - [macmade/PropertyListEditor](https://github.com/macmade/PropertyListEditor) - macOS PropertyList Editor
 - [KhaosT/MacVM](https://github.com/KhaosT/MacVM) - macOS VM for Apple Silicon using Virtualization API
