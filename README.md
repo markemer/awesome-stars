@@ -871,6 +871,7 @@
 
 ## C# # 
 
+- [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 - [cairoshell/ManagedShell](https://github.com/cairoshell/ManagedShell) - A library for creating Windows shell replacements using .NET.
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP taskbar for modern versions of Windows
 - [uxmal/reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
@@ -1788,6 +1789,7 @@
 
 ## Go 
 
+- [caddy-dns/namecheap](https://github.com/caddy-dns/namecheap) - 
 - [swill/kad](https://github.com/swill/kad) - Keyboard Automated Design (KAD) is a Golang library for designing mechanical keyboards
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [jonaslu/ain](https://github.com/jonaslu/ain) - An HTTP API client for the terminal
@@ -2616,6 +2618,7 @@
 
 ## JavaScript 
 
+- [sonyseng/json-caching-proxy](https://github.com/sonyseng/json-caching-proxy) - Node caching HTTP proxy built on top of express-http-proxy. Persists requests and responses to an in-memory HAR-like data structure based on HAR1.2 . Caches JSON content-type responses by default with the ability to cache an entire site; including content-types describing images. Useful for testing front end code, mocking api, and saving the cache to a HAR file which can be used for further tests.
 - [eswai/KL3V](https://github.com/eswai/KL3V) - Keyboard Layout 3D Viewer
 - [ijprest/kle-serial](https://github.com/ijprest/kle-serial) - Serialization library for keyboard-layout-editor.com
 - [spiermar/d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - A D3.js plugin that produces flame graphs from hierarchical data.
@@ -4228,7 +4231,6 @@
 
 ## Others 
 
-- [caddy-dns/namecheap](https://github.com/caddy-dns/namecheap) - 
 - [HankiDesign/awesome-dear-imgui](https://github.com/HankiDesign/awesome-dear-imgui) - A collection of awesome dear imgui bindings, extensions and resources
 - [pgwipeout/ouya_bootmenu](https://github.com/pgwipeout/ouya_bootmenu) - bootmenu for ouya. utilises kexec to boot images from system and datamedia.
 - [scholtzm/awesome-steam](https://github.com/scholtzm/awesome-steam) - 😎 A curated list of packages and resources regarding Steam development
