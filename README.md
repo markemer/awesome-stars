@@ -327,7 +327,7 @@
 - [intel/nemu](https://github.com/intel/nemu) - ARCHIVED: Modern Hypervisor for the Cloud. See https://github.com/cloud-hypervisor/cloud-hypervisor instead
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
-- [hse-project/hse](https://github.com/hse-project/hse) - Heterogeneous-memory storage engine (HSE)
+- [hse-project/hse](https://github.com/hse-project/hse) - HSE: Heterogeneous-memory storage engine
 - [westerndigitalcorporation/riscv-fw-infrastructure](https://github.com/westerndigitalcorporation/riscv-fw-infrastructure) - Firmware infrastructure, contain RTOS Abstraction Layer, demos and more...
 - [osfree-project/osfree](https://github.com/osfree-project/osfree) - osFree - open source Operating System/2 clone, usermode parts.
 - [illumos/illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system
