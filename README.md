@@ -211,6 +211,8 @@
 
 ## C 
 
+- [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password.
+- [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp) - Windows File System Proxy - FUSE for Windows
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 - [solderparty/bbq10kbd_i2c_sw](https://github.com/solderparty/bbq10kbd_i2c_sw) - 
 - [pgwipeout/linux](https://github.com/pgwipeout/linux) - Linux kernel source tree, working on sbc support.
@@ -2481,6 +2483,7 @@
 
 ## Java 
 
+- [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins) - Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
 - [RobertLarsen/GhidraFirmwareToolkit](https://github.com/RobertLarsen/GhidraFirmwareToolkit) - 
 - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring integration for GraphQL
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design-tool and simulator
@@ -2620,6 +2623,7 @@
 
 ## JavaScript 
 
+- [lensvol/fl-oneclick-wiki](https://github.com/lensvol/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
 - [sonyseng/json-caching-proxy](https://github.com/sonyseng/json-caching-proxy) - Node caching HTTP proxy built on top of express-http-proxy. Persists requests and responses to an in-memory HAR-like data structure based on HAR1.2 . Caches JSON content-type responses by default with the ability to cache an entire site; including content-types describing images. Useful for testing front end code, mocking api, and saving the cache to a HAR file which can be used for further tests.
 - [eswai/KL3V](https://github.com/eswai/KL3V) - Keyboard Layout 3D Viewer
 - [ijprest/kle-serial](https://github.com/ijprest/kle-serial) - Serialization library for keyboard-layout-editor.com
@@ -3691,6 +3695,7 @@
 
 ## Objective-C 
 
+- [xslim/GCMathParser](https://github.com/xslim/GCMathParser) - Unofficial repository for GCMathParser/GCExpressionParser by Graham Cox
 - [QMUI/LookinServer](https://github.com/QMUI/LookinServer) - Free macOS app for iOS view debugging.
 - [objective-see/OverSight](https://github.com/objective-see/OverSight) - OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam.
 - [IconJar/IJSVG](https://github.com/IconJar/IJSVG) - MacOS SVG rendering and exporting library
@@ -4508,7 +4513,7 @@
 - [Netflix/titus](https://github.com/Netflix/titus) - 
 - [forgefed/forgefed](https://github.com/forgefed/forgefed) - An extension to ActivityPub for web-based Git services federation.
 - [openmoko/openmoko-usb-oui](https://github.com/openmoko/openmoko-usb-oui) - USB Product ID allocations for Free Software / Open Hardware
-- [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [oz123/awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [AlgoryL/Projects-from-Scratch](https://github.com/AlgoryL/Projects-from-Scratch) - Read and do projects.
 - [cweagans/awesome-diy-software](https://github.com/cweagans/awesome-diy-software) - A curated list of awesome DIY software.
@@ -5480,7 +5485,7 @@
 - [aliyun/aliyun-odps-python-sdk](https://github.com/aliyun/aliyun-odps-python-sdk) - ODPS Python SDK and data analysis framework
 - [halilozercan/pget](https://github.com/halilozercan/pget) - Fast download in chunks
 - [eliben/pykaleidoscope](https://github.com/eliben/pykaleidoscope) - Implementation of the LLVM tutorial in Python
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [sony/nnabla](https://github.com/sony/nnabla) - Neural Network Libraries
@@ -6699,6 +6704,8 @@
 
 ## Swift 
 
+- [OpenSesameManager/SwiftOTP](https://github.com/OpenSesameManager/SwiftOTP) - A Swift library for generating One Time Passwords (OTP)
+- [Dashlane/SwiftDomainParser](https://github.com/Dashlane/SwiftDomainParser) - A Full Swift Lightweight Framework that uses the Public Suffix list to Parse URLs
 - [ergunemr/BottomPopup](https://github.com/ergunemr/BottomPopup) - BottomPopup provides a popup-like presentation style to any view controller
 - [vineetchoudhary/Downloader-for-Apple-Developers](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers) - Download Xcode, WWDC Videos, and other developer tools up to 16 times faster.
 - [macmade/PropertyListEditor](https://github.com/macmade/PropertyListEditor) - macOS PropertyList Editor
