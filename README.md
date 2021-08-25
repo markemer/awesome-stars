@@ -873,6 +873,7 @@
 
 ## C# # 
 
+- [p-org/P](https://github.com/p-org/P) - The P programming language.
 - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
 - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 - [cairoshell/ManagedShell](https://github.com/cairoshell/ManagedShell) - A library for creating Windows shell replacements using .NET.
@@ -968,6 +969,8 @@
 
 ## C++ 
 
+- [Shapeways/cpp-shapeways](https://github.com/Shapeways/cpp-shapeways) - C++ reference client for Shapeways API
+- [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [horsicq/Nauz-File-Detector](https://github.com/horsicq/Nauz-File-Detector) - Linker/Compiler/Tool detector  for Windows, Linux and MacOS.
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [zodiacon/RegExp](https://github.com/zodiacon/RegExp) - Registry Explorer - enhanced Registry editor/viewer
@@ -2623,6 +2626,7 @@
 
 ## JavaScript 
 
+- [opencomputeproject/CADCloud](https://github.com/opencomputeproject/CADCloud) - CADCloud is a cloud based sharing infrastructure dedicates to CAD engineers. It allows users to share design files, browse them interactively through a simple web interface, and support native file format from popular open source tools.
 - [lensvol/fl-oneclick-wiki](https://github.com/lensvol/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
 - [sonyseng/json-caching-proxy](https://github.com/sonyseng/json-caching-proxy) - Node caching HTTP proxy built on top of express-http-proxy. Persists requests and responses to an in-memory HAR-like data structure based on HAR1.2 . Caches JSON content-type responses by default with the ability to cache an entire site; including content-types describing images. Useful for testing front end code, mocking api, and saving the cache to a HAR file which can be used for further tests.
 - [eswai/KL3V](https://github.com/eswai/KL3V) - Keyboard Layout 3D Viewer
@@ -3656,6 +3660,7 @@
 
 ## OCaml 
 
+- [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Audio and video streaming language
 - [mukul-rathi/bolt](https://github.com/mukul-rathi/bolt) - Bolt is a language with in-built data-race freedom!
 - [roburio/unikernels](https://github.com/roburio/unikernels) - MirageOS unikernels
 - [roburio/dns-primary-git](https://github.com/roburio/dns-primary-git) - A MirageOS unikernel acting as primary DNS server, data stored in a remote git repository
@@ -4962,6 +4967,7 @@
 
 ## Python 
 
+- [Shapeways/python-shapeways](https://github.com/Shapeways/python-shapeways) - Python client for the shapeways API
 - [clueboard/kalerator](https://github.com/clueboard/kalerator) - Software for converting keyboard-layout-editor.com designs into EAGLE PCB's
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Groundworkstech/pybfd](https://github.com/Groundworkstech/pybfd) - A Python interface to the GNU Binary File Descriptor (BFD) library.
