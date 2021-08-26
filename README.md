@@ -200,7 +200,6 @@
 
 ## Batchfile 
 
-- [microsoft/GDK](https://github.com/microsoft/GDK) - Microsoft Public GDK
 - [sparkfun/SparkFun_Artemis](https://github.com/sparkfun/SparkFun_Artemis) - World's first open source hardware module using a Cortex-M4F capable of running TensorFlow models and Arduino sketches..
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
@@ -211,6 +210,8 @@
 
 ## C 
 
+- [mdbtools/mdbtools](https://github.com/mdbtools/mdbtools) - MDB Tools - Read Access databases on *nix
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password.
 - [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp) - Windows File System Proxy - FUSE for Windows
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
@@ -1672,7 +1673,7 @@
 
 ## Coq 
 
-- [rems-project/sail-riscv](https://github.com/rems-project/sail-riscv) - Sail RISC-V model
+- [riscv/sail-riscv](https://github.com/riscv/sail-riscv) - Sail RISC-V model
 
 ## Crystal 
 
@@ -1796,6 +1797,8 @@
 
 ## Go 
 
+- [logrusorgru/aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
+- [ovrclk/akash](https://github.com/ovrclk/akash) - a secure, transparent, and peer-to-peer cloud computing network
 - [caddy-dns/namecheap](https://github.com/caddy-dns/namecheap) - 
 - [swill/kad](https://github.com/swill/kad) - Keyboard Automated Design (KAD) is a Golang library for designing mechanical keyboards
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
@@ -1970,7 +1973,7 @@
 - [pwaller/go2ll-talk](https://github.com/pwaller/go2ll-talk) - Live coding a basic Go compiler with LLVM in 20 minutes
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
-- [theupdateframework/notary](https://github.com/theupdateframework/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
+- [notaryproject/notary](https://github.com/notaryproject/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
 - [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
 - [99designs/iamy](https://github.com/99designs/iamy) - A cli tool for importing and exporting AWS IAM configuration to YAML files
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -2489,7 +2492,7 @@
 - [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins) - Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
 - [RobertLarsen/GhidraFirmwareToolkit](https://github.com/RobertLarsen/GhidraFirmwareToolkit) - 
 - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring integration for GraphQL
-- [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design-tool and simulator
+- [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
@@ -3176,7 +3179,7 @@
 - [jkingyens/docker4xcode](https://github.com/jkingyens/docker4xcode) - Build, ship and run iOS apps like docker containers
 - [rapidlua/luajit.me](https://github.com/rapidlua/luajit.me) - LuaJIT compiler explorer
 - [topojson/topojson-server](https://github.com/topojson/topojson-server) - Convert GeoJSON to TopoJSON.
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [KraigM/HomeBridgeController](https://github.com/KraigM/HomeBridgeController) - Provides a simplified UI for controlling your HomeBridge
 - [dylang/shortid](https://github.com/dylang/shortid) - Short id generator. Url-friendly. Non-predictable. Cluster-compatible.
 - [nytimes/kyt](https://github.com/nytimes/kyt) - Starting a new JS app? Build, test and run advanced apps with kyt 🔥
@@ -4939,6 +4942,7 @@
 
 ## PowerShell 
 
+- [microsoft/GDK](https://github.com/microsoft/GDK) - Microsoft Public GDK
 - [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 - [majkinetor/posh](https://github.com/majkinetor/posh) - Powershell modules and functions by majkinetor
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
@@ -4967,6 +4971,7 @@
 
 ## Python 
 
+- [kellyjonbrazil/jtbl](https://github.com/kellyjonbrazil/jtbl) - A simple CLI tool to print JSON and JSON Lines data as a table in the terminal
 - [Shapeways/python-shapeways](https://github.com/Shapeways/python-shapeways) - Python client for the shapeways API
 - [clueboard/kalerator](https://github.com/clueboard/kalerator) - Software for converting keyboard-layout-editor.com designs into EAGLE PCB's
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -6422,6 +6427,7 @@
 
 ## Shell 
 
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [tailscale/tailscale-synology](https://github.com/tailscale/tailscale-synology) - Synology packages for tailscale.com
 - [mattpolzin/swift-codecov-action](https://github.com/mattpolzin/swift-codecov-action) - 
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
@@ -6710,6 +6716,10 @@
 
 ## Swift 
 
+- [mkrd/Swift-BigInt](https://github.com/mkrd/Swift-BigInt) - A lightweight, Multiple Precision Arithmetic Library for Swift!
+- [ArtSabintsev/FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS and tvOS app.
+- [dduan/DrString](https://github.com/dduan/DrString) - DrString finds issues in your Swift docstrings and fixes them for you.
+- [dduan/IsTTY](https://github.com/dduan/IsTTY) - Helps you decide whether your file is a terminal device.
 - [OpenSesameManager/SwiftOTP](https://github.com/OpenSesameManager/SwiftOTP) - A Swift library for generating One Time Passwords (OTP)
 - [Dashlane/SwiftDomainParser](https://github.com/Dashlane/SwiftDomainParser) - A Full Swift Lightweight Framework that uses the Public Suffix list to Parse URLs
 - [ergunemr/BottomPopup](https://github.com/ergunemr/BottomPopup) - BottomPopup provides a popup-like presentation style to any view controller
