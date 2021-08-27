@@ -1651,7 +1651,7 @@
 - [rmosolgo/language-graphql](https://github.com/rmosolgo/language-graphql) - GraphQL support for Atom text editor
 - [atom/apm](https://github.com/atom/apm) - Atom Package Manager
 - [Floobits/atom-term3](https://github.com/Floobits/atom-term3) - Open Terminal tabs in Atom. Fork of Term package
-- [sharelatex/github-latex-ci](https://github.com/sharelatex/github-latex-ci) - An automated LaTeX build service for compiling continuous compiling of github repositories
+- [overleaf/github-latex-ci](https://github.com/overleaf/github-latex-ci) - An automated LaTeX build service for compiling continuous compiling of github repositories
 - [keybase/proofs](https://github.com/keybase/proofs) - Public Keybase Proof System
 - [keybase/pgp-utils](https://github.com/keybase/pgp-utils) - Various crypto utilities for dealing with MACs, Signatures, and PGP message formats.
 - [kartograph/kartograph.js](https://github.com/kartograph/kartograph.js) - UNMAINTAINED Open source JavaScript renderer for Kartograph SVG maps
@@ -1797,6 +1797,7 @@
 
 ## Go 
 
+- [mholt/acmez](https://github.com/mholt/acmez) - Premier ACME client library for Go
 - [logrusorgru/aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
 - [ovrclk/akash](https://github.com/ovrclk/akash) - a secure, transparent, and peer-to-peer cloud computing network
 - [caddy-dns/namecheap](https://github.com/caddy-dns/namecheap) - 
@@ -3272,7 +3273,7 @@
 - [alternatekev/heatmap-calendar](https://github.com/alternatekev/heatmap-calendar) - A set of ReactJS components that populate a calendar with days colored hot or cold based on data pulled from JSON
 - [angular/material](https://github.com/angular/material) - Material design for AngularJS
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [hanse/react-calendar](https://github.com/hanse/react-calendar) - React.js Calendar Component (npm install react-calendar-component) 📅
 - [keybase/kbpgp](https://github.com/keybase/kbpgp) - OpenPGP (RFC4880) Implementation in IcedCoffeeScript
@@ -6716,6 +6717,7 @@
 
 ## Swift 
 
+- [MaxDesiatov/SwiftPie](https://github.com/MaxDesiatov/SwiftPie) - A Swift rewrite of "A Tutorial Implementation of a Dependently Typed Lambda Calculus"
 - [mkrd/Swift-BigInt](https://github.com/mkrd/Swift-BigInt) - A lightweight, Multiple Precision Arithmetic Library for Swift!
 - [ArtSabintsev/FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS and tvOS app.
 - [dduan/DrString](https://github.com/dduan/DrString) - DrString finds issues in your Swift docstrings and fixes them for you.
