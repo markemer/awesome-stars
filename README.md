@@ -265,6 +265,7 @@
 - [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 - [tomvita/SE-tools](https://github.com/tomvita/SE-tools) - This repository put together a set of tools I created for switch memory hacking
 - [rizinorg/rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
+- [qmk/ChibiOS](https://github.com/qmk/ChibiOS) - Mirror of the ChibiOS SVN repository
 - [mabl/ChibiOS](https://github.com/mabl/ChibiOS) - Mirror of the ChibiOS SVN repository (updated every 10 minutes)
 - [mkirchner/linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
 - [avpatel/xvisor-next](https://github.com/avpatel/xvisor-next) - Xvisor: eXtensible Versatile hypervISOR
@@ -1020,7 +1021,6 @@
 - [yamashi/RED4ext](https://github.com/yamashi/RED4ext) - A script extender for REDengine 4.
 - [yamashi/CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) - Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
 - [facontidavide/PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Time Series Visualization Tool that you deserve.
-- [qmk/ChibiOS](https://github.com/qmk/ChibiOS) - Mirror of the ChibiOS SVN repository
 - [inducer/meshpy](https://github.com/inducer/meshpy) - 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
@@ -1262,7 +1262,6 @@
 - [sekrit-twc/zimg](https://github.com/sekrit-twc/zimg) - Scaling, colorspace conversion, and dithering library
 - [opcm/pcm](https://github.com/opcm/pcm) - Processor Counter Monitor
 - [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
-- [PlanetAPL/gnu-apl](https://github.com/PlanetAPL/gnu-apl) - GNU APL
 - [macosforge/alac](https://github.com/macosforge/alac) - The Apple Lossless Audio Codec (ALAC) is a lossless audio codec developed by Apple and deployed on all of its platforms and devices.
 - [terralang/terra](https://github.com/terralang/terra) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
 - [phobos2077/sfall](https://github.com/phobos2077/sfall) - Engine modifications for Fallout 2
