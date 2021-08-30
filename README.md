@@ -971,6 +971,7 @@
 
 ## C++ 
 
+- [crypto2011/IDR](https://github.com/crypto2011/IDR) - Interactive Delphi Reconstructor
 - [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
 - [Shapeways/cpp-shapeways](https://github.com/Shapeways/cpp-shapeways) - C++ reference client for Shapeways API
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
@@ -4419,7 +4420,7 @@
 - [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [jarikoi/interesting-papers](https://github.com/jarikoi/interesting-papers) - Jari's collection of interesting papers.
 - [fesh0r/010editor](https://github.com/fesh0r/010editor) - Templates and scripts for 010 editor
-- [dumb-password-rules/dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) - Shaming sites with dumb password rules.
+- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [interviewBubble/Data-Science-Competitions](https://github.com/interviewBubble/Data-Science-Competitions) - Goal of this repo is to provide the solutions of all Data Science Competitions(Kaggle, Data Hack, Machine Hack, Driven Data etc...).
 - [devopsdc/devopsdc](https://github.com/devopsdc/devopsdc) - Planning and other organizational stuff for DevOps DC Meetup Group
