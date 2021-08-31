@@ -971,6 +971,8 @@
 
 ## C++ 
 
+- [rizinorg/rz-ghidra](https://github.com/rizinorg/rz-ghidra) - Deep ghidra decompiler and sleigh disassembler integration for rizin
+- [aerosoul94/PS-HDD-Tools](https://github.com/aerosoul94/PS-HDD-Tools) - PS3 and PS4 HDD tools
 - [crypto2011/IDR](https://github.com/crypto2011/IDR) - Interactive Delphi Reconstructor
 - [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
 - [Shapeways/cpp-shapeways](https://github.com/Shapeways/cpp-shapeways) - C++ reference client for Shapeways API
@@ -2492,6 +2494,8 @@
 
 ## Java 
 
+- [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
+- [processing/processing4](https://github.com/processing/processing4) - Processing 4.x releases (currently in “beta”) that use Java 11
 - [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins) - Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
 - [RobertLarsen/GhidraFirmwareToolkit](https://github.com/RobertLarsen/GhidraFirmwareToolkit) - 
 - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring integration for GraphQL
@@ -2502,7 +2506,7 @@
 - [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
-- [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
+- [HumbleUI/skija](https://github.com/HumbleUI/skija) - Java bindings for Skia
 - [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [intuit/karate](https://github.com/intuit/karate) - Test Automation Made Simple
 - [tabulapdf/tabula-java](https://github.com/tabulapdf/tabula-java) - Extract tables from PDF files
@@ -2632,6 +2636,7 @@
 
 ## JavaScript 
 
+- [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [opencomputeproject/CADCloud](https://github.com/opencomputeproject/CADCloud) - CADCloud is a cloud based sharing infrastructure dedicates to CAD engineers. It allows users to share design files, browse them interactively through a simple web interface, and support native file format from popular open source tools.
 - [lensvol/fl-oneclick-wiki](https://github.com/lensvol/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
 - [sonyseng/json-caching-proxy](https://github.com/sonyseng/json-caching-proxy) - Node caching HTTP proxy built on top of express-http-proxy. Persists requests and responses to an in-memory HAR-like data structure based on HAR1.2 . Caches JSON content-type responses by default with the ability to cache an entire site; including content-types describing images. Useful for testing front end code, mocking api, and saving the cache to a HAR file which can be used for further tests.
@@ -3109,7 +3114,7 @@
 - [slackapi/sample-message-menus-node](https://github.com/slackapi/sample-message-menus-node) - An example Slack app that demonstrates use of message menus
 - [slackapi/node-slack-interactive-messages](https://github.com/slackapi/node-slack-interactive-messages) - Slack Buttons, Menus, and Dialogs made simpler for Node
 - [slackapi/easy-peasy-bot](https://github.com/slackapi/easy-peasy-bot) - A template project to get you started writing Botkit bots for Slack
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files in the browser
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files in the browser and Deno
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
 - [mapbox/delaunator](https://github.com/mapbox/delaunator) - An incredibly fast JavaScript library for Delaunay triangulation of 2D points
 - [captainsafia/giddy](https://github.com/captainsafia/giddy) - A CLI wrapper around git for an improved developer experience
@@ -3524,6 +3529,7 @@
 
 ## Kotlin 
 
+- [awslabs/smithy-swift](https://github.com/awslabs/smithy-swift) - 
 - [jpd236/kotwords](https://github.com/jpd236/kotwords) - Collection of crossword puzzle file format converters and other utilities, written in Kotlin.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [GitLiveApp/firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase
@@ -4247,6 +4253,9 @@
 
 ## Others 
 
+- [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues Pull requests will be automatically closed.
+- [AllsafeCyberSecurity/awesome-ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra) - A curated list of awesome Ghidra materials
+- [bobeff/programming-math-science](https://github.com/bobeff/programming-math-science) - This is a list of links to different freely available learning resources about computer programming, math, and science.
 - [HankiDesign/awesome-dear-imgui](https://github.com/HankiDesign/awesome-dear-imgui) - A collection of awesome dear imgui bindings, extensions and resources
 - [pgwipeout/ouya_bootmenu](https://github.com/pgwipeout/ouya_bootmenu) - bootmenu for ouya. utilises kexec to boot images from system and datamedia.
 - [scholtzm/awesome-steam](https://github.com/scholtzm/awesome-steam) - 😎 A curated list of packages and resources regarding Steam development
@@ -6447,7 +6456,7 @@
 - [YoeDistro/yoe-distro](https://github.com/YoeDistro/yoe-distro) - Embedded Linux distribution optimized for product development (based on OE/Yocto)
 - [timwis/markdown-to-google-doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive
 - [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
-- [notclint/cfetch](https://github.com/notclint/cfetch) - A simple system information tool for Linux.
+- [noqqlint/cfetch](https://github.com/noqqlint/cfetch) - A simple system information tool for Linux.
 - [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
 - [KosalaHerath/macos-installer-builder](https://github.com/KosalaHerath/macos-installer-builder) - Generate macOS installers for your applications and products from one command
 - [dslm4515/Musl-LFS](https://github.com/dslm4515/Musl-LFS) - Linux From Scratch using Musl as Libc
@@ -8007,6 +8016,7 @@
 
 ## TypeScript 
 
+- [octokit/auth-oauth-app.js](https://github.com/octokit/auth-oauth-app.js) - GitHub OAuth App authentication for JavaScript
 - [joplin/plugin-abc-sheet-music](https://github.com/joplin/plugin-abc-sheet-music) - ABC Sheet Music Plugin for Joplin
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 - [ephread/sophisticate](https://github.com/ephread/sophisticate) - Sophisticate SVG editors outputs to display them within interactive web pages.
@@ -8313,6 +8323,7 @@
 
 ## YARA 
 
+- [ghidraninja/ghidra_scripts](https://github.com/ghidraninja/ghidra_scripts) - Scripts for the Ghidra software reverse engineering suite.
 - [rednaga/APKiD](https://github.com/rednaga/APKiD) - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
 
 ## YASnippet 
