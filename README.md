@@ -210,6 +210,8 @@
 
 ## C 
 
+- [skvadrik/re2c](https://github.com/skvadrik/re2c) - Lexer generator for C, C++ and Go.
+- [grassator/mass](https://github.com/grassator/mass) - A compiler for a macro-oriented language that compiles straight to x86_64 binaries (no LLVM, no linker).
 - [mdbtools/mdbtools](https://github.com/mdbtools/mdbtools) - MDB Tools - Read Access databases on *nix
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password.
@@ -2641,7 +2643,8 @@
 
 ## JavaScript 
 
-- [narze/THIS_REPO_HAS_1451_STARS](https://github.com/narze/THIS_REPO_HAS_1451_STARS) - Click Star ⭐️ to see it in action :trollface:
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+- [narze/THIS_REPO_HAS_1808_STARS](https://github.com/narze/THIS_REPO_HAS_1808_STARS) - Click Star ⭐️ to see it in action :trollface:
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [opencomputeproject/CADCloud](https://github.com/opencomputeproject/CADCloud) - CADCloud is a cloud based sharing infrastructure dedicates to CAD engineers. It allows users to share design files, browse them interactively through a simple web interface, and support native file format from popular open source tools.
 - [lensvol/fl-oneclick-wiki](https://github.com/lensvol/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
@@ -4258,6 +4261,7 @@
 
 ## Others 
 
+- [kelu124/awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - :book: List of FPGA Lattice boards using open tools
 - [Digilent/Genesys-ZU](https://github.com/Digilent/Genesys-ZU) - 
 - [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues Pull requests will be automatically closed.
 - [AllsafeCyberSecurity/awesome-ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra) - A curated list of awesome Ghidra materials
@@ -4908,7 +4912,7 @@
 
 - [Ryan-rsm-McKenzie/NQS_NamedQuicksaves](https://github.com/Ryan-rsm-McKenzie/NQS_NamedQuicksaves) - 
 - [kinggath/WorkshopFramework](https://github.com/kinggath/WorkshopFramework) - Redesign of the FO4 Workshop Scripts
-- [fireundubh/fallout4](https://github.com/fireundubh/fallout4) - 
+- [fireundubh/fallout4](https://github.com/fireundubh/fallout4) - Everything here is old and outdated by at least 5 years.
 
 ## Pascal 
 
@@ -6192,6 +6196,7 @@
 
 ## Rust 
 
+- [EFForg/apkeep](https://github.com/EFForg/apkeep) - 
 - [stepancheg/grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
 - [Doctave/doctave](https://github.com/Doctave/doctave) - A batteries-included developer documentation site generator
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
