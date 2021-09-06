@@ -877,6 +877,7 @@
 
 ## C# # 
 
+- [TV-Rename/tvrename](https://github.com/TV-Rename/tvrename) - Organise your TV videos with ease
 - [p-org/P](https://github.com/p-org/P) - The P programming language.
 - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
 - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
@@ -1021,7 +1022,7 @@
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [cwi-dis/iotsa](https://github.com/cwi-dis/iotsa) - This library contains a framework to easily create web servers that can interface to all sorts of sensors and actuators. esp32 and esp8266.
 - [Qucs/qucs](https://github.com/Qucs/qucs) - Qucs Project official mirror
-- [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for PC and Android
+- [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64
 - [WolvenKit/CP77HookFileName](https://github.com/WolvenKit/CP77HookFileName) - Hook filenames in Cyberpunk 2077 (used in unpack .archive)
 - [WopsS/RED4ext](https://github.com/WopsS/RED4ext) - A script extender for REDengine 4.
 - [yamashi/RED4ext](https://github.com/yamashi/RED4ext) - A script extender for REDengine 4.
@@ -1805,6 +1806,7 @@
 
 ## Go 
 
+- [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and (eventually) editing database files. Only support for SQLite currently. MySQL support will be added soon.
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [mholt/acmez](https://github.com/mholt/acmez) - Premier ACME client library for Go
@@ -2644,7 +2646,7 @@
 ## JavaScript 
 
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [narze/THIS_REPO_HAS_1992_STARS](https://github.com/narze/THIS_REPO_HAS_1992_STARS) - Click Star ⭐️ to see it in action :trollface:
+- [narze/THIS_REPO_HAS_2126_STARS](https://github.com/narze/THIS_REPO_HAS_2126_STARS) - Click Star ⭐️ to see it in action :trollface:
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [opencomputeproject/CADCloud](https://github.com/opencomputeproject/CADCloud) - CADCloud is a cloud based sharing infrastructure dedicates to CAD engineers. It allows users to share design files, browse them interactively through a simple web interface, and support native file format from popular open source tools.
 - [lensvol/fl-oneclick-wiki](https://github.com/lensvol/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
@@ -2780,7 +2782,6 @@
 - [Andrew-Kang-G/url-knife](https://github.com/Andrew-Kang-G/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with robust patterns.
 - [YOCKOW/Action-setup-swift](https://github.com/YOCKOW/Action-setup-swift) - GitHub Action that sets up Swift.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
-- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and source-available. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
 - [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [millette/oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
@@ -4993,6 +4994,8 @@
 
 ## Python 
 
+- [usb-tools/ViewSB](https://github.com/usb-tools/ViewSB) - open-source USB analyzer toolkit with support for a variety of capture hardware
+- [SymbiFlow/prjxray](https://github.com/SymbiFlow/prjxray) - Documenting the Xilinx 7-series bit-stream format.
 - [kellyjonbrazil/jtbl](https://github.com/kellyjonbrazil/jtbl) - A simple CLI tool to print JSON and JSON Lines data as a table in the terminal
 - [Shapeways/python-shapeways](https://github.com/Shapeways/python-shapeways) - Python client for the shapeways API
 - [clueboard/kalerator](https://github.com/clueboard/kalerator) - Software for converting keyboard-layout-editor.com designs into EAGLE PCB's
@@ -8110,6 +8113,7 @@
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira) - Connect your code with your project management in Jira
 - [eavichay/microfronts](https://github.com/eavichay/microfronts) - Polyglot Front-End Solution for running multiple frameworks as one
+- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
@@ -8229,6 +8233,7 @@
 
 ## VHDL 
 
+- [FPGA-Research-Manchester/FABulous](https://github.com/FPGA-Research-Manchester/FABulous) - Fabric generator and CAD tools
 - [stnolting/neo430](https://github.com/stnolting/neo430) - :computer: A very small msp430-compatible customizable soft-core microcontroller-like processor system written in platform-independent VHDL.
 - [openpower-cores/a2i](https://github.com/openpower-cores/a2i) - 
 - [ghdl/ghdl](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator
@@ -8252,6 +8257,10 @@
 
 ## Verilog 
 
+- [andrewattwood/fuserisc](https://github.com/andrewattwood/fuserisc) - Dual RISC-V DISC with integrated eFPGA
+- [SymbiFlow/symbiflow-examples](https://github.com/SymbiFlow/symbiflow-examples) - Example designs showing different ways to use SymbiFlow toolchains.
+- [FPGA-Research-Manchester/FABulous-Sky---a-heterogeneous-FPGA-fabric-in-Skywater130](https://github.com/FPGA-Research-Manchester/FABulous-Sky---a-heterogeneous-FPGA-fabric-in-Skywater130) - https://caravel-user-project.readthedocs.io
+- [efabless/OpenLane](https://github.com/efabless/OpenLane) - NOTE: The master branch is frozen for OpenMPW2. Please direct any PRs to the develop branch. :: OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
 - [ultraembedded/core_uriscv](https://github.com/ultraembedded/core_uriscv) - Another tiny RISC-V implementation
 - [schlae/graphics-gremlin](https://github.com/schlae/graphics-gremlin) - Open source retro ISA video card
 - [esa-tu-darmstadt/tapasco](https://github.com/esa-tu-darmstadt/tapasco) - The Task Parallel System Composer (TaPaSCo)
