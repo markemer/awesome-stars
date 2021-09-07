@@ -877,6 +877,8 @@
 
 ## C# # 
 
+- [Deweh/CyberCAT](https://github.com/Deweh/CyberCAT) - CyberPunk 2077 Customization Assistant Tool. Work in progress Savegame editor.
+- [Deweh/CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - A simplified offshoot of SirBitesalot's CyberCAT.
 - [TV-Rename/tvrename](https://github.com/TV-Rename/tvrename) - Organise your TV videos with ease
 - [p-org/P](https://github.com/p-org/P) - The P programming language.
 - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
@@ -2283,6 +2285,7 @@
 
 ## HTML 
 
+- [Nexus-Mods/sso-integration-demo](https://github.com/Nexus-Mods/sso-integration-demo) - A simple page to demonstrate the SSO integration using simple JS for a website.
 - [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 - [solderparty/keyboard_featherwing_hw](https://github.com/solderparty/keyboard_featherwing_hw) - 
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
@@ -2645,8 +2648,9 @@
 
 ## JavaScript 
 
+- [johnelm/node-jxa](https://github.com/johnelm/node-jxa) - Use your favorite node.js modules (and JS editor) for your Javascript OSX automation scripts
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [narze/THIS_REPO_HAS_2126_STARS](https://github.com/narze/THIS_REPO_HAS_2126_STARS) - Click Star ⭐️ to see it in action :trollface:
+- [narze/THIS_REPO_HAS_2272_STARS](https://github.com/narze/THIS_REPO_HAS_2272_STARS) - Click Star ⭐️ to see it in action :trollface:
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [opencomputeproject/CADCloud](https://github.com/opencomputeproject/CADCloud) - CADCloud is a cloud based sharing infrastructure dedicates to CAD engineers. It allows users to share design files, browse them interactively through a simple web interface, and support native file format from popular open source tools.
 - [lensvol/fl-oneclick-wiki](https://github.com/lensvol/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
@@ -2782,7 +2786,7 @@
 - [Andrew-Kang-G/url-knife](https://github.com/Andrew-Kang-G/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with robust patterns.
 - [YOCKOW/Action-setup-swift](https://github.com/YOCKOW/Action-setup-swift) - GitHub Action that sets up Swift.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
-- [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and source-available. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
+- [dosyago/ViewFinder](https://github.com/dosyago/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and source-available. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
 - [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [millette/oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
@@ -4994,6 +4998,7 @@
 
 ## Python 
 
+- [dbr/tvnamer](https://github.com/dbr/tvnamer) - Automatic TV episode file renamer, uses data from thetvdb.com via tvdb_api
 - [usb-tools/ViewSB](https://github.com/usb-tools/ViewSB) - open-source USB analyzer toolkit with support for a variety of capture hardware
 - [SymbiFlow/prjxray](https://github.com/SymbiFlow/prjxray) - Documenting the Xilinx 7-series bit-stream format.
 - [kellyjonbrazil/jtbl](https://github.com/kellyjonbrazil/jtbl) - A simple CLI tool to print JSON and JSON Lines data as a table in the terminal
@@ -8029,6 +8034,7 @@
 
 ## TypeScript 
 
+- [Nexus-Mods/discord-bot](https://github.com/Nexus-Mods/discord-bot) - Nexus Mods Discord Bot
 - [octokit/auth-oauth-app.js](https://github.com/octokit/auth-oauth-app.js) - GitHub OAuth App authentication for JavaScript
 - [joplin/plugin-abc-sheet-music](https://github.com/joplin/plugin-abc-sheet-music) - ABC Sheet Music Plugin for Joplin
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
