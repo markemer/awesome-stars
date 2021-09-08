@@ -303,7 +303,7 @@
 - [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source 802.11 WiFi baseband chip/FPGA design
 - [oxplot/fpx](https://github.com/oxplot/fpx) - easy USB-C power for all your devices
 - [scandum/binary_search](https://github.com/scandum/binary_search) - A collection of improved binary search algorithms.
-- [riscv/riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain) - GNU toolchain for RISC-V, including GCC
+- [riscv-software-src/riscv-gnu-toolchain](https://github.com/riscv-software-src/riscv-gnu-toolchain) - GNU toolchain for RISC-V, including GCC
 - [drewcrawford/blitcurve](https://github.com/drewcrawford/blitcurve) - A fast, GPU-ready bezier-curve implementation
 - [mind04/mod-ruid2](https://github.com/mind04/mod-ruid2) - mod_ruid2 is a suexec module for apache which takes advantage of POSIX.1e capabilities to increase performance.
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPG-HTTP streamer
@@ -383,7 +383,7 @@
 - [Yubico/yubico-c-client](https://github.com/Yubico/yubico-c-client) - Yubico C client library
 - [Yubico/yubico-c](https://github.com/Yubico/yubico-c) - YubiKey C low-level library (libyubikey)
 - [nrfconnect/sdk-nrf](https://github.com/nrfconnect/sdk-nrf) - nRF Connect SDK main repository
-- [riscv/opensbi](https://github.com/riscv/opensbi) - RISC-V Open Source Supervisor Binary Interface
+- [riscv-software-src/opensbi](https://github.com/riscv-software-src/opensbi) - RISC-V Open Source Supervisor Binary Interface
 - [vmware/lightwave](https://github.com/vmware/lightwave) - Identity services for traditional infrastructure, applications and containers.
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [peterbjornx/meloader](https://github.com/peterbjornx/meloader) - Linux i386 tool to load and execute ME modules.
@@ -637,7 +637,7 @@
 - [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
 - [MutexUnlocked/exoberry](https://github.com/MutexUnlocked/exoberry) - An exokernel for the raspberry pi 3.
 - [lowRISC/lowrisc-fpga](https://github.com/lowRISC/lowrisc-fpga) - Untethered (stand-alone) FPGA implementation of the lowRISC SoC
-- [riscv/riscv-newlib](https://github.com/riscv/riscv-newlib) - RISC-V port of newlib
+- [riscv-collab/riscv-newlib](https://github.com/riscv-collab/riscv-newlib) - RISC-V port of newlib
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [faragon/libsrt](https://github.com/faragon/libsrt) - libsrt is a C library for writing fast and safe C code, faster. It provides string, vector, bit set, set, map, hash set, and hash map handling. Suitable for soft and hard real-time. Allows both heap and stack allocation.  *BETA* (API still can change: suggestions are welcome)
 - [Billy-Ellis/Exploit-Challenges](https://github.com/Billy-Ellis/Exploit-Challenges) - A collection of vulnerable ARM binaries for practicing exploit development
@@ -648,8 +648,8 @@
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [DarthTon/HyperBone](https://github.com/DarthTon/HyperBone) - Minimalistic VT-x hypervisor with hooks
 - [Aorimn/dislocker](https://github.com/Aorimn/dislocker) - FUSE driver to read/write Windows' BitLocker-ed volumes under Linux / Mac OSX
-- [riscv/riscv-pk](https://github.com/riscv/riscv-pk) - RISC-V Proxy Kernel
-- [riscv/riscv-tests](https://github.com/riscv/riscv-tests) - 
+- [riscv-software-src/riscv-pk](https://github.com/riscv-software-src/riscv-pk) - RISC-V Proxy Kernel
+- [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
 - [ucb-bar/chipyard](https://github.com/ucb-bar/chipyard) - An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
 - [riscvarchive/riscv-fesvr](https://github.com/riscvarchive/riscv-fesvr) - RISC-V Frontend Server
 - [aws/amazon-freertos](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers.
@@ -704,9 +704,9 @@
 - [SWI-Prolog/swipl-devel](https://github.com/SWI-Prolog/swipl-devel) - Main development repository
 - [nfc-tools/libnfc](https://github.com/nfc-tools/libnfc) - Platform independent Near Field Communication (NFC) library
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
-- [riscv/riscv-binutils-gdb](https://github.com/riscv/riscv-binutils-gdb) - RISC-V backports for binutils-gdb.  Development is done upstream at the FSF.
+- [riscv-collab/riscv-binutils-gdb](https://github.com/riscv-collab/riscv-binutils-gdb) - RISC-V backports for binutils-gdb.  Development is done upstream at the FSF.
 - [riscvarchive/riscv-qemu](https://github.com/riscvarchive/riscv-qemu) - QEMU with RISC-V (RV64G, RV32G) Emulation Support
-- [riscv/riscv-isa-sim](https://github.com/riscv/riscv-isa-sim) - Spike, a RISC-V ISA Simulator
+- [riscv-software-src/riscv-isa-sim](https://github.com/riscv-software-src/riscv-isa-sim) - Spike, a RISC-V ISA Simulator
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [libffi/libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library.
 - [hoedown/hoedown](https://github.com/hoedown/hoedown) - Standards compliant, fast, secure markdown processing library in C
@@ -877,6 +877,7 @@
 
 ## C# # 
 
+- [GoogleCloudPlatform/iap-desktop](https://github.com/GoogleCloudPlatform/iap-desktop) - IAP Desktop is a Windows application that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud.
 - [Deweh/CyberCAT](https://github.com/Deweh/CyberCAT) - CyberPunk 2077 Customization Assistant Tool. Work in progress Savegame editor.
 - [Deweh/CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - A simplified offshoot of SirBitesalot's CyberCAT.
 - [TV-Rename/tvrename](https://github.com/TV-Rename/tvrename) - Organise your TV videos with ease
@@ -1564,7 +1565,7 @@
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [Fmstrat/diy-ipmi](https://github.com/Fmstrat/diy-ipmi) - A DIY IPMI / IP KVM system utilizing the Raspberry Pi
 - [heapwolf/levelui](https://github.com/heapwolf/levelui) - A GUI for LevelDB management based on atom-shell.
-- [riscv/risc-v-getting-started-guide](https://github.com/riscv/risc-v-getting-started-guide) - The official RISC-V getting started guide
+- [riscv-admin/risc-v-getting-started-guide](https://github.com/riscv-admin/risc-v-getting-started-guide) - The official RISC-V getting started guide
 - [tiran/pki-vagans](https://github.com/tiran/pki-vagans) - Vagrant + Ansible for Dogtag PKI (WIP and highly experimental)
 - [Ryshackleton/idyll-template](https://github.com/Ryshackleton/idyll-template) - A React app that mimics the basic template project provided by Idyll-lang.org
 - [arnehilmann/markdeck](https://github.com/arnehilmann/markdeck) - presentations as code - author cool slide decks, text-only, offline-ready, collaborative
@@ -2292,7 +2293,6 @@
 - [lmanul/welltemperedtraveler](https://github.com/lmanul/welltemperedtraveler) - Well-Tempered Traveler
 - [mspinksosu/NES-Power-Board](https://github.com/mspinksosu/NES-Power-Board) - A PCB that will fit in place of the stock NES frontloader's RF module.
 - [dougallj/applegpu](https://github.com/dougallj/applegpu) - Apple G13 GPU architecture docs and tools
-- [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
 - [fcoury/kbpcb](https://github.com/fcoury/kbpcb) - Automated Keyboard PCB generator for KiCad
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
@@ -2650,7 +2650,7 @@
 
 - [johnelm/node-jxa](https://github.com/johnelm/node-jxa) - Use your favorite node.js modules (and JS editor) for your Javascript OSX automation scripts
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [narze/THIS_REPO_HAS_2272_STARS](https://github.com/narze/THIS_REPO_HAS_2272_STARS) - Click Star ⭐️ to see it in action :trollface:
+- [narze/THIS_REPO_HAS_2388_STARS](https://github.com/narze/THIS_REPO_HAS_2388_STARS) - Click Star ⭐️ to see it in action :trollface:
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [opencomputeproject/CADCloud](https://github.com/opencomputeproject/CADCloud) - CADCloud is a cloud based sharing infrastructure dedicates to CAD engineers. It allows users to share design files, browse them interactively through a simple web interface, and support native file format from popular open source tools.
 - [lensvol/fl-oneclick-wiki](https://github.com/lensvol/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
@@ -3122,7 +3122,7 @@
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [travis-ci/travis-web](https://github.com/travis-ci/travis-web) - The Ember web client for Travis CI
 - [sintaxi/harp](https://github.com/sintaxi/harp) - Static Site Server/Generator with built-in preprocessing
-- [riscv/riscv-angel](https://github.com/riscv/riscv-angel) - JavaScript RISC-V ISA Simulator. Boots linux in a web-browser.
+- [riscv-software-src/riscv-angel](https://github.com/riscv-software-src/riscv-angel) - JavaScript RISC-V ISA Simulator. Boots linux in a web-browser.
 - [static-publisher/static-publisher](https://github.com/static-publisher/static-publisher) - Automated deployment server for static site generators
 - [slackapi/node-slack-events-api](https://github.com/slackapi/node-slack-events-api) - Slack Events API for Node
 - [slackapi/sample-app-unfurls](https://github.com/slackapi/sample-app-unfurls) - An example Slack app that demonstrates use of App Unfurls
@@ -3135,7 +3135,7 @@
 - [captainsafia/giddy](https://github.com/captainsafia/giddy) - A CLI wrapper around git for an improved developer experience
 - [zalando/zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Local JSON database for small projects (supports Node, Electron and the browser)
 - [facebook/prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
@@ -4266,6 +4266,7 @@
 
 ## Others 
 
+- [mrangen/M4-Breadstick](https://github.com/mrangen/M4-Breadstick) - A long and thin development board, designed to keep the number and length of jumper wires to a minimum. Runs Circuit Python on Microchip SAMD51G19A - Arduino in the works! Entered in Hackaday Prize 2021 and CrowdSupply campaign in the works!
 - [kelu124/awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - :book: List of FPGA Lattice boards using open tools
 - [Digilent/Genesys-ZU](https://github.com/Digilent/Genesys-ZU) - 
 - [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues Pull requests will be automatically closed.
@@ -4343,6 +4344,7 @@
 - [pwsacademy/swift-setup](https://github.com/pwsacademy/swift-setup) - Student-friendly setup instructions for platforms, editors, and IDEs that support Swift.
 - [pftf/RPi4](https://github.com/pftf/RPi4) - Raspberry Pi 4 UEFI Firmware Images
 - [keebio/Keebio-Parts.pretty](https://github.com/keebio/Keebio-Parts.pretty) - Various KiCAD footprints for mechanical keyboard parts
+- [shaps80/ActivityView](https://github.com/shaps80/ActivityView) - Moved to SwiftUI-Plus/ActivityView
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
 - [InQuest/awesome-yara](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
@@ -4624,7 +4626,7 @@
 - [drewrwilson/toolsforactivism](https://github.com/drewrwilson/toolsforactivism) - growing list of digital tools for activism things
 - [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins
 - [eugeneching/ida-consonance](https://github.com/eugeneching/ida-consonance) - Consonance, a dark color scheme for IDA.
-- [riscv/riscv-glibc](https://github.com/riscv/riscv-glibc) - RISC-V port of GNU's libc
+- [riscvarchive/riscv-glibc](https://github.com/riscvarchive/riscv-glibc) - RISC-V port of GNU's libc
 - [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with support for legacy and LSTM OCR engine
 - [tesseract-ocr/langdata](https://github.com/tesseract-ocr/langdata) - Source training data for Tesseract for lots of languages
 - [sifive/freedom-u-sdk](https://github.com/sifive/freedom-u-sdk) - Freedom Unleashed Software Development Kit
@@ -4637,7 +4639,7 @@
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [design4use/gb-sketch-segmentcircle](https://github.com/design4use/gb-sketch-segmentcircle) - Sketch plugin creates circular graphics for diagrams, instrumentation and analytics.
 - [GalaxyEham/FrostyToolSuite](https://github.com/GalaxyEham/FrostyToolSuite) - This repository contains the releases for all the tools in the Frosty Suite
-- [riscv/riscv-gcc](https://github.com/riscv/riscv-gcc) - 
+- [riscv-collab/riscv-gcc](https://github.com/riscv-collab/riscv-gcc) - 
 - [cugu/apfs.ksy](https://github.com/cugu/apfs.ksy) - APFS filesystem format for Kaitai Struct
 - [jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks) - List of open-source OS X frameworks.
 - [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps) - Open Source Mac Apps
@@ -4677,7 +4679,7 @@
 - [raywenderlich/english-style-guide](https://github.com/raywenderlich/english-style-guide) - Style guide for writing in English for tutorials and articles at raywenderlich.com.
 - [raywenderlich/kotlin-style-guide](https://github.com/raywenderlich/kotlin-style-guide) - The raywenderlich.com Kotlin style guide
 - [riscvarchive/riscv-clang](https://github.com/riscvarchive/riscv-clang) - 
-- [riscv/riscv-asm-manual](https://github.com/riscv/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
+- [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [Vitorian/awesome-mpsoc](https://github.com/Vitorian/awesome-mpsoc) - Public resources available for Xilinx  MPSOC+ and SDSOC hardware
 - [mahemoff/chrome-boilerplate](https://github.com/mahemoff/chrome-boilerplate) - A boilerplate for Chrome app, extension, and theme development.
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
@@ -5460,7 +5462,7 @@
 - [mediacloud/date_guesser](https://github.com/mediacloud/date_guesser) - A library to extract a publication date from a web page, along with a measure of the accuracy.
 - [hermanhermitage/videocoreiv](https://github.com/hermanhermitage/videocoreiv) - Tools and information for the Broadcom VideoCore IV (RaspberryPi)
 - [lyft/confidant](https://github.com/lyft/confidant) - Confidant: your secret keeper. https://lyft.github.io/confidant
-- [riscv/riscv-device-tree-doc](https://github.com/riscv/riscv-device-tree-doc) - RISC-V Specific Device Tree Documentation
+- [riscv-non-isa/riscv-device-tree-doc](https://github.com/riscv-non-isa/riscv-device-tree-doc) - RISC-V Specific Device Tree Documentation
 - [RUB-SysSec/Microcode](https://github.com/RUB-SysSec/Microcode) - Microcode Updates for the USENIX 2017 paper: Reverse Engineering x86 Processor Microcode
 - [manns/pyspread](https://github.com/manns/pyspread) - Pyspread is a spreadsheet application that is based on and written in the programming language Python. NOTE THAT THIS GITHUB REPOSITORY IS AN ARCHIVE. The development repository for the Python 3 version is located at https://gitlab.com/pyspread/pyspread. Website:
 - [chilcote/vfuse](https://github.com/chilcote/vfuse) - Convert bootable DMG images for use in VMware Fusion
@@ -6395,6 +6397,7 @@
 
 - [Flameeyes/autotools-mythbuster](https://github.com/Flameeyes/autotools-mythbuster) - Autotools Mythbuster (The Guide)
 - [pidcodes/pidcodes.github.com](https://github.com/pidcodes/pidcodes.github.com) - Website for pid.codes
+- [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
 - [NSHipster/XcodeBuildSettings.com](https://github.com/NSHipster/XcodeBuildSettings.com) - A convenient reference of available build settings for Xcode projects.
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
@@ -6610,7 +6613,7 @@
 - [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
 - [cyrus-and/trace](https://github.com/cyrus-and/trace) - Start or attach to a process and monitor a customizable set of metrics (CPU, I/O, etc.)
 - [hackmdio/docker-hackmd](https://github.com/hackmdio/docker-hackmd) - DEPRECATION: Please read our online documentation instead
-- [riscv/riscv-tools](https://github.com/riscv/riscv-tools) - RISC-V Tools (ISA Simulator and Tests)
+- [riscv-software-src/riscv-tools](https://github.com/riscv-software-src/riscv-tools) - RISC-V Tools (ISA Simulator and Tests)
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
 - [ellerbrock/fish-shell-setup-osx](https://github.com/ellerbrock/fish-shell-setup-osx) - :blowfish: Tutorial: Fish, Fisher, Powerline Fonts + iTerm2
@@ -6746,6 +6749,7 @@
 
 ## Swift 
 
+- [DataDog/dd-sdk-swift-testing](https://github.com/DataDog/dd-sdk-swift-testing) - Datadog Test Instrumentation framework for Swift / ObjC
 - [MaxDesiatov/SwiftPie](https://github.com/MaxDesiatov/SwiftPie) - A Swift rewrite of "A Tutorial Implementation of a Dependently Typed Lambda Calculus"
 - [mkrd/Swift-BigInt](https://github.com/mkrd/Swift-BigInt) - A lightweight, Multiple Precision Arithmetic Library for Swift!
 - [ArtSabintsev/FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS, macOS and tvOS app.
@@ -6886,7 +6890,6 @@
 - [jeffctown/xcframework](https://github.com/jeffctown/xcframework) - A simple tool to create an XCFramework
 - [krzyzanowskim/CoreTextWorkshop](https://github.com/krzyzanowskim/CoreTextWorkshop) - Take a look at the CoreText API - a foundation of layout and drawing text on macOS and iOS. In this workshop we’ll attempt to build Text Label (akin UILabel), learn about layers of CoreText API and how to use it.
 - [RobotsAndPencils/xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
-- [shaps80/ActivityView](https://github.com/shaps80/ActivityView) - A SwiftUI view that presents a UIActivityViewController correctly on all devices.
 - [SwiftyTesseract/SwiftyTesseract](https://github.com/SwiftyTesseract/SwiftyTesseract) - A Swift wrapper around Tesseract for use in iOS, macOS, and Linux applications
 - [apple/swift-algorithms](https://github.com/apple/swift-algorithms) - Commonly used sequence and collection algorithms for Swift
 - [madmachineio/SwiftIO](https://github.com/madmachineio/SwiftIO) - A Swift framework for microcontrollers.
