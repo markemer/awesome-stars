@@ -210,6 +210,7 @@
 
 ## C 
 
+- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero Firmware
 - [skvadrik/re2c](https://github.com/skvadrik/re2c) - Lexer generator for C, C++ and Go.
 - [grassator/mass](https://github.com/grassator/mass) - A compiler for a macro-oriented language that compiles straight to x86_64 binaries (no LLVM, no linker).
 - [mdbtools/mdbtools](https://github.com/mdbtools/mdbtools) - MDB Tools - Read Access databases on *nix
@@ -2656,7 +2657,7 @@
 - [thekodester/mass_effect_legendary_edition_checklist_guide](https://github.com/thekodester/mass_effect_legendary_edition_checklist_guide) - This guide is meant for quick reference and the mission order is just a suggestion.
 - [johnelm/node-jxa](https://github.com/johnelm/node-jxa) - Use your favorite node.js modules (and JS editor) for your Javascript OSX automation scripts
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [narze/THIS_REPO_HAS_2570_STARS](https://github.com/narze/THIS_REPO_HAS_2570_STARS) - Click Star ⭐️ to see it in action :trollface:
+- [narze/THIS_REPO_HAS_2630_STARS](https://github.com/narze/THIS_REPO_HAS_2630_STARS) - Click Star ⭐️  to see it in action :trollface:
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [opencomputeproject/CADCloud](https://github.com/opencomputeproject/CADCloud) - CADCloud is a cloud based sharing infrastructure dedicates to CAD engineers. It allows users to share design files, browse them interactively through a simple web interface, and support native file format from popular open source tools.
 - [lensvol/fl-oneclick-wiki](https://github.com/lensvol/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
@@ -6474,6 +6475,7 @@
 
 ## Shell 
 
+- [rfbproto/rfbproto](https://github.com/rfbproto/rfbproto) - 
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [tailscale/tailscale-synology](https://github.com/tailscale/tailscale-synology) - Synology packages for tailscale.com
 - [mattpolzin/swift-codecov-action](https://github.com/mattpolzin/swift-codecov-action) - 
@@ -6761,6 +6763,9 @@
 
 ## Swift 
 
+- [SwiftUI-Plus/UIKitHelpers](https://github.com/SwiftUI-Plus/UIKitHelpers) - A set of UIKit helpers that simplify the usage of UIKit view's and controller's in SwiftUI. Many of these helpers are useful even in a pure UIKit project.
+- [GitHawkApp/Squawk](https://github.com/GitHawkApp/Squawk) - Quick & interactive iOS alerts in Swift.
+- [HamzaGhazouani/HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project
 - [profburke/troll](https://github.com/profburke/troll) - An implementation of Torben Mogensen's Troll in Swift. http://hjemmesider.diku.dk/~torbenm/Troll/
 - [LucasMucGH/BottomSheet](https://github.com/LucasMucGH/BottomSheet) - A sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI.
 - [hhas/Swift-AppleScriptObjC](https://github.com/hhas/Swift-AppleScriptObjC) - How to call AppleScript handlers from Swift via AppleScript-ObjC bridge.
@@ -8052,6 +8057,7 @@
 
 ## TypeScript 
 
+- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
 - [Nexus-Mods/discord-bot](https://github.com/Nexus-Mods/discord-bot) - Nexus Mods Discord Bot
 - [octokit/auth-oauth-app.js](https://github.com/octokit/auth-oauth-app.js) - GitHub OAuth App authentication for JavaScript
 - [joplin/plugin-abc-sheet-music](https://github.com/joplin/plugin-abc-sheet-music) - ABC Sheet Music Plugin for Joplin
