@@ -210,6 +210,8 @@
 
 ## C 
 
+- [losnoco/Cog](https://github.com/losnoco/Cog) - Cog - A Free and Open Source Audio Player for macOS 10.13+
+- [asterisk/asterisk](https://github.com/asterisk/asterisk) - Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit:
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero Firmware
 - [skvadrik/re2c](https://github.com/skvadrik/re2c) - Lexer generator for C, C++ and Go.
 - [grassator/mass](https://github.com/grassator/mass) - A compiler for a macro-oriented language that compiles straight to x86_64 binaries (no LLVM, no linker).
@@ -698,7 +700,6 @@
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [libimobiledevice/ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller) - Manage apps of iOS devices
 - [miniupnp/miniupnp](https://github.com/miniupnp/miniupnp) - UPnP IGD implementation
-- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [skeeto/stack-clash-coroutine](https://github.com/skeeto/stack-clash-coroutine) - Stack clash coroutine demonstration
 - [ejurgensen/pair_ap](https://github.com/ejurgensen/pair_ap) - C implementation of Apple TV device verification (client) and Homekit pairing for AirPlay 2 (client + server)
 - [openairplay/AirPlayAuth-ObjC](https://github.com/openairplay/AirPlayAuth-ObjC) - AirPlayAuth-ObjC
@@ -978,6 +979,10 @@
 
 ## C++ 
 
+- [ME3Tweaks/LE2-ASI-Plugins](https://github.com/ME3Tweaks/LE2-ASI-Plugins) - ASI plugins for Mass Effect 2 (Legendary Edition)
+- [d00telemental/LExSDKGenerator](https://github.com/d00telemental/LExSDKGenerator) - An adapted version of TheFeckless' UE3 SDK generator, targeted specifically at the games of Mass Effect Legendary Edition.
+- [ME3Tweaks/LE3-ASI-Plugins](https://github.com/ME3Tweaks/LE3-ASI-Plugins) - ASI plugins for Mass Effect 3 (Legendary Edition)
+- [OneLoneCoder/olcNES](https://github.com/OneLoneCoder/olcNES) - NES Emulator, and Tutorial Video Code
 - [zorggish/FractalCryptGUI](https://github.com/zorggish/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 - [Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [azonenberg/scopehal-apps](https://github.com/azonenberg/scopehal-apps) - glscopeclient and other client applications for libscopehal.
@@ -992,10 +997,10 @@
 - [horsicq/Nauz-File-Detector](https://github.com/horsicq/Nauz-File-Detector) - Linker/Compiler/Tool detector  for Windows, Linux and MacOS.
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [zodiacon/RegExp](https://github.com/zodiacon/RegExp) - Registry Explorer - enhanced Registry editor/viewer
-- [ME3Tweaks/LE1-ASI-Plugins](https://github.com/ME3Tweaks/LE1-ASI-Plugins) - 
+- [ME3Tweaks/LE1-ASI-Plugins](https://github.com/ME3Tweaks/LE1-ASI-Plugins) - ASI plugins for Mass Effect (Legendary Edition)
 - [d00telemental/LENativeExperiments](https://github.com/d00telemental/LENativeExperiments) - Some native modding experiments for Mass Effect (Legendary Edition).
 - [polivilas/UnrealEngineSDKGenerator](https://github.com/polivilas/UnrealEngineSDKGenerator) - Generate SDKs from Unreal Engine games (UE1 - 4 supported).
-- [d00telemental/LE1SDK](https://github.com/d00telemental/LE1SDK) - An SDK-like projection of UnrealScript-accessible code for Mass Effect 1 (Legendary Edition)
+- [d00telemental/LExSDK](https://github.com/d00telemental/LExSDK) - An SDK-like projection of UnrealScript-accessible code for Mass Effect 1, 2 and 3 (Legendary Edition)
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
 - [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
 - [SirCxyrtyx/AutoTOC-asi](https://github.com/SirCxyrtyx/AutoTOC-asi) - asi plugin to AutoTOC Mass Effect 3 and Mass Effect Legendary Edition
@@ -1392,6 +1397,7 @@
 - [herumi/xbyak](https://github.com/herumi/xbyak) - a JIT assembler for x86(IA-32)/x64(AMD64, x86-64) MMX/SSE/SSE2/SSE3/SSSE3/SSE4/FPU/AVX/AVX2/AVX-512 by C++ header
 - [includeos/IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [infinit/elle](https://github.com/infinit/elle) - The Elle coroutine-based asynchronous C++ development framework.
 - [WolframResearch/GitLink](https://github.com/WolframResearch/GitLink) - Git integration for the Wolfram Language
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
@@ -2180,7 +2186,7 @@
 - [thenrich/rooms](https://github.com/thenrich/rooms) - Ephemeral conference rooms powered by Twilio and Google App Engine
 - [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
-- [kashav/fsql](https://github.com/kashav/fsql) - Find files with SQL
+- [kashav/fsql](https://github.com/kashav/fsql) - Find files with SQL.
 - [schollz/find-lf](https://github.com/schollz/find-lf) - Track the location of every Wi-Fi device (:iphone:) in your house using Raspberry Pis and FIND
 - [docker-archive/deploykit](https://github.com/docker-archive/deploykit) - A toolkit for creating and managing declarative, self-healing infrastructure.
 - [bradfitz/campher](https://github.com/bradfitz/campher) - Embed Perl in Go. This works, but was a joke for a presentation. Don't use.
@@ -2657,7 +2663,7 @@
 - [thekodester/mass_effect_legendary_edition_checklist_guide](https://github.com/thekodester/mass_effect_legendary_edition_checklist_guide) - This guide is meant for quick reference and the mission order is just a suggestion.
 - [johnelm/node-jxa](https://github.com/johnelm/node-jxa) - Use your favorite node.js modules (and JS editor) for your Javascript OSX automation scripts
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [narze/THIS_REPO_HAS_2676_STARS](https://github.com/narze/THIS_REPO_HAS_2676_STARS) - Click Star ⭐️  to see it in action :trollface:
+- [narze/THIS_REPO_HAS_2721_STARS](https://github.com/narze/THIS_REPO_HAS_2721_STARS) - Click Star ⭐️  to see it in action :trollface:
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [opencomputeproject/CADCloud](https://github.com/opencomputeproject/CADCloud) - CADCloud is a cloud based sharing infrastructure dedicates to CAD engineers. It allows users to share design files, browse them interactively through a simple web interface, and support native file format from popular open source tools.
 - [lensvol/fl-oneclick-wiki](https://github.com/lensvol/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
@@ -5011,6 +5017,7 @@
 
 ## Python 
 
+- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）
 - [dbr/tvnamer](https://github.com/dbr/tvnamer) - Automatic TV episode file renamer, uses data from thetvdb.com via tvdb_api
 - [usb-tools/ViewSB](https://github.com/usb-tools/ViewSB) - open-source USB analyzer toolkit with support for a variety of capture hardware
@@ -5330,7 +5337,6 @@
 - [tkrajina/gpxpy](https://github.com/tkrajina/gpxpy) - gpx-py is a python GPX parser. GPX (GPS eXchange Format) is an XML based file format for GPS tracks.
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [KhronosGroup/glTF-Blender-Exporter](https://github.com/KhronosGroup/glTF-Blender-Exporter) - Moved to https://github.com/KhronosGroup/glTF-Blender-IO.
-- [aaronpenne/generative_art](https://github.com/aaronpenne/generative_art) - A collection of my *old* generative artwork, mostly with Processing in Python mode
 - [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
 - [NVIDIA/vid2vid](https://github.com/NVIDIA/vid2vid) - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 - [NVIDIA/apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
@@ -8335,6 +8341,7 @@
 
 ## Vim script 
 
+- [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [powerman/vim-plugin-AnsiEsc](https://github.com/powerman/vim-plugin-AnsiEsc) - ansi escape sequences concealed, but highlighted as specified (conceal)
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
