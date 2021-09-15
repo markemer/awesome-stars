@@ -11,6 +11,7 @@
   - [Ada](#ada)
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
+  - [AutoHotkey](#autohotkey)
   - [Batchfile](#batchfile)
   - [Brightscript](#brightscript)
   - [C](#c)
@@ -197,6 +198,10 @@
 - [zarkzork/servasm](https://github.com/zarkzork/servasm) - X86_64 Linux webserver in assembler
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for linux-x64
+
+## AutoHotkey 
+
+- [QuickMythril/idlecombos](https://github.com/QuickMythril/idlecombos) - 
 
 ## Batchfile 
 
@@ -1881,7 +1886,7 @@
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
 - [icexin/eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - an open-source massively multiplayer firewall able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global IP reputation database to protect the user network.
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
 - [zsa/wally-cli](https://github.com/zsa/wally-cli) - Flash your ZSA Keyboard the EZ way.
 - [zsa/wally](https://github.com/zsa/wally) - The Flash(ing tool)
 - [WireGuard/wireguard-windows](https://github.com/WireGuard/wireguard-windows) - Download WireGuard for Windows at https://www.wireguard.com/install . This repo is a mirror only. Official repository is at https://git.zx2c4.com/wireguard-windows
@@ -2665,7 +2670,7 @@
 - [thekodester/mass_effect_legendary_edition_checklist_guide](https://github.com/thekodester/mass_effect_legendary_edition_checklist_guide) - This guide is meant for quick reference and the mission order is just a suggestion.
 - [johnelm/node-jxa](https://github.com/johnelm/node-jxa) - Use your favorite node.js modules (and JS editor) for your Javascript OSX automation scripts
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [narze/THIS_REPO_HAS_2759_STARS](https://github.com/narze/THIS_REPO_HAS_2759_STARS) - Click Star ⭐️  to see it in action :trollface:
+- [narze/THIS_REPO_HAS_2788_STARS](https://github.com/narze/THIS_REPO_HAS_2788_STARS) - Click Star ⭐️  to see it in action :trollface:
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [opencomputeproject/CADCloud](https://github.com/opencomputeproject/CADCloud) - CADCloud is a cloud based sharing infrastructure dedicates to CAD engineers. It allows users to share design files, browse them interactively through a simple web interface, and support native file format from popular open source tools.
 - [lensvol/fl-oneclick-wiki](https://github.com/lensvol/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
@@ -6772,6 +6777,7 @@
 
 ## Swift 
 
+- [ts1/BLEUnlock](https://github.com/ts1/BLEUnlock) - Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices
 - [PointcloudKit/PointCloudKit](https://github.com/PointcloudKit/PointCloudKit) - LiDAR room scanning
 - [SwiftUI-Plus/UIKitHelpers](https://github.com/SwiftUI-Plus/UIKitHelpers) - A set of UIKit helpers that simplify the usage of UIKit view's and controller's in SwiftUI. Many of these helpers are useful even in a pure UIKit project.
 - [GitHawkApp/Squawk](https://github.com/GitHawkApp/Squawk) - Quick & interactive iOS alerts in Swift.
