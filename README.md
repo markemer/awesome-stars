@@ -575,7 +575,7 @@
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [FRRouting/frr](https://github.com/FRRouting/frr) - The FRRouting Protocol Suite
 - [clicon/clixon](https://github.com/clicon/clixon) - YANG-based toolchain including NETCONF and RESTCONF interfaces and an interactive CLI
-- [open-watcom/open-watcom-v2](https://github.com/open-watcom/open-watcom-v2) - Latest binary build, including all installers - https://github.com/open-watcom/open-watcom-v2/releases
+- [open-watcom/open-watcom-v2](https://github.com/open-watcom/open-watcom-v2) - Open Watcom V2.0 - Source code repository, Wiki, Latest Binary build, Archived builds, including all installers for download.
 - [jarun/bcal](https://github.com/jarun/bcal) - :1234: Bits, bytes and address calculator
 - [bikerglen/small-keyboards](https://github.com/bikerglen/small-keyboards) - 
 - [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
@@ -1807,6 +1807,7 @@
 
 ## Fortran 
 
+- [mapmeld/fortran-machine](https://github.com/mapmeld/fortran-machine) - Finally a Fortran MVC web platform
 - [usnistgov/dataplot](https://github.com/usnistgov/dataplot) - Source code and auxiliary files for dataplot.
 - [fortran-lang/stdlib](https://github.com/fortran-lang/stdlib) - Fortran Standard Library
 
@@ -2416,6 +2417,7 @@
 - [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) - Auto Layout for Sketch
 - [Schematron/schematron](https://github.com/Schematron/schematron) - Schematron "skeleton" -  XSLT implementation
 - [Igalia/snabbwall-website](https://github.com/Igalia/snabbwall-website) - Snabbwall website
+- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [mkiser/WTFJHT](https://github.com/mkiser/WTFJHT) - Logging the daily shock and awe in national politics. Read in moderation.
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [vercel/hyper-website](https://github.com/vercel/hyper-website) - Powers the official site for Hyper.app
@@ -2526,6 +2528,7 @@
 
 ## Java 
 
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
 - [processing/processing4](https://github.com/processing/processing4) - Processing 4.x releases (currently in “beta”) that use Java 11
 - [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins) - Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
@@ -2670,7 +2673,7 @@
 - [thekodester/mass_effect_legendary_edition_checklist_guide](https://github.com/thekodester/mass_effect_legendary_edition_checklist_guide) - This guide is meant for quick reference and the mission order is just a suggestion.
 - [johnelm/node-jxa](https://github.com/johnelm/node-jxa) - Use your favorite node.js modules (and JS editor) for your Javascript OSX automation scripts
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [narze/THIS_REPO_HAS_2788_STARS](https://github.com/narze/THIS_REPO_HAS_2788_STARS) - Click Star ⭐️  to see it in action :trollface:
+- [narze/THIS_REPO_HAS_2839_STARS](https://github.com/narze/THIS_REPO_HAS_2839_STARS) - Click Star ⭐️  to see it in action :trollface:
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [opencomputeproject/CADCloud](https://github.com/opencomputeproject/CADCloud) - CADCloud is a cloud based sharing infrastructure dedicates to CAD engineers. It allows users to share design files, browse them interactively through a simple web interface, and support native file format from popular open source tools.
 - [lensvol/fl-oneclick-wiki](https://github.com/lensvol/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
@@ -3198,7 +3201,6 @@
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [AtomLinter/linter-rubocop](https://github.com/AtomLinter/linter-rubocop) - Linter plugin for Ruby, using rubocop
 - [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers http://steelbrain.me/linter/
-- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [guerrero/generator-sketch-plugin](https://github.com/guerrero/generator-sketch-plugin) - Scaffold out a sketch plugin
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
@@ -4156,7 +4158,7 @@
 - [mattt/CargoBay](https://github.com/mattt/CargoBay) - The Essential StoreKit Companion
 - [mattt/TransformerKit](https://github.com/mattt/TransformerKit) - A block-based API for NSValueTransformer, with a growing collection of useful examples.
 - [mattt/InflectorKit](https://github.com/mattt/InflectorKit) - Efficiently Singularize and Pluralize Strings
-- [ramkola/pathfinder_open_in_sublime](https://github.com/ramkola/pathfinder_open_in_sublime) - Plugin for Path Finder Mac App - Opens chosen file or folder in Sublime Text Editor (Based on Open in Textmate Plugin)
+- [raykrash/pathfinder_open_in_sublime](https://github.com/raykrash/pathfinder_open_in_sublime) - Plugin for Path Finder Mac App - Opens chosen file or folder in Sublime Text Editor (Based on Open in Textmate Plugin)
 - [Fuzion24/OSX_Swizzler](https://github.com/Fuzion24/OSX_Swizzler) - Demonstrates cracking an app without modifying it using SIMBL + method swizzling
 - [nfarina/calloutview](https://github.com/nfarina/calloutview) - A lightweight callout view class for iOS mimicking UICalloutView.
 - [GPGTools/GPGMail](https://github.com/GPGTools/GPGMail) - GPG plugin for Apple Mail
