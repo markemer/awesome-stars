@@ -2673,7 +2673,7 @@
 - [thekodester/mass_effect_legendary_edition_checklist_guide](https://github.com/thekodester/mass_effect_legendary_edition_checklist_guide) - This guide is meant for quick reference and the mission order is just a suggestion.
 - [johnelm/node-jxa](https://github.com/johnelm/node-jxa) - Use your favorite node.js modules (and JS editor) for your Javascript OSX automation scripts
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [narze/THIS_REPO_HAS_2901_STARS](https://github.com/narze/THIS_REPO_HAS_2901_STARS) - Click Star ⭐️  to see it in action :trollface:
+- [narze/THIS_REPO_HAS_2921_STARS](https://github.com/narze/THIS_REPO_HAS_2921_STARS) - Click Star ⭐️  to see it in action :trollface:
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [opencomputeproject/CADCloud](https://github.com/opencomputeproject/CADCloud) - CADCloud is a cloud based sharing infrastructure dedicates to CAD engineers. It allows users to share design files, browse them interactively through a simple web interface, and support native file format from popular open source tools.
 - [lensvol/fl-oneclick-wiki](https://github.com/lensvol/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
@@ -2704,7 +2704,7 @@
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
-- [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux
+- [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [adventurerscodex/adventurerscodex](https://github.com/adventurerscodex/adventurerscodex) - Experience the next step in tabletop RPGs
 - [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
@@ -3440,7 +3440,6 @@
 - [Paratron/SimpLESS](https://github.com/Paratron/SimpLESS) - A simple LESS compiler for Windows and mac
 - [jquery-boilerplate/jquery-patterns](https://github.com/jquery-boilerplate/jquery-patterns) - A variety of jQuery plugin patterns for jump starting your plugin development
 - [andrewplummer/Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
-- [manifestinteractive/socketbug](https://github.com/manifestinteractive/socketbug) - [NOT MAITAINED] - Socketbug - Mobile Web Application Debugging
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [verekia/initializr](https://github.com/verekia/initializr) - HTML5 Boilerplate Custom Builder running on Google App Engine (Java)
 - [javisantana/whitebrd.me](https://github.com/javisantana/whitebrd.me) - all together now project
@@ -4916,7 +4915,6 @@
 - [laravel/laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans.
 - [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
 - [podio-community/podio-php](https://github.com/podio-community/podio-php) - PHP Client for the Podio API.
-- [manifestinteractive/easyapns](https://github.com/manifestinteractive/easyapns) - Easy APNs using PHP & MySQL
 - [StudioFuel/simplemodal-contact-form](https://github.com/StudioFuel/simplemodal-contact-form) - SimpleModal Contact Form (SMCF) is an Ajax powered modal contact form built with jQuery and SimpleModal.
 - [jsjohnst/php_class_lib](https://github.com/jsjohnst/php_class_lib) - A collection of PHP classes which anyone can add to their development toolbox
 - [peej/tonic](https://github.com/peej/tonic) - RESTful PHP library/framework
