@@ -215,6 +215,7 @@
 
 ## C 
 
+- [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [losnoco/Cog](https://github.com/losnoco/Cog) - Cog - A Free and Open Source Audio Player for macOS 10.13+
 - [asterisk/asterisk](https://github.com/asterisk/asterisk) - Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit:
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero Firmware
@@ -682,7 +683,7 @@
 - [Shopify/mruby-engine](https://github.com/Shopify/mruby-engine) - MRuby engine is a sandboxed scripting engine.
 - [arut/nginx-ts-module](https://github.com/arut/nginx-ts-module) - NGINX MPEG-TS Live Module
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
-- [icing/mod_md](https://github.com/icing/mod_md) - Let's Encrypt (ACME) support for Apache httpd
+- [icing/mod_md](https://github.com/icing/mod_md) - Let's Encrypt (ACME) in Apache httpd
 - [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A
 - [kierank/x262](https://github.com/kierank/x262) - x264 with MPEG-2 support. Part of the Open Broadcast Encoder project - http://www.ob-encoder.com/
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -986,6 +987,7 @@
 
 ## C++ 
 
+- [a-n-t-h-o-n-y/TermOx](https://github.com/a-n-t-h-o-n-y/TermOx) - C++17 Terminal User Interface(TUI) Library.
 - [horsicq/XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
 - [zeldaret/botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
 - [ME3Tweaks/LE2-ASI-Plugins](https://github.com/ME3Tweaks/LE2-ASI-Plugins) - ASI plugins for Mass Effect 2 (Legendary Edition)
@@ -2671,11 +2673,12 @@
 
 ## JavaScript 
 
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Feature flagging and remote config service. Host yourself or use our hosted version at https://flagsmith.com/
 - [mrzealot/ergogen](https://github.com/mrzealot/ergogen) - Ergonomic keyboard layout generator
 - [thekodester/mass_effect_legendary_edition_checklist_guide](https://github.com/thekodester/mass_effect_legendary_edition_checklist_guide) - This guide is meant for quick reference and the mission order is just a suggestion.
 - [johnelm/node-jxa](https://github.com/johnelm/node-jxa) - Use your favorite node.js modules (and JS editor) for your Javascript OSX automation scripts
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [narze/THIS_REPO_HAS_2938_STARS](https://github.com/narze/THIS_REPO_HAS_2938_STARS) - Click Star ⭐️  to see it in action :trollface:
+- [narze/THIS_REPO_HAS_3028_STARS](https://github.com/narze/THIS_REPO_HAS_3028_STARS) - Click Star ⭐️  to see it in action :trollface:
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [opencomputeproject/CADCloud](https://github.com/opencomputeproject/CADCloud) - CADCloud is a cloud based sharing infrastructure dedicates to CAD engineers. It allows users to share design files, browse them interactively through a simple web interface, and support native file format from popular open source tools.
 - [lensvol/fl-oneclick-wiki](https://github.com/lensvol/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
@@ -7765,7 +7768,7 @@
 - [jarsen/Pipes](https://github.com/jarsen/Pipes) - Forward and back pipe operators in Swift
 - [exyte/Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics Swift library with SVG support
 - [Zewo/Zewo](https://github.com/Zewo/Zewo) - Lightweight library for web server applications in Swift on macOS and Linux powered by coroutines.
-- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework.
+- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [bencochran/KaleidoscopeLang](https://github.com/bencochran/KaleidoscopeLang) - 
 - [robrix/Madness](https://github.com/robrix/Madness) - Recursive Descent Into Madness
 - [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
@@ -8156,7 +8159,7 @@
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [firebase/firebase-functions-test](https://github.com/firebase/firebase-functions-test) - 
 - [as-pect/as-pect](https://github.com/as-pect/as-pect) - 🔥Blazing🔥 fast testing with AssemblyScript
-- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
+- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for configuring the Google Cloud SDK. The Google Cloud SDK includes both the gcloud and gsutil binaries.
 - [googleapis/github-repo-automation](https://github.com/googleapis/github-repo-automation) - A set of tools to automate multiple GitHub repository management.
 - [actions/setup-ruby](https://github.com/actions/setup-ruby) - Set up your GitHub Actions workflow with a specific version of Ruby
 - [JordanMartin/harmonyhub-api](https://github.com/JordanMartin/harmonyhub-api) - Harmony Hub API that use the local websocket API of the hub
