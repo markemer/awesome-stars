@@ -1080,6 +1080,7 @@
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [llvm/circt](https://github.com/llvm/circt) - Circuit IR Compilers and Tools
 - [synfig/synfig](https://github.com/synfig/synfig) - This is the Official source code repository of the Synfig project
+- [ispc/ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
 - [YACReader/yacreader](https://github.com/YACReader/yacreader) - This repo contains the code of YACReader's desktop version.
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [openbmc/phosphor-net-ipmid](https://github.com/openbmc/phosphor-net-ipmid) - Network IPMI server
@@ -2678,7 +2679,7 @@
 - [thekodester/mass_effect_legendary_edition_checklist_guide](https://github.com/thekodester/mass_effect_legendary_edition_checklist_guide) - This guide is meant for quick reference and the mission order is just a suggestion.
 - [johnelm/node-jxa](https://github.com/johnelm/node-jxa) - Use your favorite node.js modules (and JS editor) for your Javascript OSX automation scripts
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [narze/THIS_REPO_HAS_3028_STARS](https://github.com/narze/THIS_REPO_HAS_3028_STARS) - Click Star ⭐️  to see it in action :trollface:
+- [narze/THIS_REPO_HAS_3077_STARS](https://github.com/narze/THIS_REPO_HAS_3077_STARS) - Click Star ⭐️  to see it in action :trollface:
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [opencomputeproject/CADCloud](https://github.com/opencomputeproject/CADCloud) - CADCloud is a cloud based sharing infrastructure dedicates to CAD engineers. It allows users to share design files, browse them interactively through a simple web interface, and support native file format from popular open source tools.
 - [lensvol/fl-oneclick-wiki](https://github.com/lensvol/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
@@ -3593,7 +3594,6 @@
 
 ## LLVM 
 
-- [ispc/ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
 - [wsmoses/Tapir-LLVM](https://github.com/wsmoses/Tapir-LLVM) - Tapir extension to LLVM for optimizing Parallel Programs
 - [bagel99/esl](https://github.com/bagel99/esl) - Compiler for a new programming language: Embedded Systems Language (ESL).
 
@@ -7333,7 +7333,7 @@
 - [erica/SwiftInterpolation](https://github.com/erica/SwiftInterpolation) - 
 - [JohnSundell/Shapeshift](https://github.com/JohnSundell/Shapeshift) - Quickly convert a folder containing Swift files into an iPad-compatible Playground
 - [thii/xcbeautify](https://github.com/thii/xcbeautify) - A little beautifier tool for xcodebuild
-- [TitouanVanBelle/XCTestHTMLReport](https://github.com/TitouanVanBelle/XCTestHTMLReport) - Xcode-like HTML report for Unit and UI Tests
+- [XCTestHTMLReport/XCTestHTMLReport](https://github.com/XCTestHTMLReport/XCTestHTMLReport) - Xcode-like HTML report for Unit and UI Tests
 - [JohnSundell/SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform Swift framework projects from the command line
 - [velyan/Comment-Spell-Checker](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto-correcting code comments.
 - [Ether-CLI/Ether](https://github.com/Ether-CLI/Ether) - A Command-Line Interface for the Swift Package Manager
@@ -8079,6 +8079,7 @@
 
 ## TypeScript 
 
+- [ekzhang/composing.studio](https://github.com/ekzhang/composing.studio) - Collaborative music composition for everyone.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
 - [Nexus-Mods/discord-bot](https://github.com/Nexus-Mods/discord-bot) - Nexus Mods Discord Bot
 - [octokit/auth-oauth-app.js](https://github.com/octokit/auth-oauth-app.js) - GitHub OAuth App authentication for JavaScript
