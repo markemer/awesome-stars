@@ -6062,7 +6062,7 @@
 - [phrase/phraseapp-ruby](https://github.com/phrase/phraseapp-ruby) - API Client to access Phrase API written in Ruby
 - [ariejan/firefly](https://github.com/ariejan/firefly) - 
 - [twilio/authy-ruby](https://github.com/twilio/authy-ruby) - Ruby library to access the authy API
-- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line tool
+- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line utility
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
 - [SketchUp/sketchup-ruby-api-tutorials](https://github.com/SketchUp/sketchup-ruby-api-tutorials) - SketchUp Ruby API Tutorials and Examples
 - [barbosa/danger-clorox](https://github.com/barbosa/danger-clorox) - A Danger plugin for Clorox.
@@ -6241,6 +6241,8 @@
 
 ## Rust 
 
+- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
+- [trussed-dev/trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [EFForg/apkeep](https://github.com/EFForg/apkeep) - 
 - [stepancheg/grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
@@ -8130,7 +8132,7 @@
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [cgrevisse/swift-project-creation](https://github.com/cgrevisse/swift-project-creation) - VS Code Extension for Swift Project/Package creation.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open source platform that allows you to manage Firestore data in a spreadsheet-like UI, write Cloud Functions in the browser, and connect to your favorite third-party platforms.
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open source platform to manage Firestore data in a spreadsheet-like UI, deploy Cloud Functions easily, and connect to your favorite third-party platforms.
 - [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input
 - [matthewpi/vscode-caddyfile-support](https://github.com/matthewpi/vscode-caddyfile-support) - Rich Caddyfile support for Visual Studio Code
 - [vknabel/vscode-swift-development-environment](https://github.com/vknabel/vscode-swift-development-environment) - New home of Swift Development Environment for VS Code
