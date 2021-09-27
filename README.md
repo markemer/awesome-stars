@@ -215,6 +215,7 @@
 
 ## C 
 
+- [google/hiba](https://github.com/google/hiba) - HIBA is a system built on top of regular OpenSSH certificate-based authentication that allows to manage flexible authorization of principals on pools of target hosts without the need to push customized authorized_users files periodically.
 - [suchmememanyskill/TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer) - A payload-based file manager for your switch!
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [losnoco/Cog](https://github.com/losnoco/Cog) - Cog - A Free and Open Source Audio Player for macOS 10.13+
@@ -363,7 +364,7 @@
 - [waveshare/e-Paper](https://github.com/waveshare/e-Paper) - 
 - [stm32duino/STM32LowPower](https://github.com/stm32duino/STM32LowPower) - Arduino Low Power library for STM32
 - [darrylb123/usbrelay](https://github.com/darrylb123/usbrelay) - Control usb relay - based on hidapi
-- [flashrom/flashrom](https://github.com/flashrom/flashrom) - Patches welcome, see https://www.flashrom.org/Development_Guidelines#Patch_submission
+- [flashrom/flashrom](https://github.com/flashrom/flashrom) - Send patches to review.coreboot.org: https://www.flashrom.org/Development_Guidelines#GitHub
 - [kamailio/kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
 - [adafruit/Adafruit_nRF52_Arduino](https://github.com/adafruit/Adafruit_nRF52_Arduino) - Adafruit code for the Nordic nRF52 BLE SoC on Arduino
 - [OpenSIPS/opensips](https://github.com/OpenSIPS/opensips) - OpenSIPS is a GPL implementation of a multi-functionality SIP Server that targets to deliver a high-level technical solution (performance, security and quality) to be used in professional SIP server platforms.
@@ -1432,7 +1433,7 @@
 - [falltergeist/falltergeist](https://github.com/falltergeist/falltergeist) - Opensource crossplatform Fallout 2™ game engine writen in C++ and SDL.
 - [falltergeist/libfalltergeist](https://github.com/falltergeist/libfalltergeist) - C++ library which allows to work with Fallout(tm) data files
 - [gnuradio/volk](https://github.com/gnuradio/volk) - The Vector Optimized Library of Kernels
-- [csete/gqrx](https://github.com/csete/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
+- [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
 - [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) - pgModeler - PostgreSQL Database Modeler - is an open source data modeling tool designed for PostgreSQL. No more DDL commands written by hand let pgModeler do the job for you! This software reunites the concepts of entity-relationship diagrams and the features that PostgreSQL implements as extensions of SQL standards. Support this project by donate on project's official web site link:
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [robertmaynard/Sandbox](https://github.com/robertmaynard/Sandbox) - Random place to try out ideas
@@ -2282,7 +2283,7 @@
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [rsms/gotalk](https://github.com/rsms/gotalk) - Async peer communication protocol & library
 - [rsms/cmdr](https://github.com/rsms/cmdr) - Helps writing command-line programs with subcommands in Go
-- [docker/classicswarm](https://github.com/docker/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
+- [docker-archive/classicswarm](https://github.com/docker-archive/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -8132,7 +8133,7 @@
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [cgrevisse/swift-project-creation](https://github.com/cgrevisse/swift-project-creation) - VS Code Extension for Swift Project/Package creation.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open source platform to manage Firestore data in a spreadsheet-like UI, deploy Cloud Functions easily, and connect to your favorite third-party platforms.
+- [rowyio/rowy](https://github.com/rowyio/rowy) - ⚡️✨ Rowy is an open source platform to manage Firestore data in a spreadsheet-like UI, deploy Cloud Functions easily, and connect to your favorite third-party platforms.⚡️✨
 - [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input
 - [matthewpi/vscode-caddyfile-support](https://github.com/matthewpi/vscode-caddyfile-support) - Rich Caddyfile support for Visual Studio Code
 - [vknabel/vscode-swift-development-environment](https://github.com/vknabel/vscode-swift-development-environment) - New home of Swift Development Environment for VS Code
