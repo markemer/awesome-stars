@@ -2679,6 +2679,7 @@
 
 ## JavaScript 
 
+- [maxogden/xml-json](https://github.com/maxogden/xml-json) - convert xml to json on the command line. not streaming, pure javascript
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Feature flagging and remote config service. Host yourself or use our hosted version at https://flagsmith.com/
 - [mrzealot/ergogen](https://github.com/mrzealot/ergogen) - Ergonomic keyboard layout generator
 - [thekodester/mass_effect_legendary_edition_checklist_guide](https://github.com/thekodester/mass_effect_legendary_edition_checklist_guide) - This guide is meant for quick reference and the mission order is just a suggestion.
@@ -6242,6 +6243,7 @@
 
 ## Rust 
 
+- [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust
 - [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [trussed-dev/trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
@@ -8086,6 +8088,7 @@
 
 ## TypeScript 
 
+- [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [ekzhang/composing.studio](https://github.com/ekzhang/composing.studio) - Collaborative music composition for everyone
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
 - [Nexus-Mods/discord-bot](https://github.com/Nexus-Mods/discord-bot) - Nexus Mods Discord Bot
@@ -8133,7 +8136,7 @@
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [cgrevisse/swift-project-creation](https://github.com/cgrevisse/swift-project-creation) - VS Code Extension for Swift Project/Package creation.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [rowyio/rowy](https://github.com/rowyio/rowy) - ⚡️✨ Rowy is an open source platform to manage Firestore data in a spreadsheet-like UI, deploy Cloud Functions easily, and connect to your favorite third-party platforms.⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Open source platform to manage Firestore data in a spreadsheet-like UI, deploy Cloud Functions easily, and connect to your favorite third-party platforms.⚡️✨
 - [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input
 - [matthewpi/vscode-caddyfile-support](https://github.com/matthewpi/vscode-caddyfile-support) - Rich Caddyfile support for Visual Studio Code
 - [vknabel/vscode-swift-development-environment](https://github.com/vknabel/vscode-swift-development-environment) - New home of Swift Development Environment for VS Code
