@@ -862,7 +862,7 @@
 - [jbremer/darm](https://github.com/jbremer/darm) - A light-weight and efficient disassembler written in C for the ARMv7 instruction set.
 - [OpenDUNE/OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) - DUNE, REINVENTED
 - [ROSS-org/ROSS](https://github.com/ROSS-org/ROSS) - Rensselaer's Optimistic Simulation System
-- [mossmann/hackrf](https://github.com/mossmann/hackrf) - low cost software radio platform
+- [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
 - [gonsie/ROSS-Legacy-Template](https://github.com/gonsie/ROSS-Legacy-Template) - This is a template for a generic ROSS model
 - [mozilla-b2g/valgrind](https://github.com/mozilla-b2g/valgrind) - git-svn copy of the valgrind subversion repo. Firefox OS specific patches applied in "fxos" branch.
 - [mozilla-b2g/vex](https://github.com/mozilla-b2g/vex) - Mirror of VEX valgrind library repository
@@ -1842,7 +1842,7 @@
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing for secrets, passwords and files
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [mholt/acmez](https://github.com/mholt/acmez) - Premier ACME client library for Go
 - [logrusorgru/aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
 - [ovrclk/akash](https://github.com/ovrclk/akash) - a secure, transparent, and peer-to-peer cloud computing network
@@ -8090,7 +8090,7 @@
 ## TypeScript 
 
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
-- [ekzhang/composing.studio](https://github.com/ekzhang/composing.studio) - Collaborative music composition for everyone
+- [ekzhang/composing.studio](https://github.com/ekzhang/composing.studio) - Collaborative music composition for everyone.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
 - [Nexus-Mods/discord-bot](https://github.com/Nexus-Mods/discord-bot) - Nexus Mods Discord Bot
 - [octokit/auth-oauth-app.js](https://github.com/octokit/auth-oauth-app.js) - GitHub OAuth App authentication for JavaScript
