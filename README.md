@@ -2552,7 +2552,7 @@
 - [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
 - [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
 - [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development
-- [intuit/karate](https://github.com/intuit/karate) - Test Automation Made Simple
+- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [tabulapdf/tabula-java](https://github.com/tabulapdf/tabula-java) - Extract tables from PDF files
 - [RPTools/maptool](https://github.com/RPTools/maptool) - Virtual Tabletop for playing roleplaying games with remote players or face to face.
 - [r0hi7/TrashEmail](https://github.com/r0hi7/TrashEmail) - A hosted disposable email telegram bot; Extremely privacy friendly; Proudly hosted for community.
@@ -6079,7 +6079,7 @@
 - [ruby/rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
 - [playgroundbooks/playgroundbook](https://github.com/playgroundbooks/playgroundbook) - Tool for Swift Playground books
 - [AliSoftware/pprof](https://github.com/AliSoftware/pprof) - Ruby Gem to list, filter, search and print Provisioning Profiles files
-- [cucumber/aruba](https://github.com/cucumber/aruba) - Test command-line applications with Cucumber-Ruby, RSpec or Minitest. The most up to date documentation can be found on Cucumber.Pro (https://app.cucumber.pro/projects/aruba)
+- [cucumber/aruba](https://github.com/cucumber/aruba) - Test command-line applications with Cucumber-Ruby, RSpec or Minitest.
 - [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - Test your rendered HTML files to make sure they're accurate.
 - [eddiezane/lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl
 - [aws/aws-sdk-ruby-record](https://github.com/aws/aws-sdk-ruby-record) - Official repository for the aws-record gem, an abstraction for Amazon DynamoDB.
@@ -6503,6 +6503,7 @@
 
 ## Shell 
 
+- [Walkman100/OpenRA-Install-Guide](https://github.com/Walkman100/OpenRA-Install-Guide) - A complete installation guide including the music missing from the OpenRA Dune 2000 mod
 - [rfbproto/rfbproto](https://github.com/rfbproto/rfbproto) - 
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [tailscale/tailscale-synology](https://github.com/tailscale/tailscale-synology) - Synology packages for tailscale.com
