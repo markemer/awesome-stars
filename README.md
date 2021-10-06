@@ -989,6 +989,7 @@
 
 ## C++ 
 
+- [KLayout/klayout](https://github.com/KLayout/klayout) - KLayout Main Sources
 - [StarDustCFW/Haku33](https://github.com/StarDustCFW/Haku33) - Perform a hard reset of the switch
 - [d00telemental/ME1NativeTools](https://github.com/d00telemental/ME1NativeTools) - Some original ME1 native plugins, previously was at GitLab
 - [a-n-t-h-o-n-y/TermOx](https://github.com/a-n-t-h-o-n-y/TermOx) - C++17 Terminal User Interface(TUI) Library.
@@ -1838,6 +1839,9 @@
 
 ## Go 
 
+- [benjojo/hot-clone](https://github.com/benjojo/hot-clone) - Progressively image a mounted disk correctly without corruption
+- [johanbrandhorst/certify](https://github.com/johanbrandhorst/certify) - Automatic client and server certificate distribution and maintenance
+- [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing for secrets, passwords and files
@@ -2682,6 +2686,8 @@
 
 ## JavaScript 
 
+- [Mikhus/canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
+- [kishikawakatsumi/xcresulttool](https://github.com/kishikawakatsumi/xcresulttool) - view Xcode result bundle data in a human-readable format.
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [maxogden/xml-json](https://github.com/maxogden/xml-json) - convert xml to json on the command line. not streaming, pure javascript
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Feature flagging and remote config service. Host yourself or use our hosted version at https://flagsmith.com/
@@ -5038,6 +5044,7 @@
 
 ## Python 
 
+- [qilingframework/qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework
 - [Bigdrea6/winapi-ghidra](https://github.com/Bigdrea6/winapi-ghidra) - Make the Windows API in Ghidra easy to read and informative.
 - [aceisace/Inkycal](https://github.com/aceisace/Inkycal) - Inykcal is a software written in python for selected E-Paper displays. It converts these displays into useful information dashboards. It's open-source, free for personal use, fully modular and user-friendly. Despite all this, Inkycal can run well even on the Raspberry Pi Zero W. Oh, and it's open for third-party modules! Hooray!
 - [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
@@ -5218,7 +5225,7 @@
 - [marmni/FreeCAD-PCB](https://github.com/marmni/FreeCAD-PCB) - FreeCAD-PCB
 - [reswitched/loaders](https://github.com/reswitched/loaders) - IDA Loaders for Switch binaries
 - [alan-turing-institute/CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - CleverCSV is a Python package for handling messy CSV files. It provides a drop-in replacement for the builtin CSV module with improved dialect detection, and comes with a handy command line application for working with CSV files.
-- [j4mie/sqlsite](https://github.com/j4mie/sqlsite) - A tool for serving simple websites, JSON APIs and static files directly from a SQLite database
+- [j4mie/sqlsite](https://github.com/j4mie/sqlsite) - NO LONGER MAINTAINED! A tool for serving simple websites, JSON APIs and static files directly from a SQLite database
 - [eerimoq/cantools](https://github.com/eerimoq/cantools) - CAN bus tools.
 - [Yubico/yubikey-manager](https://github.com/Yubico/yubikey-manager) - Python library and command line tool for configuring any YubiKey over all USB interfaces.
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
@@ -5886,6 +5893,7 @@
 
 ## Ruby 
 
+- [laurentc2/SKY130_for_KLayout](https://github.com/laurentc2/SKY130_for_KLayout) - KLayout technology files for Skywater SKY130
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [jfelchner/ruby-progressbar](https://github.com/jfelchner/ruby-progressbar) - Ruby/ProgressBar is a text progress bar library for Ruby.
 - [rodrigorichter/steamblower](https://github.com/rodrigorichter/steamblower) - 
@@ -6761,7 +6769,7 @@
 - [cowboy/dotfiles](https://github.com/cowboy/dotfiles) - My Ubuntu / OS X dotfiles.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 
 ## Smarty 
@@ -6801,6 +6809,7 @@
 
 ## Swift 
 
+- [ChimeHQ/TextStory](https://github.com/ChimeHQ/TextStory) - Happier, more flexible NSTextStorage
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [exyte/FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
 - [airsidemobile/JOSESwift](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK written in Swift.
@@ -7013,7 +7022,6 @@
 - [swiftwasm/carton](https://github.com/swiftwasm/carton) - 📦 Watcher, bundler, and test runner for your SwiftWasm apps
 - [loiclec/FuzzCheck](https://github.com/loiclec/FuzzCheck) - Swift package fuzzing engine
 - [rileytestut/Clip](https://github.com/rileytestut/Clip) - Clip is a clipboard manager for iOS that can monitor your clipboard indefinitely in the background — no jailbreak required.
-- [relatedcode/GraphQLite](https://github.com/relatedcode/GraphQLite) - GraphQLite is a toolkit to work with GraphQL servers easily. It also provides several other features to make life easier during iOS application development.
 - [bscothern/Once](https://github.com/bscothern/Once) - A replacement for Dispatch Once in Swift
 - [erica/Swift-General-Utility](https://github.com/erica/Swift-General-Utility) - General utility types and functionality
 - [krzyzanowskim/CoreTextSwift](https://github.com/krzyzanowskim/CoreTextSwift) - CoreText Swift bindings
@@ -8112,7 +8120,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.
 - [mxcl/xcodebuild](https://github.com/mxcl/xcodebuild) - A continuously resilient `xcodebuild` action. Also it’s the best.
-- [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the tool to access your cloud;  It securely stores your access information and generates temporary credential sets to access your cloud ecosystem from your local machine.
+- [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 - [davidar/pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
 - [nick-invision/private-action-loader](https://github.com/nick-invision/private-action-loader) - Allows private GitHub Actions to be easily reused
@@ -8147,7 +8155,7 @@
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [cgrevisse/swift-project-creation](https://github.com/cgrevisse/swift-project-creation) - VS Code Extension for Swift Project/Package creation.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Open source platform to manage Firestore data in a spreadsheet-like UI, deploy Cloud Functions easily, and connect to your favorite third-party platforms.⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source platform that brings an Airtable experience for your database and allows you to build any automation or cloud functions for your product. ⚡️✨
 - [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input
 - [matthewpi/vscode-caddyfile-support](https://github.com/matthewpi/vscode-caddyfile-support) - Rich Caddyfile support for Visual Studio Code
 - [vknabel/vscode-swift-development-environment](https://github.com/vknabel/vscode-swift-development-environment) - New home of Swift Development Environment for VS Code
@@ -8159,6 +8167,7 @@
 - [ProbableTrain/MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
+- [relatedcode/RelatedChat](https://github.com/relatedcode/RelatedChat) - Open source alternative communication platform
 - [IvanMathy/CardsAwayFromHumanity](https://github.com/IvanMathy/CardsAwayFromHumanity) - A horrible codebase for a horrible time.
 - [fwal/setup-swift](https://github.com/fwal/setup-swift) - GitHub Action that setup a Swift environment
 - [mathieudutour/svg-path-visualizer](https://github.com/mathieudutour/svg-path-visualizer) - Enter a SVG path data to visualize it and discover all its different commands
@@ -8396,7 +8405,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🎃  🎃  The Open Source Airtable alternative
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [ThaumRystra/DiceCloud](https://github.com/ThaumRystra/DiceCloud) - D&D 5e digital character manager
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
