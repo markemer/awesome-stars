@@ -41,6 +41,7 @@
   - [G-code](#g-code)
   - [GDScript](#gdscript)
   - [GLSL](#glsl)
+  - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HCL](#hcl)
@@ -215,6 +216,7 @@
 
 ## C 
 
+- [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [google/hiba](https://github.com/google/hiba) - HIBA is a system built on top of regular OpenSSH certificate-based authentication that allows to manage flexible authorization of principals on pools of target hosts without the need to push customized authorized_users files periodically.
 - [suchmememanyskill/TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer) - A payload-based file manager for your switch!
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
@@ -778,7 +780,6 @@
 - [moonlight-stream/moonlight-common-c](https://github.com/moonlight-stream/moonlight-common-c) - Core implementation of Nvidia's GameStream protocol
 - [lsalzman/enet](https://github.com/lsalzman/enet) - ENet reliable UDP networking library
 - [jncronin/rpi-boot](https://github.com/jncronin/rpi-boot) - A second stage bootloader for the Raspberry Pi
-- [ciderapps/lustre](https://github.com/ciderapps/lustre) - Lustre Filesystem For macOS
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
 - [LuaDist/luajit](https://github.com/LuaDist/luajit) - LuaJIT is JIT compiler for the Lua language.
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -1584,6 +1585,7 @@
 
 ## CSS 
 
+- [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [Automattic/_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
 - [adobe-fonts/source-serif](https://github.com/adobe-fonts/source-serif) - Typeface for setting text in many sizes, weights, and languages. Designed to complement Source Sans.
 - [OfficerHalf/homebrewery-vscode](https://github.com/OfficerHalf/homebrewery-vscode) - Adding 5e Homebrewery markdown formatting to Visual Studio Code's markdown preview
@@ -1836,6 +1838,10 @@
 - [twostraws/ShaderKit](https://github.com/twostraws/ShaderKit) - A library of fragment shaders you can use in any SpriteKit project.
 - [AllYarnsAreBeautiful/ayab-hardware](https://github.com/AllYarnsAreBeautiful/ayab-hardware) - Contains the schematics and layouts for the AYAB Arduino shield
 - [patriciogonzalezvivo/thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders.
+
+## Gherkin 
+
+- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
 ## Go 
 
@@ -4694,7 +4700,7 @@
 - [dwillis/nyc-maps](https://github.com/dwillis/nyc-maps) - Maps of New York City geodata
 - [openelections/openelections-data-va](https://github.com/openelections/openelections-data-va) - Pre-processed election results for Virginia
 - [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules and examples.
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [gergo-/missed-optimizations](https://github.com/gergo-/missed-optimizations) - Missed optimizations in C compilers
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
@@ -6733,7 +6739,6 @@
 - [rtrouton/create_os_x_vm_install_dmg](https://github.com/rtrouton/create_os_x_vm_install_dmg) - 
 - [timsutton/osx-vm-templates](https://github.com/timsutton/osx-vm-templates) - macOS templates for Packer and VeeWee.
 - [azu/Coveralls-iOS](https://github.com/azu/Coveralls-iOS) - iOS/Objective-C: minimum setup for Coveralls.
-- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [cytec/spksrc-vagrant](https://github.com/cytec/spksrc-vagrant) - 
 - [mor1/mirage-vagrant-vms](https://github.com/mor1/mirage-vagrant-vms) - Packer and Vagrant images for building Mirage
 - [MacMiniVault/Mac-Scripts](https://github.com/MacMiniVault/Mac-Scripts) - Automation scripts focused around Mac OS X Server
@@ -8405,7 +8410,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🎃  🎃  The Open Source Airtable alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire:  :fire: The Open Source Airtable Alternative - Powered by Vue.js :heart:
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [ThaumRystra/DiceCloud](https://github.com/ThaumRystra/DiceCloud) - D&D 5e digital character manager
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
