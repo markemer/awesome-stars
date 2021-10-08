@@ -216,6 +216,7 @@
 
 ## C 
 
+- [AsahiLinux/gpu](https://github.com/AsahiLinux/gpu) - Dissecting the M1's GPU for 3D acceleration
 - [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [google/hiba](https://github.com/google/hiba) - HIBA is a system built on top of regular OpenSSH certificate-based authentication that allows to manage flexible authorization of principals on pools of target hosts without the need to push customized authorized_users files periodically.
 - [suchmememanyskill/TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer) - A payload-based file manager for your switch!
@@ -440,7 +441,6 @@
 - [im-tomu/toboot](https://github.com/im-tomu/toboot) - Bootloader for the EFM32HG Tomu Board
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [commaai/chffrplus](https://github.com/commaai/chffrplus) - open source dashcam software
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [mist-devel/mist-binaries](https://github.com/mist-devel/mist-binaries) - Firmware and core binaries for the MIST board
@@ -2693,7 +2693,7 @@
 ## JavaScript 
 
 - [Mikhus/canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
-- [kishikawakatsumi/xcresulttool](https://github.com/kishikawakatsumi/xcresulttool) - view Xcode result bundle data in a human-readable format.
+- [kishikawakatsumi/xcresulttool-js](https://github.com/kishikawakatsumi/xcresulttool-js) - view Xcode result bundle data in a human-readable format.
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [maxogden/xml-json](https://github.com/maxogden/xml-json) - convert xml to json on the command line. not streaming, pure javascript
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Feature flagging and remote config service. Host yourself or use our hosted version at https://flagsmith.com/
@@ -2815,7 +2815,7 @@
 - [mjhorvath/Video-Game-Keyboard-Database](https://github.com/mjhorvath/Video-Game-Keyboard-Database) - A set of PHP forms and MySQL databases that generate keyboard control diagrams in a new browser window. You can select control bindings from among various video games and other software.
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [amzn/sketch-constructor](https://github.com/amzn/sketch-constructor) - Read/write/manipulate Sketch files in Node without Sketch plugins!
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
@@ -3401,7 +3401,6 @@
 - [erikvold/squareroot.js](https://github.com/erikvold/squareroot.js) - A library of math functions + a small canvas 3d engine (mostly to test the math stuff)
 - [atom/symbols-view](https://github.com/atom/symbols-view) - Jump to symbols in Atom
 - [Meiguro/simplyjs](https://github.com/Meiguro/simplyjs) - Program the Pebble with simply JavaScript
-- [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
 - [jed/browserver-client](https://github.com/jed/browserver-client) - ෴ A node.js HTTP server in your browser ෴
 - [iceddev/node-chromify](https://github.com/iceddev/node-chromify) - Entry point to use node in chrome
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
@@ -4810,7 +4809,7 @@
 - [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries
 - [google/maps-for-work-samples](https://github.com/google/maps-for-work-samples) - 
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [openstack-infra/jenkins-job-builder](https://github.com/openstack-infra/jenkins-job-builder) - MOVED: Now at https://opendev.org/jjb/jenkins-job-builder
 - [google/keyczar](https://github.com/google/keyczar) - Easy-to-use crypto toolkit
 - [ilyavorobiev/atom-docs](https://github.com/ilyavorobiev/atom-docs) - Documentation for Github Atom Editor and Atom Shell
@@ -5287,6 +5286,7 @@
 - [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
 - [benedekrozemberczki/awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - A collection of important graph embedding, classification and representation learning papers with implementations.
 - [jasbur/RaspiWiFi](https://github.com/jasbur/RaspiWiFi) - Headless WiFi configuration for the Raspberry Pi (or most other devices running Linux) by using a temporary WiFi access point and web interface
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [OblivionCloudControl/opvault](https://github.com/OblivionCloudControl/opvault) - Python library to access 1Password OPVault stores
 - [mhoogen/ML4QS](https://github.com/mhoogen/ML4QS) - Code belonging to the book machine learning for the quantified self.
@@ -5357,7 +5357,7 @@
 - [jarun/imgp](https://github.com/jarun/imgp) - :camera_flash: Fast batch image resizer and rotator
 - [bbc/brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud
 - [freeipa/freeipa](https://github.com/freeipa/freeipa) - Mirror of FreeIPA, an integrated security information management solution
-- [facebook/fbkutils](https://github.com/facebook/fbkutils) - A variety of utilities built and maintained by Facebook's Linux Kernel Team that we wish to share with the community.
+- [facebookarchive/fbkutils](https://github.com/facebookarchive/fbkutils) - A variety of utilities built and maintained by Facebook's Linux Kernel Team that we wish to share with the community.
 - [jacebrowning/memegen](https://github.com/jacebrowning/memegen) - The free and open source API to generate memes.
 - [azonenberg/freesample](https://github.com/azonenberg/freesample) - High performance sampling oscilloscope based on INTEGRALSTICK
 - [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
@@ -6814,6 +6814,7 @@
 
 ## Swift 
 
+- [teufelaudio/SwiftPackageAcknowledgement](https://github.com/teufelaudio/SwiftPackageAcknowledgement) - Third-party acknowledgement plist from SPM Packages
 - [ChimeHQ/TextStory](https://github.com/ChimeHQ/TextStory) - Happier, more flexible NSTextStorage
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [exyte/FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
@@ -7692,7 +7693,7 @@
 - [artemnovichkov/iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) - 👨🏻‍💻 Examples of new iOS 11 APIs
 - [fastred/DeallocationChecker](https://github.com/fastred/DeallocationChecker) - Catch leaking view controllers without opening Instruments.
 - [yapstudios/YapAnimator](https://github.com/yapstudios/YapAnimator) - Your fast and friendly physics-based animation system.
-- [IdeasOnCanvas/Callisto](https://github.com/IdeasOnCanvas/Callisto) - Parse Clang Static Analyzer messages and pass them to Slack
+- [Patrick-Kladek/Callisto](https://github.com/Patrick-Kladek/Callisto) - Parse Clang Static Analyzer messages and pass them to Slack
 - [toineheuvelmans/Metron](https://github.com/toineheuvelmans/Metron) - Geometry, simplified.
 - [BalestraPatrick/HapticButton](https://github.com/BalestraPatrick/HapticButton) - A button that is triggered based on the 3D Touch pressure, similar to the iOS 11 control center.
 - [mattgallagher/CocoaWithLovePlaygrounds](https://github.com/mattgallagher/CocoaWithLovePlaygrounds) - Swift Playground versions of select articles from Cocoa with Love.
@@ -8112,6 +8113,7 @@
 
 ## TypeScript 
 
+- [kishikawakatsumi/xcresulttool](https://github.com/kishikawakatsumi/xcresulttool) - view Xcode result bundle data in a human-readable format.
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [ekzhang/composing.studio](https://github.com/ekzhang/composing.studio) - Collaborative music composition for everyone.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
@@ -8315,6 +8317,7 @@
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
 - [kiswa/TaskBoard](https://github.com/kiswa/TaskBoard) - A Kanban-inspired app for keeping track of things that need to get done. (Don't forget to read the Wiki page!)
 - [NarrativeScience/log.io](https://github.com/NarrativeScience/log.io) - Real-time log monitoring in your browser
+- [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 
 ## UnrealScript 
@@ -8323,7 +8326,6 @@
 
 ## VHDL 
 
-- [FPGA-Research-Manchester/FABulous](https://github.com/FPGA-Research-Manchester/FABulous) - Fabric generator and CAD tools
 - [stnolting/neo430](https://github.com/stnolting/neo430) - :computer: A damn small msp430-compatible customizable soft-core microcontroller-like processor system written in platform-independent VHDL.
 - [openpower-cores/a2i](https://github.com/openpower-cores/a2i) - 
 - [ghdl/ghdl](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator
@@ -8349,6 +8351,7 @@
 
 - [andrewattwood/fuserisc](https://github.com/andrewattwood/fuserisc) - Dual RISC-V DISC with integrated eFPGA
 - [SymbiFlow/symbiflow-examples](https://github.com/SymbiFlow/symbiflow-examples) - Example designs showing different ways to use SymbiFlow toolchains.
+- [FPGA-Research-Manchester/FABulous](https://github.com/FPGA-Research-Manchester/FABulous) - Fabric generator and CAD tools
 - [FPGA-Research-Manchester/FABulous-Sky---a-heterogeneous-FPGA-fabric-in-Skywater130](https://github.com/FPGA-Research-Manchester/FABulous-Sky---a-heterogeneous-FPGA-fabric-in-Skywater130) - https://caravel-user-project.readthedocs.io
 - [efabless/OpenLane](https://github.com/efabless/OpenLane) - NOTE: The master branch is frozen for OpenMPW2. Please direct any PRs to the develop branch. :: OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
 - [ultraembedded/core_uriscv](https://github.com/ultraembedded/core_uriscv) - Another tiny RISC-V implementation
