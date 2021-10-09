@@ -508,6 +508,7 @@
 - [johnxnguyen/Down](https://github.com/johnxnguyen/Down) - Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [google/wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
+- [solokeys/solo](https://github.com/solokeys/solo) - Solo 1: open security key supporting FIDO2 & U2F over USB + NFC
 - [FDio/vpp](https://github.com/FDio/vpp) - 
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [tleonhardt/practical_cryptography_engineering](https://github.com/tleonhardt/practical_cryptography_engineering) - Cryptography code examples using libsodium and mbedtls C libraries and Python cryptography and PyNaCl modules
@@ -1258,7 +1259,6 @@
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [google/souper](https://github.com/google/souper) - A superoptimizer for LLVM IR
 - [google/sling](https://github.com/google/sling) - SLING - A natural language frame semantics parser
-- [solokeys/solo](https://github.com/solokeys/solo) - Solo 1: open security key supporting FIDO2 & U2F over USB + NFC
 - [Nukem9/SkyrimSETest](https://github.com/Nukem9/SkyrimSETest) - Reverse engineering TES: Skyrim Special Edition.
 - [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
 - [aers/EngineFixesSkyrim64](https://github.com/aers/EngineFixesSkyrim64) - WIP skse64 plugin to fix stuff in Skyrim SE (and probably VR at some point)
@@ -1756,6 +1756,7 @@
 
 ## Dockerfile 
 
+- [asmaps/bepasty-docker](https://github.com/asmaps/bepasty-docker) - Docker automated build repository for the bepasty
 - [linuxserver/docker-grocy](https://github.com/linuxserver/docker-grocy) - A container for grocy - the ERP application for your kitchen https://grocy.info
 - [grocy/grocy-docker](https://github.com/grocy/grocy-docker) - ERP beyond your fridge - now containerized - this is the docker repo of https://github.com/grocy/grocy
 - [JAremko/docker-x11-bridge](https://github.com/JAremko/docker-x11-bridge) - Simple Xpra X11 bridge to enable GUI with any docker image
@@ -5854,6 +5855,7 @@
 
 ## R 
 
+- [dietrichson/ProPublicaR](https://github.com/dietrichson/ProPublicaR) - R Functions to Interact with the ProPublica APIs
 - [oganm/dndstats](https://github.com/oganm/dndstats) - Statistics of DnD characters submitted to https://oganm.com/shiny/printSheetApp and https://oganm.com/shiny/interactiveSheet. A larger dataset is at https://github.com/oganm/dnddata
 - [oganm/dnddata](https://github.com/oganm/dnddata) - Weekly updated dataset of D&D characters submitted to https://oganm.com/shiny/printSheetApp and https://oganm.com/shiny/interactiveSheet. A superset of characters used in oganm/dndstats
 - [tidyverse/googlesheets4](https://github.com/tidyverse/googlesheets4) - Google Spreadsheets R API (reboot of the googlesheets package)
@@ -8162,7 +8164,7 @@
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [cgrevisse/swift-project-creation](https://github.com/cgrevisse/swift-project-creation) - VS Code Extension for Swift Project/Package creation.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source platform that brings an Airtable experience for your database and allows you to build any automation or cloud functions for your product. ⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
 - [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input
 - [matthewpi/vscode-caddyfile-support](https://github.com/matthewpi/vscode-caddyfile-support) - Rich Caddyfile support for Visual Studio Code
 - [vknabel/vscode-swift-development-environment](https://github.com/vknabel/vscode-swift-development-environment) - New home of Swift Development Environment for VS Code
