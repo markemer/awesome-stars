@@ -4929,7 +4929,7 @@
 - [JD-Billingham/twitter_shared_blocklist](https://github.com/JD-Billingham/twitter_shared_blocklist) - The Block Bot
 - [idno/known](https://github.com/idno/known) - A social publishing platform.
 - [twilio/OpenVBX](https://github.com/twilio/OpenVBX) - OpenVBX is a web-based open source phone system for business.
-- [andyyoung/Selective-Tweets](https://github.com/andyyoung/Selective-Tweets) - The Selective Tweets Facebook app for selectively posting tweets to your Facebook profile and/or page(s)
+- [andyjy/Selective-Tweets](https://github.com/andyjy/Selective-Tweets) - The Selective Tweets Facebook app for selectively posting tweets to your Facebook profile and/or page(s)
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [phpsysinfo/phpsysinfo](https://github.com/phpsysinfo/phpsysinfo) - phpSysInfo: a customizable PHP script that displays information about your system nicely
 - [leenooks/phpLDAPadmin](https://github.com/leenooks/phpLDAPadmin) - phpLDAPadmin - Web based LDAP administration tool
@@ -5826,7 +5826,7 @@
 - [zachwill/flask-engine](https://github.com/zachwill/flask-engine) - A Flask skeleton for Google App Engine, using html5 boilerplate templating.
 - [rapid7/le](https://github.com/rapid7/le) - Logentries agent
 - [openyou/emokit](https://github.com/openyou/emokit) - Open source driver for accessing raw data from the Emotiv EPOC EEG headset
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
+- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [devstructure/blueprint](https://github.com/devstructure/blueprint) - Reverse engineer server configuration
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [jtriley/StarCluster](https://github.com/jtriley/StarCluster) - StarCluster is an open source cluster-computing toolkit for Amazon's Elastic Compute Cloud (EC2).
@@ -8115,7 +8115,6 @@
 
 ## TypeScript 
 
-- [kishikawakatsumi/xcresulttool](https://github.com/kishikawakatsumi/xcresulttool) - view Xcode result bundle data in a human-readable format.
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [ekzhang/composing.studio](https://github.com/ekzhang/composing.studio) - Collaborative music composition for everyone.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
