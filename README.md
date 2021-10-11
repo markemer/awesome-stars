@@ -216,6 +216,7 @@
 
 ## C 
 
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [AsahiLinux/gpu](https://github.com/AsahiLinux/gpu) - Dissecting the M1's GPU for 3D acceleration
 - [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [google/hiba](https://github.com/google/hiba) - HIBA is a system built on top of regular OpenSSH certificate-based authentication that allows to manage flexible authorization of principals on pools of target hosts without the need to push customized authorized_users files periodically.
@@ -806,7 +807,6 @@
 - [aws/s2n-tls](https://github.com/aws/s2n-tls) - s2n : an implementation of the TLS/SSL protocols
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [raspberrypi/userland](https://github.com/raspberrypi/userland) - Source code for ARM side libraries for interfacing to Raspberry Pi GPU.
-- [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders shaders
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [adafruit/adafruit-raspberrypi-linux](https://github.com/adafruit/adafruit-raspberrypi-linux) - Adafruit's hacking-friendly Raspberry Pi linux kernel
 - [droe/sslsplit](https://github.com/droe/sslsplit) - Transparent SSL/TLS interception
@@ -1495,6 +1495,7 @@
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [lanl/Byfl](https://github.com/lanl/Byfl) - Program analysis tool based on software performance counters
+- [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders shaders
 - [google/rowhammer-test](https://github.com/google/rowhammer-test) - Test DRAM for bit flips caused by the rowhammer problem
 - [tdenniston/bish](https://github.com/tdenniston/bish) - Bish is a language that compiles to Bash. It's designed to give shell scripting a more comfortable and modern feel.
 - [adafruit/Adafruit_LED_Backpack](https://github.com/adafruit/Adafruit_LED_Backpack) - Adafruit LED Backpack Library for our 8x8 matrix and 7-segment LED backpacks
@@ -1645,7 +1646,6 @@
 - [twitter-archive/recess](https://github.com/twitter-archive/recess) - A simple and attractive code quality tool for CSS built on top of LESS
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [redroot/holmes](https://github.com/redroot/holmes) - Holmes is stand-alone diagnostic CSS stylesheet that can highlight potentially invalid or erroneous HTML(5) markup by adding one class
-- [markemer/markemer.github.io](https://github.com/markemer/markemer.github.io) - GitHub User Page
 
 ## Chapel 
 
@@ -1800,7 +1800,6 @@
 - [alex-hhh/emacs-soap-client](https://github.com/alex-hhh/emacs-soap-client) - Access SOAP web services from GNU Emacs. This package is maintained as part of the GNU Emacs source repository
 - [ahungry/org-jira](https://github.com/ahungry/org-jira) - Bring Jira and OrgMode together
 - [baohaojun/org-jira](https://github.com/baohaojun/org-jira) - Bring Jira and OrgMode together
-- [xahlee/xah-css-mode](https://github.com/xahlee/xah-css-mode) - emacs major mode for css
 - [lokedhs/gnu-apl-mode](https://github.com/lokedhs/gnu-apl-mode) - GNU APL mode for Emacs
 - [cask/cask](https://github.com/cask/cask) - Project management tool for Emacs
 - [chrisdone/emacs-config](https://github.com/chrisdone/emacs-config) - My Emacs config
@@ -3636,7 +3635,7 @@
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
 - [zevv/lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [axkibe/lsyncd](https://github.com/axkibe/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
-- [luadns/dns](https://github.com/luadns/dns) - Example DNS repository
+- [luadns/dns](https://github.com/luadns/dns) - Template Repository for getting started with LuaDNS.
 - [inters/vita](https://github.com/inters/vita) - Vita: simple and fast VPN gateway
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [auto-ssl/lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
@@ -4870,6 +4869,7 @@
 - [cmink/BrightScript.tmbundle](https://github.com/cmink/BrightScript.tmbundle) - BrightScript Bundle for TextMate and editors using TextMate bundles.
 - [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [travis-ci/travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
+- [markemer/markemer.github.io](https://github.com/markemer/markemer.github.io) - GitHub User Page
 - [henrik242/macfuse](https://github.com/henrik242/macfuse) - This is a clone of https://code.google.com/p/macfuse/source/checkout from 2011.01.28.
 - [rsanchez/json](https://github.com/rsanchez/json) - Output ExpressionEngine data in JSON format.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -8163,7 +8163,7 @@
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [cgrevisse/swift-project-creation](https://github.com/cgrevisse/swift-project-creation) - VS Code Extension for Swift Project/Package creation.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
 - [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input
 - [matthewpi/vscode-caddyfile-support](https://github.com/matthewpi/vscode-caddyfile-support) - Rich Caddyfile support for Visual Studio Code
 - [vknabel/vscode-swift-development-environment](https://github.com/vknabel/vscode-swift-development-environment) - New home of Swift Development Environment for VS Code
