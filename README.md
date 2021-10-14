@@ -841,7 +841,7 @@
 - [freebsd/openlaunchd](https://github.com/freebsd/openlaunchd) - A launchd(8) port for non-Darwin systems
 - [facebookarchive/liblogfaf](https://github.com/facebookarchive/liblogfaf) - A library that logs messages using non-blocking UDP datagrams.
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
-- [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum
+- [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
 - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [ZipArchive/ZipArchive](https://github.com/ZipArchive/ZipArchive) - ZipArchive is a simple utility class for zipping and unzipping files on iOS, macOS and tvOS.
 - [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
@@ -3017,7 +3017,6 @@
 - [intoli/remote-browser](https://github.com/intoli/remote-browser) - A low-level browser automation framework built on top of the Web Extensions API standard.
 - [qilin-editor/qilin-app](https://github.com/qilin-editor/qilin-app) - Fully hackable text editor developed for exact sciences with built-in KaTeX and AsciiMath support. Extensible via plugins and themes. Exportable as HTML, PDF and GFM.
 - [wellsjo/JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data
-- [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [intuit/intuit-developer-nodejs](https://github.com/intuit/intuit-developer-nodejs) - A starting point for anyone looking to quickly jump onto the Intuit Developer Platform, Intuit-developer-nodejs ties together OAuth, OpenID, NodeJS, QuickBooks APIs and SDK.
 - [yue/wey](https://github.com/yue/wey) - Fast open source Slack desktop app
 - [websiddu/sketch-material](https://github.com/websiddu/sketch-material) - Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
@@ -3362,7 +3361,6 @@
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [jupyter/colaboratory](https://github.com/jupyter/colaboratory) - [deprecated] Jupyter CoLaboratory, goto google colab now
 - [guardian/open-platform-site](https://github.com/guardian/open-platform-site) - Build applications with the Guardian
-- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
@@ -5232,7 +5230,7 @@
 - [reswitched/loaders](https://github.com/reswitched/loaders) - IDA Loaders for Switch binaries
 - [alan-turing-institute/CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - CleverCSV is a Python package for handling messy CSV files. It provides a drop-in replacement for the builtin CSV module with improved dialect detection, and comes with a handy command line application for working with CSV files.
 - [j4mie/sqlsite](https://github.com/j4mie/sqlsite) - NO LONGER MAINTAINED! A tool for serving simple websites, JSON APIs and static files directly from a SQLite database
-- [eerimoq/cantools](https://github.com/eerimoq/cantools) - CAN bus tools.
+- [cantools/cantools](https://github.com/cantools/cantools) - CAN bus tools.
 - [Yubico/yubikey-manager](https://github.com/Yubico/yubikey-manager) - Python library and command line tool for configuring any YubiKey over all USB interfaces.
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 - [socialpoint-labs/sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API
@@ -6512,6 +6510,7 @@
 - [scala/scala](https://github.com/scala/scala) - Scala 2 compiler and standard library. For bugs, see scala/bug
 - [airbnb/aerosolve](https://github.com/airbnb/aerosolve) - A machine learning package built for humans.
 - [twitter/cassovary](https://github.com/twitter/cassovary) - Cassovary is a simple big graph processing library for the JVM
+- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [twitter/summingbird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm
 - [apache/predictionio](https://github.com/apache/predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
 - [phyous/grasp](https://github.com/phyous/grasp) - A mouse controller for OSX powered by the Leap Motion device.
@@ -8254,6 +8253,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [mflorence99/el-3270](https://github.com/mflorence99/el-3270) - Electron-based 3270 Emulator
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
+- [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
