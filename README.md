@@ -216,6 +216,7 @@
 
 ## C 
 
+- [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines based on PCem.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [AsahiLinux/gpu](https://github.com/AsahiLinux/gpu) - Dissecting the M1's GPU for 3D acceleration
 - [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
@@ -1561,6 +1562,7 @@
 
 ## CMake 
 
+- [azonenberg/scopehal-waveforms-bridge](https://github.com/azonenberg/scopehal-waveforms-bridge) - Socket server to bridge from Digilent WaveForms SDK to libscopehal
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [KiCad/kicad-packages3D](https://github.com/KiCad/kicad-packages3D) - Official KiCad 3D model libraries for rendering and MCAD integration
 - [KiCad/kicad-footprints](https://github.com/KiCad/kicad-footprints) - Official KiCad Footprint Libraries for Kicad version 5
@@ -1845,6 +1847,7 @@
 
 ## Go 
 
+- [sfomuseum/go-libraryofcongress](https://github.com/sfomuseum/go-libraryofcongress) - Go package providing tools for working with Library of Congress data.
 - [benjojo/hot-clone](https://github.com/benjojo/hot-clone) - Progressively image a mounted disk correctly without corruption
 - [johanbrandhorst/certify](https://github.com/johanbrandhorst/certify) - Automatic client and server certificate distribution and maintenance
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
@@ -2691,6 +2694,8 @@
 
 ## JavaScript 
 
+- [apple/swift-docc-render](https://github.com/apple/swift-docc-render) - Web renderer for Swift-DocC documentation.
+- [jc21/nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [Mikhus/canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
 - [kishikawakatsumi/xcresulttool-js](https://github.com/kishikawakatsumi/xcresulttool-js) - view Xcode result bundle data in a human-readable format.
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
@@ -3588,6 +3593,7 @@
 
 ## Kotlin 
 
+- [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [awslabs/smithy-swift](https://github.com/awslabs/smithy-swift) - 
 - [jpd236/kotwords](https://github.com/jpd236/kotwords) - Collection of crossword puzzle file format converters and other utilities, written in Kotlin.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
@@ -4314,7 +4320,7 @@
 - [mrangen/M4-Breadstick](https://github.com/mrangen/M4-Breadstick) - A long and thin development board, designed to keep the number and length of jumper wires to a minimum. Runs Circuit Python on Microchip SAMD51G19A - Arduino in the works! Entered in Hackaday Prize 2021 and CrowdSupply campaign in the works!
 - [kelu124/awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - :book: List of FPGA Lattice boards using open tools
 - [Digilent/Genesys-ZU](https://github.com/Digilent/Genesys-ZU) - 
-- [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues Pull requests will be automatically closed.
+- [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues
 - [AllsafeCyberSecurity/awesome-ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra) - A curated list of awesome Ghidra materials
 - [bobeff/programming-math-science](https://github.com/bobeff/programming-math-science) - This is a list of links to different freely available learning resources about computer programming, math, and science.
 - [HankiDesign/awesome-dear-imgui](https://github.com/HankiDesign/awesome-dear-imgui) - A collection of awesome dear imgui bindings, extensions and resources
@@ -6264,6 +6270,8 @@
 
 ## Rust 
 
+- [tree-sitter/tree-sitter-graph](https://github.com/tree-sitter/tree-sitter-graph) - Construct graphs from parsed source code
+- [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
 - [sourcefrog/rsyn](https://github.com/sourcefrog/rsyn) - [alpha] Wire-compatible rsync client in Rust
 - [xvxx/phetch](https://github.com/xvxx/phetch) - 🐭 quick lil gopher client for your terminal
 - [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust
@@ -6358,7 +6366,7 @@
 - [steveftoth/oxidize-core](https://github.com/steveftoth/oxidize-core) - Implementation of core unix utilities in rust
 - [robmikh/minesweeper-rs](https://github.com/robmikh/minesweeper-rs) - A port of robmikh/Minesweeper using windows-rs.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for the Windows SDK
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Windows SDK for Rust
 - [d0iasm/rvemu-for-book](https://github.com/d0iasm/rvemu-for-book) - Reference implementation for the book "Writing a RISC-V Emulator in Rust".
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
@@ -6816,6 +6824,11 @@
 
 ## Swift 
 
+- [steventroughtonsmith/catalystgridapp](https://github.com/steventroughtonsmith/catalystgridapp) - Grid-based app for macOS Catalyst (Mac Idiom) with navigation stack
+- [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
+- [apple/swift-experimental-string-processing](https://github.com/apple/swift-experimental-string-processing) - An early experimental general-purpose pattern matching engine for Swift.
+- [apple/swift-docc-symbolkit](https://github.com/apple/swift-docc-symbolkit) - A Swift package for encoding and decoding Swift Symbol Graph files.
+- [apple/swift-docc](https://github.com/apple/swift-docc) - Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.
 - [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync. Compiled for macOS Big Sur
 - [teufelaudio/SwiftPackageAcknowledgement](https://github.com/teufelaudio/SwiftPackageAcknowledgement) - Third-party acknowledgement plist from SPM Packages
 - [ChimeHQ/TextStory](https://github.com/ChimeHQ/TextStory) - Happier, more flexible NSTextStorage
