@@ -1074,7 +1074,7 @@
 - [PeterLemon/RaspberryPi](https://github.com/PeterLemon/RaspberryPi) - Raspberry Pi Bare Metal Assembly Programming
 - [casadi/casadi](https://github.com/casadi/casadi) - CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as SUNDIALS, IPOPT etc. It can be used from C++, Python or Matlab/Octave.
 - [megari/koryuu-fw](https://github.com/megari/koryuu-fw) - Firmware for the Koryuu transcoder
-- [TASVideos/fceux](https://github.com/TASVideos/fceux) - FCEUX, a NES Emulator
+- [TASEmulators/fceux](https://github.com/TASEmulators/fceux) - FCEUX, a NES Emulator
 - [matrix-io/xc3sprog](https://github.com/matrix-io/xc3sprog) - xc3sprog is a suite of utilities for programming Xilinx FPGAs, CPLDs, and EEPROMs with the Xilinx Parallel Cable and other JTAG adapters under Linux. Used to program the FPGA of the MATRIX Creator/Voice via Raspberry Pi.
 - [NVIDIA/libcudacxx](https://github.com/NVIDIA/libcudacxx) - The C++ Standard Library for your entire system.
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
@@ -5054,6 +5054,7 @@
 
 ## Python 
 
+- [jennis0/foundryvtt-utils](https://github.com/jennis0/foundryvtt-utils) - Collection of random scripts I use for FoundryVTT
 - [qilingframework/qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework
 - [Bigdrea6/winapi-ghidra](https://github.com/Bigdrea6/winapi-ghidra) - Make the Windows API in Ghidra easy to read and informative.
 - [aceisace/Inkycal](https://github.com/aceisace/Inkycal) - Inykcal is a software written in python for selected E-Paper displays. It converts these displays into useful information dashboards. It's open-source, free for personal use, fully modular and user-friendly. Despite all this, Inkycal can run well even on the Raspberry Pi Zero W. Oh, and it's open for third-party modules! Hooray!
