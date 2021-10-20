@@ -91,6 +91,7 @@
   - [Python](#python)
   - [Q#](#q#)
   - [QML](#qml)
+  - [QMake](#qmake)
   - [R](#r)
   - [Racket](#racket)
   - [Raku](#raku)
@@ -1605,7 +1606,7 @@
 - [creativetimofficial/paper-dashboard](https://github.com/creativetimofficial/paper-dashboard) - Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.
 - [petrk94/ownhealthrecord](https://github.com/petrk94/ownhealthrecord) - This repository is about the OwnHealthRecord Application Web App
 - [sharecuts/website](https://github.com/sharecuts/website) - A public repository of shortcuts for the Shortcuts app
-- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 4 Material Design Admin
+- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [NocturnalSolutions/Wastebin](https://github.com/NocturnalSolutions/Wastebin) - A pastebin written in Swift with the Kitura framework.
 - [danielquinn/aletheia](https://github.com/danielquinn/aletheia) - Fight fake news with cryptography & human nature
 - [ios-factor/ios-factor.com](https://github.com/ios-factor/ios-factor.com) - A methodology for building high-quality iOS apps on a solid architecture
@@ -3683,7 +3684,7 @@
 - [septadev/SEPTA-iOS](https://github.com/septadev/SEPTA-iOS) - Source Code for the SEPTA iOS App
 - [open-power/op-build](https://github.com/open-power/op-build) - Buildroot overlay for Open Power
 - [htruong/hackable-consumer-hardware](https://github.com/htruong/hackable-consumer-hardware) - List of hackable consumer hardware products
-- [cirosantilli/arm-assembly-cheat](https://github.com/cirosantilli/arm-assembly-cheat) - MOVED TO: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly SEE README. ARMv7 and ARMv8 assembly userland minimal examples tutorial. Runnable asserts on x86 hosts with QEMU user mode or natively on ARM targets. Nice GDB step debug setup. Tested on Ubuntu 18.04 host and Raspberry Pi 2 and 3 targets.
+- [cirosantilli/arm-assembly-cheat](https://github.com/cirosantilli/arm-assembly-cheat) - MOVED TO: https://cirosantilli.com/linux-kernel-module-cheat/userland-assembly with code at https://github.com/cirosantilli/linux-kernel-module-cheat/tree/master/userland/arch/arm SEE README. ARMv7 and ARMv8 assembly userland minimal examples tutorial. Runnable asserts on x86 hosts with QEMU user mode or natively on ARM targets. Nice GDB step debug setup. Tested on Ubuntu 18.04 host and Raspberry Pi 2 and 3 targets.
 - [pointfreeco/swift-playground-templates](https://github.com/pointfreeco/swift-playground-templates) - 🏫 A collection of helpful Xcode playground templates.
 - [klaaspieter/chxcode](https://github.com/klaaspieter/chxcode) - Changes the current Xcode
 - [libretro/Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.
@@ -5860,6 +5861,10 @@
 - [cutiepi-io/cutiepi-shell](https://github.com/cutiepi-io/cutiepi-shell) - A mobile shell for Raspberry Pi OS
 - [Yubico/yubikey-manager-qt](https://github.com/Yubico/yubikey-manager-qt) - Cross-platform application for configuring any YubiKey over all USB interfaces.
 
+## QMake 
+
+- [horsicq/xntsv](https://github.com/horsicq/xntsv) - XNTSV program for detailed viewing of system structures  for Windows.
+
 ## R 
 
 - [dietrichson/ProPublicaR](https://github.com/dietrichson/ProPublicaR) - R Functions to Interact with the ProPublica APIs
@@ -6788,7 +6793,7 @@
 - [cowboy/dotfiles](https://github.com/cowboy/dotfiles) - My Ubuntu / OS X dotfiles.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 
 ## Smarty 
@@ -8166,7 +8171,7 @@
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [ephread/ink-language-server](https://github.com/ephread/ink-language-server) - A language server for inkle's Ink.
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
-- [Snowtrack/snowfs](https://github.com/Snowtrack/snowfs) - SnowFS - a fast, scalable version control file storage for graphic files :art:
+- [snowtrack/snowfs](https://github.com/snowtrack/snowfs) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [cynicaloptimist/improved-initiative](https://github.com/cynicaloptimist/improved-initiative) - Combat tracker for Dungeons and Dragons (D&D) 5th Edition
 - [curvenote/editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux - by Curvenote.
 - [espressif/vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) - Visual Studio Code extension for ESP-IDF projects
