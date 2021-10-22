@@ -228,7 +228,7 @@
 - [asterisk/asterisk](https://github.com/asterisk/asterisk) - Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit:
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero Firmware
 - [skvadrik/re2c](https://github.com/skvadrik/re2c) - Lexer generator for C, C++ and Go.
-- [grassator/mass](https://github.com/grassator/mass) - A compiler for a macro-oriented language that compiles straight to x86_64 binaries (no LLVM, no linker).
+- [grassator/mass](https://github.com/grassator/mass) - A compiler for a new language focusing on compile-time execution and no LLVM dependency.
 - [mdbtools/mdbtools](https://github.com/mdbtools/mdbtools) - MDB Tools - Read Access databases on *nix
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password.
@@ -2699,7 +2699,6 @@
 - [apple/swift-docc-render](https://github.com/apple/swift-docc-render) - Web renderer for Swift-DocC documentation.
 - [jc21/nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [Mikhus/canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
-- [kishikawakatsumi/xcresulttool-js](https://github.com/kishikawakatsumi/xcresulttool-js) - view Xcode result bundle data in a human-readable format.
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [maxogden/xml-json](https://github.com/maxogden/xml-json) - convert xml to json on the command line. not streaming, pure javascript
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Feature flagging and remote config service. Host yourself or use our hosted version at https://flagsmith.com/
@@ -5463,7 +5462,7 @@
 - [samdmarshall/nslocalizer](https://github.com/samdmarshall/nslocalizer) - A tool for finding missing and unused NSLocalizedStrings
 - [macports/macports-gsoc2018-webapp](https://github.com/macports/macports-gsoc2018-webapp) - MacPorts GSoC 2018: WebApp
 - [aaronpenne/get_noaa_ghcn_data](https://github.com/aaronpenne/get_noaa_ghcn_data) - A tool to interface with and download Global Historical Climatology Network (GHCN) data into easily readable CSVs.
-- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 CLI providing unifying interface to all package managers
+- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 one CLI for all package managers
 - [wdas/reposado](https://github.com/wdas/reposado) - Host Apple Software Updates on the hardware and OS of your choice.
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [danieldaeschle/swapy](https://github.com/danieldaeschle/swapy) - Easy and modular web development
@@ -6683,7 +6682,7 @@
 - [PlanetAPL/APLkeyboard](https://github.com/PlanetAPL/APLkeyboard) - 
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [cytoscape/cytoscape](https://github.com/cytoscape/cytoscape) - Cytoscape: an open source platform for network analysis and visualization
-- [armbian/build](https://github.com/armbian/build) - Armbian Linux build tools
+- [armbian/build](https://github.com/armbian/build) - Armbian Linux build framework
 - [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [aaossa/git-gud](https://github.com/aaossa/git-gud) - A simple git commit checker
 - [nuket/provision-osx](https://github.com/nuket/provision-osx) - Batch files to provision OS X as a virtual machine host and manage those VMs.
@@ -8154,7 +8153,7 @@
 - [ephread/vscode-ink](https://github.com/ephread/vscode-ink) - Ink support for VS Code
 - [elliotherriman/vscode-ink](https://github.com/elliotherriman/vscode-ink) - Adds support for ink to Visual Studio Code.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript.
 - [mxcl/xcodebuild](https://github.com/mxcl/xcodebuild) - A continuously resilient `xcodebuild` action. Also it’s the best.
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 - [davidar/pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
@@ -8383,7 +8382,7 @@
 - [SymbiFlow/symbiflow-examples](https://github.com/SymbiFlow/symbiflow-examples) - Example designs showing different ways to use SymbiFlow toolchains.
 - [FPGA-Research-Manchester/FABulous](https://github.com/FPGA-Research-Manchester/FABulous) - Fabric generator and CAD tools
 - [FPGA-Research-Manchester/FABulous-Sky---a-heterogeneous-FPGA-fabric-in-Skywater130](https://github.com/FPGA-Research-Manchester/FABulous-Sky---a-heterogeneous-FPGA-fabric-in-Skywater130) - https://caravel-user-project.readthedocs.io
-- [efabless/OpenLane](https://github.com/efabless/OpenLane) - NOTE: The master branch is frozen for OpenMPW2. Please direct any PRs to the develop branch. :: OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
+- [efabless/OpenLane](https://github.com/efabless/OpenLane) - This repo is a fork of the master OpenLANE repo for us with projects submitted on Efabless Open MPW or chipIfnite shuttles:: OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
 - [ultraembedded/core_uriscv](https://github.com/ultraembedded/core_uriscv) - Another tiny RISC-V implementation
 - [schlae/graphics-gremlin](https://github.com/schlae/graphics-gremlin) - Open source retro ISA video card
 - [esa-tu-darmstadt/tapasco](https://github.com/esa-tu-darmstadt/tapasco) - The Task Parallel System Composer (TaPaSCo)
