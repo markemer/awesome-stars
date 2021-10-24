@@ -892,6 +892,7 @@
 
 ## C# # 
 
+- [gabbyh/MEHeadMorphExporter](https://github.com/gabbyh/MEHeadMorphExporter) - A tool to export NPC headmorph for Mass effect trilogy (requires ME3Explorer to work)
 - [TheFuseLab/VL.Fuse](https://github.com/TheFuseLab/VL.Fuse) - A library for visually programming on the GPU, built to enable rapid workflows and modular approaches to accelerated graphics, logic and computation.
 - [GoogleCloudPlatform/iap-desktop](https://github.com/GoogleCloudPlatform/iap-desktop) - IAP Desktop is a Windows application that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud.
 - [Deweh/CyberCAT](https://github.com/Deweh/CyberCAT) - CyberPunk 2077 Customization Assistant Tool. Work in progress Savegame editor.
@@ -1848,6 +1849,7 @@
 
 ## Go 
 
+- [lmorg/murex](https://github.com/lmorg/murex) - Bash-like $SHELL designed for greater commandline productivity and safer shell scripts
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
 - [sfomuseum/go-libraryofcongress](https://github.com/sfomuseum/go-libraryofcongress) - Go package providing tools for working with Library of Congress data.
 - [benjojo/hot-clone](https://github.com/benjojo/hot-clone) - Progressively image a mounted disk correctly without corruption
@@ -6280,6 +6282,8 @@
 
 ## Rust 
 
+- [juan-leon/lowcharts](https://github.com/juan-leon/lowcharts) - Tool to draw low-resolution graphs in terminal
+- [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [tree-sitter/tree-sitter-graph](https://github.com/tree-sitter/tree-sitter-graph) - Construct graphs from parsed source code
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
@@ -6938,7 +6942,7 @@
 - [magesteve/CocoaGrimoire](https://github.com/magesteve/CocoaGrimoire) - A Macintosh example program using the various SpellBook swift package published by the author.
 - [Minitour/AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 4.2
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
-- [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
+- [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - A lightweight and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
 - [wlisac/environment](https://github.com/wlisac/environment) - Type-safe environment variables in Swift.
 - [icanzilb/Cancellor](https://github.com/icanzilb/Cancellor) - Bind multiple cancellables to the lifetime of another object like a view controller.
 - [SwiftyBeaver/SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient & secure logging during development & release in Swift 3, 4 & 5
