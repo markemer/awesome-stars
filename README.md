@@ -2125,7 +2125,7 @@
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) - Datadog Agent
 - [billputer/go-namecheap](https://github.com/billputer/go-namecheap) - A Go library for using the Namecheap API
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a pure-Go userland for your Raspberry Pi 3 or 4 appliances
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [vancluever/terraform-provider-acme-old](https://github.com/vancluever/terraform-provider-acme-old) - ACME (Let's Encrypt) Support for Terraform
@@ -8147,7 +8147,7 @@
 
 ## TypeScript 
 
-- [kishikawakatsumi/xcresulttool](https://github.com/kishikawakatsumi/xcresulttool) - view Xcode result bundle data in a human-readable format on GitHub Checks.
+- [kishikawakatsumi/xcresulttool](https://github.com/kishikawakatsumi/xcresulttool) - A GitHub Action that generates a human-readable test report from the Xcode result bundle and shows it on GitHub Checks.
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [ekzhang/composing.studio](https://github.com/ekzhang/composing.studio) - Collaborative music composition for everyone.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
