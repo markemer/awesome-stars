@@ -2490,7 +2490,7 @@
 - [Galeas/CocoaPodUI](https://github.com/Galeas/CocoaPodUI) - XCode plugin that implements CocoaPods GUI.
 - [mapbox/mapbox.js](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin
 - [kni-labs/rrssb](https://github.com/kni-labs/rrssb) - :arrow_right_hook: Ridiculously Responsive Social Sharing Buttons
-- [KiCad/kicad-library](https://github.com/KiCad/kicad-library) - The schematic and 3D libraries for KiCad 4.0.  Note that the footprint libraries are the *.pretty repos themselves. This is an orphaned repo, the news about the v5 libs, http://kicad-pcb.org/post/kicad-official-libraries/.
+- [KiCad/kicad-library](https://github.com/KiCad/kicad-library) - The schematic and 3D libraries for KiCad 4.0.  Note that the footprint libraries are the *.pretty repos themselves. This is an orphaned repo, the news about the v5 libs, http://kicad.org/post/kicad-official-libraries/.
 - [scotthmurray/d3-book](https://github.com/scotthmurray/d3-book) - Code examples for “Interactive Data Visualization for the Web”
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [umbrae/jsonlintdotcom](https://github.com/umbrae/jsonlintdotcom) - Source code for jsonlint.com
@@ -3076,7 +3076,7 @@
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [xtina-starr/pull-lock](https://github.com/xtina-starr/pull-lock) - 
-- [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [brrd/abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
 - [regl-project/regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
 - [yoshimkd/swift-auto-diagram](https://github.com/yoshimkd/swift-auto-diagram) - A Ruby script that scans all swift code from the specified folders and files and automatically generates an entity diagram (similar to a class diagram) which can be viewed in a browser.
@@ -3510,7 +3510,7 @@
 
 ## Julia 
 
-- [fonsp/PlutoUI.jl](https://github.com/fonsp/PlutoUI.jl) - 
+- [JuliaPluto/PlutoUI.jl](https://github.com/JuliaPluto/PlutoUI.jl) - 
 - [microsoft/OpticSim.jl](https://github.com/microsoft/OpticSim.jl) - Optical Simulation software
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [JuliaML/MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) - Utility package for accessing common Machine Learning datasets in Julia
@@ -5033,7 +5033,7 @@
 - [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 and Windows 11 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 & 11 security and privacy script!
 - [microsoft/GDK](https://github.com/microsoft/GDK) - Microsoft Public GDK
-- [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
+- [ScoopInstaller/scoop](https://github.com/ScoopInstaller/scoop) - A command-line installer for Windows.
 - [majkinetor/posh](https://github.com/majkinetor/posh) - Powershell modules and functions by majkinetor
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [fulgerul/nvidia-kvm-patcher](https://github.com/fulgerul/nvidia-kvm-patcher) - Fixes "Bug" in Nvidia Driver preventing "Unsupported Configurations" from being used on KVM
@@ -5206,7 +5206,7 @@
 - [astropy/astroquery](https://github.com/astropy/astroquery) - Functions and classes to access online data resources. Maintainers: @keflavich and @bsipocz and @ceb8
 - [abhishekkr/gmail-helper](https://github.com/abhishekkr/gmail-helper) - it will contain different utilities for GMail API over OAuth2
 - [mathandy/svgpathtools](https://github.com/mathandy/svgpathtools) - A collection of tools for manipulating and analyzing SVG Path objects and Bezier curves.
-- [SchrodingersGat/KiBoM](https://github.com/SchrodingersGat/KiBoM) - Configurable BoM generation tool for KiCad EDA (http://kicad-pcb.org/)
+- [SchrodingersGat/KiBoM](https://github.com/SchrodingersGat/KiBoM) - Configurable BoM generation tool for KiCad EDA (http://kicad.org/)
 - [alexisvl/kicad-schlib](https://github.com/alexisvl/kicad-schlib) - Alternative KiCad schematic library
 - [alexisvl/kicad-pcblib](https://github.com/alexisvl/kicad-pcblib) - Generate KiCad libraries from the FreePCB IPC libraries
 - [keybase/django-keybase-proofs](https://github.com/keybase/django-keybase-proofs) - Reference implementation and drop in library for keybase proof integration
@@ -5917,6 +5917,7 @@
 
 ## Ruby 
 
+- [lyndsey-ferguson/fastlane-plugin-test_center](https://github.com/lyndsey-ferguson/fastlane-plugin-test_center) - 🎯 The best fastlane plugin to understand and tame misbehaving iOS tests 🎉
 - [laurentc2/SKY130_for_KLayout](https://github.com/laurentc2/SKY130_for_KLayout) - KLayout technology files for Skywater SKY130
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [jfelchner/ruby-progressbar](https://github.com/jfelchner/ruby-progressbar) - Ruby/ProgressBar is a text progress bar library for Ruby.
@@ -6841,6 +6842,8 @@
 
 ## Swift 
 
+- [heestand-xyz/TextureMap](https://github.com/heestand-xyz/TextureMap) - Map textures in different formats like UIImage, NSImage, CGImage, CIImage and MTLTexture
+- [yonaskolb/Genesis](https://github.com/yonaskolb/Genesis) - Templating, scaffolding and generation tool
 - [steventroughtonsmith/catalystgridapp](https://github.com/steventroughtonsmith/catalystgridapp) - Grid-based app for macOS Catalyst (Mac Idiom) with navigation stack
 - [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [apple/swift-experimental-string-processing](https://github.com/apple/swift-experimental-string-processing) - An early experimental general-purpose pattern matching engine for Swift.
@@ -8388,7 +8391,7 @@
 - [SymbiFlow/symbiflow-examples](https://github.com/SymbiFlow/symbiflow-examples) - Example designs showing different ways to use SymbiFlow toolchains.
 - [FPGA-Research-Manchester/FABulous](https://github.com/FPGA-Research-Manchester/FABulous) - Fabric generator and CAD tools
 - [FPGA-Research-Manchester/FABulous-Sky---a-heterogeneous-FPGA-fabric-in-Skywater130](https://github.com/FPGA-Research-Manchester/FABulous-Sky---a-heterogeneous-FPGA-fabric-in-Skywater130) - https://caravel-user-project.readthedocs.io
-- [efabless/OpenLane](https://github.com/efabless/OpenLane) - This repo is a fork of the master OpenLANE repo for us with projects submitted on Efabless Open MPW or chipIfnite shuttles:: OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
+- [efabless/OpenLane](https://github.com/efabless/OpenLane) - This repo is a fork of the master OpenLANE repo for us with projects submitted on Efabless Open MPW or chipIgnite shuttles:: OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
 - [ultraembedded/core_uriscv](https://github.com/ultraembedded/core_uriscv) - Another tiny RISC-V implementation
 - [schlae/graphics-gremlin](https://github.com/schlae/graphics-gremlin) - Open source retro ISA video card
 - [esa-tu-darmstadt/tapasco](https://github.com/esa-tu-darmstadt/tapasco) - The Task Parallel System Composer (TaPaSCo)
