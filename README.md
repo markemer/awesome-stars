@@ -217,6 +217,8 @@
 
 ## C 
 
+- [jedisct1/libhydrogen](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments.
+- [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines based on PCem.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [AsahiLinux/gpu](https://github.com/AsahiLinux/gpu) - Dissecting the M1's GPU for 3D acceleration
@@ -1849,6 +1851,8 @@
 
 ## Go 
 
+- [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
+- [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [lmorg/murex](https://github.com/lmorg/murex) - Bash-like $SHELL designed for greater commandline productivity and safer shell scripts
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
 - [sfomuseum/go-libraryofcongress](https://github.com/sfomuseum/go-libraryofcongress) - Go package providing tools for working with Library of Congress data.
@@ -2928,7 +2932,7 @@
 - [hgraph-os/hGraph](https://github.com/hgraph-os/hGraph) - hGraph is an open source javascript library for visualizing health data.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [vkbansal/react-contextmenu](https://github.com/vkbansal/react-contextmenu) - Project is no longer maintained
-- [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
+- [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vladocar/screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
 - [wonderunit/characterizer](https://github.com/wonderunit/characterizer) - The best app to train character values and generate conflicts, dilemmas, and common ground between characters.
@@ -3363,7 +3367,7 @@
 - [zaach/jison](https://github.com/zaach/jison) - Bison in JavaScript.
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [whiteout-io/mail](https://github.com/whiteout-io/mail) - [ABANDONED] Mail App with integrated OpenPGP encryption
-- [hsw107/Photoshop-Export-Layers-to-Files-Fast](https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast) - This script allows you to export your layers as individual files at a speed much faster than the built-in script from adobe.
+- [hsw107/Photoshop-Export-Layers-to-Files-Fast](https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast) - This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
@@ -3598,6 +3602,8 @@
 
 ## Kotlin 
 
+- [h0tk3y/better-parse](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
+- [Thomvis/better-parse](https://github.com/Thomvis/better-parse) - A nice parser combinator library for Kotlin
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [awslabs/smithy-swift](https://github.com/awslabs/smithy-swift) - 
 - [jpd236/kotwords](https://github.com/jpd236/kotwords) - Collection of crossword puzzle file format converters and other utilities, written in Kotlin.
@@ -5033,7 +5039,7 @@
 - [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 and Windows 11 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 & 11 security and privacy script!
 - [microsoft/GDK](https://github.com/microsoft/GDK) - Microsoft Public GDK
-- [ScoopInstaller/scoop](https://github.com/ScoopInstaller/scoop) - A command-line installer for Windows.
+- [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [majkinetor/posh](https://github.com/majkinetor/posh) - Powershell modules and functions by majkinetor
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [fulgerul/nvidia-kvm-patcher](https://github.com/fulgerul/nvidia-kvm-patcher) - Fixes "Bug" in Nvidia Driver preventing "Unsupported Configurations" from being used on KVM
@@ -6283,6 +6289,9 @@
 
 ## Rust 
 
+- [anowell/promptly](https://github.com/anowell/promptly) - Simple, opinionated prompting library
+- [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
+- [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [juan-leon/lowcharts](https://github.com/juan-leon/lowcharts) - Tool to draw low-resolution graphs in terminal
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
@@ -7047,7 +7056,7 @@
 - [KhaosT/SimpleVM](https://github.com/KhaosT/SimpleVM) - Sample code for Virtualization framework
 - [erickjung/SwiftGUI](https://github.com/erickjung/SwiftGUI) - SwiftGUI is an API inspired by SwiftUI DSL, using Dear ImGui as renderer and running on macOS 10.13+ and iOS 11+
 - [piknotech/SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
-- [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - 📅 Calendar for iOS, iPadOS and macOS in Swift
+- [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - 📅 Calendar for Apple platforms in Swift
 - [tuist/tuist](https://github.com/tuist/tuist) - 🚀 Create, maintain, and interact with Xcode projects at scale
 - [swift-server/swift-service-lifecycle](https://github.com/swift-server/swift-service-lifecycle) - Cleanly startup and shutdown server application, freeing resources in order before exiting.
 - [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
@@ -8150,6 +8159,7 @@
 
 ## TypeScript 
 
+- [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [kishikawakatsumi/xcresulttool](https://github.com/kishikawakatsumi/xcresulttool) - A GitHub Action that generates a human-readable test report from the Xcode result bundle and shows it on GitHub Checks.
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [ekzhang/composing.studio](https://github.com/ekzhang/composing.studio) - Collaborative music composition for everyone.
