@@ -460,7 +460,6 @@
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
 - [westes/flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
 - [rmagick/rmagick](https://github.com/rmagick/rmagick) - Ruby bindings for ImageMagick
-- [Alia5/GlosSI](https://github.com/Alia5/GlosSI) - Tool for using Steam-Input controller rebinding at a system level alongside a global overlay
 - [facebook/fishhook](https://github.com/facebook/fishhook) - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
 - [openxc/openxc-message-format](https://github.com/openxc/openxc-message-format) - Specification for the OpenXC JSON message format
 - [holzschu/ios_system](https://github.com/holzschu/ios_system) - Drop-in replacement for system() in iOS programs
@@ -1217,6 +1216,7 @@
 - [lsegal/my_toy_compiler](https://github.com/lsegal/my_toy_compiler) - My Toy Compiler. Read about how I did it at the homepage URL
 - [jonathan-beard/simple_wc_example](https://github.com/jonathan-beard/simple_wc_example) - simple word count example using flex/bison parser
 - [emaculation/macemu](https://github.com/emaculation/macemu) - Basilisk II and SheepShaver Macintosh emulators, maintained
+- [Alia5/GlosSI](https://github.com/Alia5/GlosSI) - Tool for using Steam-Input controller rebinding at a system level alongside a global overlay
 - [google/sandboxed-api](https://github.com/google/sandboxed-api) - Generates sandboxes for C/C++ libraries automatically
 - [DeanRoddey/CIDLib](https://github.com/DeanRoddey/CIDLib) - The CIDLib general purpose C++ development environment
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
@@ -6564,6 +6564,7 @@
 
 ## Shell 
 
+- [kaleidoscope-app/man-diff](https://github.com/kaleidoscope-app/man-diff) - Compare man pages between macOS Big Sur and macOS Monterey
 - [Frogging-Family/wine-tkg-git](https://github.com/Frogging-Family/wine-tkg-git) - The wine-tkg build systems, to create custom Wine and Proton builds
 - [Walkman100/OpenRA-Install-Guide](https://github.com/Walkman100/OpenRA-Install-Guide) - A complete installation guide including the music missing from the OpenRA Dune 2000 mod
 - [rfbproto/rfbproto](https://github.com/rfbproto/rfbproto) - 
@@ -6649,7 +6650,6 @@
 - [adamisntdead/DevMyMac](https://github.com/adamisntdead/DevMyMac) - ✨ ✨ A Simple Tool To Setup A Mac for Development✨✨
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [sourcegraph/deploy-sourcegraph](https://github.com/sourcegraph/deploy-sourcegraph) - Deploy Sourcegraph to a Kubernetes cluster for large-scale code search and intelligence
-- [zdharma/fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
 - [freeipa/freeipa-letsencrypt](https://github.com/freeipa/freeipa-letsencrypt) - A quick hack allowing to use Let's Encrypt certificates for FreeIPA web interface.
 - [antevens/letsencrypt-freeipa](https://github.com/antevens/letsencrypt-freeipa) - Scripts to automate installation, configuration and renewal of LetsEncrypt certificates on FreeIPA Servers.
 - [hypriot/flash](https://github.com/hypriot/flash) - Command line script to flash SD card images of any kind
