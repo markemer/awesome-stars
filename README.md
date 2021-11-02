@@ -1190,7 +1190,7 @@
 - [pqrs-org/cpp-osx-launchctl](https://github.com/pqrs-org/cpp-osx-launchctl) - 
 - [macmade/unicorn-bios](https://github.com/macmade/unicorn-bios) - Basic BIOS emulator for Unicorn Engine.
 - [KarthikRIyer/swiftplot](https://github.com/KarthikRIyer/swiftplot) - Swift library for Data Visualization :bar_chart:
-- [rlguy/Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) - FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender, the free and open source 3D creation suite.
+- [rlguy/Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) - The FLIP Fluids addon is a tool that helps you set up, run, and render high quality liquid fluid effects all within Blender, the free and open source 3D creation suite.
 - [jmroot/UnRarX](https://github.com/jmroot/UnRarX) - 
 - [starkgate/TextureMapper](https://github.com/starkgate/TextureMapper) - This program is intended to facilitate modding of the Mass Effect trilogy (ME1, ME2, ME3). C++, Qt5, SQLite.
 - [MassEffectModder/MassEffectModder](https://github.com/MassEffectModder/MassEffectModder) - Mass Effect Modder (MEM)
@@ -1283,7 +1283,6 @@
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 - [DavidColson/UnrealInk](https://github.com/DavidColson/UnrealInk) - Integration of the Ink language into Unreal 4 (https://github.com/inkle/ink)
-- [mrbandler/InkUE4Integration](https://github.com/mrbandler/InkUE4Integration) - Port from the Unity ink integration (https://github.com/inkle/ink-unity-integration) for Unreal Engine 4.
 - [kelvin13/atomic-blonde](https://github.com/kelvin13/atomic-blonde) - SourceKit-based syntax highlighting for the Swift language
 - [Polidea/SiriusObfuscator](https://github.com/Polidea/SiriusObfuscator) - 
 - [NVIDIA/MDL-SDK](https://github.com/NVIDIA/MDL-SDK) - NVIDIA Material Definition Language SDK
@@ -4135,7 +4134,7 @@
 - [steipete/PSPDFTextView](https://github.com/steipete/PSPDFTextView) - A subclass of UITextView that fixes the most glaring problems from iOS 7 and 7.1.
 - [iwasrobbed/RPFloatingPlaceholders](https://github.com/iwasrobbed/RPFloatingPlaceholders) - UITextField and UITextView subclasses with placeholders that change into floating labels when the fields are populated with text.
 - [mdiep/MMMarkdown](https://github.com/mdiep/MMMarkdown) - An Objective-C framework for converting Markdown to HTML.
-- [twitter/CocoaSPDY](https://github.com/twitter/CocoaSPDY) - SPDY for iOS and OS X
+- [twitter-archive/CocoaSPDY](https://github.com/twitter-archive/CocoaSPDY) - SPDY for iOS and OS X
 - [nrj/StretchyHeaderCollectionViewLayout](https://github.com/nrj/StretchyHeaderCollectionViewLayout) - Custom UICollectionView layout with a stretchy header.
 - [amazon-archives/aws-sdk-ios-v1](https://github.com/amazon-archives/aws-sdk-ios-v1) - ARCHIVED: Version 1 of the AWS SDK for iOS
 - [bryceredd/RFQuiltLayout](https://github.com/bryceredd/RFQuiltLayout) - A UICollectionViewLayout subclass to put items in a quilting pattern
