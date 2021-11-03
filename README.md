@@ -913,6 +913,7 @@
 - [ME3Tweaks/LegendaryExplorer](https://github.com/ME3Tweaks/LegendaryExplorer) - Editor toolset for Mass Effect Trilogy and Mass Effect Legendary Edition
 - [akintos/SkylessDump](https://github.com/akintos/SkylessDump) - Sunless Skies data export/import tool
 - [microsoft/scalar](https://github.com/microsoft/scalar) - Scalar: A set of tools and extensions for Git to allow very large monorepos to run on Git without a virtualization layer
+- [microsoft/Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
 - [WolvenKit/CP77Tools](https://github.com/WolvenKit/CP77Tools) - Cyberpunk2077 archive modding tools.
 - [WolvenKit/WolvenKit](https://github.com/WolvenKit/WolvenKit) - Mod editor/creator for RED Engine games. The point is to have an all in one tool for creating mods for the games made with the engine.
@@ -2464,7 +2465,6 @@
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [notwaldorf/literally](https://github.com/notwaldorf/literally) - 🎞🎀 Literally another slide making thingie.
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
-- [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [unitedstates/congress-votes-servo](https://github.com/unitedstates/congress-votes-servo) - Tracking changes to the official U.S. House and Senate roll call votes XML data files. Monitored hourly-ish by @GovTrack/@JoshData.
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
@@ -2704,6 +2704,7 @@
 
 ## JavaScript 
 
+- [GoogleChromeLabs/picture-in-picture-chrome-extension](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension) - 
 - [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
 - [colinccook/cv](https://github.com/colinccook/cv) - An XML/XSLT-based CV/Curriculum vitae/Resume
 - [apple/swift-docc-render](https://github.com/apple/swift-docc-render) - Web renderer for Swift-DocC documentation.
@@ -4376,7 +4377,6 @@
 - [MobileNativeFoundation/discussions](https://github.com/MobileNativeFoundation/discussions) - Discussions about projects, technologies, and processes around building large-scale mobile apps
 - [carson-katri/awesome-result-builders](https://github.com/carson-katri/awesome-result-builders) - A list of cool DSLs made with Swift 5.4’s @resultBuilder
 - [Wren6991/Pi400-Pico-Plate](https://github.com/Wren6991/Pi400-Pico-Plate) - 
-- [microsoft/Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
 - [mwgg/Airports](https://github.com/mwgg/Airports) - A JSON database of 28k+ airports with ICAO/IATA codes, names, cities, two-letter country identifiers, elevation, latitude & longitude, and a timezone identifier
 - [Redherring32/NullCIC](https://github.com/Redherring32/NullCIC) - A little board to replace the CIC on the original NES or OpenTendo.
 - [Redherring32/OpenTendo](https://github.com/Redherring32/OpenTendo) - An Open-Source HardWare (OSHW) recreation of the original 1985 front-loading NES Motherboard
@@ -4783,6 +4783,7 @@
 - [slackhq/slack-api-docs](https://github.com/slackhq/slack-api-docs) - API Docs for Slack.com
 - [hypotext/notation](https://github.com/hypotext/notation) - Collection of quotes on notation design & how it affects thought.
 - [jiahao/backus-dijkstra-letters-1979](https://github.com/jiahao/backus-dijkstra-letters-1979) - Images and text transcripts of the correspondence between John Backus and Edsger Dijkstra, 1978-1979. Ref: https://medium.com/@acidflask/this-guys-arrogance-takes-your-breath-away-5b903624ca5f#.j6x6ppjc8 https://news.ycombinator.com/item?id=11796557
+- [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [uhub/awesome-c](https://github.com/uhub/awesome-c) - A curated list of awesome C frameworks, libraries and software.
 - [mdo/jekyll-snippets](https://github.com/mdo/jekyll-snippets) - Library of commonly used snippets for Jekyll sites.
 - [marciok/CRuby](https://github.com/marciok/CRuby) - ruby.h on Swift.
@@ -5070,6 +5071,7 @@
 
 ## Python 
 
+- [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
 - [jennis0/foundryvtt-utils](https://github.com/jennis0/foundryvtt-utils) - Collection of random scripts I use for FoundryVTT
 - [qilingframework/qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework
@@ -5699,7 +5701,7 @@
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [cmdln/flashbake](https://github.com/cmdln/flashbake) - Scripts to gather information for including in version history comments and to make using source control a bit simpler for non-technical projects.
 - [googlefonts/fontbakery](https://github.com/googlefonts/fontbakery) - Font quality assurance tool written in Python 3.
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
@@ -5925,6 +5927,7 @@
 
 ## Ruby 
 
+- [primer/view_components](https://github.com/primer/view_components) - ViewComponents for the Primer Design System
 - [lyndsey-ferguson/fastlane-plugin-test_center](https://github.com/lyndsey-ferguson/fastlane-plugin-test_center) - 🎯 The best fastlane plugin to understand and tame misbehaving iOS tests 🎉
 - [laurentc2/SKY130_for_KLayout](https://github.com/laurentc2/SKY130_for_KLayout) - KLayout technology files for Skywater SKY130
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
