@@ -870,8 +870,8 @@
 - [ROSS-org/ROSS](https://github.com/ROSS-org/ROSS) - Rensselaer's Optimistic Simulation System
 - [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
 - [gonsie/ROSS-Legacy-Template](https://github.com/gonsie/ROSS-Legacy-Template) - This is a template for a generic ROSS model
-- [mozilla-b2g/valgrind](https://github.com/mozilla-b2g/valgrind) - git-svn copy of the valgrind subversion repo. Firefox OS specific patches applied in "fxos" branch.
-- [mozilla-b2g/vex](https://github.com/mozilla-b2g/vex) - Mirror of VEX valgrind library repository
+- [mozilla-b2g/valgrind](https://github.com/mozilla-b2g/valgrind) - DEPRECATED - git-svn copy of the valgrind subversion repo. Firefox OS specific patches applied in "fxos" branch.
+- [mozilla-b2g/vex](https://github.com/mozilla-b2g/vex) - DEPRECATED - Mirror of VEX valgrind library repository
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
 - [hexbright/samples](https://github.com/hexbright/samples) - Demo Code for HexBright
 - [gdbinit/ExtractMachO](https://github.com/gdbinit/ExtractMachO) - IDA plugin to extract Mach-O binaries located in the disassembly or data
@@ -1289,7 +1289,7 @@
 - [NVIDIA/MDL-SDK](https://github.com/NVIDIA/MDL-SDK) - NVIDIA Material Definition Language SDK
 - [gildor2/ActorX](https://github.com/gildor2/ActorX) - Epic Games ActorX plugin source code
 - [Harrison1/unrealcpp](https://github.com/Harrison1/unrealcpp) - Unreal Engine 4 C++ examples
-- [sideeffects/HoudiniEngineForUnreal](https://github.com/sideeffects/HoudiniEngineForUnreal) - Houdini Engine Plugin for Unreal Engine 4
+- [sideeffects/HoudiniEngineForUnreal](https://github.com/sideeffects/HoudiniEngineForUnreal) - Houdini Engine Plugin for Unreal Engine.
 - [SRombauts/UE4GitPlugin](https://github.com/SRombauts/UE4GitPlugin) - Unreal Engine 4 Git LFS 2 Source Control Plugin (beta)
 - [ufna/VaRest](https://github.com/ufna/VaRest) - REST API plugin for Unreal Engine 4 - we love restfull backend and JSON communications!
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
@@ -4329,6 +4329,7 @@
 
 ## Others 
 
+- [steveftoth/fsecure](https://github.com/steveftoth/fsecure) - Projects and ideas for the fsecure device.
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - A collection of resources on FPGA devices and development in general
 - [ept/ddia-references](https://github.com/ept/ddia-references) - Literature references for “Designing Data-Intensive Applications”
 - [Ivaneres/BlenderSatAI](https://github.com/Ivaneres/BlenderSatAI) - Blender addon to generate better building models from satellite imagery.
@@ -5927,6 +5928,7 @@
 
 ## Ruby 
 
+- [jdee/settings-bundle](https://github.com/jdee/settings-bundle) - Fastlane plugin to update static settings in an iOS settings bundle
 - [primer/view_components](https://github.com/primer/view_components) - ViewComponents for the Primer Design System
 - [lyndsey-ferguson/fastlane-plugin-test_center](https://github.com/lyndsey-ferguson/fastlane-plugin-test_center) - 🎯 The best fastlane plugin to understand and tame misbehaving iOS tests 🎉
 - [laurentc2/SKY130_for_KLayout](https://github.com/laurentc2/SKY130_for_KLayout) - KLayout technology files for Skywater SKY130
@@ -6588,7 +6590,7 @@
 - [YoeDistro/yoe-distro](https://github.com/YoeDistro/yoe-distro) - Embedded Linux distribution optimized for product development (based on OE/Yocto)
 - [timwis/markdown-to-google-doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive
 - [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
-- [noqqlint/cfetch](https://github.com/noqqlint/cfetch) - A simple system information tool for Linux.
+- [clegargo/cfetch](https://github.com/clegargo/cfetch) - A simple system information tool for Linux.
 - [KosalaHerath/macos-installer-builder](https://github.com/KosalaHerath/macos-installer-builder) - Generate macOS installers for your applications and products from one command
 - [dslm4515/Musl-LFS](https://github.com/dslm4515/Musl-LFS) - Linux From Scratch using Musl as Libc
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le)
