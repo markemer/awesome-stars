@@ -3960,7 +3960,7 @@
 - [rsattar/Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
 - [thurn/DTXcodeUtils](https://github.com/thurn/DTXcodeUtils) - A utility library for writing Xcode plugins
 - [adlr/formulatepro](https://github.com/adlr/formulatepro) - Overlay text and graphics on PDF documents. Great for filling out forms.
-- [Tunnelblick/Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - The official Tunnelbick website is at https://tunnelblick.net; the official Tunnelblick GitHub repository is at https://github.com/Tunnelblick
+- [Tunnelblick/Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - The official Tunnelblick website is at https://tunnelblick.net; the official Tunnelblick GitHub repository is at https://github.com/Tunnelblick
 - [KosmicTask/Fragaria](https://github.com/KosmicTask/Fragaria) - Cocoa syntax highlighting text view
 - [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) - Plugin that adds CSS support to Sketch 3 for a faster design workflow.
 - [card-io/card.io-iOS-SDK](https://github.com/card-io/card.io-iOS-SDK) - card.io provides fast, easy credit card scanning in mobile apps
@@ -4329,6 +4329,7 @@
 
 ## Others 
 
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [steveftoth/fsecure](https://github.com/steveftoth/fsecure) - Projects and ideas for the fsecure device.
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - A collection of resources on FPGA devices and development in general
 - [ept/ddia-references](https://github.com/ept/ddia-references) - Literature references for “Designing Data-Intensive Applications”
@@ -5072,6 +5073,9 @@
 
 ## Python 
 
+- [formatc1702/WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
+- [jspricke/radicale-remind](https://github.com/jspricke/radicale-remind) - Radicale storage backends for Remind and Abook
+- [RTimothyEdwards/open_pdks](https://github.com/RTimothyEdwards/open_pdks) - PDK installer for open-source EDA tools and toolchains.  Distributed with a setup for the Google/SkyWater 130nm process.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
 - [jennis0/foundryvtt-utils](https://github.com/jennis0/foundryvtt-utils) - Collection of random scripts I use for FoundryVTT
@@ -5641,7 +5645,7 @@
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [tzwenn/PyOpenAirMirror](https://github.com/tzwenn/PyOpenAirMirror) - An open source AirPlay mirroring server in Python for iOS 6-8
 - [espes/Slave-in-the-Magic-Mirror](https://github.com/espes/Slave-in-the-Magic-Mirror) - Open source implementation of AirPlay Mirroring. WIP.
-- [dask/s3fs](https://github.com/dask/s3fs) - S3 Filesystem
+- [fsspec/s3fs](https://github.com/fsspec/s3fs) - S3 Filesystem
 - [kpreid/shinysdr](https://github.com/kpreid/shinysdr) - Software-defined radio receiver application built on GNU Radio with a web-based UI and plugins. In development, usable but incomplete. Compatible with RTL-SDR.
 - [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
@@ -6399,7 +6403,7 @@
 - [steveftoth/oxidize-core](https://github.com/steveftoth/oxidize-core) - Implementation of core unix utilities in rust
 - [robmikh/minesweeper-rs](https://github.com/robmikh/minesweeper-rs) - A port of robmikh/Minesweeper using windows-rs.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Windows SDK for Rust
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [d0iasm/rvemu-for-book](https://github.com/d0iasm/rvemu-for-book) - Reference implementation for the book "Writing a RISC-V Emulator in Rust".
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
@@ -6591,7 +6595,7 @@
 - [YoeDistro/yoe-distro](https://github.com/YoeDistro/yoe-distro) - Embedded Linux distribution optimized for product development (based on OE/Yocto)
 - [timwis/markdown-to-google-doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive
 - [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
-- [clegargo/cfetch](https://github.com/clegargo/cfetch) - A simple system information tool for Linux.
+- [cliegargo/cfetch](https://github.com/cliegargo/cfetch) - A simple system information tool for Linux.
 - [KosalaHerath/macos-installer-builder](https://github.com/KosalaHerath/macos-installer-builder) - Generate macOS installers for your applications and products from one command
 - [dslm4515/Musl-LFS](https://github.com/dslm4515/Musl-LFS) - Linux From Scratch using Musl as Libc
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le)
