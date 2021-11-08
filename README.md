@@ -1662,7 +1662,6 @@
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - config karabiner with ease
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 - [Orcpub/orcpub](https://github.com/Orcpub/orcpub) - Code for Dungeon Master's Vault Community Edition
 - [keybase/colorbase](https://github.com/keybase/colorbase) - Example proof service in Clojure - colors for everyone!
 - [fricas/fricas](https://github.com/fricas/fricas) - Official repository of the FriCAS computer algebra system
@@ -3636,6 +3635,7 @@
 
 ## Less 
 
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 - [UDOOboard/Bolt-Docs](https://github.com/UDOOboard/Bolt-Docs) - UDOO Bolt Documentation
 - [Dyalog/MiServer](https://github.com/Dyalog/MiServer) - MiServer- an APL-based web server - requires Dyalog APL available from http://www.dyalog.com
 - [Squarespace/wright-framework](https://github.com/Squarespace/wright-framework) - 
@@ -6573,6 +6573,7 @@
 
 ## Shell 
 
+- [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password Connect into your GitHub Actions jobs.
 - [kaleidoscope-app/man-diff](https://github.com/kaleidoscope-app/man-diff) - Compare man pages between macOS Big Sur and macOS Monterey
 - [Frogging-Family/wine-tkg-git](https://github.com/Frogging-Family/wine-tkg-git) - The wine-tkg build systems, to create custom Wine and Proton builds
 - [Walkman100/OpenRA-Install-Guide](https://github.com/Walkman100/OpenRA-Install-Guide) - A complete installation guide including the music missing from the OpenRA Dune 2000 mod
