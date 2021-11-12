@@ -1570,6 +1570,7 @@
 
 ## CMake 
 
+- [lifting-bits/sleigh](https://github.com/lifting-bits/sleigh) - CMake build for SLEIGH
 - [azonenberg/scopehal-waveforms-bridge](https://github.com/azonenberg/scopehal-waveforms-bridge) - Socket server to bridge from Digilent WaveForms SDK to libscopehal
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [KiCad/kicad-packages3D](https://github.com/KiCad/kicad-packages3D) - Official KiCad 3D model libraries for rendering and MCAD integration
@@ -2708,6 +2709,7 @@
 
 ## JavaScript 
 
+- [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.
 - [GoogleChromeLabs/picture-in-picture-chrome-extension](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension) - 
 - [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
 - [colinccook/cv](https://github.com/colinccook/cv) - An XML/XSLT-based CV/Curriculum vitae/Resume
@@ -6874,6 +6876,7 @@
 
 ## Swift 
 
+- [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
 - [JohnSundell/CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs.
 - [heestand-xyz/TextureMap](https://github.com/heestand-xyz/TextureMap) - Map textures in different formats like UIImage, NSImage, CGImage, CIImage and MTLTexture
 - [yonaskolb/Genesis](https://github.com/yonaskolb/Genesis) - Templating, scaffolding and generation tool
@@ -8183,6 +8186,7 @@
 
 ## TypeScript 
 
+- [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [kishikawakatsumi/xcresulttool](https://github.com/kishikawakatsumi/xcresulttool) - A GitHub Action that generates a human-readable test report from the Xcode result bundle and shows it on GitHub Checks.
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
@@ -8485,7 +8489,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [ThaumRystra/DiceCloud](https://github.com/ThaumRystra/DiceCloud) - D&D 5e digital character manager
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
