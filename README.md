@@ -217,6 +217,7 @@
 
 ## C 
 
+- [Ildaron/ironbci](https://github.com/Ildaron/ironbci) - Brain-Computer Interface, ADS1299 and STM32
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [jedisct1/libhydrogen](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments.
@@ -2713,6 +2714,7 @@
 
 ## JavaScript 
 
+- [luvolondon/fvtt-module-jitsiwebrtc](https://github.com/luvolondon/fvtt-module-jitsiwebrtc) - Jitsi WebRTC client for FVTT
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.
 - [GoogleChromeLabs/picture-in-picture-chrome-extension](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension) - 
 - [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
@@ -3547,6 +3549,7 @@
 
 ## Jupyter Notebook 
 
+- [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [freechipsproject/chisel-bootcamp](https://github.com/freechipsproject/chisel-bootcamp) - Generator Bootcamp Material: Learn Chisel the Right Way
 - [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
@@ -3631,7 +3634,7 @@
 - [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - Samples builds using the Gradle Kotlin DSL
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 - [JetBrains/kotlin-native](https://github.com/JetBrains/kotlin-native) - Kotlin/Native infrastructure
-- [android/android-studio-poet](https://github.com/android/android-studio-poet) - Generate large Android Studio projects
+- [android/android-studio-poet](https://github.com/android/android-studio-poet) - Large Android projects generator
 - [mutexkid/stockwatcher](https://github.com/mutexkid/stockwatcher) - code example for "Pragmatic Kotlin on Android"
 - [mutexkid/kotlin-newintent-experiment](https://github.com/mutexkid/kotlin-newintent-experiment) - 
 - [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App
@@ -5857,7 +5860,7 @@
 - [pebble/libpebble](https://github.com/pebble/libpebble) - Interact with your Pebble from any device
 - [jisaacks/GitGutter](https://github.com/jisaacks/GitGutter) - A Sublime Text 2/3 plugin to see git diff in gutter
 - [charleso/git-cc](https://github.com/charleso/git-cc) - Bridge for Git and Clearcase
-- [mathics/Mathics](https://github.com/mathics/Mathics) - This repository if for archival. Please see https://github.com/Mathics3/mathics-core
+- [mathics/Mathics](https://github.com/mathics/Mathics) - This repository is for archival. Please see https://github.com/Mathics3/mathics-core
 - [facebookarchive/fbconsole](https://github.com/facebookarchive/fbconsole) - A micro api client for writing scripts against the Facebook Graph API.
 - [davecranwell/inline-styler](https://github.com/davecranwell/inline-styler) - Creates HTML emails with maximal CSS compatibility by inlining external CSS files.
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
