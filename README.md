@@ -997,6 +997,7 @@
 
 ## C++ 
 
+- [FaqT0tum/Orbion_Space_Mouse](https://github.com/FaqT0tum/Orbion_Space_Mouse) - ORBION the OpenSource Space Mouse 3D
 - [CoatiSoftware/SourcetrailDB](https://github.com/CoatiSoftware/SourcetrailDB) - Library to export Sourcetrail compatible database files for writing custom indexers
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
 - [J-D-K/JKSV](https://github.com/J-D-K/JKSV) - JK's Save Manager Switch Edition
@@ -4343,6 +4344,8 @@
 
 ## Others 
 
+- [prismicio/awesome-prismic](https://github.com/prismicio/awesome-prismic) - A curated list of awesome things related to Prismic
+- [hollance/neural-engine](https://github.com/hollance/neural-engine) - Everything we actually know about the Apple Neural Engine (ANE)
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [steveftoth/fsecure](https://github.com/steveftoth/fsecure) - Projects and ideas for the fsecure device.
@@ -6137,7 +6140,7 @@
 - [phrase/phraseapp-ruby](https://github.com/phrase/phraseapp-ruby) - API Client to access Phrase API written in Ruby
 - [ariejan/firefly](https://github.com/ariejan/firefly) - 
 - [twilio/authy-ruby](https://github.com/twilio/authy-ruby) - Ruby library to access the authy API
-- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line utility
+- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line utility (needs to be updated)
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
 - [SketchUp/sketchup-ruby-api-tutorials](https://github.com/SketchUp/sketchup-ruby-api-tutorials) - SketchUp Ruby API Tutorials and Examples
 - [barbosa/danger-clorox](https://github.com/barbosa/danger-clorox) - A Danger plugin for Clorox.
@@ -6883,6 +6886,7 @@
 
 ## Swift 
 
+- [danielsaidi/MockingKit](https://github.com/danielsaidi/MockingKit) - MockingKit is a Swift-based mocking library that makes it easy to mock protocol implementations for unit tests and not yet implemented functionality. It lets you register function results, invoke and inspect method calls etc.
 - [ActuallyZach/Firefly](https://github.com/ActuallyZach/Firefly) - An iOS syntax highlighter based on Savanna Kit, Sourceful and originally Highlightr
 - [twostraws/Subsonic](https://github.com/twostraws/Subsonic) - A small library that makes it easier to play audio with SwiftUI.
 - [qchenqizhi/QCropper](https://github.com/qchenqizhi/QCropper) - Image cropping/rotating/straightening library for iOS in Swift
@@ -7145,7 +7149,7 @@
 - [vincent-pradeilles/KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit is a library that provides the standard functions to manipulate data along with a call-syntax that relies on typed keypaths to make the call sites as short and clean as possible.
 - [mattpolzin/OpenAPIKit](https://github.com/mattpolzin/OpenAPIKit) - Codable Swift OpenAPI implementation.
 - [mattpolzin/OpenAPIReflection](https://github.com/mattpolzin/OpenAPIReflection) - Additional support for turning Swift Types into OpenAPISchema
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥  Control your external monitor brightness & volume on your Mac
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [aunnnn/RHLinePlot](https://github.com/aunnnn/RHLinePlot) - Line plot like in Robinhood app in SwiftUI
 - [google/swift-benchmark](https://github.com/google/swift-benchmark) - A swift library to benchmark code snippets.
 - [prisma-ai/Smelter](https://github.com/prisma-ai/Smelter) - Overhead-free ONNX graph inference engine with Metal under the hood
@@ -7258,7 +7262,7 @@
 - [igor-makarov/swift-ffi](https://github.com/igor-makarov/swift-ffi) - Demo for exporting Swift code to use with Ruby FFI
 - [SwiftDocOrg/swift-doc](https://github.com/SwiftDocOrg/swift-doc) - A documentation generator for Swift projects
 - [belozierov/SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines for iOS, macOS and Linux.
-- [emqx/CocoaMQTT](https://github.com/emqx/CocoaMQTT) - MQTT for iOS and macOS written with Swift
+- [emqx/CocoaMQTT](https://github.com/emqx/CocoaMQTT) - MQTT 5.0 Client Library for iOS and macOS written in Swift
 - [nicklockwood/VectorMath](https://github.com/nicklockwood/VectorMath) - A Swift library for Mac and iOS that implements common 2D and 3D vector and matrix functions, useful for games or vector-based graphics
 - [cainxx/image-segmenter-ios](https://github.com/cainxx/image-segmenter-ios) - Ios integrated deeplab model  Implementation of the Semantic Segmentation
 - [SwiftDocOrg/SwiftSemantics](https://github.com/SwiftDocOrg/SwiftSemantics) - Uses SwiftSyntax to parse Swift code into its constituent declarations
