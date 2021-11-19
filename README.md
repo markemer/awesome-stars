@@ -2991,9 +2991,9 @@
 - [googlearchive/code-prettify](https://github.com/googlearchive/code-prettify) - An embeddable script that makes source-code snippets in HTML prettier.
 - [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) - API samples for the Universal Windows Platform.
 - [guyscrum/fidgeting-writer-stats](https://github.com/guyscrum/fidgeting-writer-stats) - 
-- [stanford-oval/almond-server](https://github.com/stanford-oval/almond-server) - The home server version of Almond
+- [stanford-oval/genie-server](https://github.com/stanford-oval/genie-server) - The home server version of Almond
 - [stanford-oval/almond-dialog-agent](https://github.com/stanford-oval/almond-dialog-agent) - The Open Virtual Assistant
-- [stanford-oval/almond-cloud](https://github.com/stanford-oval/almond-cloud) - Almond As A Service and Thingpedia
+- [stanford-oval/genie-cloud](https://github.com/stanford-oval/genie-cloud) - Genie As A Service and Thingpedia
 - [stanford-oval/thingengine-core](https://github.com/stanford-oval/thingengine-core) - A Modular, Powerful Virtual Assistant Engine
 - [watson/bonjour](https://github.com/watson/bonjour) - A Bonjour/Zeroconf protocol implementation in JavaScript
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
@@ -6882,6 +6882,7 @@
 
 ## Swift 
 
+- [spotify/XCRemoteCache](https://github.com/spotify/XCRemoteCache) - 
 - [danielsaidi/MockingKit](https://github.com/danielsaidi/MockingKit) - MockingKit is a Swift-based mocking library that makes it easy to mock protocol implementations for unit tests and not yet implemented functionality. It lets you register function results, invoke and inspect method calls etc.
 - [ActuallyZach/Firefly](https://github.com/ActuallyZach/Firefly) - An iOS syntax highlighter based on Savanna Kit, Sourceful and originally Highlightr
 - [twostraws/Subsonic](https://github.com/twostraws/Subsonic) - A small library that makes it easier to play audio with SwiftUI.
@@ -6948,7 +6949,6 @@
 - [DuncanMC/FireEmitter](https://github.com/DuncanMC/FireEmitter) - 
 - [mchakravarty/CodeEditorView](https://github.com/mchakravarty/CodeEditorView) - SwiftUI code editor view for iOS and macOS
 - [circt/MLIRSwift](https://github.com/circt/MLIRSwift) - MLIR Bindings for Swift
-- [circt/Edith](https://github.com/circt/Edith) - Electronic Design in Swithft
 - [jameshurst/Transmission-Swift](https://github.com/jameshurst/Transmission-Swift) - A Combine powered Transmission RPC API client.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [willdale/SwiftUICharts](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility features built in.
@@ -8302,7 +8302,7 @@
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
 - [rsms/figma-plugins](https://github.com/rsms/figma-plugins) - Collection of Figma plugins
 - [rsms/figplug](https://github.com/rsms/figplug) - Figma plugin builder
-- [jovotech/jovo-framework](https://github.com/jovotech/jovo-framework) - 🔈 The Open Source Voice Layer: Build Voice Experiences for Alexa, Google Assistant, Samsung Bixby, Web Apps, and much more
+- [jovotech/jovo-framework](https://github.com/jovotech/jovo-framework) - 🔈 The React for Voice and Chat: Build Apps for Alexa, Google Assistant, Messenger, Instagram, the Web, and more
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [tensorflow/tfjs-converter](https://github.com/tensorflow/tfjs-converter) - Convert TensorFlow SavedModel and Keras models to TensorFlow.js
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
