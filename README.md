@@ -663,7 +663,7 @@
 - [tylerneylon/APIsWithLua](https://github.com/tylerneylon/APIsWithLua) - Sample Lua and C code to help you learn how to write Lua-based APIs.
 - [LuaDist/lua](https://github.com/LuaDist/lua) - The Lua programming language with CMake based build
 - [IoLanguage/io](https://github.com/IoLanguage/io) - Io programming language. Inspired by Self, Smalltalk and LISP.
-- [zyantific/zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler library
+- [zyantific/zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler and code generation library
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [DarthTon/HyperBone](https://github.com/DarthTon/HyperBone) - Minimalistic VT-x hypervisor with hooks
 - [Aorimn/dislocker](https://github.com/Aorimn/dislocker) - FUSE driver to read/write Windows' BitLocker-ed volumes under Linux / Mac OSX
@@ -4371,7 +4371,6 @@
 - [IronMooseDevelopment/awesome-cheap-tiers](https://github.com/IronMooseDevelopment/awesome-cheap-tiers) - 💸 A curated list of tools and X-as-a-services that have free or cheap tiers so you can get the most bang for your 💲
 - [IronMooseDevelopment/FoundryVTT-dScryb-public](https://github.com/IronMooseDevelopment/FoundryVTT-dScryb-public) - dScryb provides Boxed Text—descriptive text of places, monsters, spells, and other observations—meant to be read aloud by GMs to players. It is set in the world of epic fantasy, like many of your favorite RPGs. Good boxed text shows its subject by describing the sensory experience. And it often sets the narrative tone, introduces the scene, or spotlights what is important.
 - [langjam/langjam](https://github.com/langjam/langjam) - 
-- [henbagle/LE1CommunityPatch](https://github.com/henbagle/LE1CommunityPatch) - Issue tracker for the Community Patch mod for Mass Effect 1: Legendary Edition
 - [mooltipass/minible_hw](https://github.com/mooltipass/minible_hw) - Repository for the Mini BLE Hardware
 - [bluescan/proggyfonts](https://github.com/bluescan/proggyfonts) - Monospaced fonts for programming.
 - [joenash/awesome-infinidash](https://github.com/joenash/awesome-infinidash) - An awesome list for the awe-inspiring power of Infinidash, an imaginary product.
@@ -4817,7 +4816,7 @@
 - [librariesio/package-managers](https://github.com/librariesio/package-managers) - :package: Metadata about every package manager that Libraries.io supports
 - [swiftdocker/docker-swift-from-scratch](https://github.com/swiftdocker/docker-swift-from-scratch) - Swift built from scratch, when the nightly builds take too long.
 - [swiftdocker/docker-swift-dev](https://github.com/swiftdocker/docker-swift-dev) - Easily hack on the Swift language.
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [fastlane-old/scan](https://github.com/fastlane-old/scan) - The easiest way to run tests of your iOS and Mac app
 - [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium's OAuth2 API
@@ -5058,6 +5057,7 @@
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - For those who seek to minimize their Windows 10 installs.
 - [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 and Windows 11 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 & 11 security and privacy script!
+- [henbagle/LE1CommunityPatch](https://github.com/henbagle/LE1CommunityPatch) - Issue tracker for the Community Patch mod for Mass Effect 1: Legendary Edition
 - [microsoft/GDK](https://github.com/microsoft/GDK) - Microsoft Public GDK
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [majkinetor/posh](https://github.com/majkinetor/posh) - Powershell modules and functions by majkinetor
