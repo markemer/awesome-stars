@@ -319,7 +319,7 @@
 - [Hamlib/Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library for rigs, rotators, tuners, and amplifiers
 - [climberhunt/uvc-gadget](https://github.com/climberhunt/uvc-gadget) - enhance uvc-gadget test application
 - [ultravideo/kvazaar](https://github.com/ultravideo/kvazaar) - An open-source HEVC encoder
-- [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source 802.11 WiFi baseband chip/FPGA design
+- [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design
 - [oxplot/fpx](https://github.com/oxplot/fpx) - easy USB-C power for all your devices
 - [scandum/binary_search](https://github.com/scandum/binary_search) - A collection of improved binary search algorithms.
 - [riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) - GNU toolchain for RISC-V, including GCC
@@ -4816,7 +4816,7 @@
 - [librariesio/package-managers](https://github.com/librariesio/package-managers) - :package: Metadata about every package manager that Libraries.io supports
 - [swiftdocker/docker-swift-from-scratch](https://github.com/swiftdocker/docker-swift-from-scratch) - Swift built from scratch, when the nightly builds take too long.
 - [swiftdocker/docker-swift-dev](https://github.com/swiftdocker/docker-swift-dev) - Easily hack on the Swift language.
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021.
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021. Pull requests welcome.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [fastlane-old/scan](https://github.com/fastlane-old/scan) - The easiest way to run tests of your iOS and Mac app
 - [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium's OAuth2 API
@@ -6319,6 +6319,7 @@
 
 ## Rust 
 
+- [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line
 - [anowell/promptly](https://github.com/anowell/promptly) - Simple, opinionated prompting library
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
@@ -6882,6 +6883,8 @@
 
 ## Swift 
 
+- [gmarm/BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - An easy to use, customizable replacement for UISegmentedControl & UISwitch.
+- [hussc/PTCardTabBar](https://github.com/hussc/PTCardTabBar) - Card-Style TabBarController for iOS
 - [spotify/XCRemoteCache](https://github.com/spotify/XCRemoteCache) - 
 - [danielsaidi/MockingKit](https://github.com/danielsaidi/MockingKit) - MockingKit is a Swift-based mocking library that makes it easy to mock protocol implementations for unit tests and not yet implemented functionality. It lets you register function results, invoke and inspect method calls etc.
 - [ActuallyZach/Firefly](https://github.com/ActuallyZach/Firefly) - An iOS syntax highlighter based on Savanna Kit, Sourceful and originally Highlightr
@@ -8438,6 +8441,7 @@
 
 ## Verilog 
 
+- [htfab/rotfpga](https://github.com/htfab/rotfpga) - 
 - [andrewattwood/fuserisc](https://github.com/andrewattwood/fuserisc) - Dual RISC-V DISC with integrated eFPGA
 - [SymbiFlow/symbiflow-examples](https://github.com/SymbiFlow/symbiflow-examples) - Example designs showing different ways to use SymbiFlow toolchains.
 - [FPGA-Research-Manchester/FABulous](https://github.com/FPGA-Research-Manchester/FABulous) - Fabric generator and CAD tools
