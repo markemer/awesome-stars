@@ -1624,6 +1624,7 @@
 - [MrCheeze/botw-object-map](https://github.com/MrCheeze/botw-object-map) - A map of every single object in Zelda: Breath of the Wild. https://mrcheeze.github.io/botw-object-map
 - [Squarespace/squarespace-social-links](https://github.com/Squarespace/squarespace-social-links) - 
 - [Squarespace/endeavor-framework](https://github.com/Squarespace/endeavor-framework) - 
+- [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [usds/playbook](https://github.com/usds/playbook) - The Digital Services Playbook
 - [macports/macports-guide](https://github.com/macports/macports-guide) - A guide for MacPorts users and developers
 - [caddyserver/examples](https://github.com/caddyserver/examples) - OBSOLETE. This repo was for Caddy v1. For v2 and newer, see our forum's wiki category.
@@ -2810,6 +2811,7 @@
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [handsontable/formula-parser](https://github.com/handsontable/formula-parser) - Javascript Library parsing Excel Formulas and more
 - [lucienmaloney/civ6save-editing](https://github.com/lucienmaloney/civ6save-editing) - A work in progress collection of tools and information related to editing .Civ6save files
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [potrudeau/homebridge-messenger](https://github.com/potrudeau/homebridge-messenger) - Send HomeKit messages with HomeBridge (Pushover / IFTTT / Email)
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [Walker-TW/Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer) - View Algorithms in the Browser! - Built with ReactJs
@@ -3650,7 +3652,6 @@
 
 ## Less 
 
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [UDOOboard/Bolt-Docs](https://github.com/UDOOboard/Bolt-Docs) - UDOO Bolt Documentation
 - [Dyalog/MiServer](https://github.com/Dyalog/MiServer) - MiServer- an APL-based web server - requires Dyalog APL available from http://www.dyalog.com
 - [Squarespace/wright-framework](https://github.com/Squarespace/wright-framework) - 
@@ -3804,6 +3805,7 @@
 
 ## Objective-C 
 
+- [ChristianKienle/Core-Data-Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. Core Data Editor is compatible with Mac and iOS applications and supports XML, SQLite and binary stores, visualizes all relationships and is able to edit the data and generate Objective-C code for the data model.
 - [xslim/GCMathParser](https://github.com/xslim/GCMathParser) - Unofficial repository for GCMathParser/GCExpressionParser by Graham Cox
 - [QMUI/LookinServer](https://github.com/QMUI/LookinServer) - Free macOS app for iOS view debugging.
 - [objective-see/OverSight](https://github.com/objective-see/OverSight) - OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam.
@@ -4694,7 +4696,6 @@
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [osresearch/heads-wiki](https://github.com/osresearch/heads-wiki) - Documentation for the Heads firmware project
-- [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [kharrison/Xcode-Templates](https://github.com/kharrison/Xcode-Templates) - Xcode File And Project Templates
 - [carrotIndustries/pluto](https://github.com/carrotIndustries/pluto) - Pluto is a programmable digital watch that re-uses case and LCD panel of the Casio® F-91W. (Hardware)
 - [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
@@ -5018,7 +5019,7 @@
 - [richterger/Perl-LanguageServer](https://github.com/richterger/Perl-LanguageServer) - Language Server for Perl
 - [openxpki/openxpki](https://github.com/openxpki/openxpki) - OpenXPKI Code
 - [zerotier/edge](https://github.com/zerotier/edge) - ZeroTier Edge software and root filesystem (AARCH64)
-- [bagder/everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and everything related to this.
+- [bagder/everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.
 - [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) - PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks.
 - [jhthorsen/app-mojopaste](https://github.com/jhthorsen/app-mojopaste) - Pastebin
 - [oetiker/mrtg](https://github.com/oetiker/mrtg) - MRTG - Multi Router Traffic Grapher
@@ -7076,7 +7077,7 @@
 - [DuncanMC/BlurredStrokedPath](https://github.com/DuncanMC/BlurredStrokedPath) - An iOS project that uses Core Animation and a layer's `shadowPath` to animate blurred stroked paths.
 - [mapbox/MapboxGeocoder.swift](https://github.com/mapbox/MapboxGeocoder.swift) - Address search and reverse geocoding in Swift or Objective-C on iOS, macOS, tvOS, and watchOS
 - [tcldr/Entwine](https://github.com/tcldr/Entwine) - Testing tools and utilities for Apple's Combine framework.
-- [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - Swifty and modern UserDefaults
+- [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
 - [pinterest/xchammer](https://github.com/pinterest/xchammer) - XCHammer generates Xcode projects from a Bazel Workspace.
 - [buzzfeed/MockDuck](https://github.com/buzzfeed/MockDuck) - A network mocking layer for iOS, tvOS, and macOS
 - [matsune/swift-mqtt](https://github.com/matsune/swift-mqtt) - MQTT client for Swift using SwiftNIO
