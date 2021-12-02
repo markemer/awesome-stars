@@ -2722,6 +2722,7 @@
 
 ## JavaScript 
 
+- [ThomasFKJorna/emacs-docs](https://github.com/ThomasFKJorna/emacs-docs) - The documentation website Emacs deserves
 - [luvolondon/fvtt-module-jitsiwebrtc](https://github.com/luvolondon/fvtt-module-jitsiwebrtc) - Jitsi WebRTC client for FVTT
 - [GoogleChromeLabs/picture-in-picture-chrome-extension](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension) - 
 - [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
@@ -5339,7 +5340,7 @@
 - [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
 - [benedekrozemberczki/awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - A collection of important graph embedding, classification and representation learning papers with implementations.
 - [jasbur/RaspiWiFi](https://github.com/jasbur/RaspiWiFi) - Headless WiFi configuration for the Raspberry Pi (or most other devices running Linux) by using a temporary WiFi access point and web interface
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [OblivionCloudControl/opvault](https://github.com/OblivionCloudControl/opvault) - Python library to access 1Password OPVault stores
 - [mhoogen/ML4QS](https://github.com/mhoogen/ML4QS) - Code belonging to the book machine learning for the quantified self.
@@ -6147,7 +6148,7 @@
 - [phrase/phraseapp-ruby](https://github.com/phrase/phraseapp-ruby) - API Client to access Phrase API written in Ruby
 - [ariejan/firefly](https://github.com/ariejan/firefly) - 
 - [twilio/authy-ruby](https://github.com/twilio/authy-ruby) - Ruby library to access the authy API
-- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line utility (needs to be updated)
+- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line client (needs to be updated)
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
 - [SketchUp/sketchup-ruby-api-tutorials](https://github.com/SketchUp/sketchup-ruby-api-tutorials) - SketchUp Ruby API Tutorials and Examples
 - [barbosa/danger-clorox](https://github.com/barbosa/danger-clorox) - A Danger plugin for Clorox.
@@ -6895,6 +6896,7 @@
 
 ## Swift 
 
+- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - iOS/macOS/tvOS video player
 - [ThasianX/ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 - [gmarm/BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - An easy to use, customizable replacement for UISegmentedControl & UISwitch.
 - [hussc/PTCardTabBar](https://github.com/hussc/PTCardTabBar) - Card-Style TabBarController for iOS
@@ -7626,7 +7628,6 @@
 - [watson-developer-cloud/visual-recognition-with-discovery-coreml](https://github.com/watson-developer-cloud/visual-recognition-with-discovery-coreml) - Classify images offline using Watson Visual Recognition and Core ML and query the Discovery service to retrieve more information.
 - [watson-developer-cloud/visual-recognition-coreml](https://github.com/watson-developer-cloud/visual-recognition-coreml) - Classify images offline using Watson Visual Recognition and Core ML
 - [nicklockwood/Consumer](https://github.com/nicklockwood/Consumer) - Mac and iOS library for parsing structured text
-- [Moya/Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift.
 - [danielgindi/Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 - [andrewringler/git-annex-turtle](https://github.com/andrewringler/git-annex-turtle) - git-annex-turtle provides Apple Finder integration for git-annex on macOS, including custom badge icons, contextual menus and a Menubar icon. It is free, open-source and licensed under The MIT License.
 - [ole/SortedArray](https://github.com/ole/SortedArray) - An array that keeps its elements sorted according to a given sort predicate.
@@ -8232,7 +8233,7 @@
 - [ephread/vscode-ink](https://github.com/ephread/vscode-ink) - Ink support for VS Code
 - [elliotherriman/vscode-ink](https://github.com/elliotherriman/vscode-ink) - Adds support for ink to Visual Studio Code.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
 - [mxcl/xcodebuild](https://github.com/mxcl/xcodebuild) - A continuously resilient `xcodebuild` action. Also it’s the best.
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 - [davidar/pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
@@ -8508,6 +8509,7 @@
 
 ## Vim script 
 
+- [mkasberg/dotfiles](https://github.com/mkasberg/dotfiles) - 🛠️ Mike's dotfiles. Managed with https://www.chezmoi.io/
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [powerman/vim-plugin-AnsiEsc](https://github.com/powerman/vim-plugin-AnsiEsc) - ansi escape sequences concealed, but highlighted as specified (conceal)
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
