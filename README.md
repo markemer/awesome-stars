@@ -804,7 +804,6 @@
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [DhavalKapil/icmptunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets.
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
@@ -2298,6 +2297,7 @@
 - [hashicorp/vault-ssh-helper](https://github.com/hashicorp/vault-ssh-helper) - Vault SSH Agent is used to enable one time keys and passwords
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [jondot/blade](https://github.com/jondot/blade) - Better asset workflow for iOS developers. Generate Xcode image catalogs for iOS / OSX app icons, universal images, and more.
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [weaveworks/weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host containers networking and more.
 - [google/codesearch](https://github.com/google/codesearch) - Fast, indexed regexp search over large file trees
@@ -6612,6 +6612,7 @@
 
 ## Shell 
 
+- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
 - [niedzielski/git-diff-img](https://github.com/niedzielski/git-diff-img) - 📷 Difference Git versioned images graphically.
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
 - [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password Connect into your GitHub Actions jobs.
