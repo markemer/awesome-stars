@@ -4419,7 +4419,7 @@
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [fujitsu/A64FX](https://github.com/fujitsu/A64FX) - 
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-- [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘Awesome package manager resources :hibiscus:
+- [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [alexkaessner/macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) - :gem: The most detailed and accurate macOS UI Kit for Sketch. This Sketch Library includes common Mac interface elements, cursors, and a Touch Bar UI Kit.
 - [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - [August 2020, created] Branches with work in progress on making an Arm64 Darwin port.
 - [arturo182/kicad-modules](https://github.com/arturo182/kicad-modules) - A repository with all my custom footprints and 3d models for KiCad
@@ -4929,6 +4929,7 @@
 
 ## PHP 
 
+- [jmarmorato/Intranet-Home-Page](https://github.com/jmarmorato/Intranet-Home-Page) - Intranet Home Page is a highly-configurable self-hosted browser homepage with integrations for public and local data feeds.
 - [fantasycalendar/Fantasy-Calendar](https://github.com/fantasycalendar/Fantasy-Calendar) - This is for the fantasy-calendar website, specifically the 2.0 update. Feel free to contribute and help improve the site!
 - [wordplate/extended-acf](https://github.com/wordplate/extended-acf) - Register advanced custom fields with object oriented PHP
 - [outlandishideas/wpackagist](https://github.com/outlandishideas/wpackagist) - WordPress Packagist — manage your plugins with Composer
@@ -6336,6 +6337,7 @@
 
 ## Rust 
 
+- [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) - A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
@@ -6424,7 +6426,7 @@
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
 - [keith/diff-grep](https://github.com/keith/diff-grep) - Filter matching hunks in diffs
 - [maekawatoshiki/sericum](https://github.com/maekawatoshiki/sericum) - (Toy) Compiler Infrastructure influenced by LLVM written in Rust
-- [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU code 🚧
+- [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [golemparts/rppal](https://github.com/golemparts/rppal) - A Rust library that provides access to the Raspberry Pi's GPIO, I2C, PWM, SPI and UART peripherals.
 - [TeXitoi/rusty-clock](https://github.com/TeXitoi/rusty-clock) - An alarm clock with environment stats in pure bare metal embedded rust
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
