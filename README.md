@@ -3815,6 +3815,7 @@
 
 ## Objective-C 
 
+- [sveinbjornt/ManDrake](https://github.com/sveinbjornt/ManDrake) - Native Mac man page editor with syntax coloring, mandoc syntax checking & live preview.
 - [ChristianKienle/Core-Data-Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. Core Data Editor is compatible with Mac and iOS applications and supports XML, SQLite and binary stores, visualizes all relationships and is able to edit the data and generate Objective-C code for the data model.
 - [xslim/GCMathParser](https://github.com/xslim/GCMathParser) - Unofficial repository for GCMathParser/GCExpressionParser by Graham Cox
 - [QMUI/LookinServer](https://github.com/QMUI/LookinServer) - Free macOS app for iOS view debugging.
@@ -4653,7 +4654,6 @@
 - [cweagans/awesome-diy-software](https://github.com/cweagans/awesome-diy-software) - A curated list of awesome DIY software.
 - [rby90/project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c) - A curated list of project-based tutorials in C
 - [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
-- [veertuinc/jenkins-anka-ci](https://github.com/veertuinc/jenkins-anka-ci) - 
 - [ivanreese/visual-programming-codex](https://github.com/ivanreese/visual-programming-codex) - Waypoints to the past and future of visual programming.
 - [nikgraf/awesome-draft-js](https://github.com/nikgraf/awesome-draft-js) - Awesome list of Draft.js resources
 - [mehcode/awesome-atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources.
@@ -5164,7 +5164,7 @@
 - [rizinorg/rz-pipe](https://github.com/rizinorg/rz-pipe) - Access rizin via pipe from any programming language!
 - [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 - [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
-- [nmigen/nmigen](https://github.com/nmigen/nmigen) - A refreshed Python toolbox for building complex digital hardware
+- [amaranth-lang/amaranth](https://github.com/amaranth-lang/amaranth) - A modern hardware definition language and toolchain based on Python
 - [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 - [kobiton/samples](https://github.com/kobiton/samples) - Getting started for running automation testing on Kobiton platform
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
