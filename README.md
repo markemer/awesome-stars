@@ -2584,6 +2584,7 @@
 
 ## Java 
 
+- [astrelsky/GhidraOrbis](https://github.com/astrelsky/GhidraOrbis) - Ghidra support for Orbis OS specific software and file formats
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
 - [processing/processing4](https://github.com/processing/processing4) - Processing 4.x releases (currently in “beta”) that use Java 11
@@ -2811,7 +2812,6 @@
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books everyone should read!
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [drake7707/paintbynumbersgenerator](https://github.com/drake7707/paintbynumbersgenerator) - Paint by numbers generator
 - [anvaka/nb](https://github.com/anvaka/nb) - Neighborhood beautification: Graph layout through message passing
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
@@ -5280,7 +5280,7 @@
 - [cirosantilli/linux-kernel-module-cheat](https://github.com/cirosantilli/linux-kernel-module-cheat) - The perfect emulation setup to study and develop the Linux kernel v5.4.3, kernel modules, QEMU, gem5 and x86_64, ARMv7 and ARMv8 userland and baremetal assembly, ANSI C, C++ and POSIX. GDB step debug and KGDB just work. Powered by Buildroot and crosstool-NG. Highly automated. Thoroughly documented. Automated tests. "Tested" in an Ubuntu 19.10 host.完美的仿真设置，可用于研究和开发Linux内核v5.4.3，内核模块，QEMU，gem5和x86_64，ARMv7和ARMv8用户界面以及裸机装配，ANSI C，C ++和POSIX。 GDB步骤调试和KGDB可以正常工作。 由Buildroot和crosstool-NG支持。 高度自动化。 彻底记录。 自动化测试。 在Ubuntu 19.10主机中经过“测试”。
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [simonw/fec-to-sqlite](https://github.com/simonw/fec-to-sqlite) - Save FEC campaign finance data to a SQLite database
-- [firstlookmedia/dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
+- [firstlookmedia/dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [DormyMo/SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) - admin ui for scrapy/open source scrapinghub
 - [nfstream/nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
 - [san089/goodreads_etl_pipeline](https://github.com/san089/goodreads_etl_pipeline) - An end-to-end GoodReads Data Pipeline for Building Data Lake, Data Warehouse and Analytics Platform.
@@ -7148,6 +7148,7 @@
 - [swiftwasm/carton](https://github.com/swiftwasm/carton) - 📦 Watcher, bundler, and test runner for your SwiftWasm apps
 - [loiclec/FuzzCheck](https://github.com/loiclec/FuzzCheck) - Swift package fuzzing engine
 - [rileytestut/Clip](https://github.com/rileytestut/Clip) - Clip is a clipboard manager for iOS that can monitor your clipboard indefinitely in the background — no jailbreak required.
+- [relatedcode/RelatedChat](https://github.com/relatedcode/RelatedChat) - Open source, native iOS Messenger, with realtime chat conversations (full offline support).
 - [bscothern/Once](https://github.com/bscothern/Once) - A replacement for Dispatch Once in Swift
 - [erica/Swift-General-Utility](https://github.com/erica/Swift-General-Utility) - General utility types and functionality
 - [krzyzanowskim/CoreTextSwift](https://github.com/krzyzanowskim/CoreTextSwift) - CoreText Swift bindings
@@ -7392,7 +7393,7 @@
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [mac-gallagher/Shuffle](https://github.com/mac-gallagher/Shuffle) - 🔥 A multi-directional card swiping library inspired by Tinder
 - [yonaskolb/NetworkRequest](https://github.com/yonaskolb/NetworkRequest) - Swift networking library for easily defining, executing, and mocking network requests
-- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
+- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions and additions to the standard SwiftUI library.
 - [AvdLee/CombineSwiftPlayground](https://github.com/AvdLee/CombineSwiftPlayground) - A Swift playground explaining the concepts of the new Combine framework
 - [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList) - The master list of repositories for the Swift Package Index.
 - [huggingface/swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT for Question answering. Other Transformers coming soon!
@@ -8291,6 +8292,7 @@
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
 - [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [matthewpi/vscode-caddyfile-support](https://github.com/matthewpi/vscode-caddyfile-support) - Rich Caddyfile support for Visual Studio Code
 - [vknabel/vscode-swift-development-environment](https://github.com/vknabel/vscode-swift-development-environment) - New home of Swift Development Environment for VS Code
 - [OpenCircuits/FSS](https://github.com/OpenCircuits/FSS) - Finite State Simulator
@@ -8301,7 +8303,6 @@
 - [ProbableTrain/MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-- [relatedcode/RelatedChat](https://github.com/relatedcode/RelatedChat) - Open source alternative communication platform
 - [IvanMathy/CardsAwayFromHumanity](https://github.com/IvanMathy/CardsAwayFromHumanity) - A horrible codebase for a horrible time.
 - [fwal/setup-swift](https://github.com/fwal/setup-swift) - GitHub Action that setup a Swift environment
 - [mathieudutour/svg-path-visualizer](https://github.com/mathieudutour/svg-path-visualizer) - Enter a SVG path data to visualize it and discover all its different commands
