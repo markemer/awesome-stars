@@ -274,7 +274,7 @@
 - [TheThingsIndustries/generic-node-se](https://github.com/TheThingsIndustries/generic-node-se) - Generic Node Sensor Edition
 - [Wren6991/PicoDVI](https://github.com/Wren6991/PicoDVI) - 
 - [blakemcbride/akt](https://github.com/blakemcbride/akt) - Keyboard handler for gnu-apl on Linux
-- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for ESP32.
+- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [df7cb/sdate](https://github.com/df7cb/sdate) - never ending September date
 - [NXPmicro/mcux-sdk](https://github.com/NXPmicro/mcux-sdk) - MCUXpresso SDK
 - [adafruit/circuitpython](https://github.com/adafruit/circuitpython) - CircuitPython - a Python implementation for teaching coding with microcontrollers
@@ -2147,6 +2147,7 @@
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) - Datadog Agent
+- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [billputer/go-namecheap](https://github.com/billputer/go-namecheap) - A Go library for using the Namecheap API
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)
@@ -2277,7 +2278,7 @@
 - [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [keybase/kbfs](https://github.com/keybase/kbfs) - Keybase Filesystem (KBFS)
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
 - [cpmech/gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
 - [schollz/find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -2441,7 +2442,6 @@
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [swfobject/swfobject](https://github.com/swfobject/swfobject) - An open source Javascript framework for detecting the Adobe Flash Player plugin and embedding Flash (swf) files.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [android/kotlin-guides](https://github.com/android/kotlin-guides) - A set of guides for writing Kotlin for Android.
 - [diegonehab/luasocket](https://github.com/diegonehab/luasocket) - Network support for the Lua language
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
@@ -3532,6 +3532,7 @@
 ## Jinja 
 
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [geerlingguy/drupal-vm](https://github.com/geerlingguy/drupal-vm) - A VM for Drupal development
 
 ## Jsonnet 
@@ -5649,7 +5650,7 @@
 - [aliyun/aliyun-odps-python-sdk](https://github.com/aliyun/aliyun-odps-python-sdk) - ODPS Python SDK and data analysis framework
 - [halilozercan/pget](https://github.com/halilozercan/pget) - Fast download in chunks
 - [eliben/pykaleidoscope](https://github.com/eliben/pykaleidoscope) - Implementation of the LLVM tutorial in Python
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [sony/nnabla](https://github.com/sony/nnabla) - Neural Network Libraries
@@ -5690,7 +5691,6 @@
 - [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
 - [python-bonobo/bonobo](https://github.com/python-bonobo/bonobo) - Extract Transform Load for Python 3.5+
 - [truenas/middleware](https://github.com/truenas/middleware) - TrueNAS CORE/Enterprise/SCALE Middleware Git Repository
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [QubesOS/qubes-secpack](https://github.com/QubesOS/qubes-secpack) - Qubes Security Pack
 - [Yelp/osxcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X
 - [jupyter/nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
@@ -6909,6 +6909,9 @@
 
 ## Swift 
 
+- [serhii-londar/GithubAPI](https://github.com/serhii-londar/GithubAPI) - Swift implementation of Github REST API v3
+- [dehesa/CodableCSV](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row or through Swift's Codable interface.
+- [sunlubo/SwiftFFmpeg](https://github.com/sunlubo/SwiftFFmpeg) - A Swift wrapper for the FFmpeg API
 - [kareman/FileSmith](https://github.com/kareman/FileSmith) - A strongly typed Swift library for working with local files and directories.
 - [kareman/Patterns](https://github.com/kareman/Patterns) - A Swift PEG parser
 - [IcaliaLabs/Presentr](https://github.com/IcaliaLabs/Presentr) - Swift wrapper for custom ViewController presentations on iOS
@@ -7734,7 +7737,7 @@
 - [krzysztofzablocki/Difference](https://github.com/krzysztofzablocki/Difference) - Simple way to identify what is different between 2 instances of any type. Must have for TDD.
 - [meghaphone/FaceDetection](https://github.com/meghaphone/FaceDetection) - Sample app for using Vision for Face Detection
 - [KiranJasvanee/OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - A simple and flexible way to add source of overlapping circular pictures, currently supports horizontal overlapping or distant pictures with great layout flexibility.
-- [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission. Support SwiftUI.
+- [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.
 - [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute!
 - [JohnSundell/ImagineEngine](https://github.com/JohnSundell/ImagineEngine) - A project to create a blazingly fast Swift game engine that is a joy to use 🚀
 - [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
