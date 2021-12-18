@@ -4100,7 +4100,7 @@
 - [neonichu/synx-plugin](https://github.com/neonichu/synx-plugin) - Xcode plugin that reorganizes your Xcode project folder to match your Xcode groups, based on synx.
 - [iziz/libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS) - iOS port from libphonenumber (Google's phone number handling library)
 - [CanTheAlmighty/PassbookLayout](https://github.com/CanTheAlmighty/PassbookLayout) - Mimicking the behaviour of the Passbooks apps in iOS using a custom UICollectionViewLayout
-- [realm/realm-cocoa](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite
+- [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [panicinc/PunchClock](https://github.com/panicinc/PunchClock) - An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.
 - [jmah/WrapDemo](https://github.com/jmah/WrapDemo) - Sample project demonstrating Auto Layout with text wrapping and custom view wrapping
 - [aws-amplify/aws-sdk-ios](https://github.com/aws-amplify/aws-sdk-ios) - AWS SDK for iOS. For more information, see our web site:
@@ -5367,7 +5367,7 @@
 - [laffra/happymac](https://github.com/laffra/happymac) - A Python Mac app to suspend background processes
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
 - [D8ms/public_marai](https://github.com/D8ms/public_marai) - Reproduction of Large Scale Curiosity for SMB
-- [YosysHQ/SymbiYosys](https://github.com/YosysHQ/SymbiYosys) - SymbiYosys (sby) -- Front-end for Yosys-based formal verification flows
+- [YosysHQ/sby](https://github.com/YosysHQ/sby) - SymbiYosys (sby) -- Front-end for Yosys-based formal verification flows
 - [secrethub/ansible-secrethub](https://github.com/secrethub/ansible-secrethub) - Official Ansible module for SecretHub
 - [python-cmd2/cmd2](https://github.com/python-cmd2/cmd2) - cmd2 - quickly build feature-rich and user-friendly interactive command line applications in Python
 - [googleworkspace/python-samples](https://github.com/googleworkspace/python-samples) - 🐍 Python samples for Google Workspace APIs
@@ -6910,6 +6910,7 @@
 
 ## Swift 
 
+- [JohnSundell/AsyncCompatibilityKit](https://github.com/JohnSundell/AsyncCompatibilityKit) - iOS 13-compatible backports of commonly used async/await-based system APIs that are only available from iOS 15 by default.
 - [serhii-londar/GithubAPI](https://github.com/serhii-londar/GithubAPI) - Swift implementation of Github REST API v3
 - [dehesa/CodableCSV](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row or through Swift's Codable interface.
 - [sunlubo/SwiftFFmpeg](https://github.com/sunlubo/SwiftFFmpeg) - A Swift wrapper for the FFmpeg API
@@ -8247,7 +8248,7 @@
 - [kishikawakatsumi/xcresulttool](https://github.com/kishikawakatsumi/xcresulttool) - A GitHub Action that generates a human-readable test report from the Xcode result bundle and shows it on GitHub Checks.
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [ekzhang/composing.studio](https://github.com/ekzhang/composing.studio) - Collaborative music composition for everyone.
-- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
+- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [Nexus-Mods/discord-bot](https://github.com/Nexus-Mods/discord-bot) - Nexus Mods Discord Bot
 - [octokit/auth-oauth-app.js](https://github.com/octokit/auth-oauth-app.js) - GitHub OAuth App authentication for JavaScript
@@ -8498,7 +8499,7 @@
 - [oskirby/tinydfu-bootloader](https://github.com/oskirby/tinydfu-bootloader) - USB DFU Bootloader for small FPGAs
 - [NetFPGA/netfpga](https://github.com/NetFPGA/netfpga) - NetFPGA 1G infrastructure and gateware
 - [StefanSchippers/xschem_sky130](https://github.com/StefanSchippers/xschem_sky130) - XSCHEM symbol libraries for the Google-Skywater 130nm process design kit.
-- [efabless/caravel](https://github.com/efabless/caravel) - Caravel is a standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space.
+- [efabless/caravel_mpw-one](https://github.com/efabless/caravel_mpw-one) - Caravel is a standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space.
 - [AndresNavarro82/vt52-fpga](https://github.com/AndresNavarro82/vt52-fpga) - 
 - [analogdevicesinc/hdl](https://github.com/analogdevicesinc/hdl) - HDL libraries and projects
 - [1801BM1/vm80a](https://github.com/1801BM1/vm80a) - i8080 precise replica in Verilog, based on reverse engineering of real die
