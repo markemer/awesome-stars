@@ -215,6 +215,8 @@
 
 ## C 
 
+- [xiph/opus](https://github.com/xiph/opus) - Modern audio compression for the internet.
+- [sctplab/usrsctp](https://github.com/sctplab/usrsctp) - A portable SCTP userland stack
 - [clockworkpi/DevTerm](https://github.com/clockworkpi/DevTerm) - 
 - [michaeljclark/riscv-disassembler](https://github.com/michaeljclark/riscv-disassembler) - RISC-V Disassembler with support for RV32/RV64/RV128 IMAFDC
 - [Ildaron/ironbci](https://github.com/Ildaron/ironbci) - Open-Source Brain-Computer Interface, ADS1299 and STM32
@@ -5132,7 +5134,7 @@
 - [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX.
 - [andreas-abel/uiCA](https://github.com/andreas-abel/uiCA) - uops.info Code Analyzer
 - [cea-sec/miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework in Python
-- [SamSchott/maestral](https://github.com/SamSchott/maestral) - Open-source Dropbox client for macOS and Linux
+- [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [bespoke-silicon-group/bsg_bladerunner](https://github.com/bespoke-silicon-group/bsg_bladerunner) - Meta-Repository for Bespoke Silicon Group's Manycore Architecture (A.K.A HammerBlade)
 - [jgillum/foiamachine](https://github.com/jgillum/foiamachine) - Automate your FOIAs. The real, production version.
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
@@ -7547,7 +7549,7 @@
 - [Sorix/CloudCore](https://github.com/Sorix/CloudCore) - Framework that enables syncing between iCloud (CloudKit) and Core Data
 - [ishkawa/DataSourceKit](https://github.com/ishkawa/DataSourceKit) - Declarative, testable data source of UICollectionView and UITableView.
 - [apple/swift-syntax](https://github.com/apple/swift-syntax) - SwiftPM package for SwiftSyntax library.
-- [freshOS/KeyboardLayoutGuide](https://github.com/freshOS/KeyboardLayoutGuide) - ⌨️ Manage iOS keyboard with Apple's missing KeyboardLayoutGuide
+- [freshOS/KeyboardLayoutGuide](https://github.com/freshOS/KeyboardLayoutGuide) - ⌨️ KeyboardLayoutGuide, back from when it didn't exist.
 - [pointfreeco/swift-web](https://github.com/pointfreeco/swift-web) - 🕸 A collection of Swift server-side frameworks for handling HTML, CSS, routing and middleware.
 - [NSHipster/PasswordRules](https://github.com/NSHipster/PasswordRules) - A Swift library for defining strong password generation rules
 - [swiftengine/SwiftEngine](https://github.com/swiftengine/SwiftEngine) - Apple Swift based HTTP server.  The answer for a Swift based, turn key, crash resilient, high scale, and production grade web server.
