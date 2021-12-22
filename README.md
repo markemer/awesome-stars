@@ -485,7 +485,7 @@
 - [pulp-platform/pulp-sdk](https://github.com/pulp-platform/pulp-sdk) - 
 - [retroplasma/earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
 - [open-power/hostboot](https://github.com/open-power/hostboot) - System initialization firmware for Power systems
-- [OpenAMP/libmetal](https://github.com/OpenAMP/libmetal) - an abstraction layer across user-space Linux, baremetal, and RTOS environments
+- [OpenAMP/libmetal](https://github.com/OpenAMP/libmetal) - An abstraction layer across user-space Linux, baremetal, and RTOS environments
 - [rsms/fontkit](https://github.com/rsms/fontkit) - JS & WASM library for working with fonts
 - [CelesteBlue-dev/PSVita-RE-tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools) - A bundle of RE tools for analyzing and modding PSVita OS
 - [amethyst/rlua](https://github.com/amethyst/rlua) - High level Lua bindings to Rust
@@ -993,7 +993,7 @@
 - [crowdin/crowdin-hybrid-sso-examples](https://github.com/crowdin/crowdin-hybrid-sso-examples) - Examples using Crowdin hybrid SSO
 - [figment/falloutsnip](https://github.com/figment/falloutsnip) - Fork of TESsnip targeted at Fallout 4
 - [chrismwendt/bront](https://github.com/chrismwendt/bront) - A few tweaked fonts geared for programming
-- [Readify/httpstatus](https://github.com/Readify/httpstatus) - Easily generate different HTTP responses for testing
+- [aaronpowell/httpstatus](https://github.com/aaronpowell/httpstatus) - Easily generate different HTTP responses for testing
 - [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) - SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
 - [todbot/blink1](https://github.com/todbot/blink1) - Official software for blink(1) USB RGB LED by ThingM
 - [versionone/api-examples](https://github.com/versionone/api-examples) - Code examples for developers using the VersionOne API endpoints.
@@ -1001,6 +1001,7 @@
 
 ## C++ 
 
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [tihmstar/img4tool](https://github.com/tihmstar/img4tool) - A tool for manipulating IMG4, IM4M and IM4P files
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [FaqT0tum/Orbion_Space_Mouse](https://github.com/FaqT0tum/Orbion_Space_Mouse) - ORBION the OpenSource Space Mouse 3D
@@ -3172,7 +3173,6 @@
 - [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [glittershark/reactable](https://github.com/glittershark/reactable) - Fast, flexible, and simple data tables in React
 - [idyll-lang/idyll](https://github.com/idyll-lang/idyll) - Create explorable explanations and interactive essays.
-- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - 🍿 JavaScript positioning library for tooltips, popovers, dropdowns, and more
 - [jthegedus/firebase-functions-es6-example](https://github.com/jthegedus/firebase-functions-es6-example) - Use ES6 to develop Cloud Functions for Firebase today!
 - [mapnificent/mapnificent](https://github.com/mapnificent/mapnificent) - Mapnificent shows you areas you can reach with public transport in a given time.
 - [andrew-templeton/bottie](https://github.com/andrew-templeton/bottie) - Simple BotKit bot with NLP
@@ -3601,7 +3601,7 @@
 - [henneberger/congress_data](https://github.com/henneberger/congress_data) - Collaborative filtering approach to finding relationships between bills and their sponsors
 - [facebookresearch/DensePose](https://github.com/facebookresearch/DensePose) - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 - [henripal/labnotebook](https://github.com/henripal/labnotebook) - LabNotebook is a tool that allows you to flexibly monitor, record, save, and query all your machine learning experiments.
-- [mmagnus/rna-tools](https://github.com/mmagnus/rna-tools) - 🔧rna-tools: a toolbox to analyze sequences, structures and simulations of RNA (and more) docs @ http://rna-tools.rtfd.io
+- [mmagnus/rna-tools](https://github.com/mmagnus/rna-tools) - 🔧rna-tools: a toolbox to analyze sequences, structures and simulations of RNA (and more) docs @ http://rna-tools.rtfd.io web @ http://rna-tools.online
 - [pkmital/tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of Tensorflow
 - [sachinruk/deepschool.io](https://github.com/sachinruk/deepschool.io) - Deep Learning tutorials in jupyter notebooks.
 - [fastai/courses](https://github.com/fastai/courses) - fast.ai Courses
@@ -8244,6 +8244,7 @@
 
 ## TypeScript 
 
+- [aws-samples/cloud-gaming-on-ec2-instances](https://github.com/aws-samples/cloud-gaming-on-ec2-instances) - 
 - [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
 - [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
@@ -8423,6 +8424,7 @@
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 - [atom/atom-languageclient](https://github.com/atom/atom-languageclient) - Language Server Protocol support for Atom (the basis of Atom-IDE)
 - [gilbarbara/react-inlinesvg](https://github.com/gilbarbara/react-inlinesvg) - An SVG loader component for ReactJS
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - 🍿 JavaScript positioning library for tooltips, popovers, dropdowns, and more
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
