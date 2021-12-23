@@ -474,7 +474,7 @@
 - [pyca/pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library
 - [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
 - [massar/sixxsd](https://github.com/massar/sixxsd) - sixxsd - The SixXS Daemon - IPv6 Tunnel & Routing Engine
-- [AOMediaCodec/SVT-AV1](https://github.com/AOMediaCodec/SVT-AV1) - Welcome to the GitHub repo for the SVT-AV1! This repo is set to read-only for archiving purposes. Please join us at https://gitlab.com/AOMediaCodec/SVT-AV1. We look forward to seeing you there
+- [AOMediaCodec/SVT-AV1](https://github.com/AOMediaCodec/SVT-AV1) - Welcome to the GitHub repo for the SVT-AV1! This repo is set as a mirror to the gitlab repo. Please join us at https://gitlab.com/AOMediaCodec/SVT-AV1. We look forward to seeing you there
 - [RIOT-OS/RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
 - [Nitrokey/chopstx](https://github.com/Nitrokey/chopstx) - Unofficial mirror of GNUK's submodule: Chopstx
 - [im-tomu/chopstx](https://github.com/im-tomu/chopstx) - U2F firmware for Tomu board (+ chopstx port)
@@ -2557,7 +2557,6 @@
 - [enso-org/luna-studio](https://github.com/enso-org/luna-studio) - Looking for Luna, the WYSIWYG language for data processing? Development has moved :point_right:
 - [facebook/duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 - [owickstrom/pandoc-emphasize-code](https://github.com/owickstrom/pandoc-emphasize-code) - A Pandoc filter for emphasizing code in fenced blocks
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [jgm/pandoc-citeproc](https://github.com/jgm/pandoc-citeproc) - Library and executable for using citeproc with pandoc
 - [lierdakil/pandoc-crossref](https://github.com/lierdakil/pandoc-crossref) - Pandoc filter for cross-references
 - [CDSoft/pp](https://github.com/CDSoft/pp) - PP - Generic preprocessor (with pandoc in mind) - macros, literate programming, diagrams, scripts...
@@ -5529,6 +5528,7 @@
 - [Ericsson/codechecker](https://github.com/Ericsson/codechecker) - CodeChecker is an analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang Tidy
 - [awslabs/open-data-registry](https://github.com/awslabs/open-data-registry) - A registry of publicly available datasets on AWS
 - [frictionlessdata/frictionless-py](https://github.com/frictionlessdata/frictionless-py) - Data management framework for Python that provides functionality to describe, extract, validate, and transform tabular data
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [dcos/dcos](https://github.com/dcos/dcos) - DC/OS - The Datacenter Operating System
 - [Fewbytes/rubber-docker](https://github.com/Fewbytes/rubber-docker) - A workshop on Linux containers: Rebuild Docker from Scratch
 - [webosose/build-webos](https://github.com/webosose/build-webos) - webOS OSE build layer
