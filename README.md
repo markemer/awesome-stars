@@ -74,6 +74,7 @@
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
+  - [Open Policy Agent](#open-policy-agent)
   - [OpenSCAD](#openscad)
   - [Others](#others)
   - [PHP](#php)
@@ -215,6 +216,7 @@
 
 ## C 
 
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [xiph/opus](https://github.com/xiph/opus) - Modern audio compression for the internet.
 - [sctplab/usrsctp](https://github.com/sctplab/usrsctp) - A portable SCTP userland stack
 - [clockworkpi/DevTerm](https://github.com/clockworkpi/DevTerm) - 
@@ -4350,6 +4352,10 @@
 - [johnno1962/Xtrace](https://github.com/johnno1962/Xtrace) - Trace Objective-C method calls by class or instance
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
 
+## Open Policy Agent 
+
+- [openvinotoolkit/cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
+
 ## OpenSCAD 
 
 - [tenderlove/analog-terminal-bell](https://github.com/tenderlove/analog-terminal-bell) - A bell for your terminal that is analog
@@ -8297,7 +8303,7 @@
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [plaid/plaid-node](https://github.com/plaid/plaid-node) - Node bindings for Plaid
 - [getsentry/action-release](https://github.com/getsentry/action-release) - GitHub Action for creating a release on Sentry
-- [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs) - The new place for the sentry documentation (and tools to build it)
+- [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs) - Sentry's documentation (and tools to build it)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [cgrevisse/swift-project-creation](https://github.com/cgrevisse/swift-project-creation) - VS Code Extension for Swift Project/Package creation.
@@ -8383,7 +8389,6 @@
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
 - [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [inkle/ink-tmlanguage](https://github.com/inkle/ink-tmlanguage) - TextMate grammar files for Ink. (VS Code, Sublime Text, and Atom)
-- [openvinotoolkit/cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [Ulterius/client](https://github.com/Ulterius/client) - [WIP] Ulterius™ HTML5 react frontend.
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
