@@ -216,6 +216,9 @@
 
 ## C 
 
+- [KhronosGroup/OpenVG-Docs](https://github.com/KhronosGroup/OpenVG-Docs) - OpenVG Specification source
+- [khadas/fenix](https://github.com/khadas/fenix) - One-stop script set to build Ubuntu/Debian images
+- [Ralim/ebc-dev-reverse-engineering](https://github.com/Ralim/ebc-dev-reverse-engineering) - Reverse engineering notes on the RK3566 EBC controller #pinenote
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [xiph/opus](https://github.com/xiph/opus) - Modern audio compression for the internet.
 - [sctplab/usrsctp](https://github.com/sctplab/usrsctp) - A portable SCTP userland stack
@@ -1088,7 +1091,6 @@
 - [OlivierLeBozec/viewts](https://github.com/OlivierLeBozec/viewts) - Display PCR, DTS, PTS, bitrate, jitter of a mpeg TS.
 - [Zielon/PBRVulkan](https://github.com/Zielon/PBRVulkan) - Vulkan Real-time Path Tracer Engine
 - [seanbaxter/shaders](https://github.com/seanbaxter/shaders) - Circle C++ shaders
-- [PeterLemon/RaspberryPi](https://github.com/PeterLemon/RaspberryPi) - Raspberry Pi Bare Metal Assembly Programming
 - [casadi/casadi](https://github.com/casadi/casadi) - CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as SUNDIALS, IPOPT etc. It can be used from C++, Python or Matlab/Octave.
 - [megari/koryuu-fw](https://github.com/megari/koryuu-fw) - Firmware for the Koryuu transcoder
 - [TASEmulators/fceux](https://github.com/TASEmulators/fceux) - FCEUX, a NES Emulator
@@ -2588,6 +2590,7 @@
 
 ## Java 
 
+- [JetBrains/JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) - Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
 - [astrelsky/GhidraOrbis](https://github.com/astrelsky/GhidraOrbis) - Ghidra support for Orbis OS specific software and file formats
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
@@ -2994,6 +2997,7 @@
 - [kitspace/electro-grammar](https://github.com/kitspace/electro-grammar) - :zap: A parser for electronic component descriptions
 - [notwaldorf/tensorflow-experiments](https://github.com/notwaldorf/tensorflow-experiments) - 
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
+- [AdguardTeam/AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS) - The most advanced ad blocker for iOS
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [mathisonian/idyll-map-example](https://github.com/mathisonian/idyll-map-example) - Idyll + Mapbox
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
@@ -3715,6 +3719,7 @@
 
 ## Makefile 
 
+- [JeffyCN/rockchip_mirrors](https://github.com/JeffyCN/rockchip_mirrors) - Mirrors of rockchip BSP repositories.
 - [zaellis/continue_with_sv](https://github.com/zaellis/continue_with_sv) - Software and resources to help Purdue students (and others) continue developing with SystemVerilog after losing access to proprietary tools.
 - [mattvenn/magic-inverter](https://github.com/mattvenn/magic-inverter) - an inverter drawn in magic with makefile to simulate
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
@@ -5027,6 +5032,7 @@
 
 ## Pascal 
 
+- [PeterLemon/RaspberryPi](https://github.com/PeterLemon/RaspberryPi) - Raspberry Pi Bare Metal Assembly Programming
 - [ThomasJaeger/VisualMASM](https://github.com/ThomasJaeger/VisualMASM) - Visual MASM - Assembly IDE for Microsoft MASM
 - [fireundubh/xedit-scripts](https://github.com/fireundubh/xedit-scripts) - 
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
@@ -5208,7 +5214,7 @@
 - [kronenthaler/mod-pbxproj](https://github.com/kronenthaler/mod-pbxproj) - A python module to manipulate XCode projects
 - [touchlab/xcode-kotlin](https://github.com/touchlab/xcode-kotlin) - Kotlin Native Xcode Plugin
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
-- [savagezen/dnd-tools](https://github.com/savagezen/dnd-tools) - Interactive CLI tools for Dungeons and Dragons 5e
+- [savagezen/dnd-tools](https://github.com/savagezen/dnd-tools) - ARCHIVE - MOVED TO GITLAB | Interactive CLI tools for Dungeons and Dragons 5e
 - [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [madmachineio/mm-sdk](https://github.com/madmachineio/mm-sdk) - CLI based SDK for building MadMachine project.
@@ -7569,7 +7575,6 @@
 - [ethanhuang13/knil](https://github.com/ethanhuang13/knil) - Universal Links testing made easy
 - [twostraws/Unwrap](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone.
 - [MastodonKit/MastodonKit](https://github.com/MastodonKit/MastodonKit) - MastodonKit is a Swift Framework that wraps Mastodon's API
-- [AdguardTeam/AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS) - The most advanced ad blocker for iOS
 - [ra1028/DifferenceKit](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework for Swift collection.
 - [nathangitter/fluid-interfaces](https://github.com/nathangitter/fluid-interfaces) - Natural gestures and animations inspired by Apple's WWDC18 talk "Designing Fluid Interfaces"
 - [BennyKJohnson/OpenCloudKit](https://github.com/BennyKJohnson/OpenCloudKit) - Open Source CloudKit Framework
