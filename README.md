@@ -2429,7 +2429,7 @@
 - [bep/hugotest](https://github.com/bep/hugotest) - Test site for Hugo development and experiments, see https://temp.bep.is/hugotest/
 - [HackerThemes/theme-machine](https://github.com/HackerThemes/theme-machine) - A collection of stylized Bootstrap Themes
 - [lipis/bootstrap-social](https://github.com/lipis/bootstrap-social) - :couple: Social Sign-In Buttons for Bootstrap
-- [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - CoreUI is free bootstrap admin template
+- [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free bootstrap admin template
 - [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
 - [SwiftDocOrg/swiftdoc.org](https://github.com/SwiftDocOrg/swiftdoc.org) - Auto-generated documentation for Swift. Command-click no more.
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
