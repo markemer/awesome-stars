@@ -1871,6 +1871,7 @@
 
 ## Go 
 
+- [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [nikolaydubina/treemap](https://github.com/nikolaydubina/treemap) - 🍬 Pretty Treemaps
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The new home of the CUE language! Validate and define text-based and dynamic configuration
@@ -2734,6 +2735,7 @@
 
 ## JavaScript 
 
+- [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE
 - [ThomasFKJorna/emacs-docs](https://github.com/ThomasFKJorna/emacs-docs) - The documentation website Emacs deserves
 - [luvolondon/fvtt-module-jitsiwebrtc](https://github.com/luvolondon/fvtt-module-jitsiwebrtc) - Jitsi WebRTC client for FVTT
 - [GoogleChromeLabs/picture-in-picture-chrome-extension](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension) - 
@@ -3734,6 +3736,7 @@
 - [htruong/hackable-consumer-hardware](https://github.com/htruong/hackable-consumer-hardware) - List of hackable consumer hardware products
 - [cirosantilli/arm-assembly-cheat](https://github.com/cirosantilli/arm-assembly-cheat) - MOVED TO: https://cirosantilli.com/linux-kernel-module-cheat/userland-assembly with code at https://github.com/cirosantilli/linux-kernel-module-cheat/tree/master/userland/arch/arm SEE README. ARMv7 and ARMv8 assembly userland minimal examples tutorial. Runnable asserts on x86 hosts with QEMU user mode or natively on ARM targets. Nice GDB step debug setup. Tested on Ubuntu 18.04 host and Raspberry Pi 2 and 3 targets.
 - [pointfreeco/swift-playground-templates](https://github.com/pointfreeco/swift-playground-templates) - 🏫 A collection of helpful Xcode playground templates.
+- [hyperbox/hyperbox](https://github.com/hyperbox/hyperbox) - Virtual Infrastructure Manager for VirtualBox
 - [klaaspieter/chxcode](https://github.com/klaaspieter/chxcode) - Changes the current Xcode
 - [libretro/Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
@@ -4371,6 +4374,7 @@
 
 ## Others 
 
+- [warrant-dev/awesome-authorization](https://github.com/warrant-dev/awesome-authorization) - A curated list of information and resources about authorization.
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management Knowledge for Cloud Platforms
 - [bryancasler/Bryans-FoundryVTT-Assets-And-Resources](https://github.com/bryancasler/Bryans-FoundryVTT-Assets-And-Resources) - My personally cultivated list of FoundryVTT Assets and Resources.
 - [prismicio/awesome-prismic](https://github.com/prismicio/awesome-prismic) - A curated list of awesome things related to Prismic
@@ -6738,7 +6742,6 @@
 - [0xmachos/mOSL](https://github.com/0xmachos/mOSL) - Bash script to audit and fix macOS Catalina (10.15.x) security settings
 - [travis-ci/packer-templates-mac](https://github.com/travis-ci/packer-templates-mac) - Templates for building images for macOS for Travis with Packer!
 - [dmarmor/epichrome](https://github.com/dmarmor/epichrome) - An application and Chrome extension for creating web-based applications that work like standalone Mac apps.
-- [hyperbox/hyperbox](https://github.com/hyperbox/hyperbox) - Virtual Infrastructure Manager for VirtualBox
 - [geerlingguy/macos-virtualbox-vm](https://github.com/geerlingguy/macos-virtualbox-vm) - Instructions and script to help you create a VirtualBox VM running macOS.
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [ocaml/opam-repository](https://github.com/ocaml/opam-repository) - Main public package repository for opam, the source package manager of OCaml.
@@ -7005,7 +7008,6 @@
 - [Automattic/XCUITestHelpers](https://github.com/Automattic/XCUITestHelpers) - 
 - [DuncanMC/FireEmitter](https://github.com/DuncanMC/FireEmitter) - 
 - [mchakravarty/CodeEditorView](https://github.com/mchakravarty/CodeEditorView) - SwiftUI code editor view for iOS and macOS
-- [circt/MLIRSwift](https://github.com/circt/MLIRSwift) - MLIR Bindings for Swift
 - [jameshurst/Transmission-Swift](https://github.com/jameshurst/Transmission-Swift) - A Combine powered Transmission RPC API client.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [willdale/SwiftUICharts](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility features built in.
