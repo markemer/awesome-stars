@@ -2432,7 +2432,7 @@
 - [bep/hugotest](https://github.com/bep/hugotest) - Test site for Hugo development and experiments, see https://temp.bep.is/hugotest/
 - [HackerThemes/theme-machine](https://github.com/HackerThemes/theme-machine) - A collection of stylized Bootstrap Themes
 - [lipis/bootstrap-social](https://github.com/lipis/bootstrap-social) - :couple: Social Sign-In Buttons for Bootstrap
-- [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free bootstrap admin template
+- [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap 5 admin & dashboard template
 - [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
 - [SwiftDocOrg/swiftdoc.org](https://github.com/SwiftDocOrg/swiftdoc.org) - Auto-generated documentation for Swift. Command-click no more.
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
@@ -5407,7 +5407,6 @@
 - [deepmind/mathematics_dataset](https://github.com/deepmind/mathematics_dataset) - This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
 - [andrewbihl/bsed](https://github.com/andrewbihl/bsed) - Simple SQL-like syntax on top of Perl text processing.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-- [FPGAwars/apio](https://github.com/FPGAwars/apio) - :seedling: Open source ecosystem for open FPGA boards
 - [adafruit/Adafruit_Adalink](https://github.com/adafruit/Adafruit_Adalink) - Python wrapper for Segger's J-Link Commander & STMicro STLink V2 to flash various ARM MCUs
 - [davidaurelio/hashids-python](https://github.com/davidaurelio/hashids-python) - Implementation of hashids (http://hashids.org) in Python. Compatible with Python 2 and Python 3
 - [openxc/openxc-python](https://github.com/openxc/openxc-python) - OpenXC Python library
@@ -6643,6 +6642,7 @@
 
 ## Shell 
 
+- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
 - [niedzielski/git-diff-img](https://github.com/niedzielski/git-diff-img) - 📷 Difference Git versioned images graphically.
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
@@ -6932,6 +6932,7 @@
 
 ## Swift 
 
+- [iKenndac/xcode-streamdeck-plugin](https://github.com/iKenndac/xcode-streamdeck-plugin) - A Stream Deck plugin for Xcode.
 - [CaptureContext/swift-standard-clients](https://github.com/CaptureContext/swift-standard-clients) - Client declarations and live implementations for standard iOS managers
 - [JohnSundell/AsyncCompatibilityKit](https://github.com/JohnSundell/AsyncCompatibilityKit) - iOS 13-compatible backports of commonly used async/await-based system APIs that are only available from iOS 15 by default.
 - [serhii-londar/GithubAPI](https://github.com/serhii-londar/GithubAPI) - Swift implementation of Github REST API v3
@@ -8539,6 +8540,7 @@
 - [antonblanchard/microwatt](https://github.com/antonblanchard/microwatt) - A tiny Open POWER ISA softcore written in VHDL 2008
 - [alexforencich/verilog-axi](https://github.com/alexforencich/verilog-axi) - Verilog AXI components for FPGA implementation
 - [strigeus/fpganes](https://github.com/strigeus/fpganes) - NES in Verilog
+- [FPGAwars/apio](https://github.com/FPGAwars/apio) - :seedling: Open source ecosystem for open FPGA boards
 - [ZipCPU/zipversa](https://github.com/ZipCPU/zipversa) - A Versa Board implementation using the AutoFPGA/ZipCPU infrastructure
 - [MiSTer-devel/Genesis_MiSTer](https://github.com/MiSTer-devel/Genesis_MiSTer) - Sega Genesis for MiSTer
 - [bluespec/Piccolo](https://github.com/bluespec/Piccolo) - RISC-V CPU, simple 3-stage pipeline, for low-end applications (e.g., embedded, IoT)
