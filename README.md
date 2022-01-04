@@ -217,6 +217,7 @@
 
 ## C 
 
+- [matoya/libmatoya](https://github.com/matoya/libmatoya) - Cross-platform application development.
 - [DorianRudolph/pinenotes](https://github.com/DorianRudolph/pinenotes) - Notes about PineNote development
 - [KhronosGroup/OpenVG-Docs](https://github.com/KhronosGroup/OpenVG-Docs) - OpenVG Specification source
 - [khadas/fenix](https://github.com/khadas/fenix) - One-stop script set to build Ubuntu/Debian images
@@ -2634,7 +2635,7 @@
 - [bladecoder/blade-ink](https://github.com/bladecoder/blade-ink) - Inkle Ink runtime implementation in Java
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [FoundationDB/fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) - A record-oriented store built on FoundationDB
-- [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - API Management - OpenSource API Gateway
+- [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management
 - [bazelbuild/bazel-buildfarm](https://github.com/bazelbuild/bazel-buildfarm) - Bazel remote caching and execution service
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
 - [google/google-authenticator](https://github.com/google/google-authenticator) - Open source version of Google Authenticator (except the Android app)
@@ -4377,6 +4378,7 @@
 
 ## Others 
 
+- [tuist/awesome-tuist](https://github.com/tuist/awesome-tuist) - A community-driven collection of Tuist related posts, plugins, talks, and much more.
 - [rockchip-linux/rknn-toolkit2](https://github.com/rockchip-linux/rknn-toolkit2) - 
 - [warrant-dev/awesome-authorization](https://github.com/warrant-dev/awesome-authorization) - A curated list of information and resources about authorization.
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management Knowledge for Cloud Platforms
@@ -6361,6 +6363,7 @@
 
 ## Rust 
 
+- [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [redox-os/tfs](https://github.com/redox-os/tfs) - Mirror of https://gitlab.redox-os.org/redox-os/tfs
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
@@ -6728,7 +6731,7 @@
 - [NocturnalSolutions/KituraBook](https://github.com/NocturnalSolutions/KituraBook) - Kitura Until Dawn: A Kitura guidebook (WIP)
 - [oznu/docker-homebridge](https://github.com/oznu/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac.
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
-- [alexp2ad/record-ios-simulator](https://github.com/alexp2ad/record-ios-simulator) - A script to start and stop video recordings from the iOS Simulator as easily as taking a screenshot.
+- [alexjsp/record-ios-simulator](https://github.com/alexjsp/record-ios-simulator) - A script to start and stop video recordings from the iOS Simulator as easily as taking a screenshot.
 - [adamisntdead/DevMyMac](https://github.com/adamisntdead/DevMyMac) - ✨ ✨ A Simple Tool To Setup A Mac for Development✨✨
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [sourcegraph/deploy-sourcegraph](https://github.com/sourcegraph/deploy-sourcegraph) - Deploy Sourcegraph to a Kubernetes cluster for large-scale code search and intelligence
@@ -8441,7 +8444,7 @@
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 - [atom/atom-languageclient](https://github.com/atom/atom-languageclient) - Language Server Protocol support for Atom (the basis of Atom-IDE)
 - [gilbarbara/react-inlinesvg](https://github.com/gilbarbara/react-inlinesvg) - An SVG loader component for ReactJS
-- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A powerful toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus and more
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
