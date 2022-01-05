@@ -217,6 +217,7 @@
 
 ## C 
 
+- [Gravelbones/GhidraDosToolbox](https://github.com/Gravelbones/GhidraDosToolbox) - A toolbox for analyzing DOS (Real Mode) programs with Ghidra
 - [matoya/libmatoya](https://github.com/matoya/libmatoya) - Cross-platform application development.
 - [DorianRudolph/pinenotes](https://github.com/DorianRudolph/pinenotes) - Notes about PineNote development
 - [KhronosGroup/OpenVG-Docs](https://github.com/KhronosGroup/OpenVG-Docs) - OpenVG Specification source
@@ -2889,7 +2890,7 @@
 - [Andrew-Kang-G/url-knife](https://github.com/Andrew-Kang-G/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with robust patterns.
 - [YOCKOW/Action-setup-swift](https://github.com/YOCKOW/Action-setup-swift) - GitHub Action that sets up Swift.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
-- [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend.
+- [i5ik/Viewfinder](https://github.com/i5ik/Viewfinder) - 📷 ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get Viewfinder today! Secure your document needs and internet, today!
 - [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [millette/oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
@@ -3405,7 +3406,7 @@
 - [zaach/jison](https://github.com/zaach/jison) - Bison in JavaScript.
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [whiteout-io/mail](https://github.com/whiteout-io/mail) - [ABANDONED] Mail App with integrated OpenPGP encryption
-- [hsw107/Photoshop-Export-Layers-to-Files-Fast](https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast) - This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
+- [antipalindrome/Photoshop-Export-Layers-to-Files-Fast](https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast) - This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
@@ -3783,6 +3784,7 @@
 
 ## Nix 
 
+- [tpwrules/nixos-pinenote](https://github.com/tpwrules/nixos-pinenote) - Attempts to get NixOS up on the PINE64 PineNote.
 - [tfc/pandoc-drawio-filter](https://github.com/tfc/pandoc-drawio-filter) - Embedd drawio images into markdown files for direct processing in pandoc
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [blitz/ulx3s-tools](https://github.com/blitz/ulx3s-tools) - Nix packages for ULX3s FPGA development
@@ -4595,7 +4597,6 @@
 - [denisnazarov/awesome-crypto-trackers](https://github.com/denisnazarov/awesome-crypto-trackers) - A curated list of crypto project trackers and analytics dashboards.
 - [chbrown/awesome-annotation](https://github.com/chbrown/awesome-annotation) - List of online / computer-based annotation tools
 - [jitenbansal/awesome-free-and-essential-products-for-startups](https://github.com/jitenbansal/awesome-free-and-essential-products-for-startups) - Curated list of free and essential products
-- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [yhatt/marp](https://github.com/yhatt/marp) - The site of classic Markdown presentation writer app
 - [raylene/eng-handbook](https://github.com/raylene/eng-handbook) - A developer's guide to management: an open-sourced handbook for leading software engineering teams.
 - [SwiftCommunityPodcast/podcast](https://github.com/SwiftCommunityPodcast/podcast) - About For and By the Swift Community
@@ -5359,7 +5360,7 @@
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 - [yellows8/switch_sysmodule](https://github.com/yellows8/switch_sysmodule) - Custom sysmodule for Nintendo Switch for native RPC.
 - [mayan-edms/Mayan-EDMS](https://github.com/mayan-edms/Mayan-EDMS) - Free Open Source Document Management System (mirror, no pull request or issues)
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [microsoft/mu](https://github.com/microsoft/mu) - Project mu Documentation
 - [virtualabs/btlejack](https://github.com/virtualabs/btlejack) - Bluetooth Low Energy Swiss-army knife
@@ -6929,7 +6930,7 @@
 ## Svelte 
 
 - [quassum/SVG-to-SwiftUI](https://github.com/quassum/SVG-to-SwiftUI) - Tool to convert SVG to SwiftUI's Shape structure.
-- [sdl60660/river-runner](https://github.com/sdl60660/river-runner) - Uses USGS NHDPlus data and their NLDI API to visualize the path of a rain droplet from any point in the contiguous United States to its endpoint.
+- [sdl60660/river-runner](https://github.com/sdl60660/river-runner) - Uses USGS NHDPlus data and their NLDI API to visualize the path of a rain droplet to its endpoint.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
 
