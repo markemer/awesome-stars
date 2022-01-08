@@ -127,7 +127,6 @@
   - [WebAssembly](#webassembly)
   - [XSLT](#xslt)
   - [YARA](#yara)
-  - [YASnippet](#yasnippet)
   - [Yacc](#yacc)
   - [ZAP](#zap)
   - [ZIL](#zil)
@@ -1821,6 +1820,7 @@
 - [bbatsov/projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
+- [yitang/.emacs.d](https://github.com/yitang/.emacs.d) - Emacs configuration
 - [milkypostman/powerline](https://github.com/milkypostman/powerline) - emacs powerline
 - [jonathanchu/emacs-powerline](https://github.com/jonathanchu/emacs-powerline) - Powerline for Emacs
 - [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
@@ -2394,6 +2394,7 @@
 - [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [openvizsla/ov_ftdi](https://github.com/openvizsla/ov_ftdi) - FT2232H-based USB sniffer
+- [plaid/plaid-postman](https://github.com/plaid/plaid-postman) - Postman collection for the Plaid API
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [OldManUmby/OGL-SRD5](https://github.com/OldManUmby/OGL-SRD5) - D&D 5E SRD converted line-by-line to Markdown and many other publishing formats.
 - [TheEconomist/us-potus-model](https://github.com/TheEconomist/us-potus-model) - Code for a dynamic multilevel Bayesian model to predict US presidential elections. Written in R and Stan.
@@ -4382,6 +4383,7 @@
 
 ## Others 
 
+- [Zekfoo/AGZ](https://github.com/Zekfoo/AGZ) - A circuit-level redesign of the Game Boy Advance, addressing many of the issues seen with the original GBA
 - [adamnemecek/awesome-metal](https://github.com/adamnemecek/awesome-metal) - A collection of Metal and MetalKit projects and resources. Very much work in progress.
 - [tuist/awesome-tuist](https://github.com/tuist/awesome-tuist) - A community-driven collection of Tuist related posts, plugins, talks, and much more.
 - [rockchip-linux/rknn-toolkit2](https://github.com/rockchip-linux/rknn-toolkit2) - 
@@ -4490,7 +4492,6 @@
 - [stormbard/Keyboard.pretty](https://github.com/stormbard/Keyboard.pretty) - KiCad Module Repository for keyboard PCB creation.
 - [egladman/keebs.pretty](https://github.com/egladman/keebs.pretty) - KiCAD footprint library for hybrid MX/Alps footprints and microcontrollers
 - [arnholm/angelcad-docs](https://github.com/arnholm/angelcad-docs) - AngelCAD - user documentation
-- [plaid/plaid-postman](https://github.com/plaid/plaid-postman) - Postman collection for the Plaid API
 - [ruiqimao/keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide) - Guide on how to design keyboard PCBs with KiCad
 - [tmk/keyboard_parts.pretty](https://github.com/tmk/keyboard_parts.pretty) - KiCad modules for keyboard design
 - [tmk/kicad_lib_tmk](https://github.com/tmk/kicad_lib_tmk) - KiCad library for tmk project
@@ -7012,7 +7013,7 @@
 - [mattt/swift-package-sbom](https://github.com/mattt/swift-package-sbom) - A software bill of materials (SBoM) generator for Swift packages
 - [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library
 - [soapyigu/LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift) - Solutions to LeetCode by Swift
-- [birdrides/mockingbird](https://github.com/birdrides/mockingbird) - A convenient mocking framework for Swift
+- [birdrides/mockingbird](https://github.com/birdrides/mockingbird) - A Swifty mocking framework for Swift and Objective-C.
 - [macmade/IOBrowser](https://github.com/macmade/IOBrowser) - A macOS application for browsing the IOKit registry.
 - [maxgribov/Spine](https://github.com/maxgribov/Spine) - Unofficial Spine runtime Swift library, allows you to play animations created in the Spine app (http://esotericsoftware.com).
 - [jegnux/BackedCodable](https://github.com/jegnux/BackedCodable) - Powerful property wrapper to back codable properties.
@@ -8612,10 +8613,6 @@
 
 - [ghidraninja/ghidra_scripts](https://github.com/ghidraninja/ghidra_scripts) - Scripts for the Ghidra software reverse engineering suite.
 - [rednaga/APKiD](https://github.com/rednaga/APKiD) - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
-
-## YASnippet 
-
-- [yitang/.emacs.d](https://github.com/yitang/.emacs.d) - Emacs configuration
 
 ## Yacc 
 
