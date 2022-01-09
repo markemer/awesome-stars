@@ -1461,7 +1461,7 @@
 - [falltergeist/libfalltergeist](https://github.com/falltergeist/libfalltergeist) - C++ library which allows to work with Fallout(tm) data files
 - [gnuradio/volk](https://github.com/gnuradio/volk) - The Vector Optimized Library of Kernels
 - [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
-- [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) - pgModeler - PostgreSQL Database Modeler - is an open source data modeling tool designed for PostgreSQL. No more DDL commands written by hand let pgModeler do the job for you! This software reunites the concepts of entity-relationship diagrams and the features that PostgreSQL implements as extensions of SQL standards. Support this project by donate on project's official web site link:
+- [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [robertmaynard/Sandbox](https://github.com/robertmaynard/Sandbox) - Random place to try out ideas
@@ -7527,7 +7527,7 @@
 - [airbnb/MagazineLayout](https://github.com/airbnb/MagazineLayout) - A collection view layout capable of laying out views in vertically scrolling grids and lists.
 - [erica/SwiftInterpolation](https://github.com/erica/SwiftInterpolation) - 
 - [JohnSundell/Shapeshift](https://github.com/JohnSundell/Shapeshift) - Quickly convert a folder containing Swift files into an iPad-compatible Playground
-- [thii/xcbeautify](https://github.com/thii/xcbeautify) - A little beautifier tool for xcodebuild
+- [tuist/xcbeautify](https://github.com/tuist/xcbeautify) - A little beautifier tool for xcodebuild
 - [XCTestHTMLReport/XCTestHTMLReport](https://github.com/XCTestHTMLReport/XCTestHTMLReport) - Xcode-like HTML report for Unit and UI Tests
 - [JohnSundell/SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform Swift framework projects from the command line
 - [velyan/Comment-Spell-Checker](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto-correcting code comments.
