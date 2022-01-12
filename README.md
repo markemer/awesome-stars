@@ -248,7 +248,7 @@
 - [losnoco/Cog](https://github.com/losnoco/Cog) - Cog - A Free and Open Source Audio Player for macOS 10.13+
 - [asterisk/asterisk](https://github.com/asterisk/asterisk) - Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit:
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero Firmware
-- [skvadrik/re2c](https://github.com/skvadrik/re2c) - Lexer generator for C, C++ and Go.
+- [skvadrik/re2c](https://github.com/skvadrik/re2c) - Lexer generator for C, C++, Go and Rust.
 - [grassator/mass](https://github.com/grassator/mass) - A compiler for a new language focusing on compile-time execution and no LLVM dependency.
 - [mdbtools/mdbtools](https://github.com/mdbtools/mdbtools) - MDB Tools - Read Access databases on *nix
 - [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password.
@@ -594,7 +594,7 @@
 - [libarchive/libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library
 - [abiggerhammer/hammer](https://github.com/abiggerhammer/hammer) - Parser combinators for binary formats, in C. Yes, in C. What? Don't look at me like that.
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
-- [jonasblixt/ufsm](https://github.com/jonasblixt/ufsm) - UML Statechart library in C and XMI importer
+- [jonasblixt/ufsm](https://github.com/jonasblixt/ufsm) - Statechart library and editor
 - [libssh2/libssh2](https://github.com/libssh2/libssh2) - the SSH library
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [vitasdk/vita-toolchain](https://github.com/vitasdk/vita-toolchain) - 
@@ -1932,7 +1932,7 @@
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated.
 - [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) - Hashicorp Vault plugin integrates with 1Password Connect to allow for the retrieval, creation, and deletion of items stored in 1Password.
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
+- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 - [tongson/LadyLua](https://github.com/tongson/LadyLua) - Single executable(static), batteries included, Lua 5.1 interpreter.
@@ -2757,7 +2757,7 @@
 - [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
 - [colinccook/cv](https://github.com/colinccook/cv) - An XML/XSLT-based CV/Curriculum vitae/Resume
 - [apple/swift-docc-render](https://github.com/apple/swift-docc-render) - Web renderer for Swift-DocC documentation.
-- [jc21/nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [Mikhus/canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [maxogden/xml-json](https://github.com/maxogden/xml-json) - convert xml to json on the command line. not streaming, pure javascript
@@ -5103,7 +5103,7 @@
 
 ## PowerShell 
 
-- [jamesstringerparsec/Easy-GPU-P](https://github.com/jamesstringerparsec/Easy-GPU-P) - A Project dedicated to making GPU Partitioning on Windows easier!
+- [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - For those who seek to minimize their Windows 10 installs.
 - [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 and Windows 11 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 & 11 security and privacy script!
@@ -5943,7 +5943,7 @@
 - [boto/boto](https://github.com/boto/boto) - For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services
 - [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
 - [atiw003/hg2github](https://github.com/atiw003/hg2github) - A script and framework for setting up synchronization of mercurial repositories to github
-- [mozilla/hg2github](https://github.com/mozilla/hg2github) - A script and framework for setting up synchronization of mercurial repositories to github
+- [mozilla/hg2github](https://github.com/mozilla/hg2github) - INACTIVE - A script and framework for setting up synchronization of mercurial repositories to github
 
 ## Q# # 
 
