@@ -216,6 +216,8 @@
 
 ## C 
 
+- [smaeul/linux](https://github.com/smaeul/linux) - Patches include sunxi platform support and various driver fixes
+- [fread-ink/inkwave](https://github.com/fread-ink/inkwave) - Convert electronic paper display waveforms from .wbf to .wrf format
 - [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
 - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -696,7 +698,7 @@
 - [intel/haxm](https://github.com/intel/haxm) - Intel® Hardware Accelerated Execution Manager (Intel® HAXM)
 - [gali8/Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS) - Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64.
 - [Ettercap/ettercap](https://github.com/Ettercap/ettercap) - Ettercap Project
-- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, X86)
+- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, X86)
 - [flatpak/flatpak-builder](https://github.com/flatpak/flatpak-builder) - Tool to build flatpaks from source
 - [analang/como-lang-ng](https://github.com/analang/como-lang-ng) - como-lang-ng is now ana-lang, located at https://github.com/analang/ana
 - [PlanetAPL/openAPL](https://github.com/PlanetAPL/openAPL) - 
@@ -2604,6 +2606,7 @@
 
 ## Java 
 
+- [bladecoder/bladecoder-adventure-engine](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor
 - [JetBrains/JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) - Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
 - [astrelsky/GhidraOrbis](https://github.com/astrelsky/GhidraOrbis) - Ghidra support for Orbis OS specific software and file formats
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
@@ -2748,6 +2751,8 @@
 
 ## JavaScript 
 
+- [yaqwsx/jlcparts](https://github.com/yaqwsx/jlcparts) - Better parametric search for components available for JLC PCB assembly
+- [mengshukeji/Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [ottomatica/slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
 - [todbot/Blink1Control2](https://github.com/todbot/Blink1Control2) - Blink1Control GUI to control blink(1) USB RGB LED devices.
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE
@@ -4388,6 +4393,7 @@
 
 ## Others 
 
+- [SynologyOpenSource/web_package_example](https://github.com/SynologyOpenSource/web_package_example) - An example package for web application
 - [Jana-Marie/JEGGER_s-link](https://github.com/Jana-Marie/JEGGER_s-link) - https://twitter.com/_Jana_Marie/status/1245725762642206728
 - [Zekfoo/AGZ](https://github.com/Zekfoo/AGZ) - A circuit-level redesign of the Game Boy Advance, addressing many of the issues seen with the original GBA
 - [adamnemecek/awesome-metal](https://github.com/adamnemecek/awesome-metal) - A collection of Metal and MetalKit projects and resources. Very much work in progress.
@@ -5136,6 +5142,8 @@
 
 ## Python 
 
+- [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams
+- [yaqwsx/Pinion](https://github.com/yaqwsx/Pinion) - Generate interactive and nice-looking diagrams for your PCBs!
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Calendar and task manager for Linux terminal with minimal and customizable UI.
 - [YadiraF/DECA](https://github.com/YadiraF/DECA) - DECA: Detailed Expression Capture and Animation (SIGGRAPH 2021)
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
@@ -6945,12 +6953,14 @@
 ## Svelte 
 
 - [quassum/SVG-to-SwiftUI](https://github.com/quassum/SVG-to-SwiftUI) - Tool to convert SVG to SwiftUI's Shape structure.
-- [sdl60660/river-runner](https://github.com/sdl60660/river-runner) - Uses USGS NHDPlus data and their NLDI API to visualize the path of a rain droplet to its endpoint.
+- [sdl60660/river-runner](https://github.com/sdl60660/river-runner) - Uses USGS/MERIT Basin data to visualize the path of a rain droplet to its endpoint.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
 
 ## Swift 
 
+- [ZeeZide/CodeEditor](https://github.com/ZeeZide/CodeEditor) - A SwiftUI TextEditor with syntax highlighting using Highlight.js
+- [noellee/SwiftDAP](https://github.com/noellee/SwiftDAP) - Debug Adapter Protocol (DAP) SDK for Swift
 - [johnpatrickmorgan/TCACoordinators](https://github.com/johnpatrickmorgan/TCACoordinators) - Powerful navigation in the Composable Architecture via the coordinator pattern
 - [b3ll/Motion](https://github.com/b3ll/Motion) - Animation engine for gesturally-driven user interfaces, animations, and interactions on iOS, macOS, and tvOS.
 - [iKenndac/xcode-streamdeck-plugin](https://github.com/iKenndac/xcode-streamdeck-plugin) - A Stream Deck plugin for Xcode.
@@ -8240,6 +8250,7 @@
 
 ## TeX 
 
+- [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
 - [Witiko/markdown](https://github.com/Witiko/markdown) - :notebook_with_decorative_cover: A package for converting and rendering markdown documents in TeX
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.x kernels)
 - [clever-algorithms/CleverAlgorithms](https://github.com/clever-algorithms/CleverAlgorithms) - Clever Algorithms: Nature-Inspired Programming Recipes
