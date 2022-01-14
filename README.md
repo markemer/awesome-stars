@@ -2500,7 +2500,6 @@
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [mkiser/WTFJHT](https://github.com/mkiser/WTFJHT) - Logging the daily shock and awe in national politics. Read in moderation.
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
-- [vercel/hyper-website](https://github.com/vercel/hyper-website) - Powers the official site for Hyper.app
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) - Make it a fun to create spec for developers and teammates
 - [alexa-samples/skill-sample-nodejs-adventure-game](https://github.com/alexa-samples/skill-sample-nodejs-adventure-game) - This tool provides an easy to use front-end that allows developers to instantly deploy code for your story, or use the generated code as a starting point for more complex projects.
 - [LucyBot-Inc/documentation-starter](https://github.com/LucyBot-Inc/documentation-starter) - Interactive REST API Documentation
@@ -2614,7 +2613,7 @@
 - [processing/processing4](https://github.com/processing/processing4) - Processing 4.x releases (currently in “beta”) that use Java 11
 - [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins) - Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
 - [RobertLarsen/GhidraFirmwareToolkit](https://github.com/RobertLarsen/GhidraFirmwareToolkit) - 
-- [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring integration for GraphQL
+- [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring Integration for GraphQL
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
@@ -4123,7 +4122,6 @@
 - [JaviSoto/iOS10-Runtime-Headers](https://github.com/JaviSoto/iOS10-Runtime-Headers) - iOS 10 Runtime Headers
 - [anaglik/ANDLineChartView](https://github.com/anaglik/ANDLineChartView) - ANDLineChartView is easy to use view-based class for displaying animated line chart.
 - [CEWendel/SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) - An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
-- [PodBuilder/XcodeConfiguration](https://github.com/PodBuilder/XcodeConfiguration) - An Objective-C library that parses Xcode configuration files
 - [timd/Adaptr](https://github.com/timd/Adaptr) - A quick demonstration of adaptive layouts using size classes, Interface Builder and AutoLayout
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 - [SnapKit/Masonry](https://github.com/SnapKit/Masonry) - Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout
@@ -4393,7 +4391,7 @@
 
 ## Others 
 
-- [SynologyOpenSource/web_package_example](https://github.com/SynologyOpenSource/web_package_example) - An example package for web application
+- [joric/nrfmicro](https://github.com/joric/nrfmicro) - Pro Micro-compatible Bluetooth 5.2 board with Li-Po charger and USB-C (nRF52840-based)
 - [Jana-Marie/JEGGER_s-link](https://github.com/Jana-Marie/JEGGER_s-link) - https://twitter.com/_Jana_Marie/status/1245725762642206728
 - [Zekfoo/AGZ](https://github.com/Zekfoo/AGZ) - A circuit-level redesign of the Game Boy Advance, addressing many of the issues seen with the original GBA
 - [adamnemecek/awesome-metal](https://github.com/adamnemecek/awesome-metal) - A collection of Metal and MetalKit projects and resources. Very much work in progress.
@@ -6196,7 +6194,7 @@
 - [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 - [strongself/fabricio](https://github.com/strongself/fabricio) - Fetch Fabric.io statistics like never before
 - [transifex/txgh](https://github.com/transifex/txgh) - A server that integrates Transifex with GitHub
-- [twbs/bootstrap-rubygem](https://github.com/twbs/bootstrap-rubygem) - Bootstrap 4 rubygem for Rails / Sprockets / Hanami / etc
+- [twbs/bootstrap-rubygem](https://github.com/twbs/bootstrap-rubygem) - Bootstrap rubygem for Rails / Sprockets / Hanami / etc
 - [valeriomazzeo/danger-xcodebuild](https://github.com/valeriomazzeo/danger-xcodebuild) - Exposes warnings, errors and test results.
 - [PierreRambaud/gemirro](https://github.com/PierreRambaud/gemirro) - Gem to automatically make a rubygems mirror.
 - [librariesio/required_files](https://github.com/librariesio/required_files) - :open_file_folder: Ensure some files exist in all your repos
@@ -6959,6 +6957,8 @@
 
 ## Swift 
 
+- [bangerang/tree-dump-debugger](https://github.com/bangerang/tree-dump-debugger) - A visual developer tool for inspecting your iOS application data structures.
+- [divar-ir/NetShears](https://github.com/divar-ir/NetShears) - iOS Network monitor/interceptor framework
 - [ZeeZide/CodeEditor](https://github.com/ZeeZide/CodeEditor) - A SwiftUI TextEditor with syntax highlighting using Highlight.js
 - [noellee/SwiftDAP](https://github.com/noellee/SwiftDAP) - Debug Adapter Protocol (DAP) SDK for Swift
 - [johnpatrickmorgan/TCACoordinators](https://github.com/johnpatrickmorgan/TCACoordinators) - Powerful navigation in the Composable Architecture via the coordinator pattern
@@ -7903,7 +7903,6 @@
 - [JohnSundell/TestDrive](https://github.com/JohnSundell/TestDrive) - Quickly try out any Swift pod or framework in a playground
 - [andrea-prearo/SwiftExamples](https://github.com/andrea-prearo/SwiftExamples) - Swift Examples Repository
 - [SwipeCellKit/SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.
-- [PodBuilder/XcodeKit](https://github.com/PodBuilder/XcodeKit) - An Objective-C library that parses Xcode projects
 - [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool and Xcode Extension for formatting Swift code
 - [ivanschuetz/PieCharts](https://github.com/ivanschuetz/PieCharts) - Easy to use and highly customizable pie charts library for iOS
 - [ivanschuetz/ChartLegends](https://github.com/ivanschuetz/ChartLegends) - Easy to use and highly customizable chart legends
