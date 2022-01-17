@@ -856,6 +856,7 @@
 - [gonsie/SR](https://github.com/gonsie/SR) - Simplified ROSS (now with history!)
 - [nvidia-compiler-sdk/nvvmir-samples](https://github.com/nvidia-compiler-sdk/nvvmir-samples) - 
 - [kjn/lbzip2](https://github.com/kjn/lbzip2) - Parallel bzip2 utility
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [gcwnow/linux](https://github.com/gcwnow/linux) - Linux kernel for GCW Zero (Ingenic JZ4770)
 - [macmade/ClangKit](https://github.com/macmade/ClangKit) - ClangKit provides an Objective-C frontend to LibClang. Source tokenization, diagnostics and fix-its are actually implemented.
 - [seb-m/CryptoPill](https://github.com/seb-m/CryptoPill) - Core Secret's crypto code.
@@ -1017,6 +1018,7 @@
 
 ## C++ 
 
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
 - [Norbyte/ositools](https://github.com/Norbyte/ositools) - A toolkit for manipulating Divinity Original Sin 2 internals
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [tihmstar/img4tool](https://github.com/tihmstar/img4tool) - A tool for manipulating IMG4, IM4M and IM4P files
@@ -1549,7 +1551,6 @@
 - [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
 - [laprej/ROSS--](https://github.com/laprej/ROSS--) - ROSS-- + C++ = ROSS + C
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [Smoothieware/Smoothiepanel](https://github.com/Smoothieware/Smoothiepanel) - SmoothiePanel is an Open Source Hardware control interface for industrial robotic machinery.
 - [Smoothieware/Smoothieware](https://github.com/Smoothieware/Smoothieware) - Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
@@ -5142,6 +5143,8 @@
 
 ## Python 
 
+- [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
+- [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams
 - [yaqwsx/Pinion](https://github.com/yaqwsx/Pinion) - Generate interactive and nice-looking diagrams for your PCBs!
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Calendar and task manager for Linux terminal with minimal and customizable UI.
@@ -6009,6 +6012,7 @@
 
 ## Roff 
 
+- [Creality3DPrinting/Ender-3](https://github.com/Creality3DPrinting/Ender-3) - The Creality3D Ender-3, a fully Open Source 3D printer perfect for new users on a budget.
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
 - [MinnowBoard-org/design-files](https://github.com/MinnowBoard-org/design-files) - MinnowBoard.org Official Hardware Design Files
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
