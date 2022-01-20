@@ -915,6 +915,7 @@
 
 ## C# # 
 
+- [philosowaffle/peloton-to-garmin](https://github.com/philosowaffle/peloton-to-garmin) - Convert workout data from Peloton into JSON/TCX/FIT files that can be uploaded to Garmin Connect
 - [gabbyh/MEHeadMorphExporter](https://github.com/gabbyh/MEHeadMorphExporter) - A tool to export NPC headmorph for Mass effect trilogy (requires ME3Explorer to work)
 - [TheFuseLab/VL.Fuse](https://github.com/TheFuseLab/VL.Fuse) - A library for visually programming on the GPU, built to enable rapid workflows and modular approaches to accelerated graphics, logic and computation.
 - [GoogleCloudPlatform/iap-desktop](https://github.com/GoogleCloudPlatform/iap-desktop) - IAP Desktop is a Windows application that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud.
@@ -1927,7 +1928,7 @@
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [martinbaillie/vault-plugin-secrets-github](https://github.com/martinbaillie/vault-plugin-secrets-github) - Create ephemeral, finely-scoped @github access tokens using @hashicorp Vault.
 - [klauspost/pgzip](https://github.com/klauspost/pgzip) - Go parallel gzip (de)compression
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
 - [Philipp15b/go-steam](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go to allow automation of different actions on the Steam network without running an actual Steam client. Includes APIs for friends, chatting, trading, trade offers and TF2 crafting.
 - [bpftools/kube-bpf](https://github.com/bpftools/kube-bpf) - (e)BPF primitives for Kubernetes
@@ -4870,7 +4871,7 @@
 - [librariesio/package-managers](https://github.com/librariesio/package-managers) - :package: Metadata about every package manager that Libraries.io supports
 - [swiftdocker/docker-swift-from-scratch](https://github.com/swiftdocker/docker-swift-from-scratch) - Swift built from scratch, when the nightly builds take too long.
 - [swiftdocker/docker-swift-dev](https://github.com/swiftdocker/docker-swift-dev) - Easily hack on the Swift language.
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2022. Pull requests welcome.
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to try out machine learning with Python and Jupyter Notebook. Free/open-source resources, notebooks, courses, and other links. First posted in 2016, maintained as of 2022. Pull requests welcome.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [fastlane-old/scan](https://github.com/fastlane-old/scan) - The easiest way to run tests of your iOS and Mac app
 - [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium's OAuth2 API
@@ -8307,6 +8308,7 @@
 
 ## TypeScript 
 
+- [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) - ⏹️ GitHub Action to cancel previous running workflows on push
 - [aws-samples/cloud-gaming-on-ec2-instances](https://github.com/aws-samples/cloud-gaming-on-ec2-instances) - 
 - [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
 - [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
