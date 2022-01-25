@@ -5113,6 +5113,7 @@
 
 ## PowerShell 
 
+- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - 
 - [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - For those who seek to minimize their Windows 10 installs.
 - [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
@@ -6395,6 +6396,7 @@
 
 ## Rust 
 
+- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
@@ -6635,7 +6637,6 @@
 
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [ucb-bar/midas](https://github.com/ucb-bar/midas) - FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL
-- [schoeberl/chisel-examples](https://github.com/schoeberl/chisel-examples) - Chisel examples and code snippets
 - [freechipsproject/diagrammer](https://github.com/freechipsproject/diagrammer) - Provides dot visualizations of chisel/firrtl circuits
 - [chipsalliance/treadle](https://github.com/chipsalliance/treadle) - Chisel/Firrtl execution engine
 - [tensorflow/ecosystem](https://github.com/tensorflow/ecosystem) - Integration of TensorFlow with other open-source frameworks
@@ -6969,6 +6970,7 @@
 
 ## Swift 
 
+- [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - ❇️ Feature Flagging framework in Swift sauce (support dynamic data providers, like FirebaseRemoteConfig)
 - [tonyarnold/Differ](https://github.com/tonyarnold/Differ) - Swift library to generate differences and patches between collections.
 - [drmohundro/SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift
 - [Lakr233/Colorful](https://github.com/Lakr233/Colorful) - A SwiftUI implementation of AppleCard's animated colorful blur background.
@@ -8254,6 +8256,7 @@
 
 - [Xilinx/XilinxTclStore](https://github.com/Xilinx/XilinxTclStore) - Xilinx Tcl Store
 - [westonb/open-pmic](https://github.com/westonb/open-pmic) - A current mode buck converter on the SKY130 PDK
+- [schoeberl/chisel-examples](https://github.com/schoeberl/chisel-examples) - Chisel examples and code snippets
 - [westerndigitalcorporation/swerv_eh1_fpga](https://github.com/westerndigitalcorporation/swerv_eh1_fpga) - FPGA reference design for the the Swerv EH1 Core
 - [level44/design-patterns-in-tcl](https://github.com/level44/design-patterns-in-tcl) - A collection of popular design patterns implemented in TCL language with TclOO package
 - [lowRISC/lowrisc-nexys4](https://github.com/lowRISC/lowrisc-nexys4) - FPGA demo for Digilent NEXYS 4 board
@@ -8331,7 +8334,7 @@
 - [ephread/vscode-ink](https://github.com/ephread/vscode-ink) - Ink support for VS Code
 - [elliotherriman/vscode-ink](https://github.com/elliotherriman/vscode-ink) - Adds support for ink to Visual Studio Code.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [mxcl/xcodebuild](https://github.com/mxcl/xcodebuild) - A continuously resilient `xcodebuild` action. Also it’s the best.
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 - [davidar/pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
