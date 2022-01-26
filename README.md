@@ -1304,7 +1304,7 @@
 - [rickkas7/CellularHelper](https://github.com/rickkas7/CellularHelper) - Handy utility functions for Particle cellular devices
 - [rickkas7/electron_cellular](https://github.com/rickkas7/electron_cellular) - Example code for using the Particle Electron to directly access the u-blox cellular modem
 - [SilverIce/JContainers](https://github.com/SilverIce/JContainers) - JSON-based data structures for Papyrus (TESV Skyrim scripting language)
-- [projectchrono/chrono](https://github.com/projectchrono/chrono) - C++ library for multi-physics simulation
+- [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
 - [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
 - [tpoechtrager/apple-libtapi](https://github.com/tpoechtrager/apple-libtapi) - Apple TAPI Library
@@ -3312,7 +3312,7 @@
 - [hhsnopek/pourover](https://github.com/hhsnopek/pourover) - A library for simple, fast filtering and sorting of large collections in the browser.
 - [jsha/blocktogether](https://github.com/jsha/blocktogether) - Share your blocks and subscribe to others'
 - [dhleong/ps4-waker](https://github.com/dhleong/ps4-waker) - Wake your PS4 over LAN (with help from the Playstation App)
-- [timonreinhard/wemo-client](https://github.com/timonreinhard/wemo-client) - JavaScript client library for controlling and subscribing to Wemo Devices
+- [jimmywarting/wemo-client](https://github.com/jimmywarting/wemo-client) - JavaScript client library for controlling and subscribing to Wemo Devices
 - [JoeKuhns/PiedPiPer.safariextension](https://github.com/JoeKuhns/PiedPiPer.safariextension) - Add Picture-in-Picture Functionality to Netflix, YouTube, Plex, and dailymotion in macOS Sierra
 - [keen/keen-dataviz.js](https://github.com/keen/keen-dataviz.js) - Data Visualization Charting Library
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
