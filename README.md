@@ -165,6 +165,7 @@
 
 ## Assembly 
 
+- [visrealm/hbc-56](https://github.com/visrealm/hbc-56) - Homebrew 6502 on a backplane computer
 - [Myself086/Project-Nested](https://github.com/Myself086/Project-Nested) - 
 - [fjballest/nixMarkIV](https://github.com/fjballest/nixMarkIV) - Nix source
 - [nanochess/heart](https://github.com/nanochess/heart) - x86 16-bit program drawing the heart curve equation
@@ -216,6 +217,7 @@
 
 ## C 
 
+- [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
 - [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
 - [NovFR/DoS-2-Savegame-Editor](https://github.com/NovFR/DoS-2-Savegame-Editor) - Savegame Editor for Divinity Original Sin II
 - [smaeul/linux](https://github.com/smaeul/linux) - Patches include sunxi platform support and various driver fixes
@@ -916,6 +918,7 @@
 
 ## C# # 
 
+- [LaughingLeader-DOS2-Mods/DivinityModManager](https://github.com/LaughingLeader-DOS2-Mods/DivinityModManager) - A mod manager for Divinity: Original Sin - Definitive Edition.
 - [philosowaffle/peloton-to-garmin](https://github.com/philosowaffle/peloton-to-garmin) - Convert workout data from Peloton into JSON/TCX/FIT files that can be uploaded to Garmin Connect
 - [gabbyh/MEHeadMorphExporter](https://github.com/gabbyh/MEHeadMorphExporter) - A tool to export NPC headmorph for Mass effect trilogy (requires ME3Explorer to work)
 - [TheFuseLab/VL.Fuse](https://github.com/TheFuseLab/VL.Fuse) - A library for visually programming on the GPU, built to enable rapid workflows and modular approaches to accelerated graphics, logic and computation.
@@ -1649,7 +1652,6 @@
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [NocturnalSolutions/Wastebin](https://github.com/NocturnalSolutions/Wastebin) - A pastebin written in Swift with the Kitura framework.
 - [danielquinn/aletheia](https://github.com/danielquinn/aletheia) - Fight fake news with cryptography & human nature
-- [ios-factor/ios-factor.com](https://github.com/ios-factor/ios-factor.com) - A methodology for building high-quality iOS apps on a solid architecture
 - [MrCheeze/botw-object-map](https://github.com/MrCheeze/botw-object-map) - A map of every single object in Zelda: Breath of the Wild. https://mrcheeze.github.io/botw-object-map
 - [Squarespace/squarespace-social-links](https://github.com/Squarespace/squarespace-social-links) - 
 - [Squarespace/endeavor-framework](https://github.com/Squarespace/endeavor-framework) - 
@@ -2399,6 +2401,7 @@
 - [lmanul/welltemperedtraveler](https://github.com/lmanul/welltemperedtraveler) - Well-Tempered Traveler
 - [mspinksosu/NES-Power-Board](https://github.com/mspinksosu/NES-Power-Board) - A PCB that will fit in place of the stock NES frontloader's RF module.
 - [dougallj/applegpu](https://github.com/dougallj/applegpu) - Apple G13 GPU architecture docs and tools
+- [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
 - [fcoury/kbpcb](https://github.com/fcoury/kbpcb) - Automated Keyboard PCB generator for KiCad
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
@@ -5000,7 +5003,7 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [operasoftware/ssh-key-authority](https://github.com/operasoftware/ssh-key-authority) - A tool for managing SSH key access to any number of servers.
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
-- [roots/sage](https://github.com/roots/sage) - WordPress starter theme with a modern development workflow
+- [roots/sage](https://github.com/roots/sage) - WordPress starter theme with a modern development workflow using Blade components and templates
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
 - [phpvirtualbox/phpvirtualbox](https://github.com/phpvirtualbox/phpvirtualbox) - A web interface to manage and access Virtualbox machines.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
@@ -5016,6 +5019,7 @@
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [docker/labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [sagebind/slackyboy](https://github.com/sagebind/slackyboy) - A helpful, programmable chat bot for Slack
+- [sagebind/slack-client](https://github.com/sagebind/slack-client) - A better Slack client, with RTM API support.
 - [sagebind/slack-client](https://github.com/sagebind/slack-client) - A better Slack client, with RTM API support.
 - [openva/richmondsunlight.com](https://github.com/openva/richmondsunlight.com) - The Richmond Sunlight website.
 - [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
@@ -5147,6 +5151,7 @@
 
 ## Python 
 
+- [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams
@@ -6614,10 +6619,10 @@
 
 - [Flameeyes/autotools-mythbuster](https://github.com/Flameeyes/autotools-mythbuster) - Autotools Mythbuster (The Guide)
 - [pidcodes/pidcodes.github.com](https://github.com/pidcodes/pidcodes.github.com) - Website for pid.codes
-- [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
 - [NSHipster/XcodeBuildSettings.com](https://github.com/NSHipster/XcodeBuildSettings.com) - A convenient reference of available build settings for Xcode projects.
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
+- [ios-factor/ios-factor.com](https://github.com/ios-factor/ios-factor.com) - A methodology for building high-quality iOS apps on a solid architecture
 - [OCamlverse/ocamlverse.github.io](https://github.com/OCamlverse/ocamlverse.github.io) - Documentation of everything relevant in the OCaml world
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
 - [macadmininfo/macadmininfo.github.io](https://github.com/macadmininfo/macadmininfo.github.io) - Resources for both beginning and experienced administrators of Mac/Apple technology.
@@ -6643,7 +6648,7 @@
 - [freechipsproject/chisel-testers](https://github.com/freechipsproject/chisel-testers) - Provides various testers for chisel users
 - [faermanj/aws-daleks](https://github.com/faermanj/aws-daleks) - Iterate and exterminate an AWS Account
 - [firesim/firesim](https://github.com/firesim/firesim) - FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
-- [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [freechipsproject/firrtl-interpreter](https://github.com/freechipsproject/firrtl-interpreter) - A scala based simulator for circuits described by a LoFirrtl file
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
@@ -6970,6 +6975,7 @@
 
 ## Swift 
 
+- [will-lumley/RichEditor](https://github.com/will-lumley/RichEditor) - The macOS RichEditor library allows you to turn a native NSTextView into a full blown WYSIWYG editor.
 - [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - ❇️ Feature Flagging framework in Swift sauce (support dynamic data providers, like FirebaseRemoteConfig)
 - [tonyarnold/Differ](https://github.com/tonyarnold/Differ) - Swift library to generate differences and patches between collections.
 - [drmohundro/SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift
