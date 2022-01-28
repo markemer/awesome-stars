@@ -217,6 +217,7 @@
 
 ## C 
 
+- [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) - 
 - [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
 - [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
 - [NovFR/DoS-2-Savegame-Editor](https://github.com/NovFR/DoS-2-Savegame-Editor) - Savegame Editor for Divinity Original Sin II
@@ -918,6 +919,7 @@
 
 ## C# # 
 
+- [tmxkn1/D-OS-Save-Editor](https://github.com/tmxkn1/D-OS-Save-Editor) - A save editor for Divinity Original Sin: Enhanced Edition
 - [LaughingLeader-DOS2-Mods/DivinityModManager](https://github.com/LaughingLeader-DOS2-Mods/DivinityModManager) - A mod manager for Divinity: Original Sin - Definitive Edition.
 - [philosowaffle/peloton-to-garmin](https://github.com/philosowaffle/peloton-to-garmin) - Convert workout data from Peloton into JSON/TCX/FIT files that can be uploaded to Garmin Connect
 - [gabbyh/MEHeadMorphExporter](https://github.com/gabbyh/MEHeadMorphExporter) - A tool to export NPC headmorph for Mass effect trilogy (requires ME3Explorer to work)
@@ -2267,7 +2269,6 @@
 - [ScottHelme/HPACK-Encode](https://github.com/ScottHelme/HPACK-Encode) - Encode strings with HPACK.
 - [pwaller/go-ffmpeg-video-encoding](https://github.com/pwaller/go-ffmpeg-video-encoding) - Basic bindings for ffmpeg video encoding
 - [vivint/infectious](https://github.com/vivint/infectious) - Reed-Solomon forward error correcting library
-- [JKhawaja/fabric](https://github.com/JKhawaja/fabric) - Concurrent access control via dependency graphs
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [campoy/go-tooling-workshop](https://github.com/campoy/go-tooling-workshop) - A workshop covering all the tools gophers use in their day to day life
@@ -5020,7 +5021,6 @@
 - [docker/labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [sagebind/slackyboy](https://github.com/sagebind/slackyboy) - A helpful, programmable chat bot for Slack
 - [sagebind/slack-client](https://github.com/sagebind/slack-client) - A better Slack client, with RTM API support.
-- [sagebind/slack-client](https://github.com/sagebind/slack-client) - A better Slack client, with RTM API support.
 - [openva/richmondsunlight.com](https://github.com/openva/richmondsunlight.com) - The Richmond Sunlight website.
 - [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
 - [google/arc-jazzy-linter](https://github.com/google/arc-jazzy-linter) - A jazzy linter for use with Phabricator's arc command line tool.
@@ -5156,7 +5156,7 @@
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams
 - [yaqwsx/Pinion](https://github.com/yaqwsx/Pinion) - Generate interactive and nice-looking diagrams for your PCBs!
-- [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Calendar and task manager for Linux terminal with minimal and customizable UI.
+- [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [YadiraF/DECA](https://github.com/YadiraF/DECA) - DECA: Detailed Expression Capture and Animation (SIGGRAPH 2021)
 - [rockchip-linux/rknn-toolkit2](https://github.com/rockchip-linux/rknn-toolkit2) - 
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
@@ -6478,7 +6478,7 @@
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - High-level procedural templating language
 - [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
-- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware in order to maximally leverage the power of language safety, and thus shift OS responsibilities (resource management) into the compiler.
+- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware to maximally leverage the power of language safety, and thus shift OS responsibilities like resource management into the compiler.
 - [jac3km4/redscript](https://github.com/jac3km4/redscript) - Compiler/decompiler toolkit for redscript
 - [mattsse/voyager](https://github.com/mattsse/voyager) - crawl and scrape web pages in rust
 - [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
@@ -6975,6 +6975,7 @@
 
 ## Swift 
 
+- [envoy/Embassy](https://github.com/envoy/Embassy) - Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux
 - [will-lumley/RichEditor](https://github.com/will-lumley/RichEditor) - The macOS RichEditor library allows you to turn a native NSTextView into a full blown WYSIWYG editor.
 - [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - ❇️ Feature Flagging framework in Swift sauce (support dynamic data providers, like FirebaseRemoteConfig)
 - [tonyarnold/Differ](https://github.com/tonyarnold/Differ) - Swift library to generate differences and patches between collections.
