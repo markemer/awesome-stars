@@ -1894,6 +1894,11 @@
 
 ## Go 
 
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux
+- [unix-streamdeck/driver](https://github.com/unix-streamdeck/driver) - An application and Go library to control your Elgato Stream Deck on Linux
+- [unix-streamdeck/streamdeckui](https://github.com/unix-streamdeck/streamdeckui) - 
+- [unix-streamdeck/streamdeckd](https://github.com/unix-streamdeck/streamdeckd) - 
+- [Paperspace/paperspace-go](https://github.com/Paperspace/paperspace-go) - Paperspace API go library
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 [WIP] Feature-rich interactive Jira command line.
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
@@ -2761,6 +2766,8 @@
 
 ## JavaScript 
 
+- [elgatosf/streamdeck-plugintemplate](https://github.com/elgatosf/streamdeck-plugintemplate) - Stream Deck SDK: Plugin Template
+- [Paperspace/client-sdk](https://github.com/Paperspace/client-sdk) - Paperspace SDK for client-side browser environments
 - [yaqwsx/jlcparts](https://github.com/yaqwsx/jlcparts) - Better parametric search for components available for JLC PCB assembly
 - [mengshukeji/Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [ottomatica/slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
@@ -5151,6 +5158,8 @@
 
 ## Python 
 
+- [timothycrosley/streamdeck-ui](https://github.com/timothycrosley/streamdeck-ui) - A Linux compatible UI for the Elgato Stream Deck.
+- [abcminiuser/python-elgato-streamdeck](https://github.com/abcminiuser/python-elgato-streamdeck) - Python library to control the Elgato Stream Deck.
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
