@@ -328,7 +328,7 @@
 - [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple Win64/Win32 applications on arm64/ppc64le/x86_64 Linux and x86_64 Mac
 - [ARMmbed/DAPLink](https://github.com/ARMmbed/DAPLink) - 
 - [saintmarina/undelete_jpg](https://github.com/saintmarina/undelete_jpg) - Recovers JPG images from SD cards and hard drives.
-- [Jana-Marie/EF-S-Adapter](https://github.com/Jana-Marie/EF-S-Adapter) - https://twitter.com/JanHenrikH/status/1317520812761546753
+- [Jana-Marie/EF-S-Adapter](https://github.com/Jana-Marie/EF-S-Adapter) - https://twitter.com/_Jana_Marie/status/1317520812761546753
 - [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [system76/ec](https://github.com/system76/ec) - System76 Open Source Embedded Controller
 - [cocoahuke/coBlue](https://github.com/cocoahuke/coBlue) - Use Bluetooth Low Energy for remote commands, file transfer, Based on bluez Bluetooth protocol stack (BLE Terminal)
@@ -2582,7 +2582,7 @@
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [jonschoning/espial](https://github.com/jonschoning/espial) - Espial is an open-source, web-based bookmarking server.
 - [smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
-- [simonmar/alex](https://github.com/simonmar/alex) - A lexical analyser generator for Haskell
+- [haskell/alex](https://github.com/haskell/alex) - A lexical analyser generator for Haskell
 - [dmcardle/piet-llvm-frontend](https://github.com/dmcardle/piet-llvm-frontend) - An LLVM-based compiler for Piet, the esoteric programming language.
 - [haskell/parsec](https://github.com/haskell/parsec) - A monadic parser combinator library
 - [fugue/fregot](https://github.com/fugue/fregot) - Fugue Rego Toolkit
@@ -2768,6 +2768,7 @@
 
 ## JavaScript 
 
+- [alex-pinkus/tree-sitter-swift](https://github.com/alex-pinkus/tree-sitter-swift) - A tree-sitter grammar for the Swift programming language.
 - [elgatosf/streamdeck-plugintemplate](https://github.com/elgatosf/streamdeck-plugintemplate) - Stream Deck SDK: Plugin Template
 - [Paperspace/client-sdk](https://github.com/Paperspace/client-sdk) - Paperspace SDK for client-side browser environments
 - [yaqwsx/jlcparts](https://github.com/yaqwsx/jlcparts) - Better parametric search for components available for JLC PCB assembly
@@ -2785,7 +2786,6 @@
 - [Mikhus/canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [maxogden/xml-json](https://github.com/maxogden/xml-json) - convert xml to json on the command line. not streaming, pure javascript
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
 - [thekodester/mass_effect_legendary_edition_checklist_guide](https://github.com/thekodester/mass_effect_legendary_edition_checklist_guide) - This guide is meant for quick reference and the mission order is just a suggestion.
 - [johnelm/node-jxa](https://github.com/johnelm/node-jxa) - Use your favorite node.js modules (and JS editor) for your Javascript OSX automation scripts
@@ -5193,6 +5193,7 @@
 - [aceisace/Inkycal](https://github.com/aceisace/Inkycal) - Inykcal is a software written in python for selected E-Paper displays. It converts these displays into useful information dashboards. It's open-source, free for personal use, fully modular and user-friendly. Despite all this, Inkycal can run well even on the Raspberry Pi Zero W. Oh, and it's open for third-party modules! Hooray!
 - [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
 - [d00mfish/NFC-Spotify-Player](https://github.com/d00mfish/NFC-Spotify-Player) - 
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
 - [dbr/tvnamer](https://github.com/dbr/tvnamer) - Automatic TV episode file renamer, uses data from thetvdb.com via tvdb_api
@@ -8339,7 +8340,7 @@
 - [jeffanddom/ink2txt](https://github.com/jeffanddom/ink2txt) - 
 - [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) - ⏹️ GitHub Action to cancel previous running workflows on push
 - [aws-samples/cloud-gaming-on-ec2-instances](https://github.com/aws-samples/cloud-gaming-on-ec2-instances) - 
-- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
