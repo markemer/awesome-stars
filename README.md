@@ -4412,6 +4412,7 @@
 
 ## Others 
 
+- [kai5263499/osx-security-awesome](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
 - [ThomasVon2021/pikvm-CM4-Board](https://github.com/ThomasVon2021/pikvm-CM4-Board) - Cheap and high performance hardware based on CM4 for pikvm
 - [balintkissdev/awesome-dos](https://github.com/balintkissdev/awesome-dos) - Curated list of references for development of DOS applications.
 - [joric/nrfmicro](https://github.com/joric/nrfmicro) - Pro Micro-compatible Bluetooth 5.2 board with Li-Po charger and USB-C (nRF52840-based)
@@ -4818,6 +4819,7 @@
 - [bunnie/ltc-book-hardware](https://github.com/bunnie/ltc-book-hardware) - Hardware mounted within the LTC Book
 - [VoltaicEngineering/Solar-Panel-Drawings](https://github.com/VoltaicEngineering/Solar-Panel-Drawings) - Technical Drawings of Voltaic Solar Panels
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
+- [awsdocs/aws-ruby-developer-guide](https://github.com/awsdocs/aws-ruby-developer-guide) - Source for the AWS SDK for Ruby Developer Guide. Provides information about how to install, set up, and use the AWS SDK for Ruby to create Ruby applications that use AWS services.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [turbobabr/Sketch-Plugins-Cookbook](https://github.com/turbobabr/Sketch-Plugins-Cookbook) - A collection of recipes for Sketch App plugins developers
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
@@ -6182,7 +6184,6 @@
 - [dergachev/screengif](https://github.com/dergachev/screengif) - Create animated gif screencasts.
 - [theswiftdev/awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) - Awesome native Xcode extensions.
 - [BinaryBeard/fastlane-plugin-codecov_reporter](https://github.com/BinaryBeard/fastlane-plugin-codecov_reporter) - Fastlane plugin that uploads coverage reports to Codecov.io
-- [awsdocs/aws-ruby-developer-guide](https://github.com/awsdocs/aws-ruby-developer-guide) - Source for the AWS SDK for Ruby Developer Guide. Provides information about how to install, set up, and use the AWS SDK for Ruby to create Ruby applications that use AWS services.
 - [segiddins/cocoapods-dependencies](https://github.com/segiddins/cocoapods-dependencies) - Shows a project's CocoaPods dependency graph
 - [oracle/truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
 - [licensee/licensee](https://github.com/licensee/licensee) - A Ruby Gem to detect under what license a project is distributed.
@@ -6995,7 +6996,7 @@
 - [pqrs-org/ShowyEdge](https://github.com/pqrs-org/ShowyEdge) - A visible indicator of the current input source for macOS.
 - [envoy/Embassy](https://github.com/envoy/Embassy) - Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux
 - [will-lumley/RichEditor](https://github.com/will-lumley/RichEditor) - The macOS RichEditor library allows you to turn a native NSTextView into a full blown WYSIWYG editor.
-- [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - ❇️ Feature Flagging framework in Swift sauce (support dynamic data providers, like FirebaseRemoteConfig)
+- [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - 🧪 Feature Flagging made easy, for Swift
 - [tonyarnold/Differ](https://github.com/tonyarnold/Differ) - Swift library to generate differences and patches between collections.
 - [drmohundro/SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift
 - [Lakr233/Colorful](https://github.com/Lakr233/Colorful) - A SwiftUI implementation of AppleCard's animated colorful blur background.
