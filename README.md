@@ -217,6 +217,7 @@
 
 ## C 
 
+- [bikerglen/usb-dip-switch-stick](https://github.com/bikerglen/usb-dip-switch-stick) - Use the DIP switch USB Stick for when your application needs configuration settings but a JSON or XML file on disk is overkill.
 - [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) - 
 - [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
 - [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
@@ -1607,7 +1608,7 @@
 
 ## CMake 
 
-- [lifting-bits/sleigh](https://github.com/lifting-bits/sleigh) - CMake build for SLEIGH
+- [lifting-bits/sleigh](https://github.com/lifting-bits/sleigh) - Unofficial CMake build for Ghidra SLEIGH
 - [azonenberg/scopehal-waveforms-bridge](https://github.com/azonenberg/scopehal-waveforms-bridge) - Socket server to bridge from Digilent WaveForms SDK to libscopehal
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [KiCad/kicad-packages3D](https://github.com/KiCad/kicad-packages3D) - Official KiCad 3D model libraries for rendering and MCAD integration
@@ -3116,7 +3117,7 @@
 - [vega/vega-desktop](https://github.com/vega/vega-desktop) - App for viewing visualizations created in Vega or Vega-lite
 - [dsc/Tab-Manager](https://github.com/dsc/Tab-Manager) - The source code of the google chrome extension "Tab Manager"
 - [kvaggelakos/serverless-ffmpeg](https://github.com/kvaggelakos/serverless-ffmpeg) - Bucket event driven FFMPEG built with cloud functions
-- [britecharts/britecharts](https://github.com/britecharts/britecharts) - Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
+- [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
 - [neocotic/convert-svg](https://github.com/neocotic/convert-svg) - Node.js packages for converting SVG into other formats using headless Chromium
 - [danvk/dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag
 - [securityheaders/security-headers-cloudflare-worker](https://github.com/securityheaders/security-headers-cloudflare-worker) - A Cloudflare Worker to enable Security Headers on your site.
@@ -3269,7 +3270,7 @@
 - [captainsafia/giddy](https://github.com/captainsafia/giddy) - A CLI wrapper around git for an improved developer experience
 - [zalando/zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
 - [facebook/prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
@@ -4786,7 +4787,7 @@
 - [riscvarchive/riscv-glibc](https://github.com/riscvarchive/riscv-glibc) - RISC-V port of GNU's libc
 - [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with support for legacy and LSTM OCR engine
 - [tesseract-ocr/langdata](https://github.com/tesseract-ocr/langdata) - Source training data for Tesseract for lots of languages
-- [sifive/freedom-u-sdk](https://github.com/sifive/freedom-u-sdk) - Freedom Unleashed Software Development Kit
+- [sifive/freedom-u-sdk](https://github.com/sifive/freedom-u-sdk) - Freedom U Software Development Kit (FUSDK)
 - [macmade/MachOKit](https://github.com/macmade/MachOKit) - Swift framework for parsing Mach-O files.
 - [iosre/iOSAppReverseEngineering](https://github.com/iosre/iOSAppReverseEngineering) - The world’s 1st book of very detailed iOS App reverse engineering skills :)
 - [ephtracy/voxel-model](https://github.com/ephtracy/voxel-model) - 
@@ -6993,6 +6994,7 @@
 
 ## Swift 
 
+- [apple/swift-docc-plugin](https://github.com/apple/swift-docc-plugin) - Swift Package Manager command plugin for Swift-DocC
 - [pqrs-org/ShowyEdge](https://github.com/pqrs-org/ShowyEdge) - A visible indicator of the current input source for macOS.
 - [envoy/Embassy](https://github.com/envoy/Embassy) - Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux
 - [will-lumley/RichEditor](https://github.com/will-lumley/RichEditor) - The macOS RichEditor library allows you to turn a native NSTextView into a full blown WYSIWYG editor.
