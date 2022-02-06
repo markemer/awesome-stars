@@ -1896,6 +1896,8 @@
 
 ## Go 
 
+- [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
+- [ClickSend/clicksend-go](https://github.com/ClickSend/clicksend-go) - ClickSend Go SDK
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux
 - [unix-streamdeck/driver](https://github.com/unix-streamdeck/driver) - An application and Go library to control your Elgato Stream Deck on Linux
 - [unix-streamdeck/streamdeckui](https://github.com/unix-streamdeck/streamdeckui) - 
@@ -5087,6 +5089,7 @@
 
 ## Perl 
 
+- [ClickSend/clicksend-perl](https://github.com/ClickSend/clicksend-perl) - ClickSend Perl SDK
 - [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) - Server for the MusicBrainz project (website, API, database tools)
 - [RichiH/myrepos](https://github.com/RichiH/myrepos) - 
 - [davidcarlisle/latexcgi](https://github.com/davidcarlisle/latexcgi) - LaTeX server via perl cgi script, developed for learnlatex.org
@@ -5238,7 +5241,7 @@
 - [nalgeon/dataviz](https://github.com/nalgeon/dataviz) - Data visualization guide for presentations, reports, and dashboards
 - [1Password/connect-sdk-python](https://github.com/1Password/connect-sdk-python) - Python SDK for 1Password Connect
 - [1Password/ansible-onepasswordconnect-collection](https://github.com/1Password/ansible-onepasswordconnect-collection) - Ansible Collection for 1Password Connect
-- [MoralCode/pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - Research shows Google and Apple are collecting data on you. Block some of this non-consensual telemetry using pihole.
+- [MoralCode/pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - A research-based starter pihole list to improve your privacy
 - [mzucker/maptrace](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images
 - [rizinorg/rz-pipe](https://github.com/rizinorg/rz-pipe) - Access rizin via pipe from any programming language!
 - [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
@@ -6047,6 +6050,7 @@
 
 ## Ruby 
 
+- [ClickSend/clicksend-ruby](https://github.com/ClickSend/clicksend-ruby) - ClickSend Ruby SDK
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [SiarheiFedartsou/fastlane-plugin-versioning](https://github.com/SiarheiFedartsou/fastlane-plugin-versioning) - Extends fastlane versioning actions. Allows to set/get versions without using agvtool and do some other small tricks.
 - [mbj/unparser](https://github.com/mbj/unparser) - Turn Ruby AST into semantically equivalent Ruby source
@@ -6994,6 +6998,7 @@
 
 ## Swift 
 
+- [ClickSend/clicksend-swift](https://github.com/ClickSend/clicksend-swift) - ClickSend Swift SDK
 - [apple/swift-docc-plugin](https://github.com/apple/swift-docc-plugin) - Swift Package Manager command plugin for Swift-DocC
 - [pqrs-org/ShowyEdge](https://github.com/pqrs-org/ShowyEdge) - A visible indicator of the current input source for macOS.
 - [envoy/Embassy](https://github.com/envoy/Embassy) - Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux
