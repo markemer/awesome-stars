@@ -217,6 +217,8 @@
 
 ## C 
 
+- [raspberrypi/pico-examples](https://github.com/raspberrypi/pico-examples) - 
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
 - [bikerglen/usb-dip-switch-stick](https://github.com/bikerglen/usb-dip-switch-stick) - Use the DIP switch USB Stick for when your application needs configuration settings but a JSON or XML file on disk is overkill.
 - [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) - 
 - [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
@@ -1026,6 +1028,7 @@
 
 ## C++ 
 
+- [mn416/QPULib](https://github.com/mn416/QPULib) - Language and compiler for the Raspberry Pi GPU
 - [fredemmott/StreamDeck-CPPSDK](https://github.com/fredemmott/StreamDeck-CPPSDK) - A fork of Elgato's C++ StreamDeck SDK, focussing on reusability
 - [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
 - [Jyers/Marlin](https://github.com/Jyers/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
@@ -6472,7 +6475,7 @@
 - [awslabs/smithy-rs](https://github.com/awslabs/smithy-rs) - 
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
 - [blitz/clac](https://github.com/blitz/clac) - A reverse polish calculator - a modern replacement for dc
-- [sixtyfpsui/sixtyfps](https://github.com/sixtyfpsui/sixtyfps) - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
@@ -6999,6 +7002,7 @@
 
 ## Swift 
 
+- [paulz/PerspectiveTransform](https://github.com/paulz/PerspectiveTransform) - Calculate CATransform3D between two Perspectives
 - [nmandica/DirectedGraph](https://github.com/nmandica/DirectedGraph) - SwiftUI package for displaying directed graphs
 - [saagarjha/unxip](https://github.com/saagarjha/unxip) - A fast Xcode unarchiver
 - [ClickSend/clicksend-swift](https://github.com/ClickSend/clicksend-swift) - ClickSend Swift SDK
@@ -7080,7 +7084,7 @@
 - [ephread/awesome-ios](https://github.com/ephread/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [macmade/DSStoreView](https://github.com/macmade/DSStoreView) - .DS_Store file parser/viewer.
 - [krzyzanowskim/SwiftUI.AnimatedImage](https://github.com/krzyzanowskim/SwiftUI.AnimatedImage) - SwiftUI AnimatedImage View
-- [MaxDesiatov/XMLCoder](https://github.com/MaxDesiatov/XMLCoder) - Easy XML parsing using Codable protocols in Swift
+- [CoreOffice/XMLCoder](https://github.com/CoreOffice/XMLCoder) - Easy XML parsing using Codable protocols in Swift
 - [chenyun122/StepIndicator](https://github.com/chenyun122/StepIndicator) - StepIndicator is an iOS library that indicates steps in an animated way.
 - [mleiv/MEGameTracker](https://github.com/mleiv/MEGameTracker) - The source code for my Mass Effect tracking app.
 - [softhausHQ/CircleBar](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
