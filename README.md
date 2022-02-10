@@ -773,7 +773,7 @@
 - [libgit2/rugged](https://github.com/libgit2/rugged) - ruby bindings to libgit2
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [yeokm1/reflections-on-trusting-trust](https://github.com/yeokm1/reflections-on-trusting-trust) - A talk (including sample code) about the Turing award lecture "Reflections on Trusting Trust" originally given by Ken Thompson.
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [endrazine/wcc](https://github.com/endrazine/wcc) - The Witchcraft Compiler Collection
 - [twitter/ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) - Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients
 - [SynologyOpenSource/tmux](https://github.com/SynologyOpenSource/tmux) - Synology example tmux package
@@ -2406,6 +2406,7 @@
 
 ## HTML 
 
+- [mitre/hse-mwi](https://github.com/mitre/hse-mwi) - The Mental Wellness Index is a framework and dashboard tool that provides a picture of community-level mental wellness for each zip code in the nation
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [lettergram/vocalvoters.com](https://github.com/lettergram/vocalvoters.com) - Contact your Government Representative Send a Letter or Fax in &lt;30 Seconds
 - [Nexus-Mods/sso-integration-demo](https://github.com/Nexus-Mods/sso-integration-demo) - A simple page to demonstrate the SSO integration using simple JS for a website.
@@ -4376,7 +4377,6 @@
 - [mattgemmell/MGTwitterEngine](https://github.com/mattgemmell/MGTwitterEngine) - Objective-C Twitter integration library for Mac OS X and iPhone. Official repository.
 - [owainhunt/UAGithubEngine](https://github.com/owainhunt/UAGithubEngine) - Objective-C Wrapper for the Github API
 - [beheadedmyway/gity](https://github.com/beheadedmyway/gity) - The Mac Client for Git
-- [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps.
 - [ccgus/fmdb](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite
 - [karelia/ConnectionKit](https://github.com/karelia/ConnectionKit) - FTP/SFTP/WebDAV etc. for Cocoa.  Join the ConnectionKit mailing list for information and suggestions.
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
@@ -5171,6 +5171,7 @@
 
 ## Python 
 
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [dbalan/plotter-scripts](https://github.com/dbalan/plotter-scripts) - Random Plotter scripts for HP7440A
 - [timothycrosley/streamdeck-ui](https://github.com/timothycrosley/streamdeck-ui) - A Linux compatible UI for the Elgato Stream Deck.
 - [abcminiuser/python-elgato-streamdeck](https://github.com/abcminiuser/python-elgato-streamdeck) - Python library to control the Elgato Stream Deck.
@@ -8267,6 +8268,7 @@
 - [nicktoumpelis/HiBeacons](https://github.com/nicktoumpelis/HiBeacons) - An iBeacons example app for iOS 10, with Apple Watch (watchOS 3.0) support, written in Swift 3.
 - [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
 - [glebd/cocoafob](https://github.com/glebd/cocoafob) - A set of registration code generation and verification helpers for Obj-C, Ruby (Potion Store), PHP and FastSpring
+- [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps.
 - [kylebrowning/waterwheel.swift](https://github.com/kylebrowning/waterwheel.swift) - The Waterwheel Swift SDK provides classes to natively connect iOS, macOS, tvOS, and watchOS applications to Drupal 7 and 8.
 
 ## SystemVerilog 
@@ -8401,7 +8403,7 @@
 - [curvenote/editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux - by Curvenote.
 - [espressif/vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) - Visual Studio Code extension for ESP-IDF projects
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
-- [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a powerful, lightspeed collaborative workspace for developer teams. Forum (New!): https://github.com/BoostIO/BoostNote-App/discussions
+- [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
