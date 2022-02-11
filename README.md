@@ -1639,7 +1639,7 @@
 ## CSS 
 
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
-- [lxndrblz/anatole](https://github.com/lxndrblz/anatole) - Anatole is a minimalist two-column hugo theme based on farbox-theme-Anatole.
+- [lxndrblz/anatole](https://github.com/lxndrblz/anatole) - Anatole is a minimalistic two-column theme for Hugo.
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [Automattic/_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
 - [adobe-fonts/source-serif](https://github.com/adobe-fonts/source-serif) - Typeface for setting text in many sizes, weights, and languages. Designed to complement Source Sans.
@@ -5826,7 +5826,6 @@
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [cmdln/flashbake](https://github.com/cmdln/flashbake) - Scripts to gather information for including in version history comments and to make using source control a bit simpler for non-technical projects.
 - [googlefonts/fontbakery](https://github.com/googlefonts/fontbakery) - Font quality assurance tool written in Python 3.
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
@@ -7003,6 +7002,7 @@
 
 ## Swift 
 
+- [palle-k/Graphite](https://github.com/palle-k/Graphite) - Simple force directed graph drawing for iOS
 - [paulz/PerspectiveTransform](https://github.com/paulz/PerspectiveTransform) - Calculate CATransform3D between two Perspectives
 - [nmandica/DirectedGraph](https://github.com/nmandica/DirectedGraph) - SwiftUI package for displaying directed graphs
 - [saagarjha/unxip](https://github.com/saagarjha/unxip) - A fast Xcode unarchiver
