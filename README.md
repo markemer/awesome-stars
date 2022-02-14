@@ -3957,7 +3957,7 @@
 - [dcsch/macho-browser](https://github.com/dcsch/macho-browser) - Mac browser for Mach-O binaries (macOS, iOS, watchOS, and tvOS)
 - [novemberfiveco/xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - A tool to convert Xcode .xib to .storyboard files
 - [material-components/material-components-ios](https://github.com/material-components/material-components-ios) - [In maintenance mode] Modular and customizable Material Design UI components for iOS
-- [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript
+- [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
 - [insidegui/AppleEvents](https://github.com/insidegui/AppleEvents) - The unofficial Apple Events app for macOS
 - [kenshin03/KTPomodoro](https://github.com/kenshin03/KTPomodoro) - Mini Pomodoro Timer app designed for the  Watch, written in Objective-C. See github.com/kenshin03/Cherry.
 - [hezi/Storytime](https://github.com/hezi/Storytime) - Storytime is a framework to parse and render Interface Builder Storyboard files. MIT Licensed
