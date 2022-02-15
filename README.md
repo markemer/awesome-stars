@@ -441,6 +441,7 @@
 - [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
 - [adafruit/Adafruit_nRF52_Bootloader](https://github.com/adafruit/Adafruit_nRF52_Bootloader) - USB-enabled bootloaders for the nRF52 BLE SoC chips
 - [gregfjohnson/aplette](https://github.com/gregfjohnson/aplette) - This is a new take on an old language:  APL.  The goal is to pare APL down to its elegant essence.  This version of APL is oriented toward scripting within a Unix-style computing environment.
+- [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [nRFMesh/nRF52_Mesh](https://github.com/nRFMesh/nRF52_Mesh) - nRF52 custom RF mesh sensors and dongle firmware using nRF SDK
 - [wbenny/ia32-doc](https://github.com/wbenny/ia32-doc) - IA32-doc is a project which aims to put as many definitions from the Intel Manual into machine-processable format as possible
@@ -1215,7 +1216,6 @@
 - [openthread/wpantund](https://github.com/openthread/wpantund) - Wireless Network Interface Daemon for Low-Power Wireless SoCs
 - [kfrlib/kfr](https://github.com/kfrlib/kfr) - Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON)
 - [Croteam-official/Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
-- [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [percona/PerconaFT](https://github.com/percona/PerconaFT) - PerconaFT is a high-performance, transactional key-value store
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor) - A collection of out-of-tree LLVM passes for teaching and learning
@@ -7049,7 +7049,7 @@
 - [JohnSundell/CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs.
 - [heestand-xyz/TextureMap](https://github.com/heestand-xyz/TextureMap) - Map textures in different formats like UIImage, NSImage, CGImage, CIImage and MTLTexture
 - [yonaskolb/Genesis](https://github.com/yonaskolb/Genesis) - Templating, scaffolding and generation tool
-- [steventroughtonsmith/catalystgridapp](https://github.com/steventroughtonsmith/catalystgridapp) - Grid-based app for macOS Catalyst (Mac Idiom) with navigation stack
+- [steventroughtonsmith/catalystgridapp](https://github.com/steventroughtonsmith/catalystgridapp) - Grid-based app for macOS Catalyst (Mac Idiom) with push/pop navigation stack
 - [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [apple/swift-experimental-string-processing](https://github.com/apple/swift-experimental-string-processing) - An early experimental general-purpose pattern matching engine for Swift.
 - [apple/swift-docc-symbolkit](https://github.com/apple/swift-docc-symbolkit) - A Swift package for encoding and decoding Swift Symbol Graph files.
