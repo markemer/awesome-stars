@@ -2771,7 +2771,7 @@
 - [nathanmarz/storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
 - [github/maven-plugins](https://github.com/github/maven-plugins) - Official GitHub Maven Plugins
 - [travisdesell/salsa_lite](https://github.com/travisdesell/salsa_lite) - The SALSA Lite (SALSA 2.0 Alpha) Programing Language
-- [cf-samples-attic/springsource-cloudfoundry-samples](https://github.com/cf-samples-attic/springsource-cloudfoundry-samples) - Samples for Cloud Foundry
+- [vmware-archive/springsource-cloudfoundry-samples](https://github.com/vmware-archive/springsource-cloudfoundry-samples) - Samples for Cloud Foundry
 - [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous Http and WebSocket Client library for Java
 - [mobl/mobl](https://github.com/mobl/mobl) - Domain-specific language for mobile (web) applications. This repository contains the compiler sources and Eclipse project.
 - [rstudio/rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
@@ -2829,7 +2829,7 @@
 - [TheGiddyLimit/TheGiddyLimit.github.io](https://github.com/TheGiddyLimit/TheGiddyLimit.github.io) - A site dedicated to making playing games with your friends as easy as possible.
 - [github/tweetsodium](https://github.com/github/tweetsodium) - libsodium sealed cryptobox using tweetnacl
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
@@ -2986,7 +2986,7 @@
 - [FPGAwars/icestudio](https://github.com/FPGAwars/icestudio) - :snowflake: Visual editor for open FPGA boards
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
-- [prettier/plugin-swift](https://github.com/prettier/plugin-swift) - Prettier Swift Plugin - WARNING: The AST parser is not stable yet
+- [prettier/plugin-swift](https://github.com/prettier/plugin-swift) - [DEPRECATED] Prettier Swift Plugin - WARNING: The AST parser is not stable yet
 - [matt-kruse/find-my-iphone](https://github.com/matt-kruse/find-my-iphone) - A Node module to trigger the "Find My iPhone" feature from iCloud, to play a sound on the phone
 - [tilfinltd/aws-extend-switch-roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -4422,6 +4422,7 @@
 
 ## Others 
 
+- [clasqm/freedos-repo](https://github.com/clasqm/freedos-repo) - A repository of FreeDOS-compatible freeware and OSS software. No "abandonware".
 - [dhondta/awesome-executable-packing](https://github.com/dhondta/awesome-executable-packing) - A curated list of awesome resources related to executable packing
 - [kai5263499/osx-security-awesome](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
 - [ThomasVon2021/pikvm-CM4-Board](https://github.com/ThomasVon2021/pikvm-CM4-Board) - Cheap and high performance hardware based on CM4 for pikvm
@@ -5442,7 +5443,6 @@
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [OblivionCloudControl/opvault](https://github.com/OblivionCloudControl/opvault) - Python library to access 1Password OPVault stores
 - [mhoogen/ML4QS](https://github.com/mhoogen/ML4QS) - Code belonging to the book machine learning for the quantified self.
-- [kcrawford/dockutil](https://github.com/kcrawford/dockutil) - command line tool for managing dock items
 - [mcfunley/better-keynote-export](https://github.com/mcfunley/better-keynote-export) - A better export for sharing Keynote presentations, with support for presenter notes.
 - [alexandrebarachant/muse-lsl](https://github.com/alexandrebarachant/muse-lsl) - Python script to stream EEG data from the muse 2016 headset
 - [WeblateOrg/customize-example](https://github.com/WeblateOrg/customize-example) - Example how to customize Weblate look
@@ -5596,7 +5596,6 @@
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [foxmask/jong](https://github.com/foxmask/jong) - :snake: :bulb: JOplin Notes Generator - project replaced by https://github.com/foxmask/yeoboseyo
 - [michaeljones/breathe](https://github.com/michaeljones/breathe) - ReStructuredText and Sphinx bridge to Doxygen
 - [openbmc/openbmc](https://github.com/openbmc/openbmc) - OpenBMC Distribution
 - [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
@@ -6058,6 +6057,7 @@
 
 ## Ruby 
 
+- [sleede/fab-manager](https://github.com/sleede/fab-manager) - Fab-Manager is the FabLab management solution.  It provides a comprehensive, web-based, open-source tool to simplify your administrative tasks and your marker's projects.
 - [ClickSend/clicksend-ruby](https://github.com/ClickSend/clicksend-ruby) - ClickSend Ruby SDK
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [SiarheiFedartsou/fastlane-plugin-versioning](https://github.com/SiarheiFedartsou/fastlane-plugin-versioning) - Extends fastlane versioning actions. Allows to set/get versions without using agvtool and do some other small tricks.
@@ -6430,6 +6430,7 @@
 
 ## Rust 
 
+- [rsadsb/dump1090_rs](https://github.com/rsadsb/dump1090_rs) - Multi-SDR supported Rust translation of the popular dump1090 project for ADS-B demodulation
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 - [dtolnay/ryu](https://github.com/dtolnay/ryu) - Fast floating point to string conversion
 - [JuliaLang/juliaup](https://github.com/JuliaLang/juliaup) - Julia installer and version multiplexer
@@ -6721,7 +6722,7 @@
 - [keith/StaticInternalSwiftSyntaxParser](https://github.com/keith/StaticInternalSwiftSyntaxParser) - A static library for using SwiftSyntax / lib_InternalSwiftSyntaxParser
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
-- [niedzielski/git-diff-img](https://github.com/niedzielski/git-diff-img) - 📷 Difference Git versioned images graphically.
+- [niedzielski/git-diff-img](https://github.com/niedzielski/git-diff-img) - 📷 Diff Git versioned images graphically.
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
 - [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password Connect into your GitHub Actions jobs.
 - [kaleidoscope-app/man-diff](https://github.com/kaleidoscope-app/man-diff) - Compare man pages between macOS Big Sur and macOS Monterey
@@ -7530,6 +7531,7 @@
 - [BradLarson/AlexNet-Swift](https://github.com/BradLarson/AlexNet-Swift) - An implementation of the standard AlexNet convolutional network in Swift for TensorFlow
 - [alejandro-isaza/PlotKit](https://github.com/alejandro-isaza/PlotKit) - OS X plotting framework
 - [apple/swift-format](https://github.com/apple/swift-format) - Formatting technology for Swift source code
+- [kcrawford/dockutil](https://github.com/kcrawford/dockutil) - command line tool for managing dock items
 - [dasdom/SwiftUIExperiments](https://github.com/dasdom/SwiftUIExperiments) - Experiments with SwiftUI
 - [nicklockwood/RetroRampage](https://github.com/nicklockwood/RetroRampage) - Tutorial series demonstrating how to build a retro first-person shooter from scratch in Swift
 - [vapor/postgres-nio](https://github.com/vapor/postgres-nio) - 🐘 Non-blocking, event-driven Swift client for PostgreSQL.
