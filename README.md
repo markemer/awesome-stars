@@ -834,7 +834,7 @@
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [DhavalKapil/icmptunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets.
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
 - [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
@@ -1042,7 +1042,6 @@
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [tihmstar/img4tool](https://github.com/tihmstar/img4tool) - A tool for manipulating IMG4, IM4M and IM4P files
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [FaqT0tum/Orbion_Space_Mouse](https://github.com/FaqT0tum/Orbion_Space_Mouse) - ORBION the OpenSource Space Mouse 3D
 - [CoatiSoftware/SourcetrailDB](https://github.com/CoatiSoftware/SourcetrailDB) - Library to export Sourcetrail compatible database files for writing custom indexers
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
 - [J-D-K/JKSV](https://github.com/J-D-K/JKSV) - JK's Save Manager Switch Edition
@@ -1884,6 +1883,7 @@
 
 ## G-code 
 
+- [FaqT0tum/Orbion_Space_Mouse](https://github.com/FaqT0tum/Orbion_Space_Mouse) - ORBION the OpenSource Space Mouse 3D
 - [macchina/m2-enclosures](https://github.com/macchina/m2-enclosures) - 3D-printable M2 enclosures designed by Macchina
 
 ## GDScript 
@@ -6430,6 +6430,7 @@
 
 ## Rust 
 
+- [ismaelgv/rnr](https://github.com/ismaelgv/rnr) - A command-line tool to batch rename files and directories
 - [rsadsb/dump1090_rs](https://github.com/rsadsb/dump1090_rs) - Multi-SDR supported Rust translation of the popular dump1090 project for ADS-B demodulation
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 - [dtolnay/ryu](https://github.com/dtolnay/ryu) - Fast floating point to string conversion
@@ -7010,6 +7011,7 @@
 
 ## Swift 
 
+- [pointfreeco/swift-custom-dump](https://github.com/pointfreeco/swift-custom-dump) - A collection of tools for debugging, diffing, and testing your application's data structures.
 - [Brightify/Cuckoo](https://github.com/Brightify/Cuckoo) - Boilerplate-free mocking framework for Swift!
 - [EmbeddedSwift/SwiftELF](https://github.com/EmbeddedSwift/SwiftELF) - A Swift Wrapper around libelf
 - [palle-k/Graphite](https://github.com/palle-k/Graphite) - Simple force directed graph drawing for iOS
