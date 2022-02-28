@@ -448,7 +448,6 @@
 - [nRFMesh/nRF52_Mesh](https://github.com/nRFMesh/nRF52_Mesh) - nRF52 custom RF mesh sensors and dongle firmware using nRF SDK
 - [wbenny/ia32-doc](https://github.com/wbenny/ia32-doc) - IA32-doc is a project which aims to put as many definitions from the Intel Manual into machine-processable format as possible
 - [Gbps/gbhv](https://github.com/Gbps/gbhv) - Simple x86-64 VT-x Hypervisor with EPT Hooking
-- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard.
 - [katlogic/ljx](https://github.com/katlogic/ljx) - LuaJIT with native 5.2 and 5.3 support
@@ -5400,6 +5399,7 @@
 - [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [openstenoproject/plover](https://github.com/openstenoproject/plover) - Open source stenotype engine
 - [lovasoa/bad_json_parsers](https://github.com/lovasoa/bad_json_parsers) - Exposing problems in json parsers of several programming languages.
 - [alicevision/meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software
