@@ -1043,6 +1043,7 @@
 - [CoatiSoftware/SourcetrailDB](https://github.com/CoatiSoftware/SourcetrailDB) - Library to export Sourcetrail compatible database files for writing custom indexers
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
 - [J-D-K/JKSV](https://github.com/J-D-K/JKSV) - JK's Save Manager Switch Edition
+- [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [KLayout/klayout](https://github.com/KLayout/klayout) - KLayout Main Sources
 - [StarDustCFW/Haku33](https://github.com/StarDustCFW/Haku33) - Perform a hard reset of the switch
 - [d00telemental/ME1NativeTools](https://github.com/d00telemental/ME1NativeTools) - Some original ME1 native plugins, previously was at GitLab
@@ -1483,7 +1484,7 @@
 - [ValveSoftware/vogl](https://github.com/ValveSoftware/vogl) - OpenGL capture / playback debugger.
 - [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
-- [omnisci/omniscidb](https://github.com/omnisci/omniscidb) - OmniSciDB (formerly MapD Core)
+- [heavyai/heavydb](https://github.com/heavyai/heavydb) - OmniSciDB (formerly MapD Core)
 - [falltergeist/dat-unpacker](https://github.com/falltergeist/dat-unpacker) - Console utility to pack and unpack Fallout or Fallout 2 game data files
 - [falltergeist/falltergeist](https://github.com/falltergeist/falltergeist) - Opensource crossplatform Fallout 2™ game engine writen in C++ and SDL.
 - [falltergeist/libfalltergeist](https://github.com/falltergeist/libfalltergeist) - C++ library which allows to work with Fallout(tm) data files
@@ -6674,7 +6675,6 @@
 
 ## Scala 
 
-- [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [ucb-bar/midas](https://github.com/ucb-bar/midas) - FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL
 - [freechipsproject/diagrammer](https://github.com/freechipsproject/diagrammer) - Provides dot visualizations of chisel/firrtl circuits
 - [chipsalliance/treadle](https://github.com/chipsalliance/treadle) - Chisel/Firrtl execution engine
@@ -7011,6 +7011,7 @@
 
 ## Swift 
 
+- [dfreniche/SwiftCLITemplate](https://github.com/dfreniche/SwiftCLITemplate) - A Tuist Template to quickly create CLI apps in Swift
 - [pointfreeco/swift-custom-dump](https://github.com/pointfreeco/swift-custom-dump) - A collection of tools for debugging, diffing, and testing your application's data structures.
 - [Brightify/Cuckoo](https://github.com/Brightify/Cuckoo) - Boilerplate-free mocking framework for Swift!
 - [EmbeddedSwift/SwiftELF](https://github.com/EmbeddedSwift/SwiftELF) - A Swift Wrapper around libelf
