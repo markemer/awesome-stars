@@ -266,7 +266,7 @@
 - [grassator/mass](https://github.com/grassator/mass) - A compiler for a new language focusing on compile-time execution and no LLVM dependency.
 - [mdbtools/mdbtools](https://github.com/mdbtools/mdbtools) - MDB Tools - Read Access databases on *nix
 - [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password.
-- [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp) - Windows File System Proxy - FUSE for Windows
+- [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 - [solderparty/bbq10kbd_i2c_sw](https://github.com/solderparty/bbq10kbd_i2c_sw) - 
 - [pgwipeout/linux](https://github.com/pgwipeout/linux) - Linux kernel source tree, working on sbc support.
@@ -576,7 +576,6 @@
 - [Neopallium/llvm-lua](https://github.com/Neopallium/llvm-lua) - Automatically exported from code.google.com/p/llvm-lua
 - [google/google-authenticator-libpam](https://github.com/google/google-authenticator-libpam) - 
 - [madler/pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
-- [enjoy-digital/netv2](https://github.com/enjoy-digital/netv2) - Experiments with NeTV2 on LiteX
 - [xhyve-manager/xhyve-manager](https://github.com/xhyve-manager/xhyve-manager) - A simple commandline utility to manage xhyve Virtual Machines
 - [pdumais/OperatingSystem](https://github.com/pdumais/OperatingSystem) - my homebrew OS
 - [LordNoteworthy/windows-internals](https://github.com/LordNoteworthy/windows-internals) - My notes while studying Windows internals
@@ -1484,7 +1483,7 @@
 - [ValveSoftware/vogl](https://github.com/ValveSoftware/vogl) - OpenGL capture / playback debugger.
 - [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
-- [heavyai/heavydb](https://github.com/heavyai/heavydb) - OmniSciDB (formerly MapD Core)
+- [heavyai/heavydb](https://github.com/heavyai/heavydb) - HeavyDB (formerly OmniSciDB)
 - [falltergeist/dat-unpacker](https://github.com/falltergeist/dat-unpacker) - Console utility to pack and unpack Fallout or Fallout 2 game data files
 - [falltergeist/falltergeist](https://github.com/falltergeist/falltergeist) - Opensource crossplatform Fallout 2™ game engine writen in C++ and SDL.
 - [falltergeist/libfalltergeist](https://github.com/falltergeist/libfalltergeist) - C++ library which allows to work with Fallout(tm) data files
@@ -1786,6 +1785,7 @@
 
 ## Dart 
 
+- [dart-lang/samples](https://github.com/dart-lang/samples) - A collection of Dart code samples by Dart DevRel
 - [singerdmx/flutter-quill](https://github.com/singerdmx/flutter-quill) - Rich text editor for Flutter
 - [intel/rohd](https://github.com/intel/rohd) - The Rapid Open Hardware Development (ROHD) framework is a framework for describing and verifying hardware in the Dart programming language. ROHD enables you to build and traverse a graph of connectivity between module objects using unrestricted software.
 - [flutter/devtools](https://github.com/flutter/devtools) - Performance tools for Flutter
@@ -1966,7 +1966,7 @@
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 - [tongson/LadyLua](https://github.com/tongson/LadyLua) - Single executable(static), batteries included, Lua 5.1 interpreter.
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
-- [billziss-gh/hubfs](https://github.com/billziss-gh/hubfs) - File system for GitHub
+- [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub
 - [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
 - [DSpeichert/netbootd](https://github.com/DSpeichert/netbootd) - Lightweight network boot/install server (DHCP, TFTP, HTTP)
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
@@ -5623,7 +5623,7 @@
 - [enjoy-digital/litesata](https://github.com/enjoy-digital/litesata) - Small footprint and configurable SATA core
 - [enjoy-digital/litesdcard](https://github.com/enjoy-digital/litesdcard) - Small footprint and configurable SDCard core
 - [enjoy-digital/liteeth](https://github.com/enjoy-digital/liteeth) - Small footprint and configurable Ethernet core
-- [enjoy-digital/litevideo](https://github.com/enjoy-digital/litevideo) - Small footprint and configurable video cores
+- [litex-hub/litevideo](https://github.com/litex-hub/litevideo) - Small footprint and configurable video cores (Deprecated)
 - [enjoy-digital/litedram](https://github.com/enjoy-digital/litedram) - Small footprint and configurable DRAM core
 - [bunnie/litex-buildenv](https://github.com/bunnie/litex-buildenv) - An environment for building LiteX based FPGA designs. Makes it easy to get everything you need!
 - [timvideos/litex-buildenv](https://github.com/timvideos/litex-buildenv) - An environment for building LiteX based FPGA designs. Makes it easy to get everything you need!
@@ -6431,6 +6431,7 @@
 
 ## Rust 
 
+- [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [ismaelgv/rnr](https://github.com/ismaelgv/rnr) - A command-line tool to batch rename files and directories
 - [rsadsb/dump1090_rs](https://github.com/rsadsb/dump1090_rs) - Multi-SDR supported Rust translation of the popular dump1090 project for ADS-B demodulation
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
@@ -8368,6 +8369,8 @@
 
 ## TypeScript 
 
+- [hot3eed/xpcspy](https://github.com/hot3eed/xpcspy) - Bidirectional XPC message interception and more. Powered by Frida
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [jeffanddom/ink2txt](https://github.com/jeffanddom/ink2txt) - 
