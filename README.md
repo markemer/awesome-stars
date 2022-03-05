@@ -91,7 +91,6 @@
   - [Python](#python)
   - [Q#](#q#)
   - [QML](#qml)
-  - [QMake](#qmake)
   - [R](#r)
   - [Racket](#racket)
   - [Raku](#raku)
@@ -1043,6 +1042,7 @@
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
 - [J-D-K/JKSV](https://github.com/J-D-K/JKSV) - JK's Save Manager Switch Edition
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
+- [horsicq/xntsv](https://github.com/horsicq/xntsv) - XNTSV program for detailed viewing of system structures  for Windows.
 - [azonenberg/scopehal-waveforms-bridge](https://github.com/azonenberg/scopehal-waveforms-bridge) - Socket server to bridge from Digilent WaveForms SDK to libscopehal
 - [KLayout/klayout](https://github.com/KLayout/klayout) - KLayout Main Sources
 - [StarDustCFW/Haku33](https://github.com/StarDustCFW/Haku33) - Perform a hard reset of the switch
@@ -2020,7 +2020,7 @@
 - [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [gofiber/recipes](https://github.com/gofiber/recipes) - 📁 Examples for 🚀 Fiber
-- [brutella/hkcam](https://github.com/brutella/hkcam) - Open-Source HomeKit Camera With a 3D-Printed Enclosure
+- [brutella/hkcam](https://github.com/brutella/hkcam) - Open-Source HomeKit Surveillance Camera
 - [Merovius/srvfb](https://github.com/Merovius/srvfb) - Stream a framebuffer device over HTTP
 - [pokanop/nostromo](https://github.com/pokanop/nostromo) - CLI for building powerful aliases
 - [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
@@ -6004,10 +6004,6 @@
 - [cutiepi-io/cutiepi-shell](https://github.com/cutiepi-io/cutiepi-shell) - A mobile shell for Raspberry Pi OS
 - [Yubico/yubikey-manager-qt](https://github.com/Yubico/yubikey-manager-qt) - Cross-platform application for configuring any YubiKey over all USB interfaces.
 
-## QMake 
-
-- [horsicq/xntsv](https://github.com/horsicq/xntsv) - XNTSV program for detailed viewing of system structures  for Windows.
-
 ## R 
 
 - [rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) - Statistical Rethinking course winter 2022
@@ -7013,6 +7009,7 @@
 
 ## Swift 
 
+- [pointfreeco/swift-parsing](https://github.com/pointfreeco/swift-parsing) - A library for turning nebulous data into well-structured data, with a focus on composition, performance, generality, and ergonomics.
 - [dfreniche/SwiftCLITemplate](https://github.com/dfreniche/SwiftCLITemplate) - A Tuist Template to quickly create CLI apps in Swift
 - [pointfreeco/swift-custom-dump](https://github.com/pointfreeco/swift-custom-dump) - A collection of tools for debugging, diffing, and testing your application's data structures.
 - [Brightify/Cuckoo](https://github.com/Brightify/Cuckoo) - Boilerplate-free mocking framework for Swift!
