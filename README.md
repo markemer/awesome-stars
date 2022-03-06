@@ -1672,7 +1672,6 @@
 - [andev-software/graphql-ide](https://github.com/andev-software/graphql-ide) - ⚡️ GraphQL IDE - An extensive IDE for exploring GraphQL API's
 - [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book) - 
 - [helios-framework/helios](https://github.com/helios-framework/helios) - An extensible open-source mobile backend framework
-- [lumenwrites/nulis](https://github.com/lumenwrites/nulis) - Tree editor for writers
 - [jagregory/abrash-black-book](https://github.com/jagregory/abrash-black-book) - Markdown source for Michael Abrash's Graphics Programming Black Book
 - [atom/template-syntax](https://github.com/atom/template-syntax) - A template atom syntax theme to build from
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -2437,7 +2436,7 @@
 - [openvizsla/ov_ftdi](https://github.com/openvizsla/ov_ftdi) - FT2232H-based USB sniffer
 - [plaid/plaid-postman](https://github.com/plaid/plaid-postman) - Postman collection for the Plaid API
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
-- [OldManUmby/OGL-SRD5](https://github.com/OldManUmby/OGL-SRD5) - D&D 5E SRD converted line-by-line to Markdown and many other publishing formats.
+- [OldManUmby/OGL-SRD5](https://github.com/OldManUmby/OGL-SRD5) - Dungeons and Dragons 5th Edition SRD converted line-by-line to Markdown and many other publishing formats. Obsidian.md friendly version available.
 - [TheEconomist/us-potus-model](https://github.com/TheEconomist/us-potus-model) - Code for a dynamic multilevel Bayesian model to predict US presidential elections. Written in R and Stan.
 - [insidegui/wwdc.io](https://github.com/insidegui/wwdc.io) - The official website for the unofficial WWDC app for macOS 🤓 ❤️
 - [grumpygamer/DeloresDev](https://github.com/grumpygamer/DeloresDev) - Read all about it on GrumpyGamer:
@@ -6660,6 +6659,7 @@
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
 - [macadmininfo/macadmininfo.github.io](https://github.com/macadmininfo/macadmininfo.github.io) - Resources for both beginning and experienced administrators of Mac/Apple technology.
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
+- [lumenwrites/nulis](https://github.com/lumenwrites/nulis) - Mind-mapping software that helps writers collect and organize their knowledge, develop their ideas. Built with React, Redux, Node.js, hosted on Digital Ocean.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [rubygems/guides](https://github.com/rubygems/guides) - An effort to provide awesome documentation for the RubyGems ecosystem.
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
