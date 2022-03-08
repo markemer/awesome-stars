@@ -1028,6 +1028,7 @@
 
 ## C++ 
 
+- [SpacehuhnTech/SimpleCLI](https://github.com/SpacehuhnTech/SimpleCLI) - Command Line Interface Library for Arduino
 - [tursilion/convert9918](https://github.com/tursilion/convert9918) - Converter for the TMS9918A's bitmap mode, and F18A enhanced bitmap modes.
 - [mn416/QPULib](https://github.com/mn416/QPULib) - Language and compiler for the Raspberry Pi GPU
 - [fredemmott/StreamDeck-CPPSDK](https://github.com/fredemmott/StreamDeck-CPPSDK) - A fork of Elgato's C++ StreamDeck SDK, focussing on reusability
@@ -1658,7 +1659,6 @@
 - [creativetimofficial/paper-dashboard](https://github.com/creativetimofficial/paper-dashboard) - Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.
 - [petrk94/ownhealthrecord](https://github.com/petrk94/ownhealthrecord) - This repository is about the OwnHealthRecord Application Web App
 - [sharecuts/website](https://github.com/sharecuts/website) - A public repository of shortcuts for the Shortcuts app
-- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [NocturnalSolutions/Wastebin](https://github.com/NocturnalSolutions/Wastebin) - A pastebin written in Swift with the Kitura framework.
 - [danielquinn/aletheia](https://github.com/danielquinn/aletheia) - Fight fake news with cryptography & human nature
 - [MrCheeze/botw-object-map](https://github.com/MrCheeze/botw-object-map) - A map of every single object in Zelda: Breath of the Wild. https://mrcheeze.github.io/botw-object-map
@@ -1926,7 +1926,6 @@
 - [benjojo/hot-clone](https://github.com/benjojo/hot-clone) - Progressively image a mounted disk correctly without corruption
 - [johanbrandhorst/certify](https://github.com/johanbrandhorst/certify) - Automatic client and server certificate distribution and maintenance
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
-- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
@@ -4901,7 +4900,7 @@
 - [librariesio/package-managers](https://github.com/librariesio/package-managers) - :package: Metadata about every package manager that Libraries.io supports
 - [swiftdocker/docker-swift-from-scratch](https://github.com/swiftdocker/docker-swift-from-scratch) - Swift built from scratch, when the nightly builds take too long.
 - [swiftdocker/docker-swift-dev](https://github.com/swiftdocker/docker-swift-dev) - Easily hack on the Swift language.
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. First posted in 2016. Pull requests welcome!
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [fastlane-old/scan](https://github.com/fastlane-old/scan) - The easiest way to run tests of your iOS and Mac app
 - [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium's OAuth2 API
@@ -6458,6 +6457,7 @@
 - [sourcefrog/rsyn](https://github.com/sourcefrog/rsyn) - [alpha] Wire-compatible rsync client in Rust
 - [xvxx/phetch](https://github.com/xvxx/phetch) - 🐭 quick lil gopher client for your terminal
 - [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust
+- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [trussed-dev/trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [EFForg/apkeep](https://github.com/EFForg/apkeep) - 
@@ -6655,6 +6655,7 @@
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
 - [NSHipster/XcodeBuildSettings.com](https://github.com/NSHipster/XcodeBuildSettings.com) - A convenient reference of available build settings for Xcode projects.
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
+- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [ios-factor/ios-factor.com](https://github.com/ios-factor/ios-factor.com) - A methodology for building high-quality iOS apps on a solid architecture
 - [OCamlverse/ocamlverse.github.io](https://github.com/OCamlverse/ocamlverse.github.io) - Documentation of everything relevant in the OCaml world
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
@@ -6718,6 +6719,7 @@
 
 ## Shell 
 
+- [chadday/nicar_ocr](https://github.com/chadday/nicar_ocr) - A tutorial on optical character recognition using tesseract, ImageMagick and other open source tools
 - [alamedyang/pinenote-backlights](https://github.com/alamedyang/pinenote-backlights) - A shell script for controlling both backlights on the PineNote
 - [keith/StaticInternalSwiftSyntaxParser](https://github.com/keith/StaticInternalSwiftSyntaxParser) - A static library for using SwiftSyntax / lib_InternalSwiftSyntaxParser
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
@@ -7078,7 +7080,7 @@
 - [GitHawkApp/Squawk](https://github.com/GitHawkApp/Squawk) - Quick & interactive iOS alerts in Swift.
 - [HamzaGhazouani/HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project
 - [profburke/troll](https://github.com/profburke/troll) - An implementation of Torben Mogensen's Troll in Swift. http://hjemmesider.diku.dk/~torbenm/Troll/
-- [LucasMucGH/BottomSheet](https://github.com/LucasMucGH/BottomSheet) - A sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI.
+- [lucaszischka/BottomSheet](https://github.com/lucaszischka/BottomSheet) - A sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI.
 - [hhas/Swift-AppleScriptObjC](https://github.com/hhas/Swift-AppleScriptObjC) - How to call AppleScript handlers from Swift via AppleScript-ObjC bridge.
 - [DataDog/dd-sdk-swift-testing](https://github.com/DataDog/dd-sdk-swift-testing) - Datadog Test Instrumentation framework for Swift / ObjC
 - [MaxDesiatov/SwiftPie](https://github.com/MaxDesiatov/SwiftPie) - A Swift rewrite of "A Tutorial Implementation of a Dependently Typed Lambda Calculus"
