@@ -544,7 +544,7 @@
 - [johnxnguyen/Down](https://github.com/johnxnguyen/Down) - Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [google/wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
-- [solokeys/solo](https://github.com/solokeys/solo) - Solo 1: open security key supporting FIDO2 & U2F over USB + NFC
+- [solokeys/solo1](https://github.com/solokeys/solo1) - Solo 1 firmware in C
 - [FDio/vpp](https://github.com/FDio/vpp) - 
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [tleonhardt/practical_cryptography_engineering](https://github.com/tleonhardt/practical_cryptography_engineering) - Cryptography code examples using libsodium and mbedtls C libraries and Python cryptography and PyNaCl modules
@@ -2888,6 +2888,7 @@
 - [naturalcrit/homebrewery](https://github.com/naturalcrit/homebrewery) - Create authentic looking D&D homebrews using only markdown
 - [IvanMathy/Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. In slow yet steady progress.
 - [vasturiano/cartogram-chart](https://github.com/vasturiano/cartogram-chart) - A cartogram chart web component for visualizing geographical data by distorting a TopoJson topology
+- [ThaumRystra/DiceCloud](https://github.com/ThaumRystra/DiceCloud) - D&D 5e digital character manager
 - [RecallGraph/RecallGraph](https://github.com/RecallGraph/RecallGraph) - A versioning data store for time-variant graph data.
 - [apple/password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
@@ -8435,7 +8436,7 @@
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [cgrevisse/swift-project-creation](https://github.com/cgrevisse/swift-project-creation) - VS Code Extension for Swift Project/Package creation.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source Airtable-like UI for your database and to build serverless cloud functions visually in the context of your data.⚡️✨
 - [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [matthewpi/vscode-caddyfile-support](https://github.com/matthewpi/vscode-caddyfile-support) - Rich Caddyfile support for Visual Studio Code
@@ -8697,7 +8698,6 @@
 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
-- [ThaumRystra/DiceCloud](https://github.com/ThaumRystra/DiceCloud) - D&D 5e digital character manager
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
