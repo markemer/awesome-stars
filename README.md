@@ -1306,7 +1306,6 @@
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [drwave/usd-sketchup](https://github.com/drwave/usd-sketchup) - Source & macOS binary of USD exporter for SketchUp
-- [pulp-platform/pulpissimo](https://github.com/pulp-platform/pulpissimo) - This is the top-level project for the PULPissimo Platform. It instantiates a PULPissimo open-source system with a PULP SoC domain, but no cluster.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [yhirose/cpp-peglib](https://github.com/yhirose/cpp-peglib) - A single file C++ header-only PEG (Parsing Expression Grammars) library
@@ -5181,6 +5180,7 @@
 
 ## Python 
 
+- [nongiach/arm_now](https://github.com/nongiach/arm_now) - arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [dbalan/plotter-scripts](https://github.com/dbalan/plotter-scripts) - Random Plotter scripts for HP7440A
 - [timothycrosley/streamdeck-ui](https://github.com/timothycrosley/streamdeck-ui) - A Linux compatible UI for the Elgato Stream Deck.
@@ -7017,6 +7017,8 @@
 
 ## Swift 
 
+- [uber/mockolo](https://github.com/uber/mockolo) - Efficient Mock Generator for Swift
+- [kickstarter/ios-oss](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 - [marmelroy/Zip](https://github.com/marmelroy/Zip) - Swift framework for zipping and unzipping files.
 - [FabrizioBrancati/Queuer](https://github.com/FabrizioBrancati/Queuer) - Queuer is a queue manager, built on top of OperationQueue and Dispatch (aka GCD).
 - [spotify/XCMetrics](https://github.com/spotify/XCMetrics) - XCMetrics is the easiest way to collect Xcode build metrics and improve developer productivity.
@@ -8311,6 +8313,7 @@
 - [pulp-platform/bigpulp](https://github.com/pulp-platform/bigpulp) - ⛔ DEPRECATED ⛔ RISC-V manycore accelerator for HERO, bigPULP hardware platform
 - [westerndigitalcorporation/swerv_eh1](https://github.com/westerndigitalcorporation/swerv_eh1) - A directory of Western Digital’s RISC-V SweRV Cores
 - [MiSTer-devel/NES_MiSTer](https://github.com/MiSTer-devel/NES_MiSTer) - 
+- [pulp-platform/pulpissimo](https://github.com/pulp-platform/pulpissimo) - This is the top-level project for the PULPissimo Platform. It instantiates a PULPissimo open-source system with a PULP SoC domain, but no cluster.
 - [lowRISC/socip](https://github.com/lowRISC/socip) - Collection of IP cores usable to lowRISC SoC
 - [openhwgroup/cv32e40p](https://github.com/openhwgroup/cv32e40p) - CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform
 - [RoaLogic/RV12](https://github.com/RoaLogic/RV12) - RISC-V CPU Core
