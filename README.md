@@ -1028,6 +1028,7 @@
 
 ## C++ 
 
+- [WerWolv/libsteam](https://github.com/WerWolv/libsteam) - 
 - [SpacehuhnTech/SimpleCLI](https://github.com/SpacehuhnTech/SimpleCLI) - Command Line Interface Library for Arduino
 - [tursilion/convert9918](https://github.com/tursilion/convert9918) - Converter for the TMS9918A's bitmap mode, and F18A enhanced bitmap modes.
 - [mn416/QPULib](https://github.com/mn416/QPULib) - Language and compiler for the Raspberry Pi GPU
@@ -1925,6 +1926,7 @@
 - [benjojo/hot-clone](https://github.com/benjojo/hot-clone) - Progressively image a mounted disk correctly without corruption
 - [johanbrandhorst/certify](https://github.com/johanbrandhorst/certify) - Automatic client and server certificate distribution and maintenance
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
+- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
@@ -2030,7 +2032,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [cornelk/goscrape](https://github.com/cornelk/goscrape) - Web scraper that can create an offline readable version of a website
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [liamg/shox](https://github.com/liamg/shox) - 🍫 A customisable, universally compatible terminal status bar
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [avast/apkverifier](https://github.com/avast/apkverifier) - APK Signature verification in Go. Supports scheme v1, v2 and v3 and passes Google apksig's testing suite.
@@ -6059,6 +6061,7 @@
 
 ## Ruby 
 
+- [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life
 - [sleede/fab-manager](https://github.com/sleede/fab-manager) - Fab-Manager is the FabLab management solution.  It provides a comprehensive, web-based, open-source tool to simplify your administrative tasks and your marker's projects.
 - [ClickSend/clicksend-ruby](https://github.com/ClickSend/clicksend-ruby) - ClickSend Ruby SDK
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
@@ -6462,7 +6465,6 @@
 - [sourcefrog/rsyn](https://github.com/sourcefrog/rsyn) - [alpha] Wire-compatible rsync client in Rust
 - [xvxx/phetch](https://github.com/xvxx/phetch) - 🐭 quick lil gopher client for your terminal
 - [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust
-- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [trussed-dev/trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [EFForg/apkeep](https://github.com/EFForg/apkeep) - 
@@ -7017,6 +7019,7 @@
 
 ## Swift 
 
+- [EndouMari/TabPageViewController](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view
 - [uber/mockolo](https://github.com/uber/mockolo) - Efficient Mock Generator for Swift
 - [kickstarter/ios-oss](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 - [marmelroy/Zip](https://github.com/marmelroy/Zip) - Swift framework for zipping and unzipping files.
