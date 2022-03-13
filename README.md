@@ -938,7 +938,7 @@
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP taskbar for modern versions of Windows
 - [uxmal/reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
 - [garrynewman/SteamScreenshotDownloader](https://github.com/garrynewman/SteamScreenshotDownloader) - Download all of your (public) steam screenshots
-- [ME3Tweaks/ME3TweaksModManager](https://github.com/ME3Tweaks/ME3TweaksModManager) - Next generation Mod Manager for all Mass Effect Trilogy games
+- [ME3Tweaks/ME3TweaksModManager](https://github.com/ME3Tweaks/ME3TweaksModManager) - Mod Manager for Mass Effect Original Trilogy and Mass Effect Legendary Edition
 - [d00telemental/LECoal](https://github.com/d00telemental/LECoal) - A DEPRECATED tool for packing and unpacking LE1/LE2 Coalesced_INT.bin files.
 - [ME3Tweaks/ModManagerCommandLineTools](https://github.com/ME3Tweaks/ModManagerCommandLineTools) - Command line tools for Mass Effect 3 Mod Manager
 - [ME3Tweaks/LegendaryExplorer](https://github.com/ME3Tweaks/LegendaryExplorer) - Editor toolset for Mass Effect Trilogy and Mass Effect Legendary Edition
@@ -3341,7 +3341,7 @@
 - [jimmywarting/wemo-client](https://github.com/jimmywarting/wemo-client) - JavaScript client library for controlling and subscribing to Wemo Devices
 - [JoeKuhns/PiedPiPer.safariextension](https://github.com/JoeKuhns/PiedPiPer.safariextension) - Add Picture-in-Picture Functionality to Netflix, YouTube, Plex, and dailymotion in macOS Sierra
 - [keen/keen-dataviz.js](https://github.com/keen/keen-dataviz.js) - Data Visualization Charting Library
-- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [hotosm/osm-tasking-manager2](https://github.com/hotosm/osm-tasking-manager2) - Designed and built for Humanitarian OpenStreetMap Team collaborative emergency/disaster mapping, the OSM Tasking Manager 2.0 divides an area into individual squares that can be rapidly mapped by thousands of volunteers.
 - [vercel/hyperyellow](https://github.com/vercel/hyperyellow) - Example theme for hyperterm
 - [vercel/hyperpower](https://github.com/vercel/hyperpower) - Hyper particle effects extension
@@ -3737,6 +3737,7 @@
 - [astog/MoreLenses](https://github.com/astog/MoreLenses) - More Lenses - Mod for Civilization VI
 - [astog/BTS](https://github.com/astog/BTS) - Better Trade Screen - Mod for Civilization VI
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
+- [asmagill/hs._asm.undocumented.spaces](https://github.com/asmagill/hs._asm.undocumented.spaces) - Spaces Module for Hammerspoon
 - [zevv/lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [luadns/dns](https://github.com/luadns/dns) - Template Repository for getting started with LuaDNS.
@@ -3903,7 +3904,6 @@
 - [chockenberry/MarkdownAttributedString](https://github.com/chockenberry/MarkdownAttributedString) - Adding Markdown support to NSAttributedString.
 - [macmade/KeychainCracker](https://github.com/macmade/KeychainCracker) - macOS keychain cracking tool
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-- [asmagill/hs._asm.undocumented.spaces](https://github.com/asmagill/hs._asm.undocumented.spaces) - Spaces Module for Hammerspoon
 - [Qata/BarMagnet](https://github.com/Qata/BarMagnet) - An iOS app that interfaces with remote torrent clients
 - [Yubico/yubikit-ios](https://github.com/Yubico/yubikit-ios) - Yubico Mobile iOS SDK - YubiKit
 - [NAB/UBKAccessibilityKit](https://github.com/NAB/UBKAccessibilityKit) - An iOS framework to help with accessibility development and testing.
@@ -5182,6 +5182,8 @@
 
 ## Python 
 
+- [sudobob/matsuura_uploader](https://github.com/sudobob/matsuura_uploader) - Matsuura-Yasnac Metal Mill Web-based Program Uploader
+- [fsmMLK/inkscapeMadeEasy](https://github.com/fsmMLK/inkscapeMadeEasy) - Set of python modules that extends Aaron Spike's inkex.py module, adding methods and classes to help the development of new extensions for inkscape.
 - [nongiach/arm_now](https://github.com/nongiach/arm_now) - arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [dbalan/plotter-scripts](https://github.com/dbalan/plotter-scripts) - Random Plotter scripts for HP7440A
