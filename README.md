@@ -280,6 +280,7 @@
 - [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 - [skeeto/hastyhex](https://github.com/skeeto/hastyhex) - A blazing fast hex dumper
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
+- [microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
 - [audulus/vger](https://github.com/audulus/vger) - 2D GPU renderer for dynamic UIs
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 - [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs) - DEFLATE, gzip, and zlib bindings for Rust
@@ -348,6 +349,7 @@
 - [chjj/liburkel](https://github.com/chjj/liburkel) - Authenticated key-value store (i.e. an urkel tree)
 - [bootleg/ret-sync](https://github.com/bootleg/ret-sync) - ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra/Binary Ninja disassemblers.
 - [ARM-software/TZ-TRNG](https://github.com/ARM-software/TZ-TRNG) - TrustZone True Number Generator
+- [OPAE/opae-sdk](https://github.com/OPAE/opae-sdk) - Open Programmable Acceleration Engine
 - [Hamlib/Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library for rigs, rotators, tuners, and amplifiers
 - [climberhunt/uvc-gadget](https://github.com/climberhunt/uvc-gadget) - enhance uvc-gadget test application
 - [ultravideo/kvazaar](https://github.com/ultravideo/kvazaar) - An open-source HEVC encoder
@@ -1082,7 +1084,6 @@
 - [d00telemental/LEBinkProxy](https://github.com/d00telemental/LEBinkProxy) - A multi-functional proxy DLL for Mass Effect Legendary Edition. Unlocks console, loads native plugins, provides an option for bypassing the launcher.
 - [gogcom/galaxy-ue4-oss-plugin](https://github.com/gogcom/galaxy-ue4-oss-plugin) - OnlineSubsystem interface implementation for GOG Galaxy platform
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
-- [microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
 - [bespoke-silicon-group/bsg_replicant](https://github.com/bespoke-silicon-group/bsg_replicant) - Bespoke Silicon Group AWS EC2 F1 Infrastructure and Interface logic for HammerBlade
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [thliebig/CSXCAD](https://github.com/thliebig/CSXCAD) - A C++ library to describe geometrical objects and their physical or non-physical properties.
@@ -1131,7 +1132,6 @@
 - [TASEmulators/fceux](https://github.com/TASEmulators/fceux) - FCEUX, a NES Emulator
 - [matrix-io/xc3sprog](https://github.com/matrix-io/xc3sprog) - xc3sprog is a suite of utilities for programming Xilinx FPGAs, CPLDs, and EEPROMs with the Xilinx Parallel Cable and other JTAG adapters under Linux. Used to program the FPGA of the MATRIX Creator/Voice via Raspberry Pi.
 - [NVIDIA/libcudacxx](https://github.com/NVIDIA/libcudacxx) - The C++ Standard Library for your entire system.
-- [OPAE/opae-sdk](https://github.com/OPAE/opae-sdk) - Open Programmable Acceleration Engine
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [qradiolink/qradiolink](https://github.com/qradiolink/qradiolink) - Multimode SDR transceiver for GNU radio
 - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).
@@ -2829,7 +2829,7 @@
 - [TheGiddyLimit/TheGiddyLimit.github.io](https://github.com/TheGiddyLimit/TheGiddyLimit.github.io) - A site dedicated to making playing games with your friends as easy as possible.
 - [github/tweetsodium](https://github.com/github/tweetsodium) - libsodium sealed cryptobox using tweetnacl
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
-- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🐚🔥🔥
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
@@ -5182,6 +5182,7 @@
 
 ## Python 
 
+- [florianfesti/boxes](https://github.com/florianfesti/boxes) - Boxes.py - laser cutting boxes and more
 - [sudobob/matsuura_uploader](https://github.com/sudobob/matsuura_uploader) - Matsuura-Yasnac Metal Mill Web-based Program Uploader
 - [fsmMLK/inkscapeMadeEasy](https://github.com/fsmMLK/inkscapeMadeEasy) - Set of python modules that extends Aaron Spike's inkex.py module, adding methods and classes to help the development of new extensions for inkscape.
 - [nongiach/arm_now](https://github.com/nongiach/arm_now) - arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose.
@@ -6318,7 +6319,7 @@
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [fastlane/boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers
 - [fastlane-old/codes](https://github.com/fastlane-old/codes) - Create promo codes for iOS Apps using the command line
-- [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen) - Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms.
+- [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen) - Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms
 - [iw/mirage-jekyll](https://github.com/iw/mirage-jekyll) - Supports building of Mirage unikernels using Test Kitchen and Vagrant, and launching on AWS EC2
 - [Kapeli/cheatset](https://github.com/Kapeli/cheatset) - Generate cheat sheets for Dash
 - [pivotal-benchmark/roo](https://github.com/pivotal-benchmark/roo) - Roo provides an interface to Open Office, Excel, and Google Spreadsheets.
