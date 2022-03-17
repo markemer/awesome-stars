@@ -456,7 +456,7 @@
 - [sifive/freedom-metal](https://github.com/sifive/freedom-metal) - Bare Metal Compatibility Library for the Freedom Platform
 - [os-fpga/1st-CLaaS](https://github.com/os-fpga/1st-CLaaS) - Framework for developing and deploying FPGA logic in the cloud as a microservice for web and cloud applications
 - [neverpanic/cctrie](https://github.com/neverpanic/cctrie) - A CTrie implementation in C
-- [f-secure-foundry/mxs-dcp](https://github.com/f-secure-foundry/mxs-dcp) - NXP Data Co-Processor (DCP) - Linux driver
+- [usbarmory/mxs-dcp](https://github.com/usbarmory/mxs-dcp) - NXP Data Co-Processor (DCP) - Linux driver
 - [scaleway/natasha](https://github.com/scaleway/natasha) - Natasha is a fast and scalable, DPDK powered, stateless NAT44 packet processor
 - [wbx-github/openadk](https://github.com/wbx-github/openadk) - Open Source Appliance Development Kit (mirror)
 - [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
@@ -803,7 +803,7 @@
 - [waneck/linux-ios-toolchain](https://github.com/waneck/linux-ios-toolchain) - Compile ios programs on linux (fork of http://code.google.com/p/ios-toolchain-based-on-clang-for-linux/ )
 - [tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port) - Apple cctools port for Linux and *BSD
 - [vectorgraphics/asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language
-- [f-secure-foundry/mxc-scc2](https://github.com/f-secure-foundry/mxc-scc2) - NXP Security Controller (SCCv2) - Linux driver
+- [usbarmory/mxc-scc2](https://github.com/usbarmory/mxc-scc2) - NXP Security Controller (SCCv2) - Linux driver
 - [moonlight-stream/moonlight-ios](https://github.com/moonlight-stream/moonlight-ios) - GameStream client for iOS/tvOS
 - [xobs/netv2-kms](https://github.com/xobs/netv2-kms) - KMS driver for NeTV2
 - [bunnie/netv2-derive_km](https://github.com/bunnie/netv2-derive_km) - Km management utility for NeTV2
@@ -1047,7 +1047,7 @@
 - [J-D-K/JKSV](https://github.com/J-D-K/JKSV) - JK's Save Manager Switch Edition
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [horsicq/xntsv](https://github.com/horsicq/xntsv) - XNTSV program for detailed viewing of system structures  for Windows.
-- [azonenberg/scopehal-waveforms-bridge](https://github.com/azonenberg/scopehal-waveforms-bridge) - Socket server to bridge from Digilent WaveForms SDK to libscopehal
+- [glscopeclient/scopehal-waveforms-bridge](https://github.com/glscopeclient/scopehal-waveforms-bridge) - Socket server to bridge from Digilent WaveForms SDK to libscopehal
 - [KLayout/klayout](https://github.com/KLayout/klayout) - KLayout Main Sources
 - [StarDustCFW/Haku33](https://github.com/StarDustCFW/Haku33) - Perform a hard reset of the switch
 - [d00telemental/ME1NativeTools](https://github.com/d00telemental/ME1NativeTools) - Some original ME1 native plugins, previously was at GitLab
@@ -1084,7 +1084,7 @@
 - [d00telemental/LEBinkProxy](https://github.com/d00telemental/LEBinkProxy) - A multi-functional proxy DLL for Mass Effect Legendary Edition. Unlocks console, loads native plugins, provides an option for bypassing the launcher.
 - [gogcom/galaxy-ue4-oss-plugin](https://github.com/gogcom/galaxy-ue4-oss-plugin) - OnlineSubsystem interface implementation for GOG Galaxy platform
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
-- [bespoke-silicon-group/bsg_replicant](https://github.com/bespoke-silicon-group/bsg_replicant) - Bespoke Silicon Group AWS EC2 F1 Infrastructure and Interface logic for HammerBlade
+- [bespoke-silicon-group/bsg_replicant](https://github.com/bespoke-silicon-group/bsg_replicant) - BSG Replicant: Cosimulation and Emulation Infrastructure for HammerBlade
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [thliebig/CSXCAD](https://github.com/thliebig/CSXCAD) - A C++ library to describe geometrical objects and their physical or non-physical properties.
 - [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
@@ -1996,7 +1996,7 @@
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-- [f-secure-foundry/crucible](https://github.com/f-secure-foundry/crucible) - One-Time-Programmable (OTP) fusing tool
+- [usbarmory/crucible](https://github.com/usbarmory/crucible) - One-Time-Programmable (OTP) fusing tool
 - [anishathalye/periscope](https://github.com/anishathalye/periscope) - Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 - [drud/ddev](https://github.com/drud/ddev) - DDEV-Local: a local PHP development environment system
@@ -2013,7 +2013,7 @@
 - [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal) - Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA with App Authenticators and Yubico.
 - [octo-cli/octo-cli](https://github.com/octo-cli/octo-cli) - A command line client covering 100% of GitHub's restful APIs.
 - [keybase/saltpack](https://github.com/keybase/saltpack) - a modern crypto messaging format
-- [f-secure-foundry/GoKey](https://github.com/f-secure-foundry/GoKey) - The bare metal Go smart card
+- [usbarmory/GoKey](https://github.com/usbarmory/GoKey) - The bare metal Go smart card
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
 - [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification
@@ -2037,10 +2037,10 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [avast/apkverifier](https://github.com/avast/apkverifier) - APK Signature verification in Go. Supports scheme v1, v2 and v3 and passes Google apksig's testing suite.
 - [mainflux/mainflux](https://github.com/mainflux/mainflux) - Industrial IoT Messaging and Device Management Platform
-- [f-secure-foundry/tamago-example](https://github.com/f-secure-foundry/tamago-example) - TamaGo - example application
+- [usbarmory/tamago-example](https://github.com/usbarmory/tamago-example) - TamaGo - example application
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
-- [f-secure-foundry/tamago](https://github.com/f-secure-foundry/tamago) - TamaGo - bare metal Go for ARM SoCs
+- [usbarmory/tamago](https://github.com/usbarmory/tamago) - TamaGo - bare metal Go for ARM SoCs
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -2067,7 +2067,7 @@
 - [google/schedviz](https://github.com/google/schedviz) - A tool for gathering and visualizing kernel scheduling traces on Linux machines
 - [google/renameio](https://github.com/google/renameio) - Package renameio provides a way to atomically create or replace a file or symbolic link.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-- [f-secure-foundry/armoryctl](https://github.com/f-secure-foundry/armoryctl) - USB armory - hardware control tool
+- [usbarmory/armoryctl](https://github.com/usbarmory/armoryctl) - USB armory - hardware control tool
 - [google/starlark-go](https://github.com/google/starlark-go) - Starlark in Go: the Starlark configuration language, implemented in Go
 - [cruise-automation/isopod](https://github.com/cruise-automation/isopod) - An expressive DSL and framework for Kubernetes configuration without YAML
 - [googleapis/gapic-config-validator](https://github.com/googleapis/gapic-config-validator) - protoc plugin that validates GAPIC config proto annotations
@@ -2648,7 +2648,7 @@
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
-- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
 - [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
@@ -3780,7 +3780,7 @@
 - [pqrs-org/gh-pages-karabiner-elements.pqrs.org](https://github.com/pqrs-org/gh-pages-karabiner-elements.pqrs.org) - 
 - [enzomaruffa/RealityKit-Motion-Recorder](https://github.com/enzomaruffa/RealityKit-Motion-Recorder) - Used to store bodytracked joint's position in a JSON file
 - [ibm-op-release/op-build](https://github.com/ibm-op-release/op-build) - Buildroot overlay for IBM Open Power releases
-- [ccrisan/motioneyeos](https://github.com/ccrisan/motioneyeos) - A Video Surveillance OS For Single-board Computers
+- [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [septadev/SEPTA-iOS](https://github.com/septadev/SEPTA-iOS) - Source Code for the SEPTA iOS App
 - [open-power/op-build](https://github.com/open-power/op-build) - Buildroot overlay for Open Power
 - [htruong/hackable-consumer-hardware](https://github.com/htruong/hackable-consumer-hardware) - List of hackable consumer hardware products
@@ -6355,7 +6355,7 @@
 - [Parallels/vagrant-parallels](https://github.com/Parallels/vagrant-parallels) - Vagrant Parallels Provider
 - [gcerquant/xcodearchive](https://github.com/gcerquant/xcodearchive) - xcodearchive is a command line tool to build and archive your Xcode projects.
 - [sferik/active_emoji](https://github.com/sferik/active_emoji) - A collection of emoji aliases for core Ruby methods
-- [f-secure-foundry/usbarmory](https://github.com/f-secure-foundry/usbarmory) - USB armory - open source flash-drive-sized computer
+- [usbarmory/usbarmory](https://github.com/usbarmory/usbarmory) - USB armory - open source flash-drive-sized computer
 - [tj/commander](https://github.com/tj/commander) - The complete solution for Ruby command-line executables
 - [fabiopelosin/act](https://github.com/fabiopelosin/act) - 
 - [ddollar/foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
@@ -7022,6 +7022,8 @@
 
 ## Swift 
 
+- [heestand-xyz/GeometryWriter](https://github.com/heestand-xyz/GeometryWriter) - The opposite of a GeometryReader in SwiftUI
+- [dagronf/DSFDockTile](https://github.com/dagronf/DSFDockTile) - Easily display images, animations, badges and alerts to your macOS application's dock icon
 - [EndouMari/TabPageViewController](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view
 - [uber/mockolo](https://github.com/uber/mockolo) - Efficient Mock Generator for Swift
 - [kickstarter/ios-oss](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
@@ -7142,7 +7144,7 @@
 - [DuncanMC/AnimatePaths](https://github.com/DuncanMC/AnimatePaths) - 
 - [macmade/QEMU-Manager](https://github.com/macmade/QEMU-Manager) - macOS graphical frontend to QEMU
 - [chriseidhof/TerminalUI](https://github.com/chriseidhof/TerminalUI) - 
-- [sindresorhus/Regex](https://github.com/sindresorhus/Regex) - Swifty regular expressions
+- [sindresorhus/Regex](https://github.com/sindresorhus/Regex) - 🔤 Swifty regular expressions
 - [nkristek/Highlight](https://github.com/nkristek/Highlight) - A syntax highlighter for JSON data completely written in Swift with no dependencies
 - [mac-gallagher/MultiProgressView](https://github.com/mac-gallagher/MultiProgressView) - 📊 An animatable view that depicts multiple progresses over time. Modeled after UIProgressView
 - [sebj/Steam](https://github.com/sebj/Steam) - A Swift package to interact directly with Steam.
