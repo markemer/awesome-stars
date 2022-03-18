@@ -217,6 +217,7 @@
 
 ## C 
 
+- [MaxDesiatov/Hleeb](https://github.com/MaxDesiatov/Hleeb) - Swift running on bare metal Raspberry Pi
 - [horsicq/PDBRipper](https://github.com/horsicq/PDBRipper) - PDBRipper is a utility for extract an information from PDB-files.
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 - [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040).
@@ -2780,6 +2781,7 @@
 
 ## JavaScript 
 
+- [l2dy/setup-macports](https://github.com/l2dy/setup-macports) - Set up your GitHub Actions workflow with a specific version of MacPorts
 - [alex-pinkus/tree-sitter-swift](https://github.com/alex-pinkus/tree-sitter-swift) - A tree-sitter grammar for the Swift programming language.
 - [elgatosf/streamdeck-plugintemplate](https://github.com/elgatosf/streamdeck-plugintemplate) - Stream Deck SDK: Plugin Template
 - [Paperspace/client-sdk](https://github.com/Paperspace/client-sdk) - Paperspace SDK for client-side browser environments
@@ -2828,7 +2830,7 @@
 - [TheGiddyLimit/TheGiddyLimit.github.io](https://github.com/TheGiddyLimit/TheGiddyLimit.github.io) - A site dedicated to making playing games with your friends as easy as possible.
 - [github/tweetsodium](https://github.com/github/tweetsodium) - libsodium sealed cryptobox using tweetnacl
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
@@ -4425,6 +4427,7 @@
 
 ## Others 
 
+- [justimyhxu/awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation) - A curated list of awesome 3d generation papers
 - [ME3Tweaks/ModTestingData](https://github.com/ME3Tweaks/ModTestingData) - Repository containing blank stubs of mods that are used as test data for ME3Tweaks Mod Manager
 - [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [clasqm/freedos-repo](https://github.com/clasqm/freedos-repo) - A repository of FreeDOS-compatible freeware and OSS software. No "abandonware".
@@ -5181,6 +5184,7 @@
 
 ## Python 
 
+- [inkstitch/inkstitch](https://github.com/inkstitch/inkstitch) - Ink/Stitch: an Inkscape extension for machine embroidery design
 - [florianfesti/boxes](https://github.com/florianfesti/boxes) - Boxes.py - laser cutting boxes and more
 - [sudobob/matsuura_uploader](https://github.com/sudobob/matsuura_uploader) - Matsuura-Yasnac Metal Mill Web-based Program Uploader
 - [fsmMLK/inkscapeMadeEasy](https://github.com/fsmMLK/inkscapeMadeEasy) - Set of python modules that extends Aaron Spike's inkex.py module, adding methods and classes to help the development of new extensions for inkscape.
