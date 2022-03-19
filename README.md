@@ -4427,6 +4427,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [justimyhxu/awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation) - A curated list of awesome 3d generation papers
 - [ME3Tweaks/ModTestingData](https://github.com/ME3Tweaks/ModTestingData) - Repository containing blank stubs of mods that are used as test data for ME3Tweaks Mod Manager
 - [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
@@ -5409,7 +5410,7 @@
 - [FreeCAD/FreeCAD-render](https://github.com/FreeCAD/FreeCAD-render) - The Render workbench
 - [jar-o/rotvpn](https://github.com/jar-o/rotvpn) - Run a personal VPN in the cloud. And rotate it regularly.
 - [appleseedhq/blenderseed](https://github.com/appleseedhq/blenderseed) - appleseed plugin for Blender
-- [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style. Ready for macOS 11.0 Big Sur (and macOS 12.0 Monterey).
+- [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style. Ready for macOS 11 Big Sur (and macOS 12 Monterey).
 - [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
