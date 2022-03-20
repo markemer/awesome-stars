@@ -294,7 +294,7 @@
 - [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple library for communicating with USB and Bluetooth HID devices on Linux, Mac and Windows.
 - [0intro/plan9](https://github.com/0intro/plan9) - Plan 9 from Bell Labs
 - [dakanji/RefindPlus](https://github.com/dakanji/RefindPlus) - A variant of the rEFInd boot manager
-- [freeciv/freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit patches at https://www.hostedredmine.com/projects/freeciv
+- [freeciv/freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit patches at https://osdn.net/projects/freeciv/ticket/
 - [Jana-Marie/Otter-Iron](https://github.com/Jana-Marie/Otter-Iron) - A TS100 USB-PD replacement PCB.
 - [Jana-Marie/Otter-Iron-PRO](https://github.com/Jana-Marie/Otter-Iron-PRO) - USB-PD soldering station for JBC C245 handles.
 - [slimbootloader/slimbootloader](https://github.com/slimbootloader/slimbootloader) - Visit http://slimbootloader.github.io for documentation
@@ -1883,7 +1883,7 @@
 
 ## G-code 
 
-- [FaqT0tum/Orbion_Space_Mouse](https://github.com/FaqT0tum/Orbion_Space_Mouse) - ORBION the OpenSource Space Mouse 3D
+- [FaqT0tum/Orbion_Space_Mouse_OLD](https://github.com/FaqT0tum/Orbion_Space_Mouse_OLD) - ORBION the OpenSource Space Mouse 3D
 - [macchina/m2-enclosures](https://github.com/macchina/m2-enclosures) - 3D-printable M2 enclosures designed by Macchina
 
 ## GDScript 
