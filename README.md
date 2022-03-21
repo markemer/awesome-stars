@@ -217,6 +217,7 @@
 
 ## C 
 
+- [profburke/luablink](https://github.com/profburke/luablink) - Control your blink(1) from Lua.
 - [MaxDesiatov/Hleeb](https://github.com/MaxDesiatov/Hleeb) - Swift running on bare metal Raspberry Pi
 - [horsicq/PDBRipper](https://github.com/horsicq/PDBRipper) - PDBRipper is a utility for extract an information from PDB-files.
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
@@ -866,7 +867,6 @@
 - [gonsie/SR](https://github.com/gonsie/SR) - Simplified ROSS (now with history!)
 - [nvidia-compiler-sdk/nvvmir-samples](https://github.com/nvidia-compiler-sdk/nvvmir-samples) - 
 - [kjn/lbzip2](https://github.com/kjn/lbzip2) - Parallel bzip2 utility
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [gcwnow/linux](https://github.com/gcwnow/linux) - Linux kernel for GCW Zero (Ingenic JZ4770)
 - [macmade/ClangKit](https://github.com/macmade/ClangKit) - ClangKit provides an Objective-C frontend to LibClang. Source tokenization, diagnostics and fix-its are actually implemented.
 - [seb-m/CryptoPill](https://github.com/seb-m/CryptoPill) - Core Secret's crypto code.
@@ -1061,8 +1061,8 @@
 - [OneLoneCoder/olcNES](https://github.com/OneLoneCoder/olcNES) - NES Emulator, and Tutorial Video Code
 - [zorggish/FractalCryptGUI](https://github.com/zorggish/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 - [Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-- [azonenberg/scopehal-apps](https://github.com/azonenberg/scopehal-apps) - glscopeclient and other client applications for libscopehal.
-- [azonenberg/scopehal](https://github.com/azonenberg/scopehal) - Oscilloscope / logic analyzer platform abstraction library. This is the library only. Most users should use scopehal-apps.
+- [glscopeclient/scopehal-apps](https://github.com/glscopeclient/scopehal-apps) - glscopeclient and other client applications for libscopehal.
+- [glscopeclient/scopehal](https://github.com/glscopeclient/scopehal) - Oscilloscope / logic analyzer platform abstraction library. This is the library only. Most users should use scopehal-apps.
 - [ugeneunipro/ugene](https://github.com/ugeneunipro/ugene) - UGENE is free open-source cross-platform bioinformatics software
 - [rizinorg/rz-ghidra](https://github.com/rizinorg/rz-ghidra) - Deep ghidra decompiler and sleigh disassembler integration for rizin
 - [aerosoul94/PS-HDD-Tools](https://github.com/aerosoul94/PS-HDD-Tools) - PS3 and PS4 HDD tools
@@ -1216,7 +1216,7 @@
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [Yubico/yubikey-personalization-gui](https://github.com/Yubico/yubikey-personalization-gui) - YubiKey Personalization GUI
-- [azonenberg/graphwidget](https://github.com/azonenberg/graphwidget) - GTKMM graph widget
+- [glscopeclient/graphwidget](https://github.com/glscopeclient/graphwidget) - GTKMM graph widget
 - [randombit/botan](https://github.com/randombit/botan) - Cryptography Toolkit
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
@@ -2200,7 +2200,7 @@
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [billputer/go-namecheap](https://github.com/billputer/go-namecheap) - A Go library for using the Namecheap API
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3 or 4 (or on amd64 PCs!)
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [vancluever/terraform-provider-acme-old](https://github.com/vancluever/terraform-provider-acme-old) - ACME (Let's Encrypt) Support for Terraform
@@ -5185,6 +5185,7 @@
 
 ## Python 
 
+- [johnbeard/kiplot](https://github.com/johnbeard/kiplot) - KiCad plotting utility
 - [inkstitch/inkstitch](https://github.com/inkstitch/inkstitch) - Ink/Stitch: an Inkscape extension for machine embroidery design
 - [florianfesti/boxes](https://github.com/florianfesti/boxes) - Boxes.py - laser cutting boxes and more
 - [sudobob/matsuura_uploader](https://github.com/sudobob/matsuura_uploader) - Matsuura-Yasnac Metal Mill Web-based Program Uploader
@@ -5932,6 +5933,7 @@
 - [kjellmf/dot2tex](https://github.com/kjellmf/dot2tex) - Convert graphs generated by Graphviz to LaTeX friendly formats
 - [nvidia-compiler-sdk/pynvvm](https://github.com/nvidia-compiler-sdk/pynvvm) - Python bindings for libNVVM
 - [m-labs/migen](https://github.com/m-labs/migen) - A Python toolbox for building complex digital hardware
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [aws-samples/aws-python-sample](https://github.com/aws-samples/aws-python-sample) - Sample project to demonstrate usage of the AWS SDK for Python
@@ -6211,7 +6213,7 @@
 - [theswiftdev/awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) - Awesome native Xcode extensions.
 - [BinaryBeard/fastlane-plugin-codecov_reporter](https://github.com/BinaryBeard/fastlane-plugin-codecov_reporter) - Fastlane plugin that uploads coverage reports to Codecov.io
 - [segiddins/cocoapods-dependencies](https://github.com/segiddins/cocoapods-dependencies) - Shows a project's CocoaPods dependency graph
-- [oracle/truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
+- [oracle/truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language, built on GraalVM.
 - [licensee/licensee](https://github.com/licensee/licensee) - A Ruby Gem to detect under what license a project is distributed.
 - [typekit/slackbot](https://github.com/typekit/slackbot) - The laziest bot around.
 - [alloy/instruments](https://github.com/alloy/instruments) - 
@@ -7027,6 +7029,7 @@
 
 ## Swift 
 
+- [trilemma-dev/SecureXPC](https://github.com/trilemma-dev/SecureXPC) - A simple and secure XPC framework for Swift
 - [heestand-xyz/GeometryWriter](https://github.com/heestand-xyz/GeometryWriter) - The opposite of a GeometryReader in SwiftUI
 - [dagronf/DSFDockTile](https://github.com/dagronf/DSFDockTile) - Easily display images, animations, badges and alerts to your macOS application's dock icon
 - [EndouMari/TabPageViewController](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view
