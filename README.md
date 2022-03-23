@@ -360,7 +360,7 @@
 - [riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) - GNU toolchain for RISC-V, including GCC
 - [drewcrawford/blitcurve](https://github.com/drewcrawford/blitcurve) - A fast, GPU-ready bezier-curve implementation
 - [mind04/mod-ruid2](https://github.com/mind04/mod-ruid2) - mod_ruid2 is a suexec module for apache which takes advantage of POSIX.1e capabilities to increase performance.
-- [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPG-HTTP streamer
+- [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
 - [gshahbazian/SwiftGumbo](https://github.com/gshahbazian/SwiftGumbo) - A Swift wrapper and CSS like query library for the gumbo-parser HTML library
 - [maxdev1/ghost](https://github.com/maxdev1/ghost) - Ghost, a micro-kernel based hobby operating system for the x86 architecture.
 - [lhoursquentin/sed-bin](https://github.com/lhoursquentin/sed-bin) - sed to C translator written in sed
@@ -2648,7 +2648,7 @@
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
-- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🍇🌐📊📓🐍💻GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
 - [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
@@ -3893,6 +3893,7 @@
 - [evansm7/vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
 - [seemoo-lab/airdrop-keychain-extractor](https://github.com/seemoo-lab/airdrop-keychain-extractor) - Extracting Apple ID Validation Record, Certificate, and Key for AirDrop
 - [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) - The official Sentry SDK for iOS, tvOS, macOS, watchOS.
+- [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating mathematical expressions
 - [plaid/plaid-link-ios](https://github.com/plaid/plaid-link-ios) - Plaid Link iOS SDK
 - [v002/v002-Camera-Live](https://github.com/v002/v002-Camera-Live) - Live Syphon Camera
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
@@ -6553,7 +6554,7 @@
 - [o8vm/krabs](https://github.com/o8vm/krabs) - An x86 bootloader written in Rust.
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
-- [zombodb/pgx](https://github.com/zombodb/pgx) - Build Postgres Extensions with Rust!
+- [tcdi/pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
 - [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs) - a mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
@@ -7028,6 +7029,7 @@
 
 ## Swift 
 
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [trilemma-dev/SecureXPC](https://github.com/trilemma-dev/SecureXPC) - A simple and secure XPC framework for Swift
 - [heestand-xyz/GeometryWriter](https://github.com/heestand-xyz/GeometryWriter) - The opposite of a GeometryReader in SwiftUI
 - [dagronf/DSFDockTile](https://github.com/dagronf/DSFDockTile) - Easily display images, animations, badges and alerts to your macOS application's dock icon
@@ -7261,7 +7263,6 @@
 - [mattt/swift-registry](https://github.com/mattt/swift-registry) - A reference implementation of the Swift Package Registry, written in Swift and using Git as a database / transparent log.
 - [yassram/SwiLex](https://github.com/yassram/SwiLex) - A universal lexer library in Swift.
 - [cocoacontrols/SemanticUI](https://github.com/cocoacontrols/SemanticUI) - Understand iOS 13 Semantic UI: Dark Mode, Colors, Dynamic Type, and SF Symbols.
-- [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating mathematical expressions
 - [wickwirew/Shift](https://github.com/wickwirew/Shift) - Shift is a simple, declarative animation library for building complex view controller and view transitions in UIKit.
 - [kyle-n/HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - A SwiftUI view for dynamically highlighting user input
 - [DuncanMC/BlurredStrokedPath](https://github.com/DuncanMC/BlurredStrokedPath) - An iOS project that uses Core Animation and a layer's `shadowPath` to animate blurred stroked paths.
