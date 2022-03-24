@@ -1030,7 +1030,7 @@
 
 ## C++ 
 
-- [WerWolv/libsteam](https://github.com/WerWolv/libsteam) - 
+- [WerWolv/libsteam](https://github.com/WerWolv/libsteam) - Simple C++ library to interact with Steam client file formats and the Steam Deck
 - [SpacehuhnTech/SimpleCLI](https://github.com/SpacehuhnTech/SimpleCLI) - Command Line Interface Library for Arduino
 - [tursilion/convert9918](https://github.com/tursilion/convert9918) - Converter for the TMS9918A's bitmap mode, and F18A enhanced bitmap modes.
 - [mn416/QPULib](https://github.com/mn416/QPULib) - Language and compiler for the Raspberry Pi GPU
@@ -1797,7 +1797,7 @@
 - [diegoveloper/flutter-samples](https://github.com/diegoveloper/flutter-samples) - Flutter Samples
 - [chuabingquan/helm](https://github.com/chuabingquan/helm) - 💪 Helm is an app that gamifies stress/anxiety/depression management in an actionable manner to provide relief.
 - [ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
-- [FirebaseExtended/flutterfire](https://github.com/FirebaseExtended/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
+- [firebase/flutterfire](https://github.com/firebase/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
 - [FirebaseExtended/firebase-dart](https://github.com/FirebaseExtended/firebase-dart) - Dart wrapper for Firebase
 - [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
 - [2d-inc/Flare-Flutter](https://github.com/2d-inc/Flare-Flutter) - Load and get full control of your Rive files in a Flutter project using this library.
@@ -4434,7 +4434,6 @@
 - [clasqm/freedos-repo](https://github.com/clasqm/freedos-repo) - A repository of FreeDOS-compatible freeware and OSS software. No "abandonware".
 - [dhondta/awesome-executable-packing](https://github.com/dhondta/awesome-executable-packing) - A curated list of awesome resources related to executable packing
 - [kai5263499/osx-security-awesome](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
-- [ThomasVon2021/pikvm-CM4-Board](https://github.com/ThomasVon2021/pikvm-CM4-Board) - Cheap and high performance hardware based on CM4 for pikvm
 - [balintkissdev/awesome-dos](https://github.com/balintkissdev/awesome-dos) - Curated list of references for development of DOS applications.
 - [joric/nrfmicro](https://github.com/joric/nrfmicro) - Pro Micro-compatible Bluetooth 5.2 board with Li-Po charger and USB-C (nRF52840-based)
 - [Jana-Marie/JEGGER_s-link](https://github.com/Jana-Marie/JEGGER_s-link) - https://twitter.com/_Jana_Marie/status/1245725762642206728
@@ -6737,6 +6736,7 @@
 ## Shell 
 
 - [chadday/nicar_ocr](https://github.com/chadday/nicar_ocr) - A tutorial on optical character recognition using tesseract, ImageMagick and other open source tools
+- [ThomasVon2021/pikvm-CM4-Board](https://github.com/ThomasVon2021/pikvm-CM4-Board) - Cheap and high performance hardware based on CM4 for pikvm
 - [alamedyang/pinenote-backlights](https://github.com/alamedyang/pinenote-backlights) - A shell script for controlling both backlights on the PineNote
 - [keith/StaticInternalSwiftSyntaxParser](https://github.com/keith/StaticInternalSwiftSyntaxParser) - A static library for using SwiftSyntax / lib_InternalSwiftSyntaxParser
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
@@ -8398,6 +8398,7 @@
 
 ## TypeScript 
 
+- [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [hot3eed/xpcspy](https://github.com/hot3eed/xpcspy) - Bidirectional XPC message interception and more. Powered by Frida
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
@@ -8722,7 +8723,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
