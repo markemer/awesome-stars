@@ -6558,7 +6558,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [dirs-dev/dirs-rs](https://github.com/dirs-dev/dirs-rs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.
 - [cessen/ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
 - [steveftoth/oxidize-core](https://github.com/steveftoth/oxidize-core) - Implementation of core unix utilities in rust
 - [robmikh/minesweeper-rs](https://github.com/robmikh/minesweeper-rs) - A port of robmikh/Minesweeper using windows-rs.
@@ -7029,6 +7029,7 @@
 
 ## Swift 
 
+- [ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [trilemma-dev/SecureXPC](https://github.com/trilemma-dev/SecureXPC) - A simple and secure XPC framework for Swift
 - [heestand-xyz/GeometryWriter](https://github.com/heestand-xyz/GeometryWriter) - The opposite of a GeometryReader in SwiftUI
