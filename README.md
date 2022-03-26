@@ -8491,7 +8491,7 @@
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [mitaki28/vscode-clang](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang
 - [maxchehab/phelia](https://github.com/maxchehab/phelia) - ⚡ A reactive Slack application framework.
-- [brimdata/brim](https://github.com/brimdata/brim) - Desktop application to efficiently search and analyze semi-structured/structured data and packet captures
+- [brimdata/brim](https://github.com/brimdata/brim) - Desktop application to efficiently search and analyze super-structured data. Powered by Zed.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [jupyterlab/jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - A Git extension for JupyterLab
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
