@@ -217,6 +217,7 @@
 
 ## C 
 
+- [fnordware/AdobeWebM](https://github.com/fnordware/AdobeWebM) - WebM plug-ins for Adobe programs
 - [profburke/luablink](https://github.com/profburke/luablink) - Control your blink(1) from Lua.
 - [MaxDesiatov/Hleeb](https://github.com/MaxDesiatov/Hleeb) - Swift running on bare metal Raspberry Pi
 - [horsicq/PDBRipper](https://github.com/horsicq/PDBRipper) - PDBRipper is a utility for extract an information from PDB-files.
@@ -738,7 +739,7 @@
 - [RHSResearchLLC/PicoEVB](https://github.com/RHSResearchLLC/PicoEVB) - Public repository for PicoEVB (Xilinx Artix XC7A50T based)
 - [samdmarshall/Core-Lib](https://github.com/samdmarshall/Core-Lib) - Core C library I use for everything
 - [matteyeux/iOS-Utilities](https://github.com/matteyeux/iOS-Utilities) - Some iOS tools
-- [mirage/ocaml-freestanding](https://github.com/mirage/ocaml-freestanding) - Freestanding OCaml runtime
+- [mirage/ocaml-solo5](https://github.com/mirage/ocaml-solo5) - Freestanding OCaml runtime
 - [starius/luahs](https://github.com/starius/luahs) - Lua bindings to hyperscan, high-performance regular expression matching library
 - [ampotos/dynStruct](https://github.com/ampotos/dynStruct) - Reverse engineering tool for automatic structure recovering and memory use analysis based on DynamoRIO and Capstone
 - [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
@@ -2555,6 +2556,7 @@
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
+- [mirage/mirage-www](https://github.com/mirage/mirage-www) - Website infrastructure and content for mirage.io
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [webcomponents/xtag-boilerplate](https://github.com/webcomponents/xtag-boilerplate) - Fork this repo if you want to start your own Web Component using X-Tag
 - [webcomponents/element-boilerplate](https://github.com/webcomponents/element-boilerplate) - Fork this repo if you want to start your own Web Component using VanillaJS
@@ -3867,7 +3869,6 @@
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [mirleft/ocaml-tls](https://github.com/mirleft/ocaml-tls) - TLS in pure OCaml
 - [ocamllabs/ocaml-ctypes](https://github.com/ocamllabs/ocaml-ctypes) - Library for binding to C libraries using pure OCaml
-- [mirage/mirage-www](https://github.com/mirage/mirage-www) - Website infrastructure and content for mirage.io
 - [moonlightdrive/ocaml-ec2](https://github.com/moonlightdrive/ocaml-ec2) - 
 - [mirage/jitsu](https://github.com/mirage/jitsu) - A DNS server that automatically starts unikernels on demand
 - [OCamlPro/opam](https://github.com/OCamlPro/opam) - OPAM is a source-based package manager for OCaml. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.
