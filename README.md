@@ -217,6 +217,7 @@
 
 ## C 
 
+- [QuickLogic-Corp/qorc-sdk](https://github.com/QuickLogic-Corp/qorc-sdk) - Open source FreeRTOS SDK for EOS S3 MCU+eFPGA SoC including gateware, software and documentation under QuickLogic Open Reconfigurable Computing (QORC) Initiative
 - [fnordware/AdobeWebM](https://github.com/fnordware/AdobeWebM) - WebM plug-ins for Adobe programs
 - [profburke/luablink](https://github.com/profburke/luablink) - Control your blink(1) from Lua.
 - [MaxDesiatov/Hleeb](https://github.com/MaxDesiatov/Hleeb) - Swift running on bare metal Raspberry Pi
@@ -450,7 +451,7 @@
 - [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [nRFMesh/nRF52_Mesh](https://github.com/nRFMesh/nRF52_Mesh) - nRF52 custom RF mesh sensors and dongle firmware using nRF SDK
-- [wbenny/ia32-doc](https://github.com/wbenny/ia32-doc) - IA32-doc is a project which aims to put as many definitions from the Intel Manual into machine-processable format as possible
+- [ia32-doc/ia32-doc](https://github.com/ia32-doc/ia32-doc) - IA32-doc is a project which aims to put as many definitions from the Intel Manual into machine-processable format as possible
 - [Gbps/gbhv](https://github.com/Gbps/gbhv) - Simple x86-64 VT-x Hypervisor with EPT Hooking
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard.
@@ -2724,7 +2725,7 @@
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [sleekbyte/tailor](https://github.com/sleekbyte/tailor) - Cross-platform static analyzer and linter for Swift.
 - [jenkinsci/email-ext-plugin](https://github.com/jenkinsci/email-ext-plugin) - Jenkins Email Extension Plugin
-- [benoit-dumas/OpenRTS](https://github.com/benoit-dumas/OpenRTS) - Real-Time Strategy game 3D engine coded in pure java
+- [methusalah/OpenRTS](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in pure java
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database
 - [dropbox/hackpad](https://github.com/dropbox/hackpad) - Hackpad is a web-based realtime wiki.
 - [google/binnavi](https://github.com/google/binnavi) - BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.
@@ -4428,6 +4429,7 @@
 
 ## Others 
 
+- [QuickLogic-Corp/zephyr](https://github.com/QuickLogic-Corp/zephyr) - Primary GIT Repository for the Zephyr Project
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [justimyhxu/awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation) - A curated list of awesome 3d generation papers
 - [ME3Tweaks/ModTestingData](https://github.com/ME3Tweaks/ModTestingData) - Repository containing blank stubs of mods that are used as test data for ME3Tweaks Mod Manager
@@ -5185,6 +5187,7 @@
 
 ## Python 
 
+- [sparkfun/Graphical_Datasheets](https://github.com/sparkfun/Graphical_Datasheets) - Code, final versions, and information on the Sparkfun Graphical Datasheets
 - [johnbeard/kiplot](https://github.com/johnbeard/kiplot) - KiCad plotting utility
 - [inkstitch/inkstitch](https://github.com/inkstitch/inkstitch) - Ink/Stitch: an Inkscape extension for machine embroidery design
 - [florianfesti/boxes](https://github.com/florianfesti/boxes) - Boxes.py - laser cutting boxes and more
@@ -6274,7 +6277,7 @@
 - [sparklemotion/http-cookie](https://github.com/sparklemotion/http-cookie) - A Ruby library to handle HTTP cookies in a way both compliant with RFCs and compatible with today's major browsers
 - [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
 - [anaynayak/aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
-- [redmine/redmine](https://github.com/redmine/redmine) - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
+- [redmine/redmine](https://github.com/redmine/redmine) - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp
 - [troessner/reek](https://github.com/troessner/reek) - Code smell detector for Ruby
 - [peterhellberg/hashids.rb](https://github.com/peterhellberg/hashids.rb) - A small Ruby gem to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.
 - [rahul0x24/SwiftFrameworkTemplate](https://github.com/rahul0x24/SwiftFrameworkTemplate) - A template for new Swift iOS / macOS / tvOS / watchOS Framework project ready with travis-ci, cocoapods, Carthage, SwiftPM and a Readme file
@@ -8400,6 +8403,7 @@
 
 ## TypeScript 
 
+- [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist alternative and paste service
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [hot3eed/xpcspy](https://github.com/hot3eed/xpcspy) - Bidirectional XPC message interception and more. Powered by Frida
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
@@ -8429,7 +8433,7 @@
 - [elliotherriman/vscode-ink](https://github.com/elliotherriman/vscode-ink) - Adds support for ink to Visual Studio Code.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-- [mxcl/xcodebuild](https://github.com/mxcl/xcodebuild) - A continuously resilient `xcodebuild` action. Also it’s the best.
+- [mxcl/xcodebuild](https://github.com/mxcl/xcodebuild) - A continuously resilient `xcodebuild` “GitHub Action”. Also it’s the best.
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 - [davidar/pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
