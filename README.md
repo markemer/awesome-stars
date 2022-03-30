@@ -7033,6 +7033,7 @@
 
 ## Swift 
 
+- [guoyingtao/Mantis](https://github.com/guoyingtao/Mantis) - A photo cropping tool which mimics Photo.app written by Swift.
 - [ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [trilemma-dev/SecureXPC](https://github.com/trilemma-dev/SecureXPC) - A simple and secure XPC framework for Swift
