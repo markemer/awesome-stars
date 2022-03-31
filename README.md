@@ -1813,6 +1813,7 @@
 
 ## Dockerfile 
 
+- [QuickLogic-Corp/quicklogic-fpga-toolchain](https://github.com/QuickLogic-Corp/quicklogic-fpga-toolchain) - Open Source FPGA toolchain and documentation for QuickLogic devices and eFPGA IP
 - [asmaps/bepasty-docker](https://github.com/asmaps/bepasty-docker) - Docker automated build repository for the bepasty
 - [linuxserver/docker-grocy](https://github.com/linuxserver/docker-grocy) - A container for grocy - the ERP application for your kitchen https://grocy.info
 - [grocy/grocy-docker](https://github.com/grocy/grocy-docker) - ERP beyond your fridge - now containerized - this is the docker repo of https://github.com/grocy/grocy
@@ -2426,6 +2427,7 @@
 - [dougallj/applegpu](https://github.com/dougallj/applegpu) - Apple G13 GPU architecture docs and tools
 - [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
+- [xeokit/xeokit-sdk](https://github.com/xeokit/xeokit-sdk) - Open source JavaScript SDK for viewing high-detail, full-precision 3D BIM and AEC models in the Web browser.
 - [fcoury/kbpcb](https://github.com/fcoury/kbpcb) - Automated Keyboard PCB generator for KiCad
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [alex/nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
@@ -2845,7 +2847,6 @@
 - [foone/SierraDeathGenerator](https://github.com/foone/SierraDeathGenerator) - Generate fake screenshots from video games
 - [felixpalmer/procedural-gl-react](https://github.com/felixpalmer/procedural-gl-react) - React component for the Procedural GL JS library
 - [thundergod97/game-cyberpunk2077](https://github.com/thundergod97/game-cyberpunk2077) - Adds support for Cyberpunk 2077 to Vortex.
-- [xeokit/xeokit-sdk](https://github.com/xeokit/xeokit-sdk) - Open source JavaScript SDK for viewing high-detail, full-precision 3D BIM and AEC models in the Web browser.
 - [handshake-org/hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [twilio-labs/function-templates](https://github.com/twilio-labs/function-templates) - Twilio Function templates for different Voice, SMS, Video, Chat, Sync, etc use cases
@@ -6277,7 +6278,7 @@
 - [sparklemotion/http-cookie](https://github.com/sparklemotion/http-cookie) - A Ruby library to handle HTTP cookies in a way both compliant with RFCs and compatible with today's major browsers
 - [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
 - [anaynayak/aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
-- [redmine/redmine](https://github.com/redmine/redmine) - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp
+- [redmine/redmine](https://github.com/redmine/redmine) - Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp
 - [troessner/reek](https://github.com/troessner/reek) - Code smell detector for Ruby
 - [peterhellberg/hashids.rb](https://github.com/peterhellberg/hashids.rb) - A small Ruby gem to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.
 - [rahul0x24/SwiftFrameworkTemplate](https://github.com/rahul0x24/SwiftFrameworkTemplate) - A template for new Swift iOS / macOS / tvOS / watchOS Framework project ready with travis-ci, cocoapods, Carthage, SwiftPM and a Readme file
@@ -7033,6 +7034,7 @@
 
 ## Swift 
 
+- [weitieda/bottom-sheet](https://github.com/weitieda/bottom-sheet) - ⬆️ A SwiftUI view component sliding in from bottom
 - [guoyingtao/Mantis](https://github.com/guoyingtao/Mantis) - A photo cropping tool which mimics Photo.app written by Swift.
 - [ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
