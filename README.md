@@ -1929,7 +1929,6 @@
 - [benjojo/hot-clone](https://github.com/benjojo/hot-clone) - Progressively image a mounted disk correctly without corruption
 - [johanbrandhorst/certify](https://github.com/johanbrandhorst/certify) - Automatic client and server certificate distribution and maintenance
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
-- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
@@ -2074,7 +2073,7 @@
 - [google/starlark-go](https://github.com/google/starlark-go) - Starlark in Go: the Starlark configuration language, implemented in Go
 - [cruise-automation/isopod](https://github.com/cruise-automation/isopod) - An expressive DSL and framework for Kubernetes configuration without YAML
 - [googleapis/gapic-config-validator](https://github.com/googleapis/gapic-config-validator) - protoc plugin that validates GAPIC config proto annotations
-- [ndmckinley/terraform-provider-dominos](https://github.com/ndmckinley/terraform-provider-dominos) - The Terraform plugin for the Dominos Pizza provider.
+- [nat-henderson/terraform-provider-dominos](https://github.com/nat-henderson/terraform-provider-dominos) - The Terraform plugin for the Dominos Pizza provider.
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) - A bazel BUILD file formatter and editor
@@ -2413,6 +2412,7 @@
 
 ## HTML 
 
+- [MPR-News/covid-data](https://github.com/MPR-News/covid-data) - Data and graphs about Minnesota's COVID-19 outbreak, along with code to generate it
 - [laprej/laprej.github.io](https://github.com/laprej/laprej.github.io) - 
 - [mitre/hse-mwi](https://github.com/mitre/hse-mwi) - The Mental Wellness Index is a framework and dashboard tool that provides a picture of community-level mental wellness for each zip code in the nation
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
@@ -5110,6 +5110,7 @@
 
 ## Perl 
 
+- [Perl/perl5](https://github.com/Perl/perl5) - 🐫 The Perl programming language
 - [ClickSend/clicksend-perl](https://github.com/ClickSend/clicksend-perl) - ClickSend Perl SDK
 - [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) - Server for the MusicBrainz project (website, API, database tools)
 - [RichiH/myrepos](https://github.com/RichiH/myrepos) - 
@@ -5188,6 +5189,7 @@
 
 ## Python 
 
+- [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [sparkfun/Graphical_Datasheets](https://github.com/sparkfun/Graphical_Datasheets) - Code, final versions, and information on the Sparkfun Graphical Datasheets
 - [johnbeard/kiplot](https://github.com/johnbeard/kiplot) - KiCad plotting utility
 - [inkstitch/inkstitch](https://github.com/inkstitch/inkstitch) - Ink/Stitch: an Inkscape extension for machine embroidery design
@@ -6479,6 +6481,7 @@
 - [sourcefrog/rsyn](https://github.com/sourcefrog/rsyn) - [alpha] Wire-compatible rsync client in Rust
 - [xvxx/phetch](https://github.com/xvxx/phetch) - 🐭 quick lil gopher client for your terminal
 - [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust
+- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [trussed-dev/trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [EFForg/apkeep](https://github.com/EFForg/apkeep) - 
@@ -7034,6 +7037,7 @@
 
 ## Swift 
 
+- [tuist/tuist-up](https://github.com/tuist/tuist-up) - A CLI too powered by Swift to provision environments using an up.toml manifest file
 - [weitieda/bottom-sheet](https://github.com/weitieda/bottom-sheet) - ⬆️ A SwiftUI view component sliding in from bottom
 - [guoyingtao/Mantis](https://github.com/guoyingtao/Mantis) - A photo cropping tool which mimics Photo.app written by Swift.
 - [ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
