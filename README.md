@@ -92,6 +92,7 @@
   - [Python](#python)
   - [Q#](#q#)
   - [QML](#qml)
+  - [QMake](#qmake)
   - [R](#r)
   - [Racket](#racket)
   - [Raku](#raku)
@@ -241,7 +242,7 @@
 - [nokia/awkcc](https://github.com/nokia/awkcc) - 
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [Gravelbones/GhidraDosToolbox](https://github.com/Gravelbones/GhidraDosToolbox) - A toolbox for analyzing DOS (Real Mode) programs with Ghidra
-- [matoya/libmatoya](https://github.com/matoya/libmatoya) - Cross-platform application development.
+- [chrisd1100/libmatoya](https://github.com/chrisd1100/libmatoya) - Cross-platform application development.
 - [DorianRudolph/pinenotes](https://github.com/DorianRudolph/pinenotes) - Notes about PineNote development
 - [KhronosGroup/OpenVG-Docs](https://github.com/KhronosGroup/OpenVG-Docs) - OpenVG Specification source
 - [khadas/fenix](https://github.com/khadas/fenix) - One-stop script set to build Ubuntu/Debian images
@@ -469,7 +470,6 @@
 - [signalapp/libsignal-protocol-c](https://github.com/signalapp/libsignal-protocol-c) - 
 - [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
 - [parsec-cloud/parsec-sdk](https://github.com/parsec-cloud/parsec-sdk) - Low latency, peer-to-peer, interactive game streaming.
-- [matoya/cddNES](https://github.com/matoya/cddNES) - Cycle accurate NES emulator written in C w/ Parsec SDK support.
 - [alephsecurity/xnu-qemu-arm64-tools](https://github.com/alephsecurity/xnu-qemu-arm64-tools) - 
 - [randy408/libspng](https://github.com/randy408/libspng) - Simple, modern libpng alternative
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
@@ -1048,7 +1048,6 @@
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
 - [J-D-K/JKSV](https://github.com/J-D-K/JKSV) - JK's Save Manager Switch Edition
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
-- [horsicq/xntsv](https://github.com/horsicq/xntsv) - XNTSV program for detailed viewing of system structures  for Windows.
 - [glscopeclient/scopehal-waveforms-bridge](https://github.com/glscopeclient/scopehal-waveforms-bridge) - Socket server to bridge from Digilent WaveForms SDK to libscopehal
 - [KLayout/klayout](https://github.com/KLayout/klayout) - KLayout Main Sources
 - [StarDustCFW/Haku33](https://github.com/StarDustCFW/Haku33) - Perform a hard reset of the switch
@@ -4757,7 +4756,7 @@
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [thedaviddias/Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist) - 💎 The Design Checklist for Creative Web Designers and Patient Front-End Developers
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
-- [numworks/dieter](https://github.com/numworks/dieter) - STL files for the NumWorks graphing calcultor
+- [numworks/dieter](https://github.com/numworks/dieter) - STL files for the NumWorks graphing calculator
 - [loretoparisi/touchbar](https://github.com/loretoparisi/touchbar) - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples
 - [z11h/awesome-touchbar](https://github.com/z11h/awesome-touchbar) - :point_right: :star2: delightful macOS resources for your touchbar
 - [diegobit/PCalc-Hybrid-Layout](https://github.com/diegobit/PCalc-Hybrid-Layout) - An RPN layout for PCalc
@@ -6025,6 +6024,10 @@
 
 - [cutiepi-io/cutiepi-shell](https://github.com/cutiepi-io/cutiepi-shell) - A mobile shell for Raspberry Pi OS
 - [Yubico/yubikey-manager-qt](https://github.com/Yubico/yubikey-manager-qt) - Cross-platform application for configuring any YubiKey over all USB interfaces.
+
+## QMake 
+
+- [horsicq/xntsv](https://github.com/horsicq/xntsv) - XNTSV program for detailed viewing of system structures  for Windows.
 
 ## R 
 
