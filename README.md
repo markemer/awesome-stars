@@ -2784,6 +2784,7 @@
 
 ## JavaScript 
 
+- [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [l2dy/setup-macports](https://github.com/l2dy/setup-macports) - Set up your GitHub Actions workflow with a specific version of MacPorts
 - [alex-pinkus/tree-sitter-swift](https://github.com/alex-pinkus/tree-sitter-swift) - A tree-sitter grammar for the Swift programming language.
 - [elgatosf/streamdeck-plugintemplate](https://github.com/elgatosf/streamdeck-plugintemplate) - Stream Deck SDK: Plugin Template
@@ -4429,6 +4430,7 @@
 
 ## Others 
 
+- [cbmeeks/TMS9918](https://github.com/cbmeeks/TMS9918) - Various documents for the TMS9918 VDP
 - [QuickLogic-Corp/zephyr](https://github.com/QuickLogic-Corp/zephyr) - Primary GIT Repository for the Zephyr Project
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [justimyhxu/awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation) - A curated list of awesome 3d generation papers
