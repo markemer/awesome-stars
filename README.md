@@ -335,7 +335,7 @@
 - [DTolm/VkFFT](https://github.com/DTolm/VkFFT) - Vulkan/CUDA/HIP/OpenCL Fast Fourier Transform library
 - [Infineon/optiga-trust-m](https://github.com/Infineon/optiga-trust-m) - OPTIGA™ Trust M Software Framework
 - [jhelvy/qmkJsonConverter](https://github.com/jhelvy/qmkJsonConverter) - R code to convert the .json file from the QMK configurator into a keymap.c file
-- [minosproject/minos](https://github.com/minosproject/minos) - Microkernel RTOS with SMP and Virtualization support for ARMv8-A
+- [minosproject/minos](https://github.com/minosproject/minos) - Flexible Virtualization Solution for Embedded System
 - [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple Win64/Win32 applications on arm64/ppc64le/x86_64 Linux and x86_64 Mac
 - [ARMmbed/DAPLink](https://github.com/ARMmbed/DAPLink) - 
 - [saintmarina/undelete_jpg](https://github.com/saintmarina/undelete_jpg) - Recovers JPG images from SD cards and hard drives.
@@ -539,7 +539,7 @@
 - [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 - [Dafang-Hacks/uboot](https://github.com/Dafang-Hacks/uboot) - 
 - [Taymindis/nginx-link-function](https://github.com/Taymindis/nginx-link-function) - It is a NGINX module that provides dynamic linking to your application in server context and call the function of your application in location directive
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
 - [OpenAMP/open-amp](https://github.com/OpenAMP/open-amp) - 
 - [Xilinx/open-amp](https://github.com/Xilinx/open-amp) - 
 - [Xilinx/qemu](https://github.com/Xilinx/qemu) - Xilinx's fork of Quick EMUlator (QEMU) with improved support and modelling for the Xilinx platforms.
@@ -2784,6 +2784,7 @@
 
 ## JavaScript 
 
+- [jeremyong/paperbug](https://github.com/jeremyong/paperbug) - An indexed compendium of graphics programming papers, articles, blog posts, presentations, and more
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [l2dy/setup-macports](https://github.com/l2dy/setup-macports) - Set up your GitHub Actions workflow with a specific version of MacPorts
 - [alex-pinkus/tree-sitter-swift](https://github.com/alex-pinkus/tree-sitter-swift) - A tree-sitter grammar for the Swift programming language.
@@ -3305,7 +3306,7 @@
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [AnimaApp/sketch-web-viewer](https://github.com/AnimaApp/sketch-web-viewer) - View and inspect Sketch 43 files in browser
 - [timuric/sketchapp-scripter](https://github.com/timuric/sketchapp-scripter) - Atom package for running sketch app scripts from the atom editor
-- [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Golang + EmberJS
+- [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 - [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 - [chrishutchinson/cardkit](https://github.com/chrishutchinson/cardkit) - A simple, powerful and fully configurable image editor for web browsers and servers. Optional UI included.
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
@@ -6748,6 +6749,7 @@
 
 ## Shell 
 
+- [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide) - Apple Silicon Guide. Learn all about the M1, M1 Pro, M1 Max, and M1 Ultra chips.
 - [chadday/nicar_ocr](https://github.com/chadday/nicar_ocr) - A tutorial on optical character recognition using tesseract, ImageMagick and other open source tools
 - [ThomasVon2021/pikvm-CM4-Board](https://github.com/ThomasVon2021/pikvm-CM4-Board) - Cheap and high performance hardware based on CM4 for pikvm
 - [alamedyang/pinenote-backlights](https://github.com/alamedyang/pinenote-backlights) - A shell script for controlling both backlights on the PineNote
