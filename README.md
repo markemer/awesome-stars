@@ -2652,7 +2652,7 @@
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
-- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🍇🌐📊📓🐍💻GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
 - [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
@@ -5289,7 +5289,7 @@
 - [yaqwsx/KiKit](https://github.com/yaqwsx/KiKit) - Automation tools for KiCAD
 - [datatheorem/strongarm](https://github.com/datatheorem/strongarm) - Mach-O analysis library 💪
 - [jbms/finance-dl](https://github.com/jbms/finance-dl) - Tools for automatically downloading/scraping personal financial data.
-- [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
+- [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [damienBloch/inkscape-raytracing](https://github.com/damienBloch/inkscape-raytracing) - An extension for Inkscape that makes it easier to draw optical diagrams.
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.7+) and Qt 5 (5.3+) for cross-platform support.
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
@@ -7160,7 +7160,7 @@
 - [marksands/BetterCodable](https://github.com/marksands/BetterCodable) - Better Codable through Property Wrappers
 - [johnno1962/SwiftTrace](https://github.com/johnno1962/SwiftTrace) - Trace Swift and Objective-C method invocations
 - [darrarski/xcframework-maker](https://github.com/darrarski/xcframework-maker) - macOS utility for converting fat-frameworks to SPM-compatible XCFramework with arm64-simulator support
-- [heestand-xyz/PixelKit](https://github.com/heestand-xyz/PixelKit) - Live Graphics
+- [heestand-xyz/PixelKit](https://github.com/heestand-xyz/PixelKit) - Live Graphics in Swift & Metal
 - [Automattic/XCUITestHelpers](https://github.com/Automattic/XCUITestHelpers) - 
 - [DuncanMC/FireEmitter](https://github.com/DuncanMC/FireEmitter) - 
 - [mchakravarty/CodeEditorView](https://github.com/mchakravarty/CodeEditorView) - SwiftUI code editor view for iOS and macOS
@@ -7251,7 +7251,7 @@
 - [mortenbekditlevsen/SwiftGTKUI](https://github.com/mortenbekditlevsen/SwiftGTKUI) - A simple 'hello-world' app using SwiftGtk
 - [cx-org/CombineX](https://github.com/cx-org/CombineX) - Open source implementation of Apple's Combine
 - [dlvm-team/dlvm-core](https://github.com/dlvm-team/dlvm-core) - 
-- [adam-fowler/mqtt-nio](https://github.com/adam-fowler/mqtt-nio) - A Swift NIO MQTT v3.1.1 and v5.0 Client
+- [swift-server-community/mqtt-nio](https://github.com/swift-server-community/mqtt-nio) - A Swift NIO MQTT v3.1.1 and v5.0 Client
 - [dduan/Markra](https://github.com/dduan/Markra) - An open-source Markdown-to-JIRA syntax editor written in SwiftUI for macOS
 - [AvdLee/CustomSwiftOperators](https://github.com/AvdLee/CustomSwiftOperators) - Demonstrating custom Swift operators. Including prefix, postfix, infix, and compound assignment operators.
 - [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) - SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
