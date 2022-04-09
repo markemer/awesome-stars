@@ -5077,7 +5077,7 @@
 - [virtphp/virtphp](https://github.com/virtphp/virtphp) - virtPHP is a tool to create isolated PHP environments.
 - [EvanHahn/two-factor-auth-list](https://github.com/EvanHahn/two-factor-auth-list) - a list of websites supporting two-factor authentication
 - [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
-- [laravel/laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans.
+- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
 - [podio-community/podio-php](https://github.com/podio-community/podio-php) - PHP Client for the Podio API.
 - [StudioFuel/simplemodal-contact-form](https://github.com/StudioFuel/simplemodal-contact-form) - SimpleModal Contact Form (SMCF) is an Ajax powered modal contact form built with jQuery and SimpleModal.
