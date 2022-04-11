@@ -1032,6 +1032,7 @@
 
 ## C++ 
 
+- [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 - [WerWolv/libsteam](https://github.com/WerWolv/libsteam) - Simple C++ library to interact with Steam client file formats and the Steam Deck
 - [SpacehuhnTech/SimpleCLI](https://github.com/SpacehuhnTech/SimpleCLI) - Command Line Interface Library for Arduino
 - [tursilion/convert9918](https://github.com/tursilion/convert9918) - Converter for the TMS9918A's bitmap mode, and F18A enhanced bitmap modes.
@@ -2970,7 +2971,7 @@
 - [trbarron/plotter-sketches](https://github.com/trbarron/plotter-sketches) - playing with canvas-sketch for use with pen plotter
 - [zeplin/zem](https://github.com/zeplin/zem) - Create, test and publish Zeplin extensions with no build configuration ⚗️🦄
 - [aaronpk/Compass](https://github.com/aaronpk/Compass) - Compass is a GPS tracking server that stores data in flat files.
-- [AntonovSergey2211/guepard](https://github.com/AntonovSergey2211/guepard) - flash to html5 converter, as3 to javascript translator
+- [superman2211/guepard](https://github.com/superman2211/guepard) - flash to html5 converter, as3 to javascript translator
 - [jswanner/DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields
 - [idyll-lang/idyll-multipage-example](https://github.com/idyll-lang/idyll-multipage-example) - Example repo for setting up an Idyll blog with multiple posts.
 - [mathisonian/idyll-interactive-slideshow](https://github.com/mathisonian/idyll-interactive-slideshow) - 
@@ -7921,7 +7922,7 @@
 - [trill-lang/trill](https://github.com/trill-lang/trill) - A type safe, compiled language inspired by (and written in) Swift
 - [mapbox/mapbox-navigation-ios](https://github.com/mapbox/mapbox-navigation-ios) - Turn-by-turn navigation logic and UI in Swift on iOS
 - [NSExceptional/ASM-Swift](https://github.com/NSExceptional/ASM-Swift) - A playground for learning Assembly language through Swift.
-- [eneko/SourceDocs](https://github.com/eneko/SourceDocs) - Generate Markdown documentation from source code
+- [SourceDocs/SourceDocs](https://github.com/SourceDocs/SourceDocs) - Generate Markdown documentation from source code
 - [ChristianKienle/highway](https://github.com/ChristianKienle/highway) - Automate development tasks using Swift.
 - [bkase/DoctorPretty](https://github.com/bkase/DoctorPretty) - Wadler's "A prettier printer" embedded pretty-printer DSL for Swift
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
