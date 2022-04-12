@@ -332,7 +332,7 @@
 - [QB64Team/qb64](https://github.com/QB64Team/qb64) - BASIC for the modern era.
 - [k06a/Cliple](https://github.com/k06a/Cliple) - Simple clipboard manage app for Mac OS X
 - [MalphasWats/hawk](https://github.com/MalphasWats/hawk) - Tutorial for making an ARM dev board in KiCAD
-- [DTolm/VkFFT](https://github.com/DTolm/VkFFT) - Vulkan/CUDA/HIP/OpenCL Fast Fourier Transform library
+- [DTolm/VkFFT](https://github.com/DTolm/VkFFT) - Vulkan/CUDA/HIP/OpenCL/Level Zero Fast Fourier Transform library
 - [Infineon/optiga-trust-m](https://github.com/Infineon/optiga-trust-m) - OPTIGA™ Trust M Software Framework
 - [jhelvy/qmkJsonConverter](https://github.com/jhelvy/qmkJsonConverter) - R code to convert the .json file from the QMK configurator into a keymap.c file
 - [minosproject/minos](https://github.com/minosproject/minos) - Flexible Virtualization Solution for Embedded System
