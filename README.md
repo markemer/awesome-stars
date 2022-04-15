@@ -2420,7 +2420,6 @@
 - [lettergram/vocalvoters.com](https://github.com/lettergram/vocalvoters.com) - Contact your Government Representative Send a Letter or Fax in &lt;30 Seconds
 - [lxndrblz/anatole](https://github.com/lxndrblz/anatole) - Anatole is a minimalistic two-column theme for Hugo.
 - [Nexus-Mods/sso-integration-demo](https://github.com/Nexus-Mods/sso-integration-demo) - A simple page to demonstrate the SSO integration using simple JS for a website.
-- [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 - [solderparty/keyboard_featherwing_hw](https://github.com/solderparty/keyboard_featherwing_hw) - 
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [lmanul/welltemperedtraveler](https://github.com/lmanul/welltemperedtraveler) - Well-Tempered Traveler
@@ -2609,7 +2608,6 @@
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI programming library written in Haskell
 - [haskell-foundation/foundation](https://github.com/haskell-foundation/foundation) - Empire strikes back
-- [enso-org/luna-studio](https://github.com/enso-org/luna-studio) - Looking for Luna, the WYSIWYG language for data processing? Development has moved :point_right:
 - [facebook/duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 - [owickstrom/pandoc-emphasize-code](https://github.com/owickstrom/pandoc-emphasize-code) - A Pandoc filter for emphasizing code in fenced blocks
 - [jgm/pandoc-citeproc](https://github.com/jgm/pandoc-citeproc) - Library and executable for using citeproc with pandoc
@@ -3628,6 +3626,7 @@
 ## Jupyter Notebook 
 
 - [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
+- [Ivaneres/BlenderSatAI](https://github.com/Ivaneres/BlenderSatAI) - Blender addon to generate better building models from satellite imagery.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [freechipsproject/chisel-bootcamp](https://github.com/freechipsproject/chisel-bootcamp) - Generator Bootcamp Material: Learn Chisel the Right Way
 - [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
@@ -4458,7 +4457,6 @@
 - [steveftoth/fsecure](https://github.com/steveftoth/fsecure) - Projects and ideas for the fsecure device.
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - A collection of resources on FPGA devices and development in general
 - [ept/ddia-references](https://github.com/ept/ddia-references) - Literature references for “Designing Data-Intensive Applications”
-- [Ivaneres/BlenderSatAI](https://github.com/Ivaneres/BlenderSatAI) - Blender addon to generate better building models from satellite imagery.
 - [suchmememanyskill/TegraScript](https://github.com/suchmememanyskill/TegraScript) - The scripting language of TegraExplorer
 - [SystemSecurityStorm/Awesome-Binary-Rewriting](https://github.com/SystemSecurityStorm/Awesome-Binary-Rewriting) - An awesome & curated list of binary rewriting papers
 - [mrangen/M4-Breadstick](https://github.com/mrangen/M4-Breadstick) - A long and thin development board, designed to keep the number and length of jumper wires to a minimum. Runs Circuit Python on Microchip SAMD51G19A - Arduino in the works! Entered in Hackaday Prize 2021 and CrowdSupply campaign in the works!
@@ -5246,6 +5244,7 @@
 - [Groundworkstech/pybfd](https://github.com/Groundworkstech/pybfd) - A Python interface to the GNU Binary File Descriptor (BFD) library.
 - [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX.
 - [andreas-abel/uiCA](https://github.com/andreas-abel/uiCA) - uops.info Code Analyzer
+- [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 - [cea-sec/miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework in Python
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [bespoke-silicon-group/bsg_bladerunner](https://github.com/bespoke-silicon-group/bsg_bladerunner) - Meta-Repository for Bespoke Silicon Group's Manycore Architecture (A.K.A HammerBlade)
