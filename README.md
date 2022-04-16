@@ -2784,6 +2784,7 @@
 
 ## JavaScript 
 
+- [IamWarHead/ddb-data-grabber](https://github.com/IamWarHead/ddb-data-grabber) - A chrome extension for extracting your data from D&D Beyond
 - [jeremyong/paperbug](https://github.com/jeremyong/paperbug) - An indexed compendium of graphics programming papers, articles, blog posts, presentations, and more
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [l2dy/setup-macports](https://github.com/l2dy/setup-macports) - Set up your GitHub Actions workflow with a specific version of MacPorts
@@ -8747,7 +8748,7 @@
 
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and new version of massCode is available in beta! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
+- [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [djfurman/well-managed-deployments](https://github.com/djfurman/well-managed-deployments) - Deployments are hard, doing it with proper oversight is harder, tracking it is near impossible without crazy expense. Meet a serverless solution to the problem.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
