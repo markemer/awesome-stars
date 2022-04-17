@@ -1180,7 +1180,7 @@
 - [microsoft/GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [microsoft/cppwinrt](https://github.com/microsoft/cppwinrt) - C++ language projection for the Windows Runtime
-- [thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor using ImGui
+- [thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using Dear ImGui
 - [thennequin/ImWindow](https://github.com/thennequin/ImWindow) - Window and GUI system based on Dear ImGui from OCornut
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty McBloatface: a size profiler for binaries
@@ -2142,6 +2142,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [Azure/golua](https://github.com/Azure/golua) - A Lua 5.3 engine implemented in Go
 - [lokalise/go-lokalise-api](https://github.com/lokalise/go-lokalise-api) - Lokalise API v2 Golang client library.
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
@@ -3032,7 +3033,6 @@
 - [BoostIO/Boostbot](https://github.com/BoostIO/Boostbot) - :robot:
 - [microsoft/vscode-markdown-tm-grammar](https://github.com/microsoft/vscode-markdown-tm-grammar) - VS Code built-in markdown extension's Textmate grammar
 - [chunpu/markdown2confluence](https://github.com/chunpu/markdown2confluence) - convert markdown to confluence markup
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [sahilchaddha/homebridge-dafang](https://github.com/sahilchaddha/homebridge-dafang) - Homebridge Plugin for Xiaomi Dafang / Wyze Cam IP Camera =&gt; Hey Siri, Start Video Recording
 - [slifty/opened-captions](https://github.com/slifty/opened-captions) - A SocketIO API for live TV closed captions
 - [OpenNewsLabs/c-span_opened_captions_server](https://github.com/OpenNewsLabs/c-span_opened_captions_server) - c-span opened captions node buffer server + google docs apps script
