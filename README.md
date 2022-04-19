@@ -7195,7 +7195,7 @@
 - [SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs) - Complete SwiftUI Docs with Examples
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [danielmartin/swift-helpful](https://github.com/danielmartin/swift-helpful) - A Self-Documenting Emacs Programming Environment for Swift. Includes curated Swift 5.6 documentation and reference in GNU Info format, with cross-references, and keyword/topic indices.
-- [Flinesoft/BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
+- [FlineDev/BartyCrouch](https://github.com/FlineDev/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
 - [LucianoPAlmeida/variable-injector](https://github.com/LucianoPAlmeida/variable-injector) - Continuous Integration Tool for Swift Projects
 - [thumbtack/star](https://github.com/thumbtack/star) - Generate reports on how frequently specified Swift types are being used in your iOS codebase
 - [woshiccm/Pecker](https://github.com/woshiccm/Pecker) - CodePecker is a tool to detect unused Swift code.
@@ -7408,7 +7408,7 @@
 - [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [SwiftDocOrg/GraphViz](https://github.com/SwiftDocOrg/GraphViz) - A Swift package for working with GraphViz
-- [Flinesoft/AnyLint](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of scripts & regular expressions.
+- [FlineDev/AnyLint](https://github.com/FlineDev/AnyLint) - Lint anything by combining the power of scripts & regular expressions.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [migueldeicaza/TextBufferKit](https://github.com/migueldeicaza/TextBufferKit) - Swift TextBuffer
 - [migueldeicaza/TermKit](https://github.com/migueldeicaza/TermKit) - Terminal Kit - Console UI toolkit for Swift applications
@@ -8453,7 +8453,7 @@
 - [mxcl/xcodebuild](https://github.com/mxcl/xcodebuild) - A continuously resilient `xcodebuild` “GitHub Action”. Also it’s the best.
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 - [davidar/pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
 - [nick-fields/private-action-loader](https://github.com/nick-fields/private-action-loader) - Allows private GitHub Actions to be easily reused
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
