@@ -2698,7 +2698,6 @@
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 - [simon987/Much-Assembly-Required](https://github.com/simon987/Much-Assembly-Required) - Assembly programming game
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
-- [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [ME3Tweaks/ME3ModManager](https://github.com/ME3Tweaks/ME3ModManager) - Legacy mod manager for Mass Effect 3 (superceded by ME3Tweaks Mod Manager)
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [square/keywhiz](https://github.com/square/keywhiz) - A system for distributing and managing secrets
@@ -3717,6 +3716,7 @@
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 - [JetBrains/kotlin-native](https://github.com/JetBrains/kotlin-native) - Kotlin/Native infrastructure
 - [android/android-studio-poet](https://github.com/android/android-studio-poet) - Large Android projects generator
+- [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [mutexkid/stockwatcher](https://github.com/mutexkid/stockwatcher) - code example for "Pragmatic Kotlin on Android"
 - [mutexkid/kotlin-newintent-experiment](https://github.com/mutexkid/kotlin-newintent-experiment) - 
 - [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App
@@ -4432,6 +4432,7 @@
 
 ## Others 
 
+- [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools
 - [cbmeeks/TMS9918](https://github.com/cbmeeks/TMS9918) - Various documents for the TMS9918 VDP
 - [QuickLogic-Corp/zephyr](https://github.com/QuickLogic-Corp/zephyr) - Primary GIT Repository for the Zephyr Project
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
