@@ -217,6 +217,8 @@
 
 ## C 
 
+- [nova-labs/Nova-I3](https://github.com/nova-labs/Nova-I3) - Source files for the Nova I3 3d printer
+- [SKGleba/VitaDeploy](https://github.com/SKGleba/VitaDeploy) - Toolbox that makes homebrewing the PS Vita easier
 - [ganelson/inform](https://github.com/ganelson/inform) - The core software distribution for the Inform 7 programming language.
 - [Coreforge/linux](https://github.com/Coreforge/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum
 - [QuickLogic-Corp/qorc-sdk](https://github.com/QuickLogic-Corp/qorc-sdk) - Open source FreeRTOS SDK for EOS S3 MCU+eFPGA SoC including gateware, software and documentation under QuickLogic Open Reconfigurable Computing (QORC) Initiative
@@ -556,7 +558,7 @@
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [tleonhardt/practical_cryptography_engineering](https://github.com/tleonhardt/practical_cryptography_engineering) - Cryptography code examples using libsodium and mbedtls C libraries and Python cryptography and PyNaCl modules
 - [void-linux/musl-fts](https://github.com/void-linux/musl-fts) - Implementation of fts(3) for musl libc packages in Void Linux
-- [sharksync/sharkorm](https://github.com/sharksync/sharkorm) - Shark ORM for iOS/macOS/tvOS/watchOS
+- [editfmah/sharkorm](https://github.com/editfmah/sharkorm) - Shark ORM for iOS/macOS/tvOS/watchOS
 - [gfx-rs/portability](https://github.com/gfx-rs/portability) - Vulkan Portability Implementation
 - [jnz/q3vm](https://github.com/jnz/q3vm) - Q3VM - Single file (vm.c) bytecode virtual machine/interpreter for C-language input
 - [iqiyi/dpvs](https://github.com/iqiyi/dpvs) - DPVS is a high performance Layer-4 load balancer based on DPDK.
@@ -713,7 +715,7 @@
 - [intel/haxm](https://github.com/intel/haxm) - Intel® Hardware Accelerated Execution Manager (Intel® HAXM)
 - [gali8/Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS) - Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64.
 - [Ettercap/ettercap](https://github.com/Ettercap/ettercap) - Ettercap Project
-- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, X86)
+- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [flatpak/flatpak-builder](https://github.com/flatpak/flatpak-builder) - Tool to build flatpaks from source
 - [analang/como-lang-ng](https://github.com/analang/como-lang-ng) - como-lang-ng is now ana-lang, located at https://github.com/analang/ana
 - [PlanetAPL/openAPL](https://github.com/PlanetAPL/openAPL) - 
@@ -4436,6 +4438,7 @@
 
 ## Others 
 
+- [Scene-Collective/ps4-payload-repo](https://github.com/Scene-Collective/ps4-payload-repo) - Auto generates payloads and packages when they're updated
 - [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools
 - [cbmeeks/TMS9918](https://github.com/cbmeeks/TMS9918) - Various documents for the TMS9918 VDP
 - [QuickLogic-Corp/zephyr](https://github.com/QuickLogic-Corp/zephyr) - Primary GIT Repository for the Zephyr Project
