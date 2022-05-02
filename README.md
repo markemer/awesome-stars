@@ -505,7 +505,6 @@
 - [holzschu/network_ios](https://github.com/holzschu/network_ios) - Extension to ios_system, doing network-based commands
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [pyca/pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library
-- [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
 - [massar/sixxsd](https://github.com/massar/sixxsd) - sixxsd - The SixXS Daemon - IPv6 Tunnel & Routing Engine
 - [AOMediaCodec/SVT-AV1](https://github.com/AOMediaCodec/SVT-AV1) - Welcome to the GitHub repo for the SVT-AV1! This repo is set as a mirror to the gitlab repo. Please join us at https://gitlab.com/AOMediaCodec/SVT-AV1. We look forward to seeing you there
 - [RIOT-OS/RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
@@ -4521,7 +4520,7 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [alexkaessner/macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) - :gem: The most detailed and accurate macOS UI Kit for Sketch. This Sketch Library includes common Mac interface elements, cursors, and a Touch Bar UI Kit.
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - [August 2020, created] Branches with work in progress on making an Arm64 Darwin port.
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - [May 2022] Branch with work in progress on GCC master for an Arm64 Darwin port.
 - [arturo182/kicad-modules](https://github.com/arturo182/kicad-modules) - A repository with all my custom footprints and 3d models for KiCad
 - [arturo182/BBQ10KBD](https://github.com/arturo182/BBQ10KBD) - 
 - [yewalenikhil65/Resources-for-engineering-students-who-like-mathematics](https://github.com/yewalenikhil65/Resources-for-engineering-students-who-like-mathematics) - This is a collection of resources that I feel will prove useful to anyone studying in the area of engineering but also like mathematics. I urge anyone who comes across this, to contribute to the list in proper sequence/indexing
@@ -5515,6 +5514,7 @@
 - [bchao1/vocabs](https://github.com/bchao1/vocabs) - 📚 A lightweight online dictionary integration to the command line. No browsers. No paperbacks.
 - [gdbinit/lldbinit](https://github.com/gdbinit/lldbinit) - A gdbinit clone for LLDB
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
+- [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
 - [chdemko/apache-pandoc](https://github.com/chdemko/apache-pandoc) - Using pandoc to serve .md or .markdown files with apache
 - [percolate/ec2-security-groups-dumper](https://github.com/percolate/ec2-security-groups-dumper) - Dump your EC2 Security Groups as a CSV or JSON file
 - [percolate/iamer](https://github.com/percolate/iamer) - Dump and load your AWS IAM configuration into text files
@@ -7646,7 +7646,6 @@
 - [mattrubin/OneTimePassword](https://github.com/mattrubin/OneTimePassword) - 🔑 A small library for generating TOTP and HOTP one-time passwords on iOS.
 - [jessesquires/esoteric-swift](https://github.com/jessesquires/esoteric-swift) - A collection of obscure Swift programs. The less comprehensible, the better — just like normal code.
 - [mxcl/LegibleError](https://github.com/mxcl/LegibleError) - Beating `Error.localizedDescription` at its own game.
-- [paulofaria/swift-apex](https://github.com/paulofaria/swift-apex) - Swift runtime for Apex/Lambda
 - [amzn/smoke-aws](https://github.com/amzn/smoke-aws) - AWS services integration for the Smoke Framework
 - [louisdh/source-editor](https://github.com/louisdh/source-editor) - A native source editor for iOS and macOS, written in Swift
 - [louisdh/savannakit](https://github.com/louisdh/savannakit) - A high-performance, protocol oriented, framework for creating native IDEs for iOS and macOS, written in Swift
