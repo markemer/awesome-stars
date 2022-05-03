@@ -1845,11 +1845,12 @@
 
 ## Emacs Lisp 
 
+- [amake/macports.el](https://github.com/amake/macports.el) - An Emacs porcelain for MacPorts
 - [jsinglet/latex-preview-pane](https://github.com/jsinglet/latex-preview-pane) - Makes LaTeX editing less painful by providing a updatable preview pane
 - [johnbcoughlin/calctex](https://github.com/johnbcoughlin/calctex) - 
 - [bzg/dotemacs](https://github.com/bzg/dotemacs) - My .emacs.el file.
 - [bbatsov/projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
-- [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [yitang/.emacs.d](https://github.com/yitang/.emacs.d) - Emacs configuration
 - [milkypostman/powerline](https://github.com/milkypostman/powerline) - emacs powerline
@@ -8511,7 +8512,7 @@
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [relatedcode/RelatedChat](https://github.com/relatedcode/RelatedChat) - Open source alternative communication platform
 - [IvanMathy/CardsAwayFromHumanity](https://github.com/IvanMathy/CardsAwayFromHumanity) - A horrible codebase for a horrible time.
-- [fwal/setup-swift](https://github.com/fwal/setup-swift) - GitHub Action that setup a Swift environment
+- [swift-actions/setup-swift](https://github.com/swift-actions/setup-swift) - GitHub Action that setup a Swift environment
 - [mathieudutour/svg-path-visualizer](https://github.com/mathieudutour/svg-path-visualizer) - Enter a SVG path data to visualize it and discover all its different commands
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL
 - [TheLartians/modern-wasm-starter](https://github.com/TheLartians/modern-wasm-starter) - 🛸 Run C++ code on web and create blazingly fast websites! A starter template to easily create WebAssembly packages using type-safe C++ bindings with automatic TypeScript declarations.
