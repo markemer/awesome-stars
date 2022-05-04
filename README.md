@@ -4942,7 +4942,7 @@
 - [fastlane-old/credentials_manager](https://github.com/fastlane-old/credentials_manager) - Password Manager which is used in fastlane tools
 - [google/deepdream](https://github.com/google/deepdream) - 
 - [jenkinsci/hello-world-plugin](https://github.com/jenkinsci/hello-world-plugin) - Jenkins hello-world plugin
-- [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support) - Postman helps you be more efficient while working with APIs. Using Postman, you can construct complex HTTP requests quickly, organize them in collections and share them with your co-workers.
+- [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support) - Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
 - [keybase/keybase-issues](https://github.com/keybase/keybase-issues) - A single repo for managing publicly recognized issues with the keybase client, installer, and website.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [philipamour/ios9-uikit](https://github.com/philipamour/ios9-uikit) - iOS 9 UIKit for Sketch
