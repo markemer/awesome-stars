@@ -1887,7 +1887,6 @@
 - [cask/cask](https://github.com/cask/cask) - Project management tool for Emacs
 - [chrisdone/emacs-config](https://github.com/chrisdone/emacs-config) - My Emacs config
 - [melpa/melpa](https://github.com/melpa/melpa) - Recipes and build machinery for the biggest Emacs package repo
-- [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 - [aquamacs-emacs/aquamacs-emacs](https://github.com/aquamacs-emacs/aquamacs-emacs) - Aquamacs Emacs
 - [kragen/xcompose](https://github.com/kragen/xcompose) - for sharing .XCompose keybindings
 
@@ -3329,7 +3328,6 @@
 - [ttezel/twit](https://github.com/ttezel/twit) - Twitter API Client for node (REST & Streaming API)
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [AnimaApp/sketch-web-viewer](https://github.com/AnimaApp/sketch-web-viewer) - View and inspect Sketch 43 files in browser
 - [timuric/sketchapp-scripter](https://github.com/timuric/sketchapp-scripter) - Atom package for running sketch app scripts from the atom editor
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
@@ -7043,6 +7041,7 @@
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
+- [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## Smarty 
@@ -7296,7 +7295,6 @@
 - [Flight-School/MessagePack](https://github.com/Flight-School/MessagePack) - A MessagePack encoder and decoder for Codable types
 - [mortenbekditlevsen/SwiftGTKUI](https://github.com/mortenbekditlevsen/SwiftGTKUI) - A simple 'hello-world' app using SwiftGtk
 - [cx-org/CombineX](https://github.com/cx-org/CombineX) - Open source implementation of Apple's Combine
-- [dlvm-team/dlvm-core](https://github.com/dlvm-team/dlvm-core) - 
 - [swift-server-community/mqtt-nio](https://github.com/swift-server-community/mqtt-nio) - A Swift NIO MQTT v3.1.1 and v5.0 Client
 - [dduan/Markra](https://github.com/dduan/Markra) - An open-source Markdown-to-JIRA syntax editor written in SwiftUI for macOS
 - [AvdLee/CustomSwiftOperators](https://github.com/AvdLee/CustomSwiftOperators) - Demonstrating custom Swift operators. Including prefix, postfix, infix, and compound assignment operators.
@@ -8668,6 +8666,7 @@
 - [slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [kaitai-io/kaitai_struct_webide](https://github.com/kaitai-io/kaitai_struct_webide) - Online editor / visualizer for Kaitai Struct .ksy files
+- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
