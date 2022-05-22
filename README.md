@@ -51,6 +51,7 @@
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
+- [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -165,6 +166,7 @@
 
 ## Assembly 
 
+- [fadden/6502bench](https://github.com/fadden/6502bench) - A workbench for developing 6502 code
 - [visrealm/hbc-56](https://github.com/visrealm/hbc-56) - Homebrew 6502 on a backplane computer
 - [Myself086/Project-Nested](https://github.com/Myself086/Project-Nested) - 
 - [fjballest/nixMarkIV](https://github.com/fjballest/nixMarkIV) - Nix source
@@ -221,6 +223,7 @@
 
 ## C 
 
+- [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
 - [dfskoll/remind](https://github.com/dfskoll/remind) - The Remind calendar program
 - [KermitProject/ckermit](https://github.com/KermitProject/ckermit) - C-Kermit: Portable OPEN SOURCE Scriptable Network and Serial Communication Software for Unix and VMS
 - [Comcast/caption-inspector](https://github.com/Comcast/caption-inspector) - Caption Inspector is a reference decoder for Closed Captions (CEA-608 and CEA-708).
@@ -895,7 +898,7 @@
 - [freebsd/openlaunchd](https://github.com/freebsd/openlaunchd) - A launchd(8) port for non-Darwin systems
 - [facebookarchive/liblogfaf](https://github.com/facebookarchive/liblogfaf) - A library that logs messages using non-blocking UDP datagrams.
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
-- [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
+- [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
 - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [ZipArchive/ZipArchive](https://github.com/ZipArchive/ZipArchive) - ZipArchive is a simple utility class for zipping and unzipping files on iOS, macOS and tvOS.
 - [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
@@ -1051,6 +1054,7 @@
 
 ## C++ 
 
+- [Fleynaro/SDA](https://github.com/Fleynaro/SDA) - SDA is a rich cross-platform tool for reverse engineering that focused firstly on analysis of computer games. I'm trying to create a mix of the Ghidra, Cheat Engine and x64dbg. My tool will combine st
 - [nadult/FreeFT](https://github.com/nadult/FreeFT) - Isometric action game engine
 - [fifengine/fifechan](https://github.com/fifengine/fifechan) - Fifechan is a C++ GUI library designed for games. It comes with a standard set of 'widgets' and can use several different objects for displaying graphics and capturing user input.
 - [horsicq/XMachOViewer](https://github.com/horsicq/XMachOViewer) - XMachOViewer is a Mach-O viewer for Windows, Linux and MacOS
@@ -2440,6 +2444,7 @@
 
 ## HTML 
 
+- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [swill/kb_builder](https://github.com/swill/kb_builder) - A stand alone keyboard CAD generation tool based on FreeCAD.
 - [MPR-News/covid-data](https://github.com/MPR-News/covid-data) - Data and graphs about Minnesota's COVID-19 outbreak, along with code to generate it
 - [laprej/laprej.github.io](https://github.com/laprej/laprej.github.io) - 
@@ -2664,6 +2669,10 @@
 - [watabou/TownGeneratorOS](https://github.com/watabou/TownGeneratorOS) - The source code of the Medieval Fantasy City Generator
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
 - [openfl/openfl](https://github.com/openfl/openfl) - The Open Flash Library for creative expression on the web, desktop, mobile and consoles.
+
+## Inno Setup 
+
+- [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 
 ## Java 
 
@@ -4451,6 +4460,7 @@
 
 ## Others 
 
+- [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 - [ccadic/sharpikeebo](https://github.com/ccadic/sharpikeebo) - Miniature RPI Zero 2W shield with Sharp memory Display and USB Beyboard
 - [oxda/usb-cereal](https://github.com/oxda/usb-cereal) - USB-Cereal is a powerful, fully open source development tool that simplifies testing, development, debugging, and manufacturing of devices that utilize USB-C. Using USB-C’s extended capabilities this 
 - [viktak/TPM-H370](https://github.com/viktak/TPM-H370) - TPM 2.0 Module for Gigabyte H370 series motherboards
@@ -6115,6 +6125,7 @@
 
 ## Ruby 
 
+- [kkaempf/ruida](https://github.com/kkaempf/ruida) - Decoder and tooling for the RDWorks .rd file format
 - [fastlane-community/trainer](https://github.com/fastlane-community/trainer) - Convert xcodebuild plist and xcresult files to JUnit reports
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life
 - [sleede/fab-manager](https://github.com/sleede/fab-manager) - Fab-Manager is the FabLab management solution.  It provides a comprehensive, web-based, open-source tool to simplify your administrative tasks and your marker's projects.
@@ -6269,7 +6280,7 @@
 - [jfahrenkrug/WWDC-Downloader](https://github.com/jfahrenkrug/WWDC-Downloader) - Script to download the sample code for all WWDC 2018 sessions.
 - [diogot/danger-xcode_summary](https://github.com/diogot/danger-xcode_summary) - A Danger plugin that shows all build errors, warnings and unit tests results generated from xcodebuild.
 - [net-ssh/net-ssh](https://github.com/net-ssh/net-ssh) - Pure Ruby implementation of an SSH (protocol 2) client
-- [zkarpinski/Jekyll-Admin](https://github.com/zkarpinski/Jekyll-Admin) - Drop in code for Rails that allows you to edit your Jekyll.rb based blog.
+- [Wootenblatz/Jekyll-Admin](https://github.com/Wootenblatz/Jekyll-Admin) - Drop in code for Rails that allows you to edit your Jekyll.rb based blog.
 - [rfelix/jekyll_ext](https://github.com/rfelix/jekyll_ext) - My attempt to make Jekyll more extendable and to make extensions portable
 - [slack-ruby/slack-ruby-bot](https://github.com/slack-ruby/slack-ruby-bot) - The easiest way to write a Slack bot in Ruby.
 - [slack-ruby/slack-ruby-client](https://github.com/slack-ruby/slack-ruby-client) - A Ruby and command-line client for the Slack Web, Real Time Messaging and Event APIs.
@@ -6782,6 +6793,7 @@
 
 ## Shell 
 
+- [blacktop/docker-ghidra](https://github.com/blacktop/docker-ghidra) - Ghidra Client/Server Docker Image
 - [macstadium/orka-integrations](https://github.com/macstadium/orka-integrations) - CI/CD Integrations for Orka by MacStadium
 - [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide) - Apple Silicon Guide. Learn all about the M1, M1 Pro, M1 Max, and M1 Ultra chips.
 - [chadday/nicar_ocr](https://github.com/chadday/nicar_ocr) - A tutorial on optical character recognition using tesseract, ImageMagick and other open source tools
