@@ -311,7 +311,6 @@
 - [microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
 - [audulus/vger](https://github.com/audulus/vger) - 2D GPU renderer for dynamic UIs
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-- [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs) - DEFLATE, gzip, and zlib bindings for Rust
 - [Infineon/linux-optiga-trust-m](https://github.com/Infineon/linux-optiga-trust-m) - Linux tools and examples for OPTIGA™ Trust M1/M3 security solution
 - [htruong/zenreader](https://github.com/htruong/zenreader) - Makes your M5Paper an E-ink RSS Reader with built-in Reader mode, to solve annoyances with the Kindle Experimental browser.
 - [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
@@ -329,7 +328,7 @@
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
 - [PicoCPP/RPI-pico-FreeRTOS](https://github.com/PicoCPP/RPI-pico-FreeRTOS) - 
 - [TheThingsIndustries/generic-node-se](https://github.com/TheThingsIndustries/generic-node-se) - Generic Node Sensor Edition
-- [Wren6991/PicoDVI](https://github.com/Wren6991/PicoDVI) - 
+- [Wren6991/PicoDVI](https://github.com/Wren6991/PicoDVI) - Bitbanged DVI on the RP2040 Microcontroller
 - [blakemcbride/akt](https://github.com/blakemcbride/akt) - Keyboard handler for gnu-apl on Linux
 - [stm32duino/STM32RTC](https://github.com/stm32duino/STM32RTC) - Arduino RTC library for STM32.
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
@@ -2876,7 +2875,6 @@
 - [TheGiddyLimit/TheGiddyLimit.github.io](https://github.com/TheGiddyLimit/TheGiddyLimit.github.io) - Defunct. See: https://github.com/5etools-mirror-1/5etools-mirror-1.github.io
 - [github/tweetsodium](https://github.com/github/tweetsodium) - libsodium sealed cryptobox using tweetnacl
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
@@ -4785,7 +4783,7 @@
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [redhuntlabs/RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) - Virtual Machine for Adversary Emulation and Threat Hunting
 - [futurice/ios-good-practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers.
-- [jonreid/XcodeWarnings](https://github.com/jonreid/XcodeWarnings) - xcconfig to enable lots of Xcode warnings
+- [jonreid/XcodeWarnings](https://github.com/jonreid/XcodeWarnings) - Xcode configuration file to turn up warnings
 - [w0lfschild/macOS_headers](https://github.com/w0lfschild/macOS_headers) - :books: A consistently maintained dump of most macOS Headers
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [thedaviddias/Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist) - 💎 The Design Checklist for Creative Web Designers and Patient Front-End Developers
@@ -6563,6 +6561,7 @@
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
 - [blitz/clac](https://github.com/blitz/clac) - A reverse polish calculator - a modern replacement for dc
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or Ja
+- [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs) - DEFLATE, gzip, and zlib bindings for Rust
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
@@ -8518,6 +8517,7 @@
 - [jupyterlab/jupyterlab-latex](https://github.com/jupyterlab/jupyterlab-latex) - JupyterLab extension for live editing of LaTeX documents
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [DarylBuckle/dnd-character-sheets](https://github.com/DarylBuckle/dnd-character-sheets) - Dungeons and Dragons 5th Edition character sheets created in ReactJS.
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [thoughtspile/grafar](https://github.com/thoughtspile/grafar) - Reactive multidimensional math & data visualization for the web.
 - [githubocto/flat](https://github.com/githubocto/flat) - The GitHub Action which powers Flat
