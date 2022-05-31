@@ -2875,6 +2875,7 @@
 - [TheGiddyLimit/TheGiddyLimit.github.io](https://github.com/TheGiddyLimit/TheGiddyLimit.github.io) - Defunct. See: https://github.com/5etools-mirror-1/5etools-mirror-1.github.io
 - [github/tweetsodium](https://github.com/github/tweetsodium) - libsodium sealed cryptobox using tweetnacl
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
@@ -6322,7 +6323,7 @@
 - [ckruse/CFPropertyList](https://github.com/ckruse/CFPropertyList) - Read, write and manipulate both binary and XML property lists as defined by apple
 - [phrase/phraseapp-ruby](https://github.com/phrase/phraseapp-ruby) - API Client to access Phrase API written in Ruby
 - [ariejan/firefly](https://github.com/ariejan/firefly) - 
-- [twilio/authy-ruby](https://github.com/twilio/authy-ruby) - Ruby library to access the authy API
+- [twilio/authy-ruby](https://github.com/twilio/authy-ruby) - **Deprecated** Ruby library to access the authy API
 - [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line client (needs to be updated)
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
 - [SketchUp/sketchup-ruby-api-tutorials](https://github.com/SketchUp/sketchup-ruby-api-tutorials) - SketchUp Ruby API Tutorials and Examples
@@ -7855,7 +7856,6 @@
 - [hyperoslo/OhMyAuth](https://github.com/hyperoslo/OhMyAuth) - :closed_lock_with_key: Simple OAuth2 library with a support of multiple services.
 - [anthonycastelli/s3-storage](https://github.com/anthonycastelli/s3-storage) - 
 - [yonaskolb/Codability](https://github.com/yonaskolb/Codability) - Useful helpers for working with Codable types in Swift
-- [rjpower/iSwift](https://github.com/rjpower/iSwift) - A Swift kernel for IPython.
 - [marcosgriselli/EasyTransitions](https://github.com/marcosgriselli/EasyTransitions) - A simple way to create custom interactive UIViewController transitions
 - [ProfileCreator/ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS app to create standard or customized configuration profiles.
 - [insidegui/MultipeerDemo](https://github.com/insidegui/MultipeerDemo) - AirDrop-like functionality using MultipeerConnectivity
@@ -8517,7 +8517,6 @@
 - [jupyterlab/jupyterlab-latex](https://github.com/jupyterlab/jupyterlab-latex) - JupyterLab extension for live editing of LaTeX documents
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [DarylBuckle/dnd-character-sheets](https://github.com/DarylBuckle/dnd-character-sheets) - Dungeons and Dragons 5th Edition character sheets created in ReactJS.
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [thoughtspile/grafar](https://github.com/thoughtspile/grafar) - Reactive multidimensional math & data visualization for the web.
 - [githubocto/flat](https://github.com/githubocto/flat) - The GitHub Action which powers Flat
