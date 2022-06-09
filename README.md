@@ -953,6 +953,7 @@
 
 ## C# # 
 
+- [paulloz/godot-ink](https://github.com/paulloz/godot-ink) - Ink integration for Godot Engine.
 - [fantabulous-tech/unity-ink-graph](https://github.com/fantabulous-tech/unity-ink-graph) - Unity scripts for exporting a .tgf file for importing into the yEd Graph Editor from a root .ink file.
 - [tmxkn1/D-OS-Save-Editor](https://github.com/tmxkn1/D-OS-Save-Editor) - A save editor for Divinity Original Sin: Enhanced Edition
 - [LaughingLeader-DOS2-Mods/DivinityModManager](https://github.com/LaughingLeader-DOS2-Mods/DivinityModManager) - A mod manager for Divinity: Original Sin - Definitive Edition.
@@ -1060,6 +1061,7 @@
 
 ## C++ 
 
+- [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
 - [WerWolv/Decompiler](https://github.com/WerWolv/Decompiler) - A WIP disassember and decompiler written in modern C++ with the goal to do as much work during compile time as possible
 - [Fleynaro/SDA](https://github.com/Fleynaro/SDA) - SDA is a rich cross-platform tool for reverse engineering that focused firstly on analysis of computer games. I'm trying to create a mix of the Ghidra, Cheat Engine and x64dbg. My tool will combine st
 - [nadult/FreeFT](https://github.com/nadult/FreeFT) - Isometric action game engine
@@ -3610,7 +3612,7 @@
 - [javisantana/whitebrd.me](https://github.com/javisantana/whitebrd.me) - all together now project
 - [rlr/dotjs-addon](https://github.com/rlr/dotjs-addon) - [unmaintained] ~/.js for Firefox
 - [metachris/appengine-boilerplate](https://github.com/metachris/appengine-boilerplate) - Boilerplate setup for App Engine with html5-boilerplate 2.0, OpenID, memcache, user preferences, and more
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
+- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor
 - [socketstream/socketstream](https://github.com/socketstream/socketstream) - A framework for Realtime Web Apps
 - [mediatemple/mt_api_examples](https://github.com/mediatemple/mt_api_examples) - Media Temple API - Client Libraries
 - [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
@@ -3924,6 +3926,7 @@
 
 ## Objective-C 
 
+- [johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII) - Re-write of Injection for Xcode in (mostly) Swift
 - [AquaTerm/AquaTerm](https://github.com/AquaTerm/AquaTerm) - Mac OS X graphics terminal
 - [JarnoLeConte/streamdeck-template-swift](https://github.com/JarnoLeConte/streamdeck-template-swift) - Template for creating a Stream Deck plugin in Swift
 - [sveinbjornt/ManDrake](https://github.com/sveinbjornt/ManDrake) - Native Mac man page editor with syntax coloring, mandoc syntax checking & live preview.
@@ -7100,6 +7103,12 @@
 
 ## Swift 
 
+- [corin8823/Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift.
+- [vitormesquita/Malert](https://github.com/vitormesquita/Malert) - Custom alert View to iOS applications
+- [kazuhiro4949/PagingKit](https://github.com/kazuhiro4949/PagingKit) - PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries.
+- [rakutentech/macos-push-tester](https://github.com/rakutentech/macos-push-tester) - Native mac app for easily sending Apple APNs push messages to iOS apps
+- [marcosgriselli/SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
+- [yusadogru/CardTabBar](https://github.com/yusadogru/CardTabBar) - This library is for adding animation to iOS tabbar items, which is inherited from UITabBarController.
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS that makes it easy to create fluid, interruptible animations that feel great.
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A completely native Discord client for macOS built 100% in Swift and SwiftUI!
 - [SwiftcordApp/DiscordKit](https://github.com/SwiftcordApp/DiscordKit) - The Discord API implementation behind Swiftcord, implemented completely from scratch in Swift
@@ -7291,7 +7300,7 @@
 - [CoreOffice/CoreXLSX](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format parser written in pure Swift
 - [yysskk/SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
 - [billp/TermiNetwork](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
-- [sindresorhus/Preferences](https://github.com/sindresorhus/Preferences) - ⚙ Add a preferences window to your macOS app in minutes
+- [sindresorhus/Preferences](https://github.com/sindresorhus/Preferences) - ⚙ Add a settings window to your macOS app in minutes
 - [olivaresf/amazingcloudkit](https://github.com/olivaresf/amazingcloudkit) - A smart way to use CloudKit
 - [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 - [maustinstar/swiftui-drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
@@ -8529,7 +8538,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [thoughtspile/grafar](https://github.com/thoughtspile/grafar) - Reactive multidimensional math & data visualization for the web.
 - [githubocto/flat](https://github.com/githubocto/flat) - The GitHub Action which powers Flat
-- [standardnotes/web](https://github.com/standardnotes/web) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com
+- [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com
 - [1Password/connect-sdk-js](https://github.com/1Password/connect-sdk-js) - Node SDK for 1Password Connect
 - [paulshen/birthday-report](https://github.com/paulshen/birthday-report) - 
 - [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
@@ -8654,7 +8663,7 @@
 - [phosphorjs/phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
 - [ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [davidedc/Algebrite](https://github.com/davidedc/Algebrite) - Computer Algebra System in Javascript (Typescript)
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
