@@ -55,6 +55,7 @@
 - [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [JetBrains MPS](#jetbrains-mps)
 - [Jinja](#jinja)
 - [Jsonnet](#jsonnet)
 - [Julia](#julia)
@@ -227,6 +228,7 @@
 
 ## C 
 
+- [e-radionicacom/Inkplate-GUI-Designer](https://github.com/e-radionicacom/Inkplate-GUI-Designer) - Web app to easily design user interface for Inkplate boards.
 - [atrblizzard/VAMPTools](https://github.com/atrblizzard/VAMPTools) - Vampire the Masquerade: Bloodlines model and texture converter
 - [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux.
 - [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
@@ -1940,6 +1942,7 @@
 
 ## Go 
 
+- [zix99/rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more!
 - [cirruslabs/packer-plugin-tart](https://github.com/cirruslabs/packer-plugin-tart) - Packer builder for Tart VMs
 - [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) - CLI for executing Cirrus tasks locally and in any CI
 - [brimdata/zed](https://github.com/brimdata/zed) - Tooling for super-structured data: a new and easier way to manipulate data
@@ -2002,7 +2005,7 @@
 - [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) - Hashicorp Vault plugin integrates with 1Password Connect to allow for the retrieval, creation, and deletion of items stored in 1Password.
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and ot
 - [tongson/LadyLua](https://github.com/tongson/LadyLua) - Single executable(static), batteries included, Lua 5.1 interpreter.
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
@@ -2260,7 +2263,7 @@
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
 - [caddyserver/dnsproviders](https://github.com/caddyserver/dnsproviders) - OBSOLETE: DNS providers adapted for use in Caddy to solve the ACME DNS challenge - for Caddy v1 only. See caddy-dns for v2.
-- [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [larsp/co2monitor](https://github.com/larsp/co2monitor) - CO₂ & Temperature monitor
 - [capitalone/checks-out](https://github.com/capitalone/checks-out) - Checks-Out pull request approval system
 - [uber/uberalls](https://github.com/uber/uberalls) - Track code coverage metrics with Jenkins and Phabricator
@@ -2802,7 +2805,6 @@
 - [space150/google-glass-playground](https://github.com/space150/google-glass-playground) - 
 - [azharb/HelloGlass](https://github.com/azharb/HelloGlass) - 
 - [ouya/ouya-sdk-examples](https://github.com/ouya/ouya-sdk-examples) - Examples for ouya sdk engines
-- [JetBrains/MPS](https://github.com/JetBrains/MPS) - JetBrains Meta programming System
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [SmartBear/soapui](https://github.com/SmartBear/soapui) - SoapUI is a free and open source cross-platform functional testing solution for APIs and web services.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -3146,8 +3148,7 @@
 - [mathisonian/observable-idyll](https://github.com/mathisonian/observable-idyll) - Bindings to Observable notebooks from Idyll - WIP
 - [authorblues/smwrandomizer](https://github.com/authorblues/smwrandomizer) - Generate randomized Super Mario World roms.
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
-- [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
+- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [jessepeterson/margarita](https://github.com/jessepeterson/margarita) - Web frontend for reposado
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
@@ -3612,7 +3613,7 @@
 - [javisantana/whitebrd.me](https://github.com/javisantana/whitebrd.me) - all together now project
 - [rlr/dotjs-addon](https://github.com/rlr/dotjs-addon) - [unmaintained] ~/.js for Firefox
 - [metachris/appengine-boilerplate](https://github.com/metachris/appengine-boilerplate) - Boilerplate setup for App Engine with html5-boilerplate 2.0, OpenID, memcache, user preferences, and more
-- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor
+- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [socketstream/socketstream](https://github.com/socketstream/socketstream) - A framework for Realtime Web Apps
 - [mediatemple/mt_api_examples](https://github.com/mediatemple/mt_api_examples) - Media Temple API - Client Libraries
 - [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
@@ -3632,6 +3633,10 @@
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [DanBricklin/socialcalc](https://github.com/DanBricklin/socialcalc) - SocialCalc for Socialtext
 - [malsup/cycle](https://github.com/malsup/cycle) - jQuery Cycle Plugin - Slideshow goodness
+
+## JetBrains MPS 
+
+- [JetBrains/MPS](https://github.com/JetBrains/MPS) - JetBrains Meta programming System
 
 ## Jinja 
 
@@ -4469,6 +4474,7 @@
 
 ## Others 
 
+- [OpenEVSE/OpenEVSE_PLUS](https://github.com/OpenEVSE/OpenEVSE_PLUS) - OpenEVSE Hardware
 - [docker/extensions-sdk](https://github.com/docker/extensions-sdk) - Desktop Extensions SDK
 - [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 - [ccadic/sharpikeebo](https://github.com/ccadic/sharpikeebo) - Miniature RPI Zero 2W shield with Sharp memory Display and USB Beyboard
@@ -4847,6 +4853,7 @@
 - [drewrwilson/toolsforactivism](https://github.com/drewrwilson/toolsforactivism) - growing list of digital tools for activism things
 - [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins
 - [eugeneching/ida-consonance](https://github.com/eugeneching/ida-consonance) - Consonance, a dark color scheme for IDA.
+- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [riscvarchive/riscv-glibc](https://github.com/riscvarchive/riscv-glibc) - RISC-V port of GNU's libc
 - [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with support for legacy and LSTM OCR engine
 - [tesseract-ocr/langdata](https://github.com/tesseract-ocr/langdata) - Source training data for Tesseract for lots of languages
@@ -5472,7 +5479,7 @@
 - [FreeCAD/FreeCAD-render](https://github.com/FreeCAD/FreeCAD-render) - The Render workbench
 - [jar-o/rotvpn](https://github.com/jar-o/rotvpn) - Run a personal VPN in the cloud. And rotate it regularly.
 - [appleseedhq/blenderseed](https://github.com/appleseedhq/blenderseed) - appleseed plugin for Blender
-- [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style. Ready for macOS 11 Big Sur (and macOS 12 Monterey).
+- [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
 - [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -6429,6 +6436,7 @@
 - [tj/commander](https://github.com/tj/commander) - The complete solution for Ruby command-line executables
 - [fabiopelosin/act](https://github.com/fabiopelosin/act) - 
 - [ddollar/foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
+- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [automatthew/activemdb](https://github.com/automatthew/activemdb) - Sad little library for read access to Access (MDB) databases
 - [prawnpdf/prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby
 - [orta/cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing per-developer environment and application keys
@@ -7103,6 +7111,7 @@
 
 ## Swift 
 
+- [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [corin8823/Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift.
 - [vitormesquita/Malert](https://github.com/vitormesquita/Malert) - Custom alert View to iOS applications
 - [kazuhiro4949/PagingKit](https://github.com/kazuhiro4949/PagingKit) - PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries.
@@ -7358,7 +7367,7 @@
 - [dmytro-anokhin/remote-content-view](https://github.com/dmytro-anokhin/remote-content-view) - SwiftUI view that makes loading content easy
 - [mattt/swift-registry](https://github.com/mattt/swift-registry) - A reference implementation of the Swift Package Registry, written in Swift and using Git as a database / transparent log.
 - [yassram/SwiLex](https://github.com/yassram/SwiLex) - A universal lexer library in Swift.
-- [cocoacontrols/SemanticUI](https://github.com/cocoacontrols/SemanticUI) - Understand iOS 13 Semantic UI: Dark Mode, Colors, Dynamic Type, and SF Symbols.
+- [cocoacontrols/SemanticUI](https://github.com/cocoacontrols/SemanticUI) - Understand iOS Semantic UI: Dark Mode, Colors, Dynamic Type, and SF Symbols.
 - [wickwirew/Shift](https://github.com/wickwirew/Shift) - Shift is a simple, declarative animation library for building complex view controller and view transitions in UIKit.
 - [kyle-n/HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - A SwiftUI view for dynamically highlighting user input
 - [DuncanMC/BlurredStrokedPath](https://github.com/DuncanMC/BlurredStrokedPath) - An iOS project that uses Core Animation and a layer's `shadowPath` to animate blurred stroked paths.
@@ -7937,7 +7946,6 @@
 - [Ramotion/fluid-slider](https://github.com/Ramotion/fluid-slider) - :octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Swift UI library made by @Ramotion
 - [cocoa-ai/NamesCoreMLDemo](https://github.com/cocoa-ai/NamesCoreMLDemo) - 🏷 iOS11 demo application for predicting gender from first names.
 - [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
-- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [bustoutsolutions/siesta](https://github.com/bustoutsolutions/siesta) - The civilized way to write REST API clients for iOS / macOS
 - [Kitura/CircuitBreaker](https://github.com/Kitura/CircuitBreaker) - A Swift Circuit Breaker library – Improves application stability and reliability.
 - [angelolloqui/SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) - A tool to convert Swift code to Kotlin.
@@ -7985,7 +7993,7 @@
 - [davedelong/time](https://github.com/davedelong/time) - Building a better date/time library for Swift
 - [krzysztofzablocki/Difference](https://github.com/krzysztofzablocki/Difference) - Simple way to identify what is different between 2 instances of any type. Must have for TDD.
 - [KiranJasvanee/OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - A simple and flexible way to add source of overlapping circular pictures, currently supports horizontal overlapping or distant pictures with great layout flexibility.
-- [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.
+- [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
 - [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute!
 - [JohnSundell/ImagineEngine](https://github.com/JohnSundell/ImagineEngine) - A project to create a blazingly fast Swift game engine that is a joy to use 🚀
 - [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
@@ -8375,7 +8383,6 @@
 - [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 - [jcavar/refresher](https://github.com/jcavar/refresher) - DEPRECATED: Pull to refresh in Swift
 - [Quick/Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
-- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [troystribling/BlueCap](https://github.com/troystribling/BlueCap) - iOS Bluetooth LE framework
 - [aleclarson/emitter-kit](https://github.com/aleclarson/emitter-kit) - Type-safe event handling for Swift
 - [LlamaKit/LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools
@@ -8655,6 +8662,7 @@
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 - [kactus-io/kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 - [mflorence99/el-3270](https://github.com/mflorence99/el-3270) - Electron-based 3270 Emulator
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
