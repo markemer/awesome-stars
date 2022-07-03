@@ -104,7 +104,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
-- [SQF](#sqf)
 - [Sass](#sass)
 - [Scala](#scala)
 - [Scheme](#scheme)
@@ -230,6 +229,8 @@
 
 ## C 
 
+- [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
+- [0xMirasio/qemu-patch-raspberry4](https://github.com/0xMirasio/qemu-patch-raspberry4) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [e-radionicacom/Inkplate-GUI-Designer](https://github.com/e-radionicacom/Inkplate-GUI-Designer) - Web app to easily design user interface for Inkplate boards.
 - [atrblizzard/VAMPTools](https://github.com/atrblizzard/VAMPTools) - Vampire the Masquerade: Bloodlines model and texture converter
@@ -299,7 +300,7 @@
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [losnoco/Cog](https://github.com/losnoco/Cog) - Cog - A Free and Open Source Audio Player for macOS 10.13+
 - [asterisk/asterisk](https://github.com/asterisk/asterisk) - Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit:
-- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero Firmware
+- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [skvadrik/re2c](https://github.com/skvadrik/re2c) - Lexer generator for C, C++, Go and Rust.
 - [grassator/mass](https://github.com/grassator/mass) - A compiler for a new language focusing on compile-time execution and no LLVM dependency.
 - [mdbtools/mdbtools](https://github.com/mdbtools/mdbtools) - MDB Tools - Read Access databases on *nix
@@ -865,6 +866,7 @@
 - [rumpkernel/rumprun](https://github.com/rumpkernel/rumprun) - The Rumprun unikernel and toolchain for various platforms
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
+- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [DhavalKapil/icmptunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets.
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
@@ -899,6 +901,7 @@
 - [gonsie/SR](https://github.com/gonsie/SR) - Simplified ROSS (now with history!)
 - [nvidia-compiler-sdk/nvvmir-samples](https://github.com/nvidia-compiler-sdk/nvvmir-samples) - 
 - [kjn/lbzip2](https://github.com/kjn/lbzip2) - Parallel bzip2 utility
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [gcwnow/linux](https://github.com/gcwnow/linux) - Linux kernel for GCW Zero (Ingenic JZ4770)
 - [macmade/ClangKit](https://github.com/macmade/ClangKit) - ClangKit provides an Objective-C frontend to LibClang. Source tokenization, diagnostics and fix-its are actually implemented.
 - [seb-m/CryptoPill](https://github.com/seb-m/CryptoPill) - Core Secret's crypto code.
@@ -957,6 +960,9 @@
 
 ## C# # 
 
+- [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
+- [fholm/unityassets](https://github.com/fholm/unityassets) - Assorted unity assets and utilities
+- [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
 - [paulloz/godot-ink](https://github.com/paulloz/godot-ink) - Ink integration for Godot Engine.
 - [fantabulous-tech/unity-ink-graph](https://github.com/fantabulous-tech/unity-ink-graph) - Unity scripts for exporting a .tgf file for importing into the yEd Graph Editor from a root .ink file.
 - [tmxkn1/D-OS-Save-Editor](https://github.com/tmxkn1/D-OS-Save-Editor) - A save editor for Divinity Original Sin: Enhanced Edition
@@ -1064,6 +1070,7 @@
 
 ## C++ 
 
+- [SeriousCache/UABE](https://github.com/SeriousCache/UABE) - Asset Bundle Extractor
 - [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
 - [WerWolv/Decompiler](https://github.com/WerWolv/Decompiler) - A WIP disassember and decompiler written in modern C++ with the goal to do as much work during compile time as possible
 - [Fleynaro/SDA](https://github.com/Fleynaro/SDA) - SDA is a rich cross-platform tool for reverse engineering that focused firstly on analysis of computer games. I'm trying to create a mix of the Ghidra, Cheat Engine and x64dbg. My tool will combine st
@@ -1409,7 +1416,7 @@
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [blastrock/pkgj](https://github.com/blastrock/pkgj) - pkg download & installation directly on Vita
 - [mamedev/mame](https://github.com/mamedev/mame) - MAME
-- [ahupowerdns/hello-dns](https://github.com/ahupowerdns/hello-dns) - Hello and welcome to DNS!
+- [Habbie/hello-dns](https://github.com/Habbie/hello-dns) - Hello and welcome to DNS!
 - [VirusTotal/qt-virustotal-uploader](https://github.com/VirusTotal/qt-virustotal-uploader) - VirusTotal Uploader written in C++ using QT framework
 - [markummitchell/engauge-digitizer](https://github.com/markummitchell/engauge-digitizer) - Extracts data points from images of graphs
 - [drawpile/Drawpile](https://github.com/drawpile/Drawpile) - A collaborative drawing program
@@ -1754,7 +1761,6 @@
 - [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - config karabiner with ease
 - [Orcpub/orcpub](https://github.com/Orcpub/orcpub) - Code for Dungeon Master's Vault Community Edition
 - [keybase/colorbase](https://github.com/keybase/colorbase) - Example proof service in Clojure - colors for everyone!
-- [fricas/fricas](https://github.com/fricas/fricas) - Official repository of the FriCAS computer algebra system
 - [adamwynne/twitter-api](https://github.com/adamwynne/twitter-api) - Async io interface to all the twitter APIs
 - [Ramblurr/giro](https://github.com/Ramblurr/giro) - QR code powered, User-Agent based link redirection
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -1944,6 +1950,7 @@
 
 ## Go 
 
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [zix99/rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more!
 - [cirruslabs/packer-plugin-tart](https://github.com/cirruslabs/packer-plugin-tart) - Packer builder for Tart VMs
 - [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) - CLI for executing Cirrus tasks locally and in any CI
@@ -2457,6 +2464,7 @@
 
 ## HTML 
 
+- [twitter/twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [swill/kb_builder](https://github.com/swill/kb_builder) - A stand alone keyboard CAD generation tool based on FreeCAD.
 - [MPR-News/covid-data](https://github.com/MPR-News/covid-data) - Data and graphs about Minnesota's COVID-19 outbreak, along with code to generate it
@@ -2831,6 +2839,7 @@
 
 ## JavaScript 
 
+- [klimeryk/recalendar.js](https://github.com/klimeryk/recalendar.js) - ReCalendar - create your personalized calendar PDF for ReMarkable tablets
 - [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 - [OllisGit/OctoPrint-SpoolManager](https://github.com/OllisGit/OctoPrint-SpoolManager) - Plugin for managing Spools
 - [LesterLyu/fast-formula-parser](https://github.com/LesterLyu/fast-formula-parser) - Parse and evaluate MS Excel formula in javascript.
@@ -2846,7 +2855,7 @@
 - [ottomatica/slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
 - [todbot/Blink1Control2](https://github.com/todbot/Blink1Control2) - Blink1Control GUI to control blink(1) USB RGB LED devices.
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
-- [ThomasFKJorna/emacs-docs](https://github.com/ThomasFKJorna/emacs-docs) - The documentation website Emacs deserves
+- [tefkah/emacs-docs](https://github.com/tefkah/emacs-docs) - The documentation website Emacs deserves
 - [luvolondon/fvtt-module-jitsiwebrtc](https://github.com/luvolondon/fvtt-module-jitsiwebrtc) - Jitsi WebRTC client for FVTT
 - [GoogleChromeLabs/picture-in-picture-chrome-extension](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension) - 
 - [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
@@ -3396,7 +3405,6 @@
 - [jkingyens/docker4xcode](https://github.com/jkingyens/docker4xcode) - Build, ship and run iOS apps like docker containers
 - [rapidlua/luajit.me](https://github.com/rapidlua/luajit.me) - LuaJIT compiler explorer
 - [topojson/topojson-server](https://github.com/topojson/topojson-server) - Convert GeoJSON to TopoJSON.
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [KraigM/HomeBridgeController](https://github.com/KraigM/HomeBridgeController) - Provides a simplified UI for controlling your HomeBridge
 - [dylang/shortid](https://github.com/dylang/shortid) - Short id generator. Url-friendly. Non-predictable. Cluster-compatible.
 - [nytimes/kyt](https://github.com/nytimes/kyt) - Starting a new JS app? Build, test and run advanced apps with kyt 🔥
@@ -3689,7 +3697,7 @@
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [SymbiFlow/f4pga-arch-defs](https://github.com/SymbiFlow/f4pga-arch-defs) - FOSS architecture definitions of FPGA hardware useful for doing PnR device generation.
 - [sdiehl/numpile](https://github.com/sdiehl/numpile) - A tiny 1000 line LLVM-based numeric specializer for scientific Python code.
-- [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML.
 - [NeuroTechX/eeg-notebooks_v0.1](https://github.com/NeuroTechX/eeg-notebooks_v0.1) - Previous version of eeg-notebooks
 - [makinarocks/awesome-industrial-machine-datasets](https://github.com/makinarocks/awesome-industrial-machine-datasets) - 
 - [tensorflow/docs](https://github.com/tensorflow/docs) - TensorFlow documentation
@@ -3815,7 +3823,6 @@
 - [snabbco/snabb](https://github.com/snabbco/snabb) - Snabb: Simple and fast packet networking
 - [Igalia/pflua](https://github.com/Igalia/pflua) - Packet filtering in Lua
 - [cmusatyalab/openface](https://github.com/cmusatyalab/openface) - Face recognition with deep neural networks.
-- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 
 ## MATLAB 
 
@@ -4475,6 +4482,9 @@
 
 ## Others 
 
+- [kickstarter/kickstarter-autodesk-3d](https://github.com/kickstarter/kickstarter-autodesk-3d) - Kickstarter Autodesk 3D Printer Evaluation
+- [hyphop/oowow](https://github.com/hyphop/oowow) - oowow
+- [PiSugar/PiSugar](https://github.com/PiSugar/PiSugar) - PiSugar is a battery module for Raspberry Pi zero / zero W / zero WH
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
 - [omega9380/Retro-Schematics](https://github.com/omega9380/Retro-Schematics) - Recreating retro computer schematics in KiCAD
 - [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
@@ -4485,7 +4495,6 @@
 - [oxda/usb-cereal](https://github.com/oxda/usb-cereal) - USB-Cereal is a powerful, fully open source development tool that simplifies testing, development, debugging, and manufacturing of devices that utilize USB-C. Using USB-C’s extended capabilities this 
 - [viktak/TPM-H370](https://github.com/viktak/TPM-H370) - TPM 2.0 Module for Gigabyte H370 series motherboards
 - [Scene-Collective/ps4-payload-repo](https://github.com/Scene-Collective/ps4-payload-repo) - Auto generates payloads and packages when they're updated
-- [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools
 - [cbmeeks/TMS9918](https://github.com/cbmeeks/TMS9918) - Various documents for the TMS9918 VDP
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [justimyhxu/awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation) - A curated list of awesome 3d generation papers
@@ -4703,6 +4712,7 @@
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [Hexorg/CheatEngineTables](https://github.com/Hexorg/CheatEngineTables) - Repository of tables for CheatEngine
 - [dsasmblr/MSI](https://github.com/dsasmblr/MSI) - MSI-related tools, tutorials, patched installers, and more!
+- [fricas/fricas](https://github.com/fricas/fricas) - Official repository of the FriCAS computer algebra system
 - [denisnazarov/awesome-crypto-trackers](https://github.com/denisnazarov/awesome-crypto-trackers) - A curated list of crypto project trackers and analytics dashboards.
 - [chbrown/awesome-annotation](https://github.com/chbrown/awesome-annotation) - List of online / computer-based annotation tools
 - [jitenbansal/awesome-free-and-essential-products-for-startups](https://github.com/jitenbansal/awesome-free-and-essential-products-for-startups) - Curated list of free and essential products
@@ -5077,9 +5087,9 @@
 
 - [jmarmorato/Intranet-Home-Page](https://github.com/jmarmorato/Intranet-Home-Page) - Intranet Home Page is a highly-configurable self-hosted browser homepage with integrations for public and local data feeds.
 - [fantasycalendar/Fantasy-Calendar](https://github.com/fantasycalendar/Fantasy-Calendar) - This is for the fantasy-calendar website, specifically the 2.0 update. Feel free to contribute and help improve the site!
-- [wordplate/extended-acf](https://github.com/wordplate/extended-acf) - Register advanced custom fields with object oriented PHP
+- [vinkla/extended-acf](https://github.com/vinkla/extended-acf) - Register advanced custom fields with object oriented PHP
 - [outlandishideas/wpackagist](https://github.com/outlandishideas/wpackagist) - WordPress Packagist — manage your plugins with Composer
-- [wordplate/wordplate](https://github.com/wordplate/wordplate) - WordPlate is a wrapper around WordPress. It's like building any other WordPress website with themes and plugins. Just with sprinkles on top.
+- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate. It's like building any other WordPress website with themes and plugins. Just with sprinkles on top.
 - [twilio/twilio-php](https://github.com/twilio/twilio-php) - A PHP library for communicating with the Twilio REST API and generating TwiML.
 - [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
 - [RaymiiOrg/certificate-expiry-monitor](https://github.com/RaymiiOrg/certificate-expiry-monitor) - https://certificatemonitor.org
@@ -5107,7 +5117,7 @@
 - [pfsense/pfsense](https://github.com/pfsense/pfsense) - Main repository for pfSense
 - [connyduck/donotlink](https://github.com/connyduck/donotlink) - An anonymous URL-shortener that blocks bots and removes referers
 - [intuit/QuickBooks-V3-PHP-SDK](https://github.com/intuit/QuickBooks-V3-PHP-SDK) - Official PHP SDK for QuickBooks REST API v3.0: https://developer.intuit.com/
-- [thephpleague/flysystem-aws-s3-v3](https://github.com/thephpleague/flysystem-aws-s3-v3) - Flysystem Adapter for AWS SDK V3
+- [thephpleague/flysystem-aws-s3-v3](https://github.com/thephpleague/flysystem-aws-s3-v3) - [READYONLY SUB-SPLIT]Flysystem Adapter for AWS SDK V3
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 - [dhobsd/asciitosvg](https://github.com/dhobsd/asciitosvg) - DANGER, WILL ROBINSON: THIS REPOSITORY IS IN MAINTENANCE MODE! I will not be continuing feature development or fixing bugs in this codebase. I will continue to review and accept pull requests that do 
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
@@ -5157,7 +5167,6 @@
 
 ## Papyrus 
 
-- [Ryan-rsm-McKenzie/NQS_NamedQuicksaves](https://github.com/Ryan-rsm-McKenzie/NQS_NamedQuicksaves) - 
 - [kinggath/WorkshopFramework](https://github.com/kinggath/WorkshopFramework) - Redesign of the FO4 Workshop Scripts
 - [fireundubh/fallout4](https://github.com/fireundubh/fallout4) - Everything here is old and outdated by at least 5 years.
 
@@ -5249,12 +5258,15 @@
 
 ## Python 
 
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
+- [m-weigand/mw_pinenote_misc](https://github.com/m-weigand/mw_pinenote_misc) - Pinenote notes and patches
 - [apple/ml-fct](https://github.com/apple/ml-fct) - Research publication code for "Forward Compatible Training for Large-Scale Embedding Retrieval Systems", CVPR 2022.
 - [sparkfunX/Satellite_Transceiver_Breakout__Swarm_M138](https://github.com/sparkfunX/Satellite_Transceiver_Breakout__Swarm_M138) - Satellite Transceiver Breakout - Swarm M138
 - [dropbox/dropbox-sdk-python](https://github.com/dropbox/dropbox-sdk-python) - The Official Dropbox API V2 SDK for Python
 - [madzen/LazarusTools](https://github.com/madzen/LazarusTools) - Toolkit for the game Vampire The Masquerade: Bloodlines
 - [miracleflame/VTMB-Unofficial-Patch-by-Wesp](https://github.com/miracleflame/VTMB-Unofficial-Patch-by-Wesp) - Supporting Git project Unofficial Patch made by Wesp for the game Vampire the masquerade: Bloodlines
 - [RoboticsNut/IBM-6094-DIALS](https://github.com/RoboticsNut/IBM-6094-DIALS) - PYTHON IBM Dials interface
+- [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [sparkfun/Graphical_Datasheets](https://github.com/sparkfun/Graphical_Datasheets) - Code, final versions, and information on the Sparkfun Graphical Datasheets
 - [johnbeard/kiplot](https://github.com/johnbeard/kiplot) - KiCad plotting utility
@@ -5408,7 +5420,7 @@
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [VLSIDA/OpenRAM](https://github.com/VLSIDA/OpenRAM) - An open-source static random access memory (SRAM) compiler.
 - [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard) - A hand-wired USB & Bluetooth keyboard powered by Python and more
-- [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python
+- [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [google/skywater-pdk](https://github.com/google/skywater-pdk) - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
 - [jonathanhacker/flatpad](https://github.com/jonathanhacker/flatpad) - A simple webpage that provides a digital pad and indicates who is at home.
 - [atulapra/Emotion-detection](https://github.com/atulapra/Emotion-detection) - Real-time Facial Emotion Detection using deep learning
@@ -6520,6 +6532,7 @@
 
 ## Rust 
 
+- [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
@@ -6604,7 +6617,7 @@
 - [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
-- [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
+- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
 - [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware to m
@@ -6747,6 +6760,7 @@
 
 ## SCSS 
 
+- [mpdf/mpdf.github.io](https://github.com/mpdf/mpdf.github.io) - mPDF documentation
 - [Flameeyes/autotools-mythbuster](https://github.com/Flameeyes/autotools-mythbuster) - Autotools Mythbuster (The Guide)
 - [pidcodes/pidcodes.github.com](https://github.com/pidcodes/pidcodes.github.com) - Website for pid.codes
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
@@ -6766,10 +6780,6 @@
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [dnsimple/dnsimple-developer](https://github.com/dnsimple/dnsimple-developer) - The DNSimple API Documentation.
 - [oddbird/susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass
-
-## SQF 
-
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 
 ## Sass 
 
@@ -6820,6 +6830,8 @@
 
 ## Shell 
 
+- [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
+- [higherSentinel/multi-plate-KiCad6](https://github.com/higherSentinel/multi-plate-KiCad6) - A shell script to set up a range of kicad6 project folders within a git repository.
 - [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) - Reliably run any Linux distribution on any hardware with a cross-compiled host OS for containerized environments.
 - [blacktop/docker-ghidra](https://github.com/blacktop/docker-ghidra) - Ghidra Client/Server Docker Image
 - [macstadium/orka-integrations](https://github.com/macstadium/orka-integrations) - CI/CD Integrations for Orka by MacStadium
@@ -7119,6 +7131,13 @@
 
 ## Swift 
 
+- [nettlep/magic](https://github.com/nettlep/magic) - Scanner for decks of cards with bar codes printed on card edges
+- [kean/Get](https://github.com/kean/Get) - Web API client built using async/await
+- [twittemb/AsyncStateMachine](https://github.com/twittemb/AsyncStateMachine) - Async State Machine aims to provide a way to structure an application thanks to state machines. The goal is to identify the states and the side effects involved in each feature and to model them in a 
+- [ChimeHQ/ConcurrencyPlus](https://github.com/ChimeHQ/ConcurrencyPlus) - Utilities for working with Swift Concurrency
+- [insidegui/TextTransformer](https://github.com/insidegui/TextTransformer) - Apple ExtensionFoundation/ExtensionKit sample app
+- [shaps80/SwiftUIBackports](https://github.com/shaps80/SwiftUIBackports) - A collection of SwiftUI backports for iOS, macOS, tvOS and watchOS
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 - [n0shake/clocker](https://github.com/n0shake/clocker) - ⏲  macOS app to plan and organize through timezones.
 - [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
 - [jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An overview of the different types of charts you can make with Swift Charts
@@ -7793,7 +7812,7 @@
 - [macmade/Notarize](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts.
 - [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) - The Swift SDK to work with the App Store Connect API from Apple.
 - [kalanyuz/SwiftR](https://github.com/kalanyuz/SwiftR) - A Swift framework for Real-time time series data visualization
-- [muukii/Brightroom](https://github.com/muukii/Brightroom) - 📷 A composable image editor using Core Image and Metal.
+- [FluidGroup/Brightroom](https://github.com/FluidGroup/Brightroom) - 📷 A composable image editor using Core Image and Metal.
 - [vknabel/sourcekite](https://github.com/vknabel/sourcekite) - the backend of SDE's language server
 - [apploft/ExpandableLabel](https://github.com/apploft/ExpandableLabel) - A simple UILabel subclass that shows a tappable link if the content doesn't fit the specified number of lines
 - [kharrison/albookcode](https://github.com/kharrison/albookcode) - Modern Auto Layout Book Sample Code And Solutions
@@ -8580,7 +8599,7 @@
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [cgrevisse/swift-project-creation](https://github.com/cgrevisse/swift-project-creation) - VS Code Extension for Swift Project/Package creation.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform for your backend. Airtable-like UI for your database meets cloud functions workflows, all in your browser ⚡️✨ Code in JS/TS, use any NPM, API.
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform for Firebase and Firestore. Airtable-like UI with cloud functions workflows in JS/TS, all in your browser.
 - [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [matthewpi/vscode-caddyfile-support](https://github.com/matthewpi/vscode-caddyfile-support) - Rich Caddyfile support for Visual Studio Code
@@ -8729,6 +8748,7 @@
 - [danger/peril](https://github.com/danger/peril) - ☢️ Serious and immediate danger.
 - [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [firebase/firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
@@ -8755,6 +8775,8 @@
 
 ## VHDL 
 
+- [dnotq/core9900](https://github.com/dnotq/core9900) - TMS9900 CPU implemented in VHDL.
+- [dnotq/f18a](https://github.com/dnotq/f18a) - F18A source HDL
 - [dnotq/sdram](https://github.com/dnotq/sdram) - Simple fixed-cycle SDRAM Controller
 - [opencomputeproject/Time-Appliance-Project](https://github.com/opencomputeproject/Time-Appliance-Project) - Develop an end-to-end hypothetical reference model, network architectures, performance objectives and the methods to distribute, operate, monitor time synchronization within data center and much more.
 - [stnolting/neo430](https://github.com/stnolting/neo430) - :computer: A damn small msp430-compatible customizable soft-core microcontroller-like processor system written in platform-independent VHDL.
@@ -8780,6 +8802,7 @@
 
 ## Verilog 
 
+- [jotego/jt89](https://github.com/jotego/jt89) - sn76489an compatible Verilog core, with emphasis on FPGA implementation and Megadrive/Master System compatibility
 - [chipsalliance/yosys-f4pga-plugins](https://github.com/chipsalliance/yosys-f4pga-plugins) - Plugins for Yosys developed as part of the F4PGA project.
 - [htfab/rotfpga](https://github.com/htfab/rotfpga) - A reconfigurable logic circuit made of identical rotatable tiles.
 - [andrewattwood/fuserisc](https://github.com/andrewattwood/fuserisc) - Dual RISC-V DISC with integrated eFPGA
@@ -8797,7 +8820,7 @@
 - [AndresNavarro82/vt52-fpga](https://github.com/AndresNavarro82/vt52-fpga) - 
 - [analogdevicesinc/hdl](https://github.com/analogdevicesinc/hdl) - HDL libraries and projects
 - [1801BM1/vm80a](https://github.com/1801BM1/vm80a) - i8080 precise replica in Verilog, based on reverse engineering of real die
-- [The-OpenROAD-Project/OpenLane](https://github.com/The-OpenROAD-Project/OpenLane) - OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
+- [The-OpenROAD-Project/OpenLane](https://github.com/The-OpenROAD-Project/OpenLane) - OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.
 - [chipsalliance/aib-phy-hardware](https://github.com/chipsalliance/aib-phy-hardware) - Advanced Interface Bus (AIB) die-to-die hardware open source
 - [The-OpenROAD-Project/OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) - OpenROAD's unified application implementing an RTL-to-GDS Flow
 - [ZipCPU/sdr](https://github.com/ZipCPU/sdr) - A basic Soft(Gate)ware Defined Radio architecture
