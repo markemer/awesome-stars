@@ -503,7 +503,7 @@
 - [fabianishere/pam_reattach](https://github.com/fabianishere/pam_reattach) - Reattach to the user's GUI session on macOS during authentication (for Touch ID support in tmux)
 - [signalapp/libsignal-protocol-c](https://github.com/signalapp/libsignal-protocol-c) - 
 - [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
-- [parsec-cloud/parsec-sdk](https://github.com/parsec-cloud/parsec-sdk) - Low latency, peer-to-peer, interactive game streaming.
+- [parsec-cloud/parsec-sdk](https://github.com/parsec-cloud/parsec-sdk) - Low latency, peer-to-peer, interactive streaming.
 - [alephsecurity/xnu-qemu-arm64-tools](https://github.com/alephsecurity/xnu-qemu-arm64-tools) - 
 - [randy408/libspng](https://github.com/randy408/libspng) - Simple, modern libpng alternative
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
@@ -1586,7 +1586,7 @@
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-- [occipital/OpenNI2](https://github.com/occipital/OpenNI2) - OpenNI2
+- [structureio/OpenNI2](https://github.com/structureio/OpenNI2) - OpenNI2
 - [google/zopfli](https://github.com/google/zopfli) - Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.
 - [rahv/FallenLondon-ConversionCalculator](https://github.com/rahv/FallenLondon-ConversionCalculator) - 
 - [chjj/pty.js](https://github.com/chjj/pty.js) - Bindings to forkpty(3) for node.js.
@@ -1950,6 +1950,8 @@
 
 ## Go 
 
+- [gogitdb/gitdb](https://github.com/gogitdb/gitdb) - Distributed Embeddable Database
+- [Tufin/oasdiff](https://github.com/Tufin/oasdiff) - A diff tool for OpenAPI Specification 3
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [zix99/rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more!
 - [cirruslabs/packer-plugin-tart](https://github.com/cirruslabs/packer-plugin-tart) - Packer builder for Tart VMs
@@ -2470,7 +2472,7 @@
 - [MPR-News/covid-data](https://github.com/MPR-News/covid-data) - Data and graphs about Minnesota's COVID-19 outbreak, along with code to generate it
 - [laprej/laprej.github.io](https://github.com/laprej/laprej.github.io) - 
 - [mitre/hse-mwi](https://github.com/mitre/hse-mwi) - The Mental Wellness Index is a framework and dashboard tool that provides a picture of community-level mental wellness for each zip code in the nation
-- [ThomasVon2021/pikvm-board](https://github.com/ThomasVon2021/pikvm-board) - Cheap and high performance hardware based on CM4 for pikvm
+- [ThomasVon2021/pikvm-board](https://github.com/ThomasVon2021/pikvm-board) - Cheap and high performance hardware based on CM4 for pikvm or tinypilot
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [lettergram/vocalvoters.com](https://github.com/lettergram/vocalvoters.com) - Contact your Government Representative Send a Letter or Fax in &lt;30 Seconds
 - [lxndrblz/anatole](https://github.com/lxndrblz/anatole) - Anatole is a minimalistic two-column theme for Hugo.
@@ -2594,6 +2596,7 @@
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) - Make it a fun to create spec for developers and teammates
 - [alexa-samples/skill-sample-nodejs-adventure-game](https://github.com/alexa-samples/skill-sample-nodejs-adventure-game) - This tool provides an easy to use front-end that allows developers to instantly deploy code for your story, or use the generated code as a starting point for more complex projects.
 - [LucyBot-Inc/documentation-starter](https://github.com/LucyBot-Inc/documentation-starter) - Interactive REST API Documentation
+- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [Alanaktion/phproject](https://github.com/Alanaktion/phproject) - A high performance full-featured project management system
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [notwaldorf/literally](https://github.com/notwaldorf/literally) - 🎞🎀 Literally another slide making thingie.
@@ -4886,7 +4889,6 @@
 - [jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks) - List of open-source OS X frameworks.
 - [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps) - Open Source Mac Apps
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
-- [chriskempson/base16](https://github.com/chriskempson/base16) - An architecture for building themes
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [kmorel/UseLATEX](https://github.com/kmorel/UseLATEX) - This repository has moved.
 - [ROBOTIS-GIT/OpenCR-Hardware](https://github.com/ROBOTIS-GIT/OpenCR-Hardware) - BOM, Circuit and PCB Gerber of OpenCR
@@ -6775,7 +6777,6 @@
 - [lumenwrites/nulis](https://github.com/lumenwrites/nulis) - Mind-mapping software that helps writers collect and organize their knowledge, develop their ideas. Built with React, Redux, Node.js, hosted on Digital Ocean.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [rubygems/guides](https://github.com/rubygems/guides) - An effort to provide awesome documentation for the RubyGems ecosystem.
-- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [dnsimple/dnsimple-developer](https://github.com/dnsimple/dnsimple-developer) - The DNSimple API Documentation.
@@ -6801,7 +6802,7 @@
 - [sifive/fpga-shells](https://github.com/sifive/fpga-shells) - 
 - [ucb-bar/dsptools](https://github.com/ucb-bar/dsptools) - A Library of Chisel3 Tools for Digital Signal Processing
 - [lowRISC/rocket](https://github.com/lowRISC/rocket) - 
-- [kaitai-io/kaitai_struct_compiler](https://github.com/kaitai-io/kaitai_struct_compiler) - Kaitai Struct: compiler to translate .ksy =&gt; .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb
+- [kaitai-io/kaitai_struct_compiler](https://github.com/kaitai-io/kaitai_struct_compiler) - Kaitai Struct: compiler to translate .ksy =&gt; .cpp / .cs / .dot / .go / .java / .js / .lua / .nim / .php / .pm / .py / .rb
 - [sifive/sifive-blocks](https://github.com/sifive/sifive-blocks) - Common RTL blocks used in SiFive's projects
 - [sifive/freedom](https://github.com/sifive/freedom) - Source files for SiFive's Freedom platforms
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
@@ -7008,7 +7009,7 @@
 - [MichielDerhaeg/build-linux](https://github.com/MichielDerhaeg/build-linux) - A short tutorial about building Linux based operating systems.
 - [uber-archive/buck-http-cache](https://github.com/uber-archive/buck-http-cache) - An Implementation of Buck's HTTP Cache API as a distributed cache service. This project is deprecated and not maintained.
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
-- [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
+- [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby
 - [facebookarchive/caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 - [chaitanyagupta/gitutils](https://github.com/chaitanyagupta/gitutils) - Small git utitlies
 - [rtrouton/esxi_macos_vm_creation](https://github.com/rtrouton/esxi_macos_vm_creation) - 
@@ -8527,6 +8528,8 @@
 
 ## TypeScript 
 
+- [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
+- [githubocto/flat-viewer](https://github.com/githubocto/flat-viewer) - Data viewer for Flat repos
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
 - [snyk/dep-graph](https://github.com/snyk/dep-graph) - Represents a dependency graph
 - [puppeteer/replay](https://github.com/puppeteer/replay) - Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder
