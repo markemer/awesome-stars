@@ -229,6 +229,9 @@
 
 ## C 
 
+- [swissmicros/SDKdemo](https://github.com/swissmicros/SDKdemo) - SDK demo project - simple scientific RPN calculator
+- [swissmicros/DMCP_SDK](https://github.com/swissmicros/DMCP_SDK) - DMCP SDK Hello World
+- [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [0xMirasio/qemu-patch-raspberry4](https://github.com/0xMirasio/qemu-patch-raspberry4) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
@@ -1070,6 +1073,9 @@
 
 ## C++ 
 
+- [thomasokken/free42](https://github.com/thomasokken/free42) - Free42 : An HP-42S Calculator Simulator
+- [swissmicros/DM42PGM](https://github.com/swissmicros/DM42PGM) - 
+- [swissmicros/free42](https://github.com/swissmicros/free42) - 
 - [SeriousCache/UABE](https://github.com/SeriousCache/UABE) - Asset Bundle Extractor
 - [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
 - [WerWolv/Decompiler](https://github.com/WerWolv/Decompiler) - A WIP disassember and decompiler written in modern C++ with the goal to do as much work during compile time as possible
@@ -1703,7 +1709,6 @@
 - [riscv-admin/risc-v-getting-started-guide](https://github.com/riscv-admin/risc-v-getting-started-guide) - The official RISC-V getting started guide
 - [tiran/pki-vagans](https://github.com/tiran/pki-vagans) - Vagrant + Ansible for Dogtag PKI (WIP and highly experimental)
 - [Ryshackleton/idyll-template](https://github.com/Ryshackleton/idyll-template) - A React app that mimics the basic template project provided by Idyll-lang.org
-- [arnehilmann/markdeck](https://github.com/arnehilmann/markdeck) - presentations as code - author cool slide decks, text-only, offline-ready, collaborative
 - [creativetimofficial/paper-dashboard](https://github.com/creativetimofficial/paper-dashboard) - Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.
 - [petrk94/ownhealthrecord](https://github.com/petrk94/ownhealthrecord) - This repository is about the OwnHealthRecord Application Web App
 - [sharecuts/website](https://github.com/sharecuts/website) - A public repository of shortcuts for the Shortcuts app
@@ -1950,6 +1955,7 @@
 
 ## Go 
 
+- [VirusTotal/vt-cli](https://github.com/VirusTotal/vt-cli) - VirusTotal Command Line Interface
 - [gogitdb/gitdb](https://github.com/gogitdb/gitdb) - Distributed Embeddable Database
 - [Tufin/oasdiff](https://github.com/Tufin/oasdiff) - A diff tool for OpenAPI Specification 3
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
@@ -2303,7 +2309,7 @@
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
 - [hacdias/caddy-v1-service](https://github.com/hacdias/caddy-v1-service) - :black_large_square: Run Caddy as a service
-- [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [caddyserver/forwardproxy](https://github.com/caddyserver/forwardproxy) - Forward proxy plugin for the Caddy web server
 - [otiai10/gosseract](https://github.com/otiai10/gosseract) - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library
@@ -2528,6 +2534,7 @@
 - [microsoft/DirectX-Specs](https://github.com/microsoft/DirectX-Specs) - Engineering specs for DirectX features.
 - [amber-stubbs/mae-annotation](https://github.com/amber-stubbs/mae-annotation) - Automatically exported from code.google.com/p/mae-annotation
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
+- [arnehilmann/markdeck](https://github.com/arnehilmann/markdeck) - presentations as code - author cool slide decks, text-only, offline-ready, collaborative
 - [clauswilke/dataviz](https://github.com/clauswilke/dataviz) - A book covering the fundamentals of data visualization
 - [aaronvegh/nsregextester](https://github.com/aaronvegh/nsregextester) - A simple Mac OS X application for testing native regular expressions.
 - [tjukanovt/QGIS-tutorial](https://github.com/tjukanovt/QGIS-tutorial) - QGIS tutorial created for an absolute beginner workshop. Aiming to be a collection of useful materials for users on different levels with QGIS.
@@ -3366,7 +3373,7 @@
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
-- [probot/settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
+- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
 - [serverless/scope](https://github.com/serverless/scope) - 🔭 Scope - Create a birdeye's view of your Github project and embed on your site
 - [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
@@ -3584,7 +3591,7 @@
 - [ractivejs/ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation
 - [google/tracing-framework](https://github.com/google/tracing-framework) - Web Tracing Framework libraries and extensions.
 - [jshint/jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
-- [appium/appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
+- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [tejohnso/mongo-auth](https://github.com/tejohnso/mongo-auth) - log in/out routines for mongo web apps
@@ -3764,7 +3771,6 @@
 - [touchlab/xcode-kotlin](https://github.com/touchlab/xcode-kotlin) - Kotlin Native Xcode Plugin
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 - [Flank/flank](https://github.com/Flank/flank) - :speedboat: Massively parallel Android and iOS test runner for Firebase Test Lab
-- [seanhenry/MockGenerator](https://github.com/seanhenry/MockGenerator) - An AppCode plugin to help generate Swift test doubles automatically.
 - [CodingDoug/universal-translator](https://github.com/CodingDoug/universal-translator) - Demo app using Firebase and Google Cloud products to implement a "universal translator"
 - [micabytes/storybytes-android](https://github.com/micabytes/storybytes-android) - Android version of the StoryBytes story viewer for ink.
 - [micabytes/storybytes-desktop](https://github.com/micabytes/storybytes-desktop) - Desktop version of the StoryBytes story viewer for ink.
@@ -4485,6 +4491,7 @@
 
 ## Others 
 
+- [DataDog/effective-dashboards](https://github.com/DataDog/effective-dashboards) - A curated list of useful Datadog dashboards and Dashboard design best practices
 - [kickstarter/kickstarter-autodesk-3d](https://github.com/kickstarter/kickstarter-autodesk-3d) - Kickstarter Autodesk 3D Printer Evaluation
 - [hyphop/oowow](https://github.com/hyphop/oowow) - oowow
 - [PiSugar/PiSugar](https://github.com/PiSugar/PiSugar) - PiSugar is a battery module for Raspberry Pi zero / zero W / zero WH
@@ -6157,7 +6164,7 @@
 
 ## Ruby 
 
-- [julianfssen/tweetkit](https://github.com/julianfssen/tweetkit) - Twitter v2 API client for Ruby
+- [julianfssen/tweetkit](https://github.com/julianfssen/tweetkit) - ⚠️ WIP: Twitter v2 API client for Ruby
 - [kkaempf/ruida](https://github.com/kkaempf/ruida) - Decoder and tooling for the RDWorks .rd file format
 - [fastlane-community/trainer](https://github.com/fastlane-community/trainer) - Convert xcodebuild plist and xcresult files to JUnit reports
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life
@@ -7132,6 +7139,7 @@
 
 ## Swift 
 
+- [qeude/SwiftDown](https://github.com/qeude/SwiftDown) - 📦 A themable markdown editor component for your SwiftUI apps.
 - [nettlep/magic](https://github.com/nettlep/magic) - Scanner for decks of cards with bar codes printed on card edges
 - [kean/Get](https://github.com/kean/Get) - Web API client built using async/await
 - [twittemb/AsyncStateMachine](https://github.com/twittemb/AsyncStateMachine) - Async State Machine aims to provide a way to structure an application thanks to state machines. The goal is to identify the states and the side effects involved in each feature and to model them in a 
@@ -7170,7 +7178,7 @@
 - [tuist/tuist-plugin-lint](https://github.com/tuist/tuist-plugin-lint) - A plugin that extends Tuist with SwiftLint functionalities.
 - [tuist/tuist-up](https://github.com/tuist/tuist-up) - A CLI too powered by Swift to provision environments using an up.toml manifest file
 - [weitieda/bottom-sheet](https://github.com/weitieda/bottom-sheet) - ⬆️ A SwiftUI view component sliding in from bottom
-- [guoyingtao/Mantis](https://github.com/guoyingtao/Mantis) - A photo cropping tool which mimics Photo.app written by Swift.
+- [guoyingtao/Mantis](https://github.com/guoyingtao/Mantis) - An iOS Image cropping library, which mimics the Photo App written in Swift.
 - [ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [trilemma-dev/SecureXPC](https://github.com/trilemma-dev/SecureXPC) - A simple and secure XPC framework for Swift
@@ -7365,7 +7373,7 @@
 - [marmelroy/PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
 - [mohakapt/Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
 - [thecb4/blanket](https://github.com/thecb4/blanket) - 
-- [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers
+- [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
 - [xcodereleases/xcinfo](https://github.com/xcodereleases/xcinfo) - Install as many Xcodes at once as you can
 - [migueldeicaza/CovidExtractor](https://github.com/migueldeicaza/CovidExtractor) - My Covid Extractor
 - [PaulSolt/VideoScrubber](https://github.com/PaulSolt/VideoScrubber) - Video Scrubber
@@ -7626,6 +7634,7 @@
 - [IcaliaLabs/LoginKit](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
 - [ThasianX/SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - Allows users to pull in new song releases from their favorite artists and provides users with important metrics like their top tracks, top artists, and recently played tracks, queryable by time range.
 - [twostraws/CodeScanner](https://github.com/twostraws/CodeScanner) - A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.
+- [seanhenry/MockGenerator](https://github.com/seanhenry/MockGenerator) - An AppCode plugin to help generate Swift test doubles automatically.
 - [Kitura/Kitura-OpenAPI](https://github.com/Kitura/Kitura-OpenAPI) - OpenAPI support for Kitura
 - [yonaskolb/SwagGen](https://github.com/yonaskolb/SwagGen) - OpenAPI/Swagger 3.0 Parser and Swift code generator
 - [738/awesome-apple-watch](https://github.com/738/awesome-apple-watch) - ⌚A curated list of awesome watchOS frameworks, libraries, sample apps, including Objective-C and Swift Projects
@@ -8528,6 +8537,7 @@
 
 ## TypeScript 
 
+- [kshetline/sky-view-cafe-astronomy](https://github.com/kshetline/sky-view-cafe-astronomy) - Provides web-based star charts and astronomical information.
 - [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
 - [githubocto/flat-viewer](https://github.com/githubocto/flat-viewer) - Data viewer for Flat repos
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
