@@ -249,7 +249,6 @@
 - [markokr/libacm](https://github.com/markokr/libacm) - Decoder for InterPlay ACM Audio format
 - [alexbatalov/fallout2-re](https://github.com/alexbatalov/fallout2-re) - Reverse engineered Fallout 2
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
-- [GPUOpen-LibrariesAndSDKs/AMF](https://github.com/GPUOpen-LibrariesAndSDKs/AMF) - The Advanced Media Framework (AMF) SDK provides developers with optimal access to AMD devices for multimedia processing
 - [krzyzanowskim/tree-sitter-xcframework](https://github.com/krzyzanowskim/tree-sitter-xcframework) - binary build of tree-sitter for apple platforms
 - [apoluekt/OpenRPNCalc](https://github.com/apoluekt/OpenRPNCalc) - Open-source and open-hardware scientific RPN calculator
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
@@ -554,7 +553,6 @@
 - [RealTimeLogic/MinnowServer](https://github.com/RealTimeLogic/MinnowServer) - A super small and fast embedded HTTP(S) WebSocket server
 - [pulp-platform/pulp-sdk](https://github.com/pulp-platform/pulp-sdk) - 
 - [retroplasma/earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
-- [open-power/hostboot](https://github.com/open-power/hostboot) - System initialization firmware for Power systems
 - [OpenAMP/libmetal](https://github.com/OpenAMP/libmetal) - An abstraction layer across user-space Linux, baremetal, and RTOS environments
 - [rsms/fontkit](https://github.com/rsms/fontkit) - JS & WASM library for working with fonts
 - [CelesteBlue-dev/PSVita-RE-tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools) - A bundle of RE tools for analyzing and modding PSVita OS
@@ -935,7 +933,7 @@
 - [CyanogenMod/android_device_samsung_jfltevzw](https://github.com/CyanogenMod/android_device_samsung_jfltevzw) - 
 - [wmarbut/QuickTapPlus](https://github.com/wmarbut/QuickTapPlus) - Easily view weather, battery, and bluetooth on any pebble watchface.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live) - For more information, please see http://smartos.org/  For any questions that aren't answered there, please join the SmartOS discussion list: http://smartos.org/smartos-mailing-list/
+- [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live) - For more information, please see http://smartos.org/  For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
 - [adamoutler/EK-GC100_Galaxy_Camera](https://github.com/adamoutler/EK-GC100_Galaxy_Camera) - Repo for the EK-GC100 Galaxy Camera Kernel
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [jbremer/darm](https://github.com/jbremer/darm) - A light-weight and efficient disassembler written in C for the ARMv7 instruction set.
@@ -1090,6 +1088,7 @@
 - [Fleynaro/SDA](https://github.com/Fleynaro/SDA) - SDA is a rich cross-platform tool for reverse engineering that focused firstly on analysis of computer games. I'm trying to create a mix of the Ghidra, Cheat Engine and x64dbg. My tool will combine st
 - [nadult/FreeFT](https://github.com/nadult/FreeFT) - Isometric action game engine
 - [fifengine/fifechan](https://github.com/fifengine/fifechan) - Fifechan is a C++ GUI library designed for games. It comes with a standard set of 'widgets' and can use several different objects for displaying graphics and capturing user input.
+- [GPUOpen-LibrariesAndSDKs/AMF](https://github.com/GPUOpen-LibrariesAndSDKs/AMF) - The Advanced Media Framework (AMF) SDK provides developers with optimal access to AMD devices for multimedia processing
 - [horsicq/XMachOViewer](https://github.com/horsicq/XMachOViewer) - XMachOViewer is a Mach-O viewer for Windows, Linux and MacOS
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [Intel-Media-SDK/MediaSDK](https://github.com/Intel-Media-SDK/MediaSDK) - The Intel® Media SDK
@@ -1337,6 +1336,7 @@
 - [visualfc/liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [facebookincubator/spectrum](https://github.com/facebookincubator/spectrum) - A client-side image transcoding library.
 - [FoundationDB/fdb-document-layer](https://github.com/FoundationDB/fdb-document-layer) - A document data model on FoundationDB, implementing MongoDB® wire protocol
+- [open-power/hostboot](https://github.com/open-power/hostboot) - System initialization firmware for Power systems
 - [google/draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
 - [TwoLivesLeft/Codea-Runtime](https://github.com/TwoLivesLeft/Codea-Runtime) - Codea Runtime Library for iPad by Two Lives Left
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -2720,6 +2720,7 @@
 
 ## Java 
 
+- [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.
 - [bladecoder/bladecoder-adventure-engine](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor
 - [JetBrains/JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) - Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
 - [astrelsky/GhidraOrbis](https://github.com/astrelsky/GhidraOrbis) - Ghidra support for Orbis OS specific software and file formats
@@ -2978,7 +2979,6 @@
 - [naturalcrit/homebrewery](https://github.com/naturalcrit/homebrewery) - Create authentic looking D&D homebrews using only markdown
 - [IvanMathy/Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. In slow yet steady progress.
 - [vasturiano/cartogram-chart](https://github.com/vasturiano/cartogram-chart) - A cartogram chart web component for visualizing geographical data by distorting a TopoJson topology
-- [ThaumRystra/DiceCloud](https://github.com/ThaumRystra/DiceCloud) - D&D 5e digital character manager
 - [RecallGraph/RecallGraph](https://github.com/RecallGraph/RecallGraph) - A versioning data store for time-variant graph data.
 - [apple/password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
@@ -3303,7 +3303,7 @@
 - [SparkPost/heml](https://github.com/SparkPost/heml) - HEML is an open source markup language for building responsive email.
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 - [CSAILVision/LabelMeAnnotationTool](https://github.com/CSAILVision/LabelMeAnnotationTool) - Source code for the LabelMe annotation tool.
-- [blinksh/themes](https://github.com/blinksh/themes) - 
+- [blinksh/themes](https://github.com/blinksh/themes) - blink themes collection
 - [mineral-ui/mineral-ui](https://github.com/mineral-ui/mineral-ui) - A design system and React component library for the web brought to you by CA Technologies.
 - [mdaines/viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
 - [GoogleChromeLabs/howto-components](https://github.com/GoogleChromeLabs/howto-components) - Literate code examples for common UI patterns.
@@ -4510,6 +4510,7 @@
 
 ## Others 
 
+- [daprice/keyswitches.pretty](https://github.com/daprice/keyswitches.pretty) - KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets
 - [npiegdon/tms-rgb](https://github.com/npiegdon/tms-rgb) - An RGB adapter for TMS9928A and TMS9929A
 - [DataDog/effective-dashboards](https://github.com/DataDog/effective-dashboards) - A curated list of useful Datadog dashboards and Dashboard design best practices
 - [kickstarter/kickstarter-autodesk-3d](https://github.com/kickstarter/kickstarter-autodesk-3d) - Kickstarter Autodesk 3D Printer Evaluation
@@ -5788,7 +5789,7 @@
 - [rakhimov/cppdep](https://github.com/rakhimov/cppdep) - C/C++ Dependency Analyzer: a rewrite of John Lakos' dep_utils (adep/cdep/ldep) from "Large-Scale C++ Software Design"
 - [nst/objc_dep](https://github.com/nst/objc_dep) - Graph the import dependancies in an Objective-C project
 - [cmdmnt/commandment](https://github.com/cmdmnt/commandment) - Open Source Apple MDM implemented in Python
-- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral is an open-source solution for infrastructure monitoring and endpoint event stream processing. It provides build-in orchestration of macOS security components (Santa, Osquery, et-al.), event c
+- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral provides a unified view for endpoint monitoring. Comprehensive features include Santa binary authorization and patch management orchestration on macOS, as well as detailed Qsquery fleet manage
 - [project-imas/mdm-server](https://github.com/project-imas/mdm-server) - Sample iOS MDM server
 - [pearl-core/pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessibl
 - [iawia002/Lulu](https://github.com/iawia002/Lulu) - [Unmaintained] A simple and clean video/music/image downloader 👾
@@ -6609,7 +6610,7 @@
 - [io12/unf](https://github.com/io12/unf) - UNixize Filename -- replace annoying anti-unix characters in filenames
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [rustdesk/rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo) - A working demo of RustDesk server implementation
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [lukaslueg/macro_railroad](https://github.com/lukaslueg/macro_railroad) - A library to generate syntax diagrams for Rust macros.
 - [KarlitosVII/trilogy-save-editor](https://github.com/KarlitosVII/trilogy-save-editor) - A save editor for Mass Effect Trilogy (and Legendary)
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
@@ -7133,7 +7134,7 @@
 
 ## SourcePawn 
 
-- [efabless/sky130_sram_macros](https://github.com/efabless/sky130_sram_macros) - 
+- [efabless/sky130_sram_macros_old](https://github.com/efabless/sky130_sram_macros_old) - 
 
 ## Standard ML 
 
@@ -8925,6 +8926,7 @@
 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
+- [ThaumRystra/DiceCloud](https://github.com/ThaumRystra/DiceCloud) - D&D 5e digital character manager
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
