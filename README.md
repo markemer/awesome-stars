@@ -68,7 +68,6 @@
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
-- [Mako](#mako)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
 - [NSIS](#nsis)
@@ -230,6 +229,8 @@
 
 ## C 
 
+- [QB64-Phoenix-Edition/QB64pe](https://github.com/QB64-Phoenix-Edition/QB64pe) - The QB64 Phoenix Edition Repository
+- [adafruit/TFTLCD-Library](https://github.com/adafruit/TFTLCD-Library) - Arduino library for 8-bit TFT LCDs such as ILI9325, ILI9328, etc
 - [kevinlawler/kerf1](https://github.com/kevinlawler/kerf1) - Kerf
 - [tio/tio](https://github.com/tio/tio) - A simple serial device I/O tool
 - [marqs85/ossc_pro](https://github.com/marqs85/ossc_pro) - 
@@ -438,7 +439,7 @@
 - [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [furiousMAC/continuity](https://github.com/furiousMAC/continuity) - Apple Continuity Protocol Reverse Engineering and Dissector
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
-- [klaussilveira/qengine](https://github.com/klaussilveira/qengine) - Retro game engine for developers that enjoy creating games like it's 1997.
+- [klaussilveira/qengine](https://github.com/klaussilveira/qengine) - Retro game engine for creating games like it's 1997
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [shiyanhui/libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
 - [dcf21/star-charter](https://github.com/dcf21/star-charter) - A command-line tool for producing vector-graphics charts of the night sky in SVG, PDF and PNG formats.
@@ -1075,6 +1076,8 @@
 
 ## C++ 
 
+- [msrst/interactive-8051-disassembler](https://github.com/msrst/interactive-8051-disassembler) - Interactive 8051 Dissassembler with GUI
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Sunshine is a Gamestream host for Moonlight.
 - [kevinlawler/kerf](https://github.com/kevinlawler/kerf) - 
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [NVIDIA/video-sdk-samples](https://github.com/NVIDIA/video-sdk-samples) - Samples demonstrating how to use various APIs of NVIDIA Video Codec SDK
@@ -1965,6 +1968,7 @@
 
 ## Go 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [aws/ec2-macos-init](https://github.com/aws/ec2-macos-init) - EC2 macOS Init is the launch daemon used to initialize Mac instances within EC2.
 - [elliot40404/starman](https://github.com/elliot40404/starman) - A simple yet intuitive cli app for managing startup applications on windows.
 - [VirusTotal/vt-cli](https://github.com/VirusTotal/vt-cli) - VirusTotal Command Line Interface
@@ -3893,10 +3897,6 @@
 - [SynoCommunity/spksrc](https://github.com/SynoCommunity/spksrc) - Cross compilation framework to create native packages for the Synology's NAS
 - [gcwnow/buildroot](https://github.com/gcwnow/buildroot) - Buildroot customized for the GCW0
 
-## Mako 
-
-- [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
-
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -4800,6 +4800,7 @@
 - [therebelrobot/awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) - ✨  Awesome - A curated list of amazing Bootstrap tools and themes.
 - [okzach/fallout_savegame_010_editor_binary_template](https://github.com/okzach/fallout_savegame_010_editor_binary_template) - A Binary Template describing Fallout 4 save game files for use with 010 Editor.
 - [sp4ke/awesome-explorables](https://github.com/sp4ke/awesome-explorables) - A curated list of awesome explorable explanations.
+- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [nwinkler/atom-keyboard-shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts) - A list of keyboard shortcuts for the Atom text editor
 - [struct/mms](https://github.com/struct/mms) - Modern Memory Safety in C/C++
 - [AlphamaxMedia/netv2-case](https://github.com/AlphamaxMedia/netv2-case) - Case design for NeTV2
@@ -5287,6 +5288,7 @@
 
 ## Python 
 
+- [hashlookup/hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser) - Analyse a forensic target (such as a directory) to find and report files found and not found from CIRCL hashlookup public service - https://circl.lu/services/hashlookup/
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) - 
 - [chipsalliance/fasm](https://github.com/chipsalliance/fasm) - FPGA Assembly (FASM) Parser and Generator
@@ -5322,7 +5324,7 @@
 - [rockchip-linux/rknn-toolkit2](https://github.com/rockchip-linux/rknn-toolkit2) - 
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automati
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [textext/textext](https://github.com/textext/textext) - Re-editable LaTeX graphics for Inkscape
 - [fsmMLK/inkscapeCircuitSymbols](https://github.com/fsmMLK/inkscapeCircuitSymbols) - Inkscape extension to assist creating circuit symbols.
 - [metabrainz/genre-matching](https://github.com/metabrainz/genre-matching) - Experiments to match external genre datasets to musicbrainz genres
@@ -5676,7 +5678,6 @@
 - [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [AllYarnsAreBeautiful/ayab-desktop](https://github.com/AllYarnsAreBeautiful/ayab-desktop) - The AYAB Software
 - [Dyalog/dyalog-jupyter-kernel](https://github.com/Dyalog/dyalog-jupyter-kernel) - A Jupyter kernel for Dyalog APL
-- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [IDArlingTeam/IDArling](https://github.com/IDArlingTeam/IDArling) - Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [caobokai/DeepMood](https://github.com/caobokai/DeepMood) - 
@@ -5953,6 +5954,7 @@
 - [timsutton/python-macadmin-tools](https://github.com/timsutton/python-macadmin-tools) - List of open-source Python-based Mac sysadmin tools
 - [anantdgoel/ProjectFib](https://github.com/anantdgoel/ProjectFib) - Chrome extension to flag fake news on Facebook. Built at HackPrinceton '16
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+- [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
@@ -6563,6 +6565,7 @@
 
 ## Rust 
 
+- [8051Enthusiast/at51](https://github.com/8051Enthusiast/at51) - Applications for reverse engineering architecture 8051 firmware
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -6860,6 +6863,7 @@
 
 ## Shell 
 
+- [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [skiselev/omega](https://github.com/skiselev/omega) - Omega Home Computer
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
@@ -7164,6 +7168,7 @@
 
 ## Swift 
 
+- [baguio/SwiftSafeURL](https://github.com/baguio/SwiftSafeURL) - Compile-time-checked URLs
 - [mapbox/mapbox-directions-swift](https://github.com/mapbox/mapbox-directions-swift) - Traffic-aware directions and map matching in Swift on iOS, macOS, tvOS, watchOS, and Linux
 - [mapbox/MapboxStatic.swift](https://github.com/mapbox/MapboxStatic.swift) - Static map snapshots with overlays in Swift or Objective-C on iOS, macOS, tvOS, and watchOS
 - [mapbox/mapbox-navigation-native-ios](https://github.com/mapbox/mapbox-navigation-native-ios) - 
