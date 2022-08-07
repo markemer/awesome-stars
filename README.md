@@ -1967,6 +1967,7 @@
 
 ## Go 
 
+- [serhack/pdf-diff](https://github.com/serhack/pdf-diff) - A tool for visualizing differences between two pdf files.
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [aws/ec2-macos-init](https://github.com/aws/ec2-macos-init) - EC2 macOS Init is the launch daemon used to initialize Mac instances within EC2.
@@ -3690,6 +3691,7 @@
 
 ## Julia 
 
+- [GenieFramework/StippleUI.jl](https://github.com/GenieFramework/StippleUI.jl) - StippleUI is a library of reactive UI elements for Stipple.jl.
 - [JuliaPluto/PlutoUI.jl](https://github.com/JuliaPluto/PlutoUI.jl) - 
 - [microsoft/OpticSim.jl](https://github.com/microsoft/OpticSim.jl) - Optical Simulation software
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
@@ -8863,6 +8865,7 @@
 
 ## Verilog 
 
+- [sxpert/hp-saturn](https://github.com/sxpert/hp-saturn) - 
 - [rj45/rj32](https://github.com/rj45/rj32) - A 16-bit RISC CPU with 32 instructions built with Digital for running on an FPGA.
 - [efabless/caravel-lite](https://github.com/efabless/caravel-lite) - 
 - [efabless/caravel](https://github.com/efabless/caravel) - Caravel is a standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space.
