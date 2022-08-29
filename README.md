@@ -75,6 +75,7 @@
 - [NSIS](#nsis)
 - [Nim](#nim)
 - [Nix](#nix)
+- [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -977,6 +978,12 @@
 
 ## C# # 
 
+- [ME3Tweaks/CrossGenV](https://github.com/ME3Tweaks/CrossGenV) - Builds the Pinnacle Station DLC for Mass Effect Legendary Edition
+- [Pathoschild/FluentNexus](https://github.com/Pathoschild/FluentNexus) - A modern async HTTP client for the Nexus Mods API.
+- [ME3Tweaks/FluentNexus](https://github.com/ME3Tweaks/FluentNexus) - A modern async HTTP client for the Nexus Mods API.
+- [ME3Tweaks/ProjectWardle](https://github.com/ME3Tweaks/ProjectWardle) - Cross-game porting system for Mass Effect Trilogy games
+- [ME3Tweaks/WwiseTools](https://github.com/ME3Tweaks/WwiseTools) - (Fork) Library for working with Wwise Authoring API
+- [ME3Tweaks/WwiseParser](https://github.com/ME3Tweaks/WwiseParser) - Parser for Wwise 2019.1 objects (FORK)
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [fholm/unityassets](https://github.com/fholm/unityassets) - Assorted unity assets and utilities
 - [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
@@ -1087,6 +1094,7 @@
 
 ## C++ 
 
+- [ME3Tweaks/LEASIMods](https://github.com/ME3Tweaks/LEASIMods) - Repo for sharing ASI code between LE1/LE2/LE3 ASI plugins
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 - [msrst/interactive-8051-disassembler](https://github.com/msrst/interactive-8051-disassembler) - Interactive 8051 Dissassembler with GUI
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Sunshine is a Gamestream host for Moonlight.
@@ -2509,6 +2517,7 @@
 
 ## HTML 
 
+- [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone
 - [myogpatterns/myogpatterns.github.io](https://github.com/myogpatterns/myogpatterns.github.io) - Make Your Own Gear (MYOG) patterns and calculators for the outdoor and ultralight enthusiast
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
@@ -3956,6 +3965,10 @@
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [blitz/ulx3s-tools](https://github.com/blitz/ulx3s-tools) - Nix packages for ULX3s FPGA development
 
+## Nunjucks 
+
+- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
+
 ## OCaml 
 
 - [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Audio and video streaming language
@@ -4632,7 +4645,7 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [alexkaessner/macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) - :gem: The most detailed and accurate macOS UI Kit for Sketch. This Sketch Library includes common Mac interface elements, cursors, and a Touch Bar UI Kit.
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-13.0.0 [May 2022]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-13.0.0 [August 2022]
 - [arturo182/kicad-modules](https://github.com/arturo182/kicad-modules) - A repository with all my custom footprints and 3d models for KiCad
 - [arturo182/BBQ10KBD](https://github.com/arturo182/BBQ10KBD) - 
 - [yewalenikhil65/Resources-for-engineering-students-who-like-mathematics](https://github.com/yewalenikhil65/Resources-for-engineering-students-who-like-mathematics) - This is a collection of resources that I feel will prove useful to anyone studying in the area of engineering but also like mathematics. I urge anyone who comes across this, to contribute to the list 
@@ -4735,7 +4748,6 @@
 - [postput/postput](https://github.com/postput/postput) - Cloud native storage operator - Upload, download and perform operations on your files
 - [cyanzhong/sf-symbols-online](https://github.com/cyanzhong/sf-symbols-online) - Online SF Symbols browser
 - [dundalek/awesome-lisp-languages](https://github.com/dundalek/awesome-lisp-languages) - A list of Lisp-flavored programming languages
-- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [jhallen/vivado_setup](https://github.com/jhallen/vivado_setup) - How to set up Xilinx Vivado for source control
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [aws-samples/aws-modern-application-workshop](https://github.com/aws-samples/aws-modern-application-workshop) - A tutorial for developers that want to learn about how to build modern applications on top of AWS. You will build a sample website that leverages infrastructure as code, containers, serverless code fu
@@ -5725,7 +5737,6 @@
 - [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
 - [m-labs/artiq](https://github.com/m-labs/artiq) - A leading-edge control system for quantum information experiments
 - [parpg/parpg](https://github.com/parpg/parpg) - Post Apocalyptic RPG
-- [fife-rpg/fife-rpg](https://github.com/fife-rpg/fife-rpg) - 
 - [Beliaar/bGrease](https://github.com/Beliaar/bGrease) - The highly extensible game engine framework for Python, modified to make it easily usable with other libraries than pyglet.
 - [caseman/grease](https://github.com/caseman/grease) - The highly extensible game engine framework for Python
 - [stanford-oval/genie-parser](https://github.com/stanford-oval/genie-parser) - Neural Network Semantic Parser for Almond
@@ -7208,6 +7219,7 @@
 
 ## Swift 
 
+- [soberman/ARSLineProgress](https://github.com/soberman/ARSLineProgress) - iOS progress bar, replacement for the default activity indicator.
 - [soulverteam/SoulverTextKit](https://github.com/soulverteam/SoulverTextKit) - Turn your standard NSTextView or UITextView into a Soulver-like notepad calculator.
 - [soulverteam/SoulverStringParsing](https://github.com/soulverteam/SoulverStringParsing) - Learn about how SoulverCore can give Swift "better than regex" data parsing features (for many common tasks)
 - [rensbreur/SwiftTUI](https://github.com/rensbreur/SwiftTUI) - SwiftUI for terminal applications
