@@ -2813,7 +2813,7 @@
 - [astrelsky/GhidraOrbis](https://github.com/astrelsky/GhidraOrbis) - Ghidra support for Orbis OS specific software and file formats
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
-- [processing/processing4](https://github.com/processing/processing4) - Processing 4.x releases (currently in “beta”) that use Java 17
+- [processing/processing4](https://github.com/processing/processing4) - Processing 4.x releases for Java 17
 - [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins) - Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
 - [RobertLarsen/GhidraFirmwareToolkit](https://github.com/RobertLarsen/GhidraFirmwareToolkit) - 
 - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring Integration for GraphQL
@@ -4276,7 +4276,7 @@
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [appsquickly/typhoon](https://github.com/appsquickly/typhoon) - Powerful dependency injection for Objective-C ✨✨ (https://PILGRIM.PH is the pure Swift successor to Typhoon!!)✨✨
 - [parse-community/ParseUI-iOS](https://github.com/parse-community/ParseUI-iOS) - A collection of a handy user interface components to be used with the Parse iOS SDK.
-- [parse-community/Parse-SDK-iOS-OSX](https://github.com/parse-community/Parse-SDK-iOS-OSX) - The Objective-C SDK Parse Platform (iOS, macOS, watchOS, tvOS)
+- [parse-community/Parse-SDK-iOS-OSX](https://github.com/parse-community/Parse-SDK-iOS-OSX) - The Apple SDK for Parse Platform (iOS, macOS, watchOS, tvOS)
 - [AlexDenisov/xcconf](https://github.com/AlexDenisov/xcconf) - YAML-based configuration for ObjC projects
 - [meiwin/NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
 - [adamontherun/xCodeGenerateDescriptionPlugin](https://github.com/adamontherun/xCodeGenerateDescriptionPlugin) - Plugin to automatically generate the description for your class in XCode
@@ -4704,7 +4704,6 @@
 - [bluescan/proggyfonts](https://github.com/bluescan/proggyfonts) - Monospaced fonts for programming.
 - [joenash/awesome-infinidash](https://github.com/joenash/awesome-infinidash) - An awesome list for the awe-inspiring power of Infinidash, an imaginary product.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [microsoft/GDK](https://github.com/microsoft/GDK) - Microsoft Public GDK
 - [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [b1ackmai1er/SBC-V2-005](https://github.com/b1ackmai1er/SBC-V2-005) - Retrobrew Computers SBC-V2 development.
@@ -5083,8 +5082,8 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [abinoda/awesome-baas](https://github.com/abinoda/awesome-baas) - Awesome list of Backend as a Service ("BaaS") services
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
-- [raywenderlich/english-style-guide](https://github.com/raywenderlich/english-style-guide) - Style guide for writing in English for tutorials and articles at raywenderlich.com.
-- [raywenderlich/kotlin-style-guide](https://github.com/raywenderlich/kotlin-style-guide) - The raywenderlich.com Kotlin style guide
+- [kodecocodes/english-style-guide](https://github.com/kodecocodes/english-style-guide) - Style guide for writing in English for tutorials and articles at raywenderlich.com.
+- [kodecocodes/kotlin-style-guide](https://github.com/kodecocodes/kotlin-style-guide) - The raywenderlich.com Kotlin style guide
 - [riscvarchive/riscv-clang](https://github.com/riscvarchive/riscv-clang) - 
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [Vitorian/awesome-mpsoc](https://github.com/Vitorian/awesome-mpsoc) - Public resources available for Xilinx  MPSOC+ and SDSOC hardware
@@ -5213,7 +5212,7 @@
 - [CocoaPods/Specs](https://github.com/CocoaPods/Specs) - The CocoaPods Master Repo
 - [buymeasoda/soda-theme](https://github.com/buymeasoda/soda-theme) - Dark and light custom UI themes for Sublime Text
 - [github/objective-c-style-guide](https://github.com/github/objective-c-style-guide) - **Archived** Style guide & coding conventions for Objective-C projects
-- [raywenderlich/objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com
+- [kodecocodes/objective-c-style-guide](https://github.com/kodecocodes/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com
 - [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services
 - [pebble/arm-eabi-toolchain](https://github.com/pebble/arm-eabi-toolchain) - Makefile & supporting patches/scripts to build a bare metal ARM EABI toolchain.
 - [hunterowens/Congressional_Districts](https://github.com/hunterowens/Congressional_Districts) - A geojson representation of the 113th Congress
@@ -5396,6 +5395,7 @@
 - [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 and Windows 11 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 & 11 security and privacy script!
 - [henbagle/LE1CommunityPatch](https://github.com/henbagle/LE1CommunityPatch) - Issue tracker for the Community Patch mod for Mass Effect 1: Legendary Edition
+- [microsoft/GDK](https://github.com/microsoft/GDK) - Microsoft Public GDK
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [majkinetor/posh](https://github.com/majkinetor/posh) - Powershell modules and functions by majkinetor
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
@@ -5927,7 +5927,7 @@
 - [google/capirca](https://github.com/google/capirca) - Multi-platform ACL generation system
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
+- [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [spladug/harold](https://github.com/spladug/harold) - harold is a shame mechanism
 - [zyantific/IDASkins](https://github.com/zyantific/IDASkins) - Advanced skinning plugin for IDA Pro
@@ -6019,7 +6019,7 @@
 - [aliyun/aliyun-odps-python-sdk](https://github.com/aliyun/aliyun-odps-python-sdk) - ODPS Python SDK and data analysis framework
 - [halilozercan/pget](https://github.com/halilozercan/pget) - Fast download in chunks
 - [eliben/pykaleidoscope](https://github.com/eliben/pykaleidoscope) - Implementation of the LLVM tutorial in Python
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [sony/nnabla](https://github.com/sony/nnabla) - Neural Network Libraries
@@ -6337,6 +6337,10 @@
 
 ## Ruby 
 
+- [DataDog/dogstatsd-ruby](https://github.com/DataDog/dogstatsd-ruby) - A Ruby client for DogStatsd
+- [DataDog/dogapi-rb](https://github.com/DataDog/dogapi-rb) - Ruby client for Datadog's API
+- [github-developer/github-app-template](https://github.com/github-developer/github-app-template) - 
+- [bkeepers/dotenv](https://github.com/bkeepers/dotenv) - A Ruby gem to load environment variables from `.env`.
 - [DataDog/datadog-api-client-ruby](https://github.com/DataDog/datadog-api-client-ruby) - 
 - [nicholasdower/sqlui](https://github.com/nicholasdower/sqlui) - 
 - [julianfssen/tweetkit](https://github.com/julianfssen/tweetkit) - ⚠️ WIP: Twitter v2 API client for Ruby
@@ -8413,7 +8417,7 @@
 - [Kitura/BlueSSLService](https://github.com/Kitura/BlueSSLService) - SSL/TLS Add-in for BlueSocket using Secure Transport and OpenSSL
 - [BenziAhamed/Tracery](https://github.com/BenziAhamed/Tracery) - Powerful extensible content generation library inspired by Tracery.io
 - [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift
-- [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
+- [kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [timd/ProIosTableCollectionViewsSwift3](https://github.com/timd/ProIosTableCollectionViewsSwift3) - Code for "Pro iOS Table & Collection Views" 2ed, updated for Swift 3
 - [louisdh/panelkit](https://github.com/louisdh/panelkit) - A UI framework that enables panels on iOS.
