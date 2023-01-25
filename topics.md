@@ -320,6 +320,7 @@
 
 ## android 
 
+- [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard) - A Gradle plugin that guards against unintentional dependency changes.
 - [fabioCollini/DaggerMock](https://github.com/fabioCollini/DaggerMock) - A JUnit rule to easily override Dagger 2 objects
 - [deliveryhero/whetstone](https://github.com/deliveryhero/whetstone) - Whetstone is a dependency injection framework for Android that greatly simplifies working with Dagger 2 using all the powers of Anvil
 - [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
@@ -807,7 +808,7 @@
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
-- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
@@ -1388,7 +1389,7 @@
 ## code-quality 
 
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
-- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
@@ -2552,6 +2553,7 @@
 
 ## game 
 
+- [ozkl/doomgeneric](https://github.com/ozkl/doomgeneric) - Easily portable doom
 - [alexbatalov/fallout1-re](https://github.com/alexbatalov/fallout1-re) - Reverse engineered Fallout
 - [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
 - [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
@@ -3137,6 +3139,7 @@
 
 ## gradle 
 
+- [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard) - A Gradle plugin that guards against unintentional dependency changes.
 - [handstandsam/kmp-ready](https://github.com/handstandsam/kmp-ready) - KMP Ready is a Gradle Plugin that provides actionable advice to make your code Kotlin Multiplatform compatible.
 - [ge-org/multiplatform-swiftpackage](https://github.com/ge-org/multiplatform-swiftpackage) - Gradle plugin that generates a Swift Package Manager manifest and an XCFramework to distribute a Kotlin Multiplatform library for Apple platforms.
 - [Flank/flank](https://github.com/Flank/flank) - :speedboat: Massively parallel Android and iOS test runner for Firebase Test Lab
@@ -4736,6 +4739,7 @@
 
 ## kotlin 
 
+- [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard) - A Gradle plugin that guards against unintentional dependency changes.
 - [touchlab/KMMBridge](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.  See https://touchlab.github.io/KMMBridge/intro/ to
 - [deliveryhero/whetstone](https://github.com/deliveryhero/whetstone) - Whetstone is a dependency injection framework for Android that greatly simplifies working with Dagger 2 using all the powers of Anvil
 - [android-password-store/kage](https://github.com/android-password-store/kage) - 🚧 WIP Kotlin implementation of the age file encryption format
@@ -6285,6 +6289,7 @@
 
 ## others 
 
+- [hashicorp/hil](https://github.com/hashicorp/hil) - HIL is a small embedded language for string interpolations.
 - [sfall-team/sslc](https://github.com/sfall-team/sslc) - Script compiler/parser for FO2/sfall scripts
 - [Ytfarc/sfall1](https://github.com/Ytfarc/sfall1) - fallout 1 engine tweak mod ...
 - [Ytfarc/sfall2](https://github.com/Ytfarc/sfall2) - fallout 2 engine tweak mod ...
