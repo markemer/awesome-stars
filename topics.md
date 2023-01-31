@@ -526,8 +526,8 @@
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
 - [SiarheiFedartsou/fastlane-plugin-versioning](https://github.com/SiarheiFedartsou/fastlane-plugin-versioning) - Extends fastlane versioning actions. Allows to set/get versions without using agvtool and do some other small tricks.
 - [jdee/settings-bundle](https://github.com/jdee/settings-bundle) - Fastlane plugin to update static settings in an iOS settings bundle
-- [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - For those who seek to minimize their Windows 10 and Windows 11 installs.
-- [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 and Windows 11 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 & 11 security and privacy script!
+- [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
+- [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STIG/SRG re
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [inlife/nexrender](https://github.com/inlife/nexrender) - 📹  Data-driven render automation for After Effects
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -964,7 +964,7 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
-- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
@@ -1023,6 +1023,7 @@
 
 ## c 
 
+- [alt-romes/programmer-calculator](https://github.com/alt-romes/programmer-calculator) - Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits
 - [alexbatalov/fallout1-re](https://github.com/alexbatalov/fallout1-re) - Reverse engineered Fallout
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
@@ -1091,6 +1092,7 @@
 - [Xilinx/qemu](https://github.com/Xilinx/qemu) - Xilinx's fork of Quick EMUlator (QEMU) with improved support and modelling for the Xilinx platforms.
 - [tleonhardt/practical_cryptography_engineering](https://github.com/tleonhardt/practical_cryptography_engineering) - Cryptography code examples using libsodium and mbedtls C libraries and Python cryptography and PyNaCl modules
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+- [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [ruby/openssl](https://github.com/ruby/openssl) - Provides SSL, TLS and general purpose cryptography.
 - [FreeRADIUS/freeradius-server](https://github.com/FreeRADIUS/freeradius-server) - FreeRADIUS - A multi-protocol policy server.
@@ -1214,6 +1216,7 @@
 
 ## cli 
 
+- [alt-romes/programmer-calculator](https://github.com/alt-romes/programmer-calculator) - Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
@@ -1235,7 +1238,7 @@
 - [SpacehuhnTech/SimpleCLI](https://github.com/SpacehuhnTech/SimpleCLI) - Command Line Interface Library for Arduino
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 [WIP] Feature-rich interactive Jira command line.
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -1354,7 +1357,7 @@
 - [kalbhor/MusicRepair](https://github.com/kalbhor/MusicRepair) - Fixes music metadata and adds album art.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
-- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -1409,6 +1412,7 @@
 
 ## compiler 
 
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [mn416/QPULib](https://github.com/mn416/QPULib) - Language and compiler for the Raspberry Pi GPU
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
@@ -1637,6 +1641,7 @@
 
 ## css 
 
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
@@ -2793,7 +2798,7 @@
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [Paperspace/paperspace-go](https://github.com/Paperspace/paperspace-go) - Paperspace API go library
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
-- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 [WIP] Feature-rich interactive Jira command line.
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [marhaupe/json2struct](https://github.com/marhaupe/json2struct) - CLI tool to convert JSON to struct type definitions
@@ -2965,7 +2970,7 @@
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) - CLI for executing Cirrus tasks locally and in any CI
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
-- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 [WIP] Feature-rich interactive Jira command line.
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [marhaupe/json2struct](https://github.com/marhaupe/json2struct) - CLI tool to convert JSON to struct type definitions
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
@@ -3220,6 +3225,7 @@
 
 ## hacktoberfest 
 
+- [nova-labs/watto](https://github.com/nova-labs/watto) - wautils2: Rails app for wautils.nova-labs.org
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -3228,7 +3234,7 @@
 - [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [woodruffw/kbs2](https://github.com/woodruffw/kbs2) - A secret manager backed by age
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com :fishsticks:
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!
@@ -3768,6 +3774,8 @@
 
 ## ios 
 
+- [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
+- [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [shima11/FlexiblePageControl](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
@@ -4260,7 +4268,6 @@
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-- [updatekit/upkit](https://github.com/updatekit/upkit) - UpKit: Software Updates for Internet of Things devices
 - [cwi-dis/iotsa](https://github.com/cwi-dis/iotsa) - This library contains a framework to easily create web servers that can interface to all sorts of sensors and actuators. esp32 and esp8266.
 - [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
 - [swift-server-community/mqtt-nio](https://github.com/swift-server-community/mqtt-nio) - A Swift NIO MQTT v3.1.1 and v5.0 Client
@@ -4368,6 +4375,7 @@
 
 ## javascript 
 
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -5113,7 +5121,7 @@
 - [imwally/battstat](https://github.com/imwally/battstat) - 🔋 CLI battery status indicator for macOS, Linux, and OpenBSD ⚡
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [firehol/firehol](https://github.com/firehol/firehol) - A firewall for humans...
-- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -5595,7 +5603,7 @@
 - [Uncommon/Xit](https://github.com/Uncommon/Xit) - Mac OS X Git GUI
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
-- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [igor-makarov/xcake](https://github.com/igor-makarov/xcake) - :cake: Describe Xcode projects in a human readable format and (re)generate one on demand.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -6289,6 +6297,13 @@
 
 ## others 
 
+- [fxn/zeitwerk](https://github.com/fxn/zeitwerk) - Efficient and thread-safe code loader for Ruby
+- [RustCrypto/MACs](https://github.com/RustCrypto/MACs) - Message authentication code algorithms written in pure Rust
+- [Backblaze/B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
+- [backblaze-b2-samples/cloudflare-b2](https://github.com/backblaze-b2-samples/cloudflare-b2) - Provide access to a private Backblaze B2 bucket via a Cloudflare Worker
+- [brokenhandsio/are-we-server-yet](https://github.com/brokenhandsio/are-we-server-yet) - Are we server yet? A simple reckoning of Swift’s readiness for Server-related things. Inspired by arewewebyet.org
+- [awslabs/palace](https://github.com/awslabs/palace) - 3D finite element solver for computational electromagnetics
+- [luigimannoni/stadia-controller-flasher](https://github.com/luigimannoni/stadia-controller-flasher) - Utility for flashing Stadia Controllers
 - [hashicorp/hil](https://github.com/hashicorp/hil) - HIL is a small embedded language for string interpolations.
 - [sfall-team/sslc](https://github.com/sfall-team/sslc) - Script compiler/parser for FO2/sfall scripts
 - [Ytfarc/sfall1](https://github.com/Ytfarc/sfall1) - fallout 1 engine tweak mod ...
@@ -6404,7 +6419,6 @@
 - [ocsigen/lwt](https://github.com/ocsigen/lwt) - OCaml promises and concurrent I/O
 - [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH
 - [m-weigand/linux](https://github.com/m-weigand/linux) - Linux kernel source tree with modifications for the Pine64 Pinenote device
-- [DataDog/swift-test-action](https://github.com/DataDog/swift-test-action) - Github action to run your Swift or Obj-C tests using CI Visibility
 - [DataDog/datadog-api-client-go](https://github.com/DataDog/datadog-api-client-go) - Golang client for the Datadog API
 - [DataDog/datadog-api-client-ruby](https://github.com/DataDog/datadog-api-client-ruby) - 
 - [nicholasdower/sqlui](https://github.com/nicholasdower/sqlui) - A web app which can be used to query one or more SQL databases.
@@ -6466,7 +6480,7 @@
 - [prusa3d/Prusa-Connect-SDK-Printer](https://github.com/prusa3d/Prusa-Connect-SDK-Printer) - Python printer library for Prusa Connect
 - [android/architecture-templates](https://github.com/android/architecture-templates) - 
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [foundryvtt/dnd5e](https://github.com/foundryvtt/dnd5e) - An implementation of the Dungeons & Dragons 5th Edition game system for Foundry Virtual Tabletop (http://foundryvtt.com). This work is permitted under the Open Gaming License: http://media.wizards.com
+- [foundryvtt/dnd5e](https://github.com/foundryvtt/dnd5e) - An implementation of the 5th Edition game system for Foundry Virtual Tabletop (http://foundryvtt.com).
 - [inkcut/inkcut](https://github.com/inkcut/inkcut) - An application for controlling 2D plotters, cutters, engravers, and CNC machines.
 - [macos-fuse-t/fuse-t](https://github.com/macos-fuse-t/fuse-t) - 
 - [handstandsam/kmp4free](https://github.com/handstandsam/kmp4free) - A Gradle Plugin that allows seamless switching between Kotlin JVM and the Kotlin Multiplatform Plugins
@@ -7263,7 +7277,7 @@
 - [atlassian/gajira](https://github.com/atlassian/gajira) - GitHub Actions for Jira
 - [ai03-2725/MX_Alps_Hybrid](https://github.com/ai03-2725/MX_Alps_Hybrid) - KiCad Library of custom MX-Alps footprints
 - [evansm7/vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
-- [cegargo/sfetch](https://github.com/cegargo/sfetch) - A simple system information tool for Linux.
+- [egargoc/sfetch](https://github.com/egargoc/sfetch) - A simple system information tool for Linux.
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client
 - [migueldeicaza/CovidExtractor](https://github.com/migueldeicaza/CovidExtractor) - My Covid Extractor
 - [tomvita/SE-tools](https://github.com/tomvita/SE-tools) - This repository put together a set of tools I created for switch memory hacking
@@ -7399,7 +7413,7 @@
 - [DuncanMC/BlurredStrokedPath](https://github.com/DuncanMC/BlurredStrokedPath) - An iOS project that uses Core Animation and a layer's `shadowPath` to animate blurred stroked paths.
 - [Hamlib/Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library for rigs, rotators, tuners, and amplifiers
 - [qradiolink/qradiolink](https://github.com/qradiolink/qradiolink) - Multimode SDR transceiver for GNU radio
-- [Gadgetoid/Pinout.xyz](https://github.com/Gadgetoid/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
+- [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
 - [climberhunt/uvc-gadget](https://github.com/climberhunt/uvc-gadget) - enhance uvc-gadget test application
 - [tenderlove/analog-terminal-bell](https://github.com/tenderlove/analog-terminal-bell) - A bell for your terminal that is analog
@@ -7977,7 +7991,7 @@
 - [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
 - [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [petere/pex-packages](https://github.com/petere/pex-packages) - package library for pex (https://github.com/petere/pex)
-- [tphinney/science-gothic](https://github.com/tphinney/science-gothic) - Science Gothic, a libre variable font
+- [googlefonts/science-gothic](https://github.com/googlefonts/science-gothic) - Science Gothic, a libre variable font
 - [waylybaye/XcodeCleaner-SwiftUI](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Make Xcode Clean Again
 - [securing/IOSSecuritySuite](https://github.com/securing/IOSSecuritySuite) - iOS platform security & anti-tampering Swift library
 - [avsm/macos-xen](https://github.com/avsm/macos-xen) - patches and notes for MacOS/Xen support
@@ -8519,7 +8533,7 @@
 - [letsencrypt/dns-lots-of-lookups](https://github.com/letsencrypt/dns-lots-of-lookups) - dnslol is a command line tool for performing lots of DNS lookups.
 - [F4CF/Interface](https://github.com/F4CF/Interface) - The unofficial Fallout 4 user interface development kit.
 - [rumpkernel/rumprun-packages](https://github.com/rumpkernel/rumprun-packages) - Ready-made packages of software for running on the Rumprun unikernel
-- [rdkcmf/westeros](https://github.com/rdkcmf/westeros) - Wayland Compositor - mirror of https://code.rdkcentral.com/r/#/admin/projects/components/opensource/westeros
+- [rdkcmf/westeros](https://github.com/rdkcmf/westeros) - [DEPRECATED] repository mirror
 - [timvideos/HDMI2USB-numato-opsis-hardware](https://github.com/timvideos/HDMI2USB-numato-opsis-hardware) - The Numato Opsis board is the first fully open source HDMI2USB board.
 - [timvideos/HDMI2USB-numato-opsis-sample-code](https://github.com/timvideos/HDMI2USB-numato-opsis-sample-code) - Example code for the Numato Opsis board, the first HDMI2USB production board.
 - [djmuhlestein/fx2lib](https://github.com/djmuhlestein/fx2lib) - Library routines for creating firmware for the Cypress FX2 (CY7C68013 and variants) with SDCC
@@ -8807,7 +8821,7 @@
 - [jdamick/goproxy](https://github.com/jdamick/goproxy) - An HTTP proxy library for Go
 - [viper-framework/viper](https://github.com/viper-framework/viper) - Binary analysis and management framework
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
-- [firesim/firesim](https://github.com/firesim/firesim) - FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
+- [firesim/firesim](https://github.com/firesim/firesim) - FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility
 - [twilio/authy-devise](https://github.com/twilio/authy-devise) - Authy Devise plugin to add Two-Factor Authentication
 - [twilio/twilio-voice-ios](https://github.com/twilio/twilio-voice-ios) - Programmable Voice SDK by Twilio
 - [twilio/twilio-video-ios](https://github.com/twilio/twilio-video-ios) - Programmable Video SDK by Twilio
@@ -11673,7 +11687,7 @@
 ## powershell 
 
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
-- [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - For those who seek to minimize their Windows 10 and Windows 11 installs.
+- [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [majkinetor/posh](https://github.com/majkinetor/posh) - Powershell modules and functions by majkinetor
@@ -12203,6 +12217,7 @@
 
 ## react 
 
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
@@ -12528,6 +12543,8 @@
 
 ## rust 
 
+- [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
+- [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
@@ -12940,6 +12957,7 @@
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [subethaedit/SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.
 - [kareman/SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
+- [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [messeb/ios-project-env-setup](https://github.com/messeb/ios-project-env-setup) - Setup your iOS project environment with a Shellscript, Makefile or Rakefile
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
@@ -13072,6 +13090,8 @@
 
 ## swift 
 
+- [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
+- [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
 - [V8tr/AsyncImage](https://github.com/V8tr/AsyncImage) - Asynchronous Image Loading from URL in SwiftUI
 - [shima11/FlexiblePageControl](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
@@ -13968,6 +13988,7 @@
 
 ## terminal 
 
+- [alt-romes/programmer-calculator](https://github.com/alt-romes/programmer-calculator) - Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [rensbreur/SwiftTUI](https://github.com/rensbreur/SwiftTUI) - SwiftUI for terminal applications
 - [tio/tio](https://github.com/tio/tio) - A simple serial device I/O tool
@@ -13979,7 +14000,7 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 [WIP] Feature-rich interactive Jira command line.
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
 - [lmorg/murex](https://github.com/lmorg/murex) - Bash-like shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
@@ -14149,6 +14170,7 @@
 
 ## typescript 
 
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [RobotsAndPencils/1password-action](https://github.com/RobotsAndPencils/1password-action) - Import logins, passwords and documents from your 1Password vaults to use in your GitHub Action workflows.
@@ -14397,8 +14419,8 @@
 - [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 - [tursilion/convert9918](https://github.com/tursilion/convert9918) - Converter for the TMS9918A's bitmap mode, and F18A enhanced bitmap modes.
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
-- [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - For those who seek to minimize their Windows 10 and Windows 11 installs.
-- [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 and Windows 11 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 & 11 security and privacy script!
+- [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
+- [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STIG/SRG re
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [GoogleCloudPlatform/iap-desktop](https://github.com/GoogleCloudPlatform/iap-desktop) - IAP Desktop is a Windows application that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud.
 - [grassator/mass](https://github.com/grassator/mass) - A compiler for a new language focusing on compile-time execution and no LLVM dependency.
