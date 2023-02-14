@@ -2087,7 +2087,7 @@
 
 ## Go 
 
-- [joerdav/xc](https://github.com/joerdav/xc) - Self documenting task runner.
+- [joerdav/xc](https://github.com/joerdav/xc) - Create executable documentation.
 - [usbarmory/imx-usbnet](https://github.com/usbarmory/imx-usbnet) - i.MX Ethernet over USB driver
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -7202,7 +7202,7 @@
 
 ## Shell 
 
-- [swift-server/swift-dev-container](https://github.com/swift-server/swift-dev-container) - Visual Studio Code Development Container for Swift
+- [swift-server/swift-devcontainer-template](https://github.com/swift-server/swift-devcontainer-template) - Visual Studio Code Development Container for Swift
 - [cli/gh-extension-precompile](https://github.com/cli/gh-extension-precompile) - Action for publishing binary GitHub CLI extensions
 - [0cc4m/pinenote-misc](https://github.com/0cc4m/pinenote-misc) - 
 - [sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer) - OSX Optimizer: Optimize MacOS - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
