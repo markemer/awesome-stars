@@ -1340,7 +1340,7 @@
 - [michaeleisel/zld](https://github.com/michaeleisel/zld) - A faster version of Apple's linker
 - [ulfjack/ryu](https://github.com/ulfjack/ryu) - Converts floating point numbers to decimal strings
 - [ayoy/fontedit](https://github.com/ayoy/fontedit) - A desktop app to import, edit and export fonts as byte arrays for use in embedded systems
-- [arc80/plywood](https://github.com/arc80/plywood) - The Plywood C++ Framework
+- [arc80/plywood](https://github.com/arc80/plywood) - A multimedia development kit for C++
 - [microsoft/GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [microsoft/cppwinrt](https://github.com/microsoft/cppwinrt) - C++/WinRT
@@ -2648,6 +2648,7 @@
 
 ## HTML 
 
+- [riderx/awesome-capacitor](https://github.com/riderx/awesome-capacitor) - 😎 Awesome lists of capacitor plugins.
 - [luigimannoni/stadia-controller-flasher](https://github.com/luigimannoni/stadia-controller-flasher) - Utility for flashing Stadia Controllers
 - [solderparty/bbq20kbd_hw](https://github.com/solderparty/bbq20kbd_hw) - 
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
@@ -3057,7 +3058,7 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [drifting-in-space/aper](https://github.com/drifting-in-space/aper) - A Rust data structure library built on state machines.
-- [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+- [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [lensvol/fl-time-keeper](https://github.com/lensvol/fl-time-keeper) - Display convenient reminder when Time the Healer comes in Fallen London.
 - [laurent22/github-actions-logs-extension](https://github.com/laurent22/github-actions-logs-extension) - Display GitHub Action Raw log in color, converting the Ansi colors to HTML
 - [charlieMonroe/DownieExtensions](https://github.com/charlieMonroe/DownieExtensions) - Browser Extensions used in Downie (https://software.charliemonroe.net/downie/).
@@ -4159,6 +4160,7 @@
 ## Nunjucks 
 
 - [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
+- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 
 ## OCaml 
 
@@ -4987,7 +4989,6 @@
 - [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [jarikoi/interesting-papers](https://github.com/jarikoi/interesting-papers) - Jari's collection of interesting papers.
 - [fesh0r/010editor](https://github.com/fesh0r/010editor) - Templates and scripts for 010 editor
-- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [the-black-knight-01/Data-Science-Competitions](https://github.com/the-black-knight-01/Data-Science-Competitions) - Goal of this repo is to provide the solutions of all Data Science Competitions(Kaggle, Data Hack, Machine Hack, Driven Data etc...).
 - [devopsdc/devopsdc](https://github.com/devopsdc/devopsdc) - Planning and other organizational stuff for DevOps DC Meetup Group
@@ -6992,7 +6993,7 @@
 - [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
 - [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
-- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware to m
+- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware to maximally leverage the power of language safety and thu
 - [jac3km4/redscript](https://github.com/jac3km4/redscript) - Compiler/decompiler toolkit for redscript
 - [mattsse/voyager](https://github.com/mattsse/voyager) - crawl and scrape web pages in rust
 - [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
@@ -7511,6 +7512,8 @@
 
 ## Swift 
 
+- [GottaGetSwifty/SwiftyXMLKit](https://github.com/GottaGetSwifty/SwiftyXMLKit) - Tools for working with XML in Swift
+- [GottaGetSwifty/CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy
 - [jackhumbert/let_there_be_flight](https://github.com/jackhumbert/let_there_be_flight) - A flight mod for Cyberpunk 2077
 - [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift
 - [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Async location streamer using new concurrency model in Swift Async CoreLocation for iOS, watchOS
@@ -8807,7 +8810,6 @@
 - [zhxnlai/ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) - A simple view for building card like interface inspired by Tinder and Potluck.
 - [buildasaurs/XcodeServerSDK](https://github.com/buildasaurs/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 - [finestructure/CoPilot](https://github.com/finestructure/CoPilot) - 
-- [HighstreetMobile/HighstreetWatchApp](https://github.com/HighstreetMobile/HighstreetWatchApp) - The WatchKit App built on the http://highstreetapp.com platform
 - [joshaber/Few.swift](https://github.com/joshaber/Few.swift) - Views as functions of their state.
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [MrMatthias/SwiftColorPicker](https://github.com/MrMatthias/SwiftColorPicker) - An iOS HSB color picker implemented in Swift
@@ -8996,6 +8998,7 @@
 
 ## TypeScript 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
