@@ -387,6 +387,7 @@
 
 ## angular 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [kshetline/sky-view-cafe-astronomy](https://github.com/kshetline/sky-view-cafe-astronomy) - Provides web-based star charts and astronomical information.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
@@ -573,6 +574,7 @@
 
 ## awesome 
 
+- [riderx/awesome-capacitor](https://github.com/riderx/awesome-capacitor) - 😎 Awesome lists of capacitor plugins.
 - [bertjiazheng/awesome-CAD](https://github.com/bertjiazheng/awesome-CAD) - 😎 A list of awesome Computer-Aided Design (CAD) papers
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
@@ -718,6 +720,7 @@
 
 ## awesome-list 
 
+- [riderx/awesome-capacitor](https://github.com/riderx/awesome-capacitor) - 😎 Awesome lists of capacitor plugins.
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
@@ -2184,6 +2187,7 @@
 
 ## documentation 
 
+- [joerdav/xc](https://github.com/joerdav/xc) - Create executable documentation.
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [sleede/fab-manager](https://github.com/sleede/fab-manager) - Fab-Manager is the FabLab management solution.  It provides a comprehensive, web-based, open-source tool to simplify your administrative tasks and your marker's projects.
 - [openbmc/docs](https://github.com/openbmc/docs) - OpenBMC Documentation
@@ -2502,6 +2506,7 @@
 
 ## framework 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [touchlab/KMMBridge](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.  See https://touchlab.github.io/KMMBridge/intro/ to
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -2558,6 +2563,7 @@
 
 ## frontend 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [MarketingPipeline/Markdown-Tag](https://github.com/MarketingPipeline/Markdown-Tag) - Render Markdown to HTML on any website using a md tag
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [eavichay/microfronts](https://github.com/eavichay/microfronts) - Polyglot Front-End Solution for running multiple frameworks as one
@@ -2798,6 +2804,7 @@
 
 ## go 
 
+- [joerdav/xc](https://github.com/joerdav/xc) - Create executable documentation.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Visualise Go program runtime metrics in real time in your browser
@@ -2966,6 +2973,7 @@
 
 ## golang 
 
+- [joerdav/xc](https://github.com/joerdav/xc) - Create executable documentation.
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
@@ -3303,7 +3311,6 @@
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
-- [DataDog/dd-sdk-ios](https://github.com/DataDog/dd-sdk-ios) - Datadog SDK for iOS - Swift and Objective-C.
 - [nkristek/Highlight](https://github.com/nkristek/Highlight) - A syntax highlighter for JSON data completely written in Swift with no dependencies
 - [ValvePython/steam](https://github.com/ValvePython/steam) - ☁️ Python package for interacting with Steam
 - [norio-nomura/Base32](https://github.com/norio-nomura/Base32) - Base32 for Swift
@@ -3327,7 +3334,6 @@
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
-- [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [adafruit/circuitpython](https://github.com/adafruit/circuitpython) - CircuitPython - a Python implementation for teaching coding with microcontrollers
 - [rockbruno/SwiftInfo](https://github.com/rockbruno/SwiftInfo) - 📊 Extract and analyze the evolution of an iOS app's code.
@@ -3403,7 +3409,7 @@
 - [Raku/nqp](https://github.com/Raku/nqp) - NQP
 - [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
+- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 - [Cosmo/Clippy](https://github.com/Cosmo/Clippy) - 📎💬🎉 Clippy from Microsoft Office is back and runs on macOS! Written in Swift.
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira
@@ -3796,6 +3802,9 @@
 
 ## ios 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [GottaGetSwifty/SwiftyXMLKit](https://github.com/GottaGetSwifty/SwiftyXMLKit) - Tools for working with XML in Swift
+- [GottaGetSwifty/CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Async location streamer using new concurrency model in Swift Async CoreLocation for iOS, watchOS
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
@@ -4402,6 +4411,7 @@
 
 ## javascript 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
@@ -4409,7 +4419,7 @@
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+- [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [susam/mathb](https://github.com/susam/mathb) - Share mathematics on the web with LaTeX and Markdown
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -4773,6 +4783,7 @@
 - [ResidentMario/py_d3](https://github.com/ResidentMario/py_d3) - D3 block magic for Jupyter notebook.
 - [jupyter/nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
+- [lgpage/nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 
 ## kotlin 
@@ -4939,6 +4950,7 @@
 - [bryanph/GeistMap](https://github.com/bryanph/GeistMap) - An experimental personal knowledge base with a focus on connections
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺
+- [lgpage/nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [shekhargulati/52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
 
 ## library 
@@ -5762,6 +5774,7 @@
 
 ## material-design 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -5784,6 +5797,7 @@
 
 ## mobile 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [touchlab/KMMBridge](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.  See https://touchlab.github.io/KMMBridge/intro/ to
 - [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 - [ittybittyapps/appstoreconnect-cli](https://github.com/ittybittyapps/appstoreconnect-cli) - An easy to use command-line tool for interacting with the Apple AppStore Connect API
@@ -6298,7 +6312,7 @@
 - [RWTH-OS/eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - A teaching operating system written in Rust
 - [flosse/rust-os-comparison](https://github.com/flosse/rust-os-comparison) - A comparison of operating systems written in Rust
 - [skift-org/skift](https://github.com/skift-org/skift) - 🥑 The delightful operating system.
-- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware to m
+- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware to maximally leverage the power of language safety and thu
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [osfree-project/osfree](https://github.com/osfree-project/osfree) - osFree - open source Operating System/2 clone, usermode parts.
 - [illumos/illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system
@@ -6328,6 +6342,8 @@
 
 ## others 
 
+- [molly/static-timeline-generator](https://github.com/molly/static-timeline-generator) - Create static timeline webpages.
+- [the-aerospace-corporation/satcat5](https://github.com/the-aerospace-corporation/satcat5) - SatCat5 is a mixed-media Ethernet switch that lets a variety of devices communicate on the same network.
 - [justarandomguyintheinternet/CP77_InventoryMaid](https://github.com/justarandomguyintheinternet/CP77_InventoryMaid) - Highly customizable Inventory manager for Cyberpunk 2077
 - [jackhumbert/let_there_be_flight](https://github.com/jackhumbert/let_there_be_flight) - A flight mod for Cyberpunk 2077
 - [overset/JP01](https://github.com/overset/JP01) - JP01 - Arisu Custom CNC Aluminum Unibody Keyboard Case
@@ -6335,7 +6351,6 @@
 - [luanshixia/AutoCADCodePack](https://github.com/luanshixia/AutoCADCodePack) - AutoCAD Code Pack: A powerful library that helps you to develop AutoCAD plugins using the AutoCAD .NET API
 - [OpenTimer/OpenTimer](https://github.com/OpenTimer/OpenTimer) - A High-performance Timing Analysis Tool for VLSI Systems
 - [DSchroer/dslcad](https://github.com/DSchroer/dslcad) - DSLCad is a programming language & interpreter for building 3D models.
-- [joerdav/xc](https://github.com/joerdav/xc) - Self documenting task runner.
 - [whatthefilament/Framework-AIO](https://github.com/whatthefilament/Framework-AIO) - AIO Mod for Framework Laptop
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [Shizmob/rpatool](https://github.com/Shizmob/rpatool) - A tool to work with Ren'Py archives.
@@ -6356,7 +6371,7 @@
 - [metal-by-example/minimal-swift-assimp](https://github.com/metal-by-example/minimal-swift-assimp) - 
 - [MichiMolle/gtk3-eink](https://github.com/MichiMolle/gtk3-eink) - css for making gtk3-applications look better on eink devices
 - [MichiMolle/gtk4-eink](https://github.com/MichiMolle/gtk4-eink) - css for making gtk4-applications look better on eink devices
-- [swift-server/swift-dev-container](https://github.com/swift-server/swift-dev-container) - Visual Studio Code Development Container for Swift
+- [swift-server/swift-devcontainer-template](https://github.com/swift-server/swift-devcontainer-template) - Visual Studio Code Development Container for Swift
 - [kspalaiologos/qbdiff](https://github.com/kspalaiologos/qbdiff) - building and applying patches to binary files
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [cli/gh-extension-precompile](https://github.com/cli/gh-extension-precompile) - Action for publishing binary GitHub CLI extensions
@@ -7381,7 +7396,7 @@
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [AndresNavarro82/vt52-fpga](https://github.com/AndresNavarro82/vt52-fpga) - 
 - [alex/nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
-- [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple Win64/Win32 applications on arm64/ppc64le/x86_64 Linux and x86_64 Mac
+- [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple (Win64/)Win32 applications on arm64/(ppc64le)/x86_64 Linux and x86_64 Mac
 - [pwsacademy/swift-setup](https://github.com/pwsacademy/swift-setup) - Student-friendly setup instructions for platforms, editors, and IDEs that support Swift.
 - [microsoft/uf2](https://github.com/microsoft/uf2) - UF2 file format specification
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
@@ -7652,7 +7667,7 @@
 - [grumpygamer/DeloresDev](https://github.com/grumpygamer/DeloresDev) - Read all about it on GrumpyGamer:
 - [dbanay/Smalltalk](https://github.com/dbanay/Smalltalk) - By the Bluebook implementation of Smalltalk-80
 - [erica/remind](https://github.com/erica/remind) - Schedule a notification-center reminder from the command-line because sometime we just want to use tools already at hand to get on with the rest of our work.
-- [arc80/plywood](https://github.com/arc80/plywood) - The Plywood C++ Framework
+- [arc80/plywood](https://github.com/arc80/plywood) - A multimedia development kit for C++
 - [erica/now](https://github.com/erica/now) - Times around the world because no brain should have to work out what time it is in NYC or what time it is here when it's 4PM in London or what time 4PM in London is here...
 - [AIwithSwift/PracticalAIwithSwift1stEd-Code](https://github.com/AIwithSwift/PracticalAIwithSwift1stEd-Code) - Code for the book's first edition.
 - [microsoft/GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
@@ -10044,7 +10059,6 @@
 - [jimmywarting/wemo-client](https://github.com/jimmywarting/wemo-client) - JavaScript client library for controlling and subscribing to Wemo Devices
 - [goadapp/goad](https://github.com/goadapp/goad) - Goad is an AWS Lambda powered, highly distributed, load testing tool
 - [JoeKuhns/PiedPiPer.safariextension](https://github.com/JoeKuhns/PiedPiPer.safariextension) - Add Picture-in-Picture Functionality to Netflix, YouTube, Plex, and dailymotion in macOS Sierra
-- [lgpage/nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [initialstate/pi-process-dashboard](https://github.com/initialstate/pi-process-dashboard) - How to remotely monitor your Raspberry Pi processes and IP addresses
 - [fflewddur/tivolibre](https://github.com/fflewddur/tivolibre) - Java app and library for decoding TiVo files to standard MPEG files.
 - [wmcbrine/tivodecode-ng](https://github.com/wmcbrine/tivodecode-ng) - The "next generation" of tivodecode, to handle transport streams. Not fully working yet.
@@ -10526,7 +10540,6 @@
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [finestructure/CoPilot](https://github.com/finestructure/CoPilot) - 
 - [0ax1/MPI-Checker](https://github.com/0ax1/MPI-Checker) - Checks to verify the usage of the MPI API in C and C++ code, based on Clang’s Static Analyzer and Clang-Tidy.
-- [HighstreetMobile/HighstreetWatchApp](https://github.com/HighstreetMobile/HighstreetWatchApp) - The WatchKit App built on the http://highstreetapp.com platform
 - [SlatherOrg/slather](https://github.com/SlatherOrg/slather) - Generate test coverage reports for Xcode projects & hook it into CI.
 - [azu/Coveralls-iOS](https://github.com/azu/Coveralls-iOS) - iOS/Objective-C: minimum setup for Coveralls.
 - [joshaber/Few.swift](https://github.com/joshaber/Few.swift) - Views as functions of their state.
@@ -11526,7 +11539,7 @@
 - [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
 - [divegeek/uscode](https://github.com/divegeek/uscode) - The United States Code
 - [progit/progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2)
-- [oddbird/susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass
+- [oddbird/susy](https://github.com/oddbird/susy) - Pre-grid responsive layout toolkit for Sass, now deprecated
 - [jtriley/StarCluster](https://github.com/jtriley/StarCluster) - StarCluster is an open source cluster-computing toolkit for Amazon's Elastic Compute Cloud (EC2).
 - [fspeirs/grittle](https://github.com/fspeirs/grittle) - Ruby script to generate OmniGraffle diagrams of Git repositories
 - [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree
@@ -11772,6 +11785,7 @@
 
 ## pwa 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -12031,6 +12045,7 @@
 - [OrkoHunter/keep](https://github.com/OrkoHunter/keep) - A Meta CLI toolkit : Personal shell command keeper and snippets manager
 - [apache/allura](https://github.com/apache/allura) - Apache Allura - a software forge to manage source code repositories, bug reports, discussions, wiki pages, blogs, and more
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+- [lgpage/nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [dit/dit](https://github.com/dit/dit) - Python package for information theory.
 - [root-project/root](https://github.com/root-project/root) - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
 - [anantdgoel/ProjectFib](https://github.com/anantdgoel/ProjectFib) - Chrome extension to flag fake news on Facebook. Built at HackPrinceton '16
@@ -12264,6 +12279,7 @@
 
 ## react 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
@@ -12659,7 +12675,7 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
-- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware to m
+- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware to maximally leverage the power of language safety and thu
 - [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
@@ -12838,7 +12854,7 @@
 - [Netflix/bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
+- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 - [henrinormak/Heimdall](https://github.com/henrinormak/Heimdall) - Heimdall is a wrapper around the Security framework for simple encryption/decryption operations.
 - [secrethub/ansible-secrethub](https://github.com/secrethub/ansible-secrethub) - Official Ansible module for SecretHub
@@ -13149,6 +13165,8 @@
 
 ## swift 
 
+- [GottaGetSwifty/SwiftyXMLKit](https://github.com/GottaGetSwifty/SwiftyXMLKit) - Tools for working with XML in Swift
+- [GottaGetSwifty/CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy
 - [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Async location streamer using new concurrency model in Swift Async CoreLocation for iOS, watchOS
@@ -14234,6 +14252,7 @@
 
 ## typescript 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -14371,6 +14390,7 @@
 
 ## vue 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
@@ -14395,6 +14415,7 @@
 
 ## web 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [varabyte/kobweb](https://github.com/varabyte/kobweb) - A modern framework for full stack web apps in Kotlin, built upon Compose for Web
@@ -14739,6 +14760,7 @@
 
 ## xml 
 
+- [GottaGetSwifty/SwiftyXMLKit](https://github.com/GottaGetSwifty/SwiftyXMLKit) - Tools for working with XML in Swift
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [CoreOffice/XMLCoder](https://github.com/CoreOffice/XMLCoder) - Easy XML parsing using Codable protocols in Swift
 - [CoreOffice/CoreXLSX](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format parser written in pure Swift
