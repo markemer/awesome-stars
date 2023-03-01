@@ -238,7 +238,6 @@
 
 ## Batchfile 
 
-- [soulcharmer/gog_bloodlines_cz](https://github.com/soulcharmer/gog_bloodlines_cz) - Czech translation for the GOG version of "Vampire: The Masquerade – Bloodlines"
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [sparkfun/SparkFun_Artemis](https://github.com/sparkfun/SparkFun_Artemis) - World's first open source hardware module using a Cortex-M4F capable of running TensorFlow models and Arduino sketches..
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
@@ -270,7 +269,6 @@
 - [historicalsource/leisure-suit-larry-1-alt](https://github.com/historicalsource/leisure-suit-larry-1-alt) - A game about a name with a quest, with some alternate materials.
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
-- [teslamotors/liblithium](https://github.com/teslamotors/liblithium) - A lightweight and portable cryptography library.
 - [picolibc/picolibc](https://github.com/picolibc/picolibc) - picolibc - a C library designed for embedded 32- and 64- bit systems.
 - [suarezvictor/CflexHDL](https://github.com/suarezvictor/CflexHDL) - Design digital circuits in C. Simulate really fast with a regular compiler.
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -1774,6 +1772,7 @@
 
 ## CMake 
 
+- [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) - 
 - [lifting-bits/sleigh](https://github.com/lifting-bits/sleigh) - Unofficial CMake build for Ghidra SLEIGH
 - [KiCad/kicad-packages3D](https://github.com/KiCad/kicad-packages3D) - Official KiCad 3D model libraries for rendering and MCAD integration
 - [KiCad/kicad-footprints](https://github.com/KiCad/kicad-footprints) - Official KiCad Footprint Libraries for Kicad version 5
@@ -1874,7 +1873,6 @@
 ## Clojure 
 
 - [narimiran/AdventOfCode2022](https://github.com/narimiran/AdventOfCode2022) - My solutions for AoC 2022
-- [rpmartz/aoc-2022](https://github.com/rpmartz/aoc-2022) - 
 - [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - config karabiner with ease
@@ -2087,6 +2085,8 @@
 
 ## Go 
 
+- [blacktop/go-apfs](https://github.com/blacktop/go-apfs) - APFS parser written in pure Go
+- [DHowett/go-plist](https://github.com/DHowett/go-plist) - A pure Go Apple Property List transcoder
 - [lukejoshuapark/whisper](https://github.com/lukejoshuapark/whisper) - Wraps an io.ReadWriter in a secure tunnel using modern elliptic-curve cryptography.
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [usbarmory/imx-usbnet](https://github.com/usbarmory/imx-usbnet) - i.MX Ethernet over USB driver
@@ -2736,7 +2736,6 @@
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
 - [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
 - [SwiftDocOrg/swiftdoc.org](https://github.com/SwiftDocOrg/swiftdoc.org) - Auto-generated documentation for Swift. Command-click no more.
-- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [pjrule/federal-election-data](https://github.com/pjrule/federal-election-data) - Federal election data released by the Federal Election Commission from 1982-present in an open format
 - [lordelph/pastebin](https://github.com/lordelph/pastebin) - The original pastebin source, available under an AGPL licence
 - [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
@@ -3047,6 +3046,8 @@
 
 ## JavaScript 
 
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [molly/static-timeline-generator](https://github.com/molly/static-timeline-generator) - Create static timeline webpages.
@@ -3057,7 +3058,6 @@
 - [tweetback/tweetback-canonical](https://github.com/tweetback/tweetback-canonical) - A package to resolve twitter URLs to new canonically hosted twitter backups
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [dariusk/twitter-archiver](https://github.com/dariusk/twitter-archiver) - Make your own simple, public, searchable Twitter archive
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [drifting-in-space/aper](https://github.com/drifting-in-space/aper) - A Rust data structure library built on state machines.
@@ -4207,6 +4207,7 @@
 
 ## Objective-C 
 
+- [googlemaps/google-maps-ios-utils](https://github.com/googlemaps/google-maps-ios-utils) - Google Maps SDK for iOS Utility Library
 - [seanhenry/SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode) - An Xcode extension (plugin) to generate Swift test doubles automatically.
 - [karstenBriksoft/PlistExplorer](https://github.com/karstenBriksoft/PlistExplorer) - Cocoa Tool to inspect files written by NSKeyedArchiver
 - [mapbox/mapbox-events-ios](https://github.com/mapbox/mapbox-events-ios) - Mapbox Events Framework for iOS
@@ -4749,6 +4750,8 @@
 
 ## Others 
 
+- [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) - An "awesome" list of Ionic resources
+- [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
 - [vircon32/Vircon32Documents](https://github.com/vircon32/Vircon32Documents) - A collection of PDF documents related to the console. Mainly specifications and guides.
 - [bertjiazheng/awesome-CAD](https://github.com/bertjiazheng/awesome-CAD) - 😎 A list of awesome Computer-Aided Design (CAD) papers
 - [overset/JP01](https://github.com/overset/JP01) - JP01 - Arisu Custom CNC Aluminum Unibody Keyboard Case
@@ -5385,7 +5388,6 @@
 ## PHP 
 
 - [aws-samples/aws-refarch-wordpress](https://github.com/aws-samples/aws-refarch-wordpress) - This reference architecture provides best practices and a set of YAML CloudFormation templates for deploying WordPress on AWS.
-- [ExpressionEngine/ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine) - ExpressionEngine is a flexible, feature-rich, free open-source content management platform that empowers hundreds of thousands of individuals and organizations around the world to easily manage their 
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [jmarmorato/Intranet-Home-Page](https://github.com/jmarmorato/Intranet-Home-Page) - Intranet Home Page is a highly-configurable self-hosted browser homepage with integrations for public and local data feeds.
 - [fantasycalendar/Fantasy-Calendar](https://github.com/fantasycalendar/Fantasy-Calendar) - This is for the fantasy-calendar website, specifically the 2.0 update. Feel free to contribute and help improve the site!
@@ -5574,7 +5576,6 @@
 - [aws/amazon-braket-examples](https://github.com/aws/amazon-braket-examples) - Example notebooks that show how to apply quantum computing in Amazon Braket.
 - [aws/amazon-braket-sdk-python](https://github.com/aws/amazon-braket-sdk-python) - A python SDK for interacting with quantum devices on Amazon Braket
 - [aws/amazon-braket-default-simulator-python](https://github.com/aws/amazon-braket-default-simulator-python) - An implementation of a quantum simulator that you can run locally.
-- [enerush/BMW-VIN-Decoder](https://github.com/enerush/BMW-VIN-Decoder) - Telegram bot for one-click BMW package decoding.
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways
 - [cxnder/ktool](https://github.com/cxnder/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 - [evilpete/flipper_toolbox](https://github.com/evilpete/flipper_toolbox) - Random scripts for generating Flipper data files.
@@ -5598,7 +5599,7 @@
 - [ucb-art/BAG_framework](https://github.com/ucb-art/BAG_framework) - 
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [m-weigand/mw_pinenote_misc](https://github.com/m-weigand/mw_pinenote_misc) - Pinenote notes and patches
-- [apple/ml-fct](https://github.com/apple/ml-fct) - Research publication code for "Forward Compatible Training for Large-Scale Embedding Retrieval Systems", CVPR 2022.
+- [apple/ml-fct](https://github.com/apple/ml-fct) - Research publication code for "Forward Compatible Training for Large-Scale Embedding Retrieval Systems", CVPR 2022, and "FastFill: Efficient Compatible Model Update", ICLR 2023
 - [sparkfunX/Satellite_Transceiver_Breakout__Swarm_M138](https://github.com/sparkfunX/Satellite_Transceiver_Breakout__Swarm_M138) - Satellite Transceiver Breakout - Swarm M138
 - [dropbox/dropbox-sdk-python](https://github.com/dropbox/dropbox-sdk-python) - The Official Dropbox API V2 SDK for Python
 - [madzen/LazarusTools](https://github.com/madzen/LazarusTools) - Toolkit for the game Vampire The Masquerade: Bloodlines
@@ -5982,6 +5983,7 @@
 - [Dyalog/dyalog-jupyter-kernel](https://github.com/Dyalog/dyalog-jupyter-kernel) - A Jupyter kernel for Dyalog APL
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [IDArlingTeam/IDArling](https://github.com/IDArlingTeam/IDArling) - Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays
+- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [caobokai/DeepMood](https://github.com/caobokai/DeepMood) - 
 - [mitsuhiko/flask-pastebin](https://github.com/mitsuhiko/flask-pastebin) - Example pastebin with websockets, sqlalchemy, facebook connect and a bunch of other buzzwords
@@ -6497,7 +6499,6 @@
 - [renatolond/mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mastodon and Twitter
 - [github-developer/using-the-github-api-in-your-app](https://github.com/github-developer/using-the-github-api-in-your-app) - 
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-- [actions/importer-labs](https://github.com/actions/importer-labs) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [DataDog/dogstatsd-ruby](https://github.com/DataDog/dogstatsd-ruby) - A Ruby client for DogStatsd
 - [DataDog/dogapi-rb](https://github.com/DataDog/dogapi-rb) - Ruby client for Datadog's API
 - [github-developer/github-app-template](https://github.com/github-developer/github-app-template) - 
@@ -6879,6 +6880,7 @@
 
 ## Rust 
 
+- [awslabs/staticwebsite-cli](https://github.com/awslabs/staticwebsite-cli) - 
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [DSchroer/dslcad](https://github.com/DSchroer/dslcad) - DSLCad is a programming language & interpreter for building 3D models.
@@ -7188,7 +7190,7 @@
 - [freechipsproject/chisel-template](https://github.com/freechipsproject/chisel-template) - A template project for beginning new Chisel work
 - [chipsalliance/firrtl](https://github.com/chipsalliance/firrtl) - Flexible Intermediate Representation for RTL
 - [ucb-bar/chisel-tutorial](https://github.com/ucb-bar/chisel-tutorial) - chisel tutorial exercises and answers
-- [chipsalliance/chisel3](https://github.com/chipsalliance/chisel3) - Chisel 3: A Modern Hardware Design Language
+- [chipsalliance/chisel](https://github.com/chipsalliance/chisel) - Chisel: A Modern Hardware Design Language
 - [scala/scala](https://github.com/scala/scala) - Scala 2 compiler and standard library. For bugs, see scala/bug
 - [airbnb/aerosolve](https://github.com/airbnb/aerosolve) - A machine learning package built for humans.
 - [twitter/cassovary](https://github.com/twitter/cassovary) - Cassovary is a simple big graph processing library for the JVM
@@ -7518,11 +7520,12 @@
 
 ## Swift 
 
+- [pointfreeco/swift-tagged](https://github.com/pointfreeco/swift-tagged) - 🏷 A wrapper type for safer, expressive code.
 - [GottaGetSwifty/SwiftyXMLKit](https://github.com/GottaGetSwifty/SwiftyXMLKit) - Tools for working with XML in Swift
 - [GottaGetSwifty/CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy
 - [jackhumbert/let_there_be_flight](https://github.com/jackhumbert/let_there_be_flight) - A flight mod for Cyberpunk 2077
 - [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift
-- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Async location streamer using new swift concurrency Async await CoreLocation services, location tracking, tracker
+- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Async location streamer using new swift concurrency Async await CoreLocation services, location tracking, tracker Detect a users location Gecoder, geocoding
 - [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
 - [metal-by-example/minimal-swift-assimp](https://github.com/metal-by-example/minimal-swift-assimp) - 
 - [V8tr/AsyncImage](https://github.com/V8tr/AsyncImage) - Asynchronous Image Loading from URL in SwiftUI
@@ -7545,7 +7548,6 @@
 - [Pyroh/SlidingRuler](https://github.com/Pyroh/SlidingRuler) - A sliding ruler control for SwiftUI
 - [gabriellanata/ViewThatFitsUIKit](https://github.com/gabriellanata/ViewThatFitsUIKit) - An exploration of ViewThatFits built in UIKit
 - [ole/swiftui-view-lifecycle](https://github.com/ole/swiftui-view-lifecycle) - Observe how different SwiftUI container views affect state and lifecycle events (onAppear, onDisappear).
-- [koher/swift-image](https://github.com/koher/swift-image) - SwiftImage: an image library in Swift with Swifty APIs and value semantics
 - [freedmand/textra](https://github.com/freedmand/textra) - A command-line application to convert images, PDFs, and audio files to text using Apple's APIs
 - [EnesKaraosman/SwipeCell](https://github.com/EnesKaraosman/SwipeCell) - Swipe Left2Right & Right2Left, pure SwiftUI implementation
 - [ole/SwiftUI-Mac-Focus](https://github.com/ole/SwiftUI-Mac-Focus) - Test project for playing with focus, keyboard shortcuts, menu commands in SwiftUI on the Mac
@@ -7553,8 +7555,6 @@
 - [ChimeHQ/SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter) - Swift API for the tree-sitter incremental parsing system
 - [ChimeHQ/ChimeKit](https://github.com/ChimeHQ/ChimeKit) - Framework for building Chime extensions
 - [ChimeHQ/TextFormation](https://github.com/ChimeHQ/TextFormation) - Rules system for live typing completions
-- [okta/okta-mobile-swift](https://github.com/okta/okta-mobile-swift) - okta-mobile-swift
-- [okta/samples-ios](https://github.com/okta/samples-ios) - samples-ios
 - [mstfy/spm-to-xcframework](https://github.com/mstfy/spm-to-xcframework) - Compiles SPM packages to XCFrameworks
 - [WeTransfer/Mocker](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 - [hyperconnect/HypeUI](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
@@ -9006,6 +9006,13 @@
 
 ## TypeScript 
 
+- [robbie-cahill/tunnelmole-service](https://github.com/robbie-cahill/tunnelmole-service) - Give local web servers a public URL
+- [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
+- [ionic-team/ionic-cli](https://github.com/ionic-team/ionic-cli) - The Ionic command-line interface
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
+- [OfficeDev/generator-office](https://github.com/OfficeDev/generator-office) - Yeoman generator for building Microsoft Office related projects.
+- [ionic-team/native-run](https://github.com/ionic-team/native-run) - Utility for running native binaries on iOS and Android devices and simulators/emulators
+- [capacitor-community/electron](https://github.com/capacitor-community/electron) - Deploy your Capacitor apps to Linux, Mac, and Windows desktops, with the Electron platform! 🖥️
 - [ionic-team/trapeze](https://github.com/ionic-team/trapeze) - The mobile project configuration toolbox. Manage native iOS, Android, Ionic/Capacitor, React Native, and Flutter apps through a simple YAML format.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
