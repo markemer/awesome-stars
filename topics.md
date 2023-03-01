@@ -325,6 +325,7 @@
 
 ## android 
 
+- [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
 - [ionic-team/trapeze](https://github.com/ionic-team/trapeze) - The mobile project configuration toolbox. Manage native iOS, Android, Ionic/Capacitor, React Native, and Flutter apps through a simple YAML format.
 - [ionic-team/create-capacitor-plugin](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin ⚡️
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -581,6 +582,8 @@
 
 ## awesome 
 
+- [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) - An "awesome" list of Ionic resources
+- [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
 - [riderx/awesome-capacitor](https://github.com/riderx/awesome-capacitor) - 😎 Awesome lists of capacitor plugins.
 - [bertjiazheng/awesome-CAD](https://github.com/bertjiazheng/awesome-CAD) - 😎 A list of awesome Computer-Aided Design (CAD) papers
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
@@ -727,6 +730,8 @@
 
 ## awesome-list 
 
+- [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) - An "awesome" list of Ionic resources
+- [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
 - [riderx/awesome-capacitor](https://github.com/riderx/awesome-capacitor) - 😎 Awesome lists of capacitor plugins.
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
@@ -1235,6 +1240,7 @@
 
 ## cli 
 
+- [ionic-team/ionic-cli](https://github.com/ionic-team/ionic-cli) - The Ionic command-line interface
 - [alt-romes/programmer-calculator](https://github.com/alt-romes/programmer-calculator) - Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
@@ -2088,6 +2094,7 @@
 
 ## docker 
 
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -2266,6 +2273,7 @@
 
 ## electron 
 
+- [capacitor-community/electron](https://github.com/capacitor-community/electron) - Deploy your Capacitor apps to Linux, Mac, and Windows desktops, with the Electron platform! 🖥️
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [todbot/Blink1Control2](https://github.com/todbot/Blink1Control2) - Blink1Control GUI to control blink(1) USB RGB LED devices.
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
@@ -2745,6 +2753,7 @@
 
 ## github 
 
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
@@ -2815,6 +2824,7 @@
 
 ## go 
 
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
@@ -2984,6 +2994,7 @@
 
 ## golang 
 
+- [blacktop/go-apfs](https://github.com/blacktop/go-apfs) - APFS parser written in pure Go
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
@@ -3264,6 +3275,8 @@
 
 ## hacktoberfest 
 
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [nova-labs/watto](https://github.com/nova-labs/watto) - wautils2: Rails app for wautils.nova-labs.org
@@ -3796,7 +3809,6 @@
 
 ## image-processing 
 
-- [koher/swift-image](https://github.com/koher/swift-image) - SwiftImage: an image library in Swift with Swifty APIs and value semantics
 - [awesome-photogrammetry/awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - 😎 Awesome photogrammetry projects
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
@@ -3815,13 +3827,15 @@
 
 ## ios 
 
+- [googlemaps/google-maps-ios-utils](https://github.com/googlemaps/google-maps-ios-utils) - Google Maps SDK for iOS Utility Library
+- [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
 - [ionic-team/trapeze](https://github.com/ionic-team/trapeze) - The mobile project configuration toolbox. Manage native iOS, Android, Ionic/Capacitor, React Native, and Flutter apps through a simple YAML format.
 - [ionic-team/create-capacitor-plugin](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin ⚡️
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [GottaGetSwifty/SwiftyXMLKit](https://github.com/GottaGetSwifty/SwiftyXMLKit) - Tools for working with XML in Swift
 - [GottaGetSwifty/CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Async location streamer using new swift concurrency Async await CoreLocation services, location tracking, tracker
+- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Async location streamer using new swift concurrency Async await CoreLocation services, location tracking, tracker Detect a users location Gecoder, geocoding
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 - [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
 - [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
@@ -3833,7 +3847,6 @@
 - [DominikButz/SwiftUIGraphs](https://github.com/DominikButz/SwiftUIGraphs) - As replacement for SwiftUI Charts, SwiftUIGraphs features a multi-line chart, stacked bar chart and pie chart with many customisable properties.
 - [Swinject/Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift with iOS/macOS/Linux
 - [ChimeHQ/SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter) - Swift API for the tree-sitter incremental parsing system
-- [okta/okta-mobile-swift](https://github.com/okta/okta-mobile-swift) - okta-mobile-swift
 - [hyperconnect/HypeUI](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
 - [Sherlouk/swift-snapshot-testing-stitch](https://github.com/Sherlouk/swift-snapshot-testing-stitch) - Combine SnapshotTesting images into a single asset
@@ -4429,6 +4442,7 @@
 
 ## javascript 
 
+- [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) - An "awesome" list of Ionic resources
 - [ionic-team/create-capacitor-plugin](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin ⚡️
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -5045,7 +5059,6 @@
 
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!
@@ -5363,12 +5376,10 @@
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 - [DominikButz/SwiftUIGraphs](https://github.com/DominikButz/SwiftUIGraphs) - As replacement for SwiftUI Charts, SwiftUIGraphs features a multi-line chart, stacked bar chart and pie chart with many customisable properties.
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [freedmand/textra](https://github.com/freedmand/textra) - A command-line application to convert images, PDFs, and audio files to text using Apple's APIs
 - [ChimeHQ/SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter) - Swift API for the tree-sitter incremental parsing system
 - [ChimeHQ/ChimeKit](https://github.com/ChimeHQ/ChimeKit) - Framework for building Chime extensions
-- [okta/okta-mobile-swift](https://github.com/okta/okta-mobile-swift) - okta-mobile-swift
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
 - [geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac) - Collection of macOS automation tools for Ansible.
@@ -5709,6 +5720,8 @@
 
 ## markdown 
 
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [soulverteam/MarkdownPlusCalculator](https://github.com/soulverteam/MarkdownPlusCalculator) - Add an inline calculation feature to your markdown editor using SoulverCore
@@ -6131,6 +6144,7 @@
 
 ## objective-c 
 
+- [googlemaps/google-maps-ios-utils](https://github.com/googlemaps/google-maps-ios-utils) - Google Maps SDK for iOS Utility Library
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [efremidze/Animoji](https://github.com/efremidze/Animoji) - Animoji Generator 🦊
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
@@ -6249,7 +6263,6 @@
 
 ## open-source 
 
-- [ExpressionEngine/ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine) - ExpressionEngine is a flexible, feature-rich, free open-source content management platform that empowers hundreds of thousands of individuals and organizations around the world to easily manage their 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
 - [tio/tio](https://github.com/tio/tio) - A simple serial device I/O tool
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -6371,6 +6384,13 @@
 
 ## others 
 
+- [robbie-cahill/tunnelmole-service](https://github.com/robbie-cahill/tunnelmole-service) - Give local web servers a public URL
+- [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
+- [DHowett/go-plist](https://github.com/DHowett/go-plist) - A pure Go Apple Property List transcoder
+- [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) - 
+- [OfficeDev/generator-office](https://github.com/OfficeDev/generator-office) - Yeoman generator for building Microsoft Office related projects.
+- [ionic-team/native-run](https://github.com/ionic-team/native-run) - Utility for running native binaries on iOS and Android devices and simulators/emulators
+- [awslabs/staticwebsite-cli](https://github.com/awslabs/staticwebsite-cli) - 
 - [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
 - [zcutlip/prefsniff](https://github.com/zcutlip/prefsniff) - A utility to sniff preferences changes to macOS plist files
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
@@ -6463,23 +6483,19 @@
 - [aws/amazon-braket-default-simulator-python](https://github.com/aws/amazon-braket-default-simulator-python) - An implementation of a quantum simulator that you can run locally.
 - [gabriellanata/ViewThatFitsUIKit](https://github.com/gabriellanata/ViewThatFitsUIKit) - An exploration of ViewThatFits built in UIKit
 - [jgm/djot.js](https://github.com/jgm/djot.js) - JavaScript implementation of djot
-- [enerush/BMW-VIN-Decoder](https://github.com/enerush/BMW-VIN-Decoder) - Telegram bot for one-click BMW package decoding.
 - [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
 - [alpha22jp/atomic-chrome](https://github.com/alpha22jp/atomic-chrome) - Edit text area on Chrome with Emacs using Atomic Chrome
 - [ole/SwiftUI-Mac-Focus](https://github.com/ole/SwiftUI-Mac-Focus) - Test project for playing with focus, keyboard shortcuts, menu commands in SwiftUI on the Mac
-- [rpmartz/aoc-2022](https://github.com/rpmartz/aoc-2022) - 
 - [m-weigand/xournalpp_pn](https://github.com/m-weigand/xournalpp_pn) - Xournal++ modifications for the Pine64 Pinenote device
 - [perl-carton/carton](https://github.com/perl-carton/carton) - Bundler or pip freeze for Perl
 - [evilpete/flipper_toolbox](https://github.com/evilpete/flipper_toolbox) - Random scripts for generating Flipper data files.
 - [eez-open/modular-psu](https://github.com/eez-open/modular-psu) - EEZ Bench Box 3 (BB3) Modular T&M chassis
 - [DeterminateSystems/macos-ephemeral](https://github.com/DeterminateSystems/macos-ephemeral) - Scripts and instructions for making ephemeral macOS machines with Mosyle MDM support.
-- [okta/samples-ios](https://github.com/okta/samples-ios) - samples-ios
 - [alvarop/usb_c_cable_tester](https://github.com/alvarop/usb_c_cable_tester) - 
 - [github-developer/using-the-github-api-in-your-app](https://github.com/github-developer/using-the-github-api-in-your-app) - 
 - [mstfy/spm-to-xcframework](https://github.com/mstfy/spm-to-xcframework) - Compiles SPM packages to XCFrameworks
-- [teslamotors/liblithium](https://github.com/teslamotors/liblithium) - A lightweight and portable cryptography library.
 - [WeTransfer/Mocker](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 - [picolibc/picolibc](https://github.com/picolibc/picolibc) - picolibc - a C library designed for embedded 32- and 64- bit systems.
 - [lensvol/fl-time-keeper](https://github.com/lensvol/fl-time-keeper) - Display convenient reminder when Time the Healer comes in Fallen London.
@@ -6488,7 +6504,6 @@
 - [alexa/avs-device-sdk](https://github.com/alexa/avs-device-sdk) - An SDK for commercial device makers to integrate Alexa directly into connected products.
 - [cashapp/multiplatform-paging](https://github.com/cashapp/multiplatform-paging) - A library that packages AndroidX Paging for Kotlin/Multiplatform.
 - [onyx-intl/OnyxAndroidDemo](https://github.com/onyx-intl/OnyxAndroidDemo) - 
-- [actions/importer-labs](https://github.com/actions/importer-labs) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [CRImier/NGFF](https://github.com/CRImier/NGFF) - M.2 NGFF接口标准
 - [CRImier/KeyboardWhiz](https://github.com/CRImier/KeyboardWhiz) - A laptop keyboard reverse-engineering helper
 - [CRImier/MyKiCad](https://github.com/CRImier/MyKiCad) - My KiCad boards. Can't be bothered uploading individually anymore, so here you go.
@@ -6515,7 +6530,6 @@
 - [DataDog/datadog-api-client-go](https://github.com/DataDog/datadog-api-client-go) - Golang client for the Datadog API
 - [DataDog/datadog-api-client-ruby](https://github.com/DataDog/datadog-api-client-ruby) - 
 - [nicholasdower/sqlui](https://github.com/nicholasdower/sqlui) - A web app which can be used to query one or more SQL databases.
-- [soulcharmer/gog_bloodlines_cz](https://github.com/soulcharmer/gog_bloodlines_cz) - Czech translation for the GOG version of "Vampire: The Masquerade – Bloodlines"
 - [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) - Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
 - [GEOSwift/GEOSwift](https://github.com/GEOSwift/GEOSwift) - The Swift Geometry Engine.
 - [YuzukiHD/YuzukiLOHCC-PRO](https://github.com/YuzukiHD/YuzukiLOHCC-PRO) - Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 & MS9332
@@ -6698,7 +6712,7 @@
 - [kkaempf/ruida](https://github.com/kkaempf/ruida) - Decoder and tooling for the RDWorks .rd file format
 - [fadden/6502bench](https://github.com/fadden/6502bench) - A workbench for developing 6502 code
 - [dfskoll/remind](https://github.com/dfskoll/remind) - The Remind calendar program
-- [apple/ml-fct](https://github.com/apple/ml-fct) - Research publication code for "Forward Compatible Training for Large-Scale Embedding Retrieval Systems", CVPR 2022.
+- [apple/ml-fct](https://github.com/apple/ml-fct) - Research publication code for "Forward Compatible Training for Large-Scale Embedding Retrieval Systems", CVPR 2022, and "FastFill: Efficient Compatible Model Update", ICLR 2023
 - [sparkfunX/Satellite_Transceiver_Breakout__Swarm_M138](https://github.com/sparkfunX/Satellite_Transceiver_Breakout__Swarm_M138) - Satellite Transceiver Breakout - Swarm M138
 - [FrameworkComputer/ExpansionCards](https://github.com/FrameworkComputer/ExpansionCards) - Reference designs and documentation to create Expansion Cards for the Framework Laptop
 - [madzen/LazarusTools](https://github.com/madzen/LazarusTools) - Toolkit for the game Vampire The Masquerade: Bloodlines
@@ -11692,7 +11706,6 @@
 
 ## php 
 
-- [ExpressionEngine/ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine) - ExpressionEngine is a flexible, feature-rich, free open-source content management platform that empowers hundreds of thousands of individuals and organizations around the world to easily manage their 
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate. It's like building any other WordPress website with themes and plugins. Just with sprinkles on top.
@@ -11818,6 +11831,7 @@
 
 ## pwa 
 
+- [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
 - [ionic-team/create-capacitor-plugin](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin ⚡️
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -11841,7 +11855,7 @@
 - [cxnder/ktool](https://github.com/cxnder/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 - [DataDog/datadog-api-client-python](https://github.com/DataDog/datadog-api-client-python) - Python client for the Datadog API
 - [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
-- [Sulstice/global-chem](https://github.com/Sulstice/global-chem) - A General Public Dictionary of Common Chemical Names to their Molecular Definition
+- [Global-Chem/global-chem](https://github.com/Global-Chem/global-chem) - A General Public Dictionary of Common Chemical Names to their Molecular Definition
 - [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -12313,6 +12327,8 @@
 
 ## react 
 
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -12824,7 +12840,7 @@
 - [kaitai-io/kaitai_struct_compiler](https://github.com/kaitai-io/kaitai_struct_compiler) - Kaitai Struct: compiler to translate .ksy =&gt; .cpp / .cs / .dot / .go / .java / .js / .lua / .nim / .php / .pm / .py / .rb
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [chipsalliance/rocket-chip](https://github.com/chipsalliance/rocket-chip) - Rocket Chip Generator
-- [chipsalliance/chisel3](https://github.com/chipsalliance/chisel3) - Chisel 3: A Modern Hardware Design Language
+- [chipsalliance/chisel](https://github.com/chipsalliance/chisel) - Chisel: A Modern Hardware Design Language
 - [scala/scala](https://github.com/scala/scala) - Scala 2 compiler and standard library. For bugs, see scala/bug
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [apache/predictionio](https://github.com/apache/predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
@@ -13201,12 +13217,14 @@
 
 ## swift 
 
+- [googlemaps/google-maps-ios-utils](https://github.com/googlemaps/google-maps-ios-utils) - Google Maps SDK for iOS Utility Library
+- [pointfreeco/swift-tagged](https://github.com/pointfreeco/swift-tagged) - 🏷 A wrapper type for safer, expressive code.
 - [ionic-team/create-capacitor-plugin](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin ⚡️
 - [GottaGetSwifty/SwiftyXMLKit](https://github.com/GottaGetSwifty/SwiftyXMLKit) - Tools for working with XML in Swift
 - [GottaGetSwifty/CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy
 - [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Async location streamer using new swift concurrency Async await CoreLocation services, location tracking, tracker
+- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Async location streamer using new swift concurrency Async await CoreLocation services, location tracking, tracker Detect a users location Gecoder, geocoding
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 - [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
 - [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
@@ -13218,7 +13236,6 @@
 - [devxoul/Toaster](https://github.com/devxoul/Toaster) - 🍞 Toast for Swift
 - [anupamchugh/iowncode](https://github.com/anupamchugh/iowncode) - A curated collection of iOS, ML, AR resources sprinkled with some UI additions
 - [DominikButz/SwiftUIGraphs](https://github.com/DominikButz/SwiftUIGraphs) - As replacement for SwiftUI Charts, SwiftUIGraphs features a multi-line chart, stacked bar chart and pie chart with many customisable properties.
-- [koher/swift-image](https://github.com/koher/swift-image) - SwiftImage: an image library in Swift with Swifty APIs and value semantics
 - [Swinject/Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift with iOS/macOS/Linux
 - [ChimeHQ/SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter) - Swift API for the tree-sitter incremental parsing system
 - [ChimeHQ/ChimeKit](https://github.com/ChimeHQ/ChimeKit) - Framework for building Chime extensions
@@ -13967,7 +13984,7 @@
 
 ## swiftui 
 
-- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Async location streamer using new swift concurrency Async await CoreLocation services, location tracking, tracker
+- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Async location streamer using new swift concurrency Async await CoreLocation services, location tracking, tracker Detect a users location Gecoder, geocoding
 - [V8tr/AsyncImage](https://github.com/V8tr/AsyncImage) - Asynchronous Image Loading from URL in SwiftUI
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
@@ -14454,6 +14471,7 @@
 
 ## web 
 
+- [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
@@ -14536,7 +14554,6 @@
 ## windows 
 
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!
@@ -14629,6 +14646,7 @@
 
 ## wordpress 
 
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [vinkla/extended-acf](https://github.com/vinkla/extended-acf) - Register advanced custom fields with object oriented PHP
 - [outlandishideas/wpackagist](https://github.com/outlandishideas/wpackagist) - WordPress Packagist — manage your plugins with Composer
