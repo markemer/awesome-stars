@@ -233,6 +233,7 @@
 - [visual-basic](#visual-basic)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [wagtail](#wagtail)
 - [web](#web)
 - [web-components](#web-components)
@@ -866,6 +867,7 @@
 - [mludvig/aws-ssm-tools](https://github.com/mludvig/aws-ssm-tools) - Handy tools for AWS Systems Manager - ssm-session, ecs-session, ssm-ssh and ssm-tunnel
 - [cdklabs/cdk-monitoring-constructs](https://github.com/cdklabs/cdk-monitoring-constructs) - Easy-to-use CDK constructs for monitoring your AWS infrastructure
 - [multycloud/multy](https://github.com/multycloud/multy) - Multy - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds
+- [amazonlinux/amazon-linux-2023](https://github.com/amazonlinux/amazon-linux-2023) - Amazon Linux 2023
 - [dumrauf/serverless_static_website_with_basic_auth](https://github.com/dumrauf/serverless_static_website_with_basic_auth) - Builds a serverless infrastructure in AWS for hosting a static website protected with Basic Authentication and published on a subdomain registered via Route 53
 - [jetpack-io/envsec](https://github.com/jetpack-io/envsec) - Securely store environment variables and secrets in the cloud of your choice.
 - [kalaiser/awesome-cdk](https://github.com/kalaiser/awesome-cdk) - A collection of awesome things related to the AWS Cloud Development Kit (CDK)
@@ -2273,6 +2275,7 @@
 
 ## electron 
 
+- [electron/electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [capacitor-community/electron](https://github.com/capacitor-community/electron) - Deploy your Capacitor apps to Linux, Mac, and Windows desktops, with the Electron platform! 🖥️
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [todbot/Blink1Control2](https://github.com/todbot/Blink1Control2) - Blink1Control GUI to control blink(1) USB RGB LED devices.
@@ -2523,6 +2526,7 @@
 
 ## framework 
 
+- [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [touchlab/KMMBridge](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.  See https://touchlab.github.io/KMMBridge/intro/ to
@@ -3275,6 +3279,8 @@
 
 ## hacktoberfest 
 
+- [electron/electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
+- [rizinorg/jsdec](https://github.com/rizinorg/jsdec) - Simple decompiler for Rizin
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
@@ -4442,6 +4448,9 @@
 
 ## javascript 
 
+- [electron/electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
+- [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) - An "awesome" list of Ionic resources
 - [ionic-team/create-capacitor-plugin](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin ⚡️
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
@@ -5064,6 +5073,7 @@
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [amazonlinux/amazon-linux-2023](https://github.com/amazonlinux/amazon-linux-2023) - Amazon Linux 2023
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [mapbox/mapbox-directions-swift](https://github.com/mapbox/mapbox-directions-swift) - Traffic-aware directions and map matching in Swift on iOS, macOS, tvOS, watchOS, and Linux
 - [tio/tio](https://github.com/tio/tio) - A simple serial device I/O tool
@@ -5369,6 +5379,7 @@
 
 ## macos 
 
+- [sindresorhus/DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon
 - [sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer) - OSX Optimizer: Optimize MacOS - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
 - [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [ChimeHQ/UITestingPlus](https://github.com/ChimeHQ/UITestingPlus) - Utilities for working with XCUI testing
@@ -6016,6 +6027,7 @@
 
 ## node 
 
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -6035,6 +6047,7 @@
 
 ## nodejs 
 
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
@@ -6384,6 +6397,14 @@
 
 ## others 
 
+- [common-fate/granted-containers](https://github.com/common-fate/granted-containers) - Firefox containers extension for Granted
+- [ncrawforth/VT2040](https://github.com/ncrawforth/VT2040) - Portable serial terminal, based on an RP2040 with a Gherkin keyboard and an ILI9488 screen
+- [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
+- [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
+- [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+- [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS and tvOS.
+- [rsms/llvmbox](https://github.com/rsms/llvmbox) - Self contained, fully static llvm tools & libs
+- [AcademySoftwareFoundation/MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) - MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.
 - [robbie-cahill/tunnelmole-service](https://github.com/robbie-cahill/tunnelmole-service) - Give local web servers a public URL
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [DHowett/go-plist](https://github.com/DHowett/go-plist) - A pure Go Apple Property List transcoder
@@ -6599,7 +6620,6 @@
 - [xcesco/ic_launcher_exporter](https://github.com/xcesco/ic_launcher_exporter) - Script for Photoshop to create directly from a PSD file the collection of ic_launcher necessary for android applications developed by eclipse or android studio IDE.
 - [OpenRTX/OpenRTX-external-docs](https://github.com/OpenRTX/OpenRTX-external-docs) - 
 - [apple/swift-book](https://github.com/apple/swift-book) - The Swift Programming Language book
-- [amazonlinux/amazon-linux-2023](https://github.com/amazonlinux/amazon-linux-2023) - Amazon Linux 2023
 - [aws-samples/automated-iam-access-analyzer](https://github.com/aws-samples/automated-iam-access-analyzer) - 
 - [MrLordBrown/remind-mode](https://github.com/MrLordBrown/remind-mode) - EMACS Major-Mode for Editing Remind Files
 - [ME3Tweaks/CrossGenV](https://github.com/ME3Tweaks/CrossGenV) - Builds the Pinnacle Station DLC for Mass Effect Legendary Edition
@@ -6703,7 +6723,7 @@
 - [OpenEVSE/OpenEVSE_PLUS](https://github.com/OpenEVSE/OpenEVSE_PLUS) - OpenEVSE Hardware
 - [SolderedElectronics/Inkplate-GUI-Designer](https://github.com/SolderedElectronics/Inkplate-GUI-Designer) - Web app to easily design user interface for Inkplate boards.
 - [corin8823/Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift.
-- [rakutentech/macos-push-tester](https://github.com/rakutentech/macos-push-tester) - Native mac app for easily sending Apple APNs push messages to iOS apps
+- [rakutentech/macos-push-tester](https://github.com/rakutentech/macos-push-tester) - Native mac app for easily sending Apple APNs push messages to iOS apps and FCM push messages to Android apps
 - [atrblizzard/VAMPTools](https://github.com/atrblizzard/VAMPTools) - Vampire the Masquerade: Bloodlines model and texture converter
 - [WerWolv/Decompiler](https://github.com/WerWolv/Decompiler) - A WIP disassember and decompiler written in modern C++ with the goal to do as much work during compile time as possible
 - [snyk/dep-graph](https://github.com/snyk/dep-graph) - Represents a dependency graph
@@ -9321,7 +9341,7 @@
 - [micromdm/dep](https://github.com/micromdm/dep) - DEP client library for Go
 - [macadmininfo/macadmininfo.github.io](https://github.com/macadmininfo/macadmininfo.github.io) - Resources for both beginning and experienced administrators of Mac/Apple technology.
 - [Nekotekina/rpcs3](https://github.com/Nekotekina/rpcs3) - PS3 emulator/debugger
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [coderhs/ruby_open_weather_map](https://github.com/coderhs/ruby_open_weather_map) - A ruby wrapper for open weather map
 - [topfunky/gruff](https://github.com/topfunky/gruff) - Gruff graphing library for Ruby
 - [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module
@@ -10667,8 +10687,6 @@
 - [evernote/evernote-oauth-ruby](https://github.com/evernote/evernote-oauth-ruby) - Evernote OAuth / Thrift API client library for Ruby
 - [evernote/evernote-sdk-python3](https://github.com/evernote/evernote-sdk-python3) - Testing the Evernote Cloud API for Python 3
 - [evernote/evernote-sdk-ios](https://github.com/evernote/evernote-sdk-ios) - Evernote SDK for iOS
-- [evernote/optconfig](https://github.com/evernote/optconfig) - Standardized approach to command-line options, configuration files
-- [evernote/ios8-share-extension-demo](https://github.com/evernote/ios8-share-extension-demo) - A simple demo/testing application to see how iOS8 Evernote share extension works
 - [evernote/evernote-cloud-sdk-ios](https://github.com/evernote/evernote-cloud-sdk-ios) - Evernote Cloud SDK for iOS
 - [evernote/evernote-sdk-mac](https://github.com/evernote/evernote-sdk-mac) - Evernote SDK for Cocoa
 - [twilio/OpenVBX](https://github.com/twilio/OpenVBX) - OpenVBX is a web-based open source phone system for business.
@@ -12468,6 +12486,7 @@
 
 ## reverse-engineering 
 
+- [rizinorg/jsdec](https://github.com/rizinorg/jsdec) - Simple decompiler for Rizin
 - [alexbatalov/fallout1-re](https://github.com/alexbatalov/fallout1-re) - Reverse engineered Fallout
 - [cxnder/ktool](https://github.com/cxnder/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
@@ -12657,6 +12676,7 @@
 
 ## rust 
 
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust
 - [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
@@ -12764,7 +12784,7 @@
 - [gimli-rs/gimli](https://github.com/gimli-rs/gimli) - A library for reading and writing the DWARF debugging format
 - [google/OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [spieglt/nestur](https://github.com/spieglt/nestur) - The NES (emulator) you left outside in the rain but let dry and still kind of works
-- [rtic-rs/cortex-m-rtic](https://github.com/rtic-rs/cortex-m-rtic) - Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers
+- [rtic-rs/rtic](https://github.com/rtic-rs/rtic) - Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [samuela/rustybox](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust 🦀
@@ -13217,6 +13237,10 @@
 
 ## swift 
 
+- [apple/swift-certificates](https://github.com/apple/swift-certificates) - An implementation of X.509 for Swift
+- [apple/swift-asn1](https://github.com/apple/swift-asn1) - An implementation of ASN.1 for Swift
+- [sindresorhus/DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon
+- [orlandos-nl/Citadel](https://github.com/orlandos-nl/Citadel) - SSH Client & Server in Swift
 - [googlemaps/google-maps-ios-utils](https://github.com/googlemaps/google-maps-ios-utils) - Google Maps SDK for iOS Utility Library
 - [pointfreeco/swift-tagged](https://github.com/pointfreeco/swift-tagged) - 🏷 A wrapper type for safer, expressive code.
 - [ionic-team/create-capacitor-plugin](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin ⚡️
@@ -14306,6 +14330,7 @@
 
 ## typescript 
 
+- [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -14463,6 +14488,15 @@
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+
+## vuejs 
+
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [roboncode/shorty-go](https://github.com/roboncode/shorty-go) - Microservice that shortens urls like bit.ly written in Go
+- [henripal/labnotebook](https://github.com/henripal/labnotebook) - LabNotebook is a tool that allows you to flexibly monitor, record, save, and query all your machine learning experiments.
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 
 ## wagtail 
 
