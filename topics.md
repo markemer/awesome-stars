@@ -233,7 +233,6 @@
 - [visual-basic](#visual-basic)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
-- [vuejs](#vuejs)
 - [wagtail](#wagtail)
 - [web](#web)
 - [web-components](#web-components)
@@ -1048,6 +1047,7 @@
 
 ## c 
 
+- [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine
 - [lepton-eda/lepton-eda](https://github.com/lepton-eda/lepton-eda) - GPL Electronic Design Automation
 - [alt-romes/programmer-calculator](https://github.com/alt-romes/programmer-calculator) - Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits
 - [alexbatalov/fallout1-re](https://github.com/alexbatalov/fallout1-re) - Reverse engineered Fallout
@@ -2357,6 +2357,7 @@
 
 ## emulator 
 
+- [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 - [visrealm/hbc-56](https://github.com/visrealm/hbc-56) - Homebrew 6502 on a backplane computer
@@ -3833,6 +3834,7 @@
 
 ## ios 
 
+- [jessesquires/Foil](https://github.com/jessesquires/Foil) - A lightweight property wrapper for UserDefaults done right
 - [googlemaps/google-maps-ios-utils](https://github.com/googlemaps/google-maps-ios-utils) - Google Maps SDK for iOS Utility Library
 - [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
 - [ionic-team/trapeze](https://github.com/ionic-team/trapeze) - The mobile project configuration toolbox. Manage native iOS, Android, Ionic/Capacitor, React Native, and Flutter apps through a simple YAML format.
@@ -4818,7 +4820,7 @@
 - [pkmital/CADL](https://github.com/pkmital/CADL) - ARCHIVED: Contains historical course materials/Homework materials for the FREE MOOC course on "Creative Applications of Deep Learning w/ Tensorflow" #CADL
 - [Dyalog/dyalog-jupyter-notebooks](https://github.com/Dyalog/dyalog-jupyter-notebooks) - Jupyter notebooks for Dyalog APL
 - [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
-- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
+- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
 - [Jupyter-contrib/jupyter_nbextensions_configurator](https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator) - A jupyter notebook serverextension providing config interfaces for nbextensions.
 - [tuxu/nbviewer-app](https://github.com/tuxu/nbviewer-app) - A Jupyter notebook viewer for macOS
 - [sachinruk/deepschool.io](https://github.com/sachinruk/deepschool.io) - Deep Learning tutorials in jupyter notebooks.
@@ -5066,6 +5068,7 @@
 
 ## linux 
 
+- [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
@@ -5379,6 +5382,7 @@
 
 ## macos 
 
+- [jessesquires/Foil](https://github.com/jessesquires/Foil) - A lightweight property wrapper for UserDefaults done right
 - [sindresorhus/DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon
 - [sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer) - OSX Optimizer: Optimize MacOS - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
 - [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
@@ -6397,6 +6401,7 @@
 
 ## others 
 
+- [tailscale/libtailscale](https://github.com/tailscale/libtailscale) - Tailscale C library
 - [common-fate/granted-containers](https://github.com/common-fate/granted-containers) - Firefox containers extension for Granted
 - [ncrawforth/VT2040](https://github.com/ncrawforth/VT2040) - Portable serial terminal, based on an RP2040 with a Gherkin keyboard and an ILI9488 screen
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
@@ -9668,7 +9673,6 @@
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [translate/virtaal](https://github.com/translate/virtaal) - Easy-to-use and powerful offline translation tool
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
-- [meghaphone/DailyMemories](https://github.com/meghaphone/DailyMemories) - Swift workshop sample app
 - [mapnificent/mapnificent](https://github.com/mapnificent/mapnificent) - Mapnificent shows you areas you can reach with public transport in a given time.
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [andrew-templeton/bottie](https://github.com/andrew-templeton/bottie) - Simple BotKit bot with NLP
@@ -12017,7 +12021,7 @@
 - [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
 - [m-labs/artiq](https://github.com/m-labs/artiq) - A leading-edge control system for quantum information experiments
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
+- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
 - [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [alexa/alexa-skills-kit-sdk-for-python](https://github.com/alexa/alexa-skills-kit-sdk-for-python) - The Alexa Skills Kit SDK for Python helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
@@ -13237,6 +13241,7 @@
 
 ## swift 
 
+- [jessesquires/Foil](https://github.com/jessesquires/Foil) - A lightweight property wrapper for UserDefaults done right
 - [apple/swift-certificates](https://github.com/apple/swift-certificates) - An implementation of X.509 for Swift
 - [apple/swift-asn1](https://github.com/apple/swift-asn1) - An implementation of ASN.1 for Swift
 - [sindresorhus/DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon
@@ -14488,15 +14493,6 @@
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-
-## vuejs 
-
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [roboncode/shorty-go](https://github.com/roboncode/shorty-go) - Microservice that shortens urls like bit.ly written in Go
-- [henripal/labnotebook](https://github.com/henripal/labnotebook) - LabNotebook is a tool that allows you to flexibly monitor, record, save, and query all your machine learning experiments.
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
-- [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 
 ## wagtail 
 
