@@ -3138,6 +3138,7 @@
 - [1backend/1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [coyove/goflyway](https://github.com/coyove/goflyway) - An encrypted HTTP server
+- [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - [curiouslychase/goorgeous](https://github.com/curiouslychase/goorgeous) - [DEPRECATED] A go org syntax parser to html
 - [discord/lilliput](https://github.com/discord/lilliput) - Resize images and animated GIFs in Go
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
@@ -3288,6 +3289,7 @@
 
 ## hacktoberfest 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [electron/electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [rizinorg/jsdec](https://github.com/rizinorg/jsdec) - Simple decompiler for Rizin
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -5022,6 +5024,7 @@
 
 ## library 
 
+- [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [Embroidermodder/libembroidery](https://github.com/Embroidermodder/libembroidery) - Library for reading/writing/manipulating machine and design embroidery files
 - [gogitdb/gitdb](https://github.com/gogitdb/gitdb) - Distributed Embeddable Database
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
@@ -5086,6 +5089,7 @@
 
 ## linux 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -6457,6 +6461,7 @@
 
 ## others 
 
+- [TypeCellOS/TypeCell](https://github.com/TypeCellOS/TypeCell) - 
 - [ammaraskar/sphinx-action](https://github.com/ammaraskar/sphinx-action) - Github action that builds docs using sphinx and places errors inline
 - [tailscale/libtailscale](https://github.com/tailscale/libtailscale) - Tailscale C library
 - [common-fate/granted-containers](https://github.com/common-fate/granted-containers) - Firefox containers extension for Granted
@@ -12544,6 +12549,7 @@
 
 ## reverse-engineering 
 
+- [fugue-re/fugue-core](https://github.com/fugue-re/fugue-core) - A binary analysis framework written in Rust.
 - [rizinorg/jsdec](https://github.com/rizinorg/jsdec) - Simple decompiler for Rizin
 - [alexbatalov/fallout1-re](https://github.com/alexbatalov/fallout1-re) - Reverse engineered Fallout
 - [cxnder/ktool](https://github.com/cxnder/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
@@ -13295,6 +13301,7 @@
 
 ## swift 
 
+- [patrickfreed/swiftly](https://github.com/patrickfreed/swiftly) - A Swift toolchain installer and manager, written in Swift.
 - [heestand-xyz/AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) - Edit images and video with async / await in Swift, powered by Metal.
 - [googlemaps/maps-sdk-for-ios-samples](https://github.com/googlemaps/maps-sdk-for-ios-samples) - Samples for the Google Maps and Places SDKs for iOS
 - [jessesquires/Foil](https://github.com/jessesquires/Foil) - A lightweight property wrapper for UserDefaults done right
