@@ -1781,6 +1781,7 @@
 
 ## CMake 
 
+- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - 
 - [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) - 
 - [lifting-bits/sleigh](https://github.com/lifting-bits/sleigh) - Unofficial CMake build for Ghidra SLEIGH
 - [KiCad/kicad-packages3D](https://github.com/KiCad/kicad-packages3D) - Official KiCad 3D model libraries for rendering and MCAD integration
@@ -2095,6 +2096,7 @@
 
 ## Go 
 
+- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
 - [mohammed90/caddy-ngrok-listener](https://github.com/mohammed90/caddy-ngrok-listener) - Caddy listener_wrapper to automatically listen on an ngrok tunnel
 - [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go) - Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
 - [blacktop/go-apfs](https://github.com/blacktop/go-apfs) - APFS parser written in pure Go
@@ -3059,7 +3061,6 @@
 
 ## JavaScript 
 
-- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
 - [electron/electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -5631,7 +5632,6 @@
 - [apple/ml-fct](https://github.com/apple/ml-fct) - Research publication code for "Forward Compatible Training for Large-Scale Embedding Retrieval Systems", CVPR 2022, and "FastFill: Efficient Compatible Model Update", ICLR 2023
 - [dropbox/dropbox-sdk-python](https://github.com/dropbox/dropbox-sdk-python) - The Official Dropbox API V2 SDK for Python
 - [madzen/LazarusTools](https://github.com/madzen/LazarusTools) - Toolkit for the game Vampire The Masquerade: Bloodlines
-- [miracleflame/VTMB-Unofficial-Patch-by-Wesp](https://github.com/miracleflame/VTMB-Unofficial-Patch-by-Wesp) - Supporting Git project Unofficial Patch made by Wesp for the game Vampire the masquerade: Bloodlines
 - [RoboticsNut/IBM-6094-DIALS](https://github.com/RoboticsNut/IBM-6094-DIALS) - PYTHON IBM Dials interface
 - [aolofsson/awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware) - List of awesome open source hardware tools, generators, and reusable designs
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
@@ -6915,7 +6915,7 @@
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
-- [awslabs/staticwebsite-cli](https://github.com/awslabs/staticwebsite-cli) - 
+- [awslabs/staticwebsite-cli](https://github.com/awslabs/staticwebsite-cli) - Quickly and easily host a static website on AWS.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [DSchroer/dslcad](https://github.com/DSchroer/dslcad) - DSLCad is a programming language & interpreter for building 3D models.
@@ -7637,7 +7637,7 @@
 - [rensbreur/SwiftTUI](https://github.com/rensbreur/SwiftTUI) - SwiftUI for terminal applications
 - [daneden/Twift](https://github.com/daneden/Twift) - 🐦 An async Swift library for the Twitter v2 API 🚧 WIP
 - [apple/swift-llvm-bindings](https://github.com/apple/swift-llvm-bindings) - Swift Bindings for LLVM Project APIs
-- [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your next meeting always before your eyes in the macOS menu bar
+- [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar
 - [jhonatn/SwiftSafeURL](https://github.com/jhonatn/SwiftSafeURL) - Compile-time-checked URLs
 - [mapbox/mapbox-directions-swift](https://github.com/mapbox/mapbox-directions-swift) - Traffic-aware directions and map matching in Swift on iOS, macOS, tvOS, watchOS, and Linux
 - [mapbox/MapboxStatic.swift](https://github.com/mapbox/MapboxStatic.swift) - Static map snapshots with overlays in Swift or Objective-C on iOS, macOS, tvOS, and watchOS
