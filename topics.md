@@ -28,7 +28,6 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
-- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -1195,10 +1194,6 @@
 - [ROSS-org/ROSS](https://github.com/ROSS-org/ROSS) - Rensselaer's Optimistic Simulation System
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
-
-## chatgpt 
-
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 
 ## chrome 
 
