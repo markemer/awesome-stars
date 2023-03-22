@@ -28,6 +28,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -434,7 +435,7 @@
 ## api 
 
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [serhii-londar/GithubAPI](https://github.com/serhii-londar/GithubAPI) - Swift implementation of Github REST API v3
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
@@ -1195,6 +1196,10 @@
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 
+## chatgpt 
+
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+
 ## chrome 
 
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -1293,7 +1298,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [io12/unf](https://github.com/io12/unf) - UNixize Filename -- replace annoying anti-unix characters in filenames
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
@@ -1497,7 +1502,7 @@
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [llvm-swift/LLVMSwift](https://github.com/llvm-swift/LLVMSwift) - A Swift wrapper for the LLVM C API (version 11.0)
-- [asmjit/asmjit](https://github.com/asmjit/asmjit) - Machine code generation for C++
+- [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
 - [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
@@ -1640,7 +1645,7 @@
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [pfultz2/cmake-get](https://github.com/pfultz2/cmake-get) - Get dependencies with cmake
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby
-- [asmjit/asmjit](https://github.com/asmjit/asmjit) - Machine code generation for C++
+- [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
 - [realm/realm-core](https://github.com/realm/realm-core) - Core database component for the Realm Mobile Database SDKs
 - [aws/aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) - AWS SDK for C++
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
@@ -1983,7 +1988,7 @@
 - [xmartlabs/Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
 - [DwangoMediaVillage/keras_compressor](https://github.com/DwangoMediaVillage/keras_compressor) - Model Compression CLI Tool for Keras.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
-- [oracle/Skater](https://github.com/oracle/Skater) - Python Library for Model Interpretation/Explanations
+- [oracle/skater](https://github.com/oracle/skater) - Python Library for Model Interpretation/Explanations
 - [hollance/Forge](https://github.com/hollance/Forge) - A neural network toolkit for Metal
 - [ScottfreeLLC/AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning [AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost
 - [facebookarchive/caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
@@ -2429,7 +2434,7 @@
 
 ## express 
 
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [sonyseng/json-caching-proxy](https://github.com/sonyseng/json-caching-proxy) - Node caching HTTP proxy built on top of express-http-proxy. Persists requests and responses to an in-memory HAR-like data structure based on HAR1.2 . Caches JSON content-type responses by default with
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
@@ -2551,7 +2556,7 @@
 - [qilingframework/qiling](https://github.com/qilingframework/qiling) - A True Instrumentable Binary Emulation Framework
 - [intel/rohd](https://github.com/intel/rohd) - The Rapid Open Hardware Development (ROHD) framework is a framework for describing and verifying hardware in the Dart programming language. ROHD enables you to build and traverse a graph of connectivi
 - [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
 - [umerjabbar/ContextMenuSwift](https://github.com/umerjabbar/ContextMenuSwift) - A better version of iOS 13 Context Menu
 - [1024jp/GzipSwift](https://github.com/1024jp/GzipSwift) - Swift framework that enables gzip/gunzip Data using zlib
@@ -2613,7 +2618,7 @@
 - [rails/webpacker](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 
 ## game 
 
@@ -3237,7 +3242,7 @@
 
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring Integration for GraphQL
 - [maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL client that lets you forget about GraphQL.
@@ -3332,7 +3337,6 @@
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [horsicq/XMachOViewer](https://github.com/horsicq/XMachOViewer) - XMachOViewer is a Mach-O viewer for Windows, Linux and MacOS
 - [Foso/Ktorfit](https://github.com/Foso/Ktorfit) - HTTP client generator / KSP plugin for Kotlin Multiplatform (Android,Js, Jvm , Native, iOS) using KSP and Ktor clients inspired by Retrofit https://foso.github.io/Ktorfit
 - [Perl/perl5](https://github.com/Perl/perl5) - 🐫 The Perl programming language
@@ -3869,6 +3873,7 @@
 
 ## ios 
 
+- [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 - [Ekhoo/Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 - [jessesquires/Foil](https://github.com/jessesquires/Foil) - A lightweight property wrapper for UserDefaults done right
 - [googlemaps/google-maps-ios-utils](https://github.com/googlemaps/google-maps-ios-utils) - Google Maps SDK for iOS Utility Library
@@ -3879,7 +3884,7 @@
 - [GottaGetSwifty/SwiftyXMLKit](https://github.com/GottaGetSwifty/SwiftyXMLKit) - Tools for working with XML in Swift
 - [GottaGetSwifty/CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Swift corelocation async streamer using new concurrency Async await Corelocation Location Tracker
+- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Corelocation swift async await streamer using new concurrency async await Corelocation swift tracker geolocation and geocoding swift MapKit example address decoder Corelocation based service in swift
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 - [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
 - [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
@@ -4505,7 +4510,7 @@
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [MarketingPipeline/Markdown-Tag](https://github.com/MarketingPipeline/Markdown-Tag) - Render Markdown to HTML on any website using a md tag
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
@@ -4699,7 +4704,7 @@
 - [angular/material](https://github.com/angular/material) - Material design for AngularJS
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [JXA-Cookbook/JXA-Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
@@ -5095,7 +5100,7 @@
 - [lpereira/lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server
 - [realm/realm-core](https://github.com/realm/realm-core) - Core database component for the Realm Mobile Database SDKs
 - [takuoka/TKSubmitTransition](https://github.com/takuoka/TKSubmitTransition) - Animated UIButton of Loading Animation and Transition Animation. Inspired by  https://dribbble.com/shots/1945593-Login-Home-Screen
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar) - A fully customizable iOS calendar library, compatible with Objective-C and Swift
 - [Ramotion/animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
 - [Ramotion/adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar) - :octocat: AdaptiveController is a 'Progressive Reduction' Swift UI module for adding custom states to Native or Custom iOS UI elements. Swift UI component by @Ramotion
@@ -5439,7 +5444,7 @@
 - [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [DwangoMediaVillage/keras_compressor](https://github.com/DwangoMediaVillage/keras_compressor) - Model Compression CLI Tool for Keras.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
-- [oracle/Skater](https://github.com/oracle/Skater) - Python Library for Model Interpretation/Explanations
+- [oracle/skater](https://github.com/oracle/skater) - Python Library for Model Interpretation/Explanations
 - [hollance/Forge](https://github.com/hollance/Forge) - A neural network toolkit for Metal
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [ScottfreeLLC/AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning [AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost
@@ -5555,7 +5560,7 @@
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [CoreOffice/CoreXLSX](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format parser written in pure Swift
 - [billp/TermiNetwork](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
-- [sindresorhus/Preferences](https://github.com/sindresorhus/Preferences) - ⚙ Add a settings window to your macOS app in minutes
+- [sindresorhus/Settings](https://github.com/sindresorhus/Settings) - ⚙ Add a settings window to your macOS app in minutes
 - [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 - [maustinstar/swiftui-drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
@@ -5954,7 +5959,7 @@
 
 ## mongodb 
 
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [roboncode/shorty-go](https://github.com/roboncode/shorty-go) - Microservice that shortens urls like bit.ly written in Go
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
@@ -6133,7 +6138,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13.
@@ -6359,7 +6364,7 @@
 
 ## open-source 
 
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [tio/tio](https://github.com/tio/tio) - A simple serial device I/O tool
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -6481,6 +6486,12 @@
 
 ## others 
 
+- [ZipCPU/wbsata](https://github.com/ZipCPU/wbsata) - Wishbone SATA Controller
+- [ZipCPU/eth10g](https://github.com/ZipCPU/eth10g) - 10Gb Ethernet Switch
+- [openhwgroup/cvw](https://github.com/openhwgroup/cvw) - Configurable RISC-V Processor
+- [utmapp/CocoaSpice](https://github.com/utmapp/CocoaSpice) - Cocoa bindings for SPICE client GTK
+- [utmapp/qemu](https://github.com/utmapp/qemu) - qemu with iOS host support
+- [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - 
 - [ionic-team/capacitor-assets](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool
 - [andrewzimmer906/Swift3D](https://github.com/andrewzimmer906/Swift3D) - A SwiftUI like 3D engine backed by Metal
@@ -8113,7 +8124,7 @@
 - [sii/sipcalc](https://github.com/sii/sipcalc) - Sipcalc is an advanced ip calculator supporting both IPv4 and IPv6.
 - [randombit/botan](https://github.com/randombit/botan) - Cryptography Toolkit
 - [JohnSundell/SplashPublishPlugin](https://github.com/JohnSundell/SplashPublishPlugin) - A Splash plugin for the Publish static site generator
-- [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an official Google Product.
+- [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
 - [jdevelop/ezovpn](https://github.com/jdevelop/ezovpn) - Easy .ovpn files import/generation tool
 - [dmcardle/piet-llvm-frontend](https://github.com/dmcardle/piet-llvm-frontend) - An LLVM-based compiler for Piet, the esoteric programming language.
 - [tessi/rpiet](https://github.com/tessi/rpiet) - The Piet interpreter written in Rust 🖼
@@ -12004,7 +12015,7 @@
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [ValvePython/steam](https://github.com/ValvePython/steam) - ☁️ Python package for interacting with Steam
 - [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 - [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
@@ -12187,7 +12198,7 @@
 - [slackapi/python-slack-events-api](https://github.com/slackapi/python-slack-events-api) - Slack Events API adapter for Python (Flask required)
 - [slackapi/python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
-- [oracle/Skater](https://github.com/oracle/Skater) - Python Library for Model Interpretation/Explanations
+- [oracle/skater](https://github.com/oracle/skater) - Python Library for Model Interpretation/Explanations
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [ScottfreeLLC/AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning [AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost
@@ -12447,7 +12458,7 @@
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13.
 - [todbot/Blink1Control2](https://github.com/todbot/Blink1Control2) - Blink1Control GUI to control blink(1) USB RGB LED devices.
 - [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) - Server for the MusicBrainz project (website, API, database tools)
@@ -12512,7 +12523,7 @@
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [hanse/react-calendar](https://github.com/hanse/react-calendar) - React.js Calendar Component (npm install react-calendar-component) 📅
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 
@@ -13339,6 +13350,7 @@
 
 ## swift 
 
+- [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 - [Ekhoo/Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 - [patrickfreed/swiftly](https://github.com/patrickfreed/swiftly) - A Swift toolchain installer and manager, written in Swift.
 - [heestand-xyz/AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) - Edit images and video with async / await in Swift, powered by Metal.
@@ -13355,7 +13367,6 @@
 - [GottaGetSwifty/CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy
 - [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Swift corelocation async streamer using new concurrency Async await Corelocation Location Tracker
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 - [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
 - [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
@@ -14115,7 +14126,8 @@
 
 ## swiftui 
 
-- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Swift corelocation async streamer using new concurrency Async await Corelocation Location Tracker
+- [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
+- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Corelocation swift async await streamer using new concurrency async await Corelocation swift tracker geolocation and geocoding swift MapKit example address decoder Corelocation based service in swift
 - [V8tr/AsyncImage](https://github.com/V8tr/AsyncImage) - Asynchronous Image Loading from URL in SwiftUI
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
@@ -14163,7 +14175,7 @@
 - [carson-katri/awesome-result-builders](https://github.com/carson-katri/awesome-result-builders) - A list of cool DSLs made with Swift 5.4’s @resultBuilder
 - [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI
 - [billp/TermiNetwork](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
-- [sindresorhus/Preferences](https://github.com/sindresorhus/Preferences) - ⚙ Add a settings window to your macOS app in minutes
+- [sindresorhus/Settings](https://github.com/sindresorhus/Settings) - ⚙ Add a settings window to your macOS app in minutes
 - [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 - [maustinstar/swiftui-drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
 - [dduan/Markra](https://github.com/dduan/Markra) - An open-source Markdown-to-JIRA syntax editor written in SwiftUI for macOS
@@ -14280,7 +14292,7 @@
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [jfelchner/ruby-progressbar](https://github.com/jfelchner/ruby-progressbar) - Ruby/ProgressBar is a text progress bar library for Ruby.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -14444,7 +14456,7 @@
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [RobotsAndPencils/1password-action](https://github.com/RobotsAndPencils/1password-action) - Import logins, passwords and documents from your 1Password vaults to use in your GitHub Action workflows.
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [kshetline/sky-view-cafe-astronomy](https://github.com/kshetline/sky-view-cafe-astronomy) - Provides web-based star charts and astronomical information.
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
