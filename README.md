@@ -183,6 +183,7 @@
 
 ## Assembly 
 
+- [openhwgroup/cvw](https://github.com/openhwgroup/cvw) - Configurable RISC-V Processor
 - [lukeshiner/6502_computer](https://github.com/lukeshiner/6502_computer) - Tools and code for the Ben Eater 6502 Computer Kit
 - [mafleming/HP71MultiMod](https://github.com/mafleming/HP71MultiMod) - A ROM Emulator for the HP-71B
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
@@ -252,6 +253,7 @@
 
 ## C 
 
+- [utmapp/qemu](https://github.com/utmapp/qemu) - qemu with iOS host support
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine
 - [ncrawforth/VT2040](https://github.com/ncrawforth/VT2040) - Portable serial terminal, based on an RP2040 with a Gherkin keyboard and an ILI9488 screen
 - [rsms/llvmbox](https://github.com/rsms/llvmbox) - Self contained, fully static llvm tools & libs
@@ -282,7 +284,6 @@
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
 - [Embroidermodder/libembroidery](https://github.com/Embroidermodder/libembroidery) - Library for reading/writing/manipulating machine and design embroidery files
 - [corsix/amx](https://github.com/corsix/amx) - Apple AMX Instruction Set
-- [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [kingyoPiyo/Pico-10BASE-T](https://github.com/kingyoPiyo/Pico-10BASE-T) - 10BASE-T from Raspberry Pi Pico
 - [aws/aws-nitro-enclaves-sdk-c](https://github.com/aws/aws-nitro-enclaves-sdk-c) - This repo provides a C API for AWS Nitro Enclaves, including a KMS SDK that integrates it with attestation.
 - [Gnucash/gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program.
@@ -1673,7 +1674,7 @@
 - [MythTV/mythtv](https://github.com/MythTV/mythtv) - The official MythTV repository
 - [genodelabs/genode](https://github.com/genodelabs/genode) - Genode OS Framework
 - [wmcbrine/tivodecode-ng](https://github.com/wmcbrine/tivodecode-ng) - The "next generation" of tivodecode, to handle transport streams. Not fully working yet.
-- [asmjit/asmjit](https://github.com/asmjit/asmjit) - Machine code generation for C++
+- [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
 - [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP) - HIP: C++ Heterogeneous-Compute Interface for Portability
 - [plv8/plv8](https://github.com/plv8/plv8) - V8 Engine Javascript Procedural Language add-on for PostgreSQL
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
@@ -4176,6 +4177,7 @@
 
 ## Nix 
 
+- [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [tpwrules/nixos-pinenote](https://github.com/tpwrules/nixos-pinenote) - Attempts to get NixOS up on the PINE64 PineNote.
 - [tfc/pandoc-drawio-filter](https://github.com/tfc/pandoc-drawio-filter) - Embedd drawio images into markdown files for direct processing in pandoc
@@ -4229,6 +4231,7 @@
 
 ## Objective-C 
 
+- [utmapp/CocoaSpice](https://github.com/utmapp/CocoaSpice) - Cocoa bindings for SPICE client GTK
 - [googlemaps/maps-sdk-for-ios-samples](https://github.com/googlemaps/maps-sdk-for-ios-samples) - Samples for the Google Maps and Places SDKs for iOS
 - [googlemaps/google-maps-ios-utils](https://github.com/googlemaps/google-maps-ios-utils) - Google Maps SDK for iOS Utility Library
 - [seanhenry/SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode) - An Xcode extension (plugin) to generate Swift test doubles automatically.
@@ -5596,6 +5599,7 @@
 ## Python 
 
 - [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script which takes the game you're playing on steam and displays it on discord
+- [efabless/openlane2](https://github.com/efabless/openlane2) - The next generation of OpenLane, rewritten from scratch with a modular architecture
 - [ammaraskar/sphinx-action](https://github.com/ammaraskar/sphinx-action) - Github action that builds docs using sphinx and places errors inline
 - [zcutlip/prefsniff](https://github.com/zcutlip/prefsniff) - A utility to sniff preferences changes to macOS plist files
 - [Irev-Dev/curated-code-cad](https://github.com/Irev-Dev/curated-code-cad) - A list of the various code-cad projects out there.
@@ -5701,7 +5705,7 @@
 - [AYasinAkalin/MELE_quickIniEditor](https://github.com/AYasinAkalin/MELE_quickIniEditor) - A terminal application allowing users and modders to modify .ini and Coalesced_*.bin files of ME Legendary Edition easily without replacing the whole file; losing possible early modifications in proce
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 - [chromy/ink-proof](https://github.com/chromy/ink-proof) - Testing for Ink compilers and runtimes
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [CriticMarkup/CriticMarkup-toolkit](https://github.com/CriticMarkup/CriticMarkup-toolkit) - Various tools to use CriticMarkup in your daily workflow
 - [Lyrositor/fallen_london_chronicler](https://github.com/Lyrositor/fallen_london_chronicler) - A tool for recording and exporting Fallen London content.
 - [n0stalghia/Sunless_Skies_Save_Editor](https://github.com/n0stalghia/Sunless_Skies_Save_Editor) - Python-based save editor for Sunless Skies
@@ -5855,7 +5859,7 @@
 - [Yubico/yubikey-manager](https://github.com/Yubico/yubikey-manager) - Python library and command line tool for configuring any YubiKey over all USB interfaces.
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 - [socialpoint-labs/sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API
-- [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an official Google Product.
+- [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
 - [boothby/repiet](https://github.com/boothby/repiet) - A compiler for the esoteric language Piet, targeting multiple backends.
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
@@ -6223,7 +6227,7 @@
 - [DwangoMediaVillage/keras_compressor](https://github.com/DwangoMediaVillage/keras_compressor) - Model Compression CLI Tool for Keras.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [oarriaga/face_classification](https://github.com/oarriaga/face_classification) - Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
-- [oracle/Skater](https://github.com/oracle/Skater) - Python Library for Model Interpretation/Explanations
+- [oracle/skater](https://github.com/oracle/skater) - Python Library for Model Interpretation/Explanations
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [conda/conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
@@ -7553,6 +7557,7 @@
 
 ## Swift 
 
+- [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 - [andrewzimmer906/Swift3D](https://github.com/andrewzimmer906/Swift3D) - A SwiftUI like 3D engine backed by Metal
 - [Ekhoo/Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 - [twostraws/whats-new-in-swift-5-8](https://github.com/twostraws/whats-new-in-swift-5-8) - 
@@ -7569,7 +7574,7 @@
 - [GottaGetSwifty/CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy
 - [jackhumbert/let_there_be_flight](https://github.com/jackhumbert/let_there_be_flight) - A flight mod for Cyberpunk 2077
 - [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift
-- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Swift corelocation async streamer using new concurrency Async await Corelocation Location Tracker Geolocation in Swift MapKit example Location-based services in Swift Location Manager
+- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Corelocation swift async await streamer using new concurrency async await Corelocation swift tracker geolocation and geocoding swift MapKit example address decoder Corelocation based service in swift
 - [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
 - [metal-by-example/minimal-swift-assimp](https://github.com/metal-by-example/minimal-swift-assimp) - 
 - [V8tr/AsyncImage](https://github.com/V8tr/AsyncImage) - Asynchronous Image Loading from URL in SwiftUI
@@ -7631,6 +7636,7 @@
 - [loregr/LGButton](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 - [kylef-archive/fd](https://github.com/kylef-archive/fd) - Swift file descriptor / socket library
 - [MarkCodable/MarkCodable](https://github.com/MarkCodable/MarkCodable) - Swift Codable with human-friendly Markdown storage
+- [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [soberman/ARSLineProgress](https://github.com/soberman/ARSLineProgress) - iOS progress bar, replacement for the default activity indicator.
 - [soulverteam/SoulverTextKit](https://github.com/soulverteam/SoulverTextKit) - Turn your standard NSTextView or UITextView into a Soulver-like notepad calculator
 - [soulverteam/SoulverStringParsing](https://github.com/soulverteam/SoulverStringParsing) - Learn about how SoulverCore can give Swift "better than regex" data parsing features (for many common tasks)
@@ -7864,7 +7870,7 @@
 - [CoreOffice/CoreXLSX](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format parser written in pure Swift
 - [yysskk/SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
 - [billp/TermiNetwork](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
-- [sindresorhus/Preferences](https://github.com/sindresorhus/Preferences) - ⚙ Add a settings window to your macOS app in minutes
+- [sindresorhus/Settings](https://github.com/sindresorhus/Settings) - ⚙ Add a settings window to your macOS app in minutes
 - [olivaresf/amazingcloudkit](https://github.com/olivaresf/amazingcloudkit) - A smart way to use CloudKit
 - [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 - [maustinstar/swiftui-drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
@@ -9081,7 +9087,7 @@
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [aws-samples/automated-iam-access-analyzer](https://github.com/aws-samples/automated-iam-access-analyzer) - 
 - [RobotsAndPencils/1password-action](https://github.com/RobotsAndPencils/1password-action) - Import logins, passwords and documents from your 1Password vaults to use in your GitHub Action workflows.
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Local Lambda debug, CodeWhisperer, SAM/CFN syntax, ECS Exec, AWS resources browser
 - [kshetline/sky-view-cafe-astronomy](https://github.com/kshetline/sky-view-cafe-astronomy) - Provides web-based star charts and astronomical information.
@@ -9368,7 +9374,8 @@
 
 ## Verilog 
 
-- [efabless/openlane2](https://github.com/efabless/openlane2) - The next generation of OpenLane, rewritten from scratch with a modular architecture
+- [ZipCPU/wbsata](https://github.com/ZipCPU/wbsata) - Wishbone SATA Controller
+- [ZipCPU/eth10g](https://github.com/ZipCPU/eth10g) - 10Gb Ethernet Switch
 - [OpenTimer/OpenTimer](https://github.com/OpenTimer/OpenTimer) - A High-performance Timing Analysis Tool for VLSI Systems
 - [google/skywater-pdk-libs-sky130_fd_sc_hd](https://github.com/google/skywater-pdk-libs-sky130_fd_sc_hd) - "High density" digital standard cells for SKY130 provided by SkyWater.
 - [sxpert/hp-saturn](https://github.com/sxpert/hp-saturn) - 
