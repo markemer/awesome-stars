@@ -18,6 +18,7 @@
 - [AutoHotkey](#autohotkey)
 - [Ballerina](#ballerina)
 - [Batchfile](#batchfile)
+- [Bikeshed](#bikeshed)
 - [Bluespec](#bluespec)
 - [Brightscript](#brightscript)
 - [C](#c)
@@ -47,6 +48,7 @@
 - [G-code](#g-code)
 - [GDScript](#gdscript)
 - [GLSL](#glsl)
+- [Game Maker Language](#game-maker-language)
 - [Gherkin](#gherkin)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -243,6 +245,10 @@
 - [sparkfun/SparkFun_Artemis](https://github.com/sparkfun/SparkFun_Artemis) - World's first open source hardware module using a Cortex-M4F capable of running TensorFlow models and Arduino sketches..
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
+
+## Bikeshed 
+
+- [forgefed/forgefed](https://github.com/forgefed/forgefed) - ForgeFed - Federation Protocol for Forge Services
 
 ## Bluespec 
 
@@ -1838,7 +1844,6 @@
 - [petrk94/ownhealthrecord](https://github.com/petrk94/ownhealthrecord) - This repository is about the OwnHealthRecord Application Web App
 - [sharecuts/website](https://github.com/sharecuts/website) - A public repository of shortcuts for the Shortcuts app
 - [NocturnalSolutions/Wastebin](https://github.com/NocturnalSolutions/Wastebin) - A pastebin written in Swift with the Kitura framework.
-- [forgefed/forgefed](https://github.com/forgefed/forgefed) - ForgeFed - Federation Protocol for Forge Services
 - [danielquinn/aletheia](https://github.com/danielquinn/aletheia) - Fight fake news with cryptography & human nature
 - [MrCheeze/botw-object-map](https://github.com/MrCheeze/botw-object-map) - A map of every single object in Zelda: Breath of the Wild. https://mrcheeze.github.io/botw-object-map
 - [Squarespace/squarespace-social-links](https://github.com/Squarespace/squarespace-social-links) - 
@@ -2091,6 +2096,10 @@
 - [twostraws/ShaderKit](https://github.com/twostraws/ShaderKit) - A library of fragment shaders you can use in any SpriteKit project.
 - [AllYarnsAreBeautiful/ayab-hardware](https://github.com/AllYarnsAreBeautiful/ayab-hardware) - Contains the schematics and layouts for the AYAB Arduino shield
 - [patriciogonzalezvivo/thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders.
+
+## Game Maker Language 
+
+- [JujuAdams/SNAP](https://github.com/JujuAdams/SNAP) - Data format converters for GameMaker LTS 2022
 
 ## Gherkin 
 
@@ -2918,6 +2927,7 @@
 
 ## Java 
 
+- [apache/pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 - [onyx-intl/OnyxAndroidDemo](https://github.com/onyx-intl/OnyxAndroidDemo) - 
 - [fabioCollini/DaggerMock](https://github.com/fabioCollini/DaggerMock) - A JUnit rule to easily override Dagger 2 objects
@@ -4235,6 +4245,7 @@
 
 ## Objective-C 
 
+- [sveinbjornt/hear](https://github.com/sveinbjornt/hear) - Command line speech recognition and transcription for macOS
 - [utmapp/CocoaSpice](https://github.com/utmapp/CocoaSpice) - Cocoa bindings for SPICE client GTK
 - [googlemaps/maps-sdk-for-ios-samples](https://github.com/googlemaps/maps-sdk-for-ios-samples) - Samples for the Google Maps and Places SDKs for iOS
 - [googlemaps/google-maps-ios-utils](https://github.com/googlemaps/google-maps-ios-utils) - Google Maps SDK for iOS Utility Library
@@ -7568,6 +7579,7 @@
 
 ## Swift 
 
+- [jordibruin/FromScratch](https://github.com/jordibruin/FromScratch) - A simple app to reset your macOS app permissions
 - [KarimEbrahemAbdelaziz/SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - Simple and Elegant Drop down menu for iOS 🔥💥
 - [johnpatrickmorgan/NavigationBackport](https://github.com/johnpatrickmorgan/NavigationBackport) - Backported SwiftUI navigation APIs introduced in WWDC22
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
