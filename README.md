@@ -541,7 +541,7 @@
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
 - [pete/cats](https://github.com/pete/cats) - Implementations of cat(1) from various sources.
 - [arjun024/mkernel](https://github.com/arjun024/mkernel) - A minimalist kernel
-- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter, and the most universal WASM runtime
+- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [ardera/flutter-pi](https://github.com/ardera/flutter-pi) - A light-weight Flutter Engine Embedder for Raspberry Pi that runs without X.
 - [libts/tslib](https://github.com/libts/tslib) - Touchscreen access library
 - [glejeune/ruby-lua](https://github.com/glejeune/ruby-lua) - Call Lua from Ruby (and Ruby from Lua in Ruby)
@@ -4070,6 +4070,7 @@
 
 - [UDOOboard/Bolt-Docs](https://github.com/UDOOboard/Bolt-Docs) - UDOO Bolt Documentation
 - [Squarespace/wright-framework](https://github.com/Squarespace/wright-framework) - 
+- [publify/publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 - [atom/template-syntax](https://github.com/atom/template-syntax) - A template atom syntax theme to build from
 - [verekia/initializr](https://github.com/verekia/initializr) - HTML5 Boilerplate Build Tool
 
@@ -6664,7 +6665,6 @@
 - [plu/simctl](https://github.com/plu/simctl) - Ruby interface to xcrun simctl
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [sstephenson/execjs](https://github.com/sstephenson/execjs) - Run JavaScript code from Ruby
-- [publify/publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 - [dblock/fui](https://github.com/dblock/fui) - Find unused Objective-C imports.
 - [tsabend/fus](https://github.com/tsabend/fus) - Find unused Swift classes
 - [coderhs/ruby_open_weather_map](https://github.com/coderhs/ruby_open_weather_map) - A ruby wrapper for open weather map
