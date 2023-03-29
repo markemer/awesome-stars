@@ -348,7 +348,7 @@
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
-- [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple library for communicating with HID devices on Linux, Mac and Windows.
+- [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
@@ -547,7 +547,7 @@
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [inlife/nexrender](https://github.com/inlife/nexrender) - 📹  Data-driven render automation for After Effects
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [yaqwsx/KiKit](https://github.com/yaqwsx/KiKit) - Automation tools for KiCAD
@@ -917,7 +917,7 @@
 - [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
 - [pplu/aws-sdk-perl](https://github.com/pplu/aws-sdk-perl) - A community AWS SDK for Perl Programmers
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
-- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral provides a unified view for endpoint monitoring. Comprehensive features include Santa binary authorization and patch management orchestration on macOS, as well as detailed Qsquery fleet manage
+- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral manages endpoint configuration for MDM, Osquery, Munki, Google Santa, and automates it's workflows through GitOps. It unifies events, collects IT asset info, and offers unique KPIs and metrics
 - [noppoMan/Hexaville](https://github.com/noppoMan/Hexaville) - The modern serverless web application engine and framework for Swift
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -945,7 +945,7 @@
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
-- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral provides a unified view for endpoint monitoring. Comprehensive features include Santa binary authorization and patch management orchestration on macOS, as well as detailed Qsquery fleet manage
+- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral manages endpoint configuration for MDM, Osquery, Munki, Google Santa, and automates it's workflows through GitOps. It unifies events, collects IT asset info, and offers unique KPIs and metrics
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 
@@ -1082,7 +1082,7 @@
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.x kernels)
 - [audulus/vger](https://github.com/audulus/vger) - 2D GPU renderer for dynamic UIs
 - [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
-- [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple library for communicating with HID devices on Linux, Mac and Windows.
+- [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library
@@ -2552,6 +2552,7 @@
 
 ## framework 
 
+- [brunophilipe/LiquidKit](https://github.com/brunophilipe/LiquidKit) - Liquid template language parser engine in Swift.
 - [FrameworkComputer/InputModules](https://github.com/FrameworkComputer/InputModules) - Reference designs and documentation for the Input Module system in the Framework Laptop 16
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -3036,6 +3037,7 @@
 
 ## golang 
 
+- [osteele/liquid](https://github.com/osteele/liquid) - A Liquid template engine in Go
 - [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
 - [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go) - Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
 - [blacktop/go-apfs](https://github.com/blacktop/go-apfs) - APFS parser written in pure Go
@@ -3235,7 +3237,7 @@
 - [CodingDoug/universal-translator](https://github.com/CodingDoug/universal-translator) - Demo app using Firebase and Google Cloud products to implement a "universal translator"
 - [GoogleCloudPlatform/cloud-code-intellij](https://github.com/GoogleCloudPlatform/cloud-code-intellij) - Plugin to support the Google Cloud Platform in IntelliJ IDEA - Docs and Issues Repository
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
-- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral provides a unified view for endpoint monitoring. Comprehensive features include Santa binary authorization and patch management orchestration on macOS, as well as detailed Qsquery fleet manage
+- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral manages endpoint configuration for MDM, Osquery, Munki, Google Santa, and automates it's workflows through GitOps. It unifies events, collects IT asset info, and offers unique KPIs and metrics
 
 ## gradle 
 
@@ -3377,7 +3379,7 @@
 - [vineetchoudhary/Downloader-for-Apple-Developers](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers) - Download Xcode, WWDC Videos, and other developer tools up to 16 times faster.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [cea-sec/miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework in Python
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [Kampfkarren/full-moon](https://github.com/Kampfkarren/full-moon) - A lossless Lua 5.1 parser
@@ -3885,6 +3887,7 @@
 
 ## ios 
 
+- [brunophilipe/LiquidKit](https://github.com/brunophilipe/LiquidKit) - Liquid template language parser engine in Swift.
 - [KarimEbrahemAbdelaziz/SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - Simple and Elegant Drop down menu for iOS 🔥💥
 - [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 - [Ekhoo/Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
@@ -4449,7 +4452,7 @@
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
 - [x4e/classfile-rs](https://github.com/x4e/classfile-rs) - JVM classfile parser and writer for Rust
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
@@ -4538,7 +4541,7 @@
 - [Mikhus/canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [JuliaPluto/PlutoUI.jl](https://github.com/JuliaPluto/PlutoUI.jl) - 
@@ -5064,6 +5067,7 @@
 
 ## library 
 
+- [brunophilipe/LiquidKit](https://github.com/brunophilipe/LiquidKit) - Liquid template language parser engine in Swift.
 - [apache/pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [Embroidermodder/libembroidery](https://github.com/Embroidermodder/libembroidery) - Library for reading/writing/manipulating machine and design embroidery files
@@ -5168,7 +5172,7 @@
 - [Infineon/linux-optiga-trust-m](https://github.com/Infineon/linux-optiga-trust-m) - Linux tools and examples for OPTIGA™ Trust M1/M3 security solution
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
 - [alemar11/Mechanica](https://github.com/alemar11/Mechanica) - A cross-platform library of Swift utils to ease your iOS | macOS | watchOS | tvOS and Linux development.
-- [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple library for communicating with HID devices on Linux, Mac and Windows.
+- [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the 
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.7+) and Qt 5 (5.10+) for cro
@@ -5483,6 +5487,7 @@
 
 ## macos 
 
+- [brunophilipe/LiquidKit](https://github.com/brunophilipe/LiquidKit) - Liquid template language parser engine in Swift.
 - [sveinbjornt/hear](https://github.com/sveinbjornt/hear) - Command line speech recognition and transcription for macOS
 - [Ekhoo/Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 - [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
@@ -5568,7 +5573,7 @@
 - [alemar11/Mechanica](https://github.com/alemar11/Mechanica) - A cross-platform library of Swift utils to ease your iOS | macOS | watchOS | tvOS and Linux development.
 - [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
 - [AndrewBennet/PersistedPropertyWrapper](https://github.com/AndrewBennet/PersistedPropertyWrapper) - A Swift library to enable easy persistent UserDefaults storage
-- [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple library for communicating with HID devices on Linux, Mac and Windows.
+- [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [Xcode-Tips/xcode-tips.github.io](https://github.com/Xcode-Tips/xcode-tips.github.io) - Community-run website for documenting Xcode Tips
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
@@ -5751,7 +5756,7 @@
 - [insidegui/AppleEvents](https://github.com/insidegui/AppleEvents) - The unofficial Apple Events app for macOS
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral provides a unified view for endpoint monitoring. Comprehensive features include Santa binary authorization and patch management orchestration on macOS, as well as detailed Qsquery fleet manage
+- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral manages endpoint configuration for MDM, Osquery, Munki, Google Santa, and automates it's workflows through GitOps. It unifies events, collects IT asset info, and offers unique KPIs and metrics
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [josh-/TodayFlights](https://github.com/josh-/TodayFlights) - TodayFlights is a Notification Center widget that allows you to track flights using the 'FlightUtilities' macOS system framework.
 - [raspu/Highlightr](https://github.com/raspu/Highlightr) - iOS & OSX Syntax Highlighter.
@@ -6436,6 +6441,7 @@
 
 ## opengl 
 
+- [coin3d/coin](https://github.com/coin3d/coin) - Coin3D core library
 - [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
@@ -6509,10 +6515,14 @@
 
 ## others 
 
+- [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [facebook/lexical-ios](https://github.com/facebook/lexical-ios) - Lexical iOS is an extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit.
+- [FreeCAD/DevelopersHandbook](https://github.com/FreeCAD/DevelopersHandbook) - A handbook about FreeCAD development
+- [1Password/check-signed-commits-action](https://github.com/1Password/check-signed-commits-action) - GitHub Action to check PRs for signed commits
+- [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
 - [jordibruin/FromScratch](https://github.com/jordibruin/FromScratch) - A simple app to reset your macOS app permissions
 - [FrameworkComputer/ExpansionBay](https://github.com/FrameworkComputer/ExpansionBay) - CAD and documentation for the Expansion Bay module system in the Framework Laptop 16
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
-- [google/aside](https://github.com/google/aside) - 
 - [johnpatrickmorgan/NavigationBackport](https://github.com/johnpatrickmorgan/NavigationBackport) - Backported SwiftUI navigation APIs introduced in WWDC22
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [mathieudutour/timezone-butler](https://github.com/mathieudutour/timezone-butler) - ⏰🤵 A Slack butler who will take care of the timezone differences in your team.
@@ -7881,7 +7891,7 @@
 - [macteo/Marklight](https://github.com/macteo/Marklight) - Markdown syntax highlighter for iOS
 - [robmikh/minesweeper-rs](https://github.com/robmikh/minesweeper-rs) - A port of robmikh/Minesweeper using windows-rs.
 - [microsoft/cppwinrt](https://github.com/microsoft/cppwinrt) - C++/WinRT
-- [corona-warn-app/cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) - Project overview, general documentation, and white papers.
+- [corona-warn-app/cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) - Project overview, general documentation, and white papers. The CWA development ends on May 31, 2023. You still can warn other users until April 30, 2023. More information:
 - [johnhw/funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
 - [oscarlevin/discrete-book](https://github.com/oscarlevin/discrete-book) - An open textbook for Discrete Mathematics, as taught at the University of Northern Colorado
 - [mattpolzin/OpenAPIKit](https://github.com/mattpolzin/OpenAPIKit) - Codable Swift OpenAPI implementation.
@@ -12497,7 +12507,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
@@ -13380,9 +13390,10 @@
 
 ## swift 
 
+- [soulverteam/NaturalLanguageDateParsing](https://github.com/soulverteam/NaturalLanguageDateParsing) - Use SoulverCore to add a natural language date input feature to your Mac or iOS app.
 - [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 - [Ekhoo/Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
-- [patrickfreed/swiftly](https://github.com/patrickfreed/swiftly) - A Swift toolchain installer and manager, written in Swift.
+- [swift-server/swiftly](https://github.com/swift-server/swiftly) - A Swift toolchain installer and manager, written in Swift.
 - [heestand-xyz/AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) - Edit images and video with async / await in Swift, powered by Metal.
 - [googlemaps/maps-sdk-for-ios-samples](https://github.com/googlemaps/maps-sdk-for-ios-samples) - Samples for the Google Maps and Places SDKs for iOS
 - [jessesquires/Foil](https://github.com/jessesquires/Foil) - A lightweight property wrapper for UserDefaults done right
@@ -14481,6 +14492,7 @@
 
 ## typescript 
 
+- [google/aside](https://github.com/google/aside) - 🚀 Apps Script development with formatting, linting, testing and more!
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -14498,7 +14510,7 @@
 - [ekzhang/composing.studio](https://github.com/ekzhang/composing.studio) - Collaborative music composition for everyone.
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [ephread/ink-language-server](https://github.com/ephread/ink-language-server) - A language server for inkle's Ink.
@@ -14760,7 +14772,7 @@
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
-- [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple library for communicating with HID devices on Linux, Mac and Windows.
+- [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
