@@ -6515,6 +6515,8 @@
 
 ## others 
 
+- [kilork/openid](https://github.com/kilork/openid) - OpenID Connect client using async / await
+- [yhqiu16/NVMeCHA](https://github.com/yhqiu16/NVMeCHA) - NVMe Controller featuring Hardware Acceleration
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [facebook/lexical-ios](https://github.com/facebook/lexical-ios) - Lexical iOS is an extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit.
 - [FreeCAD/DevelopersHandbook](https://github.com/FreeCAD/DevelopersHandbook) - A handbook about FreeCAD development
