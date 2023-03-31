@@ -6441,6 +6441,7 @@
 
 ## opengl 
 
+- [pyimgui/pyimgui](https://github.com/pyimgui/pyimgui) - Cython-based Python bindings for dear imgui
 - [coin3d/coin](https://github.com/coin3d/coin) - Coin3D core library
 - [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
@@ -6515,6 +6516,7 @@
 
 ## others 
 
+- [frankrausch/AttributedStringStyledMarkdown](https://github.com/frankrausch/AttributedStringStyledMarkdown) - AttributedString Markdown initializer with custom styling
 - [kilork/openid](https://github.com/kilork/openid) - OpenID Connect client using async / await
 - [yhqiu16/NVMeCHA](https://github.com/yhqiu16/NVMeCHA) - NVMe Controller featuring Hardware Acceleration
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
@@ -8214,7 +8216,7 @@
 - [llvm-swift/FileCheck](https://github.com/llvm-swift/FileCheck) - A standalone Swift version of LLVM's flexible pattern matching file verifier
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust
 - [microsoft/fastlane-plugin-appcenter](https://github.com/microsoft/fastlane-plugin-appcenter) - App Center fastlane integration.
-- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
+- [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
 - [azohra/forsis](https://github.com/azohra/forsis) - A Fastlane plugin that converts JUnit test reports to generic test execution reports supported by SonarQube
 - [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
 - [JamitLabs/Accio](https://github.com/JamitLabs/Accio) - A dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
@@ -11503,7 +11505,7 @@
 - [tejohnso/mongo-auth](https://github.com/tejohnso/mongo-auth) - log in/out routines for mongo web apps
 - [foliojs/pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser
 - [robrighter/node-xml](https://github.com/robrighter/node-xml) - An xml parser for node.js written in javascript.
-- [libxmljs/libxmljs](https://github.com/libxmljs/libxmljs) - libxml bindings for v8 javascript engine
+- [libxmljs/libxmljs](https://github.com/libxmljs/libxmljs) - NodeJS bindings for libxml2 written in Typescript
 - [nasser/god.js](https://github.com/nasser/god.js) - New Gods Through Computer Science for Art Hack Day 2013
 - [arturfelipet/GoogleMapsExample](https://github.com/arturfelipet/GoogleMapsExample) - Google Maps IOS Sdk Example
 - [SVGKit/SVGKit](https://github.com/SVGKit/SVGKit) - Display and interact with SVG Images on iOS / OS X, using native rendering (CoreAnimation)
@@ -12008,6 +12010,7 @@
 
 ## python 
 
+- [pyimgui/pyimgui](https://github.com/pyimgui/pyimgui) - Cython-based Python bindings for dear imgui
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script which takes the game you're playing on steam and displays it on discord
 - [Irev-Dev/curated-code-cad](https://github.com/Irev-Dev/curated-code-cad) - A list of the various code-cad projects out there.
