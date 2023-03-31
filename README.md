@@ -35,6 +35,7 @@
 - [Coq](#coq)
 - [Crystal](#crystal)
 - [Cuda](#cuda)
+- [Cython](#cython)
 - [D](#d)
 - [Dart](#dart)
 - [Dhall](#dhall)
@@ -1776,7 +1777,7 @@
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
 - [MailCore/mailcore2](https://github.com/MailCore/mailcore2) - MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP. The API has been redesigned from ground up.
 - [CleanShavenApps/mailcore2](https://github.com/CleanShavenApps/mailcore2) - MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP. The API has been redesigned from ground up.
-- [libxmljs/libxmljs](https://github.com/libxmljs/libxmljs) - libxml bindings for v8 javascript engine
+- [libxmljs/libxmljs](https://github.com/libxmljs/libxmljs) - NodeJS bindings for libxml2 written in Typescript
 - [harrism/hemi](https://github.com/harrism/hemi) - Simple utilities to enable code reuse and portability between CUDA C/C++ and standard C/C++.
 - [GarageGames/Torque3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames
 - [bbits/tuntaposx](https://github.com/bbits/tuntaposx) - Our fork of the tuntaposx device driver. We NO LONGER use this in our app, GetCloak.com. Instead, we've patched OpenVPN to use Darwin's utun. Some variant of that patch is now mainlined in OpenVPN.
@@ -1964,6 +1965,10 @@
 
 - [GooFit/GooFit](https://github.com/GooFit/GooFit) - Code repository for the massively-parallel framework for maximum-likelihood fits, implemented in CUDA/OpenMP
 - [gpufs/gpufs](https://github.com/gpufs/gpufs) - GPUfs - File system support for NVIDIA GPUs
+
+## Cython 
+
+- [pyimgui/pyimgui](https://github.com/pyimgui/pyimgui) - Cython-based Python bindings for dear imgui
 
 ## D 
 
@@ -4212,7 +4217,7 @@
 
 ## Nunjucks 
 
-- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
+- [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 
 ## OCaml 
@@ -4906,6 +4911,7 @@
 - [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [b1ackmai1er/SBC-V2-005](https://github.com/b1ackmai1er/SBC-V2-005) - Retrobrew Computers SBC-V2 development.
+- [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
 - [JELaVallee/ampd_up_flutter_amplify_graphql](https://github.com/JELaVallee/ampd_up_flutter_amplify_graphql) - Amp'd Up Flutter Development with AWS Amplify Demo ToDo Application
 - [washingtonpost/data-school-shootings](https://github.com/washingtonpost/data-school-shootings) - The Washington Post is compiling a database of school shootings in the United States since Columbine.
 - [washingtonpost/data-police-shootings](https://github.com/washingtonpost/data-police-shootings) - The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since 2015.
@@ -7043,7 +7049,6 @@
 - [charsyam/hashids_rust](https://github.com/charsyam/hashids_rust) - rust hashids implements
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [awslabs/smithy-rs](https://github.com/awslabs/smithy-rs) - 
-- [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
 - [blitz/clac](https://github.com/blitz/clac) - A reverse polish calculator - a modern replacement for dc
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or J
 - [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs) - DEFLATE, gzip, and zlib bindings for Rust
@@ -7591,6 +7596,7 @@
 
 ## Swift 
 
+- [frankrausch/AttributedStringStyledMarkdown](https://github.com/frankrausch/AttributedStringStyledMarkdown) - AttributedString Markdown initializer with custom styling
 - [brunophilipe/LiquidKit](https://github.com/brunophilipe/LiquidKit) - Liquid template language parser engine in Swift.
 - [facebook/lexical-ios](https://github.com/facebook/lexical-ios) - Lexical iOS is an extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit.
 - [soulverteam/NaturalLanguageDateParsing](https://github.com/soulverteam/NaturalLanguageDateParsing) - Use SoulverCore to add a natural language date input feature to your Mac or iOS app.
