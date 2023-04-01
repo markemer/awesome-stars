@@ -252,6 +252,12 @@
 
 ## 3d 
 
+- [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
+- [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
+- [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
+- [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
+- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
+- [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
@@ -397,6 +403,7 @@
 
 ## angular 
 
+- [analogjs/analog](https://github.com/analogjs/analog) - The fullstack Angular meta-framework
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [kshetline/sky-view-cafe-astronomy](https://github.com/kshetline/sky-view-cafe-astronomy) - Provides web-based star charts and astronomical information.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -453,7 +460,6 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [IBM-Swift/generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) - WARNING: This repository is no longer maintained
 - [aureleoules/core](https://github.com/aureleoules/core) - Backpulse's core. Backpulse is an API Based CMS. Build you own website without worrying about the content administration system.
-- [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management
 - [jacebrowning/memegen](https://github.com/jacebrowning/memegen) - The free and open source API to generate memes.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [MastodonKit/MastodonKit](https://github.com/MastodonKit/MastodonKit) - MastodonKit is a Swift Framework that wraps Mastodon's API
@@ -868,7 +874,7 @@
 
 ## aws 
 
-- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
+- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Superpowers for PostgreSQL
 - [awslabs/staticwebsite-cli](https://github.com/awslabs/staticwebsite-cli) - Quickly and easily host a static website on AWS.
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
 - [mludvig/aws-ssm-tools](https://github.com/mludvig/aws-ssm-tools) - Handy tools for AWS Systems Manager - ssm-session, ecs-session, ssm-ssh and ssm-tunnel
@@ -1580,6 +1586,7 @@
 
 ## cpp 
 
+- [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
 - [heitzmann/gdstk](https://github.com/heitzmann/gdstk) - Gdstk (GDSII Tool Kit) is a C++/Python library for creation and manipulation of GDSII and OASIS files.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [simdutf/simdutf](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. Part of Node.js.
@@ -1870,7 +1877,7 @@
 
 ## database 
 
-- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
+- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Superpowers for PostgreSQL
 - [issus/altium-library](https://github.com/issus/altium-library) - Open source Altium Database Library with over 165,000 high quality components and full 3d models.
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast!
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -2552,6 +2559,7 @@
 
 ## framework 
 
+- [analogjs/analog](https://github.com/analogjs/analog) - The fullstack Angular meta-framework
 - [brunophilipe/LiquidKit](https://github.com/brunophilipe/LiquidKit) - Liquid template language parser engine in Swift.
 - [FrameworkComputer/InputModules](https://github.com/FrameworkComputer/InputModules) - Reference designs and documentation for the Input Module system in the Framework Laptop 16
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
@@ -2630,6 +2638,7 @@
 
 ## game 
 
+- [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
 - [alexbatalov/fallout1-ce](https://github.com/alexbatalov/fallout1-ce) - Fallout for modern operating systems
 - [alexbatalov/fallout2-ce](https://github.com/alexbatalov/fallout2-ce) - Fallout 2 for modern operating systems
 - [ozkl/doomgeneric](https://github.com/ozkl/doomgeneric) - Easily portable doom
@@ -2663,6 +2672,7 @@
 
 ## game-development 
 
+- [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
 - [paulloz/godot-ink](https://github.com/paulloz/godot-ink) - Ink integration for Godot Engine.
 - [HankiDesign/awesome-dear-imgui](https://github.com/HankiDesign/awesome-dear-imgui) - A collection of awesome dear imgui bindings, extensions and resources
 - [microsoft/GDK](https://github.com/microsoft/GDK) - Microsoft Public GDK
@@ -2692,6 +2702,7 @@
 
 ## game-engine 
 
+- [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
 - [OldGamesLab/Harold](https://github.com/OldGamesLab/Harold) - Open-source Fallout 2 engine implementation, a revival of darkfo project
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
@@ -2865,7 +2876,7 @@
 
 ## go 
 
-- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
+- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Superpowers for PostgreSQL
 - [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go) - Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
@@ -3038,7 +3049,7 @@
 ## golang 
 
 - [osteele/liquid](https://github.com/osteele/liquid) - A Liquid template engine in Go
-- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
+- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Superpowers for PostgreSQL
 - [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go) - Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
 - [blacktop/go-apfs](https://github.com/blacktop/go-apfs) - APFS parser written in pure Go
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
@@ -4474,7 +4485,6 @@
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [agroce/universalmutator](https://github.com/agroce/universalmutator) - Regexp based tool for mutating generic source code across numerous languages
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
-- [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 - [GoogleCloudPlatform/cloud-code-intellij](https://github.com/GoogleCloudPlatform/cloud-code-intellij) - Plugin to support the Google Cloud Platform in IntelliJ IDEA - Docs and Issues Repository
 - [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij) - Flutter Plugin for IntelliJ
@@ -6516,6 +6526,10 @@
 
 ## others 
 
+- [vasturiano/force-graph](https://github.com/vasturiano/force-graph) - Force-directed graph rendered on HTML5 canvas
+- [d3/d3-force](https://github.com/d3/d3-force) - Force-directed graph layout using velocity Verlet integration.
+- [antmicro/yosys-systemverilog](https://github.com/antmicro/yosys-systemverilog) - SystemVerilog support for Yosys
+- [aws/actions-dev-kit](https://github.com/aws/actions-dev-kit) - 
 - [frankrausch/AttributedStringStyledMarkdown](https://github.com/frankrausch/AttributedStringStyledMarkdown) - AttributedString Markdown initializer with custom styling
 - [kilork/openid](https://github.com/kilork/openid) - OpenID Connect client using async / await
 - [yhqiu16/NVMeCHA](https://github.com/yhqiu16/NVMeCHA) - NVMe Controller featuring Hardware Acceleration
@@ -11921,7 +11935,7 @@
 
 ## postgresql 
 
-- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
+- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Superpowers for PostgreSQL
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -12010,6 +12024,7 @@
 
 ## python 
 
+- [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [pyimgui/pyimgui](https://github.com/pyimgui/pyimgui) - Cython-based Python bindings for dear imgui
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script which takes the game you're playing on steam and displays it on discord
@@ -12023,7 +12038,7 @@
 - [cxnder/ktool](https://github.com/cxnder/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 - [DataDog/datadog-api-client-python](https://github.com/DataDog/datadog-api-client-python) - Python client for the Datadog API
 - [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
-- [Global-Chem/global-chem](https://github.com/Global-Chem/global-chem) - A General Public Dictionary of Common Chemical Names to their Molecular Definition
+- [Global-Chem/global-chem](https://github.com/Global-Chem/global-chem) - A Knowledge Graph of Common Chemical Names to their Molecular Definition
 - [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -12495,6 +12510,7 @@
 
 ## react 
 
+- [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -13179,7 +13195,7 @@
 
 ## serverless 
 
-- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
+- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Superpowers for PostgreSQL
 - [dumrauf/serverless_static_website_with_basic_auth](https://github.com/dumrauf/serverless_static_website_with_basic_auth) - Builds a serverless infrastructure in AWS for hosting a static website protected with Basic Authentication and published on a subdomain registered via Route 53
 - [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Local Lambda debug, CodeWhisperer, SAM/CFN syntax, ECS Exec, AWS resources browser
 - [buildkite/iam-ssh-agent](https://github.com/buildkite/iam-ssh-agent) - Keyless SSH Agent for IAM Entities
@@ -14674,6 +14690,7 @@
 
 ## web 
 
+- [analogjs/analog](https://github.com/analogjs/analog) - The fullstack Angular meta-framework
 - [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift
