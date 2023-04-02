@@ -188,6 +188,7 @@
 
 ## Assembly 
 
+- [aldonunez/zelda1-disassembly](https://github.com/aldonunez/zelda1-disassembly) - A complete disassembly of The Legend of Zelda
 - [openhwgroup/cvw](https://github.com/openhwgroup/cvw) - Configurable RISC-V Processor
 - [lukeshiner/6502_computer](https://github.com/lukeshiner/6502_computer) - Tools and code for the Ben Eater 6502 Computer Kit
 - [mafleming/HP71MultiMod](https://github.com/mafleming/HP71MultiMod) - A ROM Emulator for the HP-71B
@@ -4813,6 +4814,7 @@
 
 ## Others 
 
+- [schenkzoola/NES](https://github.com/schenkzoola/NES) - Schematics for the NES
 - [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
 - [1Password/check-signed-commits-action](https://github.com/1Password/check-signed-commits-action) - GitHub Action to check PRs for signed commits
 - [FrameworkComputer/InputModules](https://github.com/FrameworkComputer/InputModules) - Reference designs and documentation for the Input Module system in the Framework Laptop 16
