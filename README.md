@@ -263,6 +263,7 @@
 
 ## C 
 
+- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [utmapp/qemu](https://github.com/utmapp/qemu) - qemu with iOS host support
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine
@@ -2120,6 +2121,7 @@
 
 ## Go 
 
+- [mitchellh/gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [osteele/liquid](https://github.com/osteele/liquid) - A Liquid template engine in Go
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
 - [cirruslabs/orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
@@ -4815,6 +4817,9 @@
 
 ## Others 
 
+- [austenstone/list-prs-associated-with-a-commit](https://github.com/austenstone/list-prs-associated-with-a-commit) - Create a Composite Action
+- [aws-samples/dcv-extension-sdk](https://github.com/aws-samples/dcv-extension-sdk) - 
+- [aws-samples/dcv-extension-sdk-samples](https://github.com/aws-samples/dcv-extension-sdk-samples) - 
 - [schenkzoola/NES](https://github.com/schenkzoola/NES) - Schematics for the NES
 - [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
 - [1Password/check-signed-commits-action](https://github.com/1Password/check-signed-commits-action) - GitHub Action to check PRs for signed commits
