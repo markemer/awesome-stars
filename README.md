@@ -91,6 +91,7 @@
 - [PHP](#php)
 - [PLSQL](#plsql)
 - [PLpgSQL](#plpgsql)
+- [POV-Ray SDL](#pov-ray-sdl)
 - [Papyrus](#papyrus)
 - [Pascal](#pascal)
 - [Perl](#perl)
@@ -263,6 +264,7 @@
 
 ## C 
 
+- [nickandre/dnvt-fw](https://github.com/nickandre/dnvt-fw) - 
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [utmapp/qemu](https://github.com/utmapp/qemu) - qemu with iOS host support
@@ -2701,7 +2703,6 @@
 - [solderparty/bbq20kbd_hw](https://github.com/solderparty/bbq20kbd_hw) - 
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [CRImier/NGFF](https://github.com/CRImier/NGFF) - M.2 NGFF接口标准
-- [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [amazonlinux/amazon-linux-2023](https://github.com/amazonlinux/amazon-linux-2023) - Amazon Linux 2023
 - [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone
 - [myogpatterns/myogpatterns.github.io](https://github.com/myogpatterns/myogpatterns.github.io) - Make Your Own Gear (MYOG) patterns and calculators for the outdoor and ultralight enthusiast
@@ -3126,6 +3127,7 @@
 - [charlieMonroe/DownieExtensions](https://github.com/charlieMonroe/DownieExtensions) - Browser Extensions used in Downie (https://software.charliemonroe.net/downie/).
 - [chrisjshull/homebridge-nest](https://github.com/chrisjshull/homebridge-nest) - Nest plugin for HomeBridge
 - [lensvol/fl-masquerade](https://github.com/lensvol/fl-masquerade) - 
+- [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
@@ -3298,7 +3300,6 @@
 - [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [millette/oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
-- [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
 - [rsms/graphviz](https://github.com/rsms/graphviz) - Graphviz web app
 - [stevehoover/warp-v](https://github.com/stevehoover/warp-v) - WARP-V is an open-source RISC-V CPU core generator written in TL-Verilog.
@@ -5512,7 +5513,6 @@
 - [sagebind/slackyboy](https://github.com/sagebind/slackyboy) - A helpful, programmable chat bot for Slack
 - [sagebind/slack-client](https://github.com/sagebind/slack-client) - A better Slack client, with RTM API support.
 - [openva/richmondsunlight.com](https://github.com/openva/richmondsunlight.com) - The Richmond Sunlight website.
-- [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
 - [google/arc-jazzy-linter](https://github.com/google/arc-jazzy-linter) - A jazzy linter for use with Phabricator's arc command line tool.
 - [pantheon-systems/quicksilver-examples](https://github.com/pantheon-systems/quicksilver-examples) - Example scripts for using Pantheon's Quicksilver Platform Hooks
 - [potsky/PimpMyLog](https://github.com/potsky/PimpMyLog) - 🍭 Log viewer for your web server
@@ -5548,6 +5548,10 @@
 
 - [turbo/pg-shortkey](https://github.com/turbo/pg-shortkey) - YouTube-like Short IDs as Postgres Primary Keys
 - [df8org/scaledger](https://github.com/df8org/scaledger) - A double-entry accounting database with a typed GraphQL API
+
+## POV-Ray SDL 
+
+- [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
 
 ## Papyrus 
 
@@ -6217,7 +6221,7 @@
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [lauris/awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
 - [devrandom/gitian-builder](https://github.com/devrandom/gitian-builder) - Build packages in a secure deterministic fashion inside a VM
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [autopkg/autopkg](https://github.com/autopkg/autopkg) - Automating packaging and software distribution on macOS.
 - [autopkg/jessepeterson-recipes](https://github.com/autopkg/jessepeterson-recipes) - Recipes for http://autopkg.github.io/autopkg/
@@ -7169,6 +7173,7 @@
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust
 - [samuela/rustybox](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust 🦀
 - [getsentry/symbolicator](https://github.com/getsentry/symbolicator) - Native Symbolication as a Service
+- [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 - [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) - Awesome Rust
 - [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
@@ -7616,7 +7621,7 @@
 - [frankrausch/AttributedStringStyledMarkdown](https://github.com/frankrausch/AttributedStringStyledMarkdown) - AttributedString Markdown initializer with custom styling
 - [brunophilipe/LiquidKit](https://github.com/brunophilipe/LiquidKit) - Liquid template language parser engine in Swift.
 - [facebook/lexical-ios](https://github.com/facebook/lexical-ios) - Lexical iOS is an extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit.
-- [soulverteam/NaturalLanguageDateParsing](https://github.com/soulverteam/NaturalLanguageDateParsing) - Use SoulverCore to add a natural language date input feature to your Mac or iOS app.
+- [soulverteam/NaturalLanguageDateParsing](https://github.com/soulverteam/NaturalLanguageDateParsing) - Use SoulverCore to add a natural language date input feature to your Mac or iOS app
 - [jordibruin/FromScratch](https://github.com/jordibruin/FromScratch) - A simple app to reset your macOS app permissions
 - [KarimEbrahemAbdelaziz/SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - Simple and Elegant Drop down menu for iOS 🔥💥
 - [johnpatrickmorgan/NavigationBackport](https://github.com/johnpatrickmorgan/NavigationBackport) - Backported SwiftUI navigation APIs introduced in WWDC22
@@ -9071,6 +9076,7 @@
 
 ## TeX 
 
+- [rrruark/DNVT](https://github.com/rrruark/DNVT) - Digital Non-secure Voice Terminal Codeword Testing
 - [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) - A Tufte-inspired LaTeX class for producing handouts, papers, and books
 - [openbmc/docs](https://github.com/openbmc/docs) - OpenBMC Documentation
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
@@ -9118,6 +9124,7 @@
 
 ## TypeScript 
 
+- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [analogjs/analog](https://github.com/analogjs/analog) - The fullstack Angular meta-framework
 - [mathieudutour/timezone-butler](https://github.com/mathieudutour/timezone-butler) - ⏰🤵 A Slack butler who will take care of the timezone differences in your team.
 - [ionic-team/capacitor-assets](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool
