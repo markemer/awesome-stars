@@ -29,6 +29,7 @@
 - [bot](#bot)
 - [c](#c)
 - [chatgpt](#chatgpt)
+- [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -64,6 +65,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
+- [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
 - [emacs](#emacs)
@@ -529,7 +531,7 @@
 
 ## atom 
 
-- [kelvin13/atomic-blonde](https://github.com/kelvin13/atomic-blonde) - SourceKit-based syntax highlighting for the Swift language
+- [tayloraswift/atomic-blonde](https://github.com/tayloraswift/atomic-blonde) - SourceKit-based syntax highlighting for the Swift language
 - [mehcode/awesome-atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources.
 - [randy3k/remote-atom](https://github.com/randy3k/remote-atom) - rmate for atom
 - [lexrus/LTFinderButtons](https://github.com/lexrus/LTFinderButtons) - My Finder buttons collection for macOS.
@@ -1206,6 +1208,10 @@
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 
 ## chatgpt 
+
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+
+## chatgpt-api 
 
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 
@@ -2307,6 +2313,21 @@
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [docker/labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 
+## education 
+
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+- [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
+- [adafruit/circuitpython](https://github.com/adafruit/circuitpython) - CircuitPython - a Python implementation for teaching coding with microcontrollers
+- [SalusaSecondus/CryptoGotchas](https://github.com/SalusaSecondus/CryptoGotchas) - A collection of common (interesting) cryptographic mistakes and learning resources.
+- [OpenCircuits/OpenCircuits](https://github.com/OpenCircuits/OpenCircuits) - A free, open source, online digital circuit/logic designer.
+- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
+- [googlearchive/science-journal-ios](https://github.com/googlearchive/science-journal-ios) - Use the sensors in your mobile devices to perform science experiments. Science doesn’t just happen in the classroom or lab—tools like Science Journal let you see how the world works with just your pho
+- [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
+- [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
+- [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
 ## electron 
 
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
@@ -3272,6 +3293,7 @@
 
 ## graphql 
 
+- [graphql-rust/graphql-parser](https://github.com/graphql-rust/graphql-parser) - A graphql query language and schema definition language parser and formatter for rust
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
@@ -4990,6 +5012,7 @@
 
 ## language 
 
+- [DSLsofMath/DSLsofMath](https://github.com/DSLsofMath/DSLsofMath) - Domain-Specific Languages of Mathematics
 - [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -7346,7 +7369,6 @@
 - [nick-fields/private-action-loader](https://github.com/nick-fields/private-action-loader) - Allows private GitHub Actions to be easily reused
 - [skeeto/hastyhex](https://github.com/skeeto/hastyhex) - A blazing fast hex dumper
 - [chip-red-pill/uCodeDisasm](https://github.com/chip-red-pill/uCodeDisasm) - 
-- [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
 - [gogcom/galaxy-ue4-oss-plugin](https://github.com/gogcom/galaxy-ue4-oss-plugin) - OnlineSubsystem interface implementation for GOG Galaxy platform
 - [gogcom/galaxy-integrations-python-api](https://github.com/gogcom/galaxy-integrations-python-api) - NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the Galaxy Client 2.0 shall be sent via Galaxy Client menu
@@ -10335,7 +10357,7 @@
 - [microsoftgraph/ios-swift-connect-sample](https://github.com/microsoftgraph/ios-swift-connect-sample) - Please see https://github.com/microsoftgraph/msgraph-training-ios-swift for a Swift sample.
 - [microsoftgraph/ios-swift-snippets-sample](https://github.com/microsoftgraph/ios-swift-snippets-sample) - Please see https://github.com/microsoftgraph/msgraph-training-ios-swift for a Swift sample.
 - [microsoftgraph/ruby-connect-rest-sample](https://github.com/microsoftgraph/ruby-connect-rest-sample) - [ARCHIVED] Use Microsoft Graph to access a user’s Microsoft account resources from within a Ruby on Rails web application. This sample uses REST calls directly to Microsoft Graph, and uses the Azure A
-- [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+- [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [jkingyens/docker4xcode](https://github.com/jkingyens/docker4xcode) - Build, ship and run iOS apps like docker containers
 - [moby/vpnkit](https://github.com/moby/vpnkit) - A toolkit for embedding VPN capabilities in your application
 - [mackyle/xar](https://github.com/mackyle/xar) - eXtensible ARchiver
@@ -12867,6 +12889,7 @@
 
 ## rust 
 
+- [graphql-rust/graphql-parser](https://github.com/graphql-rust/graphql-parser) - A graphql query language and schema definition language parser and formatter for rust
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [henrikpersson/potatis](https://github.com/henrikpersson/potatis) - 🥔 MOS-6502 and NES emulator in Rust (SDL/WebAssembly/Android/Embedded/Cloud)
 - [khvzak/mlua](https://github.com/khvzak/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
