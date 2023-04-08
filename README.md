@@ -234,6 +234,7 @@
 ## Astro 
 
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
+- [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## AutoHotkey 
@@ -1525,7 +1526,7 @@
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 - [DavidColson/UnrealInk](https://github.com/DavidColson/UnrealInk) - Integration of the Ink language into Unreal 4 (https://github.com/inkle/ink)
-- [kelvin13/atomic-blonde](https://github.com/kelvin13/atomic-blonde) - SourceKit-based syntax highlighting for the Swift language
+- [tayloraswift/atomic-blonde](https://github.com/tayloraswift/atomic-blonde) - SourceKit-based syntax highlighting for the Swift language
 - [Polidea/SiriusObfuscator](https://github.com/Polidea/SiriusObfuscator) - 
 - [NVIDIA/MDL-SDK](https://github.com/NVIDIA/MDL-SDK) - NVIDIA Material Definition Language SDK
 - [gildor2/ActorX](https://github.com/gildor2/ActorX) - Epic Games ActorX plugin source code
@@ -2896,6 +2897,7 @@
 
 ## Haskell 
 
+- [DSLsofMath/DSLsofMath](https://github.com/DSLsofMath/DSLsofMath) - Domain-Specific Languages of Mathematics
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [jez/pandoc-sidenote](https://github.com/jez/pandoc-sidenote) - Convert Pandoc Markdown-style footnotes into sidenotes
 - [jgm/pandoc-server](https://github.com/jgm/pandoc-server) - Simple server app for pandoc conversions.
@@ -3694,7 +3696,7 @@
 - [hotosm/osm-tasking-manager2](https://github.com/hotosm/osm-tasking-manager2) - Designed and built for Humanitarian OpenStreetMap Team collaborative emergency/disaster mapping, the OSM Tasking Manager 2.0 divides an area into individual squares that can be rapidly mapped by thous
 - [vercel/hyperyellow](https://github.com/vercel/hyperyellow) - Example theme for hyperterm
 - [vercel/hyperpower](https://github.com/vercel/hyperpower) - Hyper particle effects extension
-- [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+- [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [jkingyens/docker4xcode](https://github.com/jkingyens/docker4xcode) - Build, ship and run iOS apps like docker containers
 - [rapidlua/luajit.me](https://github.com/rapidlua/luajit.me) - LuaJIT compiler explorer
 - [topojson/topojson-server](https://github.com/topojson/topojson-server) - Convert GeoJSON to TopoJSON.
@@ -3937,6 +3939,7 @@
 
 ## Jinja 
 
+- [brianhanifin/Home-Assistant-Config](https://github.com/brianhanifin/Home-Assistant-Config) - Home Assistant configuration files.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [geerlingguy/drupal-vm](https://github.com/geerlingguy/drupal-vm) - A VM for Drupal development
@@ -4227,7 +4230,6 @@
 
 ## Nunjucks 
 
-- [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 
 ## OCaml 
@@ -6970,6 +6972,7 @@
 
 ## Rust 
 
+- [graphql-rust/graphql-parser](https://github.com/graphql-rust/graphql-parser) - A graphql query language and schema definition language parser and formatter for rust
 - [kilork/openid](https://github.com/kilork/openid) - OpenID Connect client using async / await
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
@@ -7394,7 +7397,6 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [DataDog/yubikey](https://github.com/DataDog/yubikey) - YubiKey at Datadog
 - [f4pga/prjxray-db](https://github.com/f4pga/prjxray-db) - Project X-Ray Database: XC7 Series
-- [brianhanifin/Home-Assistant-Config](https://github.com/brianhanifin/Home-Assistant-Config) - Home Assistant configuration files.
 - [cooljeanius/macportsscripts](https://github.com/cooljeanius/macportsscripts) - Various little scripts for MacPorts. Forked to add more stuff to it and stuff.
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [geoffeg/opiterm](https://github.com/geoffeg/opiterm) - 1Password integration for iTerm2
