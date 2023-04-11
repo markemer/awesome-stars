@@ -265,8 +265,8 @@
 
 ## C 
 
+- [mecparts/RetroWiFiModem](https://github.com/mecparts/RetroWiFiModem) - An ESP8266 based RS232 &lt;-&gt; WiFi modem with Hayes AT style commands and LED indicators
 - [nickandre/dnvt-fw](https://github.com/nickandre/dnvt-fw) - 
-- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [utmapp/qemu](https://github.com/utmapp/qemu) - qemu with iOS host support
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine
@@ -1164,6 +1164,7 @@
 
 ## C++ 
 
+- [jkriege2/JKQtPlotter](https://github.com/jkriege2/JKQtPlotter) - an extensive Qt5 & Qt6 Plotter framework (including a feature-richt plotter widget, a speed-optimized, but limited variant and a LaTeX equation renderer!), written fully in C/C++ and without external 
 - [chipsalliance/UHDM-integration-tests](https://github.com/chipsalliance/UHDM-integration-tests) - 
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 - [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
@@ -4825,6 +4826,7 @@
 
 ## Others 
 
+- [EvgeniGenchev/Google-Coral-Expansion-Card](https://github.com/EvgeniGenchev/Google-Coral-Expansion-Card) - 
 - [austenstone/list-prs-associated-with-a-commit](https://github.com/austenstone/list-prs-associated-with-a-commit) - Create a Composite Action
 - [aws-samples/dcv-extension-sdk](https://github.com/aws-samples/dcv-extension-sdk) - 
 - [aws-samples/dcv-extension-sdk-samples](https://github.com/aws-samples/dcv-extension-sdk-samples) - 
@@ -5574,6 +5576,7 @@
 
 ## Perl 
 
+- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [perl-carton/carton](https://github.com/perl-carton/carton) - Bundler or pip freeze for Perl
 - [Perl/perl5](https://github.com/Perl/perl5) - 🐫 The Perl programming language
 - [ClickSend/clicksend-perl](https://github.com/ClickSend/clicksend-perl) - ClickSend Perl SDK
@@ -7627,6 +7630,7 @@
 
 ## Swift 
 
+- [MacPaw/CocoaSprings](https://github.com/MacPaw/CocoaSprings) - Interactive spring animations for macOS/iOS
 - [frankrausch/AttributedStringStyledMarkdown](https://github.com/frankrausch/AttributedStringStyledMarkdown) - AttributedString Markdown initializer with custom styling
 - [brunophilipe/LiquidKit](https://github.com/brunophilipe/LiquidKit) - Liquid template language parser engine in Swift.
 - [facebook/lexical-ios](https://github.com/facebook/lexical-ios) - Lexical iOS is an extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit.
