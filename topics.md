@@ -445,6 +445,7 @@
 
 ## api 
 
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Complete implementation of the undocumented Twitter API
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
@@ -547,6 +548,7 @@
 
 ## automation 
 
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Complete implementation of the undocumented Twitter API
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [puppeteer/replay](https://github.com/puppeteer/replay) - Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder
@@ -1054,6 +1056,7 @@
 
 ## bot 
 
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Complete implementation of the undocumented Twitter API
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [PSPDFKit-labs/reviewbot](https://github.com/PSPDFKit-labs/reviewbot) - Reviewbot is a Slack bot that shows reviewable pull requests.
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
@@ -1887,6 +1890,7 @@
 
 ## database 
 
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [inqueryio/inquery](https://github.com/inqueryio/inquery) - Superpowers for PostgreSQL
 - [issus/altium-library](https://github.com/issus/altium-library) - Open source Altium Database Library with over 165,000 high quality components and full 3d models.
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast!
@@ -2838,6 +2842,7 @@
 
 ## github 
 
+- [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -2909,6 +2914,7 @@
 
 ## go 
 
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [inqueryio/inquery](https://github.com/inqueryio/inquery) - Superpowers for PostgreSQL
 - [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go) - Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
@@ -3081,6 +3087,7 @@
 
 ## golang 
 
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [mitchellh/gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [osteele/liquid](https://github.com/osteele/liquid) - A Liquid template engine in Go
 - [inqueryio/inquery](https://github.com/inqueryio/inquery) - Superpowers for PostgreSQL
@@ -3372,7 +3379,6 @@
 
 - [Roll20/roll20-api-scripts](https://github.com/Roll20/roll20-api-scripts) - API Scripts created by the community for use in Roll20 VTT. Submit a ticket at roll20.net/help if critical hotfixes are to be requested.
 - [Roll20/roll20-character-sheets](https://github.com/Roll20/roll20-character-sheets) - Character sheet templates created by the community for use in Roll20 VTT. Submit a ticket at roll20.net/help if critical hotfixes are to be requested.
-- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [electron/electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [rizinorg/jsdec](https://github.com/rizinorg/jsdec) - Simple decompiler for Rizin
@@ -3935,6 +3941,7 @@
 
 ## ios 
 
+- [ryanashcraft/CloudSyncSession](https://github.com/ryanashcraft/CloudSyncSession) - Swift package that makes it easier to write CloudKit sync-enabled, offline-capable apps
 - [brunophilipe/LiquidKit](https://github.com/brunophilipe/LiquidKit) - Liquid template language parser engine in Swift.
 - [KarimEbrahemAbdelaziz/SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - Simple and Elegant Drop down menu for iOS 🔥💥
 - [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
@@ -4555,6 +4562,7 @@
 
 ## javascript 
 
+- [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [electron/electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -4711,7 +4719,7 @@
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [blinksh/themes](https://github.com/blinksh/themes) - blink themes collection
-- [viz-js/viz.js](https://github.com/viz-js/viz.js) - A hack to put Graphviz on the web.
+- [mdaines/viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [rails/webpacker](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https
@@ -4951,7 +4959,7 @@
 - [deliveryhero/whetstone](https://github.com/deliveryhero/whetstone) - Whetstone is a dependency injection framework for Android that greatly simplifies working with Dagger 2 using all the powers of Anvil
 - [android-password-store/kage](https://github.com/android-password-store/kage) - 🚧 WIP Kotlin implementation of the age file encryption format
 - [pinterest/ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
-- [varabyte/kobweb](https://github.com/varabyte/kobweb) - A modern framework for full stack web apps in Kotlin, built upon Compose for Web
+- [varabyte/kobweb](https://github.com/varabyte/kobweb) - A modern framework for full stack web apps in Kotlin, built upon Compose HTML
 - [handstandsam/kmp-ready](https://github.com/handstandsam/kmp-ready) - KMP Ready is a Gradle Plugin that provides actionable advice to make your code Kotlin Multiplatform compatible.
 - [mingchen/docker-android-build-box](https://github.com/mingchen/docker-android-build-box) - An optimized docker image includes Android, Kotlin, Flutter sdk.
 - [Foso/Ktorfit](https://github.com/Foso/Ktorfit) - HTTP client generator / KSP plugin for Kotlin Multiplatform (Android,Js, Jvm , Native, iOS) using KSP and Ktor clients inspired by Retrofit https://foso.github.io/Ktorfit
@@ -5538,6 +5546,7 @@
 
 ## macos 
 
+- [ryanashcraft/CloudSyncSession](https://github.com/ryanashcraft/CloudSyncSession) - Swift package that makes it easier to write CloudKit sync-enabled, offline-capable apps
 - [mitchellh/gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [brunophilipe/LiquidKit](https://github.com/brunophilipe/LiquidKit) - Liquid template language parser engine in Swift.
 - [sveinbjornt/hear](https://github.com/sveinbjornt/hear) - Command line speech recognition and transcription for macOS
@@ -5611,6 +5620,7 @@
 - [vineetchoudhary/Downloader-for-Apple-Developers](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers) - Download Xcode, WWDC Videos, and other developer tools up to 16 times faster.
 - [macmade/PropertyListEditor](https://github.com/macmade/PropertyListEditor) - macOS PropertyList Editor
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
+- [mxcl/xcodebuild](https://github.com/mxcl/xcodebuild) - A continuously resilient `xcodebuild` “GitHub Action”. Also it’s the best.
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [blacktop/go-macho](https://github.com/blacktop/go-macho) - Package macho implements access to and creation of Mach-O object files.
 - [macmade/IOBrowser](https://github.com/macmade/IOBrowser) - A macOS application for browsing the IOKit registry.
@@ -5898,6 +5908,7 @@
 
 ## markdown 
 
+- [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
@@ -6039,6 +6050,7 @@
 
 ## mongodb 
 
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [roboncode/shorty-go](https://github.com/roboncode/shorty-go) - Microservice that shortens urls like bit.ly written in Go
@@ -6570,6 +6582,12 @@
 
 ## others 
 
+- [apple-oss-distributions/distribution-Developer_Tools](https://github.com/apple-oss-distributions/distribution-Developer_Tools) - 
+- [apple-oss-distributions/distribution-iOS](https://github.com/apple-oss-distributions/distribution-iOS) - 
+- [apple-oss-distributions/distribution-macOS](https://github.com/apple-oss-distributions/distribution-macOS) - 
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
+- [DavidGoldman/InspectiveC](https://github.com/DavidGoldman/InspectiveC) - objc_msgSend hook for debugging/inspection purposes.
+- [WolvenKit/Cyberpunk-Blender-add-on](https://github.com/WolvenKit/Cyberpunk-Blender-add-on) - The Cyberpunk add-on for Blender bridges complex game assets with Blender.
 - [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API
 - [EvgeniGenchev/Google-Coral-Expansion-Card](https://github.com/EvgeniGenchev/Google-Coral-Expansion-Card) - 
 - [mecparts/RetroWiFiModem](https://github.com/mecparts/RetroWiFiModem) - An ESP8266 based RS232 &lt;-&gt; WiFi modem with Hayes AT style commands and LED indicators
@@ -6607,7 +6625,7 @@
 - [err4o4/spotify-car-thing-reverse-engineering](https://github.com/err4o4/spotify-car-thing-reverse-engineering) - 
 - [ZipCPU/wbsata](https://github.com/ZipCPU/wbsata) - Wishbone SATA Controller
 - [ZipCPU/eth10g](https://github.com/ZipCPU/eth10g) - 10Gb Ethernet Switch
-- [openhwgroup/cvw](https://github.com/openhwgroup/cvw) - Configurable RISC-V Processor
+- [openhwgroup/cvw](https://github.com/openhwgroup/cvw) - CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches,
 - [utmapp/CocoaSpice](https://github.com/utmapp/CocoaSpice) - Cocoa bindings for SPICE client GTK
 - [utmapp/qemu](https://github.com/utmapp/qemu) - qemu with iOS host support
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
@@ -7296,7 +7314,6 @@
 - [elliotherriman/vscode-ink](https://github.com/elliotherriman/vscode-ink) - Adds support for ink to Visual Studio Code.
 - [elliotherriman/calico](https://github.com/elliotherriman/calico) - a web engine for interactive fiction
 - [linuxserver/docker-grocy](https://github.com/linuxserver/docker-grocy) - A container for grocy - the ERP application for your kitchen https://grocy.info
-- [mxcl/xcodebuild](https://github.com/mxcl/xcodebuild) - A continuously resilient `xcodebuild` “GitHub Action”. Also it’s the best.
 - [jgillum/foiamachine](https://github.com/jgillum/foiamachine) - Automate your FOIAs. The real, production version.
 - [rust-embedded/book](https://github.com/rust-embedded/book) - Documentation on how to use the Rust Programming Language to develop firmware for bare metal (microcontroller) devices
 - [librsync/librsync](https://github.com/librsync/librsync) - remote delta-compression library
@@ -7333,7 +7350,7 @@
 - [tuist/tuist-action](https://github.com/tuist/tuist-action) - A GitHub action to run Tuist from GitHub workflows
 - [Shopify/shadowenv](https://github.com/Shopify/shadowenv) - reversible directory-local environment variable manipulations
 - [bluescan/proggyfonts](https://github.com/bluescan/proggyfonts) - Monospaced fonts for programming.
-- [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
+- [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
 - [jgm/pandoc-server](https://github.com/jgm/pandoc-server) - Simple server app for pandoc conversions.
 - [galaxykate/codoodle](https://github.com/galaxykate/codoodle) - Unfussy platform for multiplayer Jackbox style doodle rooms
 - [Lightricks/Kintsugi](https://github.com/Lightricks/Kintsugi) - A tool to automatically resolve Git conflicts that occur in Xcode project files
@@ -11993,6 +12010,8 @@
 
 ## postgresql 
 
+- [aws/pg_tle](https://github.com/aws/pg_tle) - Framework for building trusted language extensions for PostgreSQL
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [inqueryio/inquery](https://github.com/inqueryio/inquery) - Superpowers for PostgreSQL
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
@@ -14559,6 +14578,7 @@
 
 ## twitter 
 
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Complete implementation of the undocumented Twitter API
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [renatolond/mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mastodon and Twitter
@@ -14761,7 +14781,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
-- [varabyte/kobweb](https://github.com/varabyte/kobweb) - A modern framework for full stack web apps in Kotlin, built upon Compose for Web
+- [varabyte/kobweb](https://github.com/varabyte/kobweb) - A modern framework for full stack web apps in Kotlin, built upon Compose HTML
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [jmarmorato/Intranet-Home-Page](https://github.com/jmarmorato/Intranet-Home-Page) - Intranet Home Page is a highly-configurable self-hosted browser homepage with integrations for public and local data feeds.
@@ -14936,6 +14956,7 @@
 
 ## wordpress 
 
+- [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [vinkla/extended-acf](https://github.com/vinkla/extended-acf) - Register advanced custom fields with object oriented PHP
@@ -14980,6 +15001,7 @@
 - [lucaszischka/BottomSheet](https://github.com/lucaszischka/BottomSheet) - A sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI.
 - [mkrd/Swift-BigInt](https://github.com/mkrd/Swift-BigInt) - A lightweight, Arbitrary Precision Arithmetic Library for Swift!
 - [vineetchoudhary/Downloader-for-Apple-Developers](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers) - Download Xcode, WWDC Videos, and other developer tools up to 16 times faster.
+- [mxcl/xcodebuild](https://github.com/mxcl/xcodebuild) - A continuously resilient `xcodebuild` “GitHub Action”. Also it’s the best.
 - [alemar11/Mechanica](https://github.com/alemar11/Mechanica) - A cross-platform library of Swift utils to ease your iOS | macOS | watchOS | tvOS and Linux development.
 - [Xcode-Tips/xcode-tips.github.io](https://github.com/Xcode-Tips/xcode-tips.github.io) - Community-run website for documenting Xcode Tips
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
