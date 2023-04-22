@@ -987,7 +987,6 @@
 - [gonsie/SR](https://github.com/gonsie/SR) - Simplified ROSS (now with history!)
 - [nvidia-compiler-sdk/nvvmir-samples](https://github.com/nvidia-compiler-sdk/nvvmir-samples) - 
 - [kjn/lbzip2](https://github.com/kjn/lbzip2) - Parallel bzip2 utility
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [gcwnow/linux](https://github.com/gcwnow/linux) - Linux kernel for GCW Zero (Ingenic JZ4770)
 - [macmade/ClangKit](https://github.com/macmade/ClangKit) - ClangKit provides an Objective-C frontend to LibClang. Source tokenization, diagnostics and fix-its are actually implemented.
 - [seb-m/CryptoPill](https://github.com/seb-m/CryptoPill) - Core Secret's crypto code.
@@ -1765,6 +1764,7 @@
 - [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
 - [laprej/ROSS--](https://github.com/laprej/ROSS--) - ROSS-- + C++ = ROSS + C
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [Smoothieware/Smoothiepanel](https://github.com/Smoothieware/Smoothiepanel) - SmoothiePanel is an Open Source Hardware control interface for industrial robotic machinery.
 - [Smoothieware/Smoothieware](https://github.com/Smoothieware/Smoothieware) - Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
@@ -2214,7 +2214,7 @@
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
 - [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
-- [lmorg/murex](https://github.com/lmorg/murex) - A better shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
 - [sfomuseum/go-libraryofcongress](https://github.com/sfomuseum/go-libraryofcongress) - Go package providing tools for working with Library of Congress data.
 - [benjojo/hot-clone](https://github.com/benjojo/hot-clone) - Progressively image a mounted disk correctly without corruption
@@ -2965,6 +2965,7 @@
 
 ## Java 
 
+- [DMaroo/GhidRust](https://github.com/DMaroo/GhidRust) - GhidRust: Rust decompiler plugin for Ghidra
 - [apache/pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 - [onyx-intl/OnyxAndroidDemo](https://github.com/onyx-intl/OnyxAndroidDemo) - 
@@ -4833,6 +4834,7 @@
 
 ## Others 
 
+- [Jana-Marie/trainlog](https://github.com/Jana-Marie/trainlog) - simple position and movement tracker/logger.
 - [iains/gcc-13-branch](https://github.com/iains/gcc-13-branch) - GCC 13 for Darwin with experimental Arm64 support.  Current release 13.1-darwin-pre-r0
 - [apple-oss-distributions/distribution-Developer_Tools](https://github.com/apple-oss-distributions/distribution-Developer_Tools) - 
 - [apple-oss-distributions/distribution-iOS](https://github.com/apple-oss-distributions/distribution-iOS) - 
@@ -6995,7 +6997,6 @@
 
 ## Rust 
 
-- [Ramblurr/nixos-workstation](https://github.com/Ramblurr/nixos-workstation) - 
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [rp-rs/pio-rs](https://github.com/rp-rs/pio-rs) - Support crate for Raspberry Pi's PIO architecture.
 - [rp-rs/rp-hal](https://github.com/rp-rs/rp-hal) - A Rust Embedded-HAL for the rp series microcontrollers
@@ -7339,6 +7340,7 @@
 
 ## Shell 
 
+- [Ramblurr/nixos-workstation](https://github.com/Ramblurr/nixos-workstation) - 
 - [ValveSoftware/steam-runtime](https://github.com/ValveSoftware/steam-runtime) - A runtime environment for Steam applications
 - [swift-server/swift-devcontainer-template](https://github.com/swift-server/swift-devcontainer-template) - Visual Studio Code Development Container for Swift
 - [cli/gh-extension-precompile](https://github.com/cli/gh-extension-precompile) - Action for publishing binary GitHub CLI extensions
@@ -7375,7 +7377,7 @@
 - [rfbproto/rfbproto](https://github.com/rfbproto/rfbproto) - 
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [mattpolzin/swift-codecov-action](https://github.com/mattpolzin/swift-codecov-action) - 
-- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
+- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [ogra1/zoom-snap](https://github.com/ogra1/zoom-snap) - 
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
@@ -7646,6 +7648,7 @@
 
 ## Swift 
 
+- [DougGregor/swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
 - [gordontucker/FittedSheets](https://github.com/gordontucker/FittedSheets) - Bottom sheets for iOS
 - [ryanashcraft/CloudSyncSession](https://github.com/ryanashcraft/CloudSyncSession) - Swift package that makes it easier to write CloudKit sync-enabled, offline-capable apps
 - [MacPaw/CocoaSprings](https://github.com/MacPaw/CocoaSprings) - Interactive spring animations for macOS/iOS
@@ -7936,7 +7939,7 @@
 - [mfcollins3/SwiftMonacoEditor](https://github.com/mfcollins3/SwiftMonacoEditor) - Visual Studio Code's Monaco text editor packaged as a host-able UIKit or SwiftUI component.
 - [sunshinejr/Pouch](https://github.com/sunshinejr/Pouch) - Secret management tool.
 - [SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs) - Complete SwiftUI Docs with Examples
-- [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
+- [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [danielmartin/swift-helpful](https://github.com/danielmartin/swift-helpful) - A Self-Documenting Emacs Programming Environment for Swift. Includes curated Swift 5.6 documentation and reference in GNU Info format, with cross-references, and keyword/topic indices.
 - [FlineDev/BartyCrouch](https://github.com/FlineDev/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
 - [LucianoPAlmeida/variable-injector](https://github.com/LucianoPAlmeida/variable-injector) - Continuous Integration Tool for Swift Projects
@@ -8011,7 +8014,7 @@
 - [apple/swift-service-discovery](https://github.com/apple/swift-service-discovery) - A service discovery API for Swift.
 - [jeffctown/xcframework](https://github.com/jeffctown/xcframework) - A simple tool to create an XCFramework
 - [krzyzanowskim/CoreTextWorkshop](https://github.com/krzyzanowskim/CoreTextWorkshop) - Take a look at the CoreText API - a foundation of layout and drawing text on macOS and iOS. In this workshop we’ll attempt to build Text Label (akin UILabel), learn about layers of CoreText API and ho
-- [RobotsAndPencils/xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
+- [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [SwiftyTesseract/SwiftyTesseract](https://github.com/SwiftyTesseract/SwiftyTesseract) - A Swift wrapper around Tesseract for use in iOS, macOS, and Linux applications
 - [apple/swift-algorithms](https://github.com/apple/swift-algorithms) - Commonly used sequence and collection algorithms for Swift
 - [madmachineio/SwiftIO](https://github.com/madmachineio/SwiftIO) - A Swift framework for microcontrollers.
@@ -9153,6 +9156,7 @@
 
 ## TypeScript 
 
+- [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [SwiftFiddle/swiftfiddle-runner-functions-22](https://github.com/SwiftFiddle/swiftfiddle-runner-functions-22) - 
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
@@ -9273,7 +9277,7 @@
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [cgrevisse/swift-project-creation](https://github.com/cgrevisse/swift-project-creation) - VS Code Extension for Swift Project/Package creation.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform. Airtable-like UI for managing your database with cloud functions workflows in JS/TS, all in your browser.
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [caddyserver/vscode-caddyfile](https://github.com/caddyserver/vscode-caddyfile) - Rich Caddyfile support for Visual Studio Code
