@@ -445,7 +445,7 @@
 
 ## api 
 
-- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Complete implementation of the undocumented Twitter API
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of Twitter's v1, v2, and GraphQL APIs
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
@@ -548,7 +548,7 @@
 
 ## automation 
 
-- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Complete implementation of the undocumented Twitter API
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of Twitter's v1, v2, and GraphQL APIs
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [puppeteer/replay](https://github.com/puppeteer/replay) - Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder
@@ -599,6 +599,7 @@
 
 ## awesome 
 
+- [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem.
 - [matthewbarreiro/awesome-steam-deck](https://github.com/matthewbarreiro/awesome-steam-deck) - A curated list of software and hardware for Valve's Steam Deck!
 - [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) - An "awesome" list of Ionic resources
 - [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
@@ -1056,7 +1057,7 @@
 
 ## bot 
 
-- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Complete implementation of the undocumented Twitter API
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of Twitter's v1, v2, and GraphQL APIs
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [PSPDFKit-labs/reviewbot](https://github.com/PSPDFKit-labs/reviewbot) - Reviewbot is a Slack bot that shows reviewable pull requests.
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
@@ -5081,6 +5082,7 @@
 
 ## latex 
 
+- [mkhan45/CalcuLaTeX](https://github.com/mkhan45/CalcuLaTeX) - A pretty printing calculator language with support for units. Makes calculations easier and more presentable with real time LaTeX output, along with support for units, variables, and mathematical func
 - [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) - A Tufte-inspired LaTeX class for producing handouts, papers, and books
 - [susam/mathb](https://github.com/susam/mathb) - Share mathematics on the web with LaTeX and Markdown
 - [Witiko/markdown](https://github.com/Witiko/markdown) - :notebook_with_decorative_cover: A package for converting and rendering markdown documents in TeX
@@ -5120,7 +5122,7 @@
 - [OCamlverse/ocamlverse.github.io](https://github.com/OCamlverse/ocamlverse.github.io) - Documentation of everything relevant in the OCaml world
 - [bryanph/GeistMap](https://github.com/bryanph/GeistMap) - An experimental personal knowledge base with a focus on connections
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
-- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷
 - [lgpage/nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [shekhargulati/52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
 
@@ -6586,9 +6588,10 @@
 
 ## others 
 
+- [tiffany352/rink-rs](https://github.com/tiffany352/rink-rs) - Unit conversion tool and library written in rust
+- [mafleming/HP48RamCard](https://github.com/mafleming/HP48RamCard) - Schematics and Gerbers for a 128K RAM card
 - [eliben/wasm-wat-samples](https://github.com/eliben/wasm-wat-samples) - Samples of WebAssembly Text programs
 - [Jana-Marie/trainlog](https://github.com/Jana-Marie/trainlog) - simple position and movement tracker/logger.
-- [DMaroo/GhidRust](https://github.com/DMaroo/GhidRust) - GhidRust: Rust decompiler plugin for Ghidra
 - [DougGregor/swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
 - [Ramblurr/nixos-workstation](https://github.com/Ramblurr/nixos-workstation) - 
 - [iains/gcc-13-branch](https://github.com/iains/gcc-13-branch) - GCC 13 for Darwin with experimental Arm64 support.  Current release 13.1-darwin-pre-r0
@@ -9663,7 +9666,7 @@
 - [ilcato/homebridge-ifttt](https://github.com/ilcato/homebridge-ifttt) - Homebridge plugin for IFTTT Maker channel
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [mediacloud/date_guesser](https://github.com/mediacloud/date_guesser) - A library to extract a publication date from a web page, along with a measure of the accuracy.
-- [fniessen/org-macros](https://github.com/fniessen/org-macros) - Macros for Org mode
+- [fniessen/org-macros](https://github.com/fniessen/org-macros) - Take your Org mode productivity to the next level with our Macro Refcard! Discover the power of macros with practical examples and shortcuts. Download now. #orgmode #macros #productivityhacks
 - [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 - [krzysztofzablocki/crafter](https://github.com/krzysztofzablocki/crafter) - Crafter - Xcode project configuration CLI made easy.
 - [aws-samples/lambda-go-samples](https://github.com/aws-samples/lambda-go-samples) - An example of using AWS Lambda with Go
@@ -12747,6 +12750,7 @@
 
 ## reverse-engineering 
 
+- [DMaroo/GhidRust](https://github.com/DMaroo/GhidRust) - GhidRust: Rust decompiler plugin for Ghidra
 - [fugue-re/fugue-core](https://github.com/fugue-re/fugue-core) - A binary analysis framework written in Rust.
 - [rizinorg/jsdec](https://github.com/rizinorg/jsdec) - Simple decompiler for Rizin
 - [alexbatalov/fallout1-re](https://github.com/alexbatalov/fallout1-re) - Reverse engineered Fallout
@@ -12938,6 +12942,7 @@
 
 ## rust 
 
+- [DMaroo/GhidRust](https://github.com/DMaroo/GhidRust) - GhidRust: Rust decompiler plugin for Ghidra
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [rp-rs/pio-rs](https://github.com/rp-rs/pio-rs) - Support crate for Raspberry Pi's PIO architecture.
 - [graphql-rust/graphql-parser](https://github.com/graphql-rust/graphql-parser) - A graphql query language and schema definition language parser and formatter for rust
@@ -14592,7 +14597,7 @@
 
 ## twitter 
 
-- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Complete implementation of the undocumented Twitter API
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of Twitter's v1, v2, and GraphQL APIs
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [renatolond/mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mastodon and Twitter
