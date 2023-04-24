@@ -4041,7 +4041,7 @@
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [Atcold/pytorch-CortexNet](https://github.com/Atcold/pytorch-CortexNet) - PyTorch implementation of the CortexNet predictive model
-- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷
 - [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [udacity/self-driving-car](https://github.com/udacity/self-driving-car) - The Udacity open source self-driving car project
 - [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Me
@@ -4835,6 +4835,8 @@
 
 ## Others 
 
+- [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem.
+- [mafleming/HP48RamCard](https://github.com/mafleming/HP48RamCard) - Schematics and Gerbers for a 128K RAM card
 - [Jana-Marie/trainlog](https://github.com/Jana-Marie/trainlog) - simple position and movement tracker/logger.
 - [iains/gcc-13-branch](https://github.com/iains/gcc-13-branch) - GCC 13 for Darwin with experimental Arm64 support.  Current release 13.1-darwin-pre-r0
 - [apple-oss-distributions/distribution-Developer_Tools](https://github.com/apple-oss-distributions/distribution-Developer_Tools) - 
@@ -5262,7 +5264,7 @@
 - [kharrison/Xcode-Templates](https://github.com/kharrison/Xcode-Templates) - Xcode File And Project Templates
 - [carrotIndustries/pluto](https://github.com/carrotIndustries/pluto) - Pluto is a programmable digital watch that re-uses case and LCD panel of the Casio® F-91W. (Hardware)
 - [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
-- [fniessen/org-macros](https://github.com/fniessen/org-macros) - Macros for Org mode
+- [fniessen/org-macros](https://github.com/fniessen/org-macros) - Take your Org mode productivity to the next level with our Macro Refcard! Discover the power of macros with practical examples and shortcuts. Download now. #orgmode #macros #productivityhacks
 - [jeanregisser/mediaremotetv-protocol](https://github.com/jeanregisser/mediaremotetv-protocol) - Unofficial Apple TV remote protocol specification
 - [bunnie/netv2mvp-hardware](https://github.com/bunnie/netv2mvp-hardware) - Hardware for NeTV2MVP
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
@@ -5678,7 +5680,7 @@
 - [Blizzard/s2protocol](https://github.com/Blizzard/s2protocol) - Python library to decode StarCraft II replay protocols
 - [aws-samples/aws-aaos-pipeline](https://github.com/aws-samples/aws-aaos-pipeline) - 
 - [WolvenKit/Cyberpunk-Blender-add-on](https://github.com/WolvenKit/Cyberpunk-Blender-add-on) - The Cyberpunk add-on for Blender bridges complex game assets with Blender.
-- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Complete implementation of the undocumented Twitter API
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of Twitter's v1, v2, and GraphQL APIs
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [antmicro/yosys-systemverilog](https://github.com/antmicro/yosys-systemverilog) - SystemVerilog support for Yosys
@@ -6998,6 +7000,8 @@
 
 ## Rust 
 
+- [tiffany352/rink-rs](https://github.com/tiffany352/rink-rs) - Unit conversion tool and library written in rust
+- [mkhan45/CalcuLaTeX](https://github.com/mkhan45/CalcuLaTeX) - A pretty printing calculator language with support for units. Makes calculations easier and more presentable with real time LaTeX output, along with support for units, variables, and mathematical func
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [rp-rs/pio-rs](https://github.com/rp-rs/pio-rs) - Support crate for Raspberry Pi's PIO architecture.
 - [rp-rs/rp-hal](https://github.com/rp-rs/rp-hal) - A Rust Embedded-HAL for the rp series microcontrollers
@@ -9575,6 +9579,7 @@
 
 ## WebAssembly 
 
+- [eliben/wasm-wat-samples](https://github.com/eliben/wasm-wat-samples) - Samples of WebAssembly Text programs
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 - [danleh/wasabi](https://github.com/danleh/wasabi) - A dynamic analysis framework for WebAssembly programs.
 - [WebAssembly/spec](https://github.com/WebAssembly/spec) - WebAssembly specification, reference interpreter, and test suite.
