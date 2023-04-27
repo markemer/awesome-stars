@@ -3503,7 +3503,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
-- [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [RPTools/maptool](https://github.com/RPTools/maptool) - Virtual Tabletop for playing roleplaying games with remote players or face to face.
 - [avrae/avrae](https://github.com/avrae/avrae) - A Discord bot to streamline running D&D 5e.
 - [naturalcrit/homebrewery](https://github.com/naturalcrit/homebrewery) - Create authentic looking D&D homebrews using only markdown
@@ -6655,7 +6655,7 @@
 - [utmapp/CocoaSpice](https://github.com/utmapp/CocoaSpice) - Cocoa bindings for SPICE client GTK
 - [utmapp/qemu](https://github.com/utmapp/qemu) - qemu with iOS host support
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
-- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - 
+- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
 - [ionic-team/capacitor-assets](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool
 - [andrewzimmer906/Swift3D](https://github.com/andrewzimmer906/Swift3D) - A SwiftUI like 3D engine backed by Metal
 - [leaningtech/cheerp-compiler](https://github.com/leaningtech/cheerp-compiler) - Cheerp compiler based on LLVM monorepo
@@ -10226,7 +10226,7 @@
 - [benbalter/congressional-districts](https://github.com/benbalter/congressional-districts) - Historic and current US Congressional districts as GeoJSON, versioned within Git
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
 - [bcrypt-ruby/bcrypt-ruby](https://github.com/bcrypt-ruby/bcrypt-ruby) - bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.
-- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
