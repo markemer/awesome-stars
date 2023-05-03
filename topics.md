@@ -352,6 +352,7 @@
 - [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 - [handstandsam/kmp-ready](https://github.com/handstandsam/kmp-ready) - KMP Ready is a Gradle Plugin that provides actionable advice to make your code Kotlin Multiplatform compatible.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+- [rakutentech/macos-push-tester](https://github.com/rakutentech/macos-push-tester) - Native mac app for easily sending Apple APNs push notifications to iOS apps and FCM push notifications to Android apps.
 - [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 - [Foso/Ktorfit](https://github.com/Foso/Ktorfit) - HTTP client generator / KSP plugin for Kotlin Multiplatform (Android, iOS, Js, Jvm, Native) using KSP and Ktor clients inspired by Retrofit https://foso.github.io/Ktorfit
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -976,7 +977,7 @@
 
 ## bash 
 
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
@@ -1240,7 +1241,7 @@
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [YePpHa/YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) - YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more
 - [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
-- [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [danhper/atomic-chrome](https://github.com/danhper/atomic-chrome) - Edit Chrome textareas in Atom
 - [toggl/track-extension](https://github.com/toggl/track-extension) - Toggl Track browser extension for Chrome and Firefox
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -1403,7 +1404,7 @@
 - [gribnoysup/wunderbar](https://github.com/gribnoysup/wunderbar) - Simple horizontal bar chart printer for your terminal
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) - 🛠  Manage and deploy your Google Apps Script projects using the command line
-- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 - [piotrmurach/tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
@@ -2616,7 +2617,7 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
 - [umerjabbar/ContextMenuSwift](https://github.com/umerjabbar/ContextMenuSwift) - A better version of iOS 13 Context Menu
-- [1024jp/GzipSwift](https://github.com/1024jp/GzipSwift) - Swift framework that enables gzip/gunzip Data using zlib
+- [1024jp/GzipSwift](https://github.com/1024jp/GzipSwift) - Swift package that enables gzip/gunzip Data using zlib
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [ygit/swiftui](https://github.com/ygit/swiftui) - A collaborative list of awesome SwiftUI resources. Feel free to contribute!
@@ -2783,7 +2784,7 @@
 
 ## git 
 
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
 - [gogitdb/gitdb](https://github.com/gogitdb/gitdb) - Distributed Embeddable Database
@@ -3104,7 +3105,7 @@
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
@@ -3276,6 +3277,7 @@
 ## good-first-issue 
 
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 
 ## google 
@@ -3397,7 +3399,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [nova-labs/watto](https://github.com/nova-labs/watto) - wautils2: Rails app for wautils.nova-labs.org
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Visualise Go program runtime metrics in real time in your browser
@@ -3647,7 +3649,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [translate/translate](https://github.com/translate/translate) - Useful localization tools with Python API for building localization & translation systems
-- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [rails/webpacker](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails
 - [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
@@ -3836,7 +3838,7 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
@@ -4002,6 +4004,7 @@
 - [mergesort/Bodega](https://github.com/mergesort/Bodega) - A simple store for all your basic needs, and a foundational data layer primitive for iOS and Mac apps. 🐱
 - [vitormesquita/Malert](https://github.com/vitormesquita/Malert) - Custom alert View to iOS applications
 - [kazuhiro4949/PagingKit](https://github.com/kazuhiro4949/PagingKit) - PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries.
+- [rakutentech/macos-push-tester](https://github.com/rakutentech/macos-push-tester) - Native mac app for easily sending Apple APNs push notifications to iOS apps and FCM push notifications to Android apps.
 - [marcosgriselli/SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
 - [yusadogru/CardTabBar](https://github.com/yusadogru/CardTabBar) - This library is for adding animation to iOS tabbar items, which is inherited from UITabBarController.
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
@@ -4713,7 +4716,7 @@
 - [jh3y/kody](https://github.com/jh3y/kody) - .files and environment configuration manager created with node
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 - [agentejo/cockpit](https://github.com/agentejo/cockpit) - Add content management functionality to any site - plug & play / headless / api-first CMS
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
@@ -5607,6 +5610,7 @@
 - [zorgiepoo/Komet](https://github.com/zorgiepoo/Komet) - Cocoa editor for creating commit messages
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII) - Re-write of Injection for Xcode in (mostly) Swift
+- [rakutentech/macos-push-tester](https://github.com/rakutentech/macos-push-tester) - Native mac app for easily sending Apple APNs push notifications to iOS apps and FCM push notifications to Android apps.
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [deeje/CloudCore](https://github.com/deeje/CloudCore) - Robust CoreData-CloudKit synchronization: offline editing, relationships, private, shared and public databases, field-level deltas, encrypted values, cacheable assets, and more.
 - [cirruslabs/packer-plugin-tart](https://github.com/cirruslabs/packer-plugin-tart) - Packer builder for Tart VMs
@@ -6616,7 +6620,7 @@
 - [Jana-Marie/trainlog](https://github.com/Jana-Marie/trainlog) - simple position and movement tracker/logger.
 - [DougGregor/swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
 - [Ramblurr/nixcfg](https://github.com/Ramblurr/nixcfg) - 
-- [iains/gcc-13-branch](https://github.com/iains/gcc-13-branch) - GCC 13 for Darwin with experimental Arm64 support.  Current release 13.1-darwin-pre-r0
+- [iains/gcc-13-branch](https://github.com/iains/gcc-13-branch) - GCC 13 for Darwin with experimental Arm64 support.  Current release 13.1-darwin-r0 [April 2023]
 - [Blizzard/s2client-api](https://github.com/Blizzard/s2client-api) - StarCraft II Client - C++ library supported on Windows, Linux and Mac designed for building scripted bots and research using the SC2API.
 - [Blizzard/s2protocol](https://github.com/Blizzard/s2protocol) - Python library to decode StarCraft II replay protocols
 - [gordontucker/FittedSheets](https://github.com/gordontucker/FittedSheets) - Bottom sheets for iOS
@@ -7009,7 +7013,6 @@
 - [OpenEVSE/OpenEVSE_PLUS](https://github.com/OpenEVSE/OpenEVSE_PLUS) - OpenEVSE Hardware
 - [SolderedElectronics/Inkplate-GUI-Designer](https://github.com/SolderedElectronics/Inkplate-GUI-Designer) - Web app to easily design user interface for Inkplate boards.
 - [corin8823/Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift.
-- [rakutentech/macos-push-tester](https://github.com/rakutentech/macos-push-tester) - Native mac app for easily sending Apple APNs push messages to iOS apps and FCM push messages to Android apps
 - [atrblizzard/VAMPTools](https://github.com/atrblizzard/VAMPTools) - Vampire the Masquerade: Bloodlines model and texture converter
 - [WerWolv/Decompiler](https://github.com/WerWolv/Decompiler) - A WIP disassember and decompiler written in modern C++ with the goal to do as much work during compile time as possible
 - [snyk/dep-graph](https://github.com/snyk/dep-graph) - Represents a dependency graph
@@ -7347,10 +7350,8 @@
 - [bespoke-silicon-group/bsg_bladerunner](https://github.com/bespoke-silicon-group/bsg_bladerunner) - Meta-Repository for Bespoke Silicon Group's Manycore Architecture (A.K.A HammerBlade)
 - [eonist/FileWatcher](https://github.com/eonist/FileWatcher) - Monitoring file system changes in macOS
 - [RobertLarsen/GhidraFirmwareToolkit](https://github.com/RobertLarsen/GhidraFirmwareToolkit) - 
-- [ephread/Snowflake](https://github.com/ephread/Snowflake) - ❄️  SVG in Swift
 - [ephread/sophisticate](https://github.com/ephread/sophisticate) - Sophisticate SVG editors outputs to display them within interactive web pages.
 - [ephread/awesome-ios](https://github.com/ephread/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
-- [ephread/hiring-without-whiteboards](https://github.com/ephread/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [ephread/vscode-ink](https://github.com/ephread/vscode-ink) - Ink support for VS Code
 - [elliotherriman/vscode-ink](https://github.com/elliotherriman/vscode-ink) - Adds support for ink to Visual Studio Code.
 - [elliotherriman/calico](https://github.com/elliotherriman/calico) - a web engine for interactive fiction
@@ -7623,7 +7624,7 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [timwis/markdown-to-google-doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive
 - [olivaresf/amazingcloudkit](https://github.com/olivaresf/amazingcloudkit) - A smart way to use CloudKit
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-13.0.1 [February 2023]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-14.0.0 [April 2023]
 - [PPacie/SwipingCarousel](https://github.com/PPacie/SwipingCarousel) - UICollectionView-based swiping carousel using Swift 5.1 and Xcode 11.2
 - [ChrisMicro/mcurses](https://github.com/ChrisMicro/mcurses) - 
 - [krzysztofzablocki/AutomaticSettings](https://github.com/krzysztofzablocki/AutomaticSettings) - Data driven settings UI generation.
@@ -9431,7 +9432,7 @@
 - [repaper/gratis](https://github.com/repaper/gratis) - EPD Source codes and Documentation
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
 - [djfurman/well-managed-deployments](https://github.com/djfurman/well-managed-deployments) - Deployments are hard, doing it with proper oversight is harder, tracking it is near impossible without crazy expense. Meet a serverless solution to the problem.
-- [facebookincubator/profilo](https://github.com/facebookincubator/profilo) - A library for performance traces from production.
+- [facebookarchive/profilo](https://github.com/facebookarchive/profilo) - A library for performance traces from production.
 - [dmolony/dm3270](https://github.com/dmolony/dm3270) - tn3270 Terminal Emulator
 - [vapor/template-kit](https://github.com/vapor/template-kit) - 📄 Easy-to-use foundation for building powerful templating languages in Swift.
 - [intuit/intuit-developer-nodejs](https://github.com/intuit/intuit-developer-nodejs) - A starting point for anyone looking to quickly jump onto the Intuit Developer Platform, Intuit-developer-nodejs ties together OAuth, OpenID, NodeJS, QuickBooks APIs and SDK.
@@ -10135,7 +10136,7 @@
 - [riscv-software-src/riscv-angel](https://github.com/riscv-software-src/riscv-angel) - JavaScript RISC-V ISA Simulator. Boots linux in a web-browser.
 - [riscvarchive/riscv-qemu](https://github.com/riscvarchive/riscv-qemu) - QEMU with RISC-V (RV64G, RV32G) Emulation Support
 - [riscv-software-src/riscv-isa-sim](https://github.com/riscv-software-src/riscv-isa-sim) - Spike, a RISC-V ISA Simulator
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [Vitorian/awesome-mpsoc](https://github.com/Vitorian/awesome-mpsoc) - Public resources available for Xilinx  MPSOC+ and SDSOC hardware
 - [net-ssh/net-ssh](https://github.com/net-ssh/net-ssh) - Pure Ruby implementation of an SSH (protocol 2) client
 - [Wootenblatz/Jekyll-Admin](https://github.com/Wootenblatz/Jekyll-Admin) - Drop in code for Rails that allows you to edit your Jekyll.rb based blog.
@@ -10690,7 +10691,7 @@
 - [thurn/DTXcodeUtils](https://github.com/thurn/DTXcodeUtils) - A utility library for writing Xcode plugins
 - [kbitdk/kbsslenforcer](https://github.com/kbitdk/kbsslenforcer) - Automatic security, browse encrypted
 - [paulsamuels/SBConstants](https://github.com/paulsamuels/SBConstants) - 
-- [VitaliyRodnenko/geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
+- [vitalyrodnenko/geeknote](https://github.com/vitalyrodnenko/geeknote) - Console client for Evernote.
 - [gontovnik/DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift
 - [nerdishbynature/RequestKit](https://github.com/nerdishbynature/RequestKit) - The foundation of octokit.swift, TrashCanKit, TanukiKit and VloggerKit
 - [adlr/formulatepro](https://github.com/adlr/formulatepro) - Overlay text and graphics on PDF documents. Great for filling out forms.
@@ -11015,7 +11016,7 @@
 - [notwaldorf/.not-quite-dotfiles](https://github.com/notwaldorf/.not-quite-dotfiles) - :moneybag: NO JUDGING
 - [frida/cryptoshark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
-- [facebook/stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
+- [facebookarchive/stetho](https://github.com/facebookarchive/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 - [akosma/SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library for  iOS 9+, macOS 10.11+, tvOS 9+, watchOS 2+ written in Swift 4.
 - [Alterplay/APTimeZones](https://github.com/Alterplay/APTimeZones) - The easiest offline way to get NSTimeZone from CLLocation by folks from
 - [mariuszostrowski/subway](https://github.com/mariuszostrowski/subway) - Subway is a set of 306 pixel perfect crafted icons optimized for iOS, Apple Watch, Windows and BlackBerry 10.
@@ -12088,7 +12089,7 @@
 ## powershell 
 
 - [fstudio/clangbuilder](https://github.com/fstudio/clangbuilder) - Building Clang ♡ Utility and Environment
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
@@ -13363,7 +13364,7 @@
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
-- [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [serverless/scope](https://github.com/serverless/scope) - 🔭 Scope - Create a birdeye's view of your Github project and embed on your site
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
@@ -13626,6 +13627,7 @@
 - [johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII) - Re-write of Injection for Xcode in (mostly) Swift
 - [vitormesquita/Malert](https://github.com/vitormesquita/Malert) - Custom alert View to iOS applications
 - [kazuhiro4949/PagingKit](https://github.com/kazuhiro4949/PagingKit) - PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries.
+- [rakutentech/macos-push-tester](https://github.com/rakutentech/macos-push-tester) - Native mac app for easily sending Apple APNs push notifications to iOS apps and FCM push notifications to Android apps.
 - [marcosgriselli/SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
 - [yusadogru/CardTabBar](https://github.com/yusadogru/CardTabBar) - This library is for adding animation to iOS tabbar items, which is inherited from UITabBarController.
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
@@ -13779,7 +13781,7 @@
 - [uraimo/buildSwiftOnARM](https://github.com/uraimo/buildSwiftOnARM) - All you need to build Swift on a RaspberryPi or other ARM boards, updated to Swift 5.1.5
 - [tungvoduc/DTPagerController](https://github.com/tungvoduc/DTPagerController) - A fully customizable container view controller to display a set of ViewControllers in a horizontal scroll view. Written in Swift.
 - [viktorstrate/swift-tree-sitter](https://github.com/viktorstrate/swift-tree-sitter) - Swift bindings for the tree-sitter parsing library
-- [1024jp/GzipSwift](https://github.com/1024jp/GzipSwift) - Swift framework that enables gzip/gunzip Data using zlib
+- [1024jp/GzipSwift](https://github.com/1024jp/GzipSwift) - Swift package that enables gzip/gunzip Data using zlib
 - [unsignedapps/Vexil](https://github.com/unsignedapps/Vexil) - Vexil (named for Vexillology) is a Swift package for managing feature flags (also called feature toggles) in a flexible, multi-provider way.
 - [erickjung/SwiftGUI](https://github.com/erickjung/SwiftGUI) - SwiftGUI is an API inspired by SwiftUI DSL, using Dear ImGui as renderer and running on macOS 10.13+ and iOS 11+
 - [SFSafeSymbols/SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
@@ -14965,6 +14967,7 @@
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [pfultz2/cget](https://github.com/pfultz2/cget) - C++ package retrieval
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / W
 - [a2flo/floor](https://github.com/a2flo/floor) - A C++ Compute/Graphics Library and Toolchain enabling same-source CUDA/Host/Metal/OpenCL/Vulkan C++ programming and execution.
