@@ -711,7 +711,6 @@
 - [BenziAhamed/lua4swift](https://github.com/BenziAhamed/lua4swift) - High-level (convenient) Lua bindings for Swift
 - [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
 - [ruby/openssl](https://github.com/ruby/openssl) - Provides SSL, TLS and general purpose cryptography.
-- [vmware/open-vmdk](https://github.com/vmware/open-vmdk) - 
 - [vmware/open-vm-tools](https://github.com/vmware/open-vm-tools) - Official repository of VMware open-vm-tools project
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [Distrotech/transfig](https://github.com/Distrotech/transfig) - Transfig (fig2dev)
@@ -4847,7 +4846,6 @@
 - [apple-oss-distributions/distribution-Developer_Tools](https://github.com/apple-oss-distributions/distribution-Developer_Tools) - 
 - [apple-oss-distributions/distribution-iOS](https://github.com/apple-oss-distributions/distribution-iOS) - 
 - [apple-oss-distributions/distribution-macOS](https://github.com/apple-oss-distributions/distribution-macOS) - 
-- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API
 - [EvgeniGenchev/Google-Coral-Expansion-Card](https://github.com/EvgeniGenchev/Google-Coral-Expansion-Card) - 
 - [austenstone/list-prs-associated-with-a-commit](https://github.com/austenstone/list-prs-associated-with-a-commit) - Create a Composite Action
 - [aws-samples/dcv-extension-sdk](https://github.com/aws-samples/dcv-extension-sdk) - 
@@ -5332,7 +5330,7 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [abinoda/awesome-baas](https://github.com/abinoda/awesome-baas) - Awesome list of Backend as a Service ("BaaS") services
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
-- [kodecocodes/english-style-guide](https://github.com/kodecocodes/english-style-guide) - Style guide for writing in English for tutorials and articles at raywenderlich.com.
+- [kodecocodes/english-style-guide](https://github.com/kodecocodes/english-style-guide) - Style guide for writing in English for tutorials and articles at Kodeco.
 - [kodecocodes/kotlin-style-guide](https://github.com/kodecocodes/kotlin-style-guide) - Kodeco's Kotlin style guide
 - [riscvarchive/riscv-clang](https://github.com/riscvarchive/riscv-clang) - 
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
@@ -6129,6 +6127,7 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
 - [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
+- [vmware/open-vmdk](https://github.com/vmware/open-vmdk) - 
 - [sparkfun/SparkFun-KiCad-Libraries](https://github.com/sparkfun/SparkFun-KiCad-Libraries) - SparkFun's KiCad Libraries
 - [alexa/alexa-skills-kit-sdk-for-python](https://github.com/alexa/alexa-skills-kit-sdk-for-python) - The Alexa Skills Kit SDK for Python helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 - [SELinuxProject/refpolicy](https://github.com/SELinuxProject/refpolicy) - SELinux Reference Policy v2
@@ -6960,18 +6959,18 @@
 - [joelmoss/strano](https://github.com/joelmoss/strano) - Capistrano and Github sittin' in a tree...
 - [rubygems/bundler](https://github.com/rubygems/bundler) - Manage your Ruby application's gem dependencies
 - [sinatra/sinatra](https://github.com/sinatra/sinatra) - Classy web-development dressed in a DSL (official / canonical repo)
-- [nomad/nashville](https://github.com/nomad/nashville) - A wrapper and command line interface for querying the iTunes Store API
+- [nomad-cli/nashville](https://github.com/nomad-cli/nashville) - A wrapper and command line interface for querying the iTunes Store API
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [textmate/rmate](https://github.com/textmate/rmate) - Edit files from an ssh session in TextMate
-- [nomad/venice](https://github.com/nomad/venice) - Ruby Gem for In-App Purchase Receipt Verification
-- [nomad/dubai](https://github.com/nomad/dubai) - Generate and Preview Passbook Passes
-- [nomad/shenzhen](https://github.com/nomad/shenzhen) - CLI for Building & Distributing iOS Apps (.ipa Files)
-- [nomad/cupertino](https://github.com/nomad/cupertino) - CLI for the Apple Dev Center
+- [nomad-cli/venice](https://github.com/nomad-cli/venice) - Ruby Gem for In-App Purchase Receipt Verification
+- [nomad-cli/dubai](https://github.com/nomad-cli/dubai) - Generate and Preview Passbook Passes
+- [nomad-cli/shenzhen](https://github.com/nomad-cli/shenzhen) - CLI for Building & Distributing iOS Apps (.ipa Files)
+- [nomad-cli/cupertino](https://github.com/nomad-cli/cupertino) - CLI for the Apple Dev Center
 - [etsy/deployinator](https://github.com/etsy/deployinator) - Deployinate!
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [xcpretty/xcpretty](https://github.com/xcpretty/xcpretty) - Flexible and fast xcodebuild formatter
 - [watir/watir_meta](https://github.com/watir/watir_meta) - Former watir.gem that referenced both watir-webdriver and watir-classic
-- [nomad/houston](https://github.com/nomad/houston) - Apple Push Notifications; No Dirigible Required
+- [nomad-cli/houston](https://github.com/nomad-cli/houston) - Apple Push Notifications; No Dirigible Required
 - [pluralsight/git-internals-pdf](https://github.com/pluralsight/git-internals-pdf) - PDF on Git Internals
 - [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 - [github/pages-gem](https://github.com/github/pages-gem) - A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages
@@ -7356,6 +7355,7 @@
 
 ## Shell 
 
+- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API
 - [ValveSoftware/steam-runtime](https://github.com/ValveSoftware/steam-runtime) - A runtime environment for Steam applications
 - [swift-server/swift-devcontainer-template](https://github.com/swift-server/swift-devcontainer-template) - Visual Studio Code Development Container for Swift
 - [cli/gh-extension-precompile](https://github.com/cli/gh-extension-precompile) - Action for publishing binary GitHub CLI extensions
