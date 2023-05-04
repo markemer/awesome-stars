@@ -1429,7 +1429,7 @@
 - [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [drush-ops/drush](https://github.com/drush-ops/drush) - Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.
-- [nomad/houston](https://github.com/nomad/houston) - Apple Push Notifications; No Dirigible Required
+- [nomad-cli/houston](https://github.com/nomad-cli/houston) - Apple Push Notifications; No Dirigible Required
 - [twitter/twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
@@ -10114,7 +10114,7 @@
 - [shyiko/jabba](https://github.com/shyiko/jabba) - (cross-platform) Java Version Manager
 - [splunk/pion](https://github.com/splunk/pion) - Pion Network Library (Boost licensed open source)
 - [ipkn/crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
-- [kodecocodes/english-style-guide](https://github.com/kodecocodes/english-style-guide) - Style guide for writing in English for tutorials and articles at raywenderlich.com.
+- [kodecocodes/english-style-guide](https://github.com/kodecocodes/english-style-guide) - Style guide for writing in English for tutorials and articles at Kodeco.
 - [kodecocodes/kotlin-style-guide](https://github.com/kodecocodes/kotlin-style-guide) - Kodeco's Kotlin style guide
 - [google/keytransparency](https://github.com/google/keytransparency) - A transparent and secure way to look up public keys.
 - [Zarby89/ZeldaHud](https://github.com/Zarby89/ZeldaHud) - Zelda Randomizer Hud
@@ -11421,7 +11421,7 @@
 - [YosysHQ/yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
 - [joelmoss/strano](https://github.com/joelmoss/strano) - Capistrano and Github sittin' in a tree...
 - [yogan/cope](https://github.com/yogan/cope) - A colourful wrapper for terminal programs
-- [nomad/nashville](https://github.com/nomad/nashville) - A wrapper and command line interface for querying the iTunes Store API
+- [nomad-cli/nashville](https://github.com/nomad-cli/nashville) - A wrapper and command line interface for querying the iTunes Store API
 - [soulwire/fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
 - [graphsketcher/GraphSketcher](https://github.com/graphsketcher/GraphSketcher) - A fast, simple graph drawing and data plotting app for OS X and iPad.
 - [AFNetworking/AFgzipRequestSerializer](https://github.com/AFNetworking/AFgzipRequestSerializer) - gzip Request Serializer for AFNetworking
@@ -11455,10 +11455,10 @@
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [yannickcr/node-synology](https://github.com/yannickcr/node-synology) - A simple wrapper for the Synology NAS API
 - [nielsvanderbeke/synology](https://github.com/nielsvanderbeke/synology) - synology scripts and configurations
-- [nomad/venice](https://github.com/nomad/venice) - Ruby Gem for In-App Purchase Receipt Verification
-- [nomad/dubai](https://github.com/nomad/dubai) - Generate and Preview Passbook Passes
-- [nomad/shenzhen](https://github.com/nomad/shenzhen) - CLI for Building & Distributing iOS Apps (.ipa Files)
-- [nomad/cupertino](https://github.com/nomad/cupertino) - CLI for the Apple Dev Center
+- [nomad-cli/venice](https://github.com/nomad-cli/venice) - Ruby Gem for In-App Purchase Receipt Verification
+- [nomad-cli/dubai](https://github.com/nomad-cli/dubai) - Generate and Preview Passbook Passes
+- [nomad-cli/shenzhen](https://github.com/nomad-cli/shenzhen) - CLI for Building & Distributing iOS Apps (.ipa Files)
+- [nomad-cli/cupertino](https://github.com/nomad-cli/cupertino) - CLI for the Apple Dev Center
 - [intel/msr-tools](https://github.com/intel/msr-tools) - 
 - [TooTallNate/NodObjC](https://github.com/TooTallNate/NodObjC) - The Node.js ⇆ Objective-C bridge
 - [twitter-archive/CocoaSPDY](https://github.com/twitter-archive/CocoaSPDY) - SPDY for iOS and OS X
@@ -12711,6 +12711,7 @@
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [hanse/react-calendar](https://github.com/hanse/react-calendar) - React.js Calendar Component (npm install react-calendar-component) 📅
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -12963,7 +12964,7 @@
 - [rubygems/bundler](https://github.com/rubygems/bundler) - Manage your Ruby application's gem dependencies
 - [sinatra/sinatra](https://github.com/sinatra/sinatra) - Classy web-development dressed in a DSL (official / canonical repo)
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-- [nomad/houston](https://github.com/nomad/houston) - Apple Push Notifications; No Dirigible Required
+- [nomad-cli/houston](https://github.com/nomad-cli/houston) - Apple Push Notifications; No Dirigible Required
 - [github/pages-gem](https://github.com/github/pages-gem) - A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
