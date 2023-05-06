@@ -1478,7 +1478,7 @@
 - [FoundationDB/fdb-document-layer](https://github.com/FoundationDB/fdb-document-layer) - A document data model on FoundationDB, implementing MongoDB® wire protocol
 - [open-power/hostboot](https://github.com/open-power/hostboot) - System initialization firmware for Power systems
 - [google/draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
-- [TwoLivesLeft/Codea-Runtime](https://github.com/TwoLivesLeft/Codea-Runtime) - Codea Runtime Library for iPad by Two Lives Left
+- [simsaens/Codea-Runtime](https://github.com/simsaens/Codea-Runtime) - Codea Runtime Library for iPad by Two Lives Left
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
 - [bbc/audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files
@@ -2216,7 +2216,7 @@
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
 - [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
 - [sfomuseum/go-libraryofcongress](https://github.com/sfomuseum/go-libraryofcongress) - Go package providing tools for working with Library of Congress data.
 - [benjojo/hot-clone](https://github.com/benjojo/hot-clone) - Progressively image a mounted disk correctly without corruption
@@ -5679,6 +5679,7 @@
 
 ## Python 
 
+- [ALotOfVideos/stats](https://github.com/ALotOfVideos/stats) - Collects and tracks various stats of your Nexus Mods mods, ready to display with Grafana
 - [mabrains/sky130_klayout_pdk](https://github.com/mabrains/sky130_klayout_pdk) - Skywater 130nm Klayout Device Generators PDK
 - [Blizzard/s2protocol](https://github.com/Blizzard/s2protocol) - Python library to decode StarCraft II replay protocols
 - [aws-samples/aws-aaos-pipeline](https://github.com/aws-samples/aws-aaos-pipeline) - 
@@ -7007,6 +7008,7 @@
 
 ## Rust 
 
+- [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [warp-tech/russh](https://github.com/warp-tech/russh) - Rust SSH client & server library
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
@@ -7235,7 +7237,7 @@
 - [gamozolabs/orange_slice](https://github.com/gamozolabs/orange_slice) - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost
 - [drewwyatt/git-tidy](https://github.com/drewwyatt/git-tidy) - Tidy up stale git branches.
 - [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
-- [kyren/luster](https://github.com/kyren/luster) - An experimental Lua VM implemented in pure Rust
+- [kyren/deimos](https://github.com/kyren/deimos) - An experimental Lua VM implemented in pure Rust
 - [archer884/harsh](https://github.com/archer884/harsh) - Hashids implementation in Rust
 - [rusoto/rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
@@ -7663,6 +7665,7 @@
 
 ## Swift 
 
+- [ABridoux/SafeFetching](https://github.com/ABridoux/SafeFetching) - DSL to build predicates and requests for CoreData fetching
 - [inaka/EventSource](https://github.com/inaka/EventSource) - A simple Swift client library for the Server Sent Events (SSE)
 - [apple/swift-foundation](https://github.com/apple/swift-foundation) - The Foundation project
 - [CodeEditApp/CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) - A code editor view written in Swift powered by tree-sitter.
@@ -8421,7 +8424,7 @@
 - [xcadaverx/XCLineSplitter](https://github.com/xcadaverx/XCLineSplitter) - XCode 8 Source Editor Extension to split long function declarations into multiple lines.
 - [saoudrizwan/DynamicJSON](https://github.com/saoudrizwan/DynamicJSON) - Access JSON properties dynamically like JavaScript using Swift 4.2's new @dynamicMemberLookup feature
 - [ekreutz/CornerCal](https://github.com/ekreutz/CornerCal) - A simple, clean calendar and clock app for macOS.
-- [TwoLivesLeft/Menu](https://github.com/TwoLivesLeft/Menu) - The iOS Menu
+- [simsaens/Menu](https://github.com/simsaens/Menu) - The iOS Menu
 - [JohnSundell/ShellOut](https://github.com/JohnSundell/ShellOut) - Easily run shell commands from a Swift script or command line tool
 - [zalando/SwiftMonkey](https://github.com/zalando/SwiftMonkey) - A framework for doing randomised UI testing of iOS apps
 - [inamiy/SwiftRewriter](https://github.com/inamiy/SwiftRewriter) - 📝 Swift code formatter using SwiftSyntax.
@@ -9174,7 +9177,7 @@
 
 ## TypeScript 
 
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [SwiftFiddle/swiftfiddle-runner-functions-22](https://github.com/SwiftFiddle/swiftfiddle-runner-functions-22) - 
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
