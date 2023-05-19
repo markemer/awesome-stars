@@ -91,7 +91,6 @@
 - [PHP](#php)
 - [PLSQL](#plsql)
 - [PLpgSQL](#plpgsql)
-- [POV-Ray SDL](#pov-ray-sdl)
 - [Papyrus](#papyrus)
 - [Pascal](#pascal)
 - [Perl](#perl)
@@ -918,6 +917,7 @@
 - [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) - The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
 - [shinh/elvm](https://github.com/shinh/elvm) - EsoLangVM Compiler Infrastructure
 - [my-mail-ru/swiftperl](https://github.com/my-mail-ru/swiftperl) - Swift and Perl Interoperability
+- [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [hooklift/xhyve](https://github.com/hooklift/xhyve) - Use xhyve from Go (OS X only)
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
@@ -2142,6 +2142,7 @@
 
 ## Go 
 
+- [mholt/caddy-psl](https://github.com/mholt/caddy-psl) - A public suffix list module for Caddy
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [Shopify/ejson](https://github.com/Shopify/ejson) - EJSON is a small library to manage encrypted secrets using asymmetric encryption.
 - [Code-Hex/vz](https://github.com/Code-Hex/vz) - Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.framework.
@@ -2983,6 +2984,7 @@
 
 ## Java 
 
+- [techyourchance/android-architecture-course](https://github.com/techyourchance/android-architecture-course) - 
 - [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 - [DMaroo/GhidRust](https://github.com/DMaroo/GhidRust) - GhidRust: Rust decompiler plugin for Ghidra
 - [apache/pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
@@ -3133,6 +3135,7 @@
 
 ## JavaScript 
 
+- [mryechkin/nextjs-supabase-auth](https://github.com/mryechkin/nextjs-supabase-auth) - Sample project for setting up Supabase Auth in Next.js
 - [Pecnut/visual-pde](https://github.com/Pecnut/visual-pde) - Interactive partial differential equation solver, live in your device's web browser
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
@@ -3846,6 +3849,7 @@
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [novus/nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 - [NeilFraser/JS-Interpreter](https://github.com/NeilFraser/JS-Interpreter) - A sandboxed JavaScript interpreter in JavaScript.
+- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [Ericsson/exchangecalendar](https://github.com/Ericsson/exchangecalendar) - Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider.
 - [mbostock/solar-calculator](https://github.com/mbostock/solar-calculator) - Equations for computing the position of the Sun.
@@ -4002,6 +4006,7 @@
 
 ## Jupyter Notebook 
 
+- [aws-samples/amazon-textract-textractor](https://github.com/aws-samples/amazon-textract-textractor) - Analyze documents with Amazon Textract and generate output in multiple formats.
 - [bmurmann/Book-on-MOS-stages](https://github.com/bmurmann/Book-on-MOS-stages) - Book repository "Analysis and Design of Elementary MOS Amplifier Stages"
 - [Global-Chem/global-chem](https://github.com/Global-Chem/global-chem) - A Knowledge Graph of Common Chemical Names to their Molecular Definition
 - [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
@@ -4080,6 +4085,7 @@
 
 ## Kotlin 
 
+- [OutSystems/cordova-plugin-lottie-splashscreen](https://github.com/OutSystems/cordova-plugin-lottie-splashscreen) - 
 - [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard) - A Gradle plugin that guards against unintentional dependency changes.
 - [cashapp/multiplatform-paging](https://github.com/cashapp/multiplatform-paging) - A library that packages AndroidX Paging for Kotlin/Multiplatform.
 - [deliveryhero/whetstone](https://github.com/deliveryhero/whetstone) - Whetstone is a dependency injection framework for Android that greatly simplifies working with Dagger 2 using all the powers of Anvil
@@ -4158,7 +4164,7 @@
 - [inters/vita](https://github.com/inters/vita) - Vita: simple and fast VPN gateway
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [auto-ssl/lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
-- [premek/pink](https://github.com/premek/pink) - An attempt to implement a subset of ink in lua (very minimal / buggy)
+- [premek/pink](https://github.com/premek/pink) - An attempt to implement ink in lua
 - [Hammerspoon/Spoons](https://github.com/Hammerspoon/Spoons) - The official repository of Spoon plugins
 - [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .c)
 - [CommandPost/CommandPost](https://github.com/CommandPost/CommandPost) - Workflow Enhancements for Creatives
@@ -4854,6 +4860,7 @@
 
 ## Others 
 
+- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [jblang/SN76489](https://github.com/jblang/SN76489) - SN76489 Sound Card for RC2014
 - [l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling](https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling) - Unsupported GPUs in Dell C4130 get throttled, here's how to prevent this from happening.
 - [Buckminsterfullerene02/UE-Modding-Tools](https://github.com/Buckminsterfullerene02/UE-Modding-Tools) - A databank of every UE modding tool that have potential to be used across multiple UE games, that I know exists.
@@ -5302,7 +5309,7 @@
 - [eugeneching/ida-consonance](https://github.com/eugeneching/ida-consonance) - Consonance, a dark color scheme for IDA.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [riscvarchive/riscv-glibc](https://github.com/riscvarchive/riscv-glibc) - RISC-V port of GNU's libc
-- [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with support for legacy and LSTM OCR engine
+- [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with fast variant of the "best" LSTM models + legacy models
 - [tesseract-ocr/langdata](https://github.com/tesseract-ocr/langdata) - Source training data for Tesseract for lots of languages
 - [macmade/MachOKit](https://github.com/macmade/MachOKit) - Swift framework for parsing Mach-O files.
 - [iosre/iOSAppReverseEngineering](https://github.com/iosre/iOSAppReverseEngineering) - The world’s 1st book of very detailed iOS App reverse engineering skills :)
@@ -5597,10 +5604,6 @@
 - [turbo/pg-shortkey](https://github.com/turbo/pg-shortkey) - YouTube-like Short IDs as Postgres Primary Keys
 - [df8org/scaledger](https://github.com/df8org/scaledger) - A double-entry accounting database with a typed GraphQL API
 
-## POV-Ray SDL 
-
-- [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
-
 ## Papyrus 
 
 - [kinggath/WorkshopFramework](https://github.com/kinggath/WorkshopFramework) - Redesign of the FO4 Workshop Scripts
@@ -5657,6 +5660,7 @@
 
 ## PostScript 
 
+- [INTI-CMNB/KiAuto](https://github.com/INTI-CMNB/KiAuto) - A bunch of scripts to automate KiCad processes
 - [im-tomu/tomu-hardware](https://github.com/im-tomu/tomu-hardware) - A tiny ARM microprocessor which fits in your USB port.
 
 ## PowerShell 
@@ -5697,6 +5701,9 @@
 
 ## Python 
 
+- [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
+- [obra/kicad-automation-scripts](https://github.com/obra/kicad-automation-scripts) - A bunch of scripts to automate KiCad processes
+- [productize/kicad-automation-scripts](https://github.com/productize/kicad-automation-scripts) - A bunch of scripts to automate KiCad processes
 - [Gasman2014/KiCad-Diff](https://github.com/Gasman2014/KiCad-Diff) - Scripts for performing image diffs between pcbnew layout revisions
 - [INTI-CMNB/KiBot](https://github.com/INTI-CMNB/KiBot) - KiCad automation utility
 - [softdevteam/eco](https://github.com/softdevteam/eco) - Editor for language composition
@@ -6424,7 +6431,7 @@
 - [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [getlocalization/python-glcli](https://github.com/getlocalization/python-glcli) - Get Localization Command-Line Interface
 - [snare/idiot](https://github.com/snare/idiot) - Your best is an idiot
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
@@ -6679,7 +6686,7 @@
 - [standardnotes/syncing-server](https://github.com/standardnotes/syncing-server) - [Deprecated: Use our new Node server: https://github.com/standardnotes/syncing-server-js]
 - [linnify/fastlane-plugin-kobiton](https://github.com/linnify/fastlane-plugin-kobiton) - A Fastlane plugin useful for automatically uploading builds to Kobiton.
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
-- [fastlane/fastlane-plugin-firebase_app_distribution](https://github.com/fastlane/fastlane-plugin-firebase_app_distribution) - fastlane plugin for Firebase App Distribution. https://firebase.google.com/docs/app-distribution
+- [firebase/fastlane-plugin-firebase_app_distribution](https://github.com/firebase/fastlane-plugin-firebase_app_distribution) - fastlane plugin for Firebase App Distribution. https://firebase.google.com/docs/app-distribution
 - [thierryxing/sentry-ruby-api](https://github.com/thierryxing/sentry-ruby-api) - Ruby wrapper for getsentry/Sentry REST API
 - [aws/homebrew-aws](https://github.com/aws/homebrew-aws) - Homebrew is a package manager for macOS which provides easy installation and update management of additional software. This Tap (repository) contains the Formulae that are used in the macOS AMI that A
 - [hdoria/xcode-themes](https://github.com/hdoria/xcode-themes) - Color themes for Xcode
@@ -7030,7 +7037,7 @@
 ## Rust 
 
 - [psarna/edgemail](https://github.com/psarna/edgemail) - 
-- [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - 
+- [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Core implementation of the Cedar language
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [warp-tech/russh](https://github.com/warp-tech/russh) - Rust SSH client & server library
@@ -7140,9 +7147,9 @@
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [charsyam/hashids_rust](https://github.com/charsyam/hashids_rust) - rust hashids implements
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
-- [awslabs/smithy-rs](https://github.com/awslabs/smithy-rs) - 
+- [awslabs/smithy-rs](https://github.com/awslabs/smithy-rs) - Code generation for the AWS SDK for Rust, as well as server and generic smithy client generation.
 - [blitz/clac](https://github.com/blitz/clac) - A reverse polish calculator - a modern replacement for dc
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or J
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
 - [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs) - DEFLATE, gzip, and zlib bindings for Rust
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
@@ -7689,6 +7696,7 @@
 
 ## Swift 
 
+- [s1ddok/Alloy](https://github.com/s1ddok/Alloy) - Make usage of Metal API a pleasure
 - [Nekitosss/MeshGradient](https://github.com/Nekitosss/MeshGradient) - 
 - [ABridoux/SafeFetching](https://github.com/ABridoux/SafeFetching) - DSL to build predicates and requests for CoreData fetching
 - [inaka/EventSource](https://github.com/inaka/EventSource) - A simple Swift client library for the Server Sent Events (SSE)
@@ -8071,7 +8079,7 @@
 - [compnerd/swift-win32](https://github.com/compnerd/swift-win32) - A Windows application framework for Swift
 - [ittybittyapps/appstoreconnect-cli](https://github.com/ittybittyapps/appstoreconnect-cli) - An easy to use command-line tool for interacting with the Apple AppStore Connect API
 - [brightdigit/MistKit](https://github.com/brightdigit/MistKit) - Swift Package for Server-Side and Command-Line Access to CloudKit Web Services
-- [zntfdr/AStack](https://github.com/zntfdr/AStack) - The Missing SwiftUI Adaptive and Accessible Stacks Library.
+- [jasonnam/AStack](https://github.com/jasonnam/AStack) - The Missing SwiftUI Adaptive and Accessible Stacks Library.
 - [dmytro-anokhin/remote-content-view](https://github.com/dmytro-anokhin/remote-content-view) - SwiftUI view that makes loading content easy
 - [mattt/swift-registry](https://github.com/mattt/swift-registry) - A reference implementation of the Swift Package Registry, written in Swift and using Git as a database / transparent log.
 - [yassram/SwiLex](https://github.com/yassram/SwiLex) - A universal lexer library in Swift.
@@ -8112,7 +8120,7 @@
 - [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - KeyboardKit helps you build custom keyboard extensions for iOS and iPadOS.
 - [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
 - [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) - Useful code around SwiftNIO.
-- [jVirus/grid-compositional-layout](https://github.com/jVirus/grid-compositional-layout) - 🧲 Grid Compositional Layout is a SwiftUI 2.0 view that lays out the supplied views in a grid. Easily configurable and lazily retained [Swift 5.3, iOS 14.0+, iPadOS 14.0+, macOS 11.0(10.16)+]
+- [eleev/grid-compositional-layout](https://github.com/eleev/grid-compositional-layout) - 🧲 Grid Compositional Layout is a SwiftUI 2.0 view that lays out the supplied views in a grid. Easily configurable and lazily retained [Swift 5.3, iOS 14.0+, iPadOS 14.0+, macOS 11.0(10.16)+]
 - [abhi-dave/ADDatePicker](https://github.com/abhi-dave/ADDatePicker) - A fully customizable iOS Horizontal PickerView library, written in pure swift
 - [erica/Swift-Mac-Utility](https://github.com/erica/Swift-Mac-Utility) - Taking the Mac out of the General Utility and putting it in its own package
 - [ChimeHQ/Meter](https://github.com/ChimeHQ/Meter) - Library for interacting with MetricKit
@@ -9202,6 +9210,7 @@
 
 ## TypeScript 
 
+- [danielsogl/awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 - [microsoft/deoptexplorer-vscode](https://github.com/microsoft/deoptexplorer-vscode) - A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e., NodeJS, Edge, Chrome, etc.).
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
@@ -9495,7 +9504,6 @@
 - [artsy/eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [kiswa/TaskBoard](https://github.com/kiswa/TaskBoard) - A Kanban-inspired app for keeping track of things that need to get done. (Don't forget to read the Wiki page!)
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [NarrativeScience-old/log.io](https://github.com/NarrativeScience-old/log.io) - Real-time log monitoring in your browser
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
