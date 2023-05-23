@@ -448,7 +448,7 @@
 
 ## api 
 
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of Twitter's v1, v2, and GraphQL APIs
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
@@ -940,7 +940,6 @@
 - [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
 - [pplu/aws-sdk-perl](https://github.com/pplu/aws-sdk-perl) - A community AWS SDK for Perl Programmers
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
-- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral manages endpoint configuration for MDM, Osquery, Munki, Google Santa, and automates it's workflows through GitOps. It unifies events, collects IT asset info, and offers unique KPIs and metrics
 - [noppoMan/Hexaville](https://github.com/noppoMan/Hexaville) - The modern serverless web application engine and framework for Swift
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -968,7 +967,6 @@
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
-- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral manages endpoint configuration for MDM, Osquery, Munki, Google Santa, and automates it's workflows through GitOps. It unifies events, collects IT asset info, and offers unique KPIs and metrics
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 
@@ -3315,7 +3313,6 @@
 - [CodingDoug/universal-translator](https://github.com/CodingDoug/universal-translator) - Demo app using Firebase and Google Cloud products to implement a "universal translator"
 - [GoogleCloudPlatform/cloud-code-intellij](https://github.com/GoogleCloudPlatform/cloud-code-intellij) - Plugin to support the Google Cloud Platform in IntelliJ IDEA - Docs and Issues Repository
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
-- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral manages endpoint configuration for MDM, Osquery, Munki, Google Santa, and automates it's workflows through GitOps. It unifies events, collects IT asset info, and offers unique KPIs and metrics
 
 ## gradle 
 
@@ -3402,7 +3399,7 @@
 
 ## hacktoberfest 
 
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [CodeEditApp/CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) - A code editor view written in Swift powered by tree-sitter.
 - [Roll20/roll20-api-scripts](https://github.com/Roll20/roll20-api-scripts) - API Scripts created by the community for use in Roll20 VTT. Submit a ticket at roll20.net/help if critical hotfixes are to be requested.
 - [Roll20/roll20-character-sheets](https://github.com/Roll20/roll20-character-sheets) - Character sheet templates created by the community for use in Roll20 VTT. Submit a ticket at roll20.net/help if critical hotfixes are to be requested.
@@ -4589,7 +4586,7 @@
 
 ## javascript 
 
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [electron/electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
@@ -5856,7 +5853,7 @@
 - [insidegui/AppleEvents](https://github.com/insidegui/AppleEvents) - The unofficial Apple Events app for macOS
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral manages endpoint configuration for MDM, Osquery, Munki, Google Santa, and automates it's workflows through GitOps. It unifies events, collects IT asset info, and offers unique KPIs and metrics
+- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral is a high-visibility platform for controlling Apple endpoints in enterprises. It brings great observability to IT and makes tracking & reporting compliance much less manual.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [josh-/TodayFlights](https://github.com/josh-/TodayFlights) - TodayFlights is a Notification Center widget that allows you to track flights using the 'FlightUtilities' macOS system framework.
 - [raspu/Highlightr](https://github.com/raspu/Highlightr) - iOS & OSX Syntax Highlighter.
@@ -6265,7 +6262,7 @@
 
 ## nodejs 
 
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
@@ -9939,7 +9936,7 @@
 - [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book) - 
 - [atmanos/atmanos](https://github.com/atmanos/atmanos) - Build Go programs that run directly on the Xen hypervisor
 - [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) - SICP PDF with Texinfo and LaTeX source
-- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-report
+- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu
 - [helios-framework/helios](https://github.com/helios-framework/helios) - An extensible open-source mobile backend framework
 - [dask/cachey](https://github.com/dask/cachey) - Caching based on computation time and storage space
 - [asowers1/CodableCache](https://github.com/asowers1/CodableCache) - A minimalist memory and disk based cache backed by NSCache, NSKeyedArchive, and the Swift 4 Codable protocol.
@@ -12097,7 +12094,7 @@
 ## postgresql 
 
 - [ALotOfVideos/stats](https://github.com/ALotOfVideos/stats) - Collects and tracks various stats of your Nexus Mods mods, ready to display with Grafana
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [aws/pg_tle](https://github.com/aws/pg_tle) - Framework for building trusted language extensions for PostgreSQL
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [inqueryio/inquery](https://github.com/inqueryio/inquery) - Superpowers for PostgreSQL
@@ -12682,7 +12679,7 @@
 ## react 
 
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -14637,6 +14634,7 @@
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 - [Paperspace/terraform-provider-paperspace](https://github.com/Paperspace/terraform-provider-paperspace) - Paperspace terraform provider
+- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral is a high-visibility platform for controlling Apple endpoints in enterprises. It brings great observability to IT and makes tracking & reporting compliance much less manual.
 - [hashicorp/terraform-provider-template](https://github.com/hashicorp/terraform-provider-template) - Terraform template provider
 - [sethvargo/terraform-provider-googlecalendar](https://github.com/sethvargo/terraform-provider-googlecalendar) - A @HashiCorp Terraform provider for managing Google Calendar events.
 - [geekmuse/terraform-provider-jumpcloud](https://github.com/geekmuse/terraform-provider-jumpcloud) - A Terraform provider for JumpCloud
@@ -14710,7 +14708,7 @@
 
 ## typescript 
 
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [google/aside](https://github.com/google/aside) - 🚀 Apps Script development with formatting, linting, testing and more!
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust
@@ -14876,7 +14874,7 @@
 
 ## vuejs 
 
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [roboncode/shorty-go](https://github.com/roboncode/shorty-go) - Microservice that shortens urls like bit.ly written in Go
 - [henripal/labnotebook](https://github.com/henripal/labnotebook) - LabNotebook is a tool that allows you to flexibly monitor, record, save, and query all your machine learning experiments.
