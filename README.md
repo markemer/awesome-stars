@@ -1174,6 +1174,8 @@
 
 ## C++ 
 
+- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
+- [pajotsetrapper/TMS9129VDPTest](https://github.com/pajotsetrapper/TMS9129VDPTest) - Arduino-based TMS9129 VideoProcessor test
 - [tursilion/classic99](https://github.com/tursilion/classic99) - Classic99 TI-99/4A Emulator for Windows, QI3xx series
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL.
 - [Tom94/tev](https://github.com/Tom94/tev) - High dynamic range (HDR) image viewer for graphics people
@@ -4863,6 +4865,7 @@
 
 ## Others 
 
+- [microsoft/win32-app-isolation](https://github.com/microsoft/win32-app-isolation) - 
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [jblang/SN76489](https://github.com/jblang/SN76489) - SN76489 Sound Card for RC2014
 - [l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling](https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling) - Unsupported GPUs in Dell C4130 get throttled, here's how to prevent this from happening.
@@ -5833,6 +5836,7 @@
 - [Lyrositor/fallen_london_chronicler](https://github.com/Lyrositor/fallen_london_chronicler) - A tool for recording and exporting Fallen London content.
 - [n0stalghia/Sunless_Skies_Save_Editor](https://github.com/n0stalghia/Sunless_Skies_Save_Editor) - Python-based save editor for Sunless Skies
 - [chip-red-pill/uCodeDisasm](https://github.com/chip-red-pill/uCodeDisasm) - 
+- [jupyterlab/jupyterlab-latex](https://github.com/jupyterlab/jupyterlab-latex) - JupyterLab extension for live editing of LaTeX documents
 - [gogcom/galaxy-integrations-python-api](https://github.com/gogcom/galaxy-integrations-python-api) - NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the Galaxy Client 2.0 shall be sent via Galaxy Client menu
 - [libretro/libretro-database](https://github.com/libretro/libretro-database) - Repository containing cheatcode files, content data files, etc.
 - [ValvePython/steam](https://github.com/ValvePython/steam) - ☁️ Python package for interacting with Steam
@@ -6658,6 +6662,7 @@
 
 ## Ruby 
 
+- [CocoaPods/trunk.cocoapods.org](https://github.com/CocoaPods/trunk.cocoapods.org) - The authentication server for CocoaPods push
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [fxn/zeitwerk](https://github.com/fxn/zeitwerk) - Efficient and thread-safe code loader for Ruby
 - [renatolond/mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mastodon and Twitter
@@ -9264,7 +9269,7 @@
 - [RobotsAndPencils/1password-action](https://github.com/RobotsAndPencils/1password-action) - Import logins, passwords and documents from your 1Password vaults to use in your GitHub Action workflows.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
-- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Local Lambda debug, CodeWhisperer, SAM/CFN syntax, ECS Exec, AWS resources browser
+- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - CodeWhisperer, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Exec, AWS resources
 - [kshetline/sky-view-cafe-astronomy](https://github.com/kshetline/sky-view-cafe-astronomy) - Provides web-based star charts and astronomical information.
 - [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
 - [githubocto/flat-viewer](https://github.com/githubocto/flat-viewer) - Data viewer for Flat repos
@@ -9308,7 +9313,6 @@
 - [davidar/pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [nick-fields/private-action-loader](https://github.com/nick-fields/private-action-loader) - Allows private GitHub Actions to be easily reused
-- [jupyterlab/jupyterlab-latex](https://github.com/jupyterlab/jupyterlab-latex) - JupyterLab extension for live editing of LaTeX documents
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [DarylBuckle/dnd-character-sheets](https://github.com/DarylBuckle/dnd-character-sheets) - Dungeons and Dragons 5th Edition character sheets created in ReactJS.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -9553,6 +9557,7 @@
 
 ## Verilog 
 
+- [lnis-uofu/OpenFPGA](https://github.com/lnis-uofu/OpenFPGA) - An Open-source FPGA IP Generator
 - [chipsalliance/UHDM-integration-tests](https://github.com/chipsalliance/UHDM-integration-tests) - 
 - [ZipCPU/wbsata](https://github.com/ZipCPU/wbsata) - Wishbone SATA Controller
 - [ZipCPU/eth10g](https://github.com/ZipCPU/eth10g) - 10Gb Ethernet Switch
