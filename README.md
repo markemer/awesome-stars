@@ -270,6 +270,7 @@
 
 ## C 
 
+- [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [dosemu2/dosemu2](https://github.com/dosemu2/dosemu2) - Run DOS programs under linux:
 - [paul-j-lucas/cdecl](https://github.com/paul-j-lucas/cdecl) - Composing and deciphering C (or C++) declarations or casts, aka ‘‘gibberish.’’
 - [lua/lua](https://github.com/lua/lua) - The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html
@@ -2068,7 +2069,6 @@
 ## Elixir 
 
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [leesharma/metaprogramming_elixir](https://github.com/leesharma/metaprogramming_elixir) - My notes and exercise solutions for Metaprogramming Elixir. This book was read as part of the DC Elixir Bookclub.
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 - [usecanvas/api-v2](https://github.com/usecanvas/api-v2) - 
@@ -3243,6 +3243,7 @@
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
+- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [adventurerscodex/adventurerscodex](https://github.com/adventurerscodex/adventurerscodex) - Experience the next step in tabletop RPGs
@@ -3306,6 +3307,7 @@
 - [githubsatelliteworkshops/apps-with-graphql](https://github.com/githubsatelliteworkshops/apps-with-graphql) - Building automations with GitHub Apps and GraphQL
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [keiranking/Phil](https://github.com/keiranking/Phil) - A crossword maker.
+- [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - Swift AST to HTML conversion
 - [arkime/arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [PaulTaykalo/xcode-build-times-rendering](https://github.com/PaulTaykalo/xcode-build-times-rendering) - Xcode build times visualization per target
@@ -3440,7 +3442,7 @@
 - [ksylor/git-live-view](https://github.com/ksylor/git-live-view) - View the status of a local git repository and see changes happen in real time
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
-- [zaidalyafeai/zaidalyafeai.github.io](https://github.com/zaidalyafeai/zaidalyafeai.github.io) - Implementation of web friendly ML models using TensorFlow.js. pix2pix, face segmentation, fast style transfer and many more ...
+- [zaidalyafeai/ml-projects](https://github.com/zaidalyafeai/ml-projects) - Implementation of web friendly ML models using TensorFlow.js. pix2pix, face segmentation, fast style transfer and many more ...
 - [TimvanScherpenzeel/gltf-to-usdz-research](https://github.com/TimvanScherpenzeel/gltf-to-usdz-research) - Research and proof of concept of converting glTF to USDZ for AR Quick Look (iOS 12+).
 - [ghuser-io/ghuser.io](https://github.com/ghuser-io/ghuser.io) - :octocat: Better GitHub profiles
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
@@ -4229,7 +4231,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [tylerreckart/odin](https://github.com/tylerreckart/odin) - A git flavored zsh prompt
 - [keith/zsh-xcode-completions](https://github.com/keith/zsh-xcode-completions) - Zsh completion for the Xcode command line tools
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [httpwg/http2-spec](https://github.com/httpwg/http2-spec) - Working copy of the HTTP/2 Specification
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
@@ -5013,7 +5015,7 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [alexkaessner/macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) - :gem: The most detailed and accurate macOS UI Kit for Sketch. This Sketch Library includes common Mac interface elements, cursors, and a Touch Bar UI Kit.
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-14.0.0 [April 2023]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-14.0.0 [May 2023]
 - [arturo182/kicad-modules](https://github.com/arturo182/kicad-modules) - A repository with all my custom footprints and 3d models for KiCad
 - [arturo182/BBQ10KBD](https://github.com/arturo182/BBQ10KBD) - 
 - [yewalenikhil65/Resources-for-engineering-students-who-like-mathematics](https://github.com/yewalenikhil65/Resources-for-engineering-students-who-like-mathematics) - This is a collection of resources that I feel will prove useful to anyone studying in the area of engineering but also like mathematics. I urge anyone who comes across this, to contribute to the list 
@@ -5707,6 +5709,7 @@
 
 ## Python 
 
+- [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory) - An open source platform for end to-end photonic chip design and validation
 - [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
 - [obra/kicad-automation-scripts](https://github.com/obra/kicad-automation-scripts) - A bunch of scripts to automate KiCad processes
 - [productize/kicad-automation-scripts](https://github.com/productize/kicad-automation-scripts) - A bunch of scripts to automate KiCad processes
@@ -5786,7 +5789,7 @@
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [yfeng95/DECA](https://github.com/yfeng95/DECA) - DECA: Detailed Expression Capture and Animation (SIGGRAPH 2021)
 - [rockchip-linux/rknn-toolkit2](https://github.com/rockchip-linux/rknn-toolkit2) - 
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [textext/textext](https://github.com/textext/textext) - Re-editable LaTeX graphics for Inkscape
@@ -6066,7 +6069,7 @@
 - [picklepete/pyicloud](https://github.com/picklepete/pyicloud) - A Python + iCloud wrapper to access iPhone and Calendar data.
 - [jmwright/cadquery-freecad-module](https://github.com/jmwright/cadquery-freecad-module) - A module-workbench combo that adds a CadQuery editor to FreeCAD
 - [boltsparts/boltsfc](https://github.com/boltsparts/boltsfc) - installable FreeCAD package of BOLTS
-- [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - AMD ROCm Platform - Powering Your GPU Computational Needs
+- [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - AMD ROCm™ Platform - GitHub Home
 - [google/cocoapods-size](https://github.com/google/cocoapods-size) - Measure the final binary size for the given set of Cocoapods.
 - [deepmind/mathematics_dataset](https://github.com/deepmind/mathematics_dataset) - This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
 - [andrewbihl/bsed](https://github.com/andrewbihl/bsed) - Simple SQL-like syntax on top of Perl text processing.
@@ -7300,6 +7303,7 @@
 - [hermitcore/libhermit-rs](https://github.com/hermitcore/libhermit-rs) - libhermit-rs: A Rust-based library operating system
 - [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -8192,7 +8196,6 @@
 - [JamieScanlon/AugmentKit](https://github.com/JamieScanlon/AugmentKit) - An Augmented Reality framework. Built on ARKit. Made with app developers in mind.
 - [KaneCheshire/BiometricAutomationDemo](https://github.com/KaneCheshire/BiometricAutomationDemo) - Dependency free iOS biometric automation example.
 - [kishikawakatsumi/swift-magic](https://github.com/kishikawakatsumi/swift-magic) - A Swift wrapper for libmagic
-- [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - Swift AST to HTML conversion
 - [matteopuc/swiftui-navigation-stack](https://github.com/matteopuc/swiftui-navigation-stack) - An alternative SwiftUI NavigationView implementing classic stack-based navigation giving also some more control on animations and programmatic navigation.
 - [JosephDuffy/xcutils](https://github.com/JosephDuffy/xcutils) - A collection of utilities to aid the use of the Xcode CLI
 - [harlanhaskins/Probably](https://github.com/harlanhaskins/Probably) - A Swift probability and statistics library
@@ -9322,7 +9325,6 @@
 - [1Password/connect-sdk-js](https://github.com/1Password/connect-sdk-js) - Node SDK for 1Password Connect
 - [paulshen/birthday-report](https://github.com/paulshen/birthday-report) - 
 - [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
-- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [dungeon-revealer/dungeon-revealer](https://github.com/dungeon-revealer/dungeon-revealer) - A web app for tabletop gaming to allow the game master to reveal areas of the game map to players, roll dice and take notes.
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
