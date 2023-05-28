@@ -209,6 +209,7 @@
 - [scikit-learn](#scikit-learn)
 - [sdn](#sdn)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
@@ -346,6 +347,7 @@
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 - [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard) - A Gradle plugin that guards against unintentional dependency changes.
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
 - [fabioCollini/DaggerMock](https://github.com/fabioCollini/DaggerMock) - A JUnit rule to easily override Dagger 2 objects
 - [deliveryhero/whetstone](https://github.com/deliveryhero/whetstone) - Whetstone is a dependency injection framework for Android that greatly simplifies working with Dagger 2 using all the powers of Anvil
@@ -628,7 +630,7 @@
 - [kai5263499/osx-security-awesome](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
 - [balintkissdev/awesome-dos](https://github.com/balintkissdev/awesome-dos) - Curated list of references for development of DOS applications.
 - [warrant-dev/awesome-authorization](https://github.com/warrant-dev/awesome-authorization) - A curated list of information and resources about authorization.
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
 - [kelu124/awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - :book: List of FPGA Lattice boards using open tools
 - [scholtzm/awesome-steam](https://github.com/scholtzm/awesome-steam) - 😎 A curated list of packages and resources regarding Steam development
@@ -748,7 +750,7 @@
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
@@ -882,7 +884,7 @@
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -900,7 +902,7 @@
 - [dumrauf/serverless_static_website_with_basic_auth](https://github.com/dumrauf/serverless_static_website_with_basic_auth) - Builds a serverless infrastructure in AWS for hosting a static website protected with Basic Authentication and published on a subdomain registered via Route 53
 - [jetpack-io/envsec](https://github.com/jetpack-io/envsec) - Securely store environment variables and secrets in the cloud of your choice.
 - [kalaiser/awesome-cdk](https://github.com/kalaiser/awesome-cdk) - A collection of awesome things related to the AWS Cloud Development Kit (CDK)
-- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Local Lambda debug, CodeWhisperer, SAM/CFN syntax, ECS Exec, AWS resources browser
+- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - CodeWhisperer, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Exec, AWS resources
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [aws/ec2-macos-init](https://github.com/aws/ec2-macos-init) - EC2 macOS Init is the launch daemon used to initialize Mac instances within EC2.
 - [awslabs/aws-sdk-kotlin](https://github.com/awslabs/aws-sdk-kotlin) - Multiplatform AWS SDK for Kotlin
@@ -989,7 +991,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
@@ -2091,7 +2093,7 @@
 
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) - CLI for executing Cirrus tasks locally and in any CI
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -2130,6 +2132,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [hygieia/hygieia](https://github.com/hygieia/hygieia) - CapitalOne  DevOps Dashboard
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [capistrano/sshkit](https://github.com/capistrano/sshkit) - A toolkit for deploying code and assets to servers in a repeatable, testable, reliable way.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 
@@ -3295,6 +3298,7 @@
 
 ## google 
 
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [urban-health-labs/CombineFirebase](https://github.com/urban-health-labs/CombineFirebase) - Combine wrapper on Google's iOS Firebase library.
 - [vanshg/MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS!
 - [firebase/flutterfire](https://github.com/firebase/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
@@ -3962,6 +3966,7 @@
 
 ## ios 
 
+- [auth0/SimpleKeychain](https://github.com/auth0/SimpleKeychain) - A simple Keychain wrapper for iOS, macOS, tvOS, and watchOS
 - [ryanashcraft/CloudSyncSession](https://github.com/ryanashcraft/CloudSyncSession) - Swift package that makes it easier to write CloudKit sync-enabled, offline-capable apps
 - [brunophilipe/LiquidKit](https://github.com/brunophilipe/LiquidKit) - Liquid template language parser engine in Swift.
 - [KarimEbrahemAbdelaziz/SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - Simple and Elegant Drop down menu for iOS 🔥💥
@@ -5219,6 +5224,7 @@
 
 ## linux 
 
+- [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [Code-Hex/vz](https://github.com/Code-Hex/vz) - Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.framework.
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 - [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script which takes the game you're playing on steam and displays it on discord
@@ -5243,7 +5249,7 @@
 - [FabrizioBrancati/Queuer](https://github.com/FabrizioBrancati/Queuer) - Queuer is a queue manager, built on top of OperationQueue and Dispatch (aka GCD).
 - [envoy/Embassy](https://github.com/envoy/Embassy) - Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux
 - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [mkasberg/dotfiles](https://github.com/mkasberg/dotfiles) - 🛠️ Mike's dotfiles. Managed with https://www.chezmoi.io/
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
@@ -6101,6 +6107,7 @@
 
 ## monitoring 
 
+- [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Visualise Go program runtime metrics in real time in your browser
 - [cdklabs/cdk-monitoring-constructs](https://github.com/cdklabs/cdk-monitoring-constructs) - Easy-to-use CDK constructs for monitoring your AWS infrastructure
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
@@ -6619,6 +6626,11 @@
 
 ## others 
 
+- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
+- [pajotsetrapper/TMS9129VDPTest](https://github.com/pajotsetrapper/TMS9129VDPTest) - Arduino-based TMS9129 VideoProcessor test
+- [microsoft/win32-app-isolation](https://github.com/microsoft/win32-app-isolation) - Tools and documentation for Win32 app isolation
+- [CocoaPods/trunk.cocoapods.org](https://github.com/CocoaPods/trunk.cocoapods.org) - The authentication server for CocoaPods push
+- [lnis-uofu/OpenFPGA](https://github.com/lnis-uofu/OpenFPGA) - An Open-source FPGA IP Generator
 - [mholt/caddy-psl](https://github.com/mholt/caddy-psl) - A public suffix list module for Caddy
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [mryechkin/nextjs-supabase-auth](https://github.com/mryechkin/nextjs-supabase-auth) - Sample project for setting up Supabase Auth in Next.js
@@ -6693,7 +6705,6 @@
 - [antmicro/yosys-systemverilog](https://github.com/antmicro/yosys-systemverilog) - SystemVerilog support for Yosys
 - [aws/actions-dev-kit](https://github.com/aws/actions-dev-kit) - 
 - [frankrausch/AttributedStringStyledMarkdown](https://github.com/frankrausch/AttributedStringStyledMarkdown) - AttributedString Markdown initializer with custom styling
-- [kilork/openid](https://github.com/kilork/openid) - OpenID Connect client using async / await
 - [yhqiu16/NVMeCHA](https://github.com/yhqiu16/NVMeCHA) - NVMe Controller featuring Hardware Acceleration
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [facebook/lexical-ios](https://github.com/facebook/lexical-ios) - Lexical iOS is an extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit.
@@ -7035,7 +7046,6 @@
 - [hyphop/oowow](https://github.com/hyphop/oowow) - oowow
 - [dnotq/core9900](https://github.com/dnotq/core9900) - TMS9900 CPU implemented in VHDL.
 - [dnotq/f18a](https://github.com/dnotq/f18a) - F18A source HDL
-- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [0xMirasio/qemu-patch-raspberry4](https://github.com/0xMirasio/qemu-patch-raspberry4) - patch QEMU for raspberry4
 - [higherSentinel/multi-plate-KiCad6](https://github.com/higherSentinel/multi-plate-KiCad6) - A shell script to set up a range of kicad6 project folders within a git repository.
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
@@ -7225,14 +7235,12 @@
 - [spotify/XCRemoteCache](https://github.com/spotify/XCRemoteCache) - 
 - [FaqT0tum/Orbion_Space_Mouse_OLD](https://github.com/FaqT0tum/Orbion_Space_Mouse_OLD) - ORBION the OpenSource Space Mouse 3D
 - [prismicio/awesome-prismic](https://github.com/prismicio/awesome-prismic) - A curated list of awesome things related to Prismic
-- [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [Ildaron/ironbci](https://github.com/Ildaron/ironbci) - Open-Source Brain-Computer Interface, ADS1299 and STM32
 - [luvolondon/fvtt-module-jitsiwebrtc](https://github.com/luvolondon/fvtt-module-jitsiwebrtc) - Jitsi WebRTC client for FVTT
 - [twostraws/Subsonic](https://github.com/twostraws/Subsonic) - A small library that makes it easier to play audio with SwiftUI.
 - [adrianlarion/useful-sed](https://github.com/adrianlarion/useful-sed) - Useful sed scripts & patterns.
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [lkzhao/UIComponent](https://github.com/lkzhao/UIComponent) - Write UI in crazy speed, with great perf & no limitations.
-- [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [simons-public/protonfixes](https://github.com/simons-public/protonfixes) - A module for applying fixes at runtime to unsupported games with Steam Proton without changing game installation files
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
@@ -7337,7 +7345,6 @@
 - [skvadrik/re2c](https://github.com/skvadrik/re2c) - Lexer generator for C, C++, Go and Rust.
 - [EFForg/apkeep](https://github.com/EFForg/apkeep) - 
 - [Digilent/Genesys-ZU](https://github.com/Digilent/Genesys-ZU) - 
-- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [flutter/devtools](https://github.com/flutter/devtools) - Performance tools for Flutter
 - [awslabs/smithy-swift](https://github.com/awslabs/smithy-swift) - 
 - [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues
@@ -7662,7 +7669,7 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [timwis/markdown-to-google-doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive
 - [olivaresf/amazingcloudkit](https://github.com/olivaresf/amazingcloudkit) - A smart way to use CloudKit
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-14.0.0 [April 2023]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-14.0.0 [May 2023]
 - [PPacie/SwipingCarousel](https://github.com/PPacie/SwipingCarousel) - UICollectionView-based swiping carousel using Swift 5.1 and Xcode 11.2
 - [ChrisMicro/mcurses](https://github.com/ChrisMicro/mcurses) - 
 - [krzysztofzablocki/AutomaticSettings](https://github.com/krzysztofzablocki/AutomaticSettings) - Data driven settings UI generation.
@@ -7791,7 +7798,6 @@
 - [ARMmbed/DAPLink](https://github.com/ARMmbed/DAPLink) - 
 - [uiur/github-pr-release](https://github.com/uiur/github-pr-release) - Create a release pull request using GitHub API
 - [seanbaxter/shaders](https://github.com/seanbaxter/shaders) - Circle C++ shaders
-- [brunoluiz/urlzap](https://github.com/brunoluiz/urlzap) - ⚡️ Your own static URL shortener
 - [keith/diff-grep](https://github.com/keith/diff-grep) - Filter matching hunks in diffs
 - [keebio/Keebio-Parts.pretty](https://github.com/keebio/Keebio-Parts.pretty) - Various KiCAD footprints for mechanical keyboard parts
 - [adafruit/Bluefruit_LE_Connect_v2](https://github.com/adafruit/Bluefruit_LE_Connect_v2) - iOS app for use with Bluefruit Bluetooth LE modules and dev boards from Adafruit (v2.0)
@@ -7908,7 +7914,6 @@
 - [rems-project/sail](https://github.com/rems-project/sail) - Sail architecture definition language
 - [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) - Scots Army Knife for electronics
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
-- [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
 - [OpenCircuits/FSS](https://github.com/OpenCircuits/FSS) - Finite State Simulator
 - [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
 - [meagmohit/EEG-Datasets](https://github.com/meagmohit/EEG-Datasets) - A list of all public EEG-datasets
@@ -8187,7 +8192,6 @@
 - [migueldeicaza/TextBufferKit](https://github.com/migueldeicaza/TextBufferKit) - Swift TextBuffer
 - [daradib/sidedoor](https://github.com/daradib/sidedoor) - SSH connection daemon for Debian/Raspbian/Ubuntu/etc
 - [google/llvm-propeller](https://github.com/google/llvm-propeller) - PROPELLER: Profile Guided Optimizing Large Scale LLVM-based Relinker
-- [Forceu/barcodebuddy](https://github.com/Forceu/barcodebuddy) - Barcode system for Grocy
 - [GitbookIO/gitbook-cli](https://github.com/GitbookIO/gitbook-cli) - GitBook's command line interface
 - [yannickl/DynamicButton](https://github.com/yannickl/DynamicButton) - Yet another animated flat buttons in Swift
 - [sakofchit/fund-my-project](https://github.com/sakofchit/fund-my-project) - A directory of verified programs that offer grants + funding towards side projects/startups
@@ -8740,7 +8744,7 @@
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
 - [gamozolabs/orange_slice](https://github.com/gamozolabs/orange_slice) - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) - A Metrics API for Swift
-- [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - AMD ROCm Platform - Powering Your GPU Computational Needs
+- [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - AMD ROCm™ Platform - GitHub Home
 - [flot/flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
 - [donghaoren/color-calculus](https://github.com/donghaoren/color-calculus) - A zero-dependency library of color conversion functions.
 - [cuckoosandbox/cuckoo](https://github.com/cuckoosandbox/cuckoo) - Cuckoo Sandbox is an automated dynamic malware analysis system
@@ -8784,7 +8788,7 @@
 - [holzschu/network_ios](https://github.com/holzschu/network_ios) - Extension to ios_system, doing network-based commands
 - [pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader) - Here I share the code of my CV, which is also a bootable bootloader :)
 - [pwaller/go2ll-talk](https://github.com/pwaller/go2ll-talk) - Live coding a basic Go compiler with LLVM in 20 minutes
-- [kyren/piccolo](https://github.com/kyren/piccolo) - An experimental Lua VM implemented in pure Rust
+- [triplehex/piccolo](https://github.com/triplehex/piccolo) - An experimental Lua VM implemented in pure Rust
 - [alanzeino/source-editor-extension](https://github.com/alanzeino/source-editor-extension) - A source editor extension for easy Swift version #if defs
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
 - [pgina/pgina](https://github.com/pgina/pgina) - pGina: Open Source Windows Authentication
@@ -8867,7 +8871,6 @@
 - [dandrews/nefarious-linkedin](https://github.com/dandrews/nefarious-linkedin) - :shipit: A look at how LinkedIn spies on its users.
 - [sourcegraph/deploy-sourcegraph](https://github.com/sourcegraph/deploy-sourcegraph) - Deploy Sourcegraph to a Kubernetes cluster for large-scale code search and intelligence
 - [rsms/fontkit](https://github.com/rsms/fontkit) - JS & WASM library for working with fonts
-- [progmaticltd/homebox](https://github.com/progmaticltd/homebox) - A set of ansible scripts to build a personal mail server / private cloud / etc.
 - [google/draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
 - [CelesteBlue-dev/PSVita-RE-tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools) - A bundle of RE tools for analyzing and modding PSVita OS
 - [open-power/op-build](https://github.com/open-power/op-build) - Buildroot overlay for Open Power
@@ -9038,7 +9041,7 @@
 - [FPGAwars/icestudio-block-icons](https://github.com/FPGAwars/icestudio-block-icons) - :snowflake: SVG Icons for using in the user defined blocks
 - [pulp-platform/pulpissimo](https://github.com/pulp-platform/pulpissimo) - This is the top-level project for the PULPissimo Platform. It instantiates a PULPissimo open-source system with a PULP SoC domain, but no cluster.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
-- [zaidalyafeai/zaidalyafeai.github.io](https://github.com/zaidalyafeai/zaidalyafeai.github.io) - Implementation of web friendly ML models using TensorFlow.js. pix2pix, face segmentation, fast style transfer and many more ...
+- [zaidalyafeai/ml-projects](https://github.com/zaidalyafeai/ml-projects) - Implementation of web friendly ML models using TensorFlow.js. pix2pix, face segmentation, fast style transfer and many more ...
 - [inkle/slayout](https://github.com/inkle/slayout) - UI layout and animation component for Unity
 - [premek/pink](https://github.com/premek/pink) - An attempt to implement ink in lua
 - [foone/SplitBySubs](https://github.com/foone/SplitBySubs) - Splits up movie files according to subtitle files
@@ -9358,7 +9361,6 @@
 - [oetiker/SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System
 - [Cryptogenic/PS4-5.05-Kernel-Exploit](https://github.com/Cryptogenic/PS4-5.05-Kernel-Exploit) - A fully implemented kernel exploit for the PS4 on 5.05FW
 - [pmem/pmdk](https://github.com/pmem/pmdk) - Persistent Memory Development Kit
-- [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [talonius/hb-downloader](https://github.com/talonius/hb-downloader) - An automated utility to download your Humble Bundle purchases with support for the Authy token.
 - [Habbie/hello-dns](https://github.com/Habbie/hello-dns) - Hello and welcome to DNS!
 - [p11-glue/p11-kit](https://github.com/p11-glue/p11-kit) - Provides a way to load and enumerate PKCS#11 modules.
@@ -11098,7 +11100,6 @@
 - [boldport/pcbmode](https://github.com/boldport/pcbmode) - A printed circuit board design tool with a twist
 - [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
 - [DeclarativeHub/Bond](https://github.com/DeclarativeHub/Bond) - A Swift binding framework
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [core-plot/core-plot](https://github.com/core-plot/core-plot) - Core Plot source code and example applications
 - [objcio/issue-1-view-controller-containment](https://github.com/objcio/issue-1-view-controller-containment) - Small example app that shows a container view controller
 - [openworm/sibernetic](https://github.com/openworm/sibernetic) - This is a C++/OpenCL implementation of the PCISPH algorithm supplemented with a set of biomechanics related features applied to C. elegans locomotion
@@ -12188,6 +12189,7 @@
 
 ## python 
 
+- [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory) - An open source platform for end to-end photonic chip design and validation
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [pyimgui/pyimgui](https://github.com/pyimgui/pyimgui) - Cython-based Python bindings for dear imgui
@@ -13025,6 +13027,7 @@
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [rp-rs/pio-rs](https://github.com/rp-rs/pio-rs) - Support crate for Raspberry Pi's PIO architecture.
 - [graphql-rust/graphql-parser](https://github.com/graphql-rust/graphql-parser) - A graphql query language and schema definition language parser and formatter for rust
+- [kilork/openid](https://github.com/kilork/openid) - OpenID Connect Rust Library
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [henrikpersson/potatis](https://github.com/henrikpersson/potatis) - 🥔 MOS-6502 and NES emulator in Rust (SDL/WebAssembly/Android/Embedded/Cloud)
 - [khvzak/mlua](https://github.com/khvzak/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
@@ -13240,6 +13243,7 @@
 
 ## security 
 
+- [auth0/SimpleKeychain](https://github.com/auth0/SimpleKeychain) - A simple Keychain wrapper for iOS, macOS, tvOS, and watchOS
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [jetpack-io/envsec](https://github.com/jetpack-io/envsec) - Securely store environment variables and secrets in the cloud of your choice.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -13354,6 +13358,37 @@
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [limpkin/mooltipass](https://github.com/limpkin/mooltipass) - Github repository dedicated to the mooltipass project
 
+## self-hosted 
+
+- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+- [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
+- [jmarmorato/Intranet-Home-Page](https://github.com/jmarmorato/Intranet-Home-Page) - Intranet Home Page is a highly-configurable self-hosted browser homepage with integrations for public and local data feeds.
+- [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
+- [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [grocy/grocy-docker](https://github.com/grocy/grocy-docker) - ERP beyond your fridge - now containerized - this is the docker repo of https://github.com/grocy/grocy
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [brunoluiz/urlzap](https://github.com/brunoluiz/urlzap) - ⚡️ Your own static URL shortener
+- [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
+- [Forceu/barcodebuddy](https://github.com/Forceu/barcodebuddy) - Barcode system for Grocy
+- [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [progmaticltd/homebox](https://github.com/progmaticltd/homebox) - A set of ansible scripts to build a personal mail server / private cloud / etc.
+- [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
+- [petrk94/ownhealthrecord](https://github.com/petrk94/ownhealthrecord) - This repository is about the OwnHealthRecord Application Web App
+- [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
+- [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
+
 ## server 
 
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
@@ -13382,7 +13417,7 @@
 
 - [inqueryio/inquery](https://github.com/inqueryio/inquery) - Superpowers for PostgreSQL
 - [dumrauf/serverless_static_website_with_basic_auth](https://github.com/dumrauf/serverless_static_website_with_basic_auth) - Builds a serverless infrastructure in AWS for hosting a static website protected with Basic Authentication and published on a subdomain registered via Route 53
-- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Local Lambda debug, CodeWhisperer, SAM/CFN syntax, ECS Exec, AWS resources browser
+- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - CodeWhisperer, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Exec, AWS resources
 - [buildkite/iam-ssh-agent](https://github.com/buildkite/iam-ssh-agent) - Keyless SSH Agent for IAM Entities
 - [twilio-labs/function-templates](https://github.com/twilio-labs/function-templates) - Twilio Function templates for different Voice, SMS, Video, Chat, Sync, etc use cases
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -13424,7 +13459,7 @@
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
 - [juan-leon/lowcharts](https://github.com/juan-leon/lowcharts) - Tool to draw low-resolution graphs in terminal
@@ -13521,6 +13556,7 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 
 ## spring 
 
