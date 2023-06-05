@@ -270,6 +270,8 @@
 
 ## C 
 
+- [BrianSidebotham/arm-tutorial-rpi](https://github.com/BrianSidebotham/arm-tutorial-rpi) - Raspberry-Pi Bare Metal Programming in C Tutorial
+- [agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx) - A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [dosemu2/dosemu2](https://github.com/dosemu2/dosemu2) - Run DOS programs under linux:
 - [paul-j-lucas/cdecl](https://github.com/paul-j-lucas/cdecl) - Composing and deciphering C (or C++) declarations or casts, aka ‘‘gibberish.’’
@@ -389,7 +391,7 @@
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [AsahiLinux/gpu](https://github.com/AsahiLinux/gpu) - Dissecting the M1's GPU for 3D acceleration
 - [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
-- [aceisace/Inkycal](https://github.com/aceisace/Inkycal) - Inykcal is a software written in python for selected E-Paper displays. It converts these displays into useful information dashboards. It's open-source, free for personal use, fully modular and user-fr
+- [aceinnolab/Inkycal](https://github.com/aceinnolab/Inkycal) - Inykcal is a software written in python for selected E-Paper displays. It converts these displays into useful information dashboards. It's open-source, free for personal use, fully modular and user-fr
 - [google/hiba](https://github.com/google/hiba) - HIBA is a system built on top of regular OpenSSH certificate-based authentication that allows to manage flexible authorization of principals on pools of target hosts without the need to push customize
 - [suchmememanyskill/TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer) - A payload-based file manager for your switch!
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
@@ -1264,7 +1266,7 @@
 - [fredemmott/StreamDeck-CPPSDK](https://github.com/fredemmott/StreamDeck-CPPSDK) - A fork of Elgato's C++ StreamDeck SDK, focussing on reusability
 - [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
 - [Jyers/Marlin](https://github.com/Jyers/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
-- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 - [Norbyte/ositools](https://github.com/Norbyte/ositools) - Advanced scripting and mod support for Divinity Original Sin 2
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [tihmstar/img4tool](https://github.com/tihmstar/img4tool) - A tool for manipulating IMG4, IM4M and IM4P files
@@ -1715,6 +1717,7 @@
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [atom/node-keytar](https://github.com/atom/node-keytar) - Native Password Node Module
+- [kythe/kythe](https://github.com/kythe/kythe) - Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
 - [RetroPie/EmulationStation](https://github.com/RetroPie/EmulationStation) - A Fork of Emulation Station for RetroPie. Emulation Station is a flexible emulator front-end supporting keyboardless navigation and custom system themes.
 - [eonil/ClangWrapper.Swift](https://github.com/eonil/ClangWrapper.Swift) - Clang C API wrapper for Swift.
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
@@ -2069,7 +2072,7 @@
 
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 - [leesharma/metaprogramming_elixir](https://github.com/leesharma/metaprogramming_elixir) - My notes and exercise solutions for Metaprogramming Elixir. This book was read as part of the DC Elixir Bookclub.
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [usecanvas/api-v2](https://github.com/usecanvas/api-v2) - 
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
 
@@ -2254,7 +2257,6 @@
 - [logrusorgru/aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
 - [akash-network/node](https://github.com/akash-network/node) - a secure, transparent, and peer-to-peer cloud computing network
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-- [tailscale/tailscale-synology](https://github.com/tailscale/tailscale-synology) - Synology packages for tailscale.com
 - [caddy-dns/namecheap](https://github.com/caddy-dns/namecheap) - 
 - [swill/kad](https://github.com/swill/kad) - Keyboard Automated Design (KAD) is a Golang library for designing mechanical keyboards
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
@@ -2423,7 +2425,7 @@
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [danihodovic/generate-ssh-configs](https://github.com/danihodovic/generate-ssh-configs) - Automatically generate ssh config files for your cloud servers
 - [akarki15/dbdot](https://github.com/akarki15/dbdot) - Generate DOT description for postgres db schema
-- [xyproto/algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [aureleoules/core](https://github.com/aureleoules/core) - Backpulse's core. Backpulse is an API Based CMS. Build you own website without worrying about the content administration system.
 - [roboncode/shorty-go](https://github.com/roboncode/shorty-go) - Microservice that shortens urls like bit.ly written in Go
 - [gographics/imagick](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API
@@ -2467,7 +2469,7 @@
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [yinqiwen/gsnova](https://github.com/yinqiwen/gsnova) - Private proxy solution & network troubleshooting tool.
 - [bytesizedhosting/bcd](https://github.com/bytesizedhosting/bcd) - The Bytesized Connect Daemon - https://bytesized-hosting.com/connect
-- [philidor-green/gif2webp-docker](https://github.com/philidor-green/gif2webp-docker) - gif2webp-docker - a docker container with REST API, will convert a GIF image to WebP.
+- [roman-kiselenko/gif2webp-docker](https://github.com/roman-kiselenko/gif2webp-docker) - gif2webp-docker - a docker container with REST API, will convert a GIF image to WebP.
 - [google/minions](https://github.com/google/minions) - Distributed filesystem scanner
 - [google/oauth2l](https://github.com/google/oauth2l) - oauth2l ("oauth tool") is a simple CLI for interacting with Google API authentication.
 - [google/gapid](https://github.com/google/gapid) - Graphics API Debugger
@@ -2626,7 +2628,6 @@
 - [golang/lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code. (deprecated)
 - [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [spf13/jwalterweatherman](https://github.com/spf13/jwalterweatherman) - So you always leave a note
-- [kythe/kythe](https://github.com/kythe/kythe) - Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
 - [miquella/vaulted](https://github.com/miquella/vaulted) - Spawning and storage of secure environments
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
@@ -2728,6 +2729,7 @@
 
 ## HTML 
 
+- [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [joesinghaus/Blades-template](https://github.com/joesinghaus/Blades-template) - A template/guide for creating roll20 sheets based on the Blades in the Dark sheet
 - [Roll20/roll20-character-sheets](https://github.com/Roll20/roll20-character-sheets) - Character sheet templates created by the community for use in Roll20 VTT. Submit a ticket at roll20.net/help if critical hotfixes are to be requested.
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
@@ -2783,6 +2785,7 @@
 - [insidegui/wwdc.io](https://github.com/insidegui/wwdc.io) - The official website for the unofficial WWDC app for macOS 🤓 ❤️
 - [grumpygamer/DeloresDev](https://github.com/grumpygamer/DeloresDev) - Read all about it on GrumpyGamer:
 - [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
+- [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - AST visualizer for Swift source code
 - [kishikawakatsumi/swift-ast-explorer-playground](https://github.com/kishikawakatsumi/swift-ast-explorer-playground) - Online playground for Swift AST Explorer
 - [openscopeproject/InteractiveHtmlBomDemo](https://github.com/openscopeproject/InteractiveHtmlBomDemo) - Demo pages for InteractiveHtmlBom plugin
 - [markjamesm/bookmark-tester](https://github.com/markjamesm/bookmark-tester) - Broken link checker for browser bookmarks written in Swift. Visit the link below for the accompanying guide I wrote.
@@ -3142,6 +3145,7 @@
 
 ## JavaScript 
 
+- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [mryechkin/nextjs-supabase-auth](https://github.com/mryechkin/nextjs-supabase-auth) - Sample project for setting up Supabase Auth in Next.js
 - [Pecnut/visual-pde](https://github.com/Pecnut/visual-pde) - Interactive partial differential equation solver, live in your device's web browser
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
@@ -3307,7 +3311,6 @@
 - [githubsatelliteworkshops/apps-with-graphql](https://github.com/githubsatelliteworkshops/apps-with-graphql) - Building automations with GitHub Apps and GraphQL
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [keiranking/Phil](https://github.com/keiranking/Phil) - A crossword maker.
-- [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - Swift AST to HTML conversion
 - [arkime/arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [PaulTaykalo/xcode-build-times-rendering](https://github.com/PaulTaykalo/xcode-build-times-rendering) - Xcode build times visualization per target
@@ -4268,7 +4271,7 @@
 
 - [Ramblurr/nixcfg](https://github.com/Ramblurr/nixcfg) - 
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [tpwrules/nixos-pinenote](https://github.com/tpwrules/nixos-pinenote) - Attempts to get NixOS up on the PINE64 PineNote.
 - [tfc/pandoc-drawio-filter](https://github.com/tfc/pandoc-drawio-filter) - Embedd drawio images into markdown files for direct processing in pandoc
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
@@ -4867,6 +4870,7 @@
 
 ## Others 
 
+- [QuickLogic-Corp/quick-feather-dev-board](https://github.com/QuickLogic-Corp/quick-feather-dev-board) - 100% open source dev kit for EOS S3 MCU+eFPGA SoC supported by fully open source SDK and FPGA Toolchain
 - [microsoft/win32-app-isolation](https://github.com/microsoft/win32-app-isolation) - Tools and documentation for Win32 app isolation
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [jblang/SN76489](https://github.com/jblang/SN76489) - SN76489 Sound Card for RC2014
@@ -4973,6 +4977,7 @@
 - [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues
 - [AllsafeCyberSecurity/awesome-ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra) - A curated list of awesome Ghidra materials
 - [bobeff/programming-math-science](https://github.com/bobeff/programming-math-science) - This is a list of links to different freely available learning resources about computer programming, math, and science.
+- [tailscale/tailscale-synology](https://github.com/tailscale/tailscale-synology) - Synology packages for tailscale.com
 - [HankiDesign/awesome-dear-imgui](https://github.com/HankiDesign/awesome-dear-imgui) - A collection of awesome dear imgui bindings, extensions and resources
 - [scholtzm/awesome-steam](https://github.com/scholtzm/awesome-steam) - 😎 A curated list of packages and resources regarding Steam development
 - [IamWarHead/ddb-game-log](https://github.com/IamWarHead/ddb-game-log) - DDB Gamelog makes your D&D Beyond rolls visible in Foundry VTT without any browser extensions.
@@ -5015,7 +5020,7 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [alexkaessner/macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) - :gem: The most detailed and accurate macOS UI Kit for Sketch. This Sketch Library includes common Mac interface elements, cursors, and a Touch Bar UI Kit.
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-14.0.0 [May 2023]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-14.0.0 [June 2023]
 - [arturo182/kicad-modules](https://github.com/arturo182/kicad-modules) - A repository with all my custom footprints and 3d models for KiCad
 - [arturo182/BBQ10KBD](https://github.com/arturo182/BBQ10KBD) - 
 - [yewalenikhil65/Resources-for-engineering-students-who-like-mathematics](https://github.com/yewalenikhil65/Resources-for-engineering-students-who-like-mathematics) - This is a collection of resources that I feel will prove useful to anyone studying in the area of engineering but also like mathematics. I urge anyone who comes across this, to contribute to the list 
@@ -5537,7 +5542,7 @@
 - [fantasycalendar/Fantasy-Calendar](https://github.com/fantasycalendar/Fantasy-Calendar) - This is for the fantasy-calendar website, specifically the 2.0 update. Feel free to contribute and help improve the site!
 - [vinkla/extended-acf](https://github.com/vinkla/extended-acf) - Register advanced custom fields with object oriented PHP
 - [outlandishideas/wpackagist](https://github.com/outlandishideas/wpackagist) - WordPress Packagist — manage your plugins with Composer
-- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate. It's like building any other WordPress website with themes and plugins. Just with sprinkles on top.
+- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [twilio/twilio-php](https://github.com/twilio/twilio-php) - A PHP library for communicating with the Twilio REST API and generating TwiML.
 - [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
 - [RaymiiOrg/certificate-expiry-monitor](https://github.com/RaymiiOrg/certificate-expiry-monitor) - https://certificatemonitor.org
@@ -5709,6 +5714,7 @@
 
 ## Python 
 
+- [superdesk/superdesk](https://github.com/superdesk/superdesk) - Superdesk is an end-to-end news creation, production, curation, distribution, and publishing platform.
 - [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory) - An open source platform for end to-end photonic chip design and validation
 - [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
 - [obra/kicad-automation-scripts](https://github.com/obra/kicad-automation-scripts) - A bunch of scripts to automate KiCad processes
@@ -5799,7 +5805,7 @@
 - [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 - [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by qpdf
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
-- [formatc1702/WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
+- [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses.
 - [jspricke/radicale-remind](https://github.com/jspricke/radicale-remind) - Radicale storage backends for Remind and Abook
 - [RTimothyEdwards/open_pdks](https://github.com/RTimothyEdwards/open_pdks) - PDK installer for open-source EDA tools and toolchains.  Distributed with a setup for the Google/SkyWater 130nm process.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
@@ -5917,7 +5923,7 @@
 - [scanapi/scanapi](https://github.com/scanapi/scanapi) - Automated Integration Testing and Live Documentation for your API
 - [jbesomi/texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
 - [jaheyns/CfdOF](https://github.com/jaheyns/CfdOF) - Computational Fluid Dynamics (CFD) for FreeCAD based on OpenFOAM solver
-- [itsjoshthedeveloper/backupOneTab](https://github.com/itsjoshthedeveloper/backupOneTab) - Back up and restore your OneTab Chrome extension data
+- [joshuachough/backupOneTab](https://github.com/joshuachough/backupOneTab) - Back up and restore your OneTab Chrome extension data
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [VLSIDA/OpenRAM](https://github.com/VLSIDA/OpenRAM) - An open-source static random access memory (SRAM) compiler.
 - [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard) - A hand-wired USB & Bluetooth keyboard powered by Python and more
@@ -9177,6 +9183,8 @@
 
 ## TeX 
 
+- [sarabander/sicp-pocket](https://github.com/sarabander/sicp-pocket) - SICP PDF adapted to pocket format (for small e-reader screens)
+- [carloocchiena/the_statistics_handbook](https://github.com/carloocchiena/the_statistics_handbook) - the statistics handbook open source repository
 - [rrruark/DNVT](https://github.com/rrruark/DNVT) - Digital Non-secure Voice Terminal Codeword Testing
 - [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) - A Tufte-inspired LaTeX class for producing handouts, papers, and books
 - [openbmc/docs](https://github.com/openbmc/docs) - OpenBMC Documentation
@@ -9225,6 +9233,7 @@
 
 ## TypeScript 
 
+- [superdesk/superdesk-client-core](https://github.com/superdesk/superdesk-client-core) - Common client modules for superdesk apps.
 - [danielsogl/awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 - [microsoft/deoptexplorer-vscode](https://github.com/microsoft/deoptexplorer-vscode) - A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e., NodeJS, Edge, Chrome, etc.).
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
@@ -9511,7 +9520,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [hygieia/hygieia](https://github.com/hygieia/hygieia) - CapitalOne  DevOps Dashboard
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [jupyter/jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for jupyter notebooks
 - [JamieMason/ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Make optimisation of images part of your automated build process
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
