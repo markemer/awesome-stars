@@ -540,7 +540,7 @@
 - [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [waveshare/e-Paper](https://github.com/waveshare/e-Paper) - 
+- [waveshareteam/e-Paper](https://github.com/waveshareteam/e-Paper) - 
 - [stm32duino/STM32LowPower](https://github.com/stm32duino/STM32LowPower) - Arduino Low Power library for STM32
 - [darrylb123/usbrelay](https://github.com/darrylb123/usbrelay) - Control usb relay - based on hidapi
 - [flashrom/flashrom](https://github.com/flashrom/flashrom) - Send patches to https://review.coreboot.org: https://www.flashrom.org/Development_Guidelines#GitHub
@@ -2746,7 +2746,6 @@
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [CRImier/NGFF](https://github.com/CRImier/NGFF) - M.2 NGFF接口标准
 - [amazonlinux/amazon-linux-2023](https://github.com/amazonlinux/amazon-linux-2023) - Amazon Linux 2023
-- [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone
 - [myogpatterns/myogpatterns.github.io](https://github.com/myogpatterns/myogpatterns.github.io) - Make Your Own Gear (MYOG) patterns and calculators for the outdoor and ultralight enthusiast
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
@@ -3384,7 +3383,6 @@
 - [hasura/gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) - Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
 - [IBM-Swift/generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) - WARNING: This repository is no longer maintained
 - [swiftwasm/swiftwasm.github.io](https://github.com/swiftwasm/swiftwasm.github.io) - Website for the SwiftWasm project
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [idyll-lang/idyll-plugin-runscripts](https://github.com/idyll-lang/idyll-plugin-runscripts) - Inline script execution for idyll documents
 - [mikolajdobrucki/ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons
 - [raghur/mermaid-filter](https://github.com/raghur/mermaid-filter) - Pandoc filter for creating diagrams in mermaid syntax blocks in markdown docs
@@ -4870,6 +4868,7 @@
 
 ## Others 
 
+- [FYSETC/SD-WIFI-PRO](https://github.com/FYSETC/SD-WIFI-PRO) - The hard ware of SD WIFI PRO
 - [QuickLogic-Corp/quick-feather-dev-board](https://github.com/QuickLogic-Corp/quick-feather-dev-board) - 100% open source dev kit for EOS S3 MCU+eFPGA SoC supported by fully open source SDK and FPGA Toolchain
 - [microsoft/win32-app-isolation](https://github.com/microsoft/win32-app-isolation) - Tools and documentation for Win32 app isolation
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
@@ -5680,7 +5679,7 @@
 ## PowerShell 
 
 - [parsec-cloud/Cloud-GPU-Updater](https://github.com/parsec-cloud/Cloud-GPU-Updater) - For updating P4000, P5000 and M60 GPU's
-- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - 
+- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
 - [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
@@ -5759,6 +5758,7 @@
 - [inkcut/inkcut](https://github.com/inkcut/inkcut) - An application for controlling 2D plotters, cutters, engravers, and CNC machines.
 - [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
 - [efabless/volare](https://github.com/efabless/volare) - Version manager (and builder) for the Google sky130 and gf180mcu open-source PDKs
+- [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [jlevy/repren](https://github.com/jlevy/repren) - Rename anything
 - [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
@@ -6442,7 +6442,7 @@
 - [matthiaskramm/corepy](https://github.com/matthiaskramm/corepy) - Clone of corepy, a synthetic programming library.
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [cmdln/flashbake](https://github.com/cmdln/flashbake) - Scripts to gather information for including in version history comments and to make using source control a bit simpler for non-technical projects.
-- [googlefonts/fontbakery](https://github.com/googlefonts/fontbakery) - Font quality assurance tool written in Python 3.
+- [googlefonts/fontbakery](https://github.com/googlefonts/fontbakery) - A font quality assurance tool for everyone
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
