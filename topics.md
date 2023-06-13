@@ -515,7 +515,7 @@
 - [jedisct1/libhydrogen](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments.
 - [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [biomurph/Mouse](https://github.com/biomurph/Mouse) - Repository for Open Source Mouse Firmware and Hardware
-- [waveshare/e-Paper](https://github.com/waveshare/e-Paper) - 
+- [waveshareteam/e-Paper](https://github.com/waveshareteam/e-Paper) - 
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [ROBOTIS-GIT/OpenCR](https://github.com/ROBOTIS-GIT/OpenCR) - Software for ROS Embedded board (a.k.a. OpenCR). OpenCR means Open-source Control Module for ROS.
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
@@ -1131,7 +1131,7 @@
 - [illinois-cs241/coursebook](https://github.com/illinois-cs241/coursebook) - Open Source Introductory Systems Programming Textbook for the University of Illinois
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [shiyanhui/libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
-- [waveshare/e-Paper](https://github.com/waveshare/e-Paper) - 
+- [waveshareteam/e-Paper](https://github.com/waveshareteam/e-Paper) - 
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
@@ -3585,7 +3585,6 @@
 - [secrethub/terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) - Terraform Provider to manage and use secrets
 - [secrethub/secrethub-go](https://github.com/secrethub/secrethub-go) - Golang SDK for the SecretHub Secrets Management API
 - [ryceg/Eigengrau-s-Essential-Establishment-Generator](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator) - A town generator that is suitable for out of the box play in any fantasy TTRPG setting.
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
 - [RIOT-OS/RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -6637,6 +6636,7 @@
 
 ## others 
 
+- [FYSETC/SD-WIFI-PRO](https://github.com/FYSETC/SD-WIFI-PRO) - The hard ware of SD WIFI PRO
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [QuickLogic-Corp/quick-feather-dev-board](https://github.com/QuickLogic-Corp/quick-feather-dev-board) - 100% open source dev kit for EOS S3 MCU+eFPGA SoC supported by fully open source SDK and FPGA Toolchain
 - [BrianSidebotham/arm-tutorial-rpi](https://github.com/BrianSidebotham/arm-tutorial-rpi) - Raspberry-Pi Bare Metal Programming in C Tutorial
@@ -10600,7 +10600,7 @@
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [alsemyonov/one_password](https://github.com/alsemyonov/one_password) - Decryptor of 1Password Agile Keychain
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
-- [googlefonts/fontbakery](https://github.com/googlefonts/fontbakery) - Font quality assurance tool written in Python 3.
+- [googlefonts/fontbakery](https://github.com/googlefonts/fontbakery) - A font quality assurance tool for everyone
 - [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [firebase/firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
 - [simh/simh](https://github.com/simh/simh) - The Computer History Simulation Project
@@ -12296,7 +12296,7 @@
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [bepasty/bepasty-server](https://github.com/bepasty/bepasty-server) - universal pastebin server
 - [DataForScience/Epidemiology101](https://github.com/DataForScience/Epidemiology101) - Epidemic Modeling for Everyone
-- [waveshare/e-Paper](https://github.com/waveshare/e-Paper) - 
+- [waveshareteam/e-Paper](https://github.com/waveshareteam/e-Paper) - 
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [nfstream/nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
 - [san089/goodreads_etl_pipeline](https://github.com/san089/goodreads_etl_pipeline) - An end-to-end GoodReads Data Pipeline for Building Data Lake, Data Warehouse and Analytics Platform.
@@ -12865,7 +12865,7 @@
 - [alexbatalov/fallout2-re](https://github.com/alexbatalov/fallout2-re) - Reverse engineered Fallout 2
 - [horsicq/XMachOViewer](https://github.com/horsicq/XMachOViewer) - XMachOViewer is a Mach-O viewer for Windows, Linux and MacOS
 - [horsicq/PDBRipper](https://github.com/horsicq/PDBRipper) - PDBRipper is a utility for extract an information from PDB-files.
-- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - 
+- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
 - [lifting-bits/sleigh](https://github.com/lifting-bits/sleigh) - Unofficial CMake build for Ghidra SLEIGH
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [qilingframework/qiling](https://github.com/qilingframework/qiling) - A True Instrumentable Binary Emulation Framework
