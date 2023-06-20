@@ -415,7 +415,6 @@
 - [libuvc/libuvc](https://github.com/libuvc/libuvc) - a cross-platform library for USB video devices
 - [Wolfgang-Spraul/fpgatools](https://github.com/Wolfgang-Spraul/fpgatools) - public domain tools for FPGAs
 - [libtcod/libtcod](https://github.com/libtcod/libtcod) - A collection of tools and algorithms for developing traditional roguelikes.  Such as field-of-view, pathfinding, and a tile-based terminal emulator.
-- [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [electronicarts/MELE_ModdingSupport](https://github.com/electronicarts/MELE_ModdingSupport) - 
 - [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 - [skeeto/hastyhex](https://github.com/skeeto/hastyhex) - A blazing fast hex dumper
@@ -2024,7 +2023,7 @@
 - [jehna/calc-o-pad](https://github.com/jehna/calc-o-pad) - A notepad calculator
 - [dart-lang/samples](https://github.com/dart-lang/samples) - A collection of Dart code samples by Dart DevRel
 - [singerdmx/flutter-quill](https://github.com/singerdmx/flutter-quill) - Rich text editor for Flutter
-- [intel/rohd](https://github.com/intel/rohd) - The Rapid Open Hardware Development (ROHD) framework is a framework for describing and verifying hardware in the Dart programming language. ROHD enables you to build and traverse a graph of connectivi
+- [intel/rohd](https://github.com/intel/rohd) - The Rapid Open Hardware Development (ROHD) framework is a framework for describing and verifying hardware in the Dart programming language.
 - [flutter/devtools](https://github.com/flutter/devtools) - Performance tools for Flutter
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
 - [huextrat/Taskist](https://github.com/huextrat/Taskist) - Flutter ToDo App with Firebase
@@ -3149,6 +3148,9 @@
 
 ## JavaScript 
 
+- [lensvol/fl-request-sounder](https://github.com/lensvol/fl-request-sounder) - Fallen London API recorder.
+- [lensvol/fl-identica](https://github.com/lensvol/fl-identica) - Small extension to display item's ID in its tooltip on Fallen London "Possessions" tab.
+- [lensvol/fl-quality-lantern](https://github.com/lensvol/fl-quality-lantern) - Reveal hidden Qualities in Fallen London storylets.
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [mryechkin/nextjs-supabase-auth](https://github.com/mryechkin/nextjs-supabase-auth) - Sample project for setting up Supabase Auth in Next.js
 - [Pecnut/visual-pde](https://github.com/Pecnut/visual-pde) - Interactive partial differential equation solver, live in your device's web browser
@@ -3643,6 +3645,7 @@
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https
 - [GoogleTrends/data](https://github.com/GoogleTrends/data) - An index of all open-source data
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [sly7-7/d3-v4-cloud](https://github.com/sly7-7/d3-v4-cloud) - Create word clouds in JavaScript.
 - [ricmoo/aes-js](https://github.com/ricmoo/aes-js) - A pure JavaScript implementation of the AES block cipher and all common modes of operation for node.js or web browsers.
@@ -3863,7 +3866,6 @@
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [novus/nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 - [NeilFraser/JS-Interpreter](https://github.com/NeilFraser/JS-Interpreter) - A sandboxed JavaScript interpreter in JavaScript.
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [Ericsson/exchangecalendar](https://github.com/Ericsson/exchangecalendar) - Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider.
 - [mbostock/solar-calculator](https://github.com/mbostock/solar-calculator) - Equations for computing the position of the Sun.
@@ -4871,6 +4873,8 @@
 
 ## Others 
 
+- [lensvol/fl-extensions-graylist](https://github.com/lensvol/fl-extensions-graylist) - List of both actual and deprecated browser extensions for Fallen London.
+- [krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of awesome Swift Macros
 - [FYSETC/SD-WIFI-PRO](https://github.com/FYSETC/SD-WIFI-PRO) - The hard ware of SD WIFI PRO
 - [QuickLogic-Corp/quick-feather-dev-board](https://github.com/QuickLogic-Corp/quick-feather-dev-board) - 100% open source dev kit for EOS S3 MCU+eFPGA SoC supported by fully open source SDK and FPGA Toolchain
 - [microsoft/win32-app-isolation](https://github.com/microsoft/win32-app-isolation) - Tools and documentation for Win32 app isolation
@@ -5717,6 +5721,7 @@
 
 ## Python 
 
+- [kkotenko/fl-log-analyzer](https://github.com/kkotenko/fl-log-analyzer) - Processes a recording of Fallen London API interactions, from e.g. the browser extension FL Request Sounder
 - [ludos1978/inky_to_mermaid](https://github.com/ludos1978/inky_to_mermaid) - 
 - [superdesk/superdesk](https://github.com/superdesk/superdesk) - Superdesk is an end-to-end news creation, production, curation, distribution, and publishing platform.
 - [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory) - An open source platform for end to-end photonic chip design and validation
@@ -5844,6 +5849,7 @@
 - [ratanakvlun/deluge-ltconfig](https://github.com/ratanakvlun/deluge-ltconfig) - 
 - [AYasinAkalin/MELE_quickIniEditor](https://github.com/AYasinAkalin/MELE_quickIniEditor) - A terminal application allowing users and modders to modify .ini and Coalesced_*.bin files of ME Legendary Edition easily without replacing the whole file; losing possible early modifications in proce
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
+- [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [chromy/ink-proof](https://github.com/chromy/ink-proof) - Testing for Ink compilers and runtimes
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [CriticMarkup/CriticMarkup-toolkit](https://github.com/CriticMarkup/CriticMarkup-toolkit) - Various tools to use CriticMarkup in your daily workflow
@@ -5867,7 +5873,7 @@
 - [MoralCode/pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - A research-based starter pihole list to improve your privacy
 - [mzucker/maptrace](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images
 - [rizinorg/rz-pipe](https://github.com/rizinorg/rz-pipe) - Access rizin via pipe from any programming language!
-- [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
+- [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other geospatial data from OpenStreetMap.
 - [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 - [amaranth-lang/amaranth](https://github.com/amaranth-lang/amaranth) - A modern hardware definition language and toolchain based on Python
 - [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
@@ -6446,7 +6452,7 @@
 - [matthiaskramm/corepy](https://github.com/matthiaskramm/corepy) - Clone of corepy, a synthetic programming library.
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [cmdln/flashbake](https://github.com/cmdln/flashbake) - Scripts to gather information for including in version history comments and to make using source control a bit simpler for non-technical projects.
-- [googlefonts/fontbakery](https://github.com/googlefonts/fontbakery) - A font quality assurance tool for everyone
+- [googlefonts/fontbakery](https://github.com/googlefonts/fontbakery) - 🧁 A font quality assurance tool for everyone
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -7061,6 +7067,7 @@
 
 ## Rust 
 
+- [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
 - [psarna/edgemail](https://github.com/psarna/edgemail) - 
 - [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Core implementation of the Cedar language
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
@@ -7590,7 +7597,6 @@
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
@@ -7724,6 +7730,7 @@
 
 ## Swift 
 
+- [krzyzanowskim/STTextView](https://github.com/krzyzanowskim/STTextView) - Performant macOS text view (TextKit2) implementation, with line numbers and more. NSTextView replacement.
 - [auth0/SimpleKeychain](https://github.com/auth0/SimpleKeychain) - A simple Keychain wrapper for iOS, macOS, tvOS, and watchOS
 - [s1ddok/Alloy](https://github.com/s1ddok/Alloy) - Make usage of Metal API a pleasure
 - [Nekitosss/MeshGradient](https://github.com/Nekitosss/MeshGradient) - 
@@ -7955,7 +7962,6 @@
 - [exyte/FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
 - [airsidemobile/JOSESwift](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK written in Swift.
 - [ts1/BLEUnlock](https://github.com/ts1/BLEUnlock) - Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices
-- [PointcloudKit/PointCloudKit](https://github.com/PointcloudKit/PointCloudKit) - LiDAR room scanning
 - [SwiftUI-Plus/UIKitHelpers](https://github.com/SwiftUI-Plus/UIKitHelpers) - A set of UIKit helpers that simplify the usage of UIKit view's and controller's in SwiftUI. Many of these helpers are useful even in a pure UIKit project.
 - [GitHawkApp/Squawk](https://github.com/GitHawkApp/Squawk) - Quick & interactive iOS alerts in Swift.
 - [HamzaGhazouani/HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project
@@ -9241,6 +9247,8 @@
 
 ## TypeScript 
 
+- [lensvol/fl-small-mercies](https://github.com/lensvol/fl-small-mercies) - Small collections of patches and fixes for Fallen London UI.
+- [mtkennerly/ludusavi-manifest](https://github.com/mtkennerly/ludusavi-manifest) - Backup info for PC game saves
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [superdesk/superdesk-client-core](https://github.com/superdesk/superdesk-client-core) - Common client modules for superdesk apps.
 - [danielsogl/awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
@@ -9537,6 +9545,7 @@
 - [artsy/eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [kiswa/TaskBoard](https://github.com/kiswa/TaskBoard) - A Kanban-inspired app for keeping track of things that need to get done. (Don't forget to read the Wiki page!)
+- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [NarrativeScience-old/log.io](https://github.com/NarrativeScience-old/log.io) - Real-time log monitoring in your browser
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
