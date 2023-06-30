@@ -250,6 +250,7 @@
 
 ## Batchfile 
 
+- [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [sparkfun/SparkFun_Artemis](https://github.com/sparkfun/SparkFun_Artemis) - World's first open source hardware module using a Cortex-M4F capable of running TensorFlow models and Arduino sketches..
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
@@ -272,6 +273,7 @@
 
 ## C 
 
+- [hoglet67/RGBtoHDMI](https://github.com/hoglet67/RGBtoHDMI) - Bare-metal Raspberry Pi project that provides pixel-perfect sampling of Retro Computer RGB/YUV video and conversion to HDMI
 - [picocomputer/rp6502](https://github.com/picocomputer/rp6502) - Picocomputer 6502 reference design
 - [openSIL/openSIL](https://github.com/openSIL/openSIL) - 
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
@@ -454,6 +456,7 @@
 - [TheHumbleTransistor/HTHSM](https://github.com/TheHumbleTransistor/HTHSM) - A framework for implementing hierarchical finite state machines (HSMs) in C code. It's a good fit for firmware projects, and helps keep your event-driven system orderly with readable code.
 - [dekuNukem/duckyPad](https://github.com/dekuNukem/duckyPad) - Do-It-All Mechanical Macropad
 - [pgate1/PlayStation_on_FPGA](https://github.com/pgate1/PlayStation_on_FPGA) - implemented PlayStation(PSX) on an FPGA.
+- [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library
 - [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
 - [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
@@ -1001,7 +1004,6 @@
 - [etoile/Languages](https://github.com/etoile/Languages) - Framework to create dynamic OO languages, either interpreted or compiled with LLVM, on top of the ObjC runtime (includes Étoilé Smalltalk implementation)
 - [limpkin/mooltipass](https://github.com/limpkin/mooltipass) - Github repository dedicated to the mooltipass project
 - [gonsie/SR](https://github.com/gonsie/SR) - Simplified ROSS (now with history!)
-- [nvidia-compiler-sdk/nvvmir-samples](https://github.com/nvidia-compiler-sdk/nvvmir-samples) - 
 - [kjn/lbzip2](https://github.com/kjn/lbzip2) - Parallel bzip2 utility
 - [gcwnow/linux](https://github.com/gcwnow/linux) - Linux kernel for GCW Zero (Ingenic JZ4770)
 - [macmade/ClangKit](https://github.com/macmade/ClangKit) - ClangKit provides an Objective-C frontend to LibClang. Source tokenization, diagnostics and fix-its are actually implemented.
@@ -1088,7 +1090,7 @@
 - [GoogleCloudPlatform/iap-desktop](https://github.com/GoogleCloudPlatform/iap-desktop) - IAP Desktop is a Windows application that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud.
 - [Deweh/CyberCAT](https://github.com/Deweh/CyberCAT) - CyberPunk 2077 Customization Assistant Tool. Work in progress Savegame editor.
 - [Deweh/CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - A simplified offshoot of SirBitesalot's CyberCAT.
-- [TV-Rename/tvrename](https://github.com/TV-Rename/tvrename) - Organise your TV videos with ease
+- [TV-Rename/tvrename](https://github.com/TV-Rename/tvrename) - Organise your TV & Movie videos with ease
 - [p-org/P](https://github.com/p-org/P) - The P programming language.
 - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
 - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
@@ -1351,7 +1353,6 @@
 - [WolvenKit/CP77HookFileName](https://github.com/WolvenKit/CP77HookFileName) - Hook filenames in Cyberpunk 2077 (used in unpack .archive)
 - [WopsS/RED4ext](https://github.com/WopsS/RED4ext) - A script extender for REDengine 4 (Cyberpunk 2077).
 - [maximegmd/RED4ext](https://github.com/maximegmd/RED4ext) - A script extender for REDengine 4.
-- [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
 - [facontidavide/PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Time Series Visualization Tool that you deserve.
 - [BrunoLevy/learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
 - [inducer/meshpy](https://github.com/inducer/meshpy) - 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
@@ -1819,7 +1820,7 @@
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [Kitware/ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 - [Kitware/VTK](https://github.com/Kitware/VTK) - Mirror of Visualization Toolkit repository
-- [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
+- [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x &
 - [oclint/oclint](https://github.com/oclint/oclint) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
@@ -2074,6 +2075,7 @@
 
 ## Eagle 
 
+- [DangerousPrototypes/CPLD_Breakout](https://github.com/DangerousPrototypes/CPLD_Breakout) - 
 - [sparkfun/CryptoShield](https://github.com/sparkfun/CryptoShield) - A Crypto shield collaboration with Josh Datko
 - [Smoothieware/Smoothieboard](https://github.com/Smoothieware/Smoothieboard) - 
 
@@ -2135,7 +2137,6 @@
 ## G-code 
 
 - [danwerner21/we816](https://github.com/danwerner21/we816) - The WE816 is a 16-bit 65816 based system with 512K of System RAM, 96K of System ROM, 32K of video RAM, a TMS9918 graphics processor and an AY-3-8910 Sound chip. The system runs a custom version of BAS
-- [prusa3d/Prusa-Connect-SDK-Printer](https://github.com/prusa3d/Prusa-Connect-SDK-Printer) - Python printer library for Prusa Connect
 - [FaqT0tum/Orbion_Space_Mouse_OLD](https://github.com/FaqT0tum/Orbion_Space_Mouse_OLD) - ORBION the OpenSource Space Mouse 3D
 - [macchina/m2-enclosures](https://github.com/macchina/m2-enclosures) - 3D-printable M2 enclosures designed by Macchina
 
@@ -2344,7 +2345,7 @@
 - [octo-cli/octo-cli](https://github.com/octo-cli/octo-cli) - A command line client covering 100% of GitHub's restful APIs.
 - [keybase/saltpack](https://github.com/keybase/saltpack) - a modern crypto messaging format
 - [usbarmory/GoKey](https://github.com/usbarmory/GoKey) - The bare metal Go smart card
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
 - [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -3157,6 +3158,7 @@
 
 ## JavaScript 
 
+- [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions
 - [little-bonsai/ballpoint](https://github.com/little-bonsai/ballpoint) - cli for formatting ink files
 - [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine
 - [techspeterson/sunless-sea-mapper](https://github.com/techspeterson/sunless-sea-mapper) - A mapping tool for Sunless Sea
@@ -4892,6 +4894,7 @@
 
 ## Others 
 
+- [CAS-Atlantic/AArch64-Encoding](https://github.com/CAS-Atlantic/AArch64-Encoding) - AArch64 Instructions, Opcodes and Binary Encoding
 - [esbuild/community-plugins](https://github.com/esbuild/community-plugins) - Community plugins for esbuild
 - [lensvol/fl-extensions-graylist](https://github.com/lensvol/fl-extensions-graylist) - List of both actual and deprecated browser extensions for Fallen London.
 - [FYSETC/SD-WIFI-PRO](https://github.com/FYSETC/SD-WIFI-PRO) - The hard ware of SD WIFI PRO
@@ -5518,6 +5521,7 @@
 - [ksm/SwiftInFlux](https://github.com/ksm/SwiftInFlux) - An attempt to gather all that is in flux in Swift.
 - [bemasher/NeweggMobileAPI](https://github.com/bemasher/NeweggMobileAPI) - Information gleaned from traffic sniffing the Newegg Mobile iOS app.
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
+- [nvidia-compiler-sdk/nvvmir-samples](https://github.com/nvidia-compiler-sdk/nvvmir-samples) - 
 - [square/WaxSim](https://github.com/square/WaxSim) - Hack to get the iPhone Simulator to run on the command line
 - [erikvold/squareroot.js](https://github.com/erikvold/squareroot.js) - A library of math functions + a small canvas 3d engine (mostly to test the math stuff)
 - [GoogleCloudPlatform/Template](https://github.com/GoogleCloudPlatform/Template) - This repo contains a descriptive wiki and boilerplate copies of CONTRIBUTING.md, LICENSE, and README.md files for use by other repos in this collection.
@@ -5739,6 +5743,7 @@
 
 ## Python 
 
+- [YosysHQ/prjtrellis](https://github.com/YosysHQ/prjtrellis) - Documenting the Lattice ECP5 bit-stream format.
 - [alanhuang122/fl-utils](https://github.com/alanhuang122/fl-utils) - Tools for accessing and working with data from the Fallen London database.
 - [alanhuang122/skyless-utils](https://github.com/alanhuang122/skyless-utils) - Utilities for serialization of Sunless Skies data
 - [easyw/kicadStepUpMod](https://github.com/easyw/kicadStepUpMod) - kicadStepUp: ECAD to MCAD FreeCAD WorkBench
@@ -5786,6 +5791,7 @@
 - [DataDog/datadog-api-client-python](https://github.com/DataDog/datadog-api-client-python) - Python client for the Datadog API
 - [mludvig/aws-ssm-tools](https://github.com/mludvig/aws-ssm-tools) - Handy tools for AWS Systems Manager - ssm-session, ecs-session, ssm-ssh and ssm-tunnel
 - [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
+- [prusa3d/Prusa-Connect-SDK-Printer](https://github.com/prusa3d/Prusa-Connect-SDK-Printer) - Python printer library for Prusa Connect
 - [inkcut/inkcut](https://github.com/inkcut/inkcut) - An application for controlling 2D plotters, cutters, engravers, and CNC machines.
 - [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
 - [efabless/volare](https://github.com/efabless/volare) - Version manager (and builder) for the Google sky130 and gf180mcu open-source PDKs
@@ -7444,7 +7450,7 @@
 
 ## Shell 
 
-- [binpash/try](https://github.com/binpash/try) - "Do, or do not. There is no try."  We're setting out to change that: `try cmd` and commit---or not.
+- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API
 - [ValveSoftware/steam-runtime](https://github.com/ValveSoftware/steam-runtime) - A runtime environment for Steam applications
 - [swift-server/swift-devcontainer-template](https://github.com/swift-server/swift-devcontainer-template) - Visual Studio Code Development Container for Swift
@@ -7837,7 +7843,7 @@
 - [sberrevoets/SDCAlertView](https://github.com/sberrevoets/SDCAlertView) - The little alert that could
 - [mralexhay/Booky](https://github.com/mralexhay/Booky) - A demo app exploring the new App Intents framework in iOS16.
 - [theblixguy/DynamicIslandUtilities](https://github.com/theblixguy/DynamicIslandUtilities) - A collection of utilities that provides functionality around the Dynamic Island on the iPhone 14 Pro/Max.
-- [siteline/SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit components from SwiftUI
+- [siteline/SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit/AppKit components from SwiftUI
 - [fredyshox/PageView](https://github.com/fredyshox/PageView) - SwiftUI view enabling navigation between pages of content, imitating the behaviour of UIPageViewController for iOS and watchOS
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 - [joshdholtz/DeckUI](https://github.com/joshdholtz/DeckUI) - Swift DSL for writing slide decks in Xcode
@@ -9610,6 +9616,7 @@
 
 ## Verilog 
 
+- [mikeroyal/CPLD-Guide](https://github.com/mikeroyal/CPLD-Guide) - Complex Programmable Logic Device (CPLD) Guide
 - [lnis-uofu/OpenFPGA](https://github.com/lnis-uofu/OpenFPGA) - An Open-source FPGA IP Generator
 - [chipsalliance/UHDM-integration-tests](https://github.com/chipsalliance/UHDM-integration-tests) - 
 - [ZipCPU/wbsata](https://github.com/ZipCPU/wbsata) - Wishbone SATA Controller
