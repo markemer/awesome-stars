@@ -273,6 +273,7 @@
 
 ## C 
 
+- [fail0verflow/ps4-linux](https://github.com/fail0verflow/ps4-linux) - Linux kernel fork with PS4 support (work in progress)
 - [FDOS/kernel](https://github.com/FDOS/kernel) - FreeDOS kernel - implements the core MS-DOS/PC-DOS (R) compatible operating system. It is derived from Pat Villani's DOS-C kernel and released under the GPL v2 or later. Please see http://www.freedos.
 - [hoglet67/RGBtoHDMI](https://github.com/hoglet67/RGBtoHDMI) - Bare-metal Raspberry Pi project that provides pixel-perfect sampling of Retro Computer RGB/YUV video and conversion to HDMI
 - [picocomputer/rp6502](https://github.com/picocomputer/rp6502) - Picocomputer 6502 reference design
@@ -974,7 +975,6 @@
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [DhavalKapil/icmptunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets.
-- [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
@@ -1187,6 +1187,7 @@
 
 ## C++ 
 
+- [FrancescoRigoni/Lib65816](https://github.com/FrancescoRigoni/Lib65816) - Emulator library for the 65816 CPU
 - [opencodewin/MediaCore](https://github.com/opencodewin/MediaCore) - Non-linear editor framework. Present video and andio raw data as ImMat instances.
 - [opencodewin/MediaEditor](https://github.com/opencodewin/MediaEditor) - A non-linear editing software that helps you to make nice video.
 - [MicroCoreLabs/Projects](https://github.com/MicroCoreLabs/Projects) - Ted Fried's MicroCore Labs Projects which include microsequencer-based FPGA cores and emulators for the 8088, 8086, 8051, 6502, 68000, Z80, Risc-V, and also Typewriter and EPROM Emulator projects.  MC
@@ -2534,7 +2535,7 @@
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs!
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [vancluever/terraform-provider-acme-old](https://github.com/vancluever/terraform-provider-acme-old) - ACME (Let's Encrypt) Support for Terraform
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
@@ -4892,6 +4893,8 @@
 
 ## Others 
 
+- [automateyournetwork/automate_your_network](https://github.com/automateyournetwork/automate_your_network) - The book in PDF format for all to enjoy!
+- [rkrenicki/TI99-Motherboard](https://github.com/rkrenicki/TI99-Motherboard) - 
 - [CAS-Atlantic/AArch64-Encoding](https://github.com/CAS-Atlantic/AArch64-Encoding) - AArch64 Instructions, Opcodes and Binary Encoding
 - [esbuild/community-plugins](https://github.com/esbuild/community-plugins) - Community plugins for esbuild
 - [lensvol/fl-extensions-graylist](https://github.com/lensvol/fl-extensions-graylist) - List of both actual and deprecated browser extensions for Fallen London.
@@ -5265,7 +5268,7 @@
 - [freeskys/awesome-cocoapods](https://github.com/freeskys/awesome-cocoapods) - Awesome list for cocoapods support libraries
 - [datajtext/DataJournalismTextbook](https://github.com/datajtext/DataJournalismTextbook) - The main repository for a collaborative text on data journalism.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
-- [facebookincubator/BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries
+- [facebookarchive/BOLT](https://github.com/facebookarchive/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries
 - [MacroFab/MF_Part_Style_Guide](https://github.com/MacroFab/MF_Part_Style_Guide) - Part Style Guide for part footprints.
 - [MacroFab/EDALibraries](https://github.com/MacroFab/EDALibraries) - EDA Libraries for MacroFab House Parts
 - [GoogleCloudPlatform/cloud-code-intellij](https://github.com/GoogleCloudPlatform/cloud-code-intellij) - Plugin to support the Google Cloud Platform in IntelliJ IDEA - Docs and Issues Repository
@@ -5743,6 +5746,7 @@
 
 ## Python 
 
+- [endlos99/xdt99](https://github.com/endlos99/xdt99) - xdt99: TMS 99xx Cross-Development Tools
 - [YosysHQ/prjtrellis](https://github.com/YosysHQ/prjtrellis) - Documenting the Lattice ECP5 bit-stream format.
 - [alanhuang122/fl-utils](https://github.com/alanhuang122/fl-utils) - Tools for accessing and working with data from the Fallen London database.
 - [alanhuang122/skyless-utils](https://github.com/alanhuang122/skyless-utils) - Utilities for serialization of Sunless Skies data
@@ -6415,7 +6419,7 @@
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [ScottfreeLLC/AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning [AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost
 - [fugue/credstash](https://github.com/fugue/credstash) - A little utility for managing credentials in the cloud
-- [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard) - A goal, task & habit tracker + personal dashboard to focus on what matters
+- [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard) - [UNMAINTAINED] A goal, task & habit tracker + personal dashboard to focus on what matters
 - [pyupio/pyup](https://github.com/pyupio/pyup) - A tool to update your project's dependencies on GitHub. Runs on pyup.io, comes with a command line interface.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
@@ -7095,6 +7099,7 @@
 
 ## Rust 
 
+- [endbasic/endbasic](https://github.com/endbasic/endbasic) - BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust
 - [simon-frankau/galette](https://github.com/simon-frankau/galette) - A GAL assembler, largely galasm-compatible and written in Rust.
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
 - [psarna/edgemail](https://github.com/psarna/edgemail) - 
@@ -7561,7 +7566,6 @@
 - [bacongravy/vagrant-box-macos](https://github.com/bacongravy/vagrant-box-macos) - Scripts for building Vagrant boxes for VMware Fusion that boot macOS
 - [NocturnalSolutions/KituraBook](https://github.com/NocturnalSolutions/KituraBook) - Kitura Until Dawn: A Kitura guidebook (WIP)
 - [homebridge/docker-homebridge](https://github.com/homebridge/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac.
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [alexjsp/record-ios-simulator](https://github.com/alexjsp/record-ios-simulator) - A script to start and stop video recordings from the iOS Simulator as easily as taking a screenshot.
 - [adamisntdead/DevMyMac](https://github.com/adamisntdead/DevMyMac) - ✨ ✨ A Simple Tool To Setup A Mac for Development✨✨
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
@@ -7732,6 +7736,7 @@
 ## Smarty 
 
 - [jeroen94704/klepcbgen](https://github.com/jeroen94704/klepcbgen) - Generates a KiCAD schematic and PCB layout using a Keyboard Layout Editor json file as input
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 
 ## SourcePawn 
 
@@ -9563,6 +9568,7 @@
 - [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
+- [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -9586,6 +9592,7 @@
 
 ## VHDL 
 
+- [dnotq/ym2149_audio](https://github.com/dnotq/ym2149_audio) - YM-2149 / AY-3-8910 Complex Sound Generator FPGA core.
 - [yhqiu16/NVMeCHA](https://github.com/yhqiu16/NVMeCHA) - NVMe Controller featuring Hardware Acceleration
 - [the-aerospace-corporation/satcat5](https://github.com/the-aerospace-corporation/satcat5) - SatCat5 is a mixed-media Ethernet switch that lets a variety of devices communicate on the same network.
 - [JulianKemmerer/PipelineC-Graphics](https://github.com/JulianKemmerer/PipelineC-Graphics) - Graphics demos
