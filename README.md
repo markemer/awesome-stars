@@ -273,6 +273,9 @@
 
 ## C 
 
+- [jedimatt42/fcmd](https://github.com/jedimatt42/fcmd) - command line shell program in cartridge rom form
+- [jedimatt42/ti994a-memtest](https://github.com/jedimatt42/ti994a-memtest) - gcc implementation of 32k expansion ram test that runs on TI-99/4A console from ROM cartridge space.
+- [tursilion/libti99](https://github.com/tursilion/libti99) - GCC Library for the TI-99/4A
 - [fail0verflow/ps4-linux](https://github.com/fail0verflow/ps4-linux) - Linux kernel fork with PS4 support (work in progress)
 - [FDOS/kernel](https://github.com/FDOS/kernel) - FreeDOS kernel - implements the core MS-DOS/PC-DOS (R) compatible operating system. It is derived from Pat Villani's DOS-C kernel and released under the GPL v2 or later. Please see http://www.freedos.
 - [hoglet67/RGBtoHDMI](https://github.com/hoglet67/RGBtoHDMI) - Bare-metal Raspberry Pi project that provides pixel-perfect sampling of Retro Computer RGB/YUV video and conversion to HDMI
@@ -4893,6 +4896,7 @@
 
 ## Others 
 
+- [jedimatt42/ti994a-pebboard-template](https://github.com/jedimatt42/ti994a-pebboard-template) - 
 - [automateyournetwork/automate_your_network](https://github.com/automateyournetwork/automate_your_network) - The book in PDF format for all to enjoy!
 - [rkrenicki/TI99-Motherboard](https://github.com/rkrenicki/TI99-Motherboard) - 
 - [CAS-Atlantic/AArch64-Encoding](https://github.com/CAS-Atlantic/AArch64-Encoding) - AArch64 Instructions, Opcodes and Binary Encoding
@@ -7488,7 +7492,7 @@
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [niedzielski/git-diff-img](https://github.com/niedzielski/git-diff-img) - 📷 Diff Git versioned images graphically.
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
-- [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password Connect into your GitHub Actions jobs.
+- [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password into your GitHub Actions jobs.
 - [kaleidoscope-app/man-diff](https://github.com/kaleidoscope-app/man-diff) - Compare man pages between macOS Big Sur and macOS Monterey
 - [Frogging-Family/wine-tkg-git](https://github.com/Frogging-Family/wine-tkg-git) - The wine-tkg build systems, to create custom Wine and Proton builds
 - [Walkman100/OpenRA-Install-Guide](https://github.com/Walkman100/OpenRA-Install-Guide) - A complete installation guide including the music missing from the OpenRA Dune 2000 mod
