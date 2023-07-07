@@ -128,6 +128,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [SystemVerilog](#systemverilog)
+- [TL-Verilog](#tl-verilog)
 - [TLA](#tla)
 - [Tcl](#tcl)
 - [TeX](#tex)
@@ -1611,7 +1612,7 @@
 - [VirusTotal/qt-virustotal-uploader](https://github.com/VirusTotal/qt-virustotal-uploader) - VirusTotal Uploader written in C++ using QT framework
 - [markummitchell/engauge-digitizer](https://github.com/markummitchell/engauge-digitizer) - Extracts data points from images of graphs
 - [drawpile/Drawpile](https://github.com/drawpile/Drawpile) - A collaborative drawing program
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
+- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) - Fast and simple homebrew save manager for 3DS and Switch.
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
@@ -3375,7 +3376,6 @@
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
 - [rsms/graphviz](https://github.com/rsms/graphviz) - Graphviz web app
-- [stevehoover/warp-v](https://github.com/stevehoover/warp-v) - WARP-V is an open-source RISC-V CPU core generator written in TL-Verilog.
 - [buildasaurs/satellite](https://github.com/buildasaurs/satellite) - Node.js server for providing build status badges for GitHub branches.
 - [timburks/graphql-showcase](https://github.com/timburks/graphql-showcase) - An experimental GraphQL wrapper of the GAPIC Showcase API
 - [usbarmory/interlock](https://github.com/usbarmory/interlock) - INTERLOCK - file encryption and HSM front-end
@@ -3395,6 +3395,7 @@
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [verma/plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer. http://plas.io
 - [trbarron/plotter-sketches](https://github.com/trbarron/plotter-sketches) - playing with canvas-sketch for use with pen plotter
+- [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [zeplin/zem](https://github.com/zeplin/zem) - Create, test and publish Zeplin extensions with no build configuration ⚗️🦄
 - [aaronpk/Compass](https://github.com/aaronpk/Compass) - Compass is a GPS tracking server that stores data in flat files.
 - [superman2211/guepard](https://github.com/superman2211/guepard) - flash to html5 converter, as3 to javascript translator
@@ -9216,6 +9217,10 @@
 - [RoaLogic/RV12](https://github.com/RoaLogic/RV12) - RISC-V CPU Core
 - [lowRISC/lowrisc-chip](https://github.com/lowRISC/lowrisc-chip) - The root repo for lowRISC project and FPGA demos.
 
+## TL-Verilog 
+
+- [stevehoover/warp-v](https://github.com/stevehoover/warp-v) - WARP-V is an open-source RISC-V CPU core generator written in TL-Verilog.
+
 ## TLA 
 
 - [lemmy/BlockingQueue](https://github.com/lemmy/BlockingQueue) - Tutorial "Weeks of debugging can save you hours of TLA+".  Each git commit introduces a new concept =&gt; check the git history!
@@ -9470,7 +9475,6 @@
 - [rsms/figma-plugins](https://github.com/rsms/figma-plugins) - Collection of Figma plugins
 - [rsms/figplug](https://github.com/rsms/figplug) - Figma plugin builder
 - [jovotech/jovo-framework](https://github.com/jovotech/jovo-framework) - 🔈 The React for Voice and Chat: Build Apps for Alexa, Google Assistant, Messenger, Instagram, the Web, and more
-- [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [tensorflow/tfjs-converter](https://github.com/tensorflow/tfjs-converter) - Convert TensorFlow SavedModel and Keras models to TensorFlow.js
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
 - [ryceg/Eigengrau-s-Essential-Establishment-Generator](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator) - A town generator that is suitable for out of the box play in any fantasy TTRPG setting.
