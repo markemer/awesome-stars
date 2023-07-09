@@ -1191,6 +1191,7 @@
 
 ## C++ 
 
+- [icefallgames/SCICompanion](https://github.com/icefallgames/SCICompanion) - SCI Companion - an editor for Sierra SCI games
 - [FrancescoRigoni/Lib65816](https://github.com/FrancescoRigoni/Lib65816) - Emulator library for the 65816 CPU
 - [opencodewin/MediaCore](https://github.com/opencodewin/MediaCore) - Non-linear editor framework. Present video and andio raw data as ImMat instances.
 - [opencodewin/MediaEditor](https://github.com/opencodewin/MediaEditor) - A non-linear editing software that helps you to make nice video.
@@ -3507,7 +3508,7 @@
 - [Jupyter-contrib/jupyter_nbextensions_configurator](https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator) - A jupyter notebook serverextension providing config interfaces for nbextensions.
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
-- [Canner/cannercms](https://github.com/Canner/cannercms) - ⚡️ Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
+- [CannerCMS/cannercms](https://github.com/CannerCMS/cannercms) - ⚡️ Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
 - [observablehq/stdlib](https://github.com/observablehq/stdlib) - The Observable standard library.
 - [observablehq/runtime](https://github.com/observablehq/runtime) - The Observable dataflow runtime.
 - [mathisonian/idyll-chartjs-example](https://github.com/mathisonian/idyll-chartjs-example) - Idyll chartjs example
@@ -4277,6 +4278,7 @@
 ## Markdown 
 
 - [apple/swift-book](https://github.com/apple/swift-book) - The Swift Programming Language book
+- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
@@ -4897,6 +4899,9 @@
 
 ## Others 
 
+- [wiesl/ti99-rgb](https://github.com/wiesl/ti99-rgb) - ti99-rgb
+- [dnotq/dnotq_kicad_lib](https://github.com/dnotq/dnotq_kicad_lib) - DNOTQ KiCAD Library
+- [sluicebox/sci-scripts](https://github.com/sluicebox/sci-scripts) - 
 - [jedimatt42/ti994a-pebboard-template](https://github.com/jedimatt42/ti994a-pebboard-template) - 
 - [automateyournetwork/automate_your_network](https://github.com/automateyournetwork/automate_your_network) - The book in PDF format for all to enjoy!
 - [rkrenicki/TI99-Motherboard](https://github.com/rkrenicki/TI99-Motherboard) - 
@@ -5226,7 +5231,6 @@
 - [artemnovichkov/Swift-For-Scripting](https://github.com/artemnovichkov/Swift-For-Scripting) - 📋A hand-curated collection of useful and informative Swift Scripting materials.
 - [profburke/scws4](https://github.com/profburke/scws4) - My talk from Swift Cloud Workshop 4
 - [aws-samples/aws-refarch-moodle](https://github.com/aws-samples/aws-refarch-moodle) - Moodle Reference Architecture with supporting Cloud Formation templates
-- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [system76/thelio](https://github.com/system76/thelio) - Thelio Desktop by System76
 - [zeplin/zeplin-extension-documentation](https://github.com/zeplin/zeplin-extension-documentation) - Documentation for Zeplin extensions ⚗️📚
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -7276,7 +7280,7 @@
 - [o8vm/krabs](https://github.com/o8vm/krabs) - An x86 bootloader written in Rust.
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
-- [tcdi/pgrx](https://github.com/tcdi/pgrx) - Build Postgres Extensions with Rust!
+- [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs) - a mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
@@ -9306,7 +9310,7 @@
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
-- [analogjs/analog](https://github.com/analogjs/analog) - The fullstack Angular meta-framework
+- [analogjs/analog](https://github.com/analogjs/analog) - Build and ship applications and websites faster with Angular
 - [google/aside](https://github.com/google/aside) - 🚀 Apps Script development with formatting, linting, testing and more!
 - [mathieudutour/timezone-butler](https://github.com/mathieudutour/timezone-butler) - ⏰🤵 A Slack butler who will take care of the timezone differences in your team.
 - [ionic-team/capacitor-assets](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool
