@@ -121,6 +121,7 @@
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
+- [Smalltalk](#smalltalk)
 - [Smarty](#smarty)
 - [SourcePawn](#sourcepawn)
 - [Standard ML](#standard-ml)
@@ -2649,7 +2650,7 @@
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 - [nareix/joy4](https://github.com/nareix/joy4) - Golang audio/video library and streaming server
-- [gorilla/mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
+- [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [google/grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [sourcegraph/checkup](https://github.com/sourcegraph/checkup) - Distributed, lock-free, self-hosted health checks and status pages
 - [sourcegraph/thyme](https://github.com/sourcegraph/thyme) - Automatically track which applications you use and for how long.
@@ -2746,6 +2747,7 @@
 
 ## HTML 
 
+- [larsbrinkhoff/awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - All CPU and MCU documentation in one place
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [joesinghaus/Blades-template](https://github.com/joesinghaus/Blades-template) - A template/guide for creating roll20 sheets based on the Blades in the Dark sheet
 - [Roll20/roll20-character-sheets](https://github.com/Roll20/roll20-character-sheets) - Character sheet templates created by the community for use in Roll20 VTT. Submit a ticket at roll20.net/help if critical hotfixes are to be requested.
@@ -3164,6 +3166,8 @@
 
 ## JavaScript 
 
+- [zoom/server-to-server-oauth-starter-api](https://github.com/zoom/server-to-server-oauth-starter-api) - Starting point for developing a Zoom S2S OAuth API
+- [OutSystems/cordova-outsystems-barcodescanner](https://github.com/OutSystems/cordova-outsystems-barcodescanner) - Implementation of Barcode Plugin
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions
 - [little-bonsai/ballpoint](https://github.com/little-bonsai/ballpoint) - cli for formatting ink files
 - [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine
@@ -3247,7 +3251,7 @@
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [opencomputeproject/CADCloud](https://github.com/opencomputeproject/CADCloud) - CADCloud is a cloud based sharing infrastructure dedicates to CAD engineers. It allows users to share design files, browse them interactively through a simple web interface, and support native file fo
-- [lensvol/fl-oneclick-wiki](https://github.com/lensvol/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
+- [alanhuang122/fl-oneclick-wiki](https://github.com/alanhuang122/fl-oneclick-wiki) - Simple extension to save you the click on opening "Fallen London" Wiki
 - [sonyseng/json-caching-proxy](https://github.com/sonyseng/json-caching-proxy) - Node caching HTTP proxy built on top of express-http-proxy. Persists requests and responses to an in-memory HAR-like data structure based on HAR1.2 . Caches JSON content-type responses by default with
 - [eswai/KL3V](https://github.com/eswai/KL3V) - Keyboard Layout 3D Viewer
 - [ijprest/kle-serial](https://github.com/ijprest/kle-serial) - Serialization library for keyboard-layout-editor.com
@@ -3371,7 +3375,7 @@
 - [Andrew-Kang-G/url-knife](https://github.com/Andrew-Kang-G/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with robust patterns.
 - [YOCKOW/Action-setup-swift](https://github.com/YOCKOW/Action-setup-swift) - GitHub Action that sets up Swift.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
-- [dosyago/BrowserBoxPro](https://github.com/dosyago/BrowserBoxPro) - 📷 BrowserBoxPro - The internet. But unrestricted. And secure. Remote browser isolation product, available open-source here and for purchase on our website.
+- [dosyago/BrowserBoxPro](https://github.com/dosyago/BrowserBoxPro) - :cyclone: BrowserBoxPro - The internet. But unrestricted. And secure. Remote browser isolation product, available open-source here and for purchase on our website.
 - [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [millette/oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
@@ -4899,6 +4903,8 @@
 
 ## Others 
 
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+- [icebreaker-fpga/icebreaker](https://github.com/icebreaker-fpga/icebreaker) - Small and low cost FPGA educational and development board
 - [wiesl/ti99-rgb](https://github.com/wiesl/ti99-rgb) - ti99-rgb
 - [dnotq/dnotq_kicad_lib](https://github.com/dnotq/dnotq_kicad_lib) - DNOTQ KiCAD Library
 - [sluicebox/sci-scripts](https://github.com/sluicebox/sci-scripts) - 
@@ -5764,7 +5770,7 @@
 - [ludos1978/inky_to_mermaid](https://github.com/ludos1978/inky_to_mermaid) - 
 - [superdesk/superdesk](https://github.com/superdesk/superdesk) - Superdesk is an end-to-end news creation, production, curation, distribution, and publishing platform.
 - [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory) - An open source platform for end to-end photonic chip design and validation
-- [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
+- [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [obra/kicad-automation-scripts](https://github.com/obra/kicad-automation-scripts) - A bunch of scripts to automate KiCad processes
 - [productize/kicad-automation-scripts](https://github.com/productize/kicad-automation-scripts) - A bunch of scripts to automate KiCad processes
 - [Gasman2014/KiCad-Diff](https://github.com/Gasman2014/KiCad-Diff) - Scripts for performing image diffs between pcbnew layout revisions
@@ -5910,7 +5916,7 @@
 - [adamrehn/ue4-conan-recipes](https://github.com/adamrehn/ue4-conan-recipes) - Conan recipes for UE4-compatible library packages
 - [nalgeon/dataviz](https://github.com/nalgeon/dataviz) - Data visualization guide for presentations, reports, and dashboards
 - [1Password/connect-sdk-python](https://github.com/1Password/connect-sdk-python) - Python SDK for 1Password Connect
-- [1Password/ansible-onepasswordconnect-collection](https://github.com/1Password/ansible-onepasswordconnect-collection) - Ansible Collection for 1Password Connect
+- [1Password/ansible-onepasswordconnect-collection](https://github.com/1Password/ansible-onepasswordconnect-collection) - The 1Password Connect collection contains modules that interact with your 1Password Connect deployment. The modules communicate with the 1Password Connect API to support Vault Item create/read/update/
 - [MoralCode/pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - A research-based starter pihole list to improve your privacy
 - [mzucker/maptrace](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images
 - [rizinorg/rz-pipe](https://github.com/rizinorg/rz-pipe) - Access rizin via pipe from any programming language!
@@ -6274,7 +6280,7 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [Ericsson/codechecker](https://github.com/Ericsson/codechecker) - CodeChecker is an analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang Tidy
 - [awslabs/open-data-registry](https://github.com/awslabs/open-data-registry) - A registry of publicly available datasets on AWS
-- [frictionlessdata/framework](https://github.com/frictionlessdata/framework) - Data management framework for Python that provides functionality to describe, extract, validate, and transform tabular data
+- [frictionlessdata/frictionless-py](https://github.com/frictionlessdata/frictionless-py) - Data management framework for Python that provides functionality to describe, extract, validate, and transform tabular data
 - [dcos/dcos](https://github.com/dcos/dcos) - DC/OS - The Datacenter Operating System
 - [Fewbytes/rubber-docker](https://github.com/Fewbytes/rubber-docker) - A workshop on Linux containers: Rebuild Docker from Scratch
 - [webosose/build-webos](https://github.com/webosose/build-webos) - webOS OSE build layer
@@ -7108,6 +7114,7 @@
 
 ## Rust 
 
+- [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
 - [endbasic/endbasic](https://github.com/endbasic/endbasic) - BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust
 - [simon-frankau/galette](https://github.com/simon-frankau/galette) - A GAL assembler, largely galasm-compatible and written in Rust.
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
@@ -7321,7 +7328,7 @@
 - [tessi/rpiet](https://github.com/tessi/rpiet) - The Piet interpreter written in Rust 🖼
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [kryptco/ssh-wire](https://github.com/kryptco/ssh-wire) - 
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust
@@ -7742,6 +7749,10 @@
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
+## Smalltalk 
+
+- [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is the Moldable Development environment. It empowers you to make systems explainable through experiences tailored for each problem.
+
 ## Smarty 
 
 - [jeroen94704/klepcbgen](https://github.com/jeroen94704/klepcbgen) - Generates a KiCAD schematic and PCB layout using a Keyboard Layout Editor json file as input
@@ -7773,6 +7784,8 @@
 
 ## Swift 
 
+- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
+- [joomcode/BottomSheet](https://github.com/joomcode/BottomSheet) - Bottom Sheet for iOS
 - [krzyzanowskim/STTextView](https://github.com/krzyzanowskim/STTextView) - Performant macOS text view (TextKit2) implementation, with line numbers and more. NSTextView replacement.
 - [krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of awesome Swift Macros
 - [auth0/SimpleKeychain](https://github.com/auth0/SimpleKeychain) - A simple Keychain wrapper for iOS, macOS, tvOS, and watchOS
@@ -9432,7 +9445,7 @@
 - [OpenCircuits/OpenCircuits](https://github.com/OpenCircuits/OpenCircuits) - A free, open source, online digital circuit/logic designer.
 - [actions-rs/audit-check](https://github.com/actions-rs/audit-check) - 🛡️ GitHub Action for security audits
 - [Lona/vscode-github-actions](https://github.com/Lona/vscode-github-actions) - VSCode extension providing Github Actions YAML support.
-- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [ProbableTrain/MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
@@ -9539,7 +9552,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [y-lohse/inkjs](https://github.com/y-lohse/inkjs) - A javascript port of inkle's ink scripting language.
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
