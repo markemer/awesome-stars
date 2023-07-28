@@ -275,6 +275,7 @@
 
 ## C 
 
+- [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
 - [osandov/drgn](https://github.com/osandov/drgn) - Programmable debugger
 - [libimobiledevice/libimobiledevice-glue](https://github.com/libimobiledevice/libimobiledevice-glue) - A library with common code used by libraries and tools around the libimobiledevice project
 - [libimobiledevice/libplist](https://github.com/libimobiledevice/libplist) - A library to handle Apple Property List format in binary or XML
@@ -295,7 +296,7 @@
 - [paul-j-lucas/cdecl](https://github.com/paul-j-lucas/cdecl) - Composing and deciphering C (or C++) declarations or casts, aka ‘‘gibberish.’’
 - [lua/lua](https://github.com/lua/lua) - The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html
 - [aws/pg_tle](https://github.com/aws/pg_tle) - Framework for building trusted language extensions for PostgreSQL
-- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [mecparts/RetroWiFiModem](https://github.com/mecparts/RetroWiFiModem) - An ESP8266 based RS232 &lt;-&gt; WiFi modem with Hayes AT style commands and LED indicators
 - [nickandre/dnvt-fw](https://github.com/nickandre/dnvt-fw) - 
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
@@ -3174,6 +3175,7 @@
 
 ## JavaScript 
 
+- [ProjectMirador/mirador](https://github.com/ProjectMirador/mirador) - An open-source, web-based 'multi-up' viewer that supports zoom-pan-rotate functionality, ability to display/compare simple images, and images with annotations.
 - [zoom/server-to-server-oauth-starter-api](https://github.com/zoom/server-to-server-oauth-starter-api) - Starting point for developing a Zoom S2S OAuth API
 - [OutSystems/cordova-outsystems-barcodescanner](https://github.com/OutSystems/cordova-outsystems-barcodescanner) - Implementation of Barcode Plugin
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions
@@ -6489,6 +6491,7 @@
 - [initialstate/pi-process-dashboard](https://github.com/initialstate/pi-process-dashboard) - How to remotely monitor your Raspberry Pi processes and IP addresses
 - [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 - [dit/dit](https://github.com/dit/dit) - Python package for information theory.
+- [awslabs/route53-dynamic-dns-with-lambda](https://github.com/awslabs/route53-dynamic-dns-with-lambda) - A Dynamic DNS system built with API Gateway, Lambda & Route 53.
 - [intelxed/xed](https://github.com/intelxed/xed) - x86 encoder decoder
 - [leegao/readme2tex](https://github.com/leegao/readme2tex) - Renders TeXy Math for Github Readmes
 - [barbosa/clorox](https://github.com/barbosa/clorox) - Remove all the cruft from Xcode's file headers.
@@ -7124,6 +7127,8 @@
 
 ## Rust 
 
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+- [nicholaschiasson/fcidr](https://github.com/nicholaschiasson/fcidr) - Fragmented Classless Inter-Domain Routing (FCIDR)
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv
 - [Mubelotix/faster-pest](https://github.com/Mubelotix/faster-pest) - A generator for high-performance Pest parsers, bringing your grammar to the next level
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
@@ -7693,7 +7698,6 @@
 - [apollographql/xcode-graphql](https://github.com/apollographql/xcode-graphql) - 🛠 Xcode add-ons that add syntax highlighting for GraphQL query document files
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
-- [awslabs/route53-dynamic-dns-with-lambda](https://github.com/awslabs/route53-dynamic-dns-with-lambda) - A Dynamic DNS system built with API Gateway, Lambda & Route 53.
 - [grugq/PORTALofPi](https://github.com/grugq/PORTALofPi) - PORTAL of Pi - RaspberyPi based PORTAL device. Certified UNIX Network Technicians only!
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
@@ -9325,6 +9329,7 @@
 
 ## TypeScript 
 
+- [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [lensvol/fl-small-mercies](https://github.com/lensvol/fl-small-mercies) - Small collections of patches and fixes for Fallen London UI.
