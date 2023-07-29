@@ -6115,7 +6115,7 @@
 - [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
 - [benedekrozemberczki/awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - A collection of important graph embedding, classification and representation learning papers with implementations.
 - [jasbur/RaspiWiFi](https://github.com/jasbur/RaspiWiFi) - Headless WiFi configuration for the Raspberry Pi (or most other devices running Linux) by using a temporary WiFi access point and web interface
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [OblivionCloudControl/opvault](https://github.com/OblivionCloudControl/opvault) - Python library to access 1Password OPVault stores
 - [mhoogen/ML4QS](https://github.com/mhoogen/ML4QS) - Code belonging to the book machine learning for the quantified self.
