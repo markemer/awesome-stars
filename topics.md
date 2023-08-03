@@ -431,6 +431,7 @@
 
 ## ansible 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac) - Collection of macOS automation tools for Ansible.
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [1Password/ansible-onepasswordconnect-collection](https://github.com/1Password/ansible-onepasswordconnect-collection) - The 1Password Connect collection contains modules that interact with your 1Password Connect deployment. The modules communicate with the 1Password Connect API to support Vault Item create/read/update/
@@ -898,6 +899,7 @@
 
 ## aws 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [tableflowhq/tableflow](https://github.com/tableflowhq/tableflow) - The open source CSV importer
 - [awslabs/staticwebsite-cli](https://github.com/awslabs/staticwebsite-cli) - Quickly and easily host a static website on AWS.
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
@@ -967,6 +969,7 @@
 
 ## azure 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [multycloud/multy](https://github.com/multycloud/multy) - Multy - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
@@ -1493,6 +1496,7 @@
 
 ## coding 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 
@@ -1786,7 +1790,7 @@
 
 ## dart 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
 - [huextrat/Taskist](https://github.com/huextrat/Taskist) - Flutter ToDo App with Firebase
 - [TerminalStudio/xterm.dart](https://github.com/TerminalStudio/xterm.dart) - 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms.
@@ -2109,6 +2113,7 @@
 
 ## devops 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) - CLI for executing Cirrus tasks locally and in any CI
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
@@ -2180,6 +2185,7 @@
 
 ## docker 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
@@ -2590,7 +2596,7 @@
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
 - [mingchen/docker-android-build-box](https://github.com/mingchen/docker-android-build-box) - An optimized docker image includes Android, Kotlin, Flutter sdk.
 - [singerdmx/flutter-quill](https://github.com/singerdmx/flutter-quill) - Rich text editor for Flutter
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
 - [huextrat/Taskist](https://github.com/huextrat/Taskist) - Flutter ToDo App with Firebase
 - [TerminalStudio/xterm.dart](https://github.com/TerminalStudio/xterm.dart) - 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -2846,6 +2852,7 @@
 
 ## git 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
@@ -3190,7 +3197,7 @@
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [DataDog/datadog-api-client-go](https://github.com/DataDog/datadog-api-client-go) - Golang client for the Datadog API
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
-- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network
+- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
 - [jetpack-io/envsec](https://github.com/jetpack-io/envsec) - Securely store environment variables and secrets in the cloud of your choice.
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -3663,7 +3670,7 @@
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [zladx/LADX-Disassembly](https://github.com/zladx/LADX-Disassembly) - Disassembly of Legend of Zelda: Links Awakening DX
-- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
 - [stanford-oval/genie-server](https://github.com/stanford-oval/genie-server) - The home server version of Almond
 - [stanford-oval/genie-cloud](https://github.com/stanford-oval/genie-cloud) - Genie As A Service and Thingpedia
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -4027,6 +4034,8 @@
 
 ## ios 
 
+- [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS & macOS in Swift. Native SwiftUI & UIKit views.
+- [LeoNatan/LNViewHierarchyDumper](https://github.com/LeoNatan/LNViewHierarchyDumper) - Dump your view hierarchies programmatically to Xcode 12 and above compatible view hierarchy file archives.
 - [HyperARCo/Mirador](https://github.com/HyperARCo/Mirador) - Mirador makes it easy to build impressive “Point of Interest” AR experiences, on Apple's new RealityKit framework.
 - [simonbs/xctemplates](https://github.com/simonbs/xctemplates) - ⚙️ Opinionated Xcode templates
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
@@ -5081,6 +5090,7 @@
 
 ## kubernetes 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
@@ -5298,6 +5308,7 @@
 
 ## linux 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [open-sdr/openwifi-hw](https://github.com/open-sdr/openwifi-hw) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: FPGA, hardware
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -5335,7 +5346,7 @@
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.x kernels)
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [Infineon/linux-optiga-trust-m](https://github.com/Infineon/linux-optiga-trust-m) - Linux tools and examples for OPTIGA™ Trust M1/M3 security solution
@@ -5660,6 +5671,8 @@
 
 ## macos 
 
+- [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS & macOS in Swift. Native SwiftUI & UIKit views.
+- [LeoNatan/LNViewHierarchyDumper](https://github.com/LeoNatan/LNViewHierarchyDumper) - Dump your view hierarchies programmatically to Xcode 12 and above compatible view hierarchy file archives.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [krzyzanowskim/STTextView](https://github.com/krzyzanowskim/STTextView) - Performant and reusable macOS text view component (TextKit2), with line numbers and more. NSTextView replacement.
 - [Tom94/tev](https://github.com/Tom94/tev) - High dynamic range (HDR) image viewer for graphics people
@@ -5998,7 +6011,7 @@
 - [marty-suzuki/MisterFusion](https://github.com/marty-suzuki/MisterFusion) - MisterFusion is Swift DSL for AutoLayout. It is the extremely clear, but concise syntax, in addition, can be used in both Swift and Objective-C. Support Safe Area and Size Class.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
-- [google/santa](https://github.com/google/santa) - A binary authorization system for macOS
+- [google/santa](https://github.com/google/santa) - A binary authorization and monitoring system for macOS
 - [wojteklu/Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread
 - [soffes/RateLimit](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
 - [soffes/Motivation](https://github.com/soffes/Motivation) - Mac screen saver that terrifyingly shows your age
@@ -6533,7 +6546,7 @@
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [josh-/CloudyTabs](https://github.com/josh-/CloudyTabs) - CloudyTabs is a simple menu bar application that lists your iCloud Tabs.
 - [appsquickly/XcodeEditor](https://github.com/appsquickly/XcodeEditor) - An API for manipulating Xcode project files.
-- [google/santa](https://github.com/google/santa) - A binary authorization system for macOS
+- [google/santa](https://github.com/google/santa) - A binary authorization and monitoring system for macOS
 - [parse-community/Parse-SDK-iOS-OSX](https://github.com/parse-community/Parse-SDK-iOS-OSX) - The Apple SDK for Parse Platform (iOS, macOS, watchOS, tvOS)
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
@@ -6713,6 +6726,10 @@
 
 ## others 
 
+- [BradLarson/Molecules](https://github.com/BradLarson/Molecules) - Molecules is an open source 3-D molecular visualizer for iOS.
+- [gobby/libinfinity](https://github.com/gobby/libinfinity) - libinfinity collaborative editing library
+- [PassiveLogic/differentiable-swift-examples](https://github.com/PassiveLogic/differentiable-swift-examples) - Examples and documentation for the experimental differentiable Swift language feature
+- [prusa3d/libbgcode](https://github.com/prusa3d/libbgcode) - Prusa Block & Binary G-code reader / writer / converter
 - [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
 - [open-sdr/openofdm](https://github.com/open-sdr/openofdm) - Sythesizable, modular Verilog implementation of 802.11 OFDM decoder.
 - [GENIVI/CANdevStudio](https://github.com/GENIVI/CANdevStudio) - Development tool for CAN bus simulation
@@ -7950,7 +7967,7 @@
 - [saintmarina/undelete_jpg](https://github.com/saintmarina/undelete_jpg) - Recovers JPG images from SD cards and hard drives.
 - [PeterLemon/RaspberryPi](https://github.com/PeterLemon/RaspberryPi) - Raspberry Pi Bare Metal Assembly Programming
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
-- [Jana-Marie/EF-S-Adapter](https://github.com/Jana-Marie/EF-S-Adapter) - https://twitter.com/_Jana_Marie/status/1317520812761546753
+- [Jana-Marie/EF-S-Adapter](https://github.com/Jana-Marie/EF-S-Adapter) - Hard- and Firmware to control different EF and EF-S lenses
 - [Kitura/Swift-JWT](https://github.com/Kitura/Swift-JWT) - JSON Web Tokens in Swift
 - [cgrevisse/swift-project-creation](https://github.com/cgrevisse/swift-project-creation) - VS Code Extension for Swift Project/Package creation.
 - [rsrbk/GoSwifty](https://github.com/rsrbk/GoSwifty) - A command line tool for analyzing Swift/Objective-C ratio in codebase
@@ -12085,7 +12102,7 @@
 
 ## p2p 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [zssz/BerkananSDK](https://github.com/zssz/BerkananSDK) - Bluetooth mesh messaging SDK for apps
 - [yinqiwen/gsnova](https://github.com/yinqiwen/gsnova) - Private proxy solution & network troubleshooting tool.
@@ -12218,7 +12235,6 @@
 - [phacility/libphutil](https://github.com/phacility/libphutil) - A collection of PHP utility classes
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
-- [podio-community/podio-php](https://github.com/podio-community/podio-php) - PHP Client for the Podio API.
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 
@@ -12270,6 +12286,7 @@
 
 ## powershell 
 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. Th
 - [fstudio/clangbuilder](https://github.com/fstudio/clangbuilder) - Building Clang ♡ Utility and Environment
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
@@ -12331,8 +12348,11 @@
 
 ## python 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization.
+- [jbruce12000/kiln-controller](https://github.com/jbruce12000/kiln-controller) - Turns a Raspberry Pi into an inexpensive, web-enabled kiln controller.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory) - An open source platform for end to-end photonic chip design and validation
+- [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory) - python library to design chips (Photonics, Analog, Quantum, MEMs, ...), objects for 3D printing or PCBs.
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [pyimgui/pyimgui](https://github.com/pyimgui/pyimgui) - Cython-based Python bindings for dear imgui
@@ -12755,6 +12775,7 @@
 
 ## raspberry-pi 
 
+- [jbruce12000/kiln-controller](https://github.com/jbruce12000/kiln-controller) - Turns a Raspberry Pi into an inexpensive, web-enabled kiln controller.
 - [endbasic/endbasic](https://github.com/endbasic/endbasic) - BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust
 - [picocomputer/rp6502](https://github.com/picocomputer/rp6502) - Picocomputer 6502 reference design
 - [PiSugar/PiSugar](https://github.com/PiSugar/PiSugar) - PiSugar is a battery module for Raspberry Pi zero / zero W / zero WH
@@ -12985,7 +13006,7 @@
 - [alexbatalov/fallout1-re](https://github.com/alexbatalov/fallout1-re) - Reverse engineered Fallout
 - [cxnder/ktool](https://github.com/cxnder/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
-- [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone
+- [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone. Follow and ★ to show your support!
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII) - Re-write of Injection for Xcode in (mostly) Swift
 - [Fleynaro/SDA](https://github.com/Fleynaro/SDA) - SDA is a rich cross-platform tool for reverse engineering that focused firstly on analysis of computer games. I'm trying to create a mix of the Ghidra, Cheat Engine and x64dbg. My tool will combine st
@@ -13237,7 +13258,7 @@
 - [x4e/classfile-rs](https://github.com/x4e/classfile-rs) - JVM classfile parser and writer for Rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [io12/unf](https://github.com/io12/unf) - UNixize Filename -- replace annoying anti-unix characters in filenames
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
 - [lukaslueg/macro_railroad](https://github.com/lukaslueg/macro_railroad) - A library to generate syntax diagrams for Rust macros.
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
 - [PaddiM8/kalker](https://github.com/PaddiM8/kalker) - Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
@@ -13459,7 +13480,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [google/minions](https://github.com/google/minions) - Distributed filesystem scanner
 - [solokeys/solo1](https://github.com/solokeys/solo1) - Solo 1 firmware in C
-- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
 - [dan-v/rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud.
 - [SELinuxProject/refpolicy](https://github.com/SELinuxProject/refpolicy) - SELinux Reference Policy v2
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
@@ -13508,7 +13529,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [TakeScoop/SwiftyRSA](https://github.com/TakeScoop/SwiftyRSA) - RSA public/private key encryption in Swift
-- [google/santa](https://github.com/google/santa) - A binary authorization system for macOS
+- [google/santa](https://github.com/google/santa) - A binary authorization and monitoring system for macOS
 - [Netflix/NfWebCrypto](https://github.com/Netflix/NfWebCrypto) - Web Cryptography API Polyfill
 - [mirleft/ocaml-tls](https://github.com/mirleft/ocaml-tls) - TLS in pure OCaml
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -13723,6 +13744,7 @@
 
 ## sql 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
 - [x2bool/xlite](https://github.com/x2bool/xlite) - Query Excel spredsheets (.xlsx, .xls, .ods) using SQLite
@@ -13794,6 +13816,8 @@
 
 ## swift 
 
+- [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS & macOS in Swift. Native SwiftUI & UIKit views.
+- [LeoNatan/LNViewHierarchyDumper](https://github.com/LeoNatan/LNViewHierarchyDumper) - Dump your view hierarchies programmatically to Xcode 12 and above compatible view hierarchy file archives.
 - [HyperARCo/Mirador](https://github.com/HyperARCo/Mirador) - Mirador makes it easy to build impressive “Point of Interest” AR experiences, on Apple's new RealityKit framework.
 - [huri000/SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
@@ -14584,6 +14608,7 @@
 
 ## swiftui 
 
+- [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS & macOS in Swift. Native SwiftUI & UIKit views.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [krzyzanowskim/STTextView](https://github.com/krzyzanowskim/STTextView) - Performant and reusable macOS text view component (TextKit2), with line numbers and more. NSTextView replacement.
 - [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
@@ -14822,6 +14847,7 @@
 
 ## terraform 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [multycloud/multy](https://github.com/multycloud/multy) - Multy - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds
 - [dumrauf/serverless_static_website_with_basic_auth](https://github.com/dumrauf/serverless_static_website_with_basic_auth) - Builds a serverless infrastructure in AWS for hosting a static website protected with Basic Authentication and published on a subdomain registered via Route 53
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
@@ -15184,6 +15210,7 @@
 
 ## windows 
 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. Th
 - [tursilion/classic99](https://github.com/tursilion/classic99) - Classic99 TI-99/4A Emulator for Windows, QI3xx series
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 - [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script which takes the game you're playing on steam and displays it on discord
@@ -15309,6 +15336,7 @@
 
 ## xcode 
 
+- [LeoNatan/LNViewHierarchyDumper](https://github.com/LeoNatan/LNViewHierarchyDumper) - Dump your view hierarchies programmatically to Xcode 12 and above compatible view hierarchy file archives.
 - [simonbs/xctemplates](https://github.com/simonbs/xctemplates) - ⚙️ Opinionated Xcode templates
 - [Ekhoo/Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 - [ionic-team/trapeze](https://github.com/ionic-team/trapeze) - The mobile project configuration toolbox. Manage native iOS, Android, Ionic/Capacitor, React Native, and Flutter apps through a simple YAML format.
