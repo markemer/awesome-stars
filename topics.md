@@ -342,6 +342,7 @@
 
 ## android 
 
+- [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 - [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
 - [ionic-team/trapeze](https://github.com/ionic-team/trapeze) - The mobile project configuration toolbox. Manage native iOS, Android, Ionic/Capacitor, React Native, and Flutter apps through a simple YAML format.
 - [ionic-team/create-capacitor-plugin](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin ⚡️
@@ -453,7 +454,7 @@
 ## api 
 
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integrations: Easily integrate you app with any external API
-- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of Twitter's v1, v2, and GraphQL APIs
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of X/Twitter v1, v2, and GraphQL APIs
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
@@ -561,7 +562,7 @@
 - [productize/kicad-automation-scripts](https://github.com/productize/kicad-automation-scripts) - A bunch of scripts to automate KiCad processes
 - [INTI-CMNB/KiBot](https://github.com/INTI-CMNB/KiBot) - KiCad automation utility
 - [Buckminsterfullerene02/UE-Modding-Tools](https://github.com/Buckminsterfullerene02/UE-Modding-Tools) - A databank of every UE modding tool that have potential to be used across multiple UE games, that I know exists.
-- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of Twitter's v1, v2, and GraphQL APIs
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of X/Twitter v1, v2, and GraphQL APIs
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [puppeteer/replay](https://github.com/puppeteer/replay) - Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder
@@ -1077,7 +1078,7 @@
 ## bot 
 
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of Twitter's v1, v2, and GraphQL APIs
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of X/Twitter v1, v2, and GraphQL APIs
 - [SwiftcordApp/DiscordKit](https://github.com/SwiftcordApp/DiscordKit) - The Discord API implementation behind Swiftcord, implemented completely from scratch in Swift
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [PSPDFKit-labs/reviewbot](https://github.com/PSPDFKit-labs/reviewbot) - Reviewbot is a Slack bot that shows reviewable pull requests.
@@ -1573,7 +1574,7 @@
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [atulapra/Emotion-detection](https://github.com/atulapra/Emotion-detection) - Real-time Facial Emotion Detection using deep learning
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Declarative framework for building LLMs, neural networks, and GBMs
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) - Face recognition using Tensorflow
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
@@ -1856,7 +1857,7 @@
 - [the-black-knight-01/Data-Science-Competitions](https://github.com/the-black-knight-01/Data-Science-Competitions) - Goal of this repo is to provide the solutions of all Data Science Competitions(Kaggle, Data Hack, Machine Hack, Driven Data etc...).
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Declarative framework for building LLMs, neural networks, and GBMs
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [fastai/course-v3](https://github.com/fastai/course-v3) - The 3rd edition of course.fast.ai
 - [rasbt/python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource
@@ -2007,7 +2008,7 @@
 - [tensorflow/swift-apis](https://github.com/tensorflow/swift-apis) - Swift for TensorFlow Deep Learning Library
 - [tensorflow/docs](https://github.com/tensorflow/docs) - TensorFlow documentation
 - [donutloop/machine-learning-research-papers](https://github.com/donutloop/machine-learning-research-papers) - Collection of machine learning research paper references
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Declarative framework for building LLMs, neural networks, and GBMs
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) - Face recognition using Tensorflow
 - [mme/vergeml](https://github.com/mme/vergeml) - Machine Learning Environment - alpha version
@@ -2662,7 +2663,7 @@
 - [ygit/swiftui](https://github.com/ygit/swiftui) - A collaborative list of awesome SwiftUI resources. Feel free to contribute!
 - [ChargePoint/xcparse](https://github.com/ChargePoint/xcparse) - Command line tool & Swift framework for parsing Xcode 11+ xcresult
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
-- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions and additions to the standard SwiftUI library.
+- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [jogendra/LoadingShimmer](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
@@ -3825,6 +3826,7 @@
 
 ## haskell 
 
+- [lyokha/nginx-haskell-module](https://github.com/lyokha/nginx-haskell-module) - A comprehensive web framework aimed at building custom Haskell handlers for the Nginx Web Server
 - [jonschoning/espial](https://github.com/jonschoning/espial) - Espial is an open-source, web-based bookmarking server.
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
 - [haskell-foundation/foundation](https://github.com/haskell-foundation/foundation) - Empire strikes back
@@ -5063,6 +5065,7 @@
 
 ## kotlin 
 
+- [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 - [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard) - A Gradle plugin that guards against unintentional dependency changes.
 - [touchlab/KMMBridge](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.  See https://kmmbridge.touchlab.co/docs to get star
 - [deliveryhero/whetstone](https://github.com/deliveryhero/whetstone) - Whetstone is a dependency injection framework for Android that greatly simplifies working with Dagger 2 using all the powers of Anvil
@@ -5227,7 +5230,7 @@
 
 ## learning 
 
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Declarative framework for building LLMs, neural networks, and GBMs
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [OCamlverse/ocamlverse.github.io](https://github.com/OCamlverse/ocamlverse.github.io) - Documentation of everything relevant in the OCaml world
@@ -5266,7 +5269,7 @@
 - [libts/tslib](https://github.com/libts/tslib) - Touchscreen access library
 - [yonaskolb/SwagGen](https://github.com/yonaskolb/SwagGen) - OpenAPI/Swagger 3.0 Parser and Swift code generator
 - [fwsGonzo/libriscv](https://github.com/fwsGonzo/libriscv) - C++17 RISC-V RV32/64/128 userspace emulator library
-- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions and additions to the standard SwiftUI library.
+- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd) - A socket daemon to multiplex connections from and to iOS devices
 - [jogendra/LoadingShimmer](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.
 - [andybest/linenoise-swift](https://github.com/andybest/linenoise-swift) - A pure Swift replacement for readline
@@ -5592,7 +5595,7 @@
 - [tensorflow/docs](https://github.com/tensorflow/docs) - TensorFlow documentation
 - [donutloop/machine-learning-research-papers](https://github.com/donutloop/machine-learning-research-papers) - Collection of machine learning research paper references
 - [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Declarative framework for building LLMs, neural networks, and GBMs
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [JuliaML/MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) - Utility package for accessing common Machine Learning datasets in Julia
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [mme/vergeml](https://github.com/mme/vergeml) - Machine Learning Environment - alpha version
@@ -5872,7 +5875,7 @@
 - [fabianishere/pam_reattach](https://github.com/fabianishere/pam_reattach) - Reattach to the user's GUI session on macOS during authentication (for Touch ID support in tmux)
 - [Cosmo/Clippy](https://github.com/Cosmo/Clippy) - 📎💬🎉 Clippy from Microsoft Office is back and runs on macOS! Written in Swift.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
-- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions and additions to the standard SwiftUI library.
+- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [alejandro-isaza/PlotKit](https://github.com/alejandro-isaza/PlotKit) - OS X plotting framework
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
@@ -6189,7 +6192,7 @@
 - [roboncode/shorty-go](https://github.com/roboncode/shorty-go) - Microservice that shortens urls like bit.ly written in Go
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [simon987/Much-Assembly-Required](https://github.com/simon987/Much-Assembly-Required) - Assembly programming game
-- [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Data Mining
+- [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 - [apache/allura](https://github.com/apache/allura) - Apache Allura - a software forge to manage source code repositories, bug reports, discussions, wiki pages, blogs, and more
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -6197,7 +6200,7 @@
 
 ## mongoose 
 
-- [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Data Mining
+- [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 
 ## monitoring 
 
@@ -6286,7 +6289,7 @@
 
 - [hollance/neural-engine](https://github.com/hollance/neural-engine) - Everything we actually know about the Apple Neural Engine (ANE)
 - [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Declarative framework for building LLMs, neural networks, and GBMs
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [lettergram/sentence-classification](https://github.com/lettergram/sentence-classification) - Sentence Classifications with Neural Networks
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 - [google/sling](https://github.com/google/sling) - SLING - A natural language frame semantics parser
@@ -6340,7 +6343,7 @@
 - [cocoa-ai/NamesCoreMLDemo](https://github.com/cocoa-ai/NamesCoreMLDemo) - 🏷 iOS11 demo application for predicting gender from first names.
 - [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
-- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
+- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
 
 ## node 
 
@@ -6415,7 +6418,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [lumenwrites/nulis](https://github.com/lumenwrites/nulis) - Mind-mapping software that helps writers collect and organize their knowledge, develop their ideas. Built with React, Redux, Node.js, hosted on Digital Ocean.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-- [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Data Mining
+- [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [esbenp/pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
@@ -6726,6 +6729,7 @@
 
 ## others 
 
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
 - [BradLarson/Molecules](https://github.com/BradLarson/Molecules) - Molecules is an open source 3-D molecular visualizer for iOS.
 - [gobby/libinfinity](https://github.com/gobby/libinfinity) - libinfinity collaborative editing library
 - [PassiveLogic/differentiable-swift-examples](https://github.com/PassiveLogic/differentiable-swift-examples) - Examples and documentation for the experimental differentiable Swift language feature
@@ -12486,7 +12490,7 @@
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Declarative framework for building LLMs, neural networks, and GBMs
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [mortada/fredapi](https://github.com/mortada/fredapi) - Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
 - [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
@@ -12702,7 +12706,7 @@
 - [mkocabas/VIBE](https://github.com/mkocabas/VIBE) - Official implementation of CVPR2020 paper "VIBE: Video Inference for Human Body Pose and Shape Estimation"
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Declarative framework for building LLMs, neural networks, and GBMs
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [fastai/course-v3](https://github.com/fastai/course-v3) - The 3rd edition of course.fast.ai
 - [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
@@ -14204,7 +14208,7 @@
 - [DerekSelander/dsdump](https://github.com/DerekSelander/dsdump) - An improved nm + Objective-C & Swift class-dump
 - [Cosmo/Clippy](https://github.com/Cosmo/Clippy) - 📎💬🎉 Clippy from Microsoft Office is back and runs on macOS! Written in Swift.
 - [yonaskolb/NetworkRequest](https://github.com/yonaskolb/NetworkRequest) - Swift networking library for easily defining, executing, and mocking network requests
-- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions and additions to the standard SwiftUI library.
+- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList) - The master list of repositories for the Swift Package Index.
 - [composed-swift/ComposedUI](https://github.com/composed-swift/ComposedUI) - A Swift framework for building User Interfaces with the Composed framework.
 - [KarthikRIyer/swiftplot](https://github.com/KarthikRIyer/swiftplot) - Swift library for Data Visualization :bar_chart:
@@ -14700,7 +14704,7 @@
 - [paololeonardi/WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI.
 - [ra1028/SwiftUI-Combine](https://github.com/ra1028/SwiftUI-Combine) - This is an example project of SwiftUI and Combine using GitHub API.
 - [Q-Mobile/QGrid](https://github.com/Q-Mobile/QGrid) - 🎛 QGrid: The missing SwiftUI collection view.
-- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions and additions to the standard SwiftUI library.
+- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) - SwiftUI 2.0 Cheat Sheet
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [ashchan/mail-notifr](https://github.com/ashchan/mail-notifr) - Mail Notifr - Gmail Notifier for macOS
@@ -14917,7 +14921,7 @@
 
 ## twitter 
 
-- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of Twitter's v1, v2, and GraphQL APIs
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of X/Twitter v1, v2, and GraphQL APIs
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [renatolond/mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mastodon and Twitter
@@ -15125,6 +15129,7 @@
 
 ## web 
 
+- [lyokha/nginx-haskell-module](https://github.com/lyokha/nginx-haskell-module) - A comprehensive web framework aimed at building custom Haskell handlers for the Nginx Web Server
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [analogjs/analog](https://github.com/analogjs/analog) - Build and ship applications and websites faster with Angular
 - [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
