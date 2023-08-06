@@ -276,6 +276,7 @@
 
 ## C 
 
+- [lyokha/nginx-haskell-module](https://github.com/lyokha/nginx-haskell-module) - A comprehensive web framework aimed at building custom Haskell handlers for the Nginx Web Server
 - [gobby/libinfinity](https://github.com/gobby/libinfinity) - libinfinity collaborative editing library
 - [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
 - [osandov/drgn](https://github.com/osandov/drgn) - Programmable debugger
@@ -1075,6 +1076,7 @@
 
 ## C# # 
 
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
 - [pardeike/Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [4sval/FModel](https://github.com/4sval/FModel) - Unreal Engine Archives Explorer
@@ -1641,7 +1643,6 @@
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [repaper/gratis](https://github.com/repaper/gratis) - EPD Source codes and Documentation
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [eteran/edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross-platform AArch32/x86/x86-64 debugger.
 - [jorgecis/Remotsy](https://github.com/jorgecis/Remotsy) - Examples of how to create a custom firmware for the remosty boards.
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
@@ -3149,7 +3150,7 @@
 - [googleglass/gdk-compass-sample](https://github.com/googleglass/gdk-compass-sample) - Simple GDK example acting as a compass. In addition to the visual display, you can tap the touchpad to have Glass speak your current orientation aloud.
 - [monteslu/Face](https://github.com/monteslu/Face) - Side loadable app to bidirectionally communicate from Google Glass to a websocket
 - [versionone/VersionOne.Integration.GitSCM](https://github.com/versionone/VersionOne.Integration.GitSCM) - Links VersionOne workitems to Git commits.
-- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
+- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
 - [groupme/groupme-android-sdk](https://github.com/groupme/groupme-android-sdk) - GroupMe Android SDK
 - [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 - [space150/google-glass-playground](https://github.com/space150/google-glass-playground) - 
@@ -3470,7 +3471,6 @@
 - [hgraph-os/hGraph](https://github.com/hgraph-os/hGraph) - hGraph is an open source javascript library for visualizing health data.
 - [vkbansal/react-contextmenu](https://github.com/vkbansal/react-contextmenu) - Project is no longer maintained
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vladocar/screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
 - [wonderunit/characterizer](https://github.com/wonderunit/characterizer) - The best app to train character values and generate conflicts, dilemmas, and common ground between characters.
 - [BoostIO/Boostbot](https://github.com/BoostIO/Boostbot) - :robot:
@@ -3672,7 +3672,7 @@
 - [mapnificent/mapnificent](https://github.com/mapnificent/mapnificent) - Mapnificent shows you areas you can reach with public transport in a given time.
 - [andrew-templeton/bottie](https://github.com/andrew-templeton/bottie) - Simple BotKit bot with NLP
 - [mozilla/platform-status](https://github.com/mozilla/platform-status) - Project Platform Status
-- [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Data Mining
+- [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
 - [esbenp/pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs
@@ -4132,6 +4132,7 @@
 
 ## Kotlin 
 
+- [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 - [OutSystems/cordova-plugin-lottie-splashscreen](https://github.com/OutSystems/cordova-plugin-lottie-splashscreen) - 
 - [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard) - A Gradle plugin that guards against unintentional dependency changes.
 - [cashapp/multiplatform-paging](https://github.com/cashapp/multiplatform-paging) - A library that packages AndroidX Paging for Kotlin/Multiplatform.
@@ -5798,7 +5799,7 @@
 - [Blizzard/s2protocol](https://github.com/Blizzard/s2protocol) - Python library to decode StarCraft II replay protocols
 - [aws-samples/aws-aaos-pipeline](https://github.com/aws-samples/aws-aaos-pipeline) - 
 - [WolvenKit/Cyberpunk-Blender-add-on](https://github.com/WolvenKit/Cyberpunk-Blender-add-on) - The Cyberpunk add-on for Blender bridges complex game assets with Blender.
-- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of Twitter's v1, v2, and GraphQL APIs
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of X/Twitter v1, v2, and GraphQL APIs
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [antmicro/yosys-systemverilog](https://github.com/antmicro/yosys-systemverilog) - SystemVerilog support for Yosys
@@ -6169,7 +6170,7 @@
 - [percolate/ec2-security-groups-dumper](https://github.com/percolate/ec2-security-groups-dumper) - Dump your EC2 Security Groups as a CSV or JSON file
 - [percolate/iamer](https://github.com/percolate/iamer) - Dump and load your AWS IAM configuration into text files
 - [kitspace/kicad_footprints](https://github.com/kitspace/kicad_footprints) - A collection of all the KiCad footprints on the internet
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Declarative framework for building LLMs, neural networks, and GBMs
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue) - A render management system you can deploy for visual effects and animation productions.
 - [sauce-archives/isign](https://github.com/sauce-archives/isign) - Code sign iOS applications, without proprietary Apple software or hardware
 - [leesharma/GerryChain](https://github.com/leesharma/GerryChain) - Use MCMC to analyze districting plans and gerrymanders
@@ -7458,6 +7459,7 @@
 - [firesim/firesim](https://github.com/firesim/firesim) - FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [freechipsproject/firrtl-interpreter](https://github.com/freechipsproject/firrtl-interpreter) - A scala based simulator for circuits described by a LoFirrtl file
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 - [sifive/fpga-shells](https://github.com/sifive/fpga-shells) - 
@@ -8494,7 +8496,7 @@
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [mac-gallagher/Shuffle](https://github.com/mac-gallagher/Shuffle) - 🔥 A multi-directional card swiping library inspired by Tinder
 - [yonaskolb/NetworkRequest](https://github.com/yonaskolb/NetworkRequest) - Swift networking library for easily defining, executing, and mocking network requests
-- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions and additions to the standard SwiftUI library.
+- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [AvdLee/CombineSwiftPlayground](https://github.com/AvdLee/CombineSwiftPlayground) - A Swift playground explaining the concepts of the new Combine framework
 - [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList) - The master list of repositories for the Swift Package Index.
 - [huggingface/swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT for Question answering. Other Transformers coming soon!
@@ -9536,6 +9538,7 @@
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
 - [lit/lit-element](https://github.com/lit/lit-element) - LEGACY REPO. This repository is for maintenance of the legacy LitElement library. The LitElement base class is now part of the Lit library, which is developed in the lit monorepo.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [codesandbox/codesandbox-importers](https://github.com/codesandbox/codesandbox-importers) - All importers & exporters for CodeSandbox
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
