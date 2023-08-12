@@ -4180,6 +4180,7 @@
 - [jasonnam/AStack](https://github.com/jasonnam/AStack) - The Missing SwiftUI Adaptive and Accessible Stacks Library.
 - [dmytro-anokhin/remote-content-view](https://github.com/dmytro-anokhin/remote-content-view) - SwiftUI view that makes loading content easy
 - [wickwirew/Shift](https://github.com/wickwirew/Shift) - Shift is a simple, declarative animation library for building complex view controller and view transitions in UIKit.
+- [kyle-n/HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - A SwiftUI view for dynamically highlighting user input
 - [mapbox/MapboxGeocoder.swift](https://github.com/mapbox/MapboxGeocoder.swift) - Address search and reverse geocoding in Swift or Objective-C on iOS, macOS, tvOS, and watchOS
 - [tcldr/Entwine](https://github.com/tcldr/Entwine) - Testing tools and utilities for Apple's Combine framework.
 - [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
@@ -5818,6 +5819,7 @@
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [ittybittyapps/appstoreconnect-cli](https://github.com/ittybittyapps/appstoreconnect-cli) - An easy to use command-line tool for interacting with the Apple AppStore Connect API
 - [dmytro-anokhin/remote-content-view](https://github.com/dmytro-anokhin/remote-content-view) - SwiftUI view that makes loading content easy
+- [kyle-n/HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - A SwiftUI view for dynamically highlighting user input
 - [mapbox/MapboxGeocoder.swift](https://github.com/mapbox/MapboxGeocoder.swift) - Address search and reverse geocoding in Swift or Objective-C on iOS, macOS, tvOS, and watchOS
 - [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
@@ -6079,6 +6081,7 @@
 - [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [dduan/Markra](https://github.com/dduan/Markra) - An open-source Markdown-to-JIRA syntax editor written in SwiftUI for macOS
+- [kyle-n/HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - A SwiftUI view for dynamically highlighting user input
 - [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
@@ -6742,6 +6745,7 @@
 
 ## others 
 
+- [ionic-team/CapacitorWatch](https://github.com/ionic-team/CapacitorWatch) - Build apps for watches with Capacitor
 - [twittemb/StreamIt](https://github.com/twittemb/StreamIt) - This iOS app streams your camera so you can watch it in a simple web browser (MJPEG stream)
 - [davidahouse/XCResultKit](https://github.com/davidahouse/XCResultKit) - A Swift interface for finding and parsing xcresult files that Xcode generates when running tests.
 - [a7ex/xcresultparser](https://github.com/a7ex/xcresultparser) - Parse the binary xcresult bundle from Xcode builds and testruns
@@ -7020,7 +7024,7 @@
 - [bmurmann/Book-on-MOS-stages](https://github.com/bmurmann/Book-on-MOS-stages) - Book repository "Analysis and Design of Elementary MOS Amplifier Stages"
 - [andreamazz/AMPopTip](https://github.com/andreamazz/AMPopTip) - An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
 - [badlogic/dos-dev-template](https://github.com/badlogic/dos-dev-template) - Template project for developing DOS games/apps with DJGPP, including source-level remote debugging with GDB and DOSBox.
-- [benjames-171/defold-games](https://github.com/benjames-171/defold-games) - Collection of simple games made with Defold
+- [benjames-171/defold-games](https://github.com/benjames-171/defold-games) - Collection of 2D games made with Defold
 - [ciniml/WireGuard-ESP32-Arduino](https://github.com/ciniml/WireGuard-ESP32-Arduino) - WireGuard implementation for ESP32 Arduino
 - [cirquit/trdrop](https://github.com/cirquit/trdrop) - trdrop - a raw video analysis program
 - [nikvdp/pbproxy](https://github.com/nikvdp/pbproxy) - 
@@ -8049,7 +8053,6 @@
 - [cocoacontrols/SemanticUI](https://github.com/cocoacontrols/SemanticUI) - Understand iOS Semantic UI: Dark Mode, Colors, Dynamic Type, and SF Symbols.
 - [OFS/opae-sdk](https://github.com/OFS/opae-sdk) - Open Programmable Acceleration Engine
 - [96boards/96boards-kicad-mezzanine-template](https://github.com/96boards/96boards-kicad-mezzanine-template) - 
-- [kyle-n/HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - A SwiftUI view for dynamically highlighting user input
 - [DuncanMC/BlurredStrokedPath](https://github.com/DuncanMC/BlurredStrokedPath) - An iOS project that uses Core Animation and a layer's `shadowPath` to animate blurred stroked paths.
 - [Hamlib/Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library for rigs, rotators, tuners, and amplifiers
 - [qradiolink/qradiolink](https://github.com/qradiolink/qradiolink) - Multimode SDR transceiver for GNU radio
@@ -14077,6 +14080,7 @@
 - [dmytro-anokhin/remote-content-view](https://github.com/dmytro-anokhin/remote-content-view) - SwiftUI view that makes loading content easy
 - [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating mathematical expressions
 - [wickwirew/Shift](https://github.com/wickwirew/Shift) - Shift is a simple, declarative animation library for building complex view controller and view transitions in UIKit.
+- [kyle-n/HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - A SwiftUI view for dynamically highlighting user input
 - [mapbox/MapboxGeocoder.swift](https://github.com/mapbox/MapboxGeocoder.swift) - Address search and reverse geocoding in Swift or Objective-C on iOS, macOS, tvOS, and watchOS
 - [tcldr/Entwine](https://github.com/tcldr/Entwine) - Testing tools and utilities for Apple's Combine framework.
 - [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
@@ -14696,6 +14700,7 @@
 - [shaps80/ActivityView](https://github.com/shaps80/ActivityView) - Moved to SwiftUI-Plus/ActivityView
 - [jasonnam/AStack](https://github.com/jasonnam/AStack) - The Missing SwiftUI Adaptive and Accessible Stacks Library.
 - [dmytro-anokhin/remote-content-view](https://github.com/dmytro-anokhin/remote-content-view) - SwiftUI view that makes loading content easy
+- [kyle-n/HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - A SwiftUI view for dynamically highlighting user input
 - [tcldr/Entwine](https://github.com/tcldr/Entwine) - Testing tools and utilities for Apple's Combine framework.
 - [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
 - [erickjung/SwiftGUI](https://github.com/erickjung/SwiftGUI) - SwiftGUI is an API inspired by SwiftUI DSL, using Dear ImGui as renderer and running on macOS 10.13+ and iOS 11+
@@ -14897,7 +14902,7 @@
 - [hashicorp/terraform-provider-template](https://github.com/hashicorp/terraform-provider-template) - Terraform template provider
 - [sethvargo/terraform-provider-googlecalendar](https://github.com/sethvargo/terraform-provider-googlecalendar) - A @HashiCorp Terraform provider for managing Google Calendar events.
 - [geekmuse/terraform-provider-jumpcloud](https://github.com/geekmuse/terraform-provider-jumpcloud) - A Terraform provider for JumpCloud
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 
 ## testing 
 
@@ -15405,6 +15410,7 @@
 - [touchlab/xcode-kotlin](https://github.com/touchlab/xcode-kotlin) - Kotlin Native Xcode Plugin
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [dmytro-anokhin/remote-content-view](https://github.com/dmytro-anokhin/remote-content-view) - SwiftUI view that makes loading content easy
+- [kyle-n/HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - A SwiftUI view for dynamically highlighting user input
 - [bazel-xcode/xchammer](https://github.com/bazel-xcode/xchammer) - XCHammer generates Xcode projects from a Bazel Workspace.
 - [tungvoduc/DTPagerController](https://github.com/tungvoduc/DTPagerController) - A fully customizable container view controller to display a set of ViewControllers in a horizontal scroll view. Written in Swift.
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
