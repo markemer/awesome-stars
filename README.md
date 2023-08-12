@@ -2730,7 +2730,7 @@
 - [rsms/gotalk](https://github.com/rsms/gotalk) - Async peer communication protocol & library
 - [rsms/cmdr](https://github.com/rsms/cmdr) - Helps writing command-line programs with subcommands in Go
 - [docker-archive/classicswarm](https://github.com/docker-archive/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
@@ -4198,7 +4198,7 @@
 
 - [justarandomguyintheinternet/CP77_InventoryMaid](https://github.com/justarandomguyintheinternet/CP77_InventoryMaid) - Highly customizable Inventory manager for Cyberpunk 2077
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
-- [benjames-171/defold-games](https://github.com/benjames-171/defold-games) - Collection of simple games made with Defold
+- [benjames-171/defold-games](https://github.com/benjames-171/defold-games) - Collection of 2D games made with Defold
 - [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH
 - [psiberx/cp2077-cet-kit](https://github.com/psiberx/cp2077-cet-kit) - Set of independent modules and examples to help develop mods for Cyber Engine Tweaks
 - [psiberx/cp2077-respector](https://github.com/psiberx/cp2077-respector) - A Cyberpunk 2077 mod for managing player builds in the form of spec files containing player experience, attributes, skills, perks, and equipment, with useful extra features.
@@ -7818,6 +7818,7 @@
 
 ## Swift 
 
+- [ionic-team/CapacitorWatch](https://github.com/ionic-team/CapacitorWatch) - Build apps for watches with Capacitor
 - [twittemb/StreamIt](https://github.com/twittemb/StreamIt) - This iOS app streams your camera so you can watch it in a simple web browser (MJPEG stream)
 - [davidahouse/XCResultKit](https://github.com/davidahouse/XCResultKit) - A Swift interface for finding and parsing xcresult files that Xcode generates when running tests.
 - [a7ex/xcresultparser](https://github.com/a7ex/xcresultparser) - Parse the binary xcresult bundle from Xcode builds and testruns
