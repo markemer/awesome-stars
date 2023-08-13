@@ -2304,7 +2304,7 @@
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [martinbaillie/vault-plugin-secrets-github](https://github.com/martinbaillie/vault-plugin-secrets-github) - Create ephemeral, finely-scoped @github access tokens using @hashicorp Vault.
 - [klauspost/pgzip](https://github.com/klauspost/pgzip) - Go parallel gzip (de)compression
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
 - [Philipp15b/go-steam](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go to allow automation of different actions on the Steam network without running an actual Steam client. Includes APIs for friends, chatting, trading, trade offers and TF2 crafting
 - [bpftools/kube-bpf](https://github.com/bpftools/kube-bpf) - (e)BPF primitives for Kubernetes
@@ -7254,7 +7254,7 @@
 - [io12/unf](https://github.com/io12/unf) - UNixize Filename -- replace annoying anti-unix characters in filenames
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [rustdesk/rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo) - A working demo of RustDesk server implementation
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [lukaslueg/macro_railroad](https://github.com/lukaslueg/macro_railroad) - A library to generate syntax diagrams for Rust macros.
 - [KarlitosVII/trilogy-save-editor](https://github.com/KarlitosVII/trilogy-save-editor) - A save editor for Mass Effect Trilogy (and Legendary)
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
