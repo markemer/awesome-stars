@@ -276,6 +276,7 @@
 
 ## C 
 
+- [cc65/cc65](https://github.com/cc65/cc65) - cc65 - a freeware C compiler for 6502 based systems
 - [AndreRenaud/PDFGen](https://github.com/AndreRenaud/PDFGen) - Simple C PDF Writer/Generation library
 - [lyokha/nginx-haskell-module](https://github.com/lyokha/nginx-haskell-module) - A comprehensive web framework aimed at building custom Haskell handlers for the Nginx Web Server
 - [gobby/libinfinity](https://github.com/gobby/libinfinity) - libinfinity collaborative editing library
@@ -406,7 +407,7 @@
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [xiph/opus](https://github.com/xiph/opus) - Modern audio compression for the internet.
 - [sctplab/usrsctp](https://github.com/sctplab/usrsctp) - A portable SCTP userland stack
-- [clockworkpi/DevTerm](https://github.com/clockworkpi/DevTerm) - 
+- [clockworkpi/DevTerm](https://github.com/clockworkpi/DevTerm) - This repository offers downloads for the latest images of various DevTerm models, as well as kernel patches, keyboard firmware, the source code for screen and printer drivers, hardware schematics, ass
 - [michaeljclark/riscv-disassembler](https://github.com/michaeljclark/riscv-disassembler) - RISC-V Disassembler with support for RV32/RV64/RV128 IMAFDC
 - [Ildaron/ironbci](https://github.com/Ildaron/ironbci) - Open-Source Brain-Computer Interface, ADS1299 and STM32
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
@@ -1753,7 +1754,6 @@
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [atom/node-keytar](https://github.com/atom/node-keytar) - Native Password Node Module
-- [kythe/kythe](https://github.com/kythe/kythe) - Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
 - [RetroPie/EmulationStation](https://github.com/RetroPie/EmulationStation) - A Fork of Emulation Station for RetroPie. Emulation Station is a flexible emulator front-end supporting keyboardless navigation and custom system themes.
 - [eonil/ClangWrapper.Swift](https://github.com/eonil/ClangWrapper.Swift) - Clang C API wrapper for Swift.
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
@@ -2330,7 +2330,7 @@
 - [googleapis/gapic-generator-go](https://github.com/googleapis/gapic-generator-go) - Generate Go API client libraries from Protocol Buffers.
 - [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed to DarwinKit!
 - [scalarhq/go-fluent-ffmpeg](https://github.com/scalarhq/go-fluent-ffmpeg) - A Go implementation of fluent-ffmpeg
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [skx/github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for 'myrepos' to work with.
@@ -2663,6 +2663,7 @@
 - [golang/lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code. (deprecated)
 - [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [spf13/jwalterweatherman](https://github.com/spf13/jwalterweatherman) - So you always leave a note
+- [kythe/kythe](https://github.com/kythe/kythe) - Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
 - [miquella/vaulted](https://github.com/miquella/vaulted) - Spawning and storage of secure environments
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
@@ -3396,7 +3397,7 @@
 - [Andrew-Kang-G/url-knife](https://github.com/Andrew-Kang-G/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with robust patterns.
 - [YOCKOW/Action-setup-swift](https://github.com/YOCKOW/Action-setup-swift) - GitHub Action that sets up Swift.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
-- [dosyago/BrowserBoxPro](https://github.com/dosyago/BrowserBoxPro) - :cyclone: BrowserBoxPro - The internet. But unrestricted. And secure. Remote browser isolation product, available open-source here and for purchase on our website.
+- [dosyago/BrowserBoxPro](https://github.com/dosyago/BrowserBoxPro) - :cyclone: BrowserBoxPro is a top solution in the Zero Trust realm, using Remote Browser Isolation (RBI) and co-browsing to ensure web content never directly interacts with the user's device.
 - [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [millette/oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
@@ -4247,7 +4248,6 @@
 
 ## MDX 
 
-- [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs) - Sentry's documentation (and tools to build it)
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 
@@ -4970,7 +4970,7 @@
 - [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) - An "awesome" list of Ionic resources
 - [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
 - [vircon32/Vircon32Documents](https://github.com/vircon32/Vircon32Documents) - A collection of PDF documents related to the console. Mainly specifications and guides.
-- [bertjiazheng/awesome-CAD](https://github.com/bertjiazheng/awesome-CAD) - 😎 A list of awesome Computer-Aided Design (CAD) papers
+- [bertjiazheng/Awesome-CAD](https://github.com/bertjiazheng/Awesome-CAD) - 😎 A list of awesome Computer-Aided Design (CAD) papers
 - [overset/JP01](https://github.com/overset/JP01) - JP01 - Arisu Custom CNC Aluminum Unibody Keyboard Case
 - [issus/altium-library](https://github.com/issus/altium-library) - Open source Altium Database Library with over 165,000 high quality components and full 3d models.
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
@@ -5417,7 +5417,7 @@
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [gergo-/missed-optimizations](https://github.com/gergo-/missed-optimizations) - Missed optimizations in C compilers
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [jgraph/drawio-diagrams](https://github.com/jgraph/drawio-diagrams) - Diagrams for draw.io
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [bunnie/ltc-book-hardware](https://github.com/bunnie/ltc-book-hardware) - Hardware mounted within the LTC Book
@@ -5647,7 +5647,7 @@
 - [dhobsd/asciitosvg](https://github.com/dhobsd/asciitosvg) - DANGER, WILL ROBINSON: THIS REPOSITORY IS IN MAINTENANCE MODE! I will not be continuing feature development or fixing bugs in this codebase. I will continue to review and accept pull requests that do 
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [Shapeways/shapeways-api](https://github.com/Shapeways/shapeways-api) - Shapeways API Reference Clients
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [docker/labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [sagebind/slackyboy](https://github.com/sagebind/slackyboy) - A helpful, programmable chat bot for Slack
@@ -5830,7 +5830,7 @@
 - [aws/amazon-braket-sdk-python](https://github.com/aws/amazon-braket-sdk-python) - A Python SDK for interacting with quantum devices on Amazon Braket
 - [aws/amazon-braket-default-simulator-python](https://github.com/aws/amazon-braket-default-simulator-python) - An implementation of a quantum simulator that you can run locally.
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways
-- [cxnder/ktool](https://github.com/cxnder/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
+- [0cyn/ktool](https://github.com/0cyn/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 - [evilpete/flipper_toolbox](https://github.com/evilpete/flipper_toolbox) - Random scripts for generating Flipper data files.
 - [CRImier/KeyboardWhiz](https://github.com/CRImier/KeyboardWhiz) - A laptop keyboard reverse-engineering helper
 - [pyvisa/pyvisa](https://github.com/pyvisa/pyvisa) - A Python package with bindings to the "Virtual Instrument Software Architecture" VISA library, in order to control measurement devices and test equipment via GPIB, RS232, or USB.
@@ -6358,7 +6358,7 @@
 - [pearl-core/pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessibl
 - [iawia002/Lulu](https://github.com/iawia002/Lulu) - [Unmaintained] A simple and clean video/music/image downloader 👾
 - [mtneug/ansible-modules-plist](https://github.com/mtneug/ansible-modules-plist) - Ansible module for managing plist files
-- [oilshell/oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
+- [oilshell/oil](https://github.com/oilshell/oil) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [pirate/security-growler](https://github.com/pirate/security-growler) - :satellite: A Mac menubar app that notifies you whenever SSH, VNC, sudo, or other auth events occur.
 - [MagerValp/AutoDMG](https://github.com/MagerValp/AutoDMG) - Create deployable system images from OS X installer
 - [chipsec/chipsec](https://github.com/chipsec/chipsec) - Platform Security Assessment Framework
@@ -6599,7 +6599,7 @@
 - [nate-parrott/Flashlight](https://github.com/nate-parrott/Flashlight) - The missing Spotlight plugin system
 - [lad1337/XDM](https://github.com/lad1337/XDM) - XDM: eXtendable Download Manager. Plugin based media collection manager.
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
-- [dmerejkowsky/pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progress bar
+- [your-tools/pycp](https://github.com/your-tools/pycp) - cp and mv with a progress bar
 - [michaelliao/githubpy](https://github.com/michaelliao/githubpy) - A simple GitHub REST API SDK for Python3
 - [pycrypto/pycrypto](https://github.com/pycrypto/pycrypto) - The Python Cryptography Toolkit
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
@@ -7144,6 +7144,7 @@
 ## Rust 
 
 - [vlcn-io/sqlite-rs-embedded](https://github.com/vlcn-io/sqlite-rs-embedded) - Rust bindings for SQLite that are no_std and wasm compatible
+- [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [nicholaschiasson/fcidr](https://github.com/nicholaschiasson/fcidr) - Fragmented Classless Inter-Domain Routing (FCIDR)
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv
@@ -7186,7 +7187,7 @@
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
@@ -7802,6 +7803,7 @@
 
 ## Starlark 
 
+- [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial) - 
 - [jez/as-tree-cpp](https://github.com/jez/as-tree-cpp) - Print a list of paths as a tree of paths 🌳
 - [jmillikin/rules_bison](https://github.com/jmillikin/rules_bison) - Bazel build rules for GNU Bison
 - [line/rules_apple_line](https://github.com/line/rules_apple_line) - LINE's Apple rules for Bazel
@@ -7818,6 +7820,11 @@
 
 ## Swift 
 
+- [MobileNativeFoundation/XCBBuildServiceProxyKit](https://github.com/MobileNativeFoundation/XCBBuildServiceProxyKit) - A framework to create proxies for XCBBuildService, which allows for custom Xcode build integrations.
+- [jerrymarino/xcbuildkit](https://github.com/jerrymarino/xcbuildkit) - xcbuildkit is a framework to extend or replace Xcode's build system
+- [macmade/xasm65](https://github.com/macmade/xasm65) - A MOS 6502 assembler/disassembler written in Swift.
+- [fwcd/swift-dns-service-discovery](https://github.com/fwcd/swift-dns-service-discovery) - DNS-SD (Bonjour/Zeroconf/Avahi) implementation of the Swift Service Discovery API
+- [instacart/Nantes](https://github.com/instacart/Nantes) - Swift TTTAttributedLabel replacement
 - [ionic-team/CapacitorWatch](https://github.com/ionic-team/CapacitorWatch) - Build apps for watches with Capacitor
 - [twittemb/StreamIt](https://github.com/twittemb/StreamIt) - This iOS app streams your camera so you can watch it in a simple web browser (MJPEG stream)
 - [davidahouse/XCResultKit](https://github.com/davidahouse/XCResultKit) - A Swift interface for finding and parsing xcresult files that Xcode generates when running tests.
@@ -9356,7 +9363,6 @@
 ## TypeScript 
 
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
-- [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
@@ -9438,6 +9444,7 @@
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [kishikawakatsumi/xcresulttool](https://github.com/kishikawakatsumi/xcresulttool) - A GitHub Action that generates a human-readable test report from the Xcode result bundle and shows it on GitHub Checks.
+- [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [ekzhang/composing.studio](https://github.com/ekzhang/composing.studio) - Collaborative music composition for everyone.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
@@ -9565,7 +9572,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [Nexus-Mods/Vortex](https://github.com/Nexus-Mods/Vortex) - Vortex Development
 - [brannondorsey/chattervox](https://github.com/brannondorsey/chattervox) - 📡 An AX.25 packet radio chat protocol with support for digital signatures and binary compression. Like IRC over radio waves.
-- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
+- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
 - [erikbrinkman/d3-dag](https://github.com/erikbrinkman/d3-dag) - Layout algorithms for visualizing directed acyclic graphs
 - [Tyriar/vscode-theme-generator](https://github.com/Tyriar/vscode-theme-generator) - Easily generate themes for VS Code with only a few colors
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
