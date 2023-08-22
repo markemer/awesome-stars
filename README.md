@@ -70,6 +70,7 @@
 - [Jsonnet](#jsonnet)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kaitai Struct](#kaitai-struct)
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
@@ -407,7 +408,7 @@
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [xiph/opus](https://github.com/xiph/opus) - Modern audio compression for the internet.
 - [sctplab/usrsctp](https://github.com/sctplab/usrsctp) - A portable SCTP userland stack
-- [clockworkpi/DevTerm](https://github.com/clockworkpi/DevTerm) - This repository offers downloads for the latest images of various DevTerm models, as well as kernel patches, keyboard firmware, the source code for screen and printer drivers, hardware schematics, ass
+- [clockworkpi/DevTerm](https://github.com/clockworkpi/DevTerm) - This code repository offers downloads for the latest images of various DevTerm models, as well as kernel patches, keyboard firmware, the source code for screen and printer drivers, hardware schematics
 - [michaeljclark/riscv-disassembler](https://github.com/michaeljclark/riscv-disassembler) - RISC-V Disassembler with support for RV32/RV64/RV128 IMAFDC
 - [Ildaron/ironbci](https://github.com/Ildaron/ironbci) - Open-Source Brain-Computer Interface, ADS1299 and STM32
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
@@ -1824,6 +1825,7 @@
 - [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
 - [laprej/ROSS--](https://github.com/laprej/ROSS--) - ROSS-- + C++ = ROSS + C
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [Smoothieware/Smoothiepanel](https://github.com/Smoothieware/Smoothiepanel) - SmoothiePanel is an Open Source Hardware control interface for industrial robotic machinery.
 - [Smoothieware/Smoothieware](https://github.com/Smoothieware/Smoothieware) - Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
@@ -2330,7 +2332,7 @@
 - [googleapis/gapic-generator-go](https://github.com/googleapis/gapic-generator-go) - Generate Go API client libraries from Protocol Buffers.
 - [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed to DarwinKit!
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
 - [scalarhq/go-fluent-ffmpeg](https://github.com/scalarhq/go-fluent-ffmpeg) - A Go implementation of fluent-ffmpeg
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [skx/github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for 'myrepos' to work with.
@@ -2806,7 +2808,6 @@
 - [xeokit/xeokit-sdk](https://github.com/xeokit/xeokit-sdk) - Open source JavaScript SDK for viewing high-detail, full-precision 3D BIM and AEC models in the Web browser.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [fcoury/kbpcb](https://github.com/fcoury/kbpcb) - Automated Keyboard PCB generator for KiCad
-- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [alex/nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
 - [brendena/MathEquationsGoogleSlide](https://github.com/brendena/MathEquationsGoogleSlide) - convert latex to img on google slides
 - [sigio/cipherli.st](https://github.com/sigio/cipherli.st) - Ciplerli.st - strong ciphers for NGINX, Apache and Lighttpd
@@ -2952,7 +2953,6 @@
 - [ngn/apl](https://github.com/ngn/apl) - deleted. i recommend using k instead: https://codeberg.org/ngn/k
 - [Galeas/CocoaPodUI](https://github.com/Galeas/CocoaPodUI) - XCode plugin that implements CocoaPods GUI.
 - [mapbox/mapbox.js](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [kni-labs/rrssb](https://github.com/kni-labs/rrssb) - :arrow_right_hook: Ridiculously Responsive Social Sharing Buttons
 - [KiCad/kicad-library](https://github.com/KiCad/kicad-library) - The schematic and 3D libraries for KiCad 4.0.  Note that the footprint libraries are the *.pretty repos themselves. This is an orphaned repo, the news about the v5 libs, http://kicad.org/post/kicad-of
 - [dnsimple/dnsimple-developer](https://github.com/dnsimple/dnsimple-developer) - The DNSimple API Documentation.
@@ -3646,7 +3646,7 @@
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [Granjow/graphs-with-javascript](https://github.com/Granjow/graphs-with-javascript) - node.js module teaching some basics about graphs
 - [nationalparkservice/data](https://github.com/nationalparkservice/data) - An unofficial repository of National Park Service data.
-- [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A repository of global open address data.
+- [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A global repository of open address data.
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [UB-Mannheim/ocr-fileformat](https://github.com/UB-Mannheim/ocr-fileformat) - Validate and transform various OCR file formats (hOCR, ALTO, PAGE, FineReader)
 - [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
@@ -3712,7 +3712,7 @@
 - [MovingBlocks/DevlogTemplate](https://github.com/MovingBlocks/DevlogTemplate) - Template for a Devlog based on Jekyll served via GitHub pages.
 - [jindw/xmldom](https://github.com/jindw/xmldom) - A PURE JS W3C Standard based(XML DOM Level2 CORE) DOMParser and XMLSerializer.
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
-- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [travis-ci/travis-web](https://github.com/travis-ci/travis-web) - The Ember web client for Travis CI
 - [sintaxi/harp](https://github.com/sintaxi/harp) - Static Web Server/Generator/Bundler
@@ -4128,6 +4128,10 @@
 - [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) - Simple tutorials using Google's TensorFlow Framework
 - [ocropus/ocropy](https://github.com/ocropus/ocropy) - Python-based tools for document analysis and OCR
 - [jbmouret/matplotlib_for_papers](https://github.com/jbmouret/matplotlib_for_papers) - Handout for the tutorial "Creating publication-quality figures with matplotlib"
+
+## Just 
+
+- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 
 ## Kaitai Struct 
 
@@ -6528,7 +6532,7 @@
 - [matthiaskramm/corepy](https://github.com/matthiaskramm/corepy) - Clone of corepy, a synthetic programming library.
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [cmdln/flashbake](https://github.com/cmdln/flashbake) - Scripts to gather information for including in version history comments and to make using source control a bit simpler for non-technical projects.
-- [googlefonts/fontbakery](https://github.com/googlefonts/fontbakery) - 🧁 A font quality assurance tool for everyone
+- [fonttools/fontbakery](https://github.com/fonttools/fontbakery) - 🧁 A font quality assurance tool for everyone
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -7820,6 +7824,8 @@
 
 ## Swift 
 
+- [jwd-ali/Switch-Animations](https://github.com/jwd-ali/Switch-Animations) - An animate switch collection, Add Beautiful Customise Switch in your application to boost UI and UX
+- [exPHAT/SwiftWhisper](https://github.com/exPHAT/SwiftWhisper) - 🎤 The easiest way to transcribe audio in Swift
 - [MobileNativeFoundation/XCBBuildServiceProxyKit](https://github.com/MobileNativeFoundation/XCBBuildServiceProxyKit) - A framework to create proxies for XCBBuildService, which allows for custom Xcode build integrations.
 - [jerrymarino/xcbuildkit](https://github.com/jerrymarino/xcbuildkit) - xcbuildkit is a framework to extend or replace Xcode's build system
 - [macmade/xasm65](https://github.com/macmade/xasm65) - A MOS 6502 assembler/disassembler written in Swift.
