@@ -1079,6 +1079,7 @@
 
 ## C# # 
 
+- [ShinyHobo/BG3-Modders-Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool) - Utility for quickly generating Baldur's Gate 3 mod packs from an unpacked workspace (among other things).
 - [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
 - [pardeike/Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
@@ -1361,6 +1362,7 @@
 - [masagrator/Status-Monitor-Overlay](https://github.com/masagrator/Status-Monitor-Overlay) - Monitor many stats of Nintendo Switch hardware
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [timdecode/LifeBrush](https://github.com/timdecode/LifeBrush) - A toolkit for painting agent-based mesoscale molecular simulations and illustrations.
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [daylen/stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac
 - [ihaque/pelomon](https://github.com/ihaque/pelomon) - Source code for the PeloMon Bluetooth LE sensor relay and for decoding Peloton communications
 - [googlefonts/fontdiff](https://github.com/googlefonts/fontdiff) - tool for finding visual differences between two font versions
@@ -4286,7 +4288,6 @@
 - [ArtSabintsev/GitFame](https://github.com/ArtSabintsev/GitFame) - A Swift CLI script that logs your GitHub Stars and Forks.
 - [kylef/swiftenv-docker](https://github.com/kylef/swiftenv-docker) - This repository contains swiftenv images for Docker
 - [turtlebot/turtlebot2e](https://github.com/turtlebot/turtlebot2e) - 
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [tylerreckart/odin](https://github.com/tylerreckart/odin) - A git flavored zsh prompt
 - [keith/zsh-xcode-completions](https://github.com/keith/zsh-xcode-completions) - Zsh completion for the Xcode command line tools
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -4929,6 +4930,7 @@
 
 ## Others 
 
+- [BG3-Community-Library-Team/BG3-Community-Library](https://github.com/BG3-Community-Library-Team/BG3-Community-Library) - Baldur's Gate 3 Community Library exists to provide a common collection of Spells, Scripts, Items, Statuses, Passives, and other useful material that will assist modders in creating new content.
 - [fdufnews/SMART-Response-XE-schematics](https://github.com/fdufnews/SMART-Response-XE-schematics) - Schematics of the SMART Response XE terminal
 - [ebastler/zmk-designguide](https://github.com/ebastler/zmk-designguide) - A short hardware-designguide for ZMK keyboards
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
@@ -5480,6 +5482,7 @@
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [slackhq/slack-api-docs](https://github.com/slackhq/slack-api-docs) - API Docs for Slack.com
 - [k-qy/notation](https://github.com/k-qy/notation) - Collection of quotes on notation design & how it affects thought.
 - [duaneking/unburyme](https://github.com/duaneking/unburyme) - Loan Calculator
@@ -5707,7 +5710,7 @@
 ## Perl 
 
 - [perl-carton/carton](https://github.com/perl-carton/carton) - Bundler or pip freeze for Perl
-- [Perl/perl5](https://github.com/Perl/perl5) - 🐫 The Perl programming language
+- [Perl/perl5](https://github.com/Perl/perl5) - 🐪 The Perl programming language
 - [ClickSend/clicksend-perl](https://github.com/ClickSend/clicksend-perl) - ClickSend Perl SDK
 - [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) - Server for the MusicBrainz project (website, API, database tools)
 - [RichiH/myrepos](https://github.com/RichiH/myrepos) - 
@@ -7297,7 +7300,6 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
 - [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and a
@@ -9755,7 +9757,7 @@
 - [MiSTer-devel/ao486_MiSTer](https://github.com/MiSTer-devel/ao486_MiSTer) - ao486 port for MiSTer
 - [jotego/jt12](https://github.com/jotego/jt12) - FM sound source written in Verilog, fully compatible with YM2612, YM3438 (JT12), YM2203 (JT03) and YM2610 (JT10)
 - [alexforencich/verilog-pcie](https://github.com/alexforencich/verilog-pcie) - Verilog PCI express components
-- [chipsalliance/VeeRwolf](https://github.com/chipsalliance/VeeRwolf) - FuseSoC-based SoC for SweRV EH1
+- [chipsalliance/VeeRwolf](https://github.com/chipsalliance/VeeRwolf) - FuseSoC-based SoC for SweRV EH1 and EL2
 - [alexforencich/verilog-ethernet](https://github.com/alexforencich/verilog-ethernet) - Verilog Ethernet components for FPGA implementation
 - [antonblanchard/microwatt](https://github.com/antonblanchard/microwatt) - A tiny Open POWER ISA softcore written in VHDL 2008
 - [alexforencich/verilog-axi](https://github.com/alexforencich/verilog-axi) - Verilog AXI components for FPGA implementation
