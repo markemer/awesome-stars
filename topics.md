@@ -2633,7 +2633,7 @@
 - [caryll/otfcc](https://github.com/caryll/otfcc) - Optimized OpenType builder and inspector.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
-- [googlefonts/fontbakery](https://github.com/googlefonts/fontbakery) - 🧁 A font quality assurance tool for everyone
+- [fonttools/fontbakery](https://github.com/fonttools/fontbakery) - 🧁 A font quality assurance tool for everyone
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [Vaberer/Font-Awesome-Swift](https://github.com/Vaberer/Font-Awesome-Swift) - Font Awesome swift library for iOS.
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
@@ -3051,7 +3051,7 @@
 - [1Password/connect-sdk-go](https://github.com/1Password/connect-sdk-go) - Go SDK for 1Password Connect
 - [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword) - Use the 1Password Connect Terraform Provider to reference, create, or update items in your 1Password Vaults.
 - [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) - Hashicorp Vault plugin integrates with 1Password Connect to allow for the retrieval, creation, and deletion of items stored in 1Password.
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed to DarwinKit!
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
 - [scalarhq/go-fluent-ffmpeg](https://github.com/scalarhq/go-fluent-ffmpeg) - A Go implementation of fluent-ffmpeg
 - [icexin/eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -3247,7 +3247,7 @@
 - [nathanborror/logger](https://github.com/nathanborror/logger) - Logger lets you quickly send messages to yourself as a means of fast note taking.
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed to DarwinKit!
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [skx/github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for 'myrepos' to work with.
 - [icexin/eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
@@ -3524,7 +3524,7 @@
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [horsicq/XMachOViewer](https://github.com/horsicq/XMachOViewer) - XMachOViewer is a Mach-O viewer for Windows, Linux and MacOS
 - [Foso/Ktorfit](https://github.com/Foso/Ktorfit) - HTTP client generator / KSP plugin for Kotlin Multiplatform (Android, iOS, Js, Jvm, Native) using KSP and Ktor clients inspired by Retrofit https://foso.github.io/Ktorfit
-- [Perl/perl5](https://github.com/Perl/perl5) - 🐫 The Perl programming language
+- [Perl/perl5](https://github.com/Perl/perl5) - 🐪 The Perl programming language
 - [horsicq/PDBRipper](https://github.com/horsicq/PDBRipper) - PDBRipper is a utility for extract an information from PDB-files.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
@@ -3737,7 +3737,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [rakudo/rakudo](https://github.com/rakudo/rakudo) - 🦋 Rakudo – Raku on MoarVM, JVM, and JS
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
-- [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A repository of global open address data.
+- [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A global repository of open address data.
 - [JuliaGPU/GPUArrays.jl](https://github.com/JuliaGPU/GPUArrays.jl) - Reusable array functionality for Julia's various GPU backends.
 - [MessageKit/MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
@@ -4051,6 +4051,8 @@
 
 ## ios 
 
+- [jwd-ali/Switch-Animations](https://github.com/jwd-ali/Switch-Animations) - An animate switch collection, Add Beautiful Customise Switch in your application to boost UI and UX
+- [exPHAT/SwiftWhisper](https://github.com/exPHAT/SwiftWhisper) - 🎤 The easiest way to transcribe audio in Swift
 - [instacart/Nantes](https://github.com/instacart/Nantes) - Swift TTTAttributedLabel replacement
 - [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS & macOS in Swift. Native SwiftUI & UIKit views.
 - [LeoNatan/LNViewHierarchyDumper](https://github.com/LeoNatan/LNViewHierarchyDumper) - Dump your view hierarchies programmatically to Xcode 12 and above compatible view hierarchy file archives.
@@ -4165,7 +4167,7 @@
 - [TokyoYoshida/ExampleOfiOSLiDAR](https://github.com/TokyoYoshida/ExampleOfiOSLiDAR) - Example Of iOS ARKit LiDAR
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
 - [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - A lightweight and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed to DarwinKit!
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
 - [SwiftyBeaver/SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient & secure logging during development & release in Swift 4 & 5
 - [hbang/Alderis](https://github.com/hbang/Alderis) - A fresh new color picker, with a gentle, fun, and dead simple user interface.
 - [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
@@ -4557,7 +4559,7 @@
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 - [jverkoey/nimbus](https://github.com/jverkoey/nimbus) - The iOS framework that grows only as fast as its documentation
 - [apache/cordova-ios](https://github.com/apache/cordova-ios) - Apache Cordova iOS
-- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS
 - [fphilipe/PHFComposeBarView](https://github.com/fphilipe/PHFComposeBarView) - Compose bar from iOS 7 Messages.app
 - [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager.
 - [kylebrowning/waterwheel.swift](https://github.com/kylebrowning/waterwheel.swift) - The Waterwheel Swift SDK provides classes to natively connect iOS, macOS, tvOS, and watchOS applications to Drupal 7 and 8.
@@ -4855,7 +4857,7 @@
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 - [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
-- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [travis-ci/travis-web](https://github.com/travis-ci/travis-web) - The Ember web client for Travis CI
 - [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption.
@@ -5147,7 +5149,7 @@
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
-- [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
+- [eclipse/che](https://github.com/eclipse/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [weaveworks/weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host containers networking and more.
@@ -5559,7 +5561,7 @@
 - [lyndsey-ferguson/fastlane-plugin-test_center](https://github.com/lyndsey-ferguson/fastlane-plugin-test_center) - 🎯 The best fastlane plugin to understand and tame misbehaving iOS tests 🎉
 - [macmade/DSStoreView](https://github.com/macmade/DSStoreView) - .DS_Store file parser/viewer.
 - [macmade/IOBrowser](https://github.com/macmade/IOBrowser) - A macOS application for browsing the IOKit registry.
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed to DarwinKit!
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [savagezen/dnd-tools](https://github.com/savagezen/dnd-tools) - ARCHIVE - MOVED TO GITLAB | Interactive CLI tools for Dungeons and Dragons 5e
 - [soyersoyer/SwCrypt](https://github.com/soyersoyer/SwCrypt) - RSA public/private key generation, RSA, AES encryption/decryption, RSA sign/verify in Swift with CommonCrypto in iOS and OS X
@@ -5690,6 +5692,7 @@
 
 ## macos 
 
+- [exPHAT/SwiftWhisper](https://github.com/exPHAT/SwiftWhisper) - 🎤 The easiest way to transcribe audio in Swift
 - [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS & macOS in Swift. Native SwiftUI & UIKit views.
 - [LeoNatan/LNViewHierarchyDumper](https://github.com/LeoNatan/LNViewHierarchyDumper) - Dump your view hierarchies programmatically to Xcode 12 and above compatible view hierarchy file archives.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
@@ -5795,7 +5798,7 @@
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [LucianoPAlmeida/variable-injector](https://github.com/LucianoPAlmeida/variable-injector) - Continuous Integration Tool for Swift Projects
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed to DarwinKit!
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [SwiftyBeaver/SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient & secure logging during development & release in Swift 4 & 5
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.7+) and Qt 5 (5.10+) for cro
@@ -6051,7 +6054,7 @@
 - [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous image downloader with cache support as a UIImageView category
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
-- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
@@ -6509,7 +6512,7 @@
 - [audulus/vger](https://github.com/audulus/vger) - 2D GPU renderer for dynamic UIs
 - [IconJar/IJSVG](https://github.com/IconJar/IJSVG) - MacOS SVG rendering and exporting library
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed to DarwinKit!
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
 - [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) - The official Sentry SDK for iOS, tvOS, macOS, watchOS.
 - [tuist/tuist](https://github.com/tuist/tuist) - 🚀 Create, maintain, and interact with Xcode projects at scale
 - [mhdhejazi/Dynamic](https://github.com/mhdhejazi/Dynamic) - Call hidden/private API in style! The Swift way.
@@ -6602,7 +6605,7 @@
 - [jverkoey/nimbus](https://github.com/jverkoey/nimbus) - The iOS framework that grows only as fast as its documentation
 - [apache/cordova-ios](https://github.com/apache/cordova-ios) - Apache Cordova iOS
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
-- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS
 - [apache/cordova-weinre](https://github.com/apache/cordova-weinre) - Mirror of Apache Weinre
 - [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager.
 - [kharrison/CodeExamples](https://github.com/kharrison/CodeExamples) - Code Examples
@@ -6747,6 +6750,8 @@
 
 ## others 
 
+- [BG3-Community-Library-Team/BG3-Community-Library](https://github.com/BG3-Community-Library-Team/BG3-Community-Library) - Baldur's Gate 3 Community Library exists to provide a common collection of Spells, Scripts, Items, Statuses, Passives, and other useful material that will assist modders in creating new content.
+- [ShinyHobo/BG3-Modders-Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool) - Utility for quickly generating Baldur's Gate 3 mod packs from an unpacked workspace (among other things).
 - [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial) - 
 - [jerrymarino/xcbuildkit](https://github.com/jerrymarino/xcbuildkit) - xcbuildkit is a framework to extend or replace Xcode's build system
 - [cc65/cc65](https://github.com/cc65/cc65) - cc65 - a freeware C compiler for 6502 based systems
@@ -7421,7 +7426,7 @@
 - [sctplab/usrsctp](https://github.com/sctplab/usrsctp) - A portable SCTP userland stack
 - [JohnSundell/AsyncCompatibilityKit](https://github.com/JohnSundell/AsyncCompatibilityKit) - iOS 13-compatible backports of commonly used async/await-based system APIs that are only available from iOS 15 by default.
 - [astrelsky/GhidraOrbis](https://github.com/astrelsky/GhidraOrbis) - Ghidra support for Orbis OS specific software and file formats
-- [clockworkpi/DevTerm](https://github.com/clockworkpi/DevTerm) - This repository offers downloads for the latest images of various DevTerm models, as well as kernel patches, keyboard firmware, the source code for screen and printer drivers, hardware schematics, ass
+- [clockworkpi/DevTerm](https://github.com/clockworkpi/DevTerm) - This code repository offers downloads for the latest images of various DevTerm models, as well as kernel patches, keyboard firmware, the source code for screen and printer drivers, hardware schematics
 - [tihmstar/img4tool](https://github.com/tihmstar/img4tool) - A tool for manipulating IMG4, IM4M and IM4P files
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
@@ -7551,7 +7556,7 @@
 - [EFForg/apkeep](https://github.com/EFForg/apkeep) - 
 - [Digilent/Genesys-ZU](https://github.com/Digilent/Genesys-ZU) - 
 - [flutter/devtools](https://github.com/flutter/devtools) - Performance tools for Flutter
-- [awslabs/smithy-swift](https://github.com/awslabs/smithy-swift) - 
+- [smithy-lang/smithy-swift](https://github.com/smithy-lang/smithy-swift) - 
 - [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [octokit/auth-oauth-app.js](https://github.com/octokit/auth-oauth-app.js) - GitHub OAuth App authentication for JavaScript
@@ -8682,7 +8687,7 @@
 - [usbarmory/mxs-dcp](https://github.com/usbarmory/mxs-dcp) - NXP Data Co-Processor (DCP) - Linux driver
 - [usbarmory/armoryctl](https://github.com/usbarmory/armoryctl) - USB armory - hardware control tool
 - [chipsalliance/omnixtend](https://github.com/chipsalliance/omnixtend) - OmniXtend cache coherence protocol
-- [chipsalliance/VeeRwolf](https://github.com/chipsalliance/VeeRwolf) - FuseSoC-based SoC for SweRV EH1
+- [chipsalliance/VeeRwolf](https://github.com/chipsalliance/VeeRwolf) - FuseSoC-based SoC for SweRV EH1 and EL2
 - [chipsalliance/Cores-VeeR-EH1](https://github.com/chipsalliance/Cores-VeeR-EH1) - VeeR EH1 core
 - [NSHipster/xcderiveddata](https://github.com/NSHipster/xcderiveddata) - A command-line utility that prints the path of the derived data directory for the current Xcode project
 - [scaleway/natasha](https://github.com/scaleway/natasha) - Natasha is a fast and scalable, DPDK powered, stateless NAT44 packet processor
@@ -12213,7 +12218,7 @@
 
 ## perl 
 
-- [Perl/perl5](https://github.com/Perl/perl5) - 🐫 The Perl programming language
+- [Perl/perl5](https://github.com/Perl/perl5) - 🐪 The Perl programming language
 - [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) - Server for the MusicBrainz project (website, API, database tools)
 - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
 - [haukex/webperl](https://github.com/haukex/webperl) - Run Perl in the browser with WebPerl!
@@ -13849,6 +13854,8 @@
 
 ## swift 
 
+- [jwd-ali/Switch-Animations](https://github.com/jwd-ali/Switch-Animations) - An animate switch collection, Add Beautiful Customise Switch in your application to boost UI and UX
+- [exPHAT/SwiftWhisper](https://github.com/exPHAT/SwiftWhisper) - 🎤 The easiest way to transcribe audio in Swift
 - [fwcd/swift-dns-service-discovery](https://github.com/fwcd/swift-dns-service-discovery) - DNS-SD (Bonjour/Zeroconf/Avahi) implementation of the Swift Service Discovery API
 - [instacart/Nantes](https://github.com/instacart/Nantes) - Swift TTTAttributedLabel replacement
 - [Matejkob/swift-spyable](https://github.com/Matejkob/swift-spyable) - Swift macro that simplifies and automates the process of creating spies for testing
@@ -14638,13 +14645,14 @@
 - [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous image downloader with cache support as a UIImageView category
 - [nicktoumpelis/HiBeacons](https://github.com/nicktoumpelis/HiBeacons) - An iBeacons example app for iOS 10, with Apple Watch (watchOS 3.0) support, written in Swift 3.
 - [mattt/TransformerKit](https://github.com/mattt/TransformerKit) - A block-based API for NSValueTransformer, with a growing collection of useful examples.
-- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS
 - [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager.
 - [kharrison/CodeExamples](https://github.com/kharrison/CodeExamples) - Code Examples
 - [kylebrowning/waterwheel.swift](https://github.com/kylebrowning/waterwheel.swift) - The Waterwheel Swift SDK provides classes to natively connect iOS, macOS, tvOS, and watchOS applications to Drupal 7 and 8.
 
 ## swiftui 
 
+- [jwd-ali/Switch-Animations](https://github.com/jwd-ali/Switch-Animations) - An animate switch collection, Add Beautiful Customise Switch in your application to boost UI and UX
 - [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS & macOS in Swift. Native SwiftUI & UIKit views.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [krzyzanowskim/STTextView](https://github.com/krzyzanowskim/STTextView) - Performant and reusable macOS text view component (TextKit2), with line numbers and more. NSTextView replacement.
@@ -15353,7 +15361,7 @@
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
-- [vinkla/extended-acf](https://github.com/vinkla/extended-acf) - Register advanced custom fields with object oriented PHP
+- [vinkla/extended-acf](https://github.com/vinkla/extended-acf) - Register advanced custom fields with object-oriented PHP
 - [outlandishideas/wpackagist](https://github.com/outlandishideas/wpackagist) - WordPress Packagist — manage your plugins with Composer
 - [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
