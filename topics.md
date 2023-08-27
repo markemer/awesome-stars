@@ -308,7 +308,7 @@
 - [ra1028/DifferenceKit](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework for Swift collection.
 - [onekiloparsec/SwiftAA](https://github.com/onekiloparsec/SwiftAA) - The most comprehensive collection of accurate astronomical algorithms in (C++, Objective-C and) Swift.
 - [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
-- [life4/textdistance](https://github.com/life4/textdistance) - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
+- [life4/textdistance](https://github.com/life4/textdistance) - 📐 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [infinit/elle](https://github.com/infinit/elle) - The Elle coroutine-based asynchronous C++ development framework.
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
 - [mapbox/delaunator](https://github.com/mapbox/delaunator) - An incredibly fast JavaScript library for Delaunay triangulation of 2D points
@@ -1168,7 +1168,6 @@
 - [Xilinx/SDAccel_Examples](https://github.com/Xilinx/SDAccel_Examples) - SDAccel Examples
 - [Xilinx/qemu](https://github.com/Xilinx/qemu) - Xilinx's fork of Quick EMUlator (QEMU) with improved support and modelling for the Xilinx platforms.
 - [tleonhardt/practical_cryptography_engineering](https://github.com/tleonhardt/practical_cryptography_engineering) - Cryptography code examples using libsodium and mbedtls C libraries and Python cryptography and PyNaCl modules
-- [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [ruby/openssl](https://github.com/ruby/openssl) - Provides SSL, TLS and general purpose cryptography.
@@ -2619,6 +2618,7 @@
 
 ## font 
 
+- [dy/wavefont](https://github.com/dy/wavefont) - Typeface for rendering waveform/data
 - [loregr/LGButton](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 - [ayoy/fontedit](https://github.com/ayoy/fontedit) - A desktop app to import, edit and export fonts as byte arrays for use in embedded systems
 - [spacerace/romfont](https://github.com/spacerace/romfont) - VGA and BIOS rom font extraction
@@ -3078,7 +3078,7 @@
 - [secrethub/secrethub-go](https://github.com/secrethub/secrethub-go) - Golang SDK for the SecretHub Secrets Management API
 - [secrethub/secrethub-cli](https://github.com/secrethub/secrethub-cli) - A secrets management platform that every engineer can use with minimal code changes.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [roboncode/shorty-go](https://github.com/roboncode/shorty-go) - Microservice that shortens urls like bit.ly written in Go
 - [gographics/imagick](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API
 - [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
@@ -3493,6 +3493,7 @@
 
 ## hacktoberfest 
 
+- [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization.
 - [Automattic/jetpack](https://github.com/Automattic/jetpack) - Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
 - [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine
 - [Roll20/roll20-api-scripts](https://github.com/Roll20/roll20-api-scripts) - API Scripts created by the community for use in Roll20 VTT. Submit a ticket at roll20.net/help if critical hotfixes are to be requested.
@@ -5329,6 +5330,7 @@
 
 ## linux 
 
+- [Kobo-InkBox/inkbox](https://github.com/Kobo-InkBox/inkbox) - An open-source, Qt-based eBook reader for Kobos (and other devices).
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [open-sdr/openwifi-hw](https://github.com/open-sdr/openwifi-hw) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: FPGA, hardware
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
@@ -5530,7 +5532,7 @@
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
 - [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) - 💡 A homebrew save management, editing tool and memory trainer for Horizon (Nintendo Switch)
 - [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - Lua based interactive firmware for ESP8266, ESP8285 and ESP32
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [luadns/dns](https://github.com/luadns/dns) - Template Repository for getting started with LuaDNS.
 - [inters/vita](https://github.com/inters/vita) - Vita: simple and fast VPN gateway
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
@@ -6289,7 +6291,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [Kitura/SwiftKueryMySQL](https://github.com/Kitura/SwiftKueryMySQL) - MySQL plugin for Swift-Kuery framework
 - [petrk94/ownhealthrecord](https://github.com/petrk94/ownhealthrecord) - This repository is about the OwnHealthRecord Application Web App
 - [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
@@ -6502,7 +6504,7 @@
 
 ## objective-c 
 
-- [googlemaps/maps-sdk-for-ios-samples](https://github.com/googlemaps/maps-sdk-for-ios-samples) - Samples for the Google Maps and Places SDKs for iOS
+- [googlemaps-samples/maps-sdk-for-ios-samples](https://github.com/googlemaps-samples/maps-sdk-for-ios-samples) - Samples for the Google Maps and Places SDKs for iOS
 - [googlemaps/google-maps-ios-utils](https://github.com/googlemaps/google-maps-ios-utils) - Google Maps SDK for iOS Utility Library
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [efremidze/Animoji](https://github.com/efremidze/Animoji) - Animoji Generator 🦊
@@ -6713,7 +6715,7 @@
 
 ## operating-system 
 
-- [hermitcore/rusty-hermit](https://github.com/hermitcore/rusty-hermit) - RustyHermit - A Rust-based, lightweight unikernel
+- [hermitcore/hermit-rs](https://github.com/hermitcore/hermit-rs) - Hermit for Rust.
 - [MaxDesiatov/Hleeb](https://github.com/MaxDesiatov/Hleeb) - Swift running on bare metal Raspberry Pi
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
 - [RWTH-OS/eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - A teaching operating system written in Rust
@@ -6731,7 +6733,7 @@
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [haiku/haiku](https://github.com/haiku/haiku) - The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
-- [hermitcore/libhermit-rs](https://github.com/hermitcore/libhermit-rs) - libhermit-rs: A Rust-based library operating system
+- [hermitcore/kernel](https://github.com/hermitcore/kernel) - A Rust-based, lightweight unikernel.
 - [xboot/xboot](https://github.com/xboot/xboot) - The extensible bootloader for embedded system with application engine, write once, run everywhere.
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux Build Framework
 - [MutexUnlocked/exoberry](https://github.com/MutexUnlocked/exoberry) - An exokernel for the raspberry pi 3.
@@ -6750,6 +6752,7 @@
 
 ## others 
 
+- [dy/linefont](https://github.com/dy/linefont) - Font for rendering line chart data
 - [BG3-Community-Library-Team/BG3-Community-Library](https://github.com/BG3-Community-Library-Team/BG3-Community-Library) - Baldur's Gate 3 Community Library exists to provide a common collection of Spells, Scripts, Items, Statuses, Passives, and other useful material that will assist modders in creating new content.
 - [ShinyHobo/BG3-Modders-Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool) - Utility for quickly generating Baldur's Gate 3 mod packs from an unpacked workspace (among other things).
 - [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial) - 
@@ -12307,7 +12310,7 @@
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [vapor/postgres-nio](https://github.com/vapor/postgres-nio) - 🐘 Non-blocking, event-driven Swift client for PostgreSQL.
 - [akarki15/dbdot](https://github.com/akarki15/dbdot) - Generate DOT description for postgres db schema
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [Kitura/Swift-Kuery-PostgreSQL](https://github.com/Kitura/Swift-Kuery-PostgreSQL) - PostgreSQL plugin for Swift-Kuery framework
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
@@ -12575,7 +12578,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [dcos/dcos](https://github.com/dcos/dcos) - DC/OS - The Datacenter Operating System
-- [life4/textdistance](https://github.com/life4/textdistance) - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
+- [life4/textdistance](https://github.com/life4/textdistance) - 📐 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [NifTK/NiftyNet](https://github.com/NifTK/NiftyNet) - [unmaintained] An open-source convolutional neural networks platform for research in medical image analysis and image-guided therapy
 - [henripal/labnotebook](https://github.com/henripal/labnotebook) - LabNotebook is a tool that allows you to flexibly monitor, record, save, and query all your machine learning experiments.
@@ -13261,7 +13264,7 @@
 - [woodruffw/kbs2](https://github.com/woodruffw/kbs2) - A secret manager backed by age
 - [drifting-in-space/aper](https://github.com/drifting-in-space/aper) - A Rust data structure library built on state machines.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-- [hermitcore/rusty-hermit](https://github.com/hermitcore/rusty-hermit) - RustyHermit - A Rust-based, lightweight unikernel
+- [hermitcore/hermit-rs](https://github.com/hermitcore/hermit-rs) - Hermit for Rust.
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -13390,7 +13393,7 @@
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [m-labs/artiq](https://github.com/m-labs/artiq) - A leading-edge control system for quantum information experiments
 - [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
-- [hermitcore/libhermit-rs](https://github.com/hermitcore/libhermit-rs) - libhermit-rs: A Rust-based library operating system
+- [hermitcore/kernel](https://github.com/hermitcore/kernel) - A Rust-based, lightweight unikernel.
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
@@ -13876,7 +13879,7 @@
 - [Ekhoo/Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 - [swift-server/swiftly](https://github.com/swift-server/swiftly) - A Swift toolchain installer and manager, written in Swift.
 - [heestand-xyz/AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) - Edit images and video with async / await in Swift, powered by Metal.
-- [googlemaps/maps-sdk-for-ios-samples](https://github.com/googlemaps/maps-sdk-for-ios-samples) - Samples for the Google Maps and Places SDKs for iOS
+- [googlemaps-samples/maps-sdk-for-ios-samples](https://github.com/googlemaps-samples/maps-sdk-for-ios-samples) - Samples for the Google Maps and Places SDKs for iOS
 - [jessesquires/Foil](https://github.com/jessesquires/Foil) - A lightweight property wrapper for UserDefaults done right
 - [apple/swift-certificates](https://github.com/apple/swift-certificates) - An implementation of X.509 for Swift
 - [apple/swift-asn1](https://github.com/apple/swift-asn1) - An implementation of ASN.1 for Swift
