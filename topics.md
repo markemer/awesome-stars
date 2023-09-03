@@ -539,7 +539,7 @@
 - [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 - [facebookarchive/caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 - [alexa-pi/AlexaPi](https://github.com/alexa-pi/AlexaPi) - Alexa client for all your devices! # No active development. PRs welcome # consider https://github.com/respeaker/avs instead
-- [numenta/nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
+- [numenta/nupic-legacy](https://github.com/numenta/nupic-legacy) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [luckytoilet/MSolver](https://github.com/luckytoilet/MSolver) - A small, self-contained minesweeper solver written in Java
 
 ## atom 
@@ -1034,7 +1034,7 @@
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
-- [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+- [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -2305,6 +2305,7 @@
 - [sleede/fab-manager](https://github.com/sleede/fab-manager) - Fab-Manager is the FabLab management solution.  It provides a comprehensive, web-based, open-source tool to simplify your administrative tasks and your marker's projects.
 - [openbmc/docs](https://github.com/openbmc/docs) - OpenBMC Documentation
 - [tefkah/emacs-docs](https://github.com/tefkah/emacs-docs) - The documentation website Emacs deserves
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [dduan/DrString](https://github.com/dduan/DrString) - DrString finds issues in your Swift docstrings and fixes them for you.
 - [Doctave/doctave](https://github.com/Doctave/doctave) - A batteries-included developer documentation site generator
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -5384,7 +5385,7 @@
 - [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the 
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.7+) and Qt 5 (5.10+) for cro
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.10+) for cro
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) - An open Apple Wireless Direct Link (AWDL) implementation written in C
 - [savagezen/dnd-tools](https://github.com/savagezen/dnd-tools) - ARCHIVE - MOVED TO GITLAB | Interactive CLI tools for Dungeons and Dragons 5e
@@ -5812,7 +5813,7 @@
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [SwiftyBeaver/SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient & secure logging during development & release in Swift 4 & 5
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.7+) and Qt 5 (5.10+) for cro
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.10+) for cro
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [CoreOffice/CoreXLSX](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format parser written in pure Swift
 - [billp/TermiNetwork](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
@@ -6089,9 +6090,11 @@
 - [qeude/SwiftDown](https://github.com/qeude/SwiftDown) - 📦 A themable markdown editor component for your SwiftUI apps.
 - [Witiko/markdown](https://github.com/Witiko/markdown) - :notebook_with_decorative_cover: A package for converting and rendering markdown documents in TeX
 - [tfc/pandoc-drawio-filter](https://github.com/tfc/pandoc-drawio-filter) - Embedd drawio images into markdown files for direct processing in pandoc
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [jez/pandoc-sidenote](https://github.com/jez/pandoc-sidenote) - Convert Pandoc Markdown-style footnotes into sidenotes
 - [davidar/pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI
@@ -7165,7 +7168,7 @@
 - [myriadrf/LimeSuite](https://github.com/myriadrf/LimeSuite) - Driver and GUI for LMS7002M-based SDR platforms
 - [mralexhay/Booky](https://github.com/mralexhay/Booky) - A demo app exploring the new App Intents framework in iOS16.
 - [azonenberg/starshipraider](https://github.com/azonenberg/starshipraider) - Open hardware test equipment
-- [siteline/SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit/AppKit components from SwiftUI
+- [siteline/swiftui-introspect](https://github.com/siteline/swiftui-introspect) - Introspect underlying UIKit/AppKit components from SwiftUI
 - [CreativeInquiry/MH871-Plotter](https://github.com/CreativeInquiry/MH871-Plotter) - 
 - [danzeeeman/ofxMH871](https://github.com/danzeeeman/ofxMH871) - WIP openFrameworks addon to drive the US Cutter MH871 MKII and similar HPGL serial plotters
 - [openglonmetal/MGL](https://github.com/openglonmetal/MGL) - OpenGL 4.6 on Metal
@@ -7438,7 +7441,7 @@
 - [b3ll/Motion](https://github.com/b3ll/Motion) - Animation engine for gesturally-driven user interfaces, animations, and interactions on iOS, macOS, and tvOS.
 - [tpwrules/nixos-pinenote](https://github.com/tpwrules/nixos-pinenote) - Attempts to get NixOS up on the PINE64 PineNote.
 - [Gravelbones/GhidraDosToolbox](https://github.com/Gravelbones/GhidraDosToolbox) - A toolbox for analyzing DOS (Real Mode) programs with Ghidra
-- [chrisd1100/libmatoya](https://github.com/chrisd1100/libmatoya) - Cross-platform application development.
+- [snowcone-ltd/libmatoya](https://github.com/snowcone-ltd/libmatoya) - Cross-platform application development.
 - [tuist/awesome-tuist](https://github.com/tuist/awesome-tuist) - A community-driven collection of Tuist related posts, plugins, talks, and much more.
 - [iKenndac/xcode-streamdeck-plugin](https://github.com/iKenndac/xcode-streamdeck-plugin) - A Stream Deck plugin for Xcode.
 - [CuriousMotor/Onyx-Stepper-Motherboard](https://github.com/CuriousMotor/Onyx-Stepper-Motherboard) - The successor of the iconic Arduino-CNC-shield
@@ -7535,7 +7538,6 @@
 - [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
 - [Ivaneres/BlenderSatAI](https://github.com/Ivaneres/BlenderSatAI) - Blender addon to generate better building models from satellite imagery.
 - [d00mfish/NFC-Spotify-Player](https://github.com/d00mfish/NFC-Spotify-Player) - 
-- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [Walkman100/OpenRA-Install-Guide](https://github.com/Walkman100/OpenRA-Install-Guide) - A complete installation guide including the music missing from the OpenRA Dune 2000 mod
 - [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust
 - [maxogden/xml-json](https://github.com/maxogden/xml-json) - convert xml to json on the command line. not streaming, pure javascript
@@ -8968,7 +8970,7 @@
 - [gabriel/MPMessagePack](https://github.com/gabriel/MPMessagePack) - MessagePack implementation for Objective-C / msgpack.org[Objective-C]
 - [jmwright/cadquery-freecad-module](https://github.com/jmwright/cadquery-freecad-module) - A module-workbench combo that adds a CadQuery editor to FreeCAD
 - [boltsparts/boltsfc](https://github.com/boltsparts/boltsfc) - installable FreeCAD package of BOLTS
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [gamozolabs/orange_slice](https://github.com/gamozolabs/orange_slice) - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) - Metrics API for Swift
 - [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - AMD ROCm™ Platform - GitHub Home
@@ -9891,7 +9893,7 @@
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [coderhs/ruby_open_weather_map](https://github.com/coderhs/ruby_open_weather_map) - A ruby wrapper for open weather map
 - [topfunky/gruff](https://github.com/topfunky/gruff) - Gruff graphing library for Ruby
-- [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module
+- [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, TypeScript module, and more!
 - [xtina-starr/pull-lock](https://github.com/xtina-starr/pull-lock) - 
 - [OAuthSwift/OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS
 - [dreymonde/Shallows](https://github.com/dreymonde/Shallows) - 🛶 Your lightweight persistence toolbox
@@ -12479,7 +12481,7 @@
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [damienBloch/inkscape-raytracing](https://github.com/damienBloch/inkscape-raytracing) - An extension for Inkscape that makes it easier to draw optical diagrams.
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.7+) and Qt 5 (5.10+) for cro
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.10+) for cro
 - [adafruit/circuitpython](https://github.com/adafruit/circuitpython) - CircuitPython - a Python implementation for teaching coding with microcontrollers
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [inducer/meshpy](https://github.com/inducer/meshpy) - 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
@@ -13155,6 +13157,7 @@
 - [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 - [mbj/unparser](https://github.com/mbj/unparser) - Turn Ruby AST into semantically equivalent Ruby source
 - [primer/view_components](https://github.com/primer/view_components) - ViewComponents for the Primer Design System
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [tenderlove/fisk](https://github.com/tenderlove/fisk) - A pure Ruby assembler
 - [htdebeer/paru](https://github.com/htdebeer/paru) - Control pandoc with Ruby and write pandoc filters in Ruby
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
@@ -15318,7 +15321,7 @@
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.7+) and Qt 5 (5.10+) for cro
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.10+) for cro
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
