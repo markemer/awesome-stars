@@ -401,7 +401,7 @@
 - [nokia/awkcc](https://github.com/nokia/awkcc) - 
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [Gravelbones/GhidraDosToolbox](https://github.com/Gravelbones/GhidraDosToolbox) - A toolbox for analyzing DOS (Real Mode) programs with Ghidra
-- [chrisd1100/libmatoya](https://github.com/chrisd1100/libmatoya) - Cross-platform application development.
+- [snowcone-ltd/libmatoya](https://github.com/snowcone-ltd/libmatoya) - Cross-platform application development.
 - [DorianRudolph/pinenotes](https://github.com/DorianRudolph/pinenotes) - Notes about PineNote development
 - [KhronosGroup/OpenVG-Docs](https://github.com/KhronosGroup/OpenVG-Docs) - OpenVG Specification source
 - [khadas/fenix](https://github.com/khadas/fenix) - One-stop script set to build Ubuntu/Debian images
@@ -1238,6 +1238,7 @@
 - [jkriege2/JKQtPlotter](https://github.com/jkriege2/JKQtPlotter) - an extensive Qt5 & Qt6 Plotter framework (including a feature-richt plotter widget, a speed-optimized, but limited variant and a LaTeX equation renderer!), written fully in C/C++ and without external 
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 - [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
+- [chipsalliance/systemverilog-plugin](https://github.com/chipsalliance/systemverilog-plugin) - SystemVerilog support for Yosys
 - [coin3d/coin](https://github.com/coin3d/coin) - Coin3D core library
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [jaroslov/knuth-plass-thoughts](https://github.com/jaroslov/knuth-plass-thoughts) - Description and implementation of the core Knuth-Plass line-wrapping algorithm.
@@ -5242,7 +5243,7 @@
 - [GitbookIO/example](https://github.com/GitbookIO/example) - Simple GitBook example
 - [marqs85/ossc_pcb](https://github.com/marqs85/ossc_pcb) - ossc pcb design files
 - [swiftwasm/swift](https://github.com/swiftwasm/swift) - WebAssembly support for the Swift programming language
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [sgayou/subaru-starlink-research](https://github.com/sgayou/subaru-starlink-research) - Subaru StarLink persistent root code execution.
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [Hexorg/CheatEngineTables](https://github.com/Hexorg/CheatEngineTables) - Repository of tables for CheatEngine
@@ -5825,7 +5826,6 @@
 - [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of X/Twitter v1, v2, and GraphQL APIs
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
-- [chipsalliance/systemverilog-plugin](https://github.com/chipsalliance/systemverilog-plugin) - SystemVerilog support for Yosys
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
@@ -5975,7 +5975,7 @@
 - [jbms/finance-dl](https://github.com/jbms/finance-dl) - Tools for automatically downloading/scraping personal financial data.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [damienBloch/inkscape-raytracing](https://github.com/damienBloch/inkscape-raytracing) - An extension for Inkscape that makes it easier to draw optical diagrams.
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.7+) and Qt 5 (5.10+) for cro
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.10+) for cro
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [t8012/ipwndfu](https://github.com/t8012/ipwndfu) - The T2 fork of the checkm8 bug
@@ -6641,7 +6641,7 @@
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [wmcbrine/hmeforpython](https://github.com/wmcbrine/hmeforpython) - An implementation of TiVo's HME (Home Media Extensions) protocol for Python.
 - [fusepy/fusepy](https://github.com/fusepy/fusepy) - Simple ctypes bindings for FUSE
-- [numenta/nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
+- [numenta/nupic-legacy](https://github.com/numenta/nupic-legacy) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [OpenEndedGroup/Field](https://github.com/OpenEndedGroup/Field) - A development environment for art
 - [twilio/authy-python](https://github.com/twilio/authy-python) - Authy API Client for Python
 - [devsnd/cherrymusic](https://github.com/devsnd/cherrymusic) - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server.
@@ -7743,7 +7743,7 @@
 - [github/platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
-- [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+- [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [joshua/dotfiles](https://github.com/joshua/dotfiles) - conceitedly assertive and dogmatic dotfiles
 - [ridvank/UIImageViewWithWords](https://github.com/ridvank/UIImageViewWithWords) - Create UIImageView with words in Swift
@@ -7954,7 +7954,7 @@
 - [sberrevoets/SDCAlertView](https://github.com/sberrevoets/SDCAlertView) - The little alert that could
 - [mralexhay/Booky](https://github.com/mralexhay/Booky) - A demo app exploring the new App Intents framework in iOS16.
 - [theblixguy/DynamicIslandUtilities](https://github.com/theblixguy/DynamicIslandUtilities) - A collection of utilities that provides functionality around the Dynamic Island on the iPhone 14 Pro/Max.
-- [siteline/SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit/AppKit components from SwiftUI
+- [siteline/swiftui-introspect](https://github.com/siteline/swiftui-introspect) - Introspect underlying UIKit/AppKit components from SwiftUI
 - [fredyshox/PageView](https://github.com/fredyshox/PageView) - SwiftUI view enabling navigation between pages of content, imitating the behaviour of UIPageViewController for iOS and watchOS
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 - [joshdholtz/DeckUI](https://github.com/joshdholtz/DeckUI) - Swift DSL for writing slide decks in Xcode
@@ -9637,7 +9637,7 @@
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
-- [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module
+- [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, TypeScript module, and more!
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [ilcato/homebridge-ifttt](https://github.com/ilcato/homebridge-ifttt) - Homebridge plugin for IFTTT Maker channel
