@@ -1469,6 +1469,7 @@
 
 ## code 
 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [macmade/xasm65](https://github.com/macmade/xasm65) - A MOS 6502 assembler/disassembler written in Swift.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [FlineDev/BartyCrouch](https://github.com/FlineDev/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
@@ -1633,7 +1634,7 @@
 - [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
 - [heitzmann/gdstk](https://github.com/heitzmann/gdstk) - Gdstk (GDSII Tool Kit) is a C++/Python library for creation and manipulation of GDSII and OASIS files.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
-- [simdutf/simdutf](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. Part of Node.js.
+- [simdutf/simdutf](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. Part of Node.js and Bun.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -1944,7 +1945,7 @@
 - [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
 - [chjj/liburkel](https://github.com/chjj/liburkel) - Authenticated key-value store (i.e. an urkel tree)
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [urban-health-labs/CombineFirebase](https://github.com/urban-health-labs/CombineFirebase) - Combine wrapper on Google's iOS Firebase library.
@@ -2053,7 +2054,6 @@
 - [xmartlabs/Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
 - [DwangoMediaVillage/keras_compressor](https://github.com/DwangoMediaVillage/keras_compressor) - Model Compression CLI Tool for Keras.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
-- [oracle/skater](https://github.com/oracle/skater) - Python Library for Model Interpretation/Explanations
 - [hollance/Forge](https://github.com/hollance/Forge) - A neural network toolkit for Metal
 - [ScottfreeLLC/AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning [AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost
 - [facebookarchive/caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
@@ -3158,6 +3158,7 @@
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
+- [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go library for reading and writing XLSX files.
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [keybase/kbfs](https://github.com/keybase/kbfs) - Keybase Filesystem (KBFS)
@@ -4701,6 +4702,7 @@
 
 ## javascript 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [ProjectMirador/mirador](https://github.com/ProjectMirador/mirador) - An open-source, web-based 'multi-up' viewer that supports zoom-pan-rotate functionality, ability to display/compare simple images, and images with annotations.
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions
@@ -5692,7 +5694,6 @@
 - [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [DwangoMediaVillage/keras_compressor](https://github.com/DwangoMediaVillage/keras_compressor) - Model Compression CLI Tool for Keras.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
-- [oracle/skater](https://github.com/oracle/skater) - Python Library for Model Interpretation/Explanations
 - [hollance/Forge](https://github.com/hollance/Forge) - A neural network toolkit for Metal
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [ScottfreeLLC/AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning [AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost
@@ -6419,6 +6420,7 @@
 
 ## nodejs 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
@@ -6507,6 +6509,7 @@
 
 ## npm 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks
 - [TheLartians/modern-wasm-starter](https://github.com/TheLartians/modern-wasm-starter) - 🛸 Run C++ code on web and create blazingly fast websites! A starter template to easily create WebAssembly packages using type-safe C++ bindings with automatic TypeScript declarations.
@@ -6971,7 +6974,7 @@
 - [aldonunez/zelda1-disassembly](https://github.com/aldonunez/zelda1-disassembly) - A complete disassembly of The Legend of Zelda
 - [vasturiano/force-graph](https://github.com/vasturiano/force-graph) - Force-directed graph rendered on HTML5 canvas
 - [d3/d3-force](https://github.com/d3/d3-force) - Force-directed graph layout using velocity Verlet integration.
-- [chipsalliance/systemverilog-plugin](https://github.com/chipsalliance/systemverilog-plugin) - SystemVerilog support for Yosys
+- [chipsalliance/synlig](https://github.com/chipsalliance/synlig) - SystemVerilog support for Yosys
 - [aws/actions-dev-kit](https://github.com/aws/actions-dev-kit) - 
 - [frankrausch/AttributedStringStyledMarkdown](https://github.com/frankrausch/AttributedStringStyledMarkdown) - AttributedString Markdown initializer with custom styling
 - [yhqiu16/NVMeCHA](https://github.com/yhqiu16/NVMeCHA) - NVMe Controller featuring Hardware Acceleration
@@ -7322,7 +7325,7 @@
 - [scenee/FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
 - [mluisbrown/iCalendar](https://github.com/mluisbrown/iCalendar) - A minimal iCalendar (RFC 5545) parser in Swift
-- [swift-server-community/SwiftPrometheus](https://github.com/swift-server-community/SwiftPrometheus) - Prometheus client library for Swift
+- [swift-server/swift-prometheus](https://github.com/swift-server/swift-prometheus) - Prometheus client library for Swift
 - [zephray/prinux](https://github.com/zephray/prinux) - Tools and scripts for running Linux on HP Prime calculator
 - [OpenEVSE/OpenEVSE_PLUS](https://github.com/OpenEVSE/OpenEVSE_PLUS) - OpenEVSE Hardware
 - [SolderedElectronics/Inkplate-GUI-Designer](https://github.com/SolderedElectronics/Inkplate-GUI-Designer) - Web app to easily design user interface for Inkplate boards.
@@ -8214,7 +8217,7 @@
 - [chipsalliance/aib-phy-hardware](https://github.com/chipsalliance/aib-phy-hardware) - Advanced Interface Bus (AIB) die-to-die hardware open source
 - [chipsalliance/AIB-specification](https://github.com/chipsalliance/AIB-specification) - Home of the Advanced Interface Bus (AIB) specification.
 - [chipsalliance/aib-phy-generator](https://github.com/chipsalliance/aib-phy-generator) - AIB Generator: Analog hardware compiler for AIB PHY
-- [chipsalliance/Cores-VeeR-EL2](https://github.com/chipsalliance/Cores-VeeR-EL2) - VeeR EL2 Core
+- [chipsalliance/Cores-VeeR-EL2](https://github.com/chipsalliance/Cores-VeeR-EL2) - VeeR EL2 Core Coverage Dashboard
 - [lhoursquentin/sed-bin](https://github.com/lhoursquentin/sed-bin) - sed to C translator written in sed
 - [apple/swift-tools-support-core](https://github.com/apple/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
 - [RandalLinden/DOOM-FX](https://github.com/RandalLinden/DOOM-FX) - Doom/FX for Super Nintendo with SuperFX GSU2A
@@ -10735,7 +10738,6 @@
 - [topojson/topojson-server](https://github.com/topojson/topojson-server) - Convert GeoJSON to TopoJSON.
 - [wojteklu/nsregularexpression.com](https://github.com/wojteklu/nsregularexpression.com) - [DEPRECATED] Swift-based regular expression editor
 - [kylef/swiftenv-docker](https://github.com/kylef/swiftenv-docker) - This repository contains swiftenv images for Docker
-- [tealeg/xlsx](https://github.com/tealeg/xlsx) - (No longer maintained!) Go (golang) library for reading and writing XLSX files.
 - [sparklemotion/http-cookie](https://github.com/sparklemotion/http-cookie) - A Ruby library to handle HTTP cookies in a way both compliant with RFCs and compatible with today's major browsers
 - [Squarespace/base-template](https://github.com/Squarespace/base-template) - A Squarespace starter template with minimal markup and styles.
 - [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
@@ -12352,7 +12354,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
@@ -12682,7 +12684,6 @@
 - [slackapi/python-slack-events-api](https://github.com/slackapi/python-slack-events-api) - Slack Events API adapter for Python (Flask required)
 - [slackapi/python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
-- [oracle/skater](https://github.com/oracle/skater) - Python Library for Model Interpretation/Explanations
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [ScottfreeLLC/AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning [AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost
@@ -12942,6 +12943,7 @@
 
 ## react 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [Automattic/jetpack](https://github.com/Automattic/jetpack) - Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
@@ -13398,7 +13400,7 @@
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -13806,6 +13808,7 @@
 
 ## sketch 
 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [alexkaessner/macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) - :gem: The most detailed and accurate macOS UI Kit for Sketch. This Sketch Library includes common Mac interface elements, cursors, and a Touch Bar UI Kit.
 - [skpm/skpm](https://github.com/skpm/skpm) - 💎📦  A utility to build and publish Sketch plugins
 - [skpm/sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) - See your plugin logs, inspect the state of Sketch documents, explore actions, and more!
@@ -13847,7 +13850,7 @@
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [vincent-pradeilles/KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit is a library that provides the standard functions to manipulate data along with a call-syntax that relies on typed keypaths to make the call sites as short and clean as possible.
@@ -14868,6 +14871,7 @@
 
 ## terminal 
 
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [alt-romes/programmer-calculator](https://github.com/alt-romes/programmer-calculator) - Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [rensbreur/SwiftTUI](https://github.com/rensbreur/SwiftTUI) - SwiftUI for terminal applications
@@ -15056,6 +15060,7 @@
 
 ## typescript 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
