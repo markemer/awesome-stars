@@ -4949,6 +4949,7 @@
 
 ## Others 
 
+- [astronexus/HYG-Database](https://github.com/astronexus/HYG-Database) - Current version of the HYG Stellar database
 - [icanzilb/LogRider](https://github.com/icanzilb/LogRider) - Logs viewer app for mac
 - [macmade/MOS-6502-Tests](https://github.com/macmade/MOS-6502-Tests) - Test Suite for the MOS 6502 CPU
 - [Klaus2m5/6502_65C02_functional_tests](https://github.com/Klaus2m5/6502_65C02_functional_tests) - Tests for all valid opcodes of the 6502 and 65C02 processor
@@ -5664,7 +5665,7 @@
 - [operasoftware/ssh-key-authority](https://github.com/operasoftware/ssh-key-authority) - A tool for managing SSH key access to any number of servers.
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and a modern development workflow
-- [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
+- [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [phpvirtualbox/phpvirtualbox](https://github.com/phpvirtualbox/phpvirtualbox) - A web interface to manage and access Virtualbox machines.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [pfsense/pfsense](https://github.com/pfsense/pfsense) - Main repository for pfSense
@@ -5817,6 +5818,7 @@
 
 ## Python 
 
+- [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) - A tool for checking the security hardening options of the Linux kernel
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
 - [ECTO-1A/AppleJuice](https://github.com/ECTO-1A/AppleJuice) - Apple BLE proximity pairing message spoofing
 - [aceisace/python-waveform-parser](https://github.com/aceisace/python-waveform-parser) - A python-based waveform (wbf) parser for parallel e-paper displays
@@ -5860,7 +5862,7 @@
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [RTimothyEdwards/capiche](https://github.com/RTimothyEdwards/capiche) - Parasitic capacitance analysis of foundry metal stackups
 - [pruvisto/debirdify](https://github.com/pruvisto/debirdify) - 
-- [amazon-braket/amazon-braket-examples](https://github.com/amazon-braket/amazon-braket-examples) - Example notebooks that show how to apply quantum computing in Amazon Braket.
+- [amazon-braket/amazon-braket-examples](https://github.com/amazon-braket/amazon-braket-examples) - Example notebooks that show how to apply quantum computing with Amazon Braket.
 - [amazon-braket/amazon-braket-sdk-python](https://github.com/amazon-braket/amazon-braket-sdk-python) - A Python SDK for interacting with quantum devices on Amazon Braket
 - [amazon-braket/amazon-braket-default-simulator-python](https://github.com/amazon-braket/amazon-braket-default-simulator-python) - An implementation of a quantum simulator that you can run locally.
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways
@@ -7861,6 +7863,7 @@
 
 ## Swift 
 
+- [SwiftyLab/MetaCodable](https://github.com/SwiftyLab/MetaCodable) - Supercharge Swift's Codable implementations with macros meta-programming.
 - [ra1028/DiffableDataSources](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
 - [pointfreeco/swift-dependencies](https://github.com/pointfreeco/swift-dependencies) - A dependency management library inspired by SwiftUI's "environment."
 - [AndreaMiotto/PartialSheet](https://github.com/AndreaMiotto/PartialSheet) - A SwiftUI Partial Sheet fully customizable with dynamic height
