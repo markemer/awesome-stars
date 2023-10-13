@@ -678,7 +678,7 @@
 - [retroplasma/earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
 - [OpenAMP/libmetal](https://github.com/OpenAMP/libmetal) - An abstraction layer across RTOS, baremetal, and user-space Linux environments
 - [rsms/fontkit](https://github.com/rsms/fontkit) - JS & WASM library for working with fonts
-- [CelesteBlue-dev/PSVita-RE-tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools) - A bundle of RE tools for analyzing and modding PSVita OS
+- [TeamFAPS/PSVita-RE-tools](https://github.com/TeamFAPS/PSVita-RE-tools) - A bundle of RE tools for analyzing and modding PSVita OS
 - [amethyst/rlua](https://github.com/amethyst/rlua) - High level Lua bindings to Rust
 - [inteliclinic/NeuroonOpenFirmware](https://github.com/inteliclinic/NeuroonOpenFirmware) - 
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
@@ -701,7 +701,7 @@
 - [Dafang-Hacks/uboot](https://github.com/Dafang-Hacks/uboot) - 
 - [Taymindis/nginx-link-function](https://github.com/Taymindis/nginx-link-function) - It is a NGINX module that provides dynamic linking to your application in server context and call the function of your application in location directive
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
-- [OpenAMP/open-amp](https://github.com/OpenAMP/open-amp) - 
+- [OpenAMP/open-amp](https://github.com/OpenAMP/open-amp) - The main OpenAMP library implementing RPMSG, Virtio, and Remoteproc for RTOS etc
 - [Xilinx/open-amp](https://github.com/Xilinx/open-amp) - 
 - [Xilinx/qemu](https://github.com/Xilinx/qemu) - Xilinx's fork of Quick EMUlator (QEMU) with improved support and modelling for the Xilinx platforms.
 - [Xilinx/XRT](https://github.com/Xilinx/XRT) - Xilinx Run Time for FPGA
@@ -1371,7 +1371,6 @@
 - [bespoke-silicon-group/bsg_replicant](https://github.com/bespoke-silicon-group/bsg_replicant) - BSG Replicant: Cosimulation and Emulation Infrastructure for HammerBlade
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [thliebig/CSXCAD](https://github.com/thliebig/CSXCAD) - A C++ library to describe geometrical objects and their physical or non-physical properties.
-- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [seilweiss/dwarf2cpp](https://github.com/seilweiss/dwarf2cpp) - Converts DWARF v1 debug data into C/C++ definitions.
 - [ardyesp/ESPWebDAV](https://github.com/ardyesp/ESPWebDAV) - Wifi WebDAV server using ESP8266
 - [greiman/SdFat](https://github.com/greiman/SdFat) - Arduino FAT16/FAT32 exFAT Library
@@ -1623,7 +1622,7 @@
 - [ufna/VaRest](https://github.com/ufna/VaRest) - REST API plugin for Unreal Engine 4 - we love restfull backend and JSON communications!
 - [OpenShot/libopenshot](https://github.com/OpenShot/libopenshot) - OpenShot Video Library (libopenshot) is a free, open-source project dedicated to delivering high quality video editing, animation, and playback solutions to the world. API currently supports C++, Pyth
 - [Nexus-Mods/node-gamebryo-savegames](https://github.com/Nexus-Mods/node-gamebryo-savegames) - Savegame parser for Fallout 3, Fallout NV, Fallout 4, Oblivion, Skyrim and Skyrim Special Edition
-- [loot/loot](https://github.com/loot/loot) - A load order optimisation tool for the Elder Scrolls (Morrowind and later) and Fallout (3 and later) games.
+- [loot/loot](https://github.com/loot/loot) - A modding utility for Starfield and some Elder Scrolls and Fallout games.
 - [reg2k/f4mcm](https://github.com/reg2k/f4mcm) - The Mod Configuration Menu is a settings page for mods. It provides a central location for mod configuration, accessible via the Pause menu.
 - [reg2k/rva](https://github.com/reg2k/rva) - An RVA encapsulates a version-specific relative virtual address and a version-independent address signature pattern.
 - [reg2k/xdi](https://github.com/reg2k/xdi) - The Extended Dialogue Interface removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options.
@@ -2209,6 +2208,7 @@
 
 ## Go 
 
+- [dropbox/godropbox](https://github.com/dropbox/godropbox) - Common libraries for writing Go services/applications.
 - [dkaslovsky/nav](https://github.com/dkaslovsky/nav) - Terminal navigator for interactive ls workflows.
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
@@ -2787,6 +2787,7 @@
 
 ## HTML 
 
+- [thpoll83/PolyKybd](https://github.com/thpoll83/PolyKybd) - PolyKybd
 - [dy/wavefont](https://github.com/dy/wavefont) - Typeface for rendering waveform/data
 - [larsbrinkhoff/awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - All CPU and MCU documentation in one place
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
@@ -3104,7 +3105,7 @@
 - [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Go
 - [ananas-analytics/ananas-desktop](https://github.com/ananas-analytics/ananas-desktop) - A hackable data integration & analysis tool to enable non technical users to edit data processing jobs and visualise data on demand.
 - [NLPchina/elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) - Use SQL to query Elasticsearch
-- [bladecoder/blade-ink](https://github.com/bladecoder/blade-ink) - Inkle Ink runtime implementation in Java
+- [bladecoder/blade-ink-java](https://github.com/bladecoder/blade-ink-java) - Inkle Ink runtime implementation in Java
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [FoundationDB/fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) - A record-oriented store built on FoundationDB
 - [bazelbuild/bazel-buildfarm](https://github.com/bazelbuild/bazel-buildfarm) - Bazel remote caching and execution service
@@ -3319,6 +3320,7 @@
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
+- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [adventurerscodex/adventurerscodex](https://github.com/adventurerscodex/adventurerscodex) - Experience the next step in tabletop RPGs
@@ -3840,7 +3842,7 @@
 - [danhper/atomic-chrome](https://github.com/danhper/atomic-chrome) - Edit Chrome textareas in Atom
 - [FirstBuild/green-bean](https://github.com/FirstBuild/green-bean) - An Adapter for the Appliance Maker Community
 - [notwaldorf/github-canned-responses](https://github.com/notwaldorf/github-canned-responses) - :zzz: (inactive) Because copy pasting isn't that great.
-- [Jam3/devtool](https://github.com/Jam3/devtool) - [OBSOLETE] runs Node.js programs through Chromium DevTools
+- [Experience-Monks/devtool](https://github.com/Experience-Monks/devtool) - [OBSOLETE] runs Node.js programs through Chromium DevTools
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [ncase/polygons](https://github.com/ncase/polygons) - A playable post on how harmless choices can make a harmful world.
 - [toggl/track-extension](https://github.com/toggl/track-extension) - Toggl Track browser extension for Chrome and Firefox
@@ -4952,6 +4954,8 @@
 
 ## Others 
 
+- [azonenberg/triggercrossbar](https://github.com/azonenberg/triggercrossbar) - Rack mountable crossbar matrix for T&M trigger in/out signals, allowing dynamic reconfiguration of an experiment without recabling
+- [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
 - [astronexus/HYG-Database](https://github.com/astronexus/HYG-Database) - Current version of the HYG Stellar database
 - [icanzilb/LogRider](https://github.com/icanzilb/LogRider) - Logs viewer app for mac
 - [macmade/MOS-6502-Tests](https://github.com/macmade/MOS-6502-Tests) - Test Suite for the MOS 6502 CPU
@@ -5119,7 +5123,7 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [alexkaessner/macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) - :gem: The most detailed and accurate macOS UI Kit for Sketch. This Sketch Library includes common Mac interface elements, cursors, and a Touch Bar UI Kit.
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-14.0.0 [September 2023]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-14.0.0 [October 2023]
 - [arturo182/kicad-modules](https://github.com/arturo182/kicad-modules) - A repository with all my custom footprints and 3d models for KiCad
 - [arturo182/BBQ10KBD](https://github.com/arturo182/BBQ10KBD) - 
 - [yewalenikhil65/Resources-for-engineering-students-who-like-mathematics](https://github.com/yewalenikhil65/Resources-for-engineering-students-who-like-mathematics) - This is a collection of resources that I feel will prove useful to anyone studying in the area of engineering but also like mathematics. I urge anyone who comes across this, to contribute to the list 
@@ -5859,14 +5863,14 @@
 - [zcutlip/prefsniff](https://github.com/zcutlip/prefsniff) - A utility to sniff preferences changes to macOS plist files
 - [Irev-Dev/curated-code-cad](https://github.com/Irev-Dev/curated-code-cad) - A list of the various code-cad projects out there.
 - [Lattyware/unrpa](https://github.com/Lattyware/unrpa) - A program to extract files from the RPA archive format.
-- [Shizmob/rpatool](https://github.com/Shizmob/rpatool) - A tool to work with Ren'Py archives.
+- [shizmob/rpatool](https://github.com/shizmob/rpatool) - A tool to work with Ren'Py archives.
 - [Backblaze/B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [RTimothyEdwards/capiche](https://github.com/RTimothyEdwards/capiche) - Parasitic capacitance analysis of foundry metal stackups
 - [pruvisto/debirdify](https://github.com/pruvisto/debirdify) - 
 - [amazon-braket/amazon-braket-examples](https://github.com/amazon-braket/amazon-braket-examples) - Example notebooks that show how to apply quantum computing with Amazon Braket.
 - [amazon-braket/amazon-braket-sdk-python](https://github.com/amazon-braket/amazon-braket-sdk-python) - A Python SDK for interacting with quantum devices on Amazon Braket
-- [amazon-braket/amazon-braket-default-simulator-python](https://github.com/amazon-braket/amazon-braket-default-simulator-python) - An implementation of a quantum simulator that you can run locally.
+- [amazon-braket/amazon-braket-default-simulator-python](https://github.com/amazon-braket/amazon-braket-default-simulator-python) - Quantum program simulators that can run locally
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways
 - [0cyn/ktool](https://github.com/0cyn/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 - [evilpete/flipper_toolbox](https://github.com/evilpete/flipper_toolbox) - Random scripts for generating Flipper data files.
@@ -5964,7 +5968,7 @@
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [chromy/ink-proof](https://github.com/chromy/ink-proof) - Testing for Ink compilers and runtimes
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [CriticMarkup/CriticMarkup-toolkit](https://github.com/CriticMarkup/CriticMarkup-toolkit) - Various tools to use CriticMarkup in your daily workflow
 - [Lyrositor/fallen_london_chronicler](https://github.com/Lyrositor/fallen_london_chronicler) - A tool for recording and exporting Fallen London content.
 - [n0stalghia/Sunless_Skies_Save_Editor](https://github.com/n0stalghia/Sunless_Skies_Save_Editor) - Python-based save editor for Sunless Skies
@@ -6404,7 +6408,7 @@
 - [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 - [grayhatacademy/ida](https://github.com/grayhatacademy/ida) - 
-- [Serchinastico/Kin](https://github.com/Serchinastico/Kin) - Simple PBXProj Verifier
+- [Serchinastico/Kin](https://github.com/Serchinastico/Kin) - Sane PBXProj files
 - [mediacloud/date_guesser](https://github.com/mediacloud/date_guesser) - A library to extract a publication date from a web page, along with a measure of the accuracy.
 - [hermanhermitage/videocoreiv](https://github.com/hermanhermitage/videocoreiv) - Tools and information for the Broadcom VideoCore IV (RaspberryPi)
 - [lyft/confidant](https://github.com/lyft/confidant) - Confidant: your secret keeper. https://lyft.github.io/confidant
@@ -7097,7 +7101,7 @@
 - [Parallels/vagrant-parallels](https://github.com/Parallels/vagrant-parallels) - Vagrant Parallels Provider
 - [gcerquant/xcodearchive](https://github.com/gcerquant/xcodearchive) - xcodearchive is a command line tool to build and archive your Xcode projects.
 - [sferik/active_emoji](https://github.com/sferik/active_emoji) - A collection of emoji aliases for core Ruby methods
-- [usbarmory/usbarmory](https://github.com/usbarmory/usbarmory) - USB armory - open source flash-drive-sized computer
+- [usbarmory/usbarmory](https://github.com/usbarmory/usbarmory) - USB armory - The open source compact secure computer
 - [tj/commander](https://github.com/tj/commander) - The complete solution for Ruby command-line executables
 - [fabiopelosin/act](https://github.com/fabiopelosin/act) - 
 - [ddollar/foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
@@ -7828,7 +7832,7 @@
 - [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## Smalltalk 
 
@@ -7866,6 +7870,7 @@
 
 ## Swift 
 
+- [DuncanMC/BlurredTextView](https://github.com/DuncanMC/BlurredTextView) - A demo project that blurs a UITextView using a Core Image blur filter
 - [SwiftyLab/MetaCodable](https://github.com/SwiftyLab/MetaCodable) - Supercharge Swift's Codable implementations with macros meta-programming.
 - [ra1028/DiffableDataSources](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
 - [pointfreeco/swift-dependencies](https://github.com/pointfreeco/swift-dependencies) - A dependency management library inspired by SwiftUI's "environment."
@@ -7940,7 +7945,7 @@
 - [apple/swift-certificates](https://github.com/apple/swift-certificates) - An implementation of X.509 for Swift
 - [apple/swift-asn1](https://github.com/apple/swift-asn1) - An implementation of ASN.1 for Swift
 - [sindresorhus/DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon
-- [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS and tvOS.
+- [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP for iOS, macOS and tvOS.
 - [orlandos-nl/Citadel](https://github.com/orlandos-nl/Citadel) - SSH Client & Server in Swift
 - [pointfreeco/swift-tagged](https://github.com/pointfreeco/swift-tagged) - 🏷 A wrapper type for safer, expressive code.
 - [GottaGetSwifty/SwiftyXMLKit](https://github.com/GottaGetSwifty/SwiftyXMLKit) - Tools for working with XML in Swift
@@ -8153,7 +8158,6 @@
 - [ArtSabintsev/FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS, macOS and tvOS app.
 - [dduan/DrString](https://github.com/dduan/DrString) - DrString finds issues in your Swift docstrings and fixes them for you.
 - [dduan/IsTTY](https://github.com/dduan/IsTTY) - Helps you decide whether your file is a terminal device.
-- [OpenSesameManager/SwiftOTP](https://github.com/OpenSesameManager/SwiftOTP) - A Swift library for generating One Time Passwords (OTP)
 - [Dashlane/SwiftDomainParser](https://github.com/Dashlane/SwiftDomainParser) - A Full Swift Lightweight Framework that uses the Public Suffix list to Parse URLs
 - [ergunemr/BottomPopup](https://github.com/ergunemr/BottomPopup) - BottomPopup provides a popup-like presentation style to any view controller
 - [vineetchoudhary/Downloader-for-Apple-Developers](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers) - Download Xcode, WWDC Videos, and other developer tools up to 16 times faster.
@@ -9432,6 +9436,7 @@
 
 ## TypeScript 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
