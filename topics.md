@@ -39,6 +39,7 @@
 - [code-review](#code-review)
 - [coding](#coding)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [config](#config)
 - [continuous-integration](#continuous-integration)
@@ -1586,6 +1587,20 @@
 - [google/mtail](https://github.com/google/mtail) - extract internal monitoring data from application logs for collection in a timeseries database
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+## computer-science 
+
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+- [DSLsofMath/DSLsofMath](https://github.com/DSLsofMath/DSLsofMath) - Domain-Specific Languages of Mathematics
+- [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 📖 Design Patterns implemented in Swift 5.0
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ## computer-vision 
 
@@ -6869,6 +6884,7 @@
 
 ## others 
 
+- [icanzilb/PackageView](https://github.com/icanzilb/PackageView) - An app that displays Package.swift info
 - [rgerganov/ggtag](https://github.com/rgerganov/ggtag) - programmable e-paper tag with RFID
 - [exciting-io/printer](https://github.com/exciting-io/printer) - Tools for exploring the possibilities of "internet of things" printing.
 - [will127534/OneInchEye](https://github.com/will127534/OneInchEye) - A One Inch CMOS sensor (IMX283) camera board designed for Raspberry Pi
@@ -9345,7 +9361,6 @@
 - [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) - Working draft of the proposed RISC-V V vector extension
 - [alexsax/2D-3D-Semantics](https://github.com/alexsax/2D-3D-Semantics) - The data skeleton from Joint 2D-3D-Semantic Data for Indoor Scene Understanding
 - [bytesizedhosting/bcd](https://github.com/bytesizedhosting/bcd) - The Bytesized Connect Daemon - https://bytesized-hosting.com/connect
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver) - RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9
 - [ShuttleProject/fastlane-plugin-shuttle](https://github.com/ShuttleProject/fastlane-plugin-shuttle) - Shuttle fastlane integration.
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
@@ -10333,7 +10348,6 @@
 - [square/keywhiz](https://github.com/square/keywhiz) - A system for distributing and managing secrets
 - [gergo-/missed-optimizations](https://github.com/gergo-/missed-optimizations) - Missed optimizations in C compilers
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [translate/virtaal](https://github.com/translate/virtaal) - Easy-to-use and powerful offline translation tool
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [mapnificent/mapnificent](https://github.com/mapnificent/mapnificent) - Mapnificent shows you areas you can reach with public transport in a given time.
