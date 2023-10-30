@@ -3708,7 +3708,6 @@
 - [secrethub/actions](https://github.com/secrethub/actions) - Load secrets into GitHub Actions
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [astropy/astroquery](https://github.com/astropy/astroquery) - Functions and classes to access online data resources. Maintainers: @keflavich and @bsipocz and @ceb8
 - [gofiber/recipes](https://github.com/gofiber/recipes) - 📁 Examples for 🚀 Fiber
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [pokanop/nostromo](https://github.com/pokanop/nostromo) - 👽 CLI for building powerful aliases and tools
@@ -3896,6 +3895,7 @@
 - [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [parse-community/Parse-SDK-iOS-OSX](https://github.com/parse-community/Parse-SDK-iOS-OSX) - The Apple SDK for Parse Platform (iOS, macOS, watchOS, tvOS)
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+- [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
@@ -9155,7 +9155,7 @@
 - [holzschu/network_ios](https://github.com/holzschu/network_ios) - Extension to ios_system, doing network-based commands
 - [pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader) - Here I share the code of my CV, which is also a bootable bootloader :)
 - [pwaller/go2ll-talk](https://github.com/pwaller/go2ll-talk) - Live coding a basic Go compiler with LLVM in 20 minutes
-- [triplehex/piccolo](https://github.com/triplehex/piccolo) - An experimental stackless Lua VM implemented in pure Rust
+- [kyren/piccolo](https://github.com/kyren/piccolo) - An experimental stackless Lua VM implemented in pure Rust
 - [alanzeino/source-editor-extension](https://github.com/alanzeino/source-editor-extension) - A source editor extension for easy Swift version #if defs
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
 - [pgina/pgina](https://github.com/pgina/pgina) - pGina: Open Source Windows Authentication
@@ -9882,7 +9882,7 @@
 - [vega/vega-desktop](https://github.com/vega/vega-desktop) - App for viewing visualizations created in Vega or Vega-lite
 - [dsc/Tab-Manager](https://github.com/dsc/Tab-Manager) - The source code of the google chrome extension "Tab Manager"
 - [kenshin03/KTPomodoro](https://github.com/kenshin03/KTPomodoro) - Mini Pomodoro Timer app designed for the  Watch, written in Objective-C. See github.com/kenshin03/Cherry.
-- [ReturnInfinity/BareMetal-OS](https://github.com/ReturnInfinity/BareMetal-OS) - Build scripts for BareMetal OS and its related utilities
+- [ReturnInfinity/BareMetal-OS](https://github.com/ReturnInfinity/BareMetal-OS) - Build script for BareMetal OS and its related utilities
 - [ReturnInfinity/Pure64](https://github.com/ReturnInfinity/Pure64) - Pure64 is a software loader that was initially created for BareMetal OS. The loader sets the computer into a full 64-bit state with no legacy compatibility layers and also enables all available CPU Co
 - [virinext/hevcesbrowser](https://github.com/virinext/hevcesbrowser) - HEVCESBrowser is a tool for analyzing hevc(h265) bitstreams
 - [hezi/Storytime](https://github.com/hezi/Storytime) - Storytime is a framework to parse and render Interface Builder Storyboard files. MIT Licensed
@@ -10826,7 +10826,7 @@
 - [barbosa/danger-clorox](https://github.com/barbosa/danger-clorox) - A Danger plugin for Clorox.
 - [Laksen/kicad-bga-tools](https://github.com/Laksen/kicad-bga-tools) - Tools to make life easier for PCB design with BGA's
 - [xesscorp/xess_fp_wizard](https://github.com/xesscorp/xess_fp_wizard) - A KiCad wizard to assist you in making footprints for chips having pins around the  edges (SOICs, QFPs, etc.) and ball grid arrays (BGAs)
-- [devbisme/kicad-3rd-party-tools](https://github.com/devbisme/kicad-3rd-party-tools) - Tools made by others to augment the KiCad PCB EDA suite.
+- [devbisme/kicad-3rd-party-tools](https://github.com/devbisme/kicad-3rd-party-tools) - Software tools/utilities made by others to augment the KiCad PCB EDA suite.
 - [microsoftgraph/ios-swift-connect-sample](https://github.com/microsoftgraph/ios-swift-connect-sample) - Please see https://github.com/microsoftgraph/msgraph-training-ios-swift for a Swift sample.
 - [microsoftgraph/ios-swift-snippets-sample](https://github.com/microsoftgraph/ios-swift-snippets-sample) - Please see https://github.com/microsoftgraph/msgraph-training-ios-swift for a Swift sample.
 - [microsoftgraph/ruby-connect-rest-sample](https://github.com/microsoftgraph/ruby-connect-rest-sample) - [ARCHIVED] Use Microsoft Graph to access a user’s Microsoft account resources from within a Ruby on Rails web application. This sample uses REST calls directly to Microsoft Graph, and uses the Azure A
@@ -14065,7 +14065,7 @@
 - [apple/swift-certificates](https://github.com/apple/swift-certificates) - An implementation of X.509 for Swift
 - [apple/swift-asn1](https://github.com/apple/swift-asn1) - An implementation of ASN.1 for Swift
 - [sindresorhus/DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon
-- [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP for iOS, macOS and tvOS.
+- [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS.
 - [orlandos-nl/Citadel](https://github.com/orlandos-nl/Citadel) - SSH Client & Server in Swift
 - [googlemaps/google-maps-ios-utils](https://github.com/googlemaps/google-maps-ios-utils) - Google Maps SDK for iOS Utility Library
 - [pointfreeco/swift-tagged](https://github.com/pointfreeco/swift-tagged) - 🏷 A wrapper type for safer, expressive code.
