@@ -198,6 +198,7 @@
 
 ## Assembly 
 
+- [gstrike/CuriousPlace](https://github.com/gstrike/CuriousPlace) - A comfortable place for code from The Curious Place on YouTube
 - [rehsd/PC-65816](https://github.com/rehsd/PC-65816) - PC based on 65816
 - [aldonunez/zelda1-disassembly](https://github.com/aldonunez/zelda1-disassembly) - A complete disassembly of The Legend of Zelda
 - [openhwgroup/cvw](https://github.com/openhwgroup/cvw) - CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches,
@@ -2075,7 +2076,7 @@
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 - [rosera/flutter-and-dart-cookbook](https://github.com/rosera/flutter-and-dart-cookbook) - Flutter and Dart Cookbook  O'Reilly Companion repository
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [jehna/calc-o-pad](https://github.com/jehna/calc-o-pad) - A notepad calculator
 - [dart-lang/samples](https://github.com/dart-lang/samples) - A collection of Dart code samples by Dart DevRel
@@ -3134,7 +3135,7 @@
 - [Netflix/Prana](https://github.com/Netflix/Prana) - A sidecar for your NetflixOSS based services.
 - [SAP-archive/xliff-1-2](https://github.com/SAP-archive/xliff-1-2) - The XLIFF 1.2 Core library offers functionality for constructing, reading, modifying and writing XLIFF 1.2 files according to the OASIS specification.
 - [graalvm/sulong](https://github.com/graalvm/sulong) - Obsolete repository. Moved to oracle/graal.
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [openairplay/AirPlayAuth](https://github.com/openairplay/AirPlayAuth) - Since tvOS 10.2 AppleTV is enforcing the "Device verification" for AirPlay, which could be manually enabled/disabled before. This library allows to pair with an AppleTV and can be used in any app supp
 - [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
@@ -4962,6 +4963,7 @@
 
 ## Others 
 
+- [Heber-co-uk/Multisystem](https://github.com/Heber-co-uk/Multisystem) - The MiSTer Multisystem console Hardware PCB - FPGA platform
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [azonenberg/triggercrossbar](https://github.com/azonenberg/triggercrossbar) - Rack mountable crossbar matrix for T&M trigger in/out signals, allowing dynamic reconfiguration of an experiment without recabling
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
@@ -8082,7 +8084,7 @@
 - [insidegui/ocrit](https://github.com/insidegui/ocrit) - Simple command-line utility for performing OCR using Apple's Vision framework
 - [scottrhoyt/SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) - A lightweight library for generating text tables.
 - [tuist/tuist-plugin-lint](https://github.com/tuist/tuist-plugin-lint) - A plugin that extends Tuist with SwiftLint functionalities.
-- [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide) - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1, M1 Pro, M1 Max, M1 Ultra, and M2 chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Sili
+- [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide) - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Sili
 - [tuist/tuist-up](https://github.com/tuist/tuist-up) - A CLI too powered by Swift to provision environments using an up.toml manifest file
 - [weitieda/bottom-sheet](https://github.com/weitieda/bottom-sheet) - ⬆️ A SwiftUI view component sliding in from bottom
 - [guoyingtao/Mantis](https://github.com/guoyingtao/Mantis) - An iOS Image cropping library, which mimics the Photo App written in Swift.
