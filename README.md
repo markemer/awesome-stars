@@ -281,6 +281,7 @@
 
 ## C 
 
+- [PCRE2Project/pcre2](https://github.com/PCRE2Project/pcre2) - PCRE2 development is now based here.
 - [rgerganov/ggtag](https://github.com/rgerganov/ggtag) - programmable e-paper tag with RFID
 - [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
 - [yshurik/inferno-rpi](https://github.com/yshurik/inferno-rpi) - This is compilation of Labs “Porting Inferno OS to Raspberry Pi”. We decided to organize it as some set of small labs with very detailed steps of what is done to reach results and make everything easy
@@ -1898,6 +1899,7 @@
 - [iRobotEducation/irobot_create_msgs](https://github.com/iRobotEducation/irobot_create_msgs) - Action, message and service definitions used by the iRobot® Create® Platform
 - [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) - 
 - [lifting-bits/sleigh](https://github.com/lifting-bits/sleigh) - Unofficial CMake build for Ghidra SLEIGH
+- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [KiCad/kicad-packages3D](https://github.com/KiCad/kicad-packages3D) - Official KiCad 3D model libraries for rendering and MCAD integration
 - [KiCad/kicad-footprints](https://github.com/KiCad/kicad-footprints) - Official KiCad Footprint Libraries for Kicad version 5
 - [KiCad/kicad-symbols](https://github.com/KiCad/kicad-symbols) - Official KiCad schematic symbol libraries for Kicad 5
@@ -2228,7 +2230,6 @@
 - [osteele/liquid](https://github.com/osteele/liquid) - A Liquid template engine in Go
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
 - [cirruslabs/orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
-- [tableflowhq/tableflow](https://github.com/tableflowhq/tableflow) - The open source CSV importer
 - [mohammed90/caddy-ngrok-listener](https://github.com/mohammed90/caddy-ngrok-listener) - Caddy listener_wrapper to automatically listen on an ngrok tunnel
 - [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go) - Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
 - [tailscale/libtailscale](https://github.com/tailscale/libtailscale) - Tailscale C library
@@ -3064,6 +3065,7 @@
 
 ## Java 
 
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [techyourchance/android-architecture-course](https://github.com/techyourchance/android-architecture-course) - 
 - [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
@@ -4299,7 +4301,7 @@
 - [mattvenn/magic-inverter](https://github.com/mattvenn/magic-inverter) - an inverter drawn in magic with makefile to simulate
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [foostan/kbd](https://github.com/foostan/kbd) - for building keyboard libraries
-- [osresearch/heads](https://github.com/osresearch/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
+- [linuxboot/heads](https://github.com/linuxboot/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
 - [adobe-type-tools/cmap-resources](https://github.com/adobe-type-tools/cmap-resources) - CMap Resources
 - [pqrs-org/gh-pages-karabiner-elements.pqrs.org](https://github.com/pqrs-org/gh-pages-karabiner-elements.pqrs.org) - 
 - [enzomaruffa/RealityKit-Motion-Recorder](https://github.com/enzomaruffa/RealityKit-Motion-Recorder) - Used to store bodytracked joint's position in a JSON file
@@ -4377,7 +4379,7 @@
 - [robur-coop/unikernels](https://github.com/robur-coop/unikernels) - MirageOS unikernels
 - [robur-coop/dns-primary-git](https://github.com/robur-coop/dns-primary-git) - A MirageOS unikernel acting as primary DNS server, data stored in a remote git repository
 - [mirage/qubes-mirage-firewall](https://github.com/mirage/qubes-mirage-firewall) - A Mirage firewall VM for QubesOS
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [janestreet/hardcaml](https://github.com/janestreet/hardcaml) - Hardcaml is an OCaml library for designing hardware.
 - [mirage/qubes-mirage-skeleton](https://github.com/mirage/qubes-mirage-skeleton) - An example Mirage unikernel that runs as a Qubes AppVM
@@ -5417,7 +5419,7 @@
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [osresearch/heads-wiki](https://github.com/osresearch/heads-wiki) - Documentation for the Heads firmware project
+- [linuxboot/heads-wiki](https://github.com/linuxboot/heads-wiki) - Documentation for the Heads firmware project
 - [kharrison/Xcode-Templates](https://github.com/kharrison/Xcode-Templates) - Xcode File And Project Templates
 - [carrotIndustries/pluto](https://github.com/carrotIndustries/pluto) - Pluto is a programmable digital watch that re-uses case and LCD panel of the Casio® F-91W. (Hardware)
 - [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
@@ -5805,7 +5807,6 @@
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
 - [henbagle/LE1CommunityPatch](https://github.com/henbagle/LE1CommunityPatch) - Issue tracker for the Community Patch mod for Mass Effect 1: Legendary Edition
 - [microsoft/GDK](https://github.com/microsoft/GDK) - Microsoft Public GDK
-- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [majkinetor/posh](https://github.com/majkinetor/posh) - Powershell modules and functions by majkinetor
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
@@ -6270,7 +6271,7 @@
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [google-deepmind/graph_nets](https://github.com/google-deepmind/graph_nets) - Build Graph Nets in Tensorflow
 - [jszumski/bazel-mixed-languages](https://github.com/jszumski/bazel-mixed-languages) - An example using Bazel to build an iOS app and libraries containing Swift and Objective-C sources.
-- [wrye-bash/wrye-bash](https://github.com/wrye-bash/wrye-bash) - A swiss army knife for modding Bethesda games. This is the main repository.
+- [wrye-bash/wrye-bash](https://github.com/wrye-bash/wrye-bash) - A swiss army knife for modding Bethesda games.
 - [j-e-d/NYTdiff](https://github.com/j-e-d/NYTdiff) - Code for the twitter bot nyt_diff
 - [foone/SplitBySubs](https://github.com/foone/SplitBySubs) - Splits up movie files according to subtitle files
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
@@ -6369,7 +6370,7 @@
 - [Fewbytes/rubber-docker](https://github.com/Fewbytes/rubber-docker) - A workshop on Linux containers: Rebuild Docker from Scratch
 - [webosose/build-webos](https://github.com/webosose/build-webos) - webOS OSE build layer
 - [life4/textdistance](https://github.com/life4/textdistance) - 📐 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
-- [sandstorm-io/vagrant-spk](https://github.com/sandstorm-io/vagrant-spk) - Packaging tool for Sandstorm, a self-hosting platform for web apps! Hacktoberfest-specific README: https://github.com/sandstorm-io/vagrant-spk/issues/344
+- [sandstorm-io/vagrant-spk](https://github.com/sandstorm-io/vagrant-spk) - Packaging tool for Sandstorm, a self-hosting platform for web apps!
 - [enjoy-digital/liteiclink](https://github.com/enjoy-digital/liteiclink) - Small footprint and configurable Inter-Chip communication cores
 - [enjoy-digital/litejesd204b](https://github.com/enjoy-digital/litejesd204b) - Small footprint and configurable JESD204B core
 - [enjoy-digital/litesata](https://github.com/enjoy-digital/litesata) - Small footprint and configurable SATA core
@@ -7199,6 +7200,7 @@
 
 ## Rust 
 
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
@@ -7883,6 +7885,7 @@
 
 ## Swift 
 
+- [JanGorman/Agrume](https://github.com/JanGorman/Agrume) - 🍋 A lemony fresh iOS image viewer written in Swift.
 - [icanzilb/PackageView](https://github.com/icanzilb/PackageView) - An app that displays Package.swift info
 - [macmade/Lottie-Preview](https://github.com/macmade/Lottie-Preview) - A macOS application to display previews of Lottie animations.
 - [dropbox/hypershard-ios](https://github.com/dropbox/hypershard-ios) - ⚡ the ridiculously fast XCUITest collector.
@@ -9461,7 +9464,7 @@
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
 - [dylibso/observe-sdk](https://github.com/dylibso/observe-sdk) - Continuous runtime observablity SDKs to monitor WebAssembly code.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work!
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
@@ -9482,6 +9485,7 @@
 - [google/aside](https://github.com/google/aside) - 🚀 Apps Script development with formatting, linting, testing and more!
 - [mathieudutour/timezone-butler](https://github.com/mathieudutour/timezone-butler) - ⏰🤵 A Slack butler who will take care of the timezone differences in your team.
 - [ionic-team/capacitor-assets](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool
+- [tableflowhq/tableflow](https://github.com/tableflowhq/tableflow) - The open source CSV importer
 - [TypeCellOS/TypeCell](https://github.com/TypeCellOS/TypeCell) - 
 - [common-fate/granted-containers](https://github.com/common-fate/granted-containers) - Firefox containers extension for Granted
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
