@@ -230,6 +230,7 @@
 - [Xkeeper0/smb2](https://github.com/Xkeeper0/smb2) - Super Mario Bros. 2, discombobulated
 - [richardjrossiii/iOSAppInAssembly](https://github.com/richardjrossiii/iOSAppInAssembly) - An iOS app in assembly
 - [corsix/pigz](https://github.com/corsix/pigz) - Optimised x86-64 gzip decompressor
+- [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [dwelch67/raspberrypi](https://github.com/dwelch67/raspberrypi) - Raspberry Pi ARM based bare metal examples
 - [Apress/low-level-programming](https://github.com/Apress/low-level-programming) - Source code for 'Low-Level Programming' by Igor Zhirkov
 - [ReturnInfinity/BareMetal](https://github.com/ReturnInfinity/BareMetal) - A very minimal, resource efficient exo-kernel
@@ -1089,6 +1090,7 @@
 
 ## C# # 
 
+- [atenfyr/UAssetGUI](https://github.com/atenfyr/UAssetGUI) - A tool designed for low-level examination and modification of Unreal Engine 4 game assets by hand.
 - [LaughingLeader/BG3ModManager](https://github.com/LaughingLeader/BG3ModManager) - A mod manager for Baldur's Gate 3.
 - [Nexus-Mods/NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
 - [Mutagen-Modding/Synthesis](https://github.com/Mutagen-Modding/Synthesis) - A patcher pipeline framework and GUI.  Run collections of code-based mods to create content customized for your load order
@@ -1942,6 +1944,7 @@
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 - [Fmstrat/diy-ipmi](https://github.com/Fmstrat/diy-ipmi) - A DIY IPMI / IP KVM system utilizing the Raspberry Pi
 - [heapwolf/levelui](https://github.com/heapwolf/levelui) - A GUI for LevelDB management based on atom-shell.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [riscv-admin/risc-v-getting-started-guide](https://github.com/riscv-admin/risc-v-getting-started-guide) - The official RISC-V getting started guide
 - [tiran/pki-vagans](https://github.com/tiran/pki-vagans) - Vagrant + Ansible for Dogtag PKI (WIP and highly experimental)
 - [Ryshackleton/idyll-template](https://github.com/Ryshackleton/idyll-template) - A React app that mimics the basic template project provided by Idyll-lang.org
@@ -2624,7 +2627,7 @@
 - [kochie/guardian-server](https://github.com/kochie/guardian-server) - Server for communicating with guardian hosts.
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
-- [kryptco/kr](https://github.com/kryptco/kr) - A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
+- [kryptco/kr](https://github.com/kryptco/kr) - DEPRECATED A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
 - [bradleyjkemp/memviz](https://github.com/bradleyjkemp/memviz) - Visualize your Go data structures using graphviz
 - [coreos/mayday](https://github.com/coreos/mayday) - A diagnostics tool for capturing system state.
 - [jedisct1/piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
@@ -2861,7 +2864,6 @@
 - [google/docsy-example](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
 - [MichaelJCole/wiki.unrealengine.com](https://github.com/MichaelJCole/wiki.unrealengine.com) - A VuePress documentation site scraped from the internet archives:
 - [COVID19StatePolicy/SocialDistancing](https://github.com/COVID19StatePolicy/SocialDistancing) - 
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [haukex/webperl](https://github.com/haukex/webperl) - Run Perl in the browser with WebPerl!
 - [gluster/glusterdocs](https://github.com/gluster/glusterdocs) - This repo contains the source of official Gluster documentation rendered at https://docs.gluster.org
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
@@ -5137,7 +5139,7 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [alexkaessner/macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) - :gem: The most detailed and accurate macOS UI Kit for Sketch. This Sketch Library includes common Mac interface elements, cursors, and a Touch Bar UI Kit.
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-14.0.0 [October 2023]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-14.0.0 [November 2023]
 - [arturo182/kicad-modules](https://github.com/arturo182/kicad-modules) - A repository with all my custom footprints and 3d models for KiCad
 - [arturo182/BBQ10KBD](https://github.com/arturo182/BBQ10KBD) - 
 - [yewalenikhil65/Resources-for-engineering-students-who-like-mathematics](https://github.com/yewalenikhil65/Resources-for-engineering-students-who-like-mathematics) - This is a collection of resources that I feel will prove useful to anyone studying in the area of engineering but also like mathematics. I urge anyone who comes across this, to contribute to the list 
@@ -8842,7 +8844,7 @@
 - [Flight-School/AnyCodable](https://github.com/Flight-School/AnyCodable) - Type-erased wrappers for Encodable, Decodable, and Codable values
 - [johnfairh/RubyGateway](https://github.com/johnfairh/RubyGateway) - Embed Ruby in Swift: load Gems, run scripts, call APIs seamlessly in both directions.
 - [kryptco/swift-pgp](https://github.com/kryptco/swift-pgp) - A pure Swift library for parsing and creating PGP RFC 4880 public keys, user ids, and signatures.
-- [kryptco/krypton-ios](https://github.com/kryptco/krypton-ios) - Krypton turns your iOS device into a WebAuthn/U2F Authenticator: strong, unphishable 2FA.
+- [kryptco/krypton-ios](https://github.com/kryptco/krypton-ios) - DEPRECATED Krypton turns your iOS device into a WebAuthn/U2F Authenticator: strong, unphishable 2FA.
 - [MemeMaker/Meme-Maker-Mac](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker open source macOS app made in Swift.
 - [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - A tool for tagging files and archiving tasks.
 - [tuxu/nbviewer-app](https://github.com/tuxu/nbviewer-app) - A Jupyter notebook viewer for macOS
@@ -9375,7 +9377,6 @@
 - [MiSTer-devel/NES_MiSTer](https://github.com/MiSTer-devel/NES_MiSTer) - 
 - [pulp-platform/pulpissimo](https://github.com/pulp-platform/pulpissimo) - This is the top-level project for the PULPissimo Platform. It instantiates a PULPissimo open-source system with a PULP SoC domain, but no cluster.
 - [lowRISC/socip](https://github.com/lowRISC/socip) - Collection of IP cores usable to lowRISC SoC
-- [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [openhwgroup/cv32e40p](https://github.com/openhwgroup/cv32e40p) - CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform
 - [RoaLogic/RV12](https://github.com/RoaLogic/RV12) - RISC-V CPU Core
 - [lowRISC/lowrisc-chip](https://github.com/lowRISC/lowrisc-chip) - The root repo for lowRISC project and FPGA demos.
