@@ -305,7 +305,7 @@
 - [fail0verflow/ps4-linux](https://github.com/fail0verflow/ps4-linux) - Linux kernel fork with PS4 support (work in progress)
 - [FDOS/kernel](https://github.com/FDOS/kernel) - FreeDOS kernel - implements the core MS-DOS/PC-DOS (R) compatible operating system. It is derived from Pat Villani's DOS-C kernel and released under the GPL v2 or later. Please see http://www.freedos.
 - [hoglet67/RGBtoHDMI](https://github.com/hoglet67/RGBtoHDMI) - Bare-metal Raspberry Pi project that provides pixel-perfect sampling of Retro Computer RGB/YUV video and conversion to HDMI
-- [picocomputer/rp6502](https://github.com/picocomputer/rp6502) - Picocomputer 6502 reference design
+- [picocomputer/rp6502](https://github.com/picocomputer/rp6502) - Picocomputer 6502 firmware
 - [openSIL/openSIL](https://github.com/openSIL/openSIL) - 
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
@@ -1518,7 +1518,7 @@
 - [rochus-keller/LjTools](https://github.com/rochus-keller/LjTools) - LuaJIT 2.0 bytecode parser, viewer, assembler and test VM. Lua 5.1 parser, IDE and debugger.
 - [moonlight-stream/Internet-Hosting-Tool](https://github.com/moonlight-stream/Internet-Hosting-Tool) - Enable Moonlight streaming from your PC over the Internet with no configuration required
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
-- [fwsGonzo/libriscv](https://github.com/fwsGonzo/libriscv) - C++17 RISC-V RV32/64/128 userspace emulator library
+- [fwsGonzo/libriscv](https://github.com/fwsGonzo/libriscv) - C++20 RISC-V RV32/64/128 userspace emulator library
 - [gitahead/gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
 - [oxplot/fabpide2](https://github.com/oxplot/fabpide2) - STUSB4500 Breakout — Stand-alone USB PD Sink Controller
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
@@ -6820,6 +6820,7 @@
 
 ## Ruby 
 
+- [Homebrew/ruby-macho](https://github.com/Homebrew/ruby-macho) - 🔩 A pure-Ruby library for parsing Mach-O files.
 - [exciting-io/printer](https://github.com/exciting-io/printer) - Tools for exploring the possibilities of "internet of things" printing.
 - [CocoaPods/trunk.cocoapods.org](https://github.com/CocoaPods/trunk.cocoapods.org) - The authentication server for CocoaPods push
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
@@ -8167,7 +8168,7 @@
 - [apple/swift-experimental-string-processing](https://github.com/apple/swift-experimental-string-processing) - An early experimental general-purpose pattern matching engine for Swift.
 - [apple/swift-docc-symbolkit](https://github.com/apple/swift-docc-symbolkit) - A Swift package for encoding and decoding Swift Symbol Graph files.
 - [apple/swift-docc](https://github.com/apple/swift-docc) - Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.
-- [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync. Compiled for macOS Big Sur and later
+- [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync. Compiled for macOS Monterey and later.
 - [teufelaudio/SwiftPackageAcknowledgement](https://github.com/teufelaudio/SwiftPackageAcknowledgement) - Third-party acknowledgement plist from SPM Packages
 - [ChimeHQ/TextStory](https://github.com/ChimeHQ/TextStory) - Happier, more flexible NSTextStorage
 - [exyte/FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
@@ -9472,7 +9473,7 @@
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
 - [dylibso/observe-sdk](https://github.com/dylibso/observe-sdk) - Continuous runtime observablity SDKs to monitor WebAssembly code.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
