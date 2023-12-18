@@ -1281,7 +1281,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [rubycdp/ferrum](https://github.com/rubycdp/ferrum) - Headless Chrome Ruby API
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is Web application virtualization via zero trust remote browser isolation and secure document gateway technology. Embed secure & unrestricted webviews on any device in a regular webpage. 
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is secure reverse proxy that empowers web app virtualization via zero trust remote browsing and a secure document gateway. Embeddable, secure, unrestricted, multiplayer iframes on any dev
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [yujiosaka/headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
@@ -1307,7 +1307,7 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
-- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [glebm/render-whitespace-on-github](https://github.com/glebm/render-whitespace-on-github) - Are they tabs? Are they spaces? How many? Never wonder again!
 - [kav2k/fl_favourites](https://github.com/kav2k/fl_favourites) - Playing Favourites for Fallen London
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
@@ -1843,11 +1843,12 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 - [nfstream/nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is Web application virtualization via zero trust remote browser isolation and secure document gateway technology. Embed secure & unrestricted webviews on any device in a regular webpage. 
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is secure reverse proxy that empowers web app virtualization via zero trust remote browsing and a secure document gateway. Embeddable, secure, unrestricted, multiplayer iframes on any dev
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
 
 ## dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
 - [huextrat/Taskist](https://github.com/huextrat/Taskist) - Flutter ToDo App with Firebase
@@ -2176,6 +2177,7 @@
 
 ## devops 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab for database DevOps
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) - CLI for executing Cirrus tasks locally and in any CI
@@ -3004,6 +3006,7 @@
 
 ## github 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab for database DevOps
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -3343,7 +3346,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [cornelk/goscrape](https://github.com/cornelk/goscrape) - Web scraper that can create an offline readable version of a website
-- [mainflux/mainflux](https://github.com/mainflux/mainflux) - Industrial IoT Messaging and Device Management Platform
+- [absmach/mainflux](https://github.com/absmach/mainflux) - Industrial IoT Messaging and Device Management Platform
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [craigmulligan/sandy](https://github.com/craigmulligan/sandy) - A tiny "sandbox" to run untrusted code 🏖️
@@ -3570,6 +3573,8 @@
 
 ## hacktoberfest 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab for database DevOps
+- [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [drom/awesome-hdl](https://github.com/drom/awesome-hdl) - Hardware Description Languages
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
@@ -4697,7 +4702,7 @@
 - [PureSwift/GATT](https://github.com/PureSwift/GATT) - Bluetooth Generic Attribute Profile (GATT) for Swift (Supports Linux)
 - [kamailio/kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [mainflux/mainflux](https://github.com/mainflux/mainflux) - Industrial IoT Messaging and Device Management Platform
+- [absmach/mainflux](https://github.com/absmach/mainflux) - Industrial IoT Messaging and Device Management Platform
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [renode/renode](https://github.com/renode/renode) - Renode - Antmicro's open source simulation and virtual development framework for complex embedded systems
 - [PureSwift/BluetoothLinux](https://github.com/PureSwift/BluetoothLinux) - Pure Swift Linux Bluetooth Stack
@@ -5333,6 +5338,7 @@
 
 ## latex 
 
+- [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [AnMnv/eBook](https://github.com/AnMnv/eBook) - LaTeX book with examples, open-source eBook
 - [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
 - [carloocchiena/the_statistics_handbook](https://github.com/carloocchiena/the_statistics_handbook) - the statistics handbook open source repository
@@ -6233,7 +6239,7 @@
 - [OldManUmby/DND.SRD.Wiki](https://github.com/OldManUmby/DND.SRD.Wiki) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
 - [naturalcrit/homebrewery](https://github.com/naturalcrit/homebrewery) - Create authentic looking D&D homebrews using only markdown
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [mattt/CommonMarkAttributedString](https://github.com/mattt/CommonMarkAttributedString) - Create NSAttributedStrings from Markdown Text
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
@@ -6347,6 +6353,7 @@
 
 ## mongodb 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab for database DevOps
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -6419,6 +6426,7 @@
 
 ## mysql 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab for database DevOps
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
@@ -6476,6 +6484,7 @@
 
 ## nextjs 
 
+- [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
@@ -6769,6 +6778,7 @@
 
 ## open-source 
 
+- [ExpressionEngine/ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine) - ExpressionEngine is a flexible, feature-rich, free open-source content management platform that empowers hundreds of thousands of individuals and organizations around the world to easily manage their 
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [tio/tio](https://github.com/tio/tio) - A simple serial device I/O tool
@@ -6904,6 +6914,15 @@
 
 ## others 
 
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/pdf/2312.08396.pdf
+- [pointfreeco/swift-clocks](https://github.com/pointfreeco/swift-clocks) - ⏰ A few clocks that make working with Swift concurrency more testable and more versatile.
+- [bdytx5/m1_mistral_local](https://github.com/bdytx5/m1_mistral_local) - Run mistral 7b locally!
+- [Leedehai/typst-physics](https://github.com/Leedehai/typst-physics) - physica: vectors, fields, differentials, derivatives, Dirac brakets, tensors, and more. See examples in the manual PDF.
+- [EricWay1024/tikzcd-editor](https://github.com/EricWay1024/tikzcd-editor) - Drawing commutative diagrams for Typst commute
+- [ATaylorCEngFIET/eink_fpga](https://github.com/ATaylorCEngFIET/eink_fpga) - 
+- [ole/pico-embedded-swift](https://github.com/ole/pico-embedded-swift) - Embedded Swift on the Raspberry Pi Pico
+- [iRobotEducation/create3_sim](https://github.com/iRobotEducation/create3_sim) - ROS 2 Simulation for the iRobot® Create® 3 Educational Robot
+- [hamsternz/FPGA_DisplayPort](https://github.com/hamsternz/FPGA_DisplayPort) - An implementation of DisplayPort protocol for FPGAs
 - [TobyLobster/multiply_test](https://github.com/TobyLobster/multiply_test) - Comparing 6502 multiply routines
 - [tinyfpga/TinyFPGA-Bootloader](https://github.com/tinyfpga/TinyFPGA-Bootloader) - An open source USB bootloader for FPGAs
 - [nxp-imx/imx-manifest](https://github.com/nxp-imx/imx-manifest) - i.MX Release Manifest
@@ -8229,7 +8248,7 @@
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
 - [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [system76/ec](https://github.com/system76/ec) - System76 Open Source Embedded Controller
-- [sigio/cipherli.st](https://github.com/sigio/cipherli.st) - Ciplerli.st - strong ciphers for NGINX, Apache and Lighttpd
+- [revspace/cipherlist.eu](https://github.com/revspace/cipherlist.eu) - Ciplerli.st - strong ciphers for NGINX, Apache and Lighttpd
 - [RaymiiOrg/certificate-expiry-monitor](https://github.com/RaymiiOrg/certificate-expiry-monitor) - https://certificatemonitor.org
 - [devanlai/dap42](https://github.com/devanlai/dap42) - CMSIS-DAP debugger firmware for STM32F042Fx and STM32F103xx
 - [apple/swift-service-discovery](https://github.com/apple/swift-service-discovery) - A service discovery API for Swift.
@@ -12439,6 +12458,7 @@
 
 ## php 
 
+- [ExpressionEngine/ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine) - ExpressionEngine is a flexible, feature-rich, free open-source content management platform that empowers hundreds of thousands of individuals and organizations around the world to easily manage their 
 - [Automattic/jetpack](https://github.com/Automattic/jetpack) - Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
@@ -12489,6 +12509,7 @@
 
 ## postgresql 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab for database DevOps
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [ALotOfVideos/stats](https://github.com/ALotOfVideos/stats) - Collects and tracks various stats of your Nexus Mods mods, ready to display with Grafana
 - [aws/pg_tle](https://github.com/aws/pg_tle) - Framework for building trusted language extensions for PostgreSQL
@@ -14032,6 +14053,7 @@
 
 ## sql 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab for database DevOps
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
@@ -14382,7 +14404,7 @@
 - [ittybittyapps/appstoreconnect-cli](https://github.com/ittybittyapps/appstoreconnect-cli) - An easy to use command-line tool for interacting with the Apple AppStore Connect API
 - [brightdigit/MistKit](https://github.com/brightdigit/MistKit) - Swift Package for Server-Side and Command-Line Access to CloudKit Web Services
 - [dmytro-anokhin/remote-content-view](https://github.com/dmytro-anokhin/remote-content-view) - SwiftUI view that makes loading content easy
-- [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating mathematical expressions
+- [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating natural language math expressions
 - [wickwirew/Shift](https://github.com/wickwirew/Shift) - Shift is a simple, declarative animation library for building complex view controller and view transitions in UIKit.
 - [kyle-n/HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - A SwiftUI view for dynamically highlighting user input
 - [mapbox/MapboxGeocoder.swift](https://github.com/mapbox/MapboxGeocoder.swift) - Address search and reverse geocoding in Swift or Objective-C on iOS, macOS, tvOS, and watchOS
