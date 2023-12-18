@@ -137,6 +137,7 @@
 - [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [UnrealScript](#unrealscript)
 - [VHDL](#vhdl)
 - [Vala](#vala)
@@ -1232,6 +1233,8 @@
 
 ## C++ 
 
+- [bdytx5/m1_mistral_local](https://github.com/bdytx5/m1_mistral_local) - Run mistral 7b locally!
+- [iRobotEducation/create3_sim](https://github.com/iRobotEducation/create3_sim) - ROS 2 Simulation for the iRobot® Create® 3 Educational Robot
 - [mikeroyal/Unreal-Engine-Guide](https://github.com/mikeroyal/Unreal-Engine-Guide) - Unreal Engine 5 Guide. Learn to develop games for Windows, Linux, macOS, iOS, Android, Xbox Series X|S, PlayStation  5, Nintendo Switch.
 - [ml-explore/mlx-data](https://github.com/ml-explore/mlx-data) - Efficient framework-agnostic data loading
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
@@ -1503,7 +1506,7 @@
 - [nvpro-samples/vk_raytracing_tutorial_KHR](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR) - Ray tracing examples and tutorials using VK_KHR_ray_tracing
 - [espressif/esp-serial-flasher](https://github.com/espressif/esp-serial-flasher) - Library for flashing Espressif SoCs from other MCUs.
 - [ArkScript-lang/Ark](https://github.com/ArkScript-lang/Ark) - ArkScript is a small, fast, functional and scripting language for C++ projects
-- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [Cockatrice/Cockatrice](https://github.com/Cockatrice/Cockatrice) - A cross-platform virtual tabletop for multiplayer card games
 - [bsnes-emu/bsnes](https://github.com/bsnes-emu/bsnes) - bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
@@ -1916,6 +1919,7 @@
 
 ## CMake 
 
+- [ole/pico-embedded-swift](https://github.com/ole/pico-embedded-swift) - Embedded Swift on the Raspberry Pi Pico
 - [iRobotEducation/irobot_create_msgs](https://github.com/iRobotEducation/irobot_create_msgs) - Action, message and service definitions used by the iRobot® Create® Platform
 - [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
 - [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) - 
@@ -2238,6 +2242,8 @@
 
 ## Go 
 
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/pdf/2312.08396.pdf
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab for database DevOps
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [philippta/flyscrape](https://github.com/philippta/flyscrape) - A standalone and scriptable web scraper in Go
 - [tcnksm/ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
@@ -2448,7 +2454,7 @@
 - [liamg/shox](https://github.com/liamg/shox) - 🍫 A customisable, universally compatible terminal status bar
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [avast/apkverifier](https://github.com/avast/apkverifier) - APK Signature verification in Go. Supports scheme v1, v2 and v3 and passes Google apksig's testing suite.
-- [mainflux/mainflux](https://github.com/mainflux/mainflux) - Industrial IoT Messaging and Device Management Platform
+- [absmach/mainflux](https://github.com/absmach/mainflux) - Industrial IoT Messaging and Device Management Platform
 - [usbarmory/tamago-example](https://github.com/usbarmory/tamago-example) - TamaGo - example application
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
@@ -2868,7 +2874,7 @@
 - [fcoury/kbpcb](https://github.com/fcoury/kbpcb) - Automated Keyboard PCB generator for KiCad
 - [alex/nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
 - [brendena/MathEquationsGoogleSlide](https://github.com/brendena/MathEquationsGoogleSlide) - convert latex to img on google slides
-- [sigio/cipherli.st](https://github.com/sigio/cipherli.st) - Ciplerli.st - strong ciphers for NGINX, Apache and Lighttpd
+- [revspace/cipherlist.eu](https://github.com/revspace/cipherlist.eu) - Ciplerli.st - strong ciphers for NGINX, Apache and Lighttpd
 - [atomicbird/tomlehrersongs.com](https://github.com/atomicbird/tomlehrersongs.com) - Mirror of tomlehrersongs.com
 - [SalusaSecondus/CryptoGotchas](https://github.com/SalusaSecondus/CryptoGotchas) - A collection of common (interesting) cryptographic mistakes and learning resources.
 - [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
@@ -3245,6 +3251,9 @@
 
 ## JavaScript 
 
+- [EricWay1024/tikzcd-editor](https://github.com/EricWay1024/tikzcd-editor) - Drawing commutative diagrams for Typst commute
+- [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
+- [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [kitzeller/barbara](https://github.com/kitzeller/barbara) - A virtual machine for creating visual live coding languages
@@ -3458,7 +3467,7 @@
 - [Andrew-Kang-G/url-knife](https://github.com/Andrew-Kang-G/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with robust patterns.
 - [YOCKOW/Action-setup-swift](https://github.com/YOCKOW/Action-setup-swift) - GitHub Action that sets up Swift.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is Web application virtualization via zero trust remote browser isolation and secure document gateway technology. Embed secure & unrestricted webviews on any device in a regular webpage. 
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is secure reverse proxy that empowers web app virtualization via zero trust remote browsing and a secure document gateway. Embeddable, secure, unrestricted, multiplayer iframes on any dev
 - [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [millette/oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
@@ -5687,6 +5696,7 @@
 
 ## PHP 
 
+- [ExpressionEngine/ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine) - ExpressionEngine is a flexible, feature-rich, free open-source content management platform that empowers hundreds of thousands of individuals and organizations around the world to easily manage their 
 - [Automattic/jetpack](https://github.com/Automattic/jetpack) - Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
 - [aws-samples/aws-refarch-wordpress](https://github.com/aws-samples/aws-refarch-wordpress) - This reference architecture provides best practices and a set of YAML CloudFormation templates for deploying WordPress on AWS.
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
@@ -7928,6 +7938,7 @@
 
 ## Swift 
 
+- [pointfreeco/swift-clocks](https://github.com/pointfreeco/swift-clocks) - ⏰ A few clocks that make working with Swift concurrency more testable and more versatile.
 - [kishikawakatsumi/swift-power-assert](https://github.com/kishikawakatsumi/swift-power-assert) - Power Assert in Swift.
 - [JanGorman/Agrume](https://github.com/JanGorman/Agrume) - 🍋 A lemony fresh iOS image viewer written in Swift.
 - [icanzilb/PackageView](https://github.com/icanzilb/PackageView) - An app that displays Package.swift info
@@ -8365,7 +8376,7 @@
 - [mattt/swift-registry](https://github.com/mattt/swift-registry) - A reference implementation of the Swift Package Registry, written in Swift and using Git as a database / transparent log.
 - [yassram/SwiLex](https://github.com/yassram/SwiLex) - A universal lexer library in Swift.
 - [cocoacontrols/SemanticUI](https://github.com/cocoacontrols/SemanticUI) - Understand iOS Semantic UI: Dark Mode, Colors, Dynamic Type, and SF Symbols.
-- [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating mathematical expressions
+- [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating natural language math expressions
 - [wickwirew/Shift](https://github.com/wickwirew/Shift) - Shift is a simple, declarative animation library for building complex view controller and view transitions in UIKit.
 - [kyle-n/HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - A SwiftUI view for dynamically highlighting user input
 - [DuncanMC/BlurredStrokedPath](https://github.com/DuncanMC/BlurredStrokedPath) - An iOS project that uses Core Animation and a layer's `shadowPath` to animate blurred stroked paths.
@@ -9817,12 +9828,18 @@
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 
+## Typst 
+
+- [Leedehai/typst-physics](https://github.com/Leedehai/typst-physics) - physica: vectors, fields, differentials, derivatives, Dirac brakets, tensors, and more. See examples in the manual PDF.
+
 ## UnrealScript 
 
 - [X2CommunityCore/X2WOTCCommunityHighlander](https://github.com/X2CommunityCore/X2WOTCCommunityHighlander) - https://steamcommunity.com/workshop/filedetails/?id=1134256495
 
 ## VHDL 
 
+- [ATaylorCEngFIET/eink_fpga](https://github.com/ATaylorCEngFIET/eink_fpga) - 
+- [hamsternz/FPGA_DisplayPort](https://github.com/hamsternz/FPGA_DisplayPort) - An implementation of DisplayPort protocol for FPGAs
 - [dnotq/ym2149_audio](https://github.com/dnotq/ym2149_audio) - YM-2149 / AY-3-8910 Complex Sound Generator FPGA core.
 - [yhqiu16/NVMeCHA](https://github.com/yhqiu16/NVMeCHA) - NVMe Controller featuring Hardware Acceleration
 - [the-aerospace-corporation/satcat5](https://github.com/the-aerospace-corporation/satcat5) - SatCat5 is a mixed-media Ethernet switch that lets a variety of devices communicate on the same network.
