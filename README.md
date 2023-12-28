@@ -289,6 +289,8 @@
 
 ## C 
 
+- [LibreDWG/libredwg](https://github.com/LibreDWG/libredwg) - Official mirror of libredwg. With CI hooks and nightly releases. PR's ok
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [TobyLobster/multiply_test](https://github.com/TobyLobster/multiply_test) - Comparing 6502 multiply routines
 - [nxp-imx/imx-jailhouse](https://github.com/nxp-imx/imx-jailhouse) - i.MX Jaihouse Hypervisor
 - [nxp-imx/imx-xen](https://github.com/nxp-imx/imx-xen) - i.MX Xen Hypervisor
@@ -1100,6 +1102,7 @@
 
 ## C# # 
 
+- [Macad3D/Macad3D](https://github.com/Macad3D/Macad3D) - Free and OpenSource 3D Construction Tool
 - [atenfyr/UAssetGUI](https://github.com/atenfyr/UAssetGUI) - A tool designed for low-level examination and modification of Unreal Engine 4 game assets by hand.
 - [LaughingLeader/BG3ModManager](https://github.com/LaughingLeader/BG3ModManager) - A mod manager for Baldur's Gate 3.
 - [Nexus-Mods/NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
@@ -1232,6 +1235,17 @@
 
 ## C++ 
 
+- [cuhk-eda/ripple-fpga](https://github.com/cuhk-eda/ripple-fpga) - RippleFPGA, A Simultaneous Pack-and-Place Algorithm for UltraScale FPGA
+- [asyncvlsi/act](https://github.com/asyncvlsi/act) - ACT hardware description language and core tools.
+- [The-OpenROAD-Project/OpenDB](https://github.com/The-OpenROAD-Project/OpenDB) - Database and Tool Framework for EDA
+- [trilomix/GDS3D](https://github.com/trilomix/GDS3D) - GDS3D is an application that can interpret so called IC layouts and render them in 3D. The program accepts standard GDSII files as input data. Along with the layout file, it requires a so called proce
+- [limbo018/Limbo](https://github.com/limbo018/Limbo) - Library for VLSI CAD Design Useful parsers and solvers' api are implemented.
+- [tpaviot/oce](https://github.com/tpaviot/oce) - OpenCASCADE Community Edition (OCE): a community driven fork of the Open CASCADE library.
+- [verilog-to-routing/vtr-verilog-to-routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing) - Verilog to Routing -- Open Source CAD Flow for FPGA Research
+- [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
+- [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
+- [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
+- [PlutoLang/Pluto](https://github.com/PlutoLang/Pluto) - A superset of Lua 5.4 — with unique features, optimizations, and improvements.
 - [bdytx5/m1_mistral_local](https://github.com/bdytx5/m1_mistral_local) - Run mistral 7b locally!
 - [iRobotEducation/create3_sim](https://github.com/iRobotEducation/create3_sim) - ROS 2 Simulation for the iRobot® Create® 3 Educational Robot
 - [mikeroyal/Unreal-Engine-Guide](https://github.com/mikeroyal/Unreal-Engine-Guide) - Unreal Engine 5 Guide. Learn to develop games for Windows, Linux, macOS, iOS, Android, Xbox Series X|S, PlayStation  5, Nintendo Switch.
@@ -3399,7 +3413,7 @@
 - [kentcdodds/babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros) - 🎣 Allows you to build simple compile-time libraries
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [getsentry/sentry-round-robin](https://github.com/getsentry/sentry-round-robin) - Sample internal integration for Sentry that assigns new issues to users, round-robin style
-- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [ijprest/keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
 - [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
 - [microsoft/uf2](https://github.com/microsoft/uf2) - UF2 file format specification
@@ -3802,7 +3816,7 @@
 - [captainsafia/giddy](https://github.com/captainsafia/giddy) - A CLI wrapper around git for an improved developer experience
 - [zalando/zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
@@ -4135,6 +4149,7 @@
 
 ## Jupyter Notebook 
 
+- [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a module that extends Python with the ability to design electronic circuits.
 - [aws-samples/amazon-textract-textractor](https://github.com/aws-samples/amazon-textract-textractor) - Analyze documents with Amazon Textract and generate output in multiple formats.
 - [bmurmann/Book-on-MOS-stages](https://github.com/bmurmann/Book-on-MOS-stages) - Book repository "Analysis and Design of Elementary MOS Amplifier Stages"
 - [Global-Chem/global-chem](https://github.com/Global-Chem/global-chem) - A Knowledge Graph of Common Chemical Names to their Molecular Definition
@@ -4334,6 +4349,7 @@
 
 ## Makefile 
 
+- [google/gf180mcu-pdk](https://github.com/google/gf180mcu-pdk) - PDK for GlobalFoundries' 180nm MCU bulk process technology (GF180MCU).
 - [usbarmory/usbarmory-debian-base_image](https://github.com/usbarmory/usbarmory-debian-base_image) - USB armory Debian base image
 - [zephray/prinux](https://github.com/zephray/prinux) - Tools and scripts for running Linux on HP Prime calculator
 - [JeffyCN/rockchip_mirrors](https://github.com/JeffyCN/rockchip_mirrors) - Mirrors of a few Rockchip BSP repositories, some others in https://github.com/JeffyCN/mirrors.
@@ -5004,6 +5020,8 @@
 
 ## Others 
 
+- [clin99/awesome-eda](https://github.com/clin99/awesome-eda) - 
+- [google/sky90fd-pdk](https://github.com/google/sky90fd-pdk) - 
 - [yetzt/null-island](https://github.com/yetzt/null-island) - A design reflection about the representation of missing values.
 - [nxp-imx/imx-manifest](https://github.com/nxp-imx/imx-manifest) - i.MX Release Manifest
 - [maxprilutskiy/awesome-side-project](https://github.com/maxprilutskiy/awesome-side-project) - 🔖 A collection of FREE tools to get your side project off the ground, and fast!
@@ -5411,7 +5429,7 @@
 - [ivanreese/visual-programming-codex](https://github.com/ivanreese/visual-programming-codex) - Waypoints to the past and future of visual programming.
 - [nikgraf/awesome-draft-js](https://github.com/nikgraf/awesome-draft-js) - Awesome list of Draft.js resources
 - [mehcode/awesome-atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources.
-- [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists
+- [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
@@ -5884,6 +5902,9 @@
 
 ## Python 
 
+- [SystemRDL/systemrdl-compiler](https://github.com/SystemRDL/systemrdl-compiler) - SystemRDL 2.0 language compiler front-end
+- [CadQuery/CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT
+- [openvmp/partcad](https://github.com/openvmp/partcad) - Package manager for CAD files and modelling framework for mechanical systems
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
 - [iic-jku/IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) - IIC-OSIC-TOOLS is an all-in-one Docker image for SKY130/GF180/IHP130-based analog and digital chip design. AMD64 and ARM64 are natively supported.
@@ -7580,6 +7601,7 @@
 
 ## Scala 
 
+- [ovh/sv2chisel](https://github.com/ovh/sv2chisel) - (System)Verilog to Chisel translator
 - [historicalsource/leisure-suit-larry-1-vga](https://github.com/historicalsource/leisure-suit-larry-1-vga) - A VGA version of a game about a man on a quest.
 - [ucb-bar/midas](https://github.com/ucb-bar/midas) - FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL
 - [freechipsproject/diagrammer](https://github.com/freechipsproject/diagrammer) - Provides dot visualizations of chisel/firrtl circuits
@@ -8481,7 +8503,7 @@
 - [JosephDuffy/xcutils](https://github.com/JosephDuffy/xcutils) - A collection of utilities to aid the use of the Xcode CLI
 - [harlanhaskins/Probably](https://github.com/harlanhaskins/Probably) - A Swift probability and statistics library
 - [nerdsupremacist/GraphZahl](https://github.com/nerdsupremacist/GraphZahl) - A Framework to implement Declarative, Type-Safe GraphQL Server APIs using Runtime Magic 🎩
-- [Swift-Watch/swift-watch](https://github.com/Swift-Watch/swift-watch) - Watches over your Swift project's source
+- [regexident/swift-watch](https://github.com/regexident/swift-watch) - Watches over your Swift project's source
 - [malayli/SwiftShaders](https://github.com/malayli/SwiftShaders) - SwiftShaders presents Shaders in Swift on iOS with GLSL, Metal and SceneKit frameworks
 - [timroesner/Pointer-Interactions](https://github.com/timroesner/Pointer-Interactions) - 🖱 A sample app to show case the different pointer interactions, effects, and shapes.
 - [nelglez/stripe-swiftui](https://github.com/nelglez/stripe-swiftui) - This is an example iOS project using Stripe with SwiftUI.
@@ -9875,6 +9897,8 @@
 
 ## Verilog 
 
+- [circuitgraph/circuitgraph](https://github.com/circuitgraph/circuitgraph) - Tools for working with circuits as graphs in python
+- [The-OpenROAD-Project/OpenROAD-flow-scripts](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts) - OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/
 - [tillitis/tillitis-key1](https://github.com/tillitis/tillitis-key1) - Board designs, FPGA verilog, firmware for TKey, the flexible and open USB security key 🔑
 - [olofk/serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
 - [FPGAwars/FPGA-peripherals](https://github.com/FPGAwars/FPGA-peripherals) - :seedling: :snowflake: Collection of open-source peripherals in Verilog
