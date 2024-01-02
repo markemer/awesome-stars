@@ -3863,7 +3863,7 @@
 - [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers http://steelbrain.me/linter/
 - [guerrero/generator-sketch-plugin](https://github.com/guerrero/generator-sketch-plugin) - Scaffold out a sketch plugin
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
-- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
+- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [apollographql/eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - :vertical_traffic_light: Check your GraphQL query strings against a schema.
 - [maximedegreve/TinyFaces-Sketch-Plugin](https://github.com/maximedegreve/TinyFaces-Sketch-Plugin) - Fill selected layers in Sketch with free stock avatars
 - [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
