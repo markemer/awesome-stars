@@ -46,6 +46,7 @@
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
+- [Euphoria](#euphoria)
 - [F#](#f#)
 - [Fortran](#fortran)
 - [G-code](#g-code)
@@ -248,7 +249,7 @@
 ## Astro 
 
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
-- [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
+- [roadmapsh/deprecated-version](https://github.com/roadmapsh/deprecated-version) - Next version of roadmap.sh
 
 ## AutoHotkey 
 
@@ -1101,6 +1102,7 @@
 
 ## C# # 
 
+- [atenfyr/UAssetAPI](https://github.com/atenfyr/UAssetAPI) - A low-level .NET library for reading and writing Unreal Engine 4 game assets.
 - [Macad3D/Macad3D](https://github.com/Macad3D/Macad3D) - Free and OpenSource 3D Construction Tool
 - [atenfyr/UAssetGUI](https://github.com/atenfyr/UAssetGUI) - A tool designed for low-level examination and modification of Unreal Engine 4 game assets by hand.
 - [LaughingLeader/BG3ModManager](https://github.com/LaughingLeader/BG3ModManager) - A mod manager for Baldur's Gate 3.
@@ -1234,6 +1236,8 @@
 
 ## C++ 
 
+- [TheGreatRambler/toost](https://github.com/TheGreatRambler/toost) - Level viewer for Super Mario Maker 2, based on  JiXiaomai's work
+- [PNDeb/rga-v4l2-demo](https://github.com/PNDeb/rga-v4l2-demo) - Example for using the rockchip rga mem2mem driver, adapted to work with the Pinenote
 - [verilog-to-routing/tatum](https://github.com/verilog-to-routing/tatum) - Tatum: A Fast, Flexible Static Timing Analysis (STA) Engine for Digital Circuits
 - [OpenTimer/Parser-SPEF](https://github.com/OpenTimer/Parser-SPEF) - A Fast C++ Header-only Parser for Standard Parasitic Exchange Format (SPEF).
 - [purdue-onchip/gds2Para](https://github.com/purdue-onchip/gds2Para) - GDSII File Parsing, IC Layout Analysis, and Parameter Extraction
@@ -2218,6 +2222,10 @@
 - [maximk/spawnpool](https://github.com/maximk/spawnpool) - The 'spawner' application for Zerg demo
 - [maximk/zergling](https://github.com/maximk/zergling) - A instance-per-page demo
 
+## Euphoria 
+
+- [PNDeb/pinenote-tweaks](https://github.com/PNDeb/pinenote-tweaks) - 
+
 ## F# # 
 
 - [fsharp/fsharp](https://github.com/fsharp/fsharp) - Please file issues or pull requests here: https://github.com/dotnet/fsharp
@@ -2473,7 +2481,7 @@
 - [liamg/shox](https://github.com/liamg/shox) - 🍫 A customisable, universally compatible terminal status bar
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [avast/apkverifier](https://github.com/avast/apkverifier) - APK Signature verification in Go. Supports scheme v1, v2 and v3 and passes Google apksig's testing suite.
-- [absmach/mainflux](https://github.com/absmach/mainflux) - Industrial IoT Messaging and Device Management Platform
+- [absmach/magistrala](https://github.com/absmach/magistrala) - Industrial IoT Messaging and Device Management Platform
 - [usbarmory/tamago-example](https://github.com/usbarmory/tamago-example) - TamaGo - example application
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
@@ -2535,7 +2543,7 @@
 - [GoogleCloudPlatform/cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) - Community-contributed images for Google Cloud Build
 - [googleapis/api-linter](https://github.com/googleapis/api-linter) - A linter for APIs defined in protocol buffers.
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An enterprise-ready, GRPC powered, GitOps enabled, feature management solution
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GRPC powered, GitOps enabled, Cloud Native feature management solution
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [googleworkspace/go-samples](https://github.com/googleworkspace/go-samples) - Go samples for Google Workspace APIs
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
@@ -5026,6 +5034,7 @@
 
 ## Others 
 
+- [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [google/open-source-pdks](https://github.com/google/open-source-pdks) - Index of the fully open source process design kits (PDKs) maintained by Google.
 - [clin99/awesome-eda](https://github.com/clin99/awesome-eda) - 
 - [google/sky90fd-pdk](https://github.com/google/sky90fd-pdk) - 
@@ -5908,11 +5917,13 @@
 
 ## Python 
 
+- [TheGreatRambler/MariOver](https://github.com/TheGreatRambler/MariOver) - Makes almost all of the data exposed by Mario Maker 2 servers public through an API
+- [PNDeb/pinenote-debian-image](https://github.com/PNDeb/pinenote-debian-image) - A user-ready linux image/rootfs for the Pine64 Pinenote based on Debian bookworm and GNOME
 - [obss/BIOBSS](https://github.com/obss/BIOBSS) - A package for processing signals recorded using wearable sensors, such as Electrocardiogram (ECG), Photoplethysmogram (PPG), Electrodermal activity (EDA) and 3-axis acceleration (ACC).
 - [ics-jku/wal](https://github.com/ics-jku/wal) - WAL enables programmable waveform analysis.
 - [SystemRDL/systemrdl-compiler](https://github.com/SystemRDL/systemrdl-compiler) - SystemRDL 2.0 language compiler front-end
 - [CadQuery/CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT
-- [openvmp/partcad](https://github.com/openvmp/partcad) - Package manager for CAD files and modelling framework for mechanical systems
+- [openvmp/partcad](https://github.com/openvmp/partcad) - Package manager for CAD files and modelling framework
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
 - [iic-jku/IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) - IIC-OSIC-TOOLS is an all-in-one Docker image for SKY130/GF180/IHP130-based analog and digital chip design. AMD64 and ARM64 are natively supported.
@@ -6861,6 +6872,7 @@
 
 - [mbutterick/hyphenate](https://github.com/mbutterick/hyphenate) - Racket implementation of Knuth–Liang hyphenation algorithm
 - [racket/drracket](https://github.com/racket/drracket) - DrRacket, IDE for Racket
+- [racket/racket](https://github.com/racket/racket) - The Racket repository
 
 ## Raku 
 
@@ -6895,6 +6907,7 @@
 
 ## Ruby 
 
+- [gettalong/hexapdf](https://github.com/gettalong/hexapdf) - Versatile PDF creation and manipulation for Ruby
 - [rggen/rggen](https://github.com/rggen/rggen) - Code generation tool for configuration and status registers
 - [Homebrew/ruby-macho](https://github.com/Homebrew/ruby-macho) - 🔩 A pure-Ruby library for parsing Mach-O files.
 - [exciting-io/printer](https://github.com/exciting-io/printer) - Tools for exploring the possibilities of "internet of things" printing.
@@ -7284,6 +7297,10 @@
 
 ## Rust 
 
+- [AstroTechies/unrealmodding](https://github.com/AstroTechies/unrealmodding) - Tools for making and loading Unreal Engine Mods. Originally developed for Astroneer.
+- [bananaturtlesandwich/stove](https://github.com/bananaturtlesandwich/stove) - an editor for cooked unreal engine 4/5 maps
+- [moturus/motor-os](https://github.com/moturus/motor-os) - 
+- [PNDeb/pinenote_dbus_service](https://github.com/PNDeb/pinenote_dbus_service) - A dbus daemon for controlling some driver aspects related to the Pine64 Pinenote
 - [ksk001100/seahorse](https://github.com/ksk001100/seahorse) - A minimal CLI framework written in Rust
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -7510,7 +7527,7 @@
 - [tessi/rpiet](https://github.com/tessi/rpiet) - The Piet interpreter written in Rust 🖼
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [kryptco/ssh-wire](https://github.com/kryptco/ssh-wire) - 
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust
@@ -7650,7 +7667,6 @@
 
 ## Scheme 
 
-- [racket/racket](https://github.com/racket/racket) - The Racket repository
 - [eholk/harlan](https://github.com/eholk/harlan) - A language for GPU computing.
 
 ## Shell 
@@ -7974,6 +7990,7 @@
 
 ## Swift 
 
+- [LucasVanDongen/ThreadTortureTests](https://github.com/LucasVanDongen/ThreadTortureTests) - A small Swift repository showcasing all kinds of edge cases and solutions when dealing with threads at scale
 - [pointfreeco/swift-clocks](https://github.com/pointfreeco/swift-clocks) - ⏰ A few clocks that make working with Swift concurrency more testable and more versatile.
 - [kishikawakatsumi/swift-power-assert](https://github.com/kishikawakatsumi/swift-power-assert) - Power Assert in Swift.
 - [JanGorman/Agrume](https://github.com/JanGorman/Agrume) - 🍋 A lemony fresh iOS image viewer written in Swift.
@@ -8074,7 +8091,7 @@
 - [touchlab/KmmBridgeIntegrationTest](https://github.com/touchlab/KmmBridgeIntegrationTest) - 
 - [ChimeHQ/UITestingPlus](https://github.com/ChimeHQ/UITestingPlus) - Utilities for working with XCUI testing
 - [pointfreeco/swift-identified-collections](https://github.com/pointfreeco/swift-identified-collections) - A library of data structures for working with collections of identifiable elements in an ergonomic, performant way.
-- [pepicrft/SwiftyRipgrep](https://github.com/pepicrft/SwiftyRipgrep) - 🔎 A package that wraps ripgrep and provides a Swift interface. For macOS and iOS
+- [tuist/SwiftyRipgrep](https://github.com/tuist/SwiftyRipgrep) - 🔎 A package that wraps ripgrep and provides a Swift interface. For macOS and iOS
 - [devxoul/Toaster](https://github.com/devxoul/Toaster) - 🍞 Toast for Swift
 - [anupamchugh/iowncode](https://github.com/anupamchugh/iowncode) - A curated collection of iOS, ML, AR resources sprinkled with some UI additions
 - [andreamazz/AMPopTip](https://github.com/andreamazz/AMPopTip) - An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
@@ -8796,7 +8813,7 @@
 - [airbnb/MagazineLayout](https://github.com/airbnb/MagazineLayout) - A collection view layout capable of laying out views in vertically scrolling grids and lists.
 - [erica/SwiftInterpolation](https://github.com/erica/SwiftInterpolation) - 
 - [JohnSundell/Shapeshift](https://github.com/JohnSundell/Shapeshift) - Quickly convert a folder containing Swift files into an iPad-compatible Playground
-- [tuist/xcbeautify](https://github.com/tuist/xcbeautify) - A little beautifier tool for xcodebuild
+- [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) - A little beautifier tool for xcodebuild
 - [XCTestHTMLReport/XCTestHTMLReport](https://github.com/XCTestHTMLReport/XCTestHTMLReport) - Xcode-like HTML report for Unit and UI Tests
 - [JohnSundell/SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform Swift framework projects from the command line
 - [velyan/Comment-Spell-Checker](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto-correcting code comments.
