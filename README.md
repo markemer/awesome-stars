@@ -289,6 +289,7 @@
 
 ## C 
 
+- [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [LibreDWG/libredwg](https://github.com/LibreDWG/libredwg) - Official mirror of libredwg. With CI hooks and nightly releases. PR's ok
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [TobyLobster/multiply_test](https://github.com/TobyLobster/multiply_test) - Comparing 6502 multiply routines
@@ -340,7 +341,7 @@
 - [rsms/llvmbox](https://github.com/rsms/llvmbox) - Self contained, fully static llvm tools & libs
 - [rizinorg/jsdec](https://github.com/rizinorg/jsdec) - Simple decompiler for Rizin
 - [ionic-team/capacitor-background-runner](https://github.com/ionic-team/capacitor-background-runner) - 
-- [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
+- [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [lepton-eda/lepton-eda](https://github.com/lepton-eda/lepton-eda) - GPL Electronic Design Automation
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [alt-romes/programmer-calculator](https://github.com/alt-romes/programmer-calculator) - Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits
@@ -1236,6 +1237,9 @@
 
 ## C++ 
 
+- [GregoryCannon/StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
+- [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
+- [VirtualGL/virtualgl](https://github.com/VirtualGL/virtualgl) - Main VirtualGL repository
 - [TheGreatRambler/toost](https://github.com/TheGreatRambler/toost) - Level viewer for Super Mario Maker 2, based on  JiXiaomai's work
 - [PNDeb/rga-v4l2-demo](https://github.com/PNDeb/rga-v4l2-demo) - Example for using the rockchip rga mem2mem driver, adapted to work with the Pinenote
 - [verilog-to-routing/tatum](https://github.com/verilog-to-routing/tatum) - Tatum: A Fast, Flexible Static Timing Analysis (STA) Engine for Digital Circuits
@@ -1258,6 +1262,7 @@
 - [ml-explore/mlx-data](https://github.com/ml-explore/mlx-data) - Efficient framework-agnostic data loading
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [podofo/podofo](https://github.com/podofo/podofo) - A C++17 PDF manipulation library
+- [The-Chinese-Room/InkpotDemo](https://github.com/The-Chinese-Room/InkpotDemo) - Small demo project in Unreal showing how to use Inkpot
 - [The-Chinese-Room/Inkpot](https://github.com/The-Chinese-Room/Inkpot) - Inkpot - a container for Ink
 - [azonenberg/triggercrossbar](https://github.com/azonenberg/triggercrossbar) - Rack mountable crossbar matrix for T&M trigger in/out signals, allowing dynamic reconfiguration of an experiment without recabling
 - [ThirteenAG/Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) - ASI Loader is the tool that loads custom libraries with the file extension .asi into any game process.
@@ -1531,7 +1536,7 @@
 - [bsnes-emu/bsnes](https://github.com/bsnes-emu/bsnes) - bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [brettcvz/upnext](https://github.com/brettcvz/upnext) - A desktop calendar, based on a raspberry pi and e-ink display
-- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++14 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and 
+- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++17 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and 
 - [pisa-engine/pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes and Search for Academia
 - [akinomyoga/cxxmatrix](https://github.com/akinomyoga/cxxmatrix) - C++ Matrix: The Matrix Reloaded in Terminals (Number falls, Banners, Matrix rains, Conway's Game of Life and Mandelbrot set)
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
@@ -1825,7 +1830,7 @@
 - [RetroPie/EmulationStation](https://github.com/RetroPie/EmulationStation) - A Fork of Emulation Station for RetroPie. Emulation Station is a flexible emulator front-end supporting keyboardless navigation and custom system themes.
 - [eonil/ClangWrapper.Swift](https://github.com/eonil/ClangWrapper.Swift) - Clang C API wrapper for Swift.
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
-- [jorj1988/lldb-example](https://github.com/jorj1988/lldb-example) - 
+- [0x55555555/lldb-example](https://github.com/0x55555555/lldb-example) - 
 - [apple/swift-llbuild](https://github.com/apple/swift-llbuild) - A low-level build system, used by Xcode and the Swift Package Manager
 - [MythTV/mythtv](https://github.com/MythTV/mythtv) - The official MythTV repository
 - [genodelabs/genode](https://github.com/genodelabs/genode) - Genode OS Framework
@@ -2245,6 +2250,7 @@
 
 ## GDScript 
 
+- [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot!
 - [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
 - [ephread/inkgd](https://github.com/ephread/inkgd) - Implementation of inkle's Ink in pure GDScript for Godot, with editor support.
 
@@ -2285,6 +2291,7 @@
 - [crc-org/vfkit](https://github.com/crc-org/vfkit) - 
 - [JinlianWang/go-example-extension](https://github.com/JinlianWang/go-example-extension) - A Lambda extension to proxy retrieval of secrets from AWS Secrets Manager.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
+- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API
 - [mitchellh/gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [osteele/liquid](https://github.com/osteele/liquid) - A Liquid template engine in Go
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
@@ -2543,7 +2550,7 @@
 - [GoogleCloudPlatform/cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) - Community-contributed images for Google Cloud Build
 - [googleapis/api-linter](https://github.com/googleapis/api-linter) - A linter for APIs defined in protocol buffers.
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GRPC powered, GitOps enabled, Cloud Native feature management solution
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GRPC powered, GitOps enabled, CloudNative feature management solution
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [googleworkspace/go-samples](https://github.com/googleworkspace/go-samples) - Go samples for Google Workspace APIs
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
@@ -3115,7 +3122,6 @@
 
 ## Ink 
 
-- [The-Chinese-Room/InkpotDemo](https://github.com/The-Chinese-Room/InkpotDemo) - Small demo project in Unreal showing how to use Inkpot
 - [inkle/ink-library](https://github.com/inkle/ink-library) - A collection of ink samples, tools and a list of projects that use ink
 
 ## Inno Setup 
@@ -3774,7 +3780,6 @@
 - [GoogleChromeLabs/howto-components](https://github.com/GoogleChromeLabs/howto-components) - Literate code examples for common UI patterns.
 - [facebookarchive/atom-ide-ui](https://github.com/facebookarchive/atom-ide-ui) - A collection of user interfaces for Atom IDE.
 - [olehmalovichko/homebridge-script](https://github.com/olehmalovichko/homebridge-script) - Run custom script on HomeKit
-- [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [glittershark/reactable](https://github.com/glittershark/reactable) - Fast, flexible, and simple data tables in React
 - [idyll-lang/idyll](https://github.com/idyll-lang/idyll) - Create explorable explanations and interactive essays.
 - [jthegedus/firebase-functions-es6-example](https://github.com/jthegedus/firebase-functions-es6-example) - Use ES6 to develop Cloud Functions for Firebase today!
@@ -5034,6 +5039,7 @@
 
 ## Others 
 
+- [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [google/open-source-pdks](https://github.com/google/open-source-pdks) - Index of the fully open source process design kits (PDKs) maintained by Google.
 - [clin99/awesome-eda](https://github.com/clin99/awesome-eda) - 
@@ -5099,7 +5105,7 @@
 - [vircon32/Vircon32Documents](https://github.com/vircon32/Vircon32Documents) - A collection of PDF documents related to the console. Mainly specifications and guides.
 - [bertjiazheng/Awesome-CAD](https://github.com/bertjiazheng/Awesome-CAD) - 😎 A list of awesome Computer-Aided Design (CAD) papers
 - [overset/JP01](https://github.com/overset/JP01) - JP01 - Arisu Custom CNC Aluminum Unibody Keyboard Case
-- [issus/altium-library](https://github.com/issus/altium-library) - Open source Altium Database Library with over 165,000 high quality components and full 3d models.
+- [issus/altium-library](https://github.com/issus/altium-library) - Open source Altium Database Library with over 200,000 high quality components and full 3d models.
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [whatthefilament/Framework-AIO](https://github.com/whatthefilament/Framework-AIO) - AIO Mod for Framework Laptop
 - [soulverteam/Soulver-CLI](https://github.com/soulverteam/Soulver-CLI) - A standalone command-line version of Soulver (for macOS)
@@ -5923,7 +5929,7 @@
 - [ics-jku/wal](https://github.com/ics-jku/wal) - WAL enables programmable waveform analysis.
 - [SystemRDL/systemrdl-compiler](https://github.com/SystemRDL/systemrdl-compiler) - SystemRDL 2.0 language compiler front-end
 - [CadQuery/CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT
-- [openvmp/partcad](https://github.com/openvmp/partcad) - Package manager for CAD files and modelling framework
+- [openvmp/partcad](https://github.com/openvmp/partcad) - Package manager for CAD files and a modelling framework
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
 - [iic-jku/IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) - IIC-OSIC-TOOLS is an all-in-one Docker image for SKY130/GF180/IHP130-based analog and digital chip design. AMD64 and ARM64 are natively supported.
@@ -6709,7 +6715,6 @@
 - [FauxPasApp/fauxpas-converter](https://github.com/FauxPasApp/fauxpas-converter) - Convert Faux Pas diagnostics set JSON to different formats
 - [avinassh/rockstar](https://github.com/avinassh/rockstar) - Makes you a Rockstar C++ Programmer in 2 minutes
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
@@ -7525,7 +7530,7 @@
 - [spieglt/nestur](https://github.com/spieglt/nestur) - The NES (emulator) you left outside in the rain but let dry and still kind of works
 - [rtic-rs/rtic](https://github.com/rtic-rs/rtic) - Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers
 - [tessi/rpiet](https://github.com/tessi/rpiet) - The Piet interpreter written in Rust 🖼
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [kryptco/ssh-wire](https://github.com/kryptco/ssh-wire) - 
@@ -7595,6 +7600,7 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [llasram/openssl-2xdrop-rust](https://github.com/llasram/openssl-2xdrop-rust) - Minimal reproduction case for rust-openssl double-drop bug
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
@@ -7675,7 +7681,6 @@
 - [ebastler/marbastlib](https://github.com/ebastler/marbastlib) - A library collecting MX and Choc style footprints, as well as various other parts used to design custom keyboards
 - [simonbs/xctemplates](https://github.com/simonbs/xctemplates) - ⚙️ Opinionated Xcode templates
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
-- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API
 - [ValveSoftware/steam-runtime](https://github.com/ValveSoftware/steam-runtime) - A runtime environment for Steam applications
 - [swift-server/swift-devcontainer-template](https://github.com/swift-server/swift-devcontainer-template) - Visual Studio Code Development Container for Swift
 - [cli/gh-extension-precompile](https://github.com/cli/gh-extension-precompile) - Action for publishing binary GitHub CLI extensions
@@ -7736,7 +7741,7 @@
 - [uraimo/buildSwiftOnARM](https://github.com/uraimo/buildSwiftOnARM) - All you need to build Swift on a RaspberryPi or other ARM boards, updated to Swift 5.1.5
 - [digitalist/bash_database_history](https://github.com/digitalist/bash_database_history) - save your bash/zsh history to mysql or sqlite
 - [chipsalliance/aib-phy-generator](https://github.com/chipsalliance/aib-phy-generator) - AIB Generator: Analog hardware compiler for AIB PHY
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on https://game-icons.net
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
@@ -9549,7 +9554,6 @@
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) - Working Draft of the RISC-V Debug Specification Standard
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [ycoroneos/G.E.R.T](https://github.com/ycoroneos/G.E.R.T) - 
-- [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 - [gpoore/minted](https://github.com/gpoore/minted) - minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.
 - [gonsie/rpi-thesis-resources](https://github.com/gonsie/rpi-thesis-resources) - RPI Latex Thesis Class
 - [mprentice/GraphViz-sty](https://github.com/mprentice/GraphViz-sty) - graphviz.sty - A library for using GraphViz dot files in LaTeX
@@ -9566,7 +9570,7 @@
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Chrome extension that generates API specs for any app or website
 - [Canna71/obsidian-mathpad](https://github.com/Canna71/obsidian-mathpad) - Computer Algebra System (CAS) for Obsidian.md
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
 - [dylibso/observe-sdk](https://github.com/dylibso/observe-sdk) - Continuous runtime observablity SDKs to monitor WebAssembly code.
@@ -9834,6 +9838,7 @@
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
 - [atom/atom-languageclient](https://github.com/atom/atom-languageclient) - Language Server Protocol support for Atom (the basis of Atom-IDE)
 - [gilbarbara/react-inlinesvg](https://github.com/gilbarbara/react-inlinesvg) - An SVG loader component for ReactJS
+- [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
