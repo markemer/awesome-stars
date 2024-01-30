@@ -6995,6 +6995,7 @@
 
 ## others 
 
+- [mirage/mirage-crypto](https://github.com/mirage/mirage-crypto) - Cryptographic primitives for MirageOS
 - [gerbv/gerbv](https://github.com/gerbv/gerbv) - Maintained fork of gerbv, carrying mostly bugfixes
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [bungle/awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
