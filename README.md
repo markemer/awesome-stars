@@ -336,7 +336,6 @@
 - [mecparts/RetroWiFiModem](https://github.com/mecparts/RetroWiFiModem) - An ESP8266 based RS232 &lt;-&gt; WiFi modem with Hayes AT style commands and LED indicators
 - [nickandre/dnvt-fw](https://github.com/nickandre/dnvt-fw) - 
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
-- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [ZipCPU/eth10g](https://github.com/ZipCPU/eth10g) - 10Gb Ethernet Switch
 - [openhwgroup/cvw](https://github.com/openhwgroup/cvw) - CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches,
 - [utmapp/qemu](https://github.com/utmapp/qemu) - qemu with iOS host support
@@ -681,7 +680,6 @@
 - [lieff/minimp4](https://github.com/lieff/minimp4) - Minimalistic MP4 mux/demux single header library
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
 - [westes/flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
-- [rmagick/rmagick](https://github.com/rmagick/rmagick) - Ruby bindings for ImageMagick
 - [facebook/fishhook](https://github.com/facebook/fishhook) - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
 - [openxc/openxc-message-format](https://github.com/openxc/openxc-message-format) - Specification for the OpenXC JSON message format
 - [holzschu/ios_system](https://github.com/holzschu/ios_system) - Drop-in replacement for system() in iOS programs
@@ -1309,6 +1307,7 @@
 - [jkriege2/JKQtPlotter](https://github.com/jkriege2/JKQtPlotter) - an extensive Qt5 & Qt6 Plotter framework (including a feature-richt plotter widget, a speed-optimized, but limited variant and a LaTeX equation renderer!), written fully in C/C++ and without external 
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 - [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
+- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [coin3d/coin](https://github.com/coin3d/coin) - Coin3D core library
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [jaroslov/knuth-plass-thoughts](https://github.com/jaroslov/knuth-plass-thoughts) - Description and implementation of the core Knuth-Plass line-wrapping algorithm.
@@ -1605,6 +1604,7 @@
 - [lsegal/my_toy_compiler](https://github.com/lsegal/my_toy_compiler) - My Toy Compiler. Read about how I did it at the homepage URL
 - [jonathan-beard/simple_wc_example](https://github.com/jonathan-beard/simple_wc_example) - simple word count example using flex/bison parser
 - [emaculation/macemu](https://github.com/emaculation/macemu) - Basilisk II and SheepShaver Macintosh emulators, maintained
+- [rmagick/rmagick](https://github.com/rmagick/rmagick) - Ruby bindings for ImageMagick
 - [Alia5/GlosSI](https://github.com/Alia5/GlosSI) - Tool for using Steam-Input controller rebinding at a system level alongside a global overlay
 - [google/sandboxed-api](https://github.com/google/sandboxed-api) - Generate sandboxes for C/C++ libraries automatically
 - [DeanRoddey/CIDLib](https://github.com/DeanRoddey/CIDLib) - The CIDLib general purpose C++ development environment
@@ -3285,7 +3285,7 @@
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [turesheim/eclipse-launcher](https://github.com/turesheim/eclipse-launcher) - A simple Eclipse plug-in for macOS that will add a "Open Workspace" menu item to open a new instance of the application using the selected workspace.
 - [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
-- [luckytoilet/MSolver](https://github.com/luckytoilet/MSolver) - A small, self-contained minesweeper solver written in Java
+- [lucky-bai/MSolver](https://github.com/lucky-bai/MSolver) - A small, self-contained minesweeper solver written in Java
 - [nycapitolcamp/historic-marker-catalog](https://github.com/nycapitolcamp/historic-marker-catalog) - A mobile application to catalog historic markers throughout New York State.
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
@@ -3517,7 +3517,6 @@
 - [kav2k/fl_favourites](https://github.com/kav2k/fl_favourites) - Playing Favourites for Fallen London
 - [sdob/fl-social-notifications](https://github.com/sdob/fl-social-notifications) - An unofficial extension for Fallen London that checks your Messages tab for you.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [PaulTaykalo/objc-dependency-visualizer](https://github.com/PaulTaykalo/objc-dependency-visualizer) - Objective-C and Swift dependency visualizer. It's tool that helps to visualize current state of your project. It's really easy to see how tight your classes are coupled.
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
@@ -3623,7 +3622,7 @@
 - [zaidalyafeai/ml-projects](https://github.com/zaidalyafeai/ml-projects) - Implementation of web friendly ML models using TensorFlow.js. pix2pix, face segmentation, fast style transfer and many more ...
 - [TimvanScherpenzeel/gltf-to-usdz-research](https://github.com/TimvanScherpenzeel/gltf-to-usdz-research) - Research and proof of concept of converting glTF to USDZ for AR Quick Look (iOS 12+).
 - [ghuser-io/ghuser.io](https://github.com/ghuser-io/ghuser.io) - :octocat: Better GitHub profiles
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [affinelayer/pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) - Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets https://phillipi.github.io/pix2pix/
 - [devongovett/regexgen](https://github.com/devongovett/regexgen) - Generate regular expressions that match a set of strings
 - [galaxykate/tracery](https://github.com/galaxykate/tracery) - Tracery: a story-grammar generation library for javascript
@@ -4249,7 +4248,6 @@
 - [udacity/self-driving-car](https://github.com/udacity/self-driving-car) - The Udacity open source self-driving car project
 - [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Me
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [fivethirtyeight/data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
 - [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) - Simple tutorials using Google's TensorFlow Framework
 - [ocropus-archive/DUP-ocropy](https://github.com/ocropus-archive/DUP-ocropy) - Python-based tools for document analysis and OCR
@@ -5344,6 +5342,7 @@
 - [0x4447/0x4447_product_s3_email](https://github.com/0x4447/0x4447_product_s3_email) - 📫 A serverless email server on AWS using S3 and SES
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [davatron5000/awesome-standalones](https://github.com/davatron5000/awesome-standalones) - A curated list of awesome framework-agnostic standalone web components
 - [syntax-tree/hast](https://github.com/syntax-tree/hast) - Hypertext Abstract Syntax Tree format
 - [wojteklu/xcode-open-on-github](https://github.com/wojteklu/xcode-open-on-github) - Quick Actions for Xcode to jump to a source code line on Github or copy GitHub link to clipboard.
@@ -5947,6 +5946,7 @@
 
 ## Python 
 
+- [mkjt2/lockbox](https://github.com/mkjt2/lockbox) - Lockbox is a forward proxy for making third party API calls.
 - [TheGreatRambler/MariOver](https://github.com/TheGreatRambler/MariOver) - Makes almost all of the data exposed by Mario Maker 2 servers public through an API
 - [PNDeb/pinenote-debian-image](https://github.com/PNDeb/pinenote-debian-image) - A user-ready linux image/rootfs for the Pine64 Pinenote based on Debian bookworm and GNOME
 - [obss/BIOBSS](https://github.com/obss/BIOBSS) - A package for processing signals recorded using wearable sensors, such as Electrocardiogram (ECG), Photoplethysmogram (PPG), Electrodermal activity (EDA) and 3-axis acceleration (ACC).
@@ -6456,7 +6456,6 @@
 - [foxpass/foxpass-tools](https://github.com/foxpass/foxpass-tools) - Foxpass tools and utilities
 - [foxpass/foxpass-setup](https://github.com/foxpass/foxpass-setup) - Scripts for setting up Foxpass integration in common environments
 - [foxpass/foxpass-ipsec-vpn](https://github.com/foxpass/foxpass-ipsec-vpn) - L2TP/IPSEC VPN with built-in Duo support
-- [vyos/vyos-build](https://github.com/vyos/vyos-build) - VyOS image build scripts
 - [vyos/vyos-1x](https://github.com/vyos/vyos-1x) - VyOS command definitions, scripts, and utilities
 - [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [newsdev/who-the-hill](https://github.com/newsdev/who-the-hill) - Who The Hill: An MMS-based facial recognition service for members of Congress.
@@ -6709,6 +6708,7 @@
 - [fonttools/fontbakery](https://github.com/fonttools/fontbakery) - 🧁 A font quality assurance tool for everyone
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents.
+- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
@@ -7845,6 +7845,7 @@
 - [kylef/heroku-buildpack-swift](https://github.com/kylef/heroku-buildpack-swift) - Heroku build pack for Swift
 - [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
 - [vyos-legacy/build-ami](https://github.com/vyos-legacy/build-ami) - VyOS AMI build scripts
+- [vyos/vyos-build](https://github.com/vyos/vyos-build) - VyOS image build scripts
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [vitasdk/vdpm](https://github.com/vitasdk/vdpm) - SDK installer and package "manager" for $VITASDK
 - [libretro/libretro-super](https://github.com/libretro/libretro-super) - Super repo for other libretro projects. Fetches, builds and installs.
@@ -9599,7 +9600,7 @@
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Chrome extension that generates API specs for any app or website
 - [Canna71/obsidian-mathpad](https://github.com/Canna71/obsidian-mathpad) - Computer Algebra System (CAS) for Obsidian.md
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
