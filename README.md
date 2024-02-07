@@ -156,7 +156,6 @@
 - [ZIL](#zil)
 - [Zig](#zig)
 - [nesC](#nesc)
-- [q](#q)
 
 ## AGS Script 
 
@@ -699,7 +698,6 @@
 - [OpenAMP/libmetal](https://github.com/OpenAMP/libmetal) - An abstraction layer across RTOS, baremetal, and user-space Linux environments
 - [rsms/fontkit](https://github.com/rsms/fontkit) - JS & WASM library for working with fonts
 - [TeamFAPS/PSVita-RE-tools](https://github.com/TeamFAPS/PSVita-RE-tools) - A bundle of RE tools for analyzing and modding PSVita OS
-- [mlua-rs/rlua](https://github.com/mlua-rs/rlua) - High level Lua bindings to Rust
 - [inteliclinic/NeuroonOpenFirmware](https://github.com/inteliclinic/NeuroonOpenFirmware) - 
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [ers35/luakernel](https://github.com/ers35/luakernel) - Lua + SQLite + musl libc running on x86.
@@ -1001,7 +999,7 @@
 - [jncronin/rpi-boot](https://github.com/jncronin/rpi-boot) - A second stage bootloader for the Raspberry Pi
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
 - [LuaDist/luajit](https://github.com/LuaDist/luajit) - LuaJIT is JIT compiler for the Lua language.
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [simh/simh](https://github.com/simh/simh) - The Computer History Simulation Project
 - [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
@@ -1240,6 +1238,7 @@
 
 ## C++ 
 
+- [Gcenx/DXVK-macOS](https://github.com/Gcenx/DXVK-macOS) - Vulkan-based implementation of D3D10 and D3D11 for macOS / Wine
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [GregoryCannon/StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
@@ -1260,7 +1259,7 @@
 - [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
 - [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
-- [PlutoLang/Pluto](https://github.com/PlutoLang/Pluto) - A superset of Lua 5.4 — with unique features, optimizations, and improvements.
+- [PlutoLang/Pluto](https://github.com/PlutoLang/Pluto) - A superset of Lua 5.4 with a focus on general-purpose programming.
 - [bdytx5/m1_mistral_local](https://github.com/bdytx5/m1_mistral_local) - Run mistral 7b locally!
 - [iRobotEducation/create3_sim](https://github.com/iRobotEducation/create3_sim) - ROS 2 Simulation for the iRobot® Create® 3 Educational Robot
 - [mikeroyal/Unreal-Engine-Guide](https://github.com/mikeroyal/Unreal-Engine-Guide) - Unreal Engine 5 Guide. Learn to develop games for Windows, Linux, macOS, iOS, Android, Xbox Series X|S, PlayStation  5, Nintendo Switch.
@@ -1436,7 +1435,7 @@
 - [masagrator/Status-Monitor-Overlay](https://github.com/masagrator/Status-Monitor-Overlay) - Monitor many stats of Nintendo Switch hardware
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [timdecode/LifeBrush](https://github.com/timdecode/LifeBrush) - A toolkit for painting agent-based mesoscale molecular simulations and illustrations.
-- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba | 一站式图计算系统
 - [daylen/stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac
 - [ihaque/pelomon](https://github.com/ihaque/pelomon) - Source code for the PeloMon Bluetooth LE sensor relay and for decoding Peloton communications
 - [googlefonts/fontdiff](https://github.com/googlefonts/fontdiff) - tool for finding visual differences between two font versions
@@ -2286,6 +2285,9 @@
 
 ## Go 
 
+- [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
+- [Vanilla-OS/Prometheus](https://github.com/Vanilla-OS/Prometheus) - Prometheus is a simple and accessible library for pulling and mounting container images. It is designed to be used as a dependency in ABRoot and Albius.
+- [apple/pkl-go-examples](https://github.com/apple/pkl-go-examples) - Examples for using Pkl within Go applications
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Forwarder is a production-ready, fast MITM proxy with PAC support. It's suitable for debugging, intercepting and manipulating HTTP traffic. It's used as a core component of Sauce Labs Sauce Connect Pr
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
@@ -2876,6 +2878,7 @@
 
 - [chilaPCB/Altium-Library](https://github.com/chilaPCB/Altium-Library) - Altium Library with 4000 components, IPC compliant footprints, 3D step model
 - [fabriziotappero/opencores-scraper](https://github.com/fabriziotappero/opencores-scraper) - few python scripts to clone all IP cores from opencores.org
+- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20/23)
 - [will127534/OneInchEye](https://github.com/will127534/OneInchEye) - A One Inch CMOS sensor (IMX283) camera board designed for Raspberry Pi
 - [thpoll83/PolyKybd](https://github.com/thpoll83/PolyKybd) - PolyKybd
 - [dy/wavefont](https://github.com/dy/wavefont) - Typeface for rendering waveform/data
@@ -3007,6 +3010,7 @@
 - [GSA/data](https://github.com/GSA/data) - Assorted data from the General Services Administration.
 - [mariechatfield/call-my-congress](https://github.com/mariechatfield/call-my-congress) - DEPRECATED. Simple app that displays contact information for US Congress representatives by district.
 - [h5bp/html5boilerplate.com](https://github.com/h5bp/html5boilerplate.com) - Files for the HTML5 Boilerplate website.
+- [KxSystems/kdb](https://github.com/KxSystems/kdb) - Companion files to kdb+ and q
 - [Financial-Times/chart-doctor](https://github.com/Financial-Times/chart-doctor) - Sample files to accompany the FT's Chart Doctor column
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [guildai/_guild-legacy](https://github.com/guildai/_guild-legacy) - Legacy code for Guild's original implementation in Erlang
@@ -3152,6 +3156,7 @@
 
 ## Java 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [techyourchance/android-architecture-course](https://github.com/techyourchance/android-architecture-course) - 
@@ -3304,6 +3309,8 @@
 
 ## JavaScript 
 
+- [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
+- [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [JerryI/wljs-interpreter](https://github.com/JerryI/wljs-interpreter) - 
 - [html5-ninja/page-replica](https://github.com/html5-ninja/page-replica) - Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost
 - [ahmed-agiza/EDAViewer](https://github.com/ahmed-agiza/EDAViewer) - EDAV: Open-Source EDA Viewer; render design LEF/DEF files in your browser!
@@ -4268,6 +4275,8 @@
 
 ## Kotlin 
 
+- [apple/pkl-pantry](https://github.com/apple/pkl-pantry) - Shared Pkl packages
+- [apple/pkl-package-docs](https://github.com/apple/pkl-package-docs) - Documentation for Pkl packages
 - [touchlab/SKIE](https://github.com/touchlab/SKIE) - SKIE - Swift Kotlin Interface Enhancer
 - [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 - [OutSystems/cordova-plugin-lottie-splashscreen](https://github.com/OutSystems/cordova-plugin-lottie-splashscreen) - 
@@ -5057,6 +5066,7 @@
 
 ## Others 
 
+- [marzent/wine-msync](https://github.com/marzent/wine-msync) - A Mach semaphore-based synchronization mechanism for Wine on macOS. Built for speed, inspired by fsync.
 - [bungle/awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [schlae/EGACard](https://github.com/schlae/EGACard) - EGA graphics card reference layout
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
@@ -5070,7 +5080,6 @@
 - [maxprilutskiy/awesome-side-project](https://github.com/maxprilutskiy/awesome-side-project) - 🔖 A collection of FREE tools to get your side project off the ground, and fast!
 - [ben-marshall/awesome-open-hardware-verification](https://github.com/ben-marshall/awesome-open-hardware-verification) - A List of Free and Open Source Hardware Verification Tools and Frameworks
 - [drom/awesome-hdl](https://github.com/drom/awesome-hdl) - Hardware Description Languages
-- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20/23)
 - [fabriziotappero/ip-cores](https://github.com/fabriziotappero/ip-cores) - A huge collection of VHDL/Verilog open-source IP cores scraped from the web
 - [arcataroger/awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - A curated list of engineering-related video games rated Very Positive or higher on Steam
 - [Heber-co-uk/Multisystem](https://github.com/Heber-co-uk/Multisystem) - The MiSTer Multisystem console Hardware PCB - FPGA platform
@@ -5243,7 +5252,7 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [alexkaessner/macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) - :gem: The most detailed and accurate macOS UI Kit for Sketch. This Sketch Library includes common Mac interface elements, cursors, and a Touch Bar UI Kit.
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-14.0.0 [November 2023]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-14.0.1 [February 2024]
 - [arturo182/kicad-modules](https://github.com/arturo182/kicad-modules) - A repository with all my custom footprints and 3d models for KiCad
 - [arturo182/BBQ10KBD](https://github.com/arturo182/BBQ10KBD) - 
 - [yewalenikhil65/Resources-for-engineering-students-who-like-mathematics](https://github.com/yewalenikhil65/Resources-for-engineering-students-who-like-mathematics) - This is a collection of resources that I feel will prove useful to anyone studying in the area of engineering but also like mathematics. I urge anyone who comes across this, to contribute to the list 
@@ -5946,6 +5955,8 @@
 
 ## Python 
 
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste) - The Django project driving dpaste.org
 - [mkjt2/lockbox](https://github.com/mkjt2/lockbox) - Lockbox is a forward proxy for making third party API calls.
 - [TheGreatRambler/MariOver](https://github.com/TheGreatRambler/MariOver) - Makes almost all of the data exposed by Mario Maker 2 servers public through an API
 - [PNDeb/pinenote-debian-image](https://github.com/PNDeb/pinenote-debian-image) - A user-ready linux image/rootfs for the Pine64 Pinenote based on Debian bookworm and GNOME
@@ -6842,7 +6853,7 @@
 - [SublimeText/PackageDev](https://github.com/SublimeText/PackageDev) - Tools to ease the creation of snippets, syntax definitions, etc. for Sublime Text.
 - [colah/surfcad](https://github.com/colah/surfcad) - Surface-Oriented CAD Library for Python
 - [shazow/workerpool](https://github.com/shazow/workerpool) - Python multithreaded job distribution module.
-- [SublimeText/LaTeXTools](https://github.com/SublimeText/LaTeXTools) - LaTeX plugin for Sublime Text 2 and 3
+- [SublimeText/LaTeXTools](https://github.com/SublimeText/LaTeXTools) - LaTeX plugin for Sublime Text
 - [zachwill/flask-engine](https://github.com/zachwill/flask-engine) - A Flask skeleton for Google App Engine, using html5 boilerplate templating.
 - [openyou/emokit](https://github.com/openyou/emokit) - Open source driver for accessing raw data from the Emotiv EPOC EEG headset
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
@@ -6936,7 +6947,7 @@
 ## Ruby 
 
 - [gettalong/hexapdf](https://github.com/gettalong/hexapdf) - Versatile PDF creation and manipulation for Ruby
-- [rggen/rggen](https://github.com/rggen/rggen) - Code generation tool for configuration and status registers
+- [rggen/rggen](https://github.com/rggen/rggen) - Code generation tool for control and status registers
 - [Homebrew/ruby-macho](https://github.com/Homebrew/ruby-macho) - 🔩 A pure-Ruby library for parsing Mach-O files.
 - [exciting-io/printer](https://github.com/exciting-io/printer) - Tools for exploring the possibilities of "internet of things" printing.
 - [CocoaPods/trunk.cocoapods.org](https://github.com/CocoaPods/trunk.cocoapods.org) - The authentication server for CocoaPods push
@@ -7584,6 +7595,7 @@
 - [archer884/harsh](https://github.com/archer884/harsh) - Hashids implementation in Rust
 - [rusoto/rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
+- [mlua-rs/rlua](https://github.com/mlua-rs/rlua) - High level Lua bindings to Rust
 - [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [RustDT/RustLSP](https://github.com/RustDT/RustLSP) - A Language Server Protocol implementation in Rust
@@ -8022,6 +8034,11 @@
 
 ## Swift 
 
+- [SwiftPackageIndex/SemanticVersion](https://github.com/SwiftPackageIndex/SemanticVersion) - Represent semantic versions like "1.0.0" or "1.2.3-beta1" (SemVer) in Swift
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
+- [migueldeicaza/Echo](https://github.com/migueldeicaza/Echo) - A complete reflection library for Swift
+- [apple/pkl-swift-examples](https://github.com/apple/pkl-swift-examples) - Examples for using Pkl within Swift applications
+- [apple/pkl-swift](https://github.com/apple/pkl-swift) - Pkl bindings for the Swift programming language
 - [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource) - Server-sent events (SSE) client implementation in Swift for iOS, macOS, tvOS, and watchOS
 - [apple/swift-sdk-generator](https://github.com/apple/swift-sdk-generator) - Generate Swift SDKs for cross-compilation
 - [LucasVanDongen/ThreadTortureTests](https://github.com/LucasVanDongen/ThreadTortureTests) - A small Swift repository showcasing all kinds of edge cases and solutions when dealing with threads at scale
@@ -8345,7 +8362,7 @@
 - [heestand-xyz/PixelKit](https://github.com/heestand-xyz/PixelKit) - Live Graphics in Swift & Metal
 - [Automattic/XCUITestHelpers](https://github.com/Automattic/XCUITestHelpers) - 
 - [DuncanMC/FireEmitter](https://github.com/DuncanMC/FireEmitter) - 
-- [mchakravarty/CodeEditorView](https://github.com/mchakravarty/CodeEditorView) - SwiftUI code editor view for iOS and macOS
+- [mchakravarty/CodeEditorView](https://github.com/mchakravarty/CodeEditorView) - SwiftUI code editor view for iOS, visionOS, and macOS
 - [jameshurst/Transmission-Swift](https://github.com/jameshurst/Transmission-Swift) - A Combine powered Transmission RPC API client.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [willdale/SwiftUICharts](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility features built in.
@@ -8390,7 +8407,7 @@
 - [magesteve/CocoaGrimoire](https://github.com/magesteve/CocoaGrimoire) - A Macintosh example program using the various SpellBook swift package published by the author.
 - [Minitour/AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 4.2
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
-- [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - A lightweight and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
+- [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - Capture HTTP/HTTPS, and Websocket from iOS app without proxy.
 - [wlisac/environment](https://github.com/wlisac/environment) - Type-safe environment variables in Swift.
 - [icanzilb/Cancellor](https://github.com/icanzilb/Cancellor) - Bind multiple cancellables to the lifetime of another object like a view controller.
 - [SwiftyBeaver/SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient & secure logging during development & release in Swift 4 & 5
@@ -9594,6 +9611,7 @@
 
 ## TypeScript 
 
+- [apple/pkl-vscode](https://github.com/apple/pkl-vscode) - Pkl language support for VS Code
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
@@ -10094,10 +10112,6 @@
 ## nesC 
 
 - [CuriousMotor/Onyx-Stepper-Motherboard](https://github.com/CuriousMotor/Onyx-Stepper-Motherboard) - The successor of the iconic Arduino-CNC-shield
-
-## q 
-
-- [KxSystems/kdb](https://github.com/KxSystems/kdb) - Companion files to kdb+ and q
 
 
 ## License
