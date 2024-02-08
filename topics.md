@@ -620,7 +620,7 @@
 - [ChristianKienle/highway](https://github.com/ChristianKienle/highway) - Automate development tasks using Swift.
 - [AutobahnSwift/Autobahn](https://github.com/AutobahnSwift/Autobahn) - CLI tool written in Swift heavily inspired by https://github.com/fastlane/fastlane
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-- [Evernote/serge](https://github.com/Evernote/serge) - Continuous localization platform
+- [EvernoteArchive/serge](https://github.com/EvernoteArchive/serge) - Continuous localization platform
 - [mono0926/LicensePlist](https://github.com/mono0926/LicensePlist) - A license list generator of all your dependencies for iOS applications
 - [icecrime/poule](https://github.com/icecrime/poule) - :chicken: A framework for GitHub automation
 - [python-bonobo/bonobo](https://github.com/python-bonobo/bonobo) - Extract Transform Load for Python 3.5+
@@ -2265,6 +2265,7 @@
 
 ## django 
 
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste) - The Django project driving dpaste.org
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
 - [mayan-edms/Mayan-EDMS](https://github.com/mayan-edms/Mayan-EDMS) - Free Open Source Document Management System (mirror, no pull request or issues)
@@ -5709,7 +5710,7 @@
 - [igorkulman/iOSLocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS and macOS app localizations by allowing you to edit all the translations side by side
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [projectfluent/fluent](https://github.com/projectfluent/fluent) - Fluent — planning, spec and documentation
-- [Evernote/serge](https://github.com/Evernote/serge) - Continuous localization platform
+- [EvernoteArchive/serge](https://github.com/EvernoteArchive/serge) - Continuous localization platform
 - [translate/translate](https://github.com/translate/translate) - Useful localization tools with Python API for building localization & translation systems
 - [SwiftGen/SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
