@@ -3013,7 +3013,7 @@
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [mludowise/Sketch-Plugin-Manager](https://github.com/mludowise/Sketch-Plugin-Manager) - Keeping your Sketch plugins up to date.
 - [matteobrusa/Password-protection-for-static-pages](https://github.com/matteobrusa/Password-protection-for-static-pages) - Password protection for static pages
-- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [goose3/goose3](https://github.com/goose3/goose3) - A Python 3 compatible version of goose http://goose3.readthedocs.io/en/latest/index.html
 - [broccolini/athena](https://github.com/broccolini/athena) - A simple and elegant theme for Jekyll and GitHub Pages.
@@ -3545,7 +3545,7 @@
 - [Andrew-Kang-G/url-knife](https://github.com/Andrew-Kang-G/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with robust patterns.
 - [YOCKOW/Action-setup-swift](https://github.com/YOCKOW/Action-setup-swift) - GitHub Action that sets up Swift.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is a secure browser isolation system that powers web app virtualization via zero trust remote browsing and a secure document gateway. In effect a secure reverse proxy or CORS-proxy. Embed
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 Access the web from a browser you run on a server, rather than on your local device. For security, privacy and more!
 - [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [millette/oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
@@ -5105,7 +5105,7 @@
 - [Klaus2m5/6502_65C02_functional_tests](https://github.com/Klaus2m5/6502_65C02_functional_tests) - Tests for all valid opcodes of the 6502 and 65C02 processor
 - [fdufnews/SMART-Response-XE-schematics](https://github.com/fdufnews/SMART-Response-XE-schematics) - Schematics of the SMART Response XE terminal
 - [ebastler/zmk-designguide](https://github.com/ebastler/zmk-designguide) - A short hardware-designguide for ZMK keyboards
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [icebreaker-fpga/icebreaker](https://github.com/icebreaker-fpga/icebreaker) - Small and low cost FPGA educational and development board
 - [wiesl/ti99-rgb](https://github.com/wiesl/ti99-rgb) - ti99-rgb
 - [dnotq/dnotq_kicad_lib](https://github.com/dnotq/dnotq_kicad_lib) - DNOTQ KiCAD Library
@@ -6376,6 +6376,7 @@
 - [davidaurelio/hashids-python](https://github.com/davidaurelio/hashids-python) - Implementation of hashids (http://hashids.org) in Python. Compatible with Python 2 and Python 3
 - [openxc/openxc-python](https://github.com/openxc/openxc-python) - OpenXC Python library
 - [dbcli/vcli](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting
+- [manubot/manubot](https://github.com/manubot/manubot) - Python utilities for Manubot: Manuscripts, open and automated
 - [bchao1/vocabs](https://github.com/bchao1/vocabs) - 📚 A lightweight online dictionary integration to the command line. No browsers. No paperbacks.
 - [gdbinit/lldbinit](https://github.com/gdbinit/lldbinit) - A gdbinit clone for LLDB
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
@@ -9630,6 +9631,7 @@
 
 ## TypeScript 
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [apple/pkl-vscode](https://github.com/apple/pkl-vscode) - Pkl language support for VS Code
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
