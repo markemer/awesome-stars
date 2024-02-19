@@ -296,6 +296,8 @@
 
 ## C 
 
+- [schlae/BreadboardGadgets](https://github.com/schlae/BreadboardGadgets) - Convenient little boards that plug into your solderless breadboard
+- [StefanSchippers/xschem](https://github.com/StefanSchippers/xschem) - A schematic editor for VLSI/Asic/Analog custom designs, netlist backends for VHDL, Spice and Verilog. The tool is focused on hierarchy and parametric designs, to maximize circuit reuse.
 - [jjwbruijn/OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) - 
 - [openresty/stream-lua-nginx-module](https://github.com/openresty/stream-lua-nginx-module) - Embed the power of Lua into NGINX TCP/UDP servers
 - [mirage/mirage-crypto](https://github.com/mirage/mirage-crypto) - Cryptographic primitives for OCaml, in OCaml (also used in MirageOS)
@@ -1123,7 +1125,7 @@
 - [Mutagen-Modding/Mutagen](https://github.com/Mutagen-Modding/Mutagen) - A .NET library for analyzing, creating, and manipulating Bethesda mods
 - [Mutagen-Modding/Spriggit](https://github.com/Mutagen-Modding/Spriggit) - A tool to facilitate converting Bethesda plugin files to a text based format that can be stored in Git
 - [ShinyHobo/BG3-Modders-Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool) - Utility for quickly generating Baldur's Gate 3 mod packs from an unpacked workspace (among other things).
-- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
 - [pardeike/Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [4sval/FModel](https://github.com/4sval/FModel) - Unreal Engine Archives Explorer
@@ -3323,6 +3325,7 @@
 
 ## JavaScript 
 
+- [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web wit
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [hargata/lubelog](https://github.com/hargata/lubelog) - Vehicle Service Records and Maintainence Tracker
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
@@ -6967,6 +6970,7 @@
 
 ## Ruby 
 
+- [ruby/lrama](https://github.com/ruby/lrama) - Pure Ruby LALR parser generator
 - [gettalong/hexapdf](https://github.com/gettalong/hexapdf) - Versatile PDF creation and manipulation for Ruby
 - [rggen/rggen](https://github.com/rggen/rggen) - Code generation tool for control and status registers
 - [Homebrew/ruby-macho](https://github.com/Homebrew/ruby-macho) - 🔩 A pure-Ruby library for parsing Mach-O files.
@@ -8325,7 +8329,7 @@
 - [AnyImageKit/AnyImageKit](https://github.com/AnyImageKit/AnyImageKit) - A toolbox for pick/edit/capture photo or video. Written in Swift.
 - [willowtreeapps/spruce-ios](https://github.com/willowtreeapps/spruce-ios) - Swift library for choreographing animations on the screen.
 - [awslabs/aws-sdk-swift](https://github.com/awslabs/aws-sdk-swift) - 
-- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - iOS/macOS/tvOS/visionOS video player
+- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles.
 - [ThasianX/ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 - [gmarm/BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - An easy to use, customizable replacement for UISegmentedControl & UISwitch.
 - [hussc/PTCardTabBar](https://github.com/hussc/PTCardTabBar) - Card-Style TabBarController for iOS
@@ -8773,7 +8777,7 @@
 - [joshbirnholz/JBCalendarDatePicker](https://github.com/joshbirnholz/JBCalendarDatePicker) - A replacement for UIDatePicker made for Catalyst.
 - [paololeonardi/WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI.
 - [bloomberg/xcdiff](https://github.com/bloomberg/xcdiff) - A tool which helps you diff xcodeproj files.
-- [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS H
+- [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Retroactive only receives limited support. Run Aperture, iPhoto, and iTunes on macOS Sonoma, macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro
 - [yahoo/YMTreeMap](https://github.com/yahoo/YMTreeMap) - High performance Swift treemap layout engine for iOS and macOS.
 - [ChimeHQ/NicerTouchBar](https://github.com/ChimeHQ/NicerTouchBar) - Utilities for a more pleasant NSTouchBar development experience
 - [slackhq/PanModal](https://github.com/slackhq/PanModal) - An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.
@@ -9658,7 +9662,7 @@
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [lensvol/fl-small-mercies](https://github.com/lensvol/fl-small-mercies) - Small collections of patches and fixes for Fallen London UI.
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
 - [superdesk/superdesk-client-core](https://github.com/superdesk/superdesk-client-core) - Common client modules for superdesk apps.
 - [danielsogl/awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 - [microsoft/deoptexplorer-vscode](https://github.com/microsoft/deoptexplorer-vscode) - A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e., NodeJS, Edge, Chrome, etc.).
