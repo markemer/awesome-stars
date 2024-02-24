@@ -296,6 +296,7 @@
 
 ## C 
 
+- [xairy/raw-gadget](https://github.com/xairy/raw-gadget) - USB Raw Gadget — a low-level interface for the Linux USB Gadget subsystem
 - [schlae/BreadboardGadgets](https://github.com/schlae/BreadboardGadgets) - Convenient little boards that plug into your solderless breadboard
 - [StefanSchippers/xschem](https://github.com/StefanSchippers/xschem) - A schematic editor for VLSI/Asic/Analog custom designs, netlist backends for VHDL, Spice and Verilog. The tool is focused on hierarchy and parametric designs, to maximize circuit reuse.
 - [jjwbruijn/OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) - 
@@ -1249,6 +1250,7 @@
 
 ## C++ 
 
+- [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [lip6/coriolis](https://github.com/lip6/coriolis) - Coriolis VLSI EDA Tool (LIP6)
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [Gcenx/DXVK-macOS](https://github.com/Gcenx/DXVK-macOS) - Vulkan-based implementation of D3D10 and D3D11 for macOS / Wine
@@ -1968,7 +1970,6 @@
 - [ARM-software/LLVM-embedded-toolchain-for-Arm](https://github.com/ARM-software/LLVM-embedded-toolchain-for-Arm) - A project dedicated to building LLVM toolchain for 32-bit Arm embedded targets.
 - [ole/pico-embedded-swift](https://github.com/ole/pico-embedded-swift) - Embedded Swift on the Raspberry Pi Pico
 - [iRobotEducation/irobot_create_msgs](https://github.com/iRobotEducation/irobot_create_msgs) - Action, message and service definitions used by the iRobot® Create® Platform
-- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
 - [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) - 
 - [lifting-bits/sleigh](https://github.com/lifting-bits/sleigh) - Unofficial CMake build for Ghidra's C++ SLEIGH code
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
@@ -2443,7 +2444,7 @@
 - [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) - Hashicorp Vault plugin integrates with 1Password Connect to allow for the retrieval, creation, and deletion of items stored in 1Password.
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, accou
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, hea
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and ot
 - [tongson/LadyLua](https://github.com/tongson/LadyLua) - Single executable(static), batteries included, Lua 5.1 interpreter.
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
@@ -2586,7 +2587,7 @@
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [danihodovic/generate-ssh-configs](https://github.com/danihodovic/generate-ssh-configs) - Automatically generate ssh config files for your cloud servers
 - [akarki15/dbdot](https://github.com/akarki15/dbdot) - Generate DOT description for postgres db schema
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
 - [aureleoules/core](https://github.com/aureleoules/core) - Backpulse's core. Backpulse is an API Based CMS. Build you own website without worrying about the content administration system.
 - [roboncode/shorty-go](https://github.com/roboncode/shorty-go) - Microservice that shortens urls like bit.ly written in Go
 - [gographics/imagick](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API
@@ -2639,7 +2640,7 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 - [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [divan/depscheck](https://github.com/divan/depscheck) - Dependency checker for Golang (Go) packages. Prints stats and suggests to remove small LeftPad-like imports if any.
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
@@ -2918,10 +2919,9 @@
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [swill/kb_builder](https://github.com/swill/kb_builder) - A stand alone keyboard CAD generation tool based on FreeCAD.
 - [MPR-News/covid-data](https://github.com/MPR-News/covid-data) - Data and graphs about Minnesota's COVID-19 outbreak, along with code to generate it
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [laprej/laprej.github.io](https://github.com/laprej/laprej.github.io) - 
 - [mitre/hse-mwi](https://github.com/mitre/hse-mwi) - The Mental Wellness Index is a framework and dashboard tool that provides a picture of community-level mental wellness for each zip code in the nation
-- [joric/nrfmicro](https://github.com/joric/nrfmicro) - Pro Micro-compatible Bluetooth 5.4 board with Li-Po charger and USB-C (nRF52840-based)
+- [joric/nrfmicro](https://github.com/joric/nrfmicro) - Pro Micro-compatible Bluetooth 5 board with Li-Po charger and USB-C (nRF52840-based)
 - [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [lettergram/vocalvoters.com](https://github.com/lettergram/vocalvoters.com) - Contact your Government Representative Send a Letter or Fax in &lt;30 Seconds
@@ -3250,7 +3250,7 @@
 - [openairplay/AirPlayAuth](https://github.com/openairplay/AirPlayAuth) - Since tvOS 10.2 AppleTV is enforcing the "Device verification" for AirPlay, which could be manually enabled/disabled before. This library allows to pair with an AppleTV and can be used in any app supp
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [itext/rups](https://github.com/itext/rups) - [DEPRECATED - please use i7j-rups instead] RUPS is an abbreviation for Reading and Updating PDF Syntax. RUPS is a tool built on top of iText® that allows you to look inside a PDF document and browse t
-- [itext/itext7](https://github.com/itext/itext7) - iText for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabi
+- [itext/itext-java](https://github.com/itext/itext-java) - iText for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabi
 - [CIDARLAB/cello](https://github.com/CIDARLAB/cello) - Genetic circuit design automation
 - [antlr/codebuff](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning (uh, like, is this possible? YES, apparently).
 - [antlr/intellij-plugin-v4](https://github.com/antlr/intellij-plugin-v4) - An IntelliJ plugin for ANTLR v4
@@ -3327,7 +3327,7 @@
 
 - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web wit
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
-- [hargata/lubelog](https://github.com/hargata/lubelog) - Vehicle Service Records and Maintainence Tracker
+- [hargata/lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
@@ -5544,7 +5544,7 @@
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [github/balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) - GitHub's employee intellectual property agreement, open sourced and reusable
 - [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) - List of all tools (apps, services) that startups should use.
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [apache/openwhisk-external-resources](https://github.com/apache/openwhisk-external-resources) - ✨ Curated list of awesome OpenWhisk things ✨
 - [mathisonian/awesome-visualization-research](https://github.com/mathisonian/awesome-visualization-research) - A list of recommended research papers and other readings on data visualization
 - [PlanetAPL/node-apl](https://github.com/PlanetAPL/node-apl) - An ancient programming language adapted to a JavaScript-dominated world
@@ -5980,6 +5980,7 @@
 
 ## Python 
 
+- [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) - Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [greenblat/vlsistuff](https://github.com/greenblat/vlsistuff) - ideas and eda software for vlsi design
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste) - The Django project driving dpaste.org
@@ -6030,6 +6031,7 @@
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
+- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
 - [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script which takes the game you're playing on steam and displays it on discord
 - [efabless/openlane2](https://github.com/efabless/openlane2) - The next generation of OpenLane, rewritten from scratch with a modular architecture
 - [ammaraskar/sphinx-action](https://github.com/ammaraskar/sphinx-action) - Github action that builds docs using sphinx and places errors inline
@@ -6319,7 +6321,7 @@
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [Backblaze/b2-sdk-python](https://github.com/Backblaze/b2-sdk-python) - Python library to access B2 cloud storage.
 - [jgehrcke/goeffel](https://github.com/jgehrcke/goeffel) - A tool for measuring the resource utilization of a specific process over time
-- [greatscottgadgets/Facedancer](https://github.com/greatscottgadgets/Facedancer) - Implement your own USB device in Python, supported by a hardware peripheral such as Cynthion or GreatFET
+- [greatscottgadgets/facedancer](https://github.com/greatscottgadgets/facedancer) - Implement your own USB device in Python, supported by a hardware peripheral such as Cynthion or GreatFET
 - [rndusr/torf](https://github.com/rndusr/torf) - Python module to create, parse and edit torrent files and magnet links
 - [vmware/vsphere-automation-sdk-python](https://github.com/vmware/vsphere-automation-sdk-python) - Python samples, language bindings, and API reference documentation for vSphere, VMC, and NSX-T using the VMware REST API
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
@@ -6506,7 +6508,7 @@
 - [enjoy-digital/litescope](https://github.com/enjoy-digital/litescope) - Small footprint and configurable embedded FPGA logic analyzer
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [breathe-doc/breathe](https://github.com/breathe-doc/breathe) - ReStructuredText and Sphinx bridge to Doxygen
 - [openbmc/openbmc](https://github.com/openbmc/openbmc) - OpenBMC Distribution
 - [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
@@ -6588,6 +6590,7 @@
 - [chilcote/vfuse](https://github.com/chilcote/vfuse) - Convert bootable DMG images for use in VMware Fusion
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) - Working Draft of the RISC-V Debug Specification Standard
 - [tf-coreml/tf-coreml](https://github.com/tf-coreml/tf-coreml) - TensorFlow to CoreML Converter
 - [openstack/swift](https://github.com/openstack/swift) - OpenStack Storage (Swift). Mirror of code maintained at opendev.org.
 - [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nl
@@ -7182,7 +7185,7 @@
 - [ariejan/firefly](https://github.com/ariejan/firefly) - 
 - [twilio/authy-ruby](https://github.com/twilio/authy-ruby) - **Deprecated** Ruby library to access the authy API
 - [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line client (needs to be updated)
-- [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
+- [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications
 - [SketchUp/sketchup-ruby-api-tutorials](https://github.com/SketchUp/sketchup-ruby-api-tutorials) - SketchUp Ruby API Tutorials and Examples
 - [barbosa/danger-clorox](https://github.com/barbosa/danger-clorox) - A Danger plugin for Clorox.
 - [microsoftgraph/ruby-connect-rest-sample](https://github.com/microsoftgraph/ruby-connect-rest-sample) - [ARCHIVED] Use Microsoft Graph to access a user’s Microsoft account resources from within a Ruby on Rails web application. This sample uses REST calls directly to Microsoft Graph, and uses the Azure A
@@ -7360,6 +7363,8 @@
 
 ## Rust 
 
+- [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
+- [sekey/ssh-agent.rs](https://github.com/sekey/ssh-agent.rs) - SSH agent library
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -7391,7 +7396,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [warp-tech/russh](https://github.com/warp-tech/russh) - Rust SSH client & server library
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [mstone/depict](https://github.com/mstone/depict) - depict – share mental models better
 - [tiffany352/rink-rs](https://github.com/tiffany352/rink-rs) - Unit conversion tool and library written in rust
@@ -7741,6 +7746,7 @@
 
 ## Shell 
 
+- [t2linux/fedora-iso](https://github.com/t2linux/fedora-iso) - ISO for t2linux fedora.
 - [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [ebastler/marbastlib](https://github.com/ebastler/marbastlib) - A library collecting MX and Choc style footprints, as well as various other parts used to design custom keyboards
@@ -7777,7 +7783,6 @@
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [niedzielski/git-diff-img](https://github.com/niedzielski/git-diff-img) - 📷 Diff Git versioned images graphically.
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
-- [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password into your GitHub Actions jobs
 - [kaleidoscope-app/man-diff](https://github.com/kaleidoscope-app/man-diff) - Compare man pages between macOS Big Sur and macOS Monterey
 - [Frogging-Family/wine-tkg-git](https://github.com/Frogging-Family/wine-tkg-git) - The wine-tkg build systems, to create custom Wine and Proton builds
 - [Walkman100/OpenRA-Install-Guide](https://github.com/Walkman100/OpenRA-Install-Guide) - A complete installation guide including the music missing from the OpenRA Dune 2000 mod
@@ -9130,7 +9135,7 @@
 - [JohnSundell/Xgen](https://github.com/JohnSundell/Xgen) - A Swift package for generating Xcode workspaces & playgrounds
 - [trivago/Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS, written in Swift.
 - [blueapron/Mandoline](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your "picking" needs
-- [davedelong/time](https://github.com/davedelong/time) - Building a better date/time library for Swift
+- [davedelong/time](https://github.com/davedelong/time) - Robust and type-safe date and time calculations for Swift
 - [krzysztofzablocki/Difference](https://github.com/krzysztofzablocki/Difference) - Simple way to identify what is different between 2 instances of any type. Must have for TDD.
 - [KiranJasvanee/OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - A simple and flexible way to add source of overlapping circular pictures, currently supports horizontal overlapping or distant pictures with great layout flexibility.
 - [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
@@ -9628,7 +9633,6 @@
 - [rntz/datafun](https://github.com/rntz/datafun) - Research on integrating datalog & lambda calculus via monotonicity types
 - [jez/pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) - RISC-V Instruction Set Manual
-- [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) - Working Draft of the RISC-V Debug Specification Standard
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [ycoroneos/G.E.R.T](https://github.com/ycoroneos/G.E.R.T) - 
 - [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
@@ -9650,7 +9654,7 @@
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
-- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Chrome extension that generates API specs for any app or website
+- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [Canna71/obsidian-mathpad](https://github.com/Canna71/obsidian-mathpad) - Computer Algebra System (CAS) for Obsidian.md
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
@@ -9724,6 +9728,7 @@
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [hot3eed/xpcspy](https://github.com/hot3eed/xpcspy) - Bidirectional XPC message interception and more. Powered by Frida
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [jeffanddom/ink2txt](https://github.com/jeffanddom/ink2txt) - 
@@ -9736,6 +9741,7 @@
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
+- [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password into your GitHub Actions jobs
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [kishikawakatsumi/xcresulttool](https://github.com/kishikawakatsumi/xcresulttool) - A GitHub Action that generates a human-readable test report from the Xcode result bundle and shows it on GitHub Checks.
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
