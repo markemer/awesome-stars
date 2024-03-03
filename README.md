@@ -2297,6 +2297,7 @@
 
 ## Go 
 
+- [ricardbejarano/go-onepassword](https://github.com/ricardbejarano/go-onepassword) - 1Password client for Go
 - [token2/authy-migration](https://github.com/token2/authy-migration) - Migrating from Authy to Token2 hardware tokens or alternative TOTP Apps, including WinAuth or Raivo OTP
 - [caddyserver/pkl-adapter](https://github.com/caddyserver/pkl-adapter) - Configure Caddy with Pkl format
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -2933,7 +2934,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [mspinksosu/NES-Power-Board](https://github.com/mspinksosu/NES-Power-Board) - A PCB that will fit in place of the stock NES frontloader's RF module.
 - [dougallj/applegpu](https://github.com/dougallj/applegpu) - Apple G13 GPU architecture docs and tools
-- [gethyas/doks](https://github.com/gethyas/doks) - Build beautiful, accessible, high-performance documentation websites
+- [gethyas/doks](https://github.com/gethyas/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
 - [xeokit/xeokit-sdk](https://github.com/xeokit/xeokit-sdk) - Open source JavaScript SDK for viewing high-detail, full-precision 3D BIM and AEC models in the Web browser.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -5979,6 +5980,7 @@
 
 ## Python 
 
+- [fastmail/JMAP-Samples](https://github.com/fastmail/JMAP-Samples) - sample code for beginning JMAP developers
 - [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath) - Inspect and refine PATH environment variable on both Windows and Linux.
 - [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) - Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [greenblat/vlsistuff](https://github.com/greenblat/vlsistuff) - ideas and eda software for vlsi design
@@ -6454,7 +6456,7 @@
 - [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [AllYarnsAreBeautiful/ayab-desktop](https://github.com/AllYarnsAreBeautiful/ayab-desktop) - The AYAB Software
 - [Dyalog/dyalog-jupyter-kernel](https://github.com/Dyalog/dyalog-jupyter-kernel) - A Jupyter kernel for Dyalog APL
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
 - [IDArlingTeam/IDArling](https://github.com/IDArlingTeam/IDArling) - Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
