@@ -209,6 +209,7 @@
 - [gstrike/CuriousPlace](https://github.com/gstrike/CuriousPlace) - A comfortable place for code from The Curious Place on YouTube
 - [rehsd/PC-65816](https://github.com/rehsd/PC-65816) - PC based on 65816
 - [aldonunez/zelda1-disassembly](https://github.com/aldonunez/zelda1-disassembly) - A complete disassembly of The Legend of Zelda
+- [openhwgroup/cvw](https://github.com/openhwgroup/cvw) - CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches,
 - [lukeshiner/6502_computer](https://github.com/lukeshiner/6502_computer) - Tools and code for the Ben Eater 6502 Computer Kit
 - [mafleming/HP71MultiMod](https://github.com/mafleming/HP71MultiMod) - A ROM Emulator for the HP-71B
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
@@ -352,7 +353,6 @@
 - [nickandre/dnvt-fw](https://github.com/nickandre/dnvt-fw) - 
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [ZipCPU/eth10g](https://github.com/ZipCPU/eth10g) - 10Gb Ethernet Switch
-- [openhwgroup/cvw](https://github.com/openhwgroup/cvw) - CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches,
 - [utmapp/qemu](https://github.com/utmapp/qemu) - qemu with iOS host support
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine
 - [ncrawforth/VT2040](https://github.com/ncrawforth/VT2040) - Portable serial terminal, based on an RP2040 with a Gherkin keyboard and an ILI9488 screen
@@ -541,6 +541,7 @@
 - [ARMmbed/DAPLink](https://github.com/ARMmbed/DAPLink) - 
 - [saintmarina/undelete_jpg](https://github.com/saintmarina/undelete_jpg) - Recovers JPG images from SD cards and hard drives.
 - [Jana-Marie/EF-S-Adapter](https://github.com/Jana-Marie/EF-S-Adapter) - Hard- and Firmware to control different EF and EF-S lenses
+- [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [system76/ec](https://github.com/system76/ec) - System76 Open Source Embedded Controller
 - [cocoahuke/coBlue](https://github.com/cocoahuke/coBlue) - Use Bluetooth Low Energy for remote commands, file transfer, Based on bluez Bluetooth protocol stack (BLE Terminal)
 - [devanlai/dap42](https://github.com/devanlai/dap42) - CMSIS-DAP debugger firmware for STM32F042Fx and STM32F103xx
@@ -1363,7 +1364,7 @@
 - [psiberx/cp2077-archive-xl](https://github.com/psiberx/cp2077-archive-xl) - Cyberpunk 2077 mod that allows you to expand game resources without conflicts.
 - [psiberx/cp2077-codeware](https://github.com/psiberx/cp2077-codeware) - Cyberpunk 2077 library and framework for creating script mods.
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
-- [simdutf/simdutf](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. Part of Node.js and Bun.
+- [simdutf/simdutf](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512, RISC-V Vector Extension. Part of Node.js and Bun.
 - [ME3Tweaks/LEASIMods](https://github.com/ME3Tweaks/LEASIMods) - Repo for sharing ASI code between LE1/LE2/LE3 ASI plugins
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 - [msrst/interactive-8051-disassembler](https://github.com/msrst/interactive-8051-disassembler) - Interactive 8051 Dissassembler with GUI
@@ -3270,7 +3271,7 @@
 - [Idean/sonar-swift](https://github.com/Idean/sonar-swift) - Open source Swift plugin for SonarQube (also supports Objective-C)
 - [alexa/alexa-skills-kit-sdk-for-java](https://github.com/alexa/alexa-skills-kit-sdk-for-java) - The Alexa Skills Kit SDK for Java helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 - [fflewddur/tivolibre](https://github.com/fflewddur/tivolibre) - Java app and library for decoding TiVo files to standard MPEG files.
-- [google/wycheproof](https://github.com/google/wycheproof) - Project Wycheproof tests crypto libraries against known attacks.
+- [C2SP/wycheproof](https://github.com/C2SP/wycheproof) - Project Wycheproof tests crypto libraries against known attacks.
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [sleekbyte/tailor](https://github.com/sleekbyte/tailor) - Cross-platform static analyzer and linter for Swift.
 - [jenkinsci/email-ext-plugin](https://github.com/jenkinsci/email-ext-plugin) - Jenkins Email Extension Plugin
@@ -5284,7 +5285,7 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [alexkaessner/macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) - :gem: The most detailed and accurate macOS UI Kit for Sketch. This Sketch Library includes common Mac interface elements, cursors, and a Touch Bar UI Kit.
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-14.0.1 [February 2024]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-14.0.1 [March 2024]
 - [arturo182/kicad-modules](https://github.com/arturo182/kicad-modules) - A repository with all my custom footprints and 3d models for KiCad
 - [arturo182/BBQ10KBD](https://github.com/arturo182/BBQ10KBD) - 
 - [yewalenikhil65/Resources-for-engineering-students-who-like-mathematics](https://github.com/yewalenikhil65/Resources-for-engineering-students-who-like-mathematics) - This is a collection of resources that I feel will prove useful to anyone studying in the area of engineering but also like mathematics. I urge anyone who comes across this, to contribute to the list 
@@ -5494,6 +5495,7 @@
 - [dlenski/openconnect](https://github.com/dlenski/openconnect) - OpenConnect client extended to support Palo Alto Networks' GlobalProtect VPN
 - [azonenberg/pcb-checklist](https://github.com/azonenberg/pcb-checklist) - Sign-off review checklist for PCB designs
 - [ArtSabintsev/iOSDevCampDC-2018](https://github.com/ArtSabintsev/iOSDevCampDC-2018) - My talk on Scaling iOS Architecture for iOSDevCampDC 2018.
+- [sparkfun/SparkFun-KiCad-Libraries](https://github.com/sparkfun/SparkFun-KiCad-Libraries) - SparkFun's KiCad Libraries
 - [Digi-Key/digikey-kicad-library](https://github.com/Digi-Key/digikey-kicad-library) - An atomic parts  library for Ki-Cad.
 - [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
@@ -5911,7 +5913,7 @@
 - [richterger/Perl-LanguageServer](https://github.com/richterger/Perl-LanguageServer) - Language Server for Perl
 - [openxpki/openxpki](https://github.com/openxpki/openxpki) - OpenXPKI Code
 - [zerotier/edge](https://github.com/zerotier/edge) - ZeroTier Edge software and root filesystem (AARCH64)
-- [bagder/everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.
+- [curl/everything-curl](https://github.com/curl/everything-curl) - The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.
 - [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) - PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, c
 - [jhthorsen/app-mojopaste](https://github.com/jhthorsen/app-mojopaste) - Pastebin
 - [oetiker/mrtg](https://github.com/oetiker/mrtg) - MRTG - Multi Router Traffic Grapher
@@ -5989,6 +5991,7 @@
 
 ## Python 
 
+- [Frencil/eclipsetracks](https://github.com/Frencil/eclipsetracks) - EclipseTracks.org - Interactive solar eclipse track modeling with Cesium
 - [nanovms/ops-examples](https://github.com/nanovms/ops-examples) - A repository of basic and advanced examples using Ops
 - [grahamgilbert/Crypt-Server](https://github.com/grahamgilbert/Crypt-Server) - A Django webapp to escrow filevault keys sent by the Crypt client app.
 - [IHP-GmbH/IHP-Open-PDK](https://github.com/IHP-GmbH/IHP-Open-PDK) - 130nm BiCMOS Open Source PDK, dedicated for Analog, Mixed Signal and RF Design
@@ -6491,7 +6494,6 @@
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
 - [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
 - [vmware/open-vmdk](https://github.com/vmware/open-vmdk) - 
-- [sparkfun/SparkFun-KiCad-Libraries](https://github.com/sparkfun/SparkFun-KiCad-Libraries) - SparkFun's KiCad Libraries
 - [alexa/alexa-skills-kit-sdk-for-python](https://github.com/alexa/alexa-skills-kit-sdk-for-python) - The Alexa Skills Kit SDK for Python helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 - [SELinuxProject/refpolicy](https://github.com/SELinuxProject/refpolicy) - SELinux Reference Policy v2
 - [SELinuxProject/setools](https://github.com/SELinuxProject/setools) - SELinux Policy Analysis Tools
@@ -7607,7 +7609,7 @@
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [iqlusioninc/usbarmory.rs](https://github.com/iqlusioninc/usbarmory.rs) - Bare metal Rust support for USB armory MkII devices
 - [gimli-rs/gimli](https://github.com/gimli-rs/gimli) - A library for reading and writing the DWARF debugging format
-- [willglynn/pdb](https://github.com/willglynn/pdb) - A parser for Microsoft PDB (Program Database) debugging information
+- [getsentry/pdb](https://github.com/getsentry/pdb) - A parser for Microsoft PDB (Program Database) debugging information
 - [m4b/goblin](https://github.com/m4b/goblin) - An impish, cross-platform binary parsing crate, written in Rust
 - [getsentry/symbolic](https://github.com/getsentry/symbolic) - Stack trace symbolication library written in Rust
 - [zetzit/zz](https://github.com/zetzit/zz) - 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
@@ -7822,7 +7824,6 @@
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [timwis/markdown-to-google-doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive
 - [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
-- [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [KosalaHerath/macos-installer-builder](https://github.com/KosalaHerath/macos-installer-builder) - Generate macOS installers for your applications and products from one command
 - [dslm4515/Musl-LFS](https://github.com/dslm4515/Musl-LFS) - Linux From Scratch using Musl as Libc
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
@@ -8569,7 +8570,7 @@
 - [swift-server/swift-service-lifecycle](https://github.com/swift-server/swift-service-lifecycle) - Cleanly startup and shutdown server application, freeing resources in order before exiting.
 - [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
 - [apple/swift-tools-support-core](https://github.com/apple/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
-- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - KeyboardKit is a Swift SDK that helps you create custom keyboard extensions with Swift & SwiftUI.
+- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - KeyboardKit is a Swift SDK that lets you create fully customizable keyboard with a few lines of code, using SwiftUI.
 - [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
 - [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) - Useful code around SwiftNIO.
 - [eleev/grid-compositional-layout](https://github.com/eleev/grid-compositional-layout) - 🧲 Grid Compositional Layout is a SwiftUI 2.0 view that lays out the supplied views in a grid. Easily configurable and lazily retained [Swift 5.3, iOS 14.0+, iPadOS 14.0+, macOS 11.0(10.16)+]
@@ -9666,6 +9667,7 @@
 
 ## TypeScript 
 
+- [League-of-Foundry-Developers/foundry-vtt-types](https://github.com/League-of-Foundry-Developers/foundry-vtt-types) - Unofficial type declarations for the Foundry Virtual Tabletop API
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
