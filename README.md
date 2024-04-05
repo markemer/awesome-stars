@@ -4439,7 +4439,7 @@
 - [mattvenn/magic-inverter](https://github.com/mattvenn/magic-inverter) - an inverter drawn in magic with makefile to simulate
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [foostan/kbd](https://github.com/foostan/kbd) - for building keyboard libraries
-- [linuxboot/heads](https://github.com/linuxboot/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
+- [linuxboot/heads](https://github.com/linuxboot/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops, workstations and servers.
 - [adobe-type-tools/cmap-resources](https://github.com/adobe-type-tools/cmap-resources) - CMap Resources
 - [pqrs-org/gh-pages-karabiner-elements.pqrs.org](https://github.com/pqrs-org/gh-pages-karabiner-elements.pqrs.org) - 
 - [enzomaruffa/RealityKit-Motion-Recorder](https://github.com/enzomaruffa/RealityKit-Motion-Recorder) - Used to store bodytracked joint's position in a JSON file
