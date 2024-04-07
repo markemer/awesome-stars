@@ -966,7 +966,6 @@
 - [lpereira/lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server
 - [h2o/picotls](https://github.com/h2o/picotls) - TLS 1.3 implementation in C (master supports RFC8446 as well as draft-26, -27, -28)
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
-- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [bcrypt-ruby/bcrypt-ruby](https://github.com/bcrypt-ruby/bcrypt-ruby) - bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.
 - [libgit2/rugged](https://github.com/libgit2/rugged) - ruby bindings to libgit2
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
@@ -5658,6 +5657,7 @@
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [ajam/2014_payday-nation-data](https://github.com/ajam/2014_payday-nation-data) - Data for the Payday Nation project.
 - [propublica/guides](https://github.com/propublica/guides) - ProPublica's News App and Data Style Guides
+- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [benbalter/congressional-districts](https://github.com/benbalter/congressional-districts) - Historic and current US Congressional districts as GeoJSON, versioned within Git
 - [rokudev/feed-specifications](https://github.com/rokudev/feed-specifications) - Direct Publisher Feed Specifications
 - [jirsbek/SSH-keys-in-macOS-Sierra-keychain](https://github.com/jirsbek/SSH-keys-in-macOS-Sierra-keychain) - Saving SSH keys in macOS Sierra keychain
@@ -5998,6 +5998,7 @@
 
 ## Python 
 
+- [zeroasiccorp/logik](https://github.com/zeroasiccorp/logik) - A configurable RTL to bitstream FPGA toolchain
 - [Frencil/eclipsetracks](https://github.com/Frencil/eclipsetracks) - EclipseTracks.org - Interactive solar eclipse track modeling with Cesium
 - [nanovms/ops-examples](https://github.com/nanovms/ops-examples) - A repository of basic and advanced examples using Ops
 - [grahamgilbert/Crypt-Server](https://github.com/grahamgilbert/Crypt-Server) - A Django webapp to escrow filevault keys sent by the Crypt client app.
@@ -6872,7 +6873,7 @@
 - [issackelly/wemo](https://github.com/issackelly/wemo) - wemo Proof of Concept. Should be used as a starting point for your own UPnP WeMo hacking
 - [jsvine/mplstyle](https://github.com/jsvine/mplstyle) - A simple API for setting matplotlib styles, as well as a repository of nice styles.
 - [JasperSnoek/spearmint](https://github.com/JasperSnoek/spearmint) - Spearmint is a package to perform Bayesian optimization according to the algorithms outlined in the paper:  Practical Bayesian Optimization of Machine Learning Algorithms. Jasper Snoek, Hugo Larochell
-- [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
+- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
 - [texit/texit](https://github.com/texit/texit) - Embed LaTeX in standards-compliant markdown.
 - [zacharyvoase/humanhash](https://github.com/zacharyvoase/humanhash) - Human-readable digests.
 - [google/url_diff](https://github.com/google/url_diff) - 
