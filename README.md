@@ -44,6 +44,7 @@
 - [Dhall](#dhall)
 - [Dockerfile](#dockerfile)
 - [Eagle](#eagle)
+- [Earthly](#earthly)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
@@ -233,7 +234,7 @@
 - [pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader) - Here I share the code of my CV, which is also a bootable bootloader :)
 - [bluewaysw/pcgeos](https://github.com/bluewaysw/pcgeos) - #FreeGEOS source codes. The offical home of the PC/GEOS operating system technology. For personal computing fans. For all developers and assembly lovers. For YOU!
 - [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) - Working draft of the proposed RISC-V V vector extension
-- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
+- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [zladx/LADX-Disassembly](https://github.com/zladx/LADX-Disassembly) - Disassembly of Legend of Zelda: Links Awakening DX
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 - [ReturnInfinity/Pure64](https://github.com/ReturnInfinity/Pure64) - Pure64 is a kernel/software loader for x86-64 systems.
@@ -272,7 +273,6 @@
 
 ## Batchfile 
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [sparkfun/SparkFun_Artemis](https://github.com/sparkfun/SparkFun_Artemis) - World's first open source hardware module using a Cortex-M4F capable of running TensorFlow models and Arduino sketches..
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
@@ -302,6 +302,7 @@
 
 ## C 
 
+- [nousrnam/F12se](https://github.com/nousrnam/F12se) - Universal savegame editor for Fallout & Fallout2
 - [NovaRain/Fallout2_Unofficial_Patch](https://github.com/NovaRain/Fallout2_Unofficial_Patch) - Unofficial fixes for killap's Fallout 2 Unofficial Patch
 - [BGforgeNet/Fallout2_Unofficial_Patch](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch) - Fallout 2 Unofficial Patch, updated
 - [BGforgeNet/Fallout2_Restoration_Project](https://github.com/BGforgeNet/Fallout2_Restoration_Project) - Fallout 2 Restoration Project, updated
@@ -1259,6 +1260,9 @@
 
 ## C++ 
 
+- [turingmotors/swan](https://github.com/turingmotors/swan) - This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources.
+- [lStewieAl/Geck-Extender](https://github.com/lStewieAl/Geck-Extender) - A project adding functionality to New Vegas' Creation Kit. https://www.nexusmods.com/newvegas/mods/64888
+- [cvet/fonline](https://github.com/cvet/fonline) - FOnline Engine is a flexible cross-platform isometric game engine
 - [JanSimek/geck-map-editor](https://github.com/JanSimek/geck-map-editor) - Fallout 2 map editor
 - [xNVSE/NVSE](https://github.com/xNVSE/NVSE) - New Vegas Script Extender (NVSE)
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -1372,7 +1376,6 @@
 - [openglonmetal/MGL](https://github.com/openglonmetal/MGL) - OpenGL 4.6 on Metal
 - [WopsS/RED4ext.SDK](https://github.com/WopsS/RED4ext.SDK) - A library to create mods for REDengine 4 (Cyberpunk 2077), independently of RED4ext.
 - [psiberx/cp2077-archive-xl](https://github.com/psiberx/cp2077-archive-xl) - Cyberpunk 2077 mod that allows you to expand game resources without conflicts.
-- [psiberx/cp2077-codeware](https://github.com/psiberx/cp2077-codeware) - Cyberpunk 2077 library and framework for creating script mods.
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [simdutf/simdutf](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per second using SSE2, AVX2, NEON, AVX-512, RISC-V Vector Extension. Part of Node.js and Bun.
 - [ME3Tweaks/LEASIMods](https://github.com/ME3Tweaks/LEASIMods) - Repo for sharing ASI code between LE1/LE2/LE3 ASI plugins
@@ -1768,7 +1771,7 @@
 - [p12tic/libsimdpp](https://github.com/p12tic/libsimdpp) - Portable header-only C++ low level SIMD library
 - [f1xpl/openauto](https://github.com/f1xpl/openauto) - AndroidAuto headunit emulator
 - [f1xpl/aasdk](https://github.com/f1xpl/aasdk) - Library to build AndroidAuto headunit emulator
-- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming langu
+- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range o
 - [PlanetAPL/a-plus](https://github.com/PlanetAPL/a-plus) - The A+ programming language from Morgan Stanley
 - [jupyter-xeus/xeus](https://github.com/jupyter-xeus/xeus) - Implementation of the Jupyter kernel protocol in C++
 - [inspector-repl/inspector](https://github.com/inspector-repl/inspector) - A drop-anywhere C++ REPL
@@ -1966,7 +1969,7 @@
 - [jirislaby/LLVMSlicer](https://github.com/jirislaby/LLVMSlicer) - Static Slicer for LLVM
 - [PixarAnimationStudios/OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) - An Open-Source subdivision surface library.
 - [laprej/photons](https://github.com/laprej/photons) - Our photon mapping final project for Barb's class
-- [tekezo/Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
+- [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [loarabia/Clang-tutorial](https://github.com/loarabia/Clang-tutorial) - A collection of code samples showing usage of clang and llvm as a library
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
@@ -2216,6 +2219,10 @@
 - [DangerousPrototypes/CPLD_Breakout](https://github.com/DangerousPrototypes/CPLD_Breakout) - 
 - [sparkfun/CryptoShield](https://github.com/sparkfun/CryptoShield) - A Crypto shield collaboration with Josh Datko
 - [Smoothieware/Smoothieboard](https://github.com/Smoothieware/Smoothieboard) - 
+
+## Earthly 
+
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 
 ## Elixir 
 
@@ -2581,6 +2588,7 @@
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira
 - [schollz/hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster.
 - [miquella/opvault](https://github.com/miquella/opvault) - Go package for reading the 1Password OPVault format
+- [salrashid123/grpc_health_proxy](https://github.com/salrashid123/grpc_health_proxy) - HTTP Proxy for gRPC HealthChecks
 - [bamnet/npsapi](https://github.com/bamnet/npsapi) - Go library for the US National Park Service (NPS) API
 - [LorenzHW/gnostic-grpc-deprecated](https://github.com/LorenzHW/gnostic-grpc-deprecated) - A gnostic plugin that generates proto definition files (.proto) for REST APIs
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -2783,7 +2791,7 @@
 - [ScottHelme/HPACK-Encode](https://github.com/ScottHelme/HPACK-Encode) - Encode strings with HPACK.
 - [pwaller/go-ffmpeg-video-encoding](https://github.com/pwaller/go-ffmpeg-video-encoding) - Basic bindings for ffmpeg video encoding
 - [vivint/infectious](https://github.com/vivint/infectious) - Reed-Solomon forward error correcting library
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [campoy/go-tooling-workshop](https://github.com/campoy/go-tooling-workshop) - A workshop covering all the tools gophers use in their day to day life
 - [shyiko/jabba](https://github.com/shyiko/jabba) - (cross-platform) Java Version Manager
@@ -2823,7 +2831,7 @@
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
 - [keybase/kbfs](https://github.com/keybase/kbfs) - Keybase Filesystem (KBFS)
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [cpmech/gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, 
 - [schollz/find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -2905,6 +2913,7 @@
 
 ## HTML 
 
+- [ModdingLinked/Viva-New-Vegas](https://github.com/ModdingLinked/Viva-New-Vegas) - A Comprehensive Fallout New Vegas Modding Guide
 - [IHP-GmbH/IHP-Open-PDK](https://github.com/IHP-GmbH/IHP-Open-PDK) - 130nm BiCMOS Open Source PDK, dedicated for Analog, Mixed Signal and RF Design
 - [nanographs/Open-Beam-Interface](https://github.com/nanographs/Open-Beam-Interface) - 
 - [cc65/doc](https://github.com/cc65/doc) - the official cc65 documentation
@@ -2937,7 +2946,7 @@
 - [MPR-News/covid-data](https://github.com/MPR-News/covid-data) - Data and graphs about Minnesota's COVID-19 outbreak, along with code to generate it
 - [laprej/laprej.github.io](https://github.com/laprej/laprej.github.io) - 
 - [mitre/hse-mwi](https://github.com/mitre/hse-mwi) - The Mental Wellness Index is a framework and dashboard tool that provides a picture of community-level mental wellness for each zip code in the nation
-- [joric/nrfmicro](https://github.com/joric/nrfmicro) - Pro Micro-compatible Bluetooth 5 board with Li-Po charger and USB-C
+- [joric/nrfmicro](https://github.com/joric/nrfmicro) - A Pro Micro alternative for wireless keyboards
 - [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [lettergram/vocalvoters.com](https://github.com/lettergram/vocalvoters.com) - Contact your Government Representative Send a Letter or Fax in &lt;30 Seconds
@@ -3189,11 +3198,12 @@
 
 ## Java 
 
+- [android/car-samples](https://github.com/android/car-samples) - Multiple samples showing best practices for car app development on both Android Auto and Android Automotive OS.
 - [MxAriadne/BG3SaveManager](https://github.com/MxAriadne/BG3SaveManager) - Save archive and import for Baldurs Gate 3
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
-- [techyourchance/android-architecture-course](https://github.com/techyourchance/android-architecture-course) - 
+- [techyourchance/android-architecture-course-old](https://github.com/techyourchance/android-architecture-course-old) - 
 - [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 - [DMaroo/GhidRust](https://github.com/DMaroo/GhidRust) - GhidRust: Rust decompiler plugin for Ghidra
 - [apache/pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
@@ -3343,6 +3353,7 @@
 
 ## JavaScript 
 
+- [bkis/dice-or-die](https://github.com/bkis/dice-or-die) - :game_die: A simple, aesthetic dice rolling simulator featuring d4, d6, d8, d10, d12, d20, d100 and a pleasant but optional dice rolling sound
 - [bramstein/hypher](https://github.com/bramstein/hypher) - A fast and small JavaScript hyphenation engine
 - [Adawg4/openapi-autospec](https://github.com/Adawg4/openapi-autospec) - Proxy server that generates API specs for any app or website on localhost.
 - [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields
@@ -4085,7 +4096,6 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [Ericsson/exchangecalendar](https://github.com/Ericsson/exchangecalendar) - Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider.
 - [mbostock/solar-calculator](https://github.com/mbostock/solar-calculator) - Equations for computing the position of the Sun.
-- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [colah/Visualizing-Deep-Learning](https://github.com/colah/Visualizing-Deep-Learning) - A series of blog posts on visualizing deep learning.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [mproberts/node-crashlytics](https://github.com/mproberts/node-crashlytics) - Unofficial API client for the Crashlytics service
@@ -4485,6 +4495,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [JetBrains/intellij-sdk-docs](https://github.com/JetBrains/intellij-sdk-docs) - IntelliJ SDK Platform Documentation
 - [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 
 ## Meson 
 
@@ -5512,6 +5523,7 @@
 - [dlenski/openconnect](https://github.com/dlenski/openconnect) - OpenConnect client extended to support Palo Alto Networks' GlobalProtect VPN
 - [azonenberg/pcb-checklist](https://github.com/azonenberg/pcb-checklist) - Sign-off review checklist for PCB designs
 - [ArtSabintsev/iOSDevCampDC-2018](https://github.com/ArtSabintsev/iOSDevCampDC-2018) - My talk on Scaling iOS Architecture for iOSDevCampDC 2018.
+- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [sparkfun/SparkFun-KiCad-Libraries](https://github.com/sparkfun/SparkFun-KiCad-Libraries) - SparkFun's KiCad Libraries
 - [Digi-Key/digikey-kicad-library](https://github.com/Digi-Key/digikey-kicad-library) - An atomic parts  library for Ki-Cad.
 - [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
@@ -5972,6 +5984,7 @@
 ## PowerShell 
 
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows e
 - [parsec-cloud/Cloud-GPU-Updater](https://github.com/parsec-cloud/Cloud-GPU-Updater) - For updating P4000, P5000 and M60 GPU's
 - [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
@@ -5988,7 +6001,6 @@
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [parsec-cloud/Parsec-Cloud-Preparation-Tool](https://github.com/parsec-cloud/Parsec-Cloud-Preparation-Tool) - Launch Parsec enabled cloud computers via your own cloud provider account.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [chocolatey/boxstarter](https://github.com/chocolatey/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
 - [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [OfficeDev/VBA-content](https://github.com/OfficeDev/VBA-content) - All content in this repository has been migrated to a new repository (https://github.com/MicrosoftDocs/VBA-Docs). Please do not open issues or pull requests here. We are no longer monitoring this cont
@@ -6012,6 +6024,7 @@
 
 ## Python 
 
+- [Le0Michine/FusionGridfinityGenerator](https://github.com/Le0Michine/FusionGridfinityGenerator) - 
 - [prman-pixar/RfSP](https://github.com/prman-pixar/RfSP) - RenderMan for Substance Painter
 - [prman-pixar/RenderManForBlender](https://github.com/prman-pixar/RenderManForBlender) - RenderMan for Blender render addon
 - [zeroasiccorp/logik](https://github.com/zeroasiccorp/logik) - A configurable RTL to bitstream FPGA toolchain
@@ -6222,7 +6235,7 @@
 - [jbms/finance-dl](https://github.com/jbms/finance-dl) - Tools for automatically downloading/scraping personal financial data.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [damienBloch/inkscape-raytracing](https://github.com/damienBloch/inkscape-raytracing) - An extension for Inkscape that makes it easier to draw optical diagrams.
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.15) for cros
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.9+) and Qt 5 (5.15) for cros
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [t8012/ipwndfu](https://github.com/t8012/ipwndfu) - The T2 fork of the checkm8 bug
@@ -7045,7 +7058,7 @@
 - [jdee/settings-bundle](https://github.com/jdee/settings-bundle) - Fastlane plugin to update static settings in an iOS settings bundle
 - [primer/view_components](https://github.com/primer/view_components) - ViewComponents for the Primer Design System
 - [lyndsey-ferguson/fastlane-plugin-test_center](https://github.com/lyndsey-ferguson/fastlane-plugin-test_center) - 🎯 The best fastlane plugin to understand and tame misbehaving iOS tests 🎉
-- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 - [jfelchner/ruby-progressbar](https://github.com/jfelchner/ruby-progressbar) - Ruby/ProgressBar is a text progress bar library for Ruby.
 - [rodrigorichter/steamblower](https://github.com/rodrigorichter/steamblower) - 
 - [tenderlove/fisk](https://github.com/tenderlove/fisk) - A pure Ruby assembler
@@ -7404,6 +7417,7 @@
 
 ## Rust 
 
+- [yellowcake-org/libycresources](https://github.com/yellowcake-org/libycresources) - Rust library which implements reading resources used in Fallout™.
 - [pingw33n/vault13](https://github.com/pingw33n/vault13) - Reimplementation of Fallout 2 engine
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [tatut/pgprolog](https://github.com/tatut/pgprolog) - PostgreSQL Prolog language handler
@@ -8103,7 +8117,6 @@
 - [jmillikin/rules_bison](https://github.com/jmillikin/rules_bison) - Bazel build rules for GNU Bison
 - [line/rules_apple_line](https://github.com/line/rules_apple_line) - LINE's Apple rules for Bazel
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
-- [salrashid123/grpc_health_proxy](https://github.com/salrashid123/grpc_health_proxy) - HTTP Proxy for gRPC HealthChecks
 - [googleapis/googleapis](https://github.com/googleapis/googleapis) - Public interface definitions of Google APIs.
 - [bazelbuild/rules_apple](https://github.com/bazelbuild/rules_apple) - Bazel rules to build apps for Apple platforms.
 
@@ -8117,6 +8130,7 @@
 
 ## Swift 
 
+- [yellowcake-org/ycmapper-apple](https://github.com/yellowcake-org/ycmapper-apple) - Viewing application for the maps used in Fallout™. Apple platforms specific.
 - [swiftDialog/swiftDialog](https://github.com/swiftDialog/swiftDialog) - Create user-notifications on macOS with swiftDialog
 - [xibbon/ed25519swift](https://github.com/xibbon/ed25519swift) - ed25199 implementation by pure swift
 - [twostraws/Vortex](https://github.com/twostraws/Vortex) - High-performance particle effects for SwiftUI.
@@ -8266,6 +8280,7 @@
 - [fredyshox/PageView](https://github.com/fredyshox/PageView) - SwiftUI view enabling navigation between pages of content, imitating the behaviour of UIPageViewController for iOS and watchOS
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 - [joshdholtz/DeckUI](https://github.com/joshdholtz/DeckUI) - Swift DSL for writing slide decks in Xcode
+- [psiberx/cp2077-codeware](https://github.com/psiberx/cp2077-codeware) - Cyberpunk 2077 library and framework for creating script mods.
 - [hmlongco/Factory](https://github.com/hmlongco/Factory) - A new approach to Container-Based Dependency Injection for Swift and SwiftUI.
 - [dinhquan/SwiftAlertView](https://github.com/dinhquan/SwiftAlertView) - A powerful AlertView library written in Swift
 - [pointfreeco/combine-schedulers](https://github.com/pointfreeco/combine-schedulers) - ⏰ A few schedulers that make working with Combine more testable and more versatile.
@@ -9298,8 +9313,8 @@
 - [andrea-prearo/SwiftExamples](https://github.com/andrea-prearo/SwiftExamples) - Swift Examples Repository
 - [SwipeCellKit/SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.
 - [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool and Xcode Extension for formatting Swift code
-- [owlmafia/PieCharts](https://github.com/owlmafia/PieCharts) - Easy to use and highly customizable pie charts library for iOS
-- [owlmafia/ChartLegends](https://github.com/owlmafia/ChartLegends) - Easy to use and highly customizable chart legends
+- [ivnsch/PieCharts](https://github.com/ivnsch/PieCharts) - Easy to use and highly customizable pie charts library for iOS
+- [ivnsch/ChartLegends](https://github.com/ivnsch/ChartLegends) - Easy to use and highly customizable chart legends
 - [BalestraPatrick/SquishButton](https://github.com/BalestraPatrick/SquishButton) - A button that squishes when pressed. As seen in the Clips app.
 - [JohnSundell/Marathon](https://github.com/JohnSundell/Marathon) - [DEPRECATED] Marathon makes it easy to write, run and manage your Swift scripts 🏃
 - [material-motion/material-motion-swift](https://github.com/material-motion/material-motion-swift) - A toolkit for building responsive motion using Core Animation.
@@ -9397,7 +9412,7 @@
 - [davidlawson/SimulatorController](https://github.com/davidlawson/SimulatorController) - Boot, install and launch a .app on multiple iOS simulators
 - [marciok/SwiftyRuby](https://github.com/marciok/SwiftyRuby) - Calling Ruby from Swift
 - [phatblat/Outlets](https://github.com/phatblat/Outlets) - Utility functions for validating IBOutlet and IBAction connections
-- [Khan/SwiftTweaks](https://github.com/Khan/SwiftTweaks) - Tweak your iOS app without recompiling!
+- [bryanjclark/SwiftTweaks](https://github.com/bryanjclark/SwiftTweaks) - Tweak your iOS app without recompiling!
 - [winslowdibona/TabDrawer](https://github.com/winslowdibona/TabDrawer) - 
 - [mortenjust/cleartext-mac](https://github.com/mortenjust/cleartext-mac) - A text editor that will help you write clearer and simpler
 - [objcio/core-data](https://github.com/objcio/core-data) - Sample code for the objc.io Core Data book
@@ -9505,7 +9520,7 @@
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [MrMatthias/SwiftColorPicker](https://github.com/MrMatthias/SwiftColorPicker) - An iOS HSB color picker implemented in Swift
 - [gpbl/SwiftChart](https://github.com/gpbl/SwiftChart) - Line and area chart library for iOS
-- [owlmafia/SwiftCharts](https://github.com/owlmafia/SwiftCharts) - Easy to use and highly customizable charts library for iOS
+- [ivnsch/SwiftCharts](https://github.com/ivnsch/SwiftCharts) - Easy to use and highly customizable charts library for iOS
 - [haaakon/SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, written in Swift. Also supports accessability!
 - [naoty/Timepiece](https://github.com/naoty/Timepiece) - Intuitive date handling in Swift
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
@@ -9602,6 +9617,7 @@
 
 ## SystemVerilog 
 
+- [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
 - [azonenberg/starshipraider](https://github.com/azonenberg/starshipraider) - Open hardware test equipment
 - [projf/projf-explore](https://github.com/projf/projf-explore) - Project F brings FPGAs to life with exciting open-source designs you can build on.
 - [chipsalliance/Cores-VeeR-EL2](https://github.com/chipsalliance/Cores-VeeR-EL2) - VeeR EL2 Core
@@ -9644,6 +9660,7 @@
 
 ## TeX 
 
+- [borisveytsman/nostarch](https://github.com/borisveytsman/nostarch) - LaTeX Style For No Starch Press
 - [AnMnv/eBook](https://github.com/AnMnv/eBook) - LaTeX book with examples, open-source eBook
 - [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
 - [sarabander/sicp-pocket](https://github.com/sarabander/sicp-pocket) - SICP PDF adapted to pocket format (for small e-reader screens)
@@ -9695,6 +9712,8 @@
 
 ## TypeScript 
 
+- [srt4rulez/fallout-new-vegas-interactive-map](https://github.com/srt4rulez/fallout-new-vegas-interactive-map) - An interactive map of the Mojave Wasteland in Fallout: New Vegas.
+- [darkf/darkfo](https://github.com/darkf/darkfo) - DarkFO, a post-nuclear RPG remake (of Fallout 2)
 - [League-of-Foundry-Developers/foundry-vtt-types](https://github.com/League-of-Foundry-Developers/foundry-vtt-types) - Unofficial type declarations for the Foundry Virtual Tabletop API
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
@@ -9707,7 +9726,7 @@
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [Canna71/obsidian-mathpad](https://github.com/Canna71/obsidian-mathpad) - Computer Algebra System (CAS) for Obsidian.md
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -10028,6 +10047,8 @@
 
 ## Typst 
 
+- [oldrev/tids](https://github.com/oldrev/tids) - A Typst template for creating TI-style datasheets
+- [typst/templates](https://github.com/typst/templates) - Templates that are directly maintained by the Typst team.
 - [Leedehai/typst-physics](https://github.com/Leedehai/typst-physics) - physica: vectors, fields, differentials, derivatives, Dirac brakets, tensors, and more. See examples in the manual PDF.
 
 ## UnrealScript 
