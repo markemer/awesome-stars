@@ -5284,7 +5284,7 @@
 - [bluescan/proggyfonts](https://github.com/bluescan/proggyfonts) - Monospaced fonts for programming.
 - [joenash/awesome-infinidash](https://github.com/joenash/awesome-infinidash) - An awesome list for the awe-inspiring power of Infinidash, an imaginary product.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
+- [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [b1ackmai1er/SBC-V2-005](https://github.com/b1ackmai1er/SBC-V2-005) - Retrobrew Computers SBC-V2 development.
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
@@ -5783,7 +5783,7 @@
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases
 - [sparkfun/Sparkfun_Blocks_Template](https://github.com/sparkfun/Sparkfun_Blocks_Template) - The reference template that all mezzanine stacks adhere to.
 - [CleanShavenApps/sskeychain](https://github.com/CleanShavenApps/sskeychain) - Simple Objective-C wrapper for the keychain that works on Mac and iOS
-- [chrisdone/elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
+- [chrisdone-archive/elisp-guide](https://github.com/chrisdone-archive/elisp-guide) - A quick guide to Emacs Lisp programming
 - [amazon-archives/aws-sdk-core-ruby](https://github.com/amazon-archives/aws-sdk-core-ruby) - This repository has moved to the master branch of aws/aws-sdk-ruby
 - [brzaik/Responsive-Dashboard](https://github.com/brzaik/Responsive-Dashboard) - Bloat free responsive dashboard - powered by AngularJS and Bootstrap (jQuery version available)
 - [proveit-js/proveit](https://github.com/proveit-js/proveit) - Reference manager for Wikipedia
