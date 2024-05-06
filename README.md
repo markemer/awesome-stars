@@ -6315,8 +6315,6 @@
 - [abhishekkr/gmail-helper](https://github.com/abhishekkr/gmail-helper) - it will contain different utilities for GMail API over OAuth2
 - [mathandy/svgpathtools](https://github.com/mathandy/svgpathtools) - A collection of tools for manipulating and analyzing SVG Path objects and Bezier curves.
 - [SchrodingersGat/KiBoM](https://github.com/SchrodingersGat/KiBoM) - Configurable BoM generation tool for KiCad EDA (http://kicad.org/)
-- [alexisvl/kicad-schlib](https://github.com/alexisvl/kicad-schlib) - Alternative KiCad schematic library
-- [alexisvl/kicad-pcblib](https://github.com/alexisvl/kicad-pcblib) - Generate KiCad libraries from the FreePCB IPC libraries
 - [keybase/django-keybase-proofs](https://github.com/keybase/django-keybase-proofs) - Reference implementation and drop in library for keybase proof integration
 - [mpkasp/django-bom](https://github.com/mpkasp/django-bom) - A simple bill of materials app built using the django web framework.
 - [ibm-openbmc/openbmc](https://github.com/ibm-openbmc/openbmc) - 
@@ -7823,7 +7821,7 @@
 - [sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer) - OSX Optimizer: Optimize MacOS - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
 - [XQuartz/XQuartz](https://github.com/XQuartz/XQuartz) - An X11 server and client libraries for macOS
 - [nikvdp/pbproxy](https://github.com/nikvdp/pbproxy) - 
-- [m-weigand/xournalpp_pn](https://github.com/m-weigand/xournalpp_pn) - Xournal++ modifications for the Pine64 Pinenote device
+- [PNDeb/xournalpp_pn](https://github.com/PNDeb/xournalpp_pn) - Xournal++ modifications for the Pine64 Pinenote device
 - [DeterminateSystems/macos-ephemeral](https://github.com/DeterminateSystems/macos-ephemeral) - Scripts and instructions for making ephemeral macOS machines with Mosyle MDM support.
 - [ldodds/scifi-terminals](https://github.com/ldodds/scifi-terminals) - Recreating terminal windows from scifi movies
 - [geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac) - Collection of macOS automation tools for Ansible.
