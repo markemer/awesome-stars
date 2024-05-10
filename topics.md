@@ -147,6 +147,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [localization](#localization)
 - [low-code](#low-code)
 - [lua](#lua)
@@ -5819,6 +5820,11 @@
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 
+## llm 
+
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
+- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
+
 ## localization 
 
 - [FlineDev/BartyCrouch](https://github.com/FlineDev/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
@@ -7179,6 +7185,8 @@
 
 ## others 
 
+- [ALSchwalm/pISO](https://github.com/ALSchwalm/pISO) - Hardware and software source for the pISO
+- [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2
 - [android/car-samples](https://github.com/android/car-samples) - Multiple samples showing best practices for car app development on both Android Auto and Android Automotive OS.
 - [turingmotors/swan](https://github.com/turingmotors/swan) - This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources.
 - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
@@ -8488,7 +8496,7 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [timwis/markdown-to-google-doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive
 - [olivaresf/amazingcloudkit](https://github.com/olivaresf/amazingcloudkit) - A smart way to use CloudKit
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [April 2024]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [May 2024]
 - [PPacie/SwipingCarousel](https://github.com/PPacie/SwipingCarousel) - UICollectionView-based swiping carousel using Swift 5.1 and Xcode 11.2
 - [ChrisMicro/mcurses](https://github.com/ChrisMicro/mcurses) - 
 - [krzysztofzablocki/AutomaticSettings](https://github.com/krzysztofzablocki/AutomaticSettings) - Data driven settings UI generation.
