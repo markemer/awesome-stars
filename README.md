@@ -302,6 +302,7 @@
 
 ## C 
 
+- [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2
 - [nousrnam/F12se](https://github.com/nousrnam/F12se) - Universal savegame editor for Fallout & Fallout2
 - [NovaRain/Fallout2_Unofficial_Patch](https://github.com/NovaRain/Fallout2_Unofficial_Patch) - Unofficial fixes for killap's Fallout 2 Unofficial Patch
 - [BGforgeNet/Fallout2_Unofficial_Patch](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch) - Fallout 2 Unofficial Patch, updated
@@ -5313,7 +5314,7 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [alexkaessner/macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) - :gem: The most detailed and accurate macOS UI Kit for Sketch. This Sketch Library includes common Mac interface elements, cursors, and a Touch Bar UI Kit.
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [April 2024]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [May 2024]
 - [arturo182/kicad-modules](https://github.com/arturo182/kicad-modules) - A repository with all my custom footprints and 3d models for KiCad
 - [arturo182/BBQ10KBD](https://github.com/arturo182/BBQ10KBD) - 
 - [yewalenikhil65/Resources-for-engineering-students-who-like-mathematics](https://github.com/yewalenikhil65/Resources-for-engineering-students-who-like-mathematics) - This is a collection of resources that I feel will prove useful to anyone studying in the area of engineering but also like mathematics. I urge anyone who comes across this, to contribute to the list 
@@ -7414,6 +7415,7 @@
 
 ## Rust 
 
+- [ALSchwalm/pISO](https://github.com/ALSchwalm/pISO) - Hardware and software source for the pISO
 - [yellowcake-org/libycresources](https://github.com/yellowcake-org/libycresources) - Rust library which implements reading resources used in Fallout™.
 - [pingw33n/vault13](https://github.com/pingw33n/vault13) - Reimplementation of Fallout 2 engine
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
