@@ -2328,6 +2328,7 @@
 
 ## docker 
 
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste) - The Django project driving dpaste.org
@@ -5663,6 +5664,7 @@
 
 ## linux 
 
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
@@ -6058,6 +6060,7 @@
 
 ## macos 
 
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top written in pure Golang! Under 1,000 lines of code.
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
@@ -7217,6 +7220,7 @@
 
 ## others 
 
+- [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [FreddyVRetro/ISA-PicoMEM](https://github.com/FreddyVRetro/ISA-PicoMEM) - PicoMEM Doc and Firmware
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [ros2/example_interfaces](https://github.com/ros2/example_interfaces) - Msg, Srv, etc. ROS interfaces used in examples
@@ -7284,7 +7288,7 @@
 - [greenblat/vlsistuff](https://github.com/greenblat/vlsistuff) - ideas and eda software for vlsi design
 - [lip6/coriolis](https://github.com/lip6/coriolis) - Coriolis VLSI EDA Tool (LIP6)
 - [nlimper/Mini-AP-v4](https://github.com/nlimper/Mini-AP-v4) - Universal ESP32-C6 and ESP32-S3 based access point, usable as IEEE 802.15.4 &lt;-&gt; WiFi gateway and as OpenEpaperlink AP
-- [jjwbruijn/OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) - 
+- [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - 
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [openresty/stream-lua-nginx-module](https://github.com/openresty/stream-lua-nginx-module) - Embed the power of Lua into NGINX TCP/UDP servers
 - [swiftDialog/swiftDialog](https://github.com/swiftDialog/swiftDialog) - Create user-notifications on macOS with swiftDialog
@@ -9351,7 +9355,7 @@
 - [usbarmory/mxs-dcp](https://github.com/usbarmory/mxs-dcp) - NXP Data Co-Processor (DCP) - Linux driver
 - [usbarmory/armoryctl](https://github.com/usbarmory/armoryctl) - USB armory - hardware control tool
 - [chipsalliance/omnixtend](https://github.com/chipsalliance/omnixtend) - OmniXtend cache coherence protocol
-- [chipsalliance/VeeRwolf](https://github.com/chipsalliance/VeeRwolf) - FuseSoC-based SoC for SweRV EH1 and EL2
+- [chipsalliance/VeeRwolf](https://github.com/chipsalliance/VeeRwolf) - FuseSoC-based SoC for VeeR EH1 and EL2
 - [chipsalliance/Cores-VeeR-EH1](https://github.com/chipsalliance/Cores-VeeR-EH1) - VeeR EH1 core
 - [NSHipster/xcderiveddata](https://github.com/NSHipster/xcderiveddata) - A command-line utility that prints the path of the derived data directory for the current Xcode project
 - [scaleway/natasha](https://github.com/scaleway/natasha) - Natasha is a fast and scalable, DPDK powered, stateless NAT44 packet processor
