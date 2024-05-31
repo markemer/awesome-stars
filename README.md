@@ -305,6 +305,7 @@
 
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [phobos2077/fo2_ecco](https://github.com/phobos2077/fo2_ecco) - Gameplay overhaul mod for Fallout 2 Restoration Project
+- [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
 - [ArtifexSoftware/mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) - 
@@ -1268,7 +1269,6 @@
 
 - [me-no-dev/ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
 - [dynamixel-community/dynamixel_hardware](https://github.com/dynamixel-community/dynamixel_hardware) - ros2_control packages for ROBOTIS Dynamixel
-- [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
 - [turingmotors/swan](https://github.com/turingmotors/swan) - This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources.
 - [lStewieAl/Geck-Extender](https://github.com/lStewieAl/Geck-Extender) - A project adding functionality to New Vegas' Creation Kit. https://www.nexusmods.com/newvegas/mods/64888
 - [cvet/fonline](https://github.com/cvet/fonline) - FOnline Engine is a flexible cross-platform isometric game engine
@@ -4369,7 +4369,6 @@
 - [h0tk3y/better-parse](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
 - [Thomvis/better-parse](https://github.com/Thomvis/better-parse) - A nice parser combinator library for Kotlin
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
-- [smithy-lang/smithy-swift](https://github.com/smithy-lang/smithy-swift) - 
 - [jpd236/kotwords](https://github.com/jpd236/kotwords) - Collection of crossword puzzle file format converters and other utilities, written in Kotlin.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [GitLiveApp/firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase
@@ -6045,7 +6044,7 @@
 
 ## Python 
 
-- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - Visual effects applied to text in the terminal.
+- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine.
 - [dynamixel-community/dynamixel_hardware_examples](https://github.com/dynamixel-community/dynamixel_hardware_examples) - ros2_control robot examples with dynamixel_hardware
 - [Le0Michine/FusionGridfinityGenerator](https://github.com/Le0Michine/FusionGridfinityGenerator) - 
 - [prman-pixar/RfSP](https://github.com/prman-pixar/RfSP) - RenderMan for Substance Painter
@@ -6550,7 +6549,7 @@
 - [patchew-project/patchew](https://github.com/patchew-project/patchew) - A patch email tracking and testing system
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
-- [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
+- [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) - Fast and flexible image augmentation library. Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
 - [vmware/open-vmdk](https://github.com/vmware/open-vmdk) - 
 - [alexa/alexa-skills-kit-sdk-for-python](https://github.com/alexa/alexa-skills-kit-sdk-for-python) - The Alexa Skills Kit SDK for Python helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 - [SELinuxProject/refpolicy](https://github.com/SELinuxProject/refpolicy) - SELinux Reference Policy v2
@@ -8160,6 +8159,7 @@
 
 ## Swift 
 
+- [LordLobo/WebPark](https://github.com/LordLobo/WebPark) - 
 - [googlemaps/ios-maps-sdk](https://github.com/googlemaps/ios-maps-sdk) - Google Maps SDK for iOS
 - [stackotter/swift-macro-toolkit](https://github.com/stackotter/swift-macro-toolkit) - A powerful toolkit for creating concise and expressive Swift macros
 - [yellowcake-org/ycmapper-apple](https://github.com/yellowcake-org/ycmapper-apple) - Viewing application for the maps used in Fallout™. Apple platforms specific.
@@ -8464,6 +8464,7 @@
 - [lucaszischka/BottomSheet](https://github.com/lucaszischka/BottomSheet) - A sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI.
 - [hhas/Swift-AppleScriptObjC](https://github.com/hhas/Swift-AppleScriptObjC) - How to call AppleScript handlers from Swift via AppleScript-ObjC bridge.
 - [DataDog/dd-sdk-swift-testing](https://github.com/DataDog/dd-sdk-swift-testing) - Datadog Test Instrumentation framework for Swift / ObjC
+- [smithy-lang/smithy-swift](https://github.com/smithy-lang/smithy-swift) - 
 - [MaxDesiatov/SwiftPie](https://github.com/MaxDesiatov/SwiftPie) - A Swift rewrite of "A Tutorial Implementation of a Dependently Typed Lambda Calculus"
 - [mkrd/Swift-BigInt](https://github.com/mkrd/Swift-BigInt) - A lightweight, Arbitrary Precision Arithmetic Library for Swift!
 - [ArtSabintsev/FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS, macOS and tvOS app.
@@ -9688,7 +9689,6 @@
 - [lowRISC/lowrisc-nexys4](https://github.com/lowRISC/lowrisc-nexys4) - FPGA demo for Digilent NEXYS 4 board
 - [macports/macports-base](https://github.com/macports/macports-base) - The MacPorts command-line client
 - [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
-- [kyle-sammons/GSoC](https://github.com/kyle-sammons/GSoC) - My repository for Google Summer of Code 2014 with MacPorts
 
 ## TeX 
 
@@ -9744,6 +9744,7 @@
 
 ## TypeScript 
 
+- [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, processing, exporting, optimizing, and managing SVG content.
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Cloud-optimized + compressed single-file tile archives for vector and raster maps
 - [serverlessmaps/serverlessmaps](https://github.com/serverlessmaps/serverlessmaps) - Creating and hosting serverless maps
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool.
@@ -10123,6 +10124,7 @@
 
 ## Verilog 
 
+- [RTimothyEdwards/fracn_dll](https://github.com/RTimothyEdwards/fracn_dll) - Alternative version of the Caravel digital locked loop (DLL) with a fractional feedback divider
 - [OpenTimer/Parser-Verilog](https://github.com/OpenTimer/Parser-Verilog) - A Standalone Structural Verilog Parser
 - [TimRudy/ice-chips-verilog](https://github.com/TimRudy/ice-chips-verilog) - IceChips is a library of all common discrete logic devices in Verilog
 - [circuitgraph/circuitgraph](https://github.com/circuitgraph/circuitgraph) - Tools for working with circuits as graphs in python
