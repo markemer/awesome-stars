@@ -443,6 +443,7 @@
 
 ## angular 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [danielsogl/awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 - [analogjs/analog](https://github.com/analogjs/analog) - The fullstack meta-framework for Angular. Powered by Vite and Nitro
@@ -467,7 +468,7 @@
 - [geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac) - Collection of macOS automation tools for Ansible.
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [1Password/ansible-onepasswordconnect-collection](https://github.com/1Password/ansible-onepasswordconnect-collection) - The 1Password Connect collection contains modules that interact with your 1Password Connect deployment. The modules communicate with the 1Password Connect API to support Vault Item create/read/update/
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [secrethub/ansible-secrethub](https://github.com/secrethub/ansible-secrethub) - Official Ansible module for SecretHub
 - [macstadium/ansible-role-osx-ci](https://github.com/macstadium/ansible-role-osx-ci) - Ansible Role - OSX CI
 - [macstadium/ansible-playbook-osx-ci-setup](https://github.com/macstadium/ansible-playbook-osx-ci-setup) - Ansible Playbook: OSX CI Setup
@@ -657,6 +658,7 @@
 
 ## awesome 
 
+- [beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
@@ -816,6 +818,7 @@
 
 ## awesome-list 
 
+- [beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
@@ -1065,6 +1068,7 @@
 
 ## bash 
 
+- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
 - [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -1117,7 +1121,7 @@
 
 - [ugeneunipro/ugene](https://github.com/ugeneunipro/ugene) - UGENE is free open-source cross-platform bioinformatics software
 - [hail-is/hail](https://github.com/hail-is/hail) - Cloud-native genomic dataframes and batch computing
-- [BioJulia/BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) - A Julia package to read, write and manipulate macromolecular structures (particularly proteins)
+- [BioJulia/BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) - A Julia package to read, write and manipulate macromolecular structures
 - [brewsci/homebrew-bio](https://github.com/brewsci/homebrew-bio) - :beer::microscope: Bioinformatics formulae for the Homebrew package manager (macOS and Linux)
 - [shenwei356/bio](https://github.com/shenwei356/bio) - A lightweight and high-performance bioinformatics package in Golang
 - [mmagnus/rna-tools](https://github.com/mmagnus/rna-tools) - 🔧rna-tools: a toolbox to analyze sequences, structures and simulations of RNA (and more) used by RNA CASP, RNA PUZZLES, and me ;-) docs @ http://rna-tools.rtfd.io web @ http://rna-tools.online
@@ -1187,7 +1191,7 @@
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [alexbatalov/fallout2-re](https://github.com/alexbatalov/fallout2-re) - Reverse engineered Fallout 2
-- [visrealm/hbc-56](https://github.com/visrealm/hbc-56) - Homebrew 6502 on a backplane computer
+- [visrealm/hbc-56](https://github.com/visrealm/hbc-56) - Homebrew 65C02 computer on a backplane
 - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -1347,7 +1351,7 @@
 
 ## chrome-extension 
 
-- [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, processing, exporting, optimizing, and managing SVG content.
+- [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
 - [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
@@ -1452,7 +1456,7 @@
 - [jez/as-tree-cpp](https://github.com/jez/as-tree-cpp) - Print a list of paths as a tree of paths 🌳
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
-- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
+- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 - [pokanop/nostromo](https://github.com/pokanop/nostromo) - 👽 CLI for building powerful aliases and tools
 - [qubole/afctl](https://github.com/qubole/afctl) - afctl helps to manage and deploy Apache Airflow projects faster and smoother.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -1595,6 +1599,7 @@
 
 ## compiler 
 
+- [Ph0enixKM/Heraclitus](https://github.com/Ph0enixKM/Heraclitus) - 🧱 Compiler frontend for developing great programming languages
 - [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
@@ -1655,6 +1660,7 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
+- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [google/mtail](https://github.com/google/mtail) - extract internal monitoring data from application logs for collection in a timeseries database
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -2262,7 +2268,7 @@
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [LucianoPAlmeida/variable-injector](https://github.com/LucianoPAlmeida/variable-injector) - Continuous Integration Tool for Swift Projects
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
@@ -2312,6 +2318,7 @@
 
 ## django 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste) - The Django project driving dpaste.org
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
@@ -2674,7 +2681,7 @@
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - KeyboardKit is a Swift SDK that lets you create fully customizable keyboards with a few lines of code, using SwiftUI.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
+- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 
 ## emulator 
@@ -2687,7 +2694,7 @@
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
-- [visrealm/hbc-56](https://github.com/visrealm/hbc-56) - Homebrew 6502 on a backplane computer
+- [visrealm/hbc-56](https://github.com/visrealm/hbc-56) - Homebrew 65C02 computer on a backplane
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines based on PCem.
 - [qilingframework/qiling](https://github.com/qilingframework/qiling) - A True Instrumentable Binary Emulation Framework
@@ -3503,7 +3510,7 @@
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated.
 - [nathanborror/logger](https://github.com/nathanborror/logger) - Logger lets you quickly send messages to yourself as a means of fast note taking.
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [skx/github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for 'myrepos' to work with.
@@ -3757,6 +3764,8 @@
 
 ## hacktoberfest 
 
+- [abey79/vpype](https://github.com/abey79/vpype) - The Swiss-Army-knife command-line tool for plotter vector graphics.
+- [beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [stackotter/swift-macro-toolkit](https://github.com/stackotter/swift-macro-toolkit) - A powerful toolkit for creating concise and expressive Swift macros
 - [wavedrom/bitfield](https://github.com/wavedrom/bitfield) - :cake: bit field diagram renderer
@@ -3807,7 +3816,6 @@
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [horsicq/XMachOViewer](https://github.com/horsicq/XMachOViewer) - XMachOViewer is a Mach-O viewer for Windows, Linux and MacOS
-- [Foso/Ktorfit](https://github.com/Foso/Ktorfit) - HTTP client generator / KSP plugin for Kotlin Multiplatform (Android, iOS, Js, Jvm, Native) using KSP and Ktor clients inspired by Retrofit https://foso.github.io/Ktorfit
 - [Perl/perl5](https://github.com/Perl/perl5) - 🐪 The Perl programming language
 - [horsicq/PDBRipper](https://github.com/horsicq/PDBRipper) - PDBRipper is a utility for extract an information from PDB-files.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
@@ -4162,7 +4170,7 @@
 - [Homebrew/ruby-macho](https://github.com/Homebrew/ruby-macho) - 🔩 A pure-Ruby library for parsing Mach-O files.
 - [geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac) - Collection of macOS automation tools for Ansible.
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
-- [visrealm/hbc-56](https://github.com/visrealm/hbc-56) - Homebrew 6502 on a backplane computer
+- [visrealm/hbc-56](https://github.com/visrealm/hbc-56) - Homebrew 65C02 computer on a backplane
 - [FreeCAD/homebrew-freecad](https://github.com/FreeCAD/homebrew-freecad) - Homebrew recipes for FreeCAD
 - [J-D-K/JKSV](https://github.com/J-D-K/JKSV) - JK's Save Manager Switch Edition
 - [aws/homebrew-aws](https://github.com/aws/homebrew-aws) - Homebrew is a package manager for macOS which provides easy installation and update management of additional software. This Tap (repository) contains the Formulae that are used in the macOS AMI that A
@@ -4204,7 +4212,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [davidar/pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
 - [robb/Swim](https://github.com/robb/Swim) - A DSL for writing HTML in Swift
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [wordpress-mobile/AztecEditor-iOS](https://github.com/wordpress-mobile/AztecEditor-iOS) - A reusable native iOS visual HTML text editor component.
@@ -4999,7 +5007,7 @@
 
 ## javascript 
 
-- [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, processing, exporting, optimizing, and managing SVG content.
+- [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [srt4rulez/fallout-new-vegas-interactive-map](https://github.com/srt4rulez/fallout-new-vegas-interactive-map) - An interactive map of the Mojave Wasteland in Fallout: New Vegas.
 - [darkf/darkfo](https://github.com/darkf/darkfo) - DarkFO, a post-nuclear RPG remake (of Fallout 2)
@@ -5053,7 +5061,7 @@
 - [1Password/connect-sdk-js](https://github.com/1Password/connect-sdk-js) - Node SDK for 1Password Connect
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
 - [xeokit/xeokit-sdk](https://github.com/xeokit/xeokit-sdk) - Open source JavaScript SDK for viewing high-detail, full-precision 3D BIM and AEC models in the Web browser.
 - [twilio-labs/function-templates](https://github.com/twilio-labs/function-templates) - Twilio Function templates for different Voice, SMS, Video, Chat, Sync, etc use cases
@@ -5086,7 +5094,7 @@
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [PaulTaykalo/objc-dependency-visualizer](https://github.com/PaulTaykalo/objc-dependency-visualizer) - Objective-C and Swift dependency visualizer. It's tool that helps to visualize current state of your project. It's really easy to see how tight your classes are coupled.
-- [Andrew-Kang-G/url-knife](https://github.com/Andrew-Kang-G/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with robust patterns.
+- [patternknife/url-knife](https://github.com/patternknife/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with robust patterns.
 - [eavichay/microfronts](https://github.com/eavichay/microfronts) - Polyglot Front-End Solution for running multiple frameworks as one
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
@@ -5372,7 +5380,7 @@
 - [microsoft/OpticSim.jl](https://github.com/microsoft/OpticSim.jl) - Optical Simulation software
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [JuliaML/MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) - Utility package for accessing common Machine Learning datasets in Julia
-- [BioJulia/BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) - A Julia package to read, write and manipulate macromolecular structures (particularly proteins)
+- [BioJulia/BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) - A Julia package to read, write and manipulate macromolecular structures
 - [PainterQubits/Unitful.jl](https://github.com/PainterQubits/Unitful.jl) - Physical quantities with arbitrary units
 - [SciML/OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl) - High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning 
 - [JuliaMath/SpecialFunctions.jl](https://github.com/JuliaMath/SpecialFunctions.jl) - Special mathematical functions in Julia
@@ -5525,7 +5533,6 @@
 - [marcobambini/gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
-- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
@@ -5965,6 +5972,7 @@
 
 ## machine-learning 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
@@ -7226,6 +7234,13 @@
 
 ## others 
 
+- [leswright1977/PySpectrometer](https://github.com/leswright1977/PySpectrometer) - Raspberry Pi Spectrometer
+- [Car-Thing-Hax-Community/wiki](https://github.com/Car-Thing-Hax-Community/wiki) - Collection of general information about the Spotify CarThing and the various ways in which it can be modified
+- [makerslocal/localplot](https://github.com/makerslocal/localplot) - Qt HPGL plotting software
+- [ArtifexSoftware/ghostpdl](https://github.com/ArtifexSoftware/ghostpdl) - This is a mirror: the canonical repo is: git.ghostscript.com/ghostpdl.git https://www.ghostscript.com
+- [fsphil/hacktv](https://github.com/fsphil/hacktv) - Analogue TV transmitter for the HackRF
+- [openhardwaremonitor/openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) - Open Hardware Monitor
+- [FWGS/xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) - Xash3D FWGS engine.
 - [RTimothyEdwards/fracn_dll](https://github.com/RTimothyEdwards/fracn_dll) - Alternative version of the Caravel digital locked loop (DLL) with a fractional feedback divider
 - [LordLobo/WebPark](https://github.com/LordLobo/WebPark) - 
 - [me-no-dev/ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
@@ -8562,7 +8577,7 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [timwis/markdown-to-google-doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive
 - [olivaresf/amazingcloudkit](https://github.com/olivaresf/amazingcloudkit) - A smart way to use CloudKit
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [May 2024]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [June 2024]
 - [PPacie/SwipingCarousel](https://github.com/PPacie/SwipingCarousel) - UICollectionView-based swiping carousel using Swift 5.1 and Xcode 11.2
 - [ChrisMicro/mcurses](https://github.com/ChrisMicro/mcurses) - 
 - [krzysztofzablocki/AutomaticSettings](https://github.com/krzysztofzablocki/AutomaticSettings) - Data driven settings UI generation.
@@ -9653,7 +9668,7 @@
 - [ZipCPU/zipversa](https://github.com/ZipCPU/zipversa) - A Versa Board implementation using the AutoFPGA/ZipCPU infrastructure
 - [kolyvan/kxmovie](https://github.com/kolyvan/kxmovie) - movie player for iOS using ffmpeg
 - [apple/swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
-- [codenize-tools/miam](https://github.com/codenize-tools/miam) - Miam is a tool to manage IAM. It defines the state of IAM using DSL, and updates IAM according to DSL.
+- [cookpad/miam](https://github.com/cookpad/miam) - Miam is a tool to manage IAM. It defines the state of IAM using DSL, and updates IAM according to DSL.
 - [denisnazarov/awesome-crypto-trackers](https://github.com/denisnazarov/awesome-crypto-trackers) - A curated list of crypto project trackers and analytics dashboards.
 - [lem-project/lem](https://github.com/lem-project/lem) - Common Lisp editor/IDE with high expansibility
 - [openxc/openxc-python](https://github.com/openxc/openxc-python) - OpenXC Python library
@@ -13421,6 +13436,7 @@
 
 ## python3 
 
+- [abey79/vpype](https://github.com/abey79/vpype) - The Swiss-Army-knife command-line tool for plotter vector graphics.
 - [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 - [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste) - The Django project driving dpaste.org
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
@@ -13539,6 +13555,7 @@
 
 ## raspberry-pi 
 
+- [ithinkido/PiPlot](https://github.com/ithinkido/PiPlot) - Add RS232 connectivity to your Pi  and connect to vintage plotters. With full hardware flow control, no extra adapters or cables needed.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [yshurik/inferno-rpi](https://github.com/yshurik/inferno-rpi) - This is compilation of Labs “Porting Inferno OS to Raspberry Pi”. We decided to organize it as some set of small labs with very detailed steps of what is done to reach results and make everything easy
 - [jbruce12000/kiln-controller](https://github.com/jbruce12000/kiln-controller) - Turns a Raspberry Pi into an inexpensive, web-enabled kiln controller.
@@ -13968,6 +13985,7 @@
 
 ## rust 
 
+- [Ph0enixKM/Heraclitus](https://github.com/Ph0enixKM/Heraclitus) - 🧱 Compiler frontend for developing great programming languages
 - [dalance/amber](https://github.com/dalance/amber) - A code search / replace tool
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [pingw33n/vault13](https://github.com/pingw33n/vault13) - Reimplementation of Fallout 2 engine
@@ -15820,7 +15838,7 @@
 
 ## typescript 
 
-- [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, processing, exporting, optimizing, and managing SVG content.
+- [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [srt4rulez/fallout-new-vegas-interactive-map](https://github.com/srt4rulez/fallout-new-vegas-interactive-map) - An interactive map of the Mojave Wasteland in Fallout: New Vegas.
