@@ -485,6 +485,7 @@
 
 ## api 
 
+- [WillAbides/octo-go](https://github.com/WillAbides/octo-go) - A generated go client for GitHub's REST API
 - [Adawg4/openapi-autospec](https://github.com/Adawg4/openapi-autospec) - Proxy server that generates API specs for any app or website on localhost.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
@@ -629,7 +630,7 @@
 - [rubycdp/ferrum](https://github.com/rubycdp/ferrum) - Headless Chrome Ruby API
 - [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
 - [KaneCheshire/BiometricAutomationDemo](https://github.com/KaneCheshire/BiometricAutomationDemo) - Dependency free iOS biometric automation example.
-- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [google/EarlGrey](https://github.com/google/EarlGrey) - :tea: iOS UI Automation Test Framework
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -2996,6 +2997,7 @@
 
 ## game-development 
 
+- [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [mikeroyal/Unreal-Engine-Guide](https://github.com/mikeroyal/Unreal-Engine-Guide) - Unreal Engine 5 Guide. Learn to develop games for Windows, Linux, macOS, iOS, Android, Xbox Series X|S, PlayStation  5, Nintendo Switch.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
@@ -3183,6 +3185,7 @@
 
 ## github 
 
+- [WillAbides/octo-go](https://github.com/WillAbides/octo-go) - A generated go client for GitHub's REST API
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
@@ -3268,6 +3271,7 @@
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [ricardbejarano/go-onepassword](https://github.com/ricardbejarano/go-onepassword) - 1Password client for Go
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
+- [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
 - [Code-Hex/vz](https://github.com/Code-Hex/vz) - Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.framework.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -3317,7 +3321,7 @@
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [nytimes/gziphandler](https://github.com/nytimes/gziphandler) - Go middleware to gzip HTTP responses
 - [pokanop/nostromo](https://github.com/pokanop/nostromo) - 👽 CLI for building powerful aliases and tools
-- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [aregm/nff-go](https://github.com/aregm/nff-go) - NFF-Go -Network Function Framework for GO (former YANFF)
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -3448,6 +3452,7 @@
 
 ## golang 
 
+- [WillAbides/octo-go](https://github.com/WillAbides/octo-go) - A generated go client for GitHub's REST API
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top written in pure Golang! Under 1,000 lines of code.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -3525,7 +3530,7 @@
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [Merovius/srvfb](https://github.com/Merovius/srvfb) - Stream a framebuffer device over HTTP
 - [shiyanhui/libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
-- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [aregm/nff-go](https://github.com/aregm/nff-go) - NFF-Go -Network Function Framework for GO (former YANFF)
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -5851,6 +5856,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror) - This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.
+- [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for Linux x86_64
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [DynamoRIO/dynamorio](https://github.com/DynamoRIO/dynamorio) - Dynamic Instrumentation Tool Platform
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
@@ -5934,6 +5940,7 @@
 
 ## mac 
 
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [grahampugh/erase-install](https://github.com/grahampugh/erase-install) - A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process. Watch the video!
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [macmade/Lottie-Preview](https://github.com/macmade/Lottie-Preview) - A macOS application to display previews of Lottie animations.
@@ -6074,6 +6081,8 @@
 
 ## macos 
 
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top written in pure Golang! Under 1,000 lines of code.
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
@@ -6856,6 +6865,7 @@
 
 ## nodejs 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [Deep-Symmetry/bytefield-svg](https://github.com/Deep-Symmetry/bytefield-svg) - Node module that generates byte field diagrams in SVG format
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
@@ -7234,6 +7244,15 @@
 
 ## others 
 
+- [visrealm/pico9918](https://github.com/visrealm/pico9918) - A replacement for the classic TMS9918A/TMS9929A VDP, powered by a Raspberry Pi Pico
+- [IanBriggs/megalibm](https://github.com/IanBriggs/megalibm) - 
+- [herbie-fp/odyssey](https://github.com/herbie-fp/odyssey) - A platform for exploring floating-point expressions.
+- [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
+- [batfish/batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evo
+- [blixt/sol-mate-eink](https://github.com/blixt/sol-mate-eink) - The Sol Mate GPT but on your e-Paper display!
+- [google/swiftshader](https://github.com/google/swiftshader) - SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is to provide hardware independence for advanced 3D graphics.
+- [pa3gsb/Radioberry-2.x](https://github.com/pa3gsb/Radioberry-2.x) - Ham Radio hat for Raspberry PI
+- [dekuNukem/PicoRC](https://github.com/dekuNukem/PicoRC) - PicoPSU adaptor for retro computers
 - [leswright1977/PySpectrometer](https://github.com/leswright1977/PySpectrometer) - Raspberry Pi Spectrometer
 - [Car-Thing-Hax-Community/wiki](https://github.com/Car-Thing-Hax-Community/wiki) - Collection of general information about the Spotify CarThing and the various ways in which it can be modified
 - [makerslocal/localplot](https://github.com/makerslocal/localplot) - Qt HPGL plotting software
@@ -7258,7 +7277,7 @@
 - [VictorTaelin/Interaction-Calculus](https://github.com/VictorTaelin/Interaction-Calculus) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
-- [netrisdotme/netris](https://github.com/netrisdotme/netris) - [Experimental] Open-source GeForce NOW alternative with Stadia's social features
+- [nestriness/nestri](https://github.com/nestriness/nestri) - [Experimental] Open-source GeForce NOW alternative with Stadia's social features
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
 - [noisysockets/nsh](https://github.com/noisysockets/nsh) - The Noisy Sockets CLI
 - [noisysockets/noisysockets](https://github.com/noisysockets/noisysockets) - Userspace TCP/IP Sockets For WireGuard.
@@ -7404,7 +7423,7 @@
 - [ml-explore/mlx-data](https://github.com/ml-explore/mlx-data) - Efficient framework-agnostic data loading
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
-- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
+- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build custom internal software with AI. Dropbase Server and Worker are self-hosted and they securely interact with your data within your own infra.
 - [iic-jku/IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) - IIC-OSIC-TOOLS is an all-in-one Docker image for SKY130/GF180/IHP130-based analog and digital chip design. AMD64 and ARM64 are natively supported.
 - [nst/bfps](https://github.com/nst/bfps) - A Brainfuck interpreter written in PostScript
 - [FPGAwars/FPGA-peripherals](https://github.com/FPGAwars/FPGA-peripherals) - :seedling: :snowflake: Collection of open-source peripherals in Verilog
@@ -10945,7 +10964,7 @@
 - [adurbalo/JiraConnector](https://github.com/adurbalo/JiraConnector) - Integrate JiraConnector in your project and give ability to testers create JIRA issues from you app just by shaking device.
 - [mikeash/BinaryCoder](https://github.com/mikeash/BinaryCoder) - An example implementation of Swift.Codable using a simple binary format
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-- [hansemannn/iOS-NFC-Example](https://github.com/hansemannn/iOS-NFC-Example) - 📱 Example showing how to use the Core NFC API in iOS
+- [hansemannn/iOS-NFC-Example](https://github.com/hansemannn/iOS-NFC-Example) - 📱 Example showing how to use the Core NFC API in Swift/iOS
 - [LaunchKit/LaunchKit](https://github.com/LaunchKit/LaunchKit) - A set of web-based tools for mobile app developers, now open source!
 - [graalvm/sulong](https://github.com/graalvm/sulong) - Obsolete repository. Moved to oracle/graal.
 - [ampotos/dynStruct](https://github.com/ampotos/dynStruct) - Reverse engineering tool for automatic structure recovering and memory use analysis based on DynamoRIO and Capstone
@@ -11580,7 +11599,7 @@
 - [openalpr/openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library
 - [neonichu/swift-buildpack](https://github.com/neonichu/swift-buildpack) - Heroku buildpack for Swift
 - [capitalone/SWHttpTrafficRecorder](https://github.com/capitalone/SWHttpTrafficRecorder) - A simple library empowering you to record/capture HTTP(s) traffic of an iOS app for mocking/stubbing later.
-- [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+- [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [lyft/mapper](https://github.com/lyft/mapper) - A JSON deserialization library for Swift
 - [Conche/Conche](https://github.com/Conche/Conche) - Swift build system and dependency manager.
@@ -11967,7 +11986,6 @@
 - [tylergaw/js-osx-app-examples](https://github.com/tylergaw/js-osx-app-examples) - Example OS X applications written in JavaScript.
 - [Januzellij/hopperscripts](https://github.com/Januzellij/hopperscripts) - Collection of scripts I use in the Hopper disassembler
 - [0xAX/git-cheat](https://github.com/0xAX/git-cheat) - git cheat sheets in your command line
-- [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for linux-x64
 - [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
 - [capnproto/ekam](https://github.com/capnproto/ekam) - Ekam Build System
 - [boldport/pcbmode](https://github.com/boldport/pcbmode) - A printed circuit board design tool with a twist
@@ -13099,6 +13117,7 @@
 
 ## python 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [darkf/darkfo](https://github.com/darkf/darkfo) - DarkFO, a post-nuclear RPG remake (of Fallout 2)
 - [ttrftech/NanoVNA](https://github.com/ttrftech/NanoVNA) - Very Tiny Palmtop Vector Network Analyzer
 - [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath) - Inspect and refine PATH environment variable on Windows, Linux and MacOS.
@@ -13555,6 +13574,7 @@
 
 ## raspberry-pi 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [ithinkido/PiPlot](https://github.com/ithinkido/PiPlot) - Add RS232 connectivity to your Pi  and connect to vintage plotters. With full hardware flow control, no extra adapters or cables needed.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [yshurik/inferno-rpi](https://github.com/yshurik/inferno-rpi) - This is compilation of Labs “Porting Inferno OS to Raspberry Pi”. We decided to organize it as some set of small labs with very detailed steps of what is done to reach results and make everything easy
@@ -14669,6 +14689,7 @@
 
 ## swift 
 
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource) - Server-sent events (SSE) client implementation in Swift for iOS, macOS, tvOS, and watchOS
 - [apple/swift-sdk-generator](https://github.com/apple/swift-sdk-generator) - Generate Swift SDKs for cross-compilation
@@ -15483,6 +15504,7 @@
 
 ## swiftui 
 
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [SwiftfulThinking/SwiftfulRouting](https://github.com/SwiftfulThinking/SwiftfulRouting) - Programmatic navigation for SwiftUI applications.
@@ -15787,7 +15809,7 @@
 - [scanapi/scanapi](https://github.com/scanapi/scanapi) - Automated Integration Testing and Live Documentation for your API
 - [SwiftDocOrg/DocTest](https://github.com/SwiftDocOrg/DocTest) - An experimental tool for testing Swift example code in documentation.
 - [KaneCheshire/BiometricAutomationDemo](https://github.com/KaneCheshire/BiometricAutomationDemo) - Dependency free iOS biometric automation example.
-- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [as-pect/as-pect](https://github.com/as-pect/as-pect) - 🔥Blazing🔥 fast testing with AssemblyScript
 - [twpayne/go-vfs](https://github.com/twpayne/go-vfs) - Package vfs provides an abstraction of the os and io packages that is easy to test.
@@ -15924,6 +15946,7 @@
 
 ## ubuntu 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [khadas/fenix](https://github.com/khadas/fenix) - One-stop script set to build Ubuntu/Debian images
 - [uraimo/buildSwiftOnARM](https://github.com/uraimo/buildSwiftOnARM) - All you need to build Swift on a RaspberryPi or other ARM boards, updated to Swift 5.1.5
@@ -16063,7 +16086,7 @@
 - [jmarmorato/Intranet-Home-Page](https://github.com/jmarmorato/Intranet-Home-Page) - Intranet Home Page is a highly-configurable self-hosted browser homepage with integrations for public and local data feeds.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [rubycdp/ferrum](https://github.com/rubycdp/ferrum) - Headless Chrome Ruby API
-- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [haukex/webperl](https://github.com/haukex/webperl) - Run Perl in the browser with WebPerl!
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
