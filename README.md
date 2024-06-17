@@ -1141,9 +1141,9 @@
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [ThisIsNotRocketScience/GerberTools](https://github.com/ThisIsNotRocketScience/GerberTools) - Tools to load/edit/create/panelizer sets of gerber files
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
-- [atenfyr/UAssetAPI](https://github.com/atenfyr/UAssetAPI) - A low-level .NET library for reading and writing Unreal Engine 4 game assets.
+- [atenfyr/UAssetAPI](https://github.com/atenfyr/UAssetAPI) - A low-level .NET library for reading and writing Unreal Engine game assets.
 - [Macad3D/Macad3D](https://github.com/Macad3D/Macad3D) - Free and OpenSource 3D Construction Tool
-- [atenfyr/UAssetGUI](https://github.com/atenfyr/UAssetGUI) - A tool designed for low-level examination and modification of Unreal Engine 4 game assets by hand.
+- [atenfyr/UAssetGUI](https://github.com/atenfyr/UAssetGUI) - A tool designed for low-level examination and modification of Unreal Engine game assets by hand.
 - [LaughingLeader/BG3ModManager](https://github.com/LaughingLeader/BG3ModManager) - A mod manager for Baldur's Gate 3.
 - [Nexus-Mods/NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
 - [Mutagen-Modding/Synthesis](https://github.com/Mutagen-Modding/Synthesis) - A patcher pipeline framework and GUI.  Run collections of code-based mods to create content customized for your load order
@@ -1618,7 +1618,7 @@
 - [rochus-keller/LjTools](https://github.com/rochus-keller/LjTools) - LuaJIT 2.0 bytecode parser, viewer, assembler and test VM. Lua 5.1 parser, IDE and debugger.
 - [moonlight-stream/Internet-Hosting-Tool](https://github.com/moonlight-stream/Internet-Hosting-Tool) - Enable Moonlight streaming from your PC over the Internet with no configuration required
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
-- [fwsGonzo/libriscv](https://github.com/fwsGonzo/libriscv) - C++20 RISC-V RV32/64/128 userspace emulator library
+- [fwsGonzo/libriscv](https://github.com/fwsGonzo/libriscv) - The fastest RISC-V sandbox
 - [gitahead/gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
 - [oxplot/fabpide2](https://github.com/oxplot/fabpide2) - STUSB4500 Breakout — Stand-alone USB PD Sink Controller
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
@@ -3422,7 +3422,7 @@
 - [ProjectMirador/mirador](https://github.com/ProjectMirador/mirador) - An open-source, web-based 'multi-up' viewer that supports zoom-pan-rotate functionality, ability to display/compare simple images, and images with annotations.
 - [zoom/server-to-server-oauth-starter-api](https://github.com/zoom/server-to-server-oauth-starter-api) - Starting point for developing a Zoom S2S OAuth API
 - [OutSystems/cordova-outsystems-barcodescanner](https://github.com/OutSystems/cordova-outsystems-barcodescanner) - Implementation of Barcode Plugin
-- [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions
+- [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
 - [little-bonsai/ballpoint](https://github.com/little-bonsai/ballpoint) - cli for formatting ink files
 - [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine
 - [techspeterson/sunless-sea-mapper](https://github.com/techspeterson/sunless-sea-mapper) - A mapping tool for Sunless Sea
@@ -3882,7 +3882,7 @@
 - [claudehohl/Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in PHP
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [ulid/javascript](https://github.com/ulid/javascript) - Universally Unique Lexicographically Sortable Identifier
-- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [onmyway133/PushNotifications](https://github.com/onmyway133/PushNotifications) - 🐉 A macOS, Linux, Windows app to test push notifications on iOS and Android
 - [staltz/rxmarbles](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables
 - [inkle/inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
@@ -4026,6 +4026,7 @@
 - [jtq/clockworacle](https://github.com/jtq/clockworacle) - Clockwork Oracle mod for the game Sunless Sea
 - [sindresorhus/icloud-tabs](https://github.com/sindresorhus/icloud-tabs) - Get the iCloud tabs for all synced devices (macOS)
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
+- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [shekhargulati/52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
 - [sindresorhus/tmpin](https://github.com/sindresorhus/tmpin) - Add stdin support to any CLI app that accepts file input
@@ -4397,7 +4398,7 @@
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 - [Flank/flank](https://github.com/Flank/flank) - :speedboat: Massively parallel Android and iOS test runner for Firebase Test Lab
 - [CodingDoug/universal-translator](https://github.com/CodingDoug/universal-translator) - Demo app using Firebase and Google Cloud products to implement a "universal translator"
-- [micabytes/storybytes](https://github.com/micabytes/storybytes) - Android version of the StoryBytes story viewer for ink.
+- [micabytes/storybytes-android](https://github.com/micabytes/storybytes-android) - Android version of the StoryBytes story viewer for ink.
 - [micabytes/storybytes-desktop](https://github.com/micabytes/storybytes-desktop) - Desktop version of the StoryBytes story viewer for ink.
 - [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - Samples builds using the Gradle Kotlin DSL
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
@@ -4556,6 +4557,7 @@
 
 ## Nix 
 
+- [steveftoth/hashgrits](https://github.com/steveftoth/hashgrits) - HashGrits is a project to add native redis support to the PostgreSQL server
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [Ramblurr/nixcfg](https://github.com/Ramblurr/nixcfg) - My nix flake for all my NixOS machines.
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
@@ -5166,6 +5168,7 @@
 
 ## Others 
 
+- [RTimothyEdwards/contact_programmed_ROM_cells](https://github.com/RTimothyEdwards/contact_programmed_ROM_cells) - Set of layouts for contact-programmed ROM values of various bit widths.
 - [swiftlang/swift-community-hosted-continuous-integration](https://github.com/swiftlang/swift-community-hosted-continuous-integration) - Swift Community-Hosted Continuous Integration
 - [beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
 - [Car-Thing-Hax-Community/wiki](https://github.com/Car-Thing-Hax-Community/wiki) - Collection of general information about the Spotify CarThing and the various ways in which it can be modified
@@ -7299,7 +7302,6 @@
 - [cbrito/splunk-client](https://github.com/cbrito/splunk-client) - Splunk REST API Library for Ruby
 - [tj/terminal-table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 - [ruby/rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
-- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [playgroundbooks/playgroundbook](https://github.com/playgroundbooks/playgroundbook) - Tool for Swift Playground books
 - [AliSoftware/pprof](https://github.com/AliSoftware/pprof) - Ruby Gem to list, filter, search and print Provisioning Profiles files
 - [cucumber/aruba](https://github.com/cucumber/aruba) - Test command-line applications with Cucumber-Ruby, RSpec or Minitest.
@@ -9779,6 +9781,7 @@
 
 ## TypeScript 
 
+- [frectonz/sqlite-studio](https://github.com/frectonz/sqlite-studio) - SQLite database explorer
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
 - [swiftlang/vscode-swift](https://github.com/swiftlang/vscode-swift) - Visual Studio Code Extension for Swift
 - [herbie-fp/odyssey](https://github.com/herbie-fp/odyssey) - A platform for exploring floating-point expressions.
