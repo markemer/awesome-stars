@@ -47,6 +47,7 @@
 - [covid-19](#covid-19)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [crystal](#crystal)
 - [csharp](#csharp)
 - [css](#css)
@@ -274,6 +275,7 @@
 - [xamarin](#xamarin)
 - [xcode](#xcode)
 - [xml](#xml)
+- [zig](#zig)
 
 ## 3d 
 
@@ -489,7 +491,7 @@
 - [Adawg4/openapi-autospec](https://github.com/Adawg4/openapi-autospec) - Proxy server that generates API specs for any app or website on localhost.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
-- [atenfyr/UAssetAPI](https://github.com/atenfyr/UAssetAPI) - A low-level .NET library for reading and writing Unreal Engine 4 game assets.
+- [atenfyr/UAssetAPI](https://github.com/atenfyr/UAssetAPI) - A low-level .NET library for reading and writing Unreal Engine game assets.
 - [TheGreatRambler/MariOver](https://github.com/TheGreatRambler/MariOver) - Makes almost all of the data exposed by Mario Maker 2 servers public through an API
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
@@ -1002,7 +1004,7 @@
 - [99designs/iamy](https://github.com/99designs/iamy) - A cli tool for importing and exporting AWS IAM configuration to YAML files
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [rusoto/rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs
 - [Xilinx/SDAccel_Examples](https://github.com/Xilinx/SDAccel_Examples) - SDAccel Examples
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
@@ -1171,6 +1173,7 @@
 
 ## c 
 
+- [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 - [marzent/wine-msync](https://github.com/marzent/wine-msync) - A Mach semaphore-based synchronization mechanism for Wine on macOS. Built for speed, inspired by fsync.
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
@@ -1390,7 +1393,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [nicholaschiasson/fcidr](https://github.com/nicholaschiasson/fcidr) - Fragmented Classless Inter-Domain Routing (FCIDR)
-- [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
+- [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
 - [ionic-team/ionic-cli](https://github.com/ionic-team/ionic-cli) - The Ionic command-line interface
 - [awslabs/staticwebsite-cli](https://github.com/awslabs/staticwebsite-cli) - Quickly and easily host a static website on AWS.
@@ -1489,7 +1492,7 @@
 - [99designs/iamy](https://github.com/99designs/iamy) - A cli tool for importing and exporting AWS IAM configuration to YAML files
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [jarun/imgp](https://github.com/jarun/imgp) - :camera_flash: Fast batch image resizer and rotator
 - [JohnSundell/SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform Swift framework projects from the command line
 - [Ether-CLI/Ether](https://github.com/Ether-CLI/Ether) - A Command-Line Interface for the Swift Package Manager
@@ -1521,7 +1524,7 @@
 - [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) - 🛠  Manage and deploy your Google Apps Script projects using the command line
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [piotrmurach/tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt
-- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [AutobahnSwift/Autobahn](https://github.com/AutobahnSwift/Autobahn) - CLI tool written in Swift heavily inspired by https://github.com/fastlane/fastlane
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
@@ -1787,7 +1790,7 @@
 - [ArkScript-lang/Ark](https://github.com/ArkScript-lang/Ark) - ArkScript is a small, fast, functional and scripting language for C++ projects
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
-- [fwsGonzo/libriscv](https://github.com/fwsGonzo/libriscv) - C++20 RISC-V RV32/64/128 userspace emulator library
+- [fwsGonzo/libriscv](https://github.com/fwsGonzo/libriscv) - The fastest RISC-V sandbox
 - [agroce/universalmutator](https://github.com/agroce/universalmutator) - Regexp based tool for mutating generic source code across numerous languages
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [pfultz2/cget](https://github.com/pfultz2/cget) - C++ package retrieval
@@ -1837,6 +1840,47 @@
 
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [ScottfreeLLC/AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Python AutoML for Trading Systems and Sports Betting
+
+## cryptography 
+
+- [mirage/mirage-crypto](https://github.com/mirage/mirage-crypto) - Cryptographic primitives for OCaml, in OCaml (also used in MirageOS)
+- [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
+- [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
+- [jedisct1/libhydrogen](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments.
+- [trussed-dev/trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware
+- [zorggomat/FractalCryptGUI](https://github.com/zorggomat/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
+- [Infineon/linux-optiga-trust-m](https://github.com/Infineon/linux-optiga-trust-m) - Linux tools and examples for OPTIGA™ Trust M1/M3 security solution
+- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
+- [rustls/rustls-ffi](https://github.com/rustls/rustls-ffi) - Use Rustls from any language
+- [josephernest/nfreezer](https://github.com/josephernest/nfreezer) - nFreezer is an encrypted-at-rest backup tool.
+- [Infineon/optiga-trust-m](https://github.com/Infineon/optiga-trust-m) - OPTIGA™ Trust M Software Framework
+- [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
+- [chjj/liburkel](https://github.com/chjj/liburkel) - Authenticated key-value store (i.e. an urkel tree)
+- [BetterCrypto/Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening) - Best Current Practices regarding secure online communication and configuration of services using cryptography.
+- [SalusaSecondus/CryptoGotchas](https://github.com/SalusaSecondus/CryptoGotchas) - A collection of common (interesting) cryptographic mistakes and learning resources.
+- [tfhe/tfhe](https://github.com/tfhe/tfhe) - TFHE: Fast Fully Homomorphic Encryption Library over the Torus
+- [homenc/HElib](https://github.com/homenc/HElib) - HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations
+- [iqlusioninc/veriform](https://github.com/iqlusioninc/veriform) - Security-oriented protobuf-like serialization format with "Merkleized" content hashing support
+- [apple/swift-crypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
+- [brendoncarroll/webfs](https://github.com/brendoncarroll/webfs) - A Filesystem Built On Top of the Web.
+- [randombit/botan](https://github.com/randombit/botan) - Cryptography Toolkit
+- [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
+- [pyca/pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library
+- [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
+- [tleonhardt/practical_cryptography_engineering](https://github.com/tleonhardt/practical_cryptography_engineering) - Cryptography code examples using libsodium and mbedtls C libraries and Python cryptography and PyNaCl modules
+- [jedisct1/minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
+- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [Kitura/BlueCryptor](https://github.com/Kitura/BlueCryptor) - Swift cross-platform crypto library using CommonCrypto/libcrypto
+- [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
+- [jedisct1/swift-sodium](https://github.com/jedisct1/swift-sodium) - Safe and easy to use crypto for iOS and macOS
+- [cryfs/cryfs](https://github.com/cryfs/cryfs) - Cryptographic filesystem for the cloud
+- [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
+- [github/SoftU2F](https://github.com/github/SoftU2F) - Software U2F authenticator for macOS
+- [infinit/elle](https://github.com/infinit/elle) - The Elle coroutine-based asynchronous C++ development framework.
+- [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+- [C2SP/wycheproof](https://github.com/C2SP/wycheproof) - Project Wycheproof tests crypto libraries against known attacks.
+- [aws/s2n-tls](https://github.com/aws/s2n-tls) - An implementation of the TLS/SSL protocols
+- [google/end-to-end](https://github.com/google/end-to-end) - End-To-End is a crypto library to encrypt, decrypt, digital sign, and verify signed messages (implementing OpenPGP)
 
 ## crystal 
 
@@ -2287,7 +2331,7 @@
 - [secrethub/secrethub-cli](https://github.com/secrethub/secrethub-cli) - A secrets management platform that every engineer can use with minimal code changes.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
 - [99designs/iamy](https://github.com/99designs/iamy) - A cli tool for importing and exporting AWS IAM configuration to YAML files
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [messeb/ios-project-env-setup](https://github.com/messeb/ios-project-env-setup) - Setup your iOS project environment with a Shellscript, Makefile or Rakefile
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
@@ -2711,7 +2755,7 @@
 - [bsnes-emu/bsnes](https://github.com/bsnes-emu/bsnes) - bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
 - [higan-emu/higan](https://github.com/higan-emu/higan) - higan is a multi-system emulator focused on accuracy, preservation, and configurability.
 - [spieglt/nestur](https://github.com/spieglt/nestur) - The NES (emulator) you left outside in the rain but let dry and still kind of works
-- [fwsGonzo/libriscv](https://github.com/fwsGonzo/libriscv) - C++20 RISC-V RV32/64/128 userspace emulator library
+- [fwsGonzo/libriscv](https://github.com/fwsGonzo/libriscv) - The fastest RISC-V sandbox
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [dparnell/i48](https://github.com/dparnell/i48) - A HP48GX emulator for the iPhone and iPod touch
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
@@ -2907,7 +2951,6 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [onekiloparsec/SwiftAA](https://github.com/onekiloparsec/SwiftAA) - The most comprehensive collection of accurate astronomical algorithms in (C++, Objective-C and) Swift.
 - [twitter/ios-twitter-network-layer](https://github.com/twitter/ios-twitter-network-layer) - Twitter Network Layer is a scalable and feature rich network layer built on top of NSURLSession for Apple platforms
-- [rsta2/circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi with USB (32 and 64 bit)
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf
 - [google/promises](https://github.com/google/promises) - Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
 - [willowtreeapps/Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS) - In-app design review tool to inspect measurements, attributes, and animations.
@@ -3313,7 +3356,7 @@
 - [1Password/connect-sdk-go](https://github.com/1Password/connect-sdk-go) - Go SDK for 1Password Connect
 - [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword) - Use the 1Password Terraform Provider to reference, create, or update items in your 1Password Vaults.
 - [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) - Hashicorp Vault plugin integrates with 1Password Connect to allow for the retrieval, creation, and deletion of items stored in 1Password.
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [scalarhq/go-fluent-ffmpeg](https://github.com/scalarhq/go-fluent-ffmpeg) - A Go implementation of fluent-ffmpeg
 - [icexin/eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -3515,8 +3558,7 @@
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated.
 - [nathanborror/logger](https://github.com/nathanborror/logger) - Logger lets you quickly send messages to yourself as a means of fast note taking.
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [skx/github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for 'myrepos' to work with.
 - [icexin/eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
@@ -4208,6 +4250,7 @@
 
 ## html 
 
+- [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 - [ModdingLinked/Viva-New-Vegas](https://github.com/ModdingLinked/Viva-New-Vegas) - A Comprehensive Fallout New Vegas Modding Guide.
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -4217,7 +4260,6 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [davidar/pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
 - [robb/Swim](https://github.com/robb/Swim) - A DSL for writing HTML in Swift
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [wordpress-mobile/AztecEditor-iOS](https://github.com/wordpress-mobile/AztecEditor-iOS) - A reusable native iOS visual HTML text editor component.
@@ -4493,7 +4535,7 @@
 - [TokyoYoshida/ExampleOfiOSLiDAR](https://github.com/TokyoYoshida/ExampleOfiOSLiDAR) - Example Of iOS ARKit LiDAR
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
 - [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - Capture HTTP/HTTPS, and Websocket from iOS app without proxy.
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [SwiftyBeaver/SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient & secure logging during development & release in Swift 4 & 5
 - [hbang/Alderis](https://github.com/hbang/Alderis) - A fresh new color picker, with a gentle, fun, and dead simple user interface.
 - [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
@@ -5024,7 +5066,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [ProjectMirador/mirador](https://github.com/ProjectMirador/mirador) - An open-source, web-based 'multi-up' viewer that supports zoom-pan-rotate functionality, ability to display/compare simple images, and images with annotations.
-- [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions
+- [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -5066,7 +5108,6 @@
 - [1Password/connect-sdk-js](https://github.com/1Password/connect-sdk-js) - Node SDK for 1Password Connect
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
 - [xeokit/xeokit-sdk](https://github.com/xeokit/xeokit-sdk) - Open source JavaScript SDK for viewing high-detail, full-precision 3D BIM and AEC models in the Web browser.
 - [twilio-labs/function-templates](https://github.com/twilio-labs/function-templates) - Twilio Function templates for different Voice, SMS, Video, Chat, Sync, etc use cases
@@ -5176,7 +5217,7 @@
 - [lexrus/LTFinderButtons](https://github.com/lexrus/LTFinderButtons) - My Finder buttons collection for macOS.
 - [mariechatfield/call-my-congress](https://github.com/mariechatfield/call-my-congress) - DEPRECATED. Simple app that displays contact information for US Congress representatives by district.
 - [ulid/javascript](https://github.com/ulid/javascript) - Universally Unique Lexicographically Sortable Identifier
-- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Utility library for GraphQL to build, stitch and mock GraphQL schemas in the SDL-first approach
@@ -5320,8 +5361,8 @@
 ## json 
 
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [atenfyr/UAssetAPI](https://github.com/atenfyr/UAssetAPI) - A low-level .NET library for reading and writing Unreal Engine 4 game assets.
-- [atenfyr/UAssetGUI](https://github.com/atenfyr/UAssetGUI) - A tool designed for low-level examination and modification of Unreal Engine 4 game assets by hand.
+- [atenfyr/UAssetAPI](https://github.com/atenfyr/UAssetAPI) - A low-level .NET library for reading and writing Unreal Engine game assets.
+- [atenfyr/UAssetGUI](https://github.com/atenfyr/UAssetGUI) - A tool designed for low-level examination and modification of Unreal Engine game assets by hand.
 - [macmade/Lottie-Preview](https://github.com/macmade/Lottie-Preview) - A macOS application to display previews of Lottie animations.
 - [Mubelotix/faster-pest](https://github.com/Mubelotix/faster-pest) - A generator for high-performance Pest parsers, bringing your grammar to the next level
 - [JujuAdams/SNAP](https://github.com/JujuAdams/SNAP) - Data format converters for GameMaker LTS 2022
@@ -5834,7 +5875,7 @@
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
-- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
@@ -5950,7 +5991,7 @@
 - [lyndsey-ferguson/fastlane-plugin-test_center](https://github.com/lyndsey-ferguson/fastlane-plugin-test_center) - 🎯 The best fastlane plugin to understand and tame misbehaving iOS tests 🎉
 - [macmade/DSStoreView](https://github.com/macmade/DSStoreView) - .DS_Store file parser/viewer.
 - [macmade/IOBrowser](https://github.com/macmade/IOBrowser) - A macOS application for browsing the IOKit registry.
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [savagezen/dnd-tools](https://github.com/savagezen/dnd-tools) - ARCHIVE - MOVED TO GITLAB | Interactive CLI tools for Dungeons and Dragons 5e
 - [soyersoyer/SwCrypt](https://github.com/soyersoyer/SwCrypt) - RSA public/private key generation, RSA, AES encryption/decryption, RSA sign/verify in Swift with CommonCrypto in iOS and OS X
@@ -6081,6 +6122,8 @@
 
 ## macos 
 
+- [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
+- [sindresorhus/LaunchAtLogin-Modern](https://github.com/sindresorhus/LaunchAtLogin-Modern) - Add “Launch at Login” functionality to your macOS app in seconds
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
@@ -6215,7 +6258,7 @@
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [LucianoPAlmeida/variable-injector](https://github.com/LucianoPAlmeida/variable-injector) - Continuous Integration Tool for Swift Projects
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [SwiftyBeaver/SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient & secure logging during development & release in Swift 4 & 5
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.9+) and Qt 5 (5.15) for cros
@@ -6404,7 +6447,7 @@
 - [lexrus/LTFinderButtons](https://github.com/lexrus/LTFinderButtons) - My Finder buttons collection for macOS.
 - [bustoutsolutions/siesta](https://github.com/bustoutsolutions/siesta) - The civilized way to write REST API clients for iOS / macOS
 - [macports/macports-base](https://github.com/macports/macports-base) - The MacPorts command-line client
-- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [agens-no/EllipticCurveKeyPair](https://github.com/agens-no/EllipticCurveKeyPair) - Sign, verify, encrypt and decrypt using the Secure Enclave
 - [krzysztofzablocki/Difference](https://github.com/krzysztofzablocki/Difference) - Simple way to identify what is different between 2 instances of any type. Must have for TDD.
 - [autopkg/autopkg](https://github.com/autopkg/autopkg) - Automating packaging and software distribution on macOS.
@@ -6804,6 +6847,7 @@
 
 ## nextjs 
 
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
 - [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
@@ -6843,7 +6887,7 @@
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
-- [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
+- [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
@@ -6996,7 +7040,7 @@
 - [audulus/vger](https://github.com/audulus/vger) - 2D GPU renderer for dynamic UIs
 - [IconJar/IJSVG](https://github.com/IconJar/IJSVG) - MacOS SVG rendering and exporting library
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) - The official Sentry SDK for iOS, tvOS, macOS, watchOS.
 - [tuist/tuist](https://github.com/tuist/tuist) - A Swifty toolchain to build better Apple apps, faster
 - [mhdhejazi/Dynamic](https://github.com/mhdhejazi/Dynamic) - Call hidden/private API in style! The Swift way.
@@ -7244,6 +7288,15 @@
 
 ## others 
 
+- [steveftoth/hashgrits](https://github.com/steveftoth/hashgrits) - HashGrits is a project to add native redis support to the PostgreSQL server
+- [RTimothyEdwards/contact_programmed_ROM_cells](https://github.com/RTimothyEdwards/contact_programmed_ROM_cells) - Set of layouts for contact-programmed ROM values of various bit widths.
+- [NabuCasa/buildroot-installer](https://github.com/NabuCasa/buildroot-installer) - Buildroot for Yellow Installer and Tester
+- [1Password/onepassword-sdk-python](https://github.com/1Password/onepassword-sdk-python) - 
+- [1Password/onepassword-sdk-js](https://github.com/1Password/onepassword-sdk-js) - The official JavaScript SDK for 1Password
+- [1Password/onepassword-sdk-go](https://github.com/1Password/onepassword-sdk-go) - 
+- [freerouting/freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
+- [nytimes/ice](https://github.com/nytimes/ice) - track changes with javascript
+- [swiftlang/swift-community-hosted-continuous-integration](https://github.com/swiftlang/swift-community-hosted-continuous-integration) - Swift Community-Hosted Continuous Integration
 - [visrealm/pico9918](https://github.com/visrealm/pico9918) - A replacement for the classic TMS9918A/TMS9929A VDP, powered by a Raspberry Pi Pico
 - [IanBriggs/megalibm](https://github.com/IanBriggs/megalibm) - 
 - [herbie-fp/odyssey](https://github.com/herbie-fp/odyssey) - A platform for exploring floating-point expressions.
@@ -7265,7 +7318,7 @@
 - [me-no-dev/ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
 - [panglesd/slipshow](https://github.com/panglesd/slipshow) - An engine for displaying slips, the next-gen version of slides
 - [googlemaps/ios-maps-sdk](https://github.com/googlemaps/ios-maps-sdk) - Google Maps SDK for iOS
-- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine.
+- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [tailscale/tailscale-chocolatey](https://github.com/tailscale/tailscale-chocolatey) - Chocolatey packaging for Tailscale IPN
 - [serverlessmaps/serverlessmaps](https://github.com/serverlessmaps/serverlessmaps) - Creating and hosting serverless maps
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
@@ -7360,7 +7413,6 @@
 - [apple/pkl-swift](https://github.com/apple/pkl-swift) - Pkl bindings for the Swift programming language
 - [apple/pkl-package-docs](https://github.com/apple/pkl-package-docs) - Documentation for Pkl packages
 - [mkjt2/lockbox](https://github.com/mkjt2/lockbox) - Lockbox is a forward proxy for making third party API calls.
-- [mirage/mirage-crypto](https://github.com/mirage/mirage-crypto) - Cryptographic primitives for OCaml, in OCaml (also used in MirageOS)
 - [gerbv/gerbv](https://github.com/gerbv/gerbv) - Maintained fork of gerbv, carrying mostly bugfixes
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [bungle/awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
@@ -8688,7 +8740,6 @@
 - [nical/lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
 - [sswatson/julia-in-tex](https://github.com/sswatson/julia-in-tex) - My setup for running Julia code inside a TeX document
 - [cx-org/CombineX](https://github.com/cx-org/CombineX) - Open source implementation of Apple's Combine
-- [josephernest/nfreezer](https://github.com/josephernest/nfreezer) - nFreezer is an encrypted-at-rest backup tool.
 - [getsentry/action-release](https://github.com/getsentry/action-release) - GitHub Action for creating a release on Sentry
 - [getsentry/sentry-round-robin](https://github.com/getsentry/sentry-round-robin) - Sample internal integration for Sentry that assigns new issues to users, round-robin style
 - [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio) - virtio implementation
@@ -8697,7 +8748,6 @@
 - [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) - SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
 - [DTolm/VkFFT](https://github.com/DTolm/VkFFT) - Vulkan/CUDA/HIP/OpenCL/Level Zero/Metal Fast Fourier Transform library
 - [antmicro/litedram](https://github.com/antmicro/litedram) - Small footprint and configurable DRAM core
-- [Infineon/optiga-trust-m](https://github.com/Infineon/optiga-trust-m) - OPTIGA™ Trust M Software Framework
 - [badgeek/svg2shenzhen](https://github.com/badgeek/svg2shenzhen) - Convert Inkscape SVG drawings to KiCad PCB and footprint modules
 - [solemnwarning/rehex](https://github.com/solemnwarning/rehex) - Reverse Engineers' Hex Editor
 - [UnrealEngineHTML5/Documentation](https://github.com/UnrealEngineHTML5/Documentation) - 
@@ -8952,10 +9002,8 @@
 - [eugenebokhan/resources-bridge](https://github.com/eugenebokhan/resources-bridge) - 
 - [shibapm/capriccio](https://github.com/shibapm/capriccio) - Reads gherkin feature files and generates UI Tests
 - [showxu/objc4](https://github.com/showxu/objc4) - A latest buildable and debuggable Objective-C runtime (objc4-818.2) project.
-- [tfhe/tfhe](https://github.com/tfhe/tfhe) - TFHE: Fast Fully Homomorphic Encryption Library over the Torus
 - [v002/v002-Camera-Live](https://github.com/v002/v002-Camera-Live) - Live Syphon Camera
 - [jamis/csmazes](https://github.com/jamis/csmazes) - Maze algorithms implemented in CoffeeScript, with an eye toward demonstrating how the algorithms work by animating them.
-- [homenc/HElib](https://github.com/homenc/HElib) - HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations
 - [IBM/fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM Homomorphic Encryption Toolkit For MacOS
 - [IBM/fhe-toolkit-ios](https://github.com/IBM/fhe-toolkit-ios) - IBM Fully Homomorphic Encryption Toolkit For iOS
 - [microsoft/xbox-live-api](https://github.com/microsoft/xbox-live-api) - This repo contains Microsoft Xbox Live Service API (XSAPI) that enables game developers to access Xbox Live. To get access to the Xbox Live service, you can join the Xbox Live Creators Program at http
@@ -9255,7 +9303,6 @@
 - [rsheldiii/KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library
 - [socialpoint-labs/sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API
 - [sii/sipcalc](https://github.com/sii/sipcalc) - Sipcalc is an advanced ip calculator supporting both IPv4 and IPv6.
-- [randombit/botan](https://github.com/randombit/botan) - Cryptography Toolkit
 - [JohnSundell/SplashPublishPlugin](https://github.com/JohnSundell/SplashPublishPlugin) - A Splash plugin for the Publish static site generator
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
 - [jdevelop/ezovpn](https://github.com/jdevelop/ezovpn) - Easy .ovpn files import/generation tool
@@ -9675,7 +9722,7 @@
 - [M2mobi/Marky-Mark](https://github.com/M2mobi/Marky-Mark) - Markdown parser for iOS
 - [emaculation/macemu](https://github.com/emaculation/macemu) - Basilisk II and SheepShaver Macintosh emulators, maintained
 - [bladecoder/blade-ink-java](https://github.com/bladecoder/blade-ink-java) - Inkle Ink runtime implementation in Java
-- [micabytes/storybytes](https://github.com/micabytes/storybytes) - Android version of the StoryBytes story viewer for ink.
+- [micabytes/storybytes-android](https://github.com/micabytes/storybytes-android) - Android version of the StoryBytes story viewer for ink.
 - [micabytes/storybytes-desktop](https://github.com/micabytes/storybytes-desktop) - Desktop version of the StoryBytes story viewer for ink.
 - [dsasmblr/MSI](https://github.com/dsasmblr/MSI) - MSI-related tools, tutorials, patched installers, and more!
 - [Alia5/GlosSI](https://github.com/Alia5/GlosSI) - Tool for using Steam-Input controller rebinding at a system level alongside a global overlay
@@ -10017,7 +10064,6 @@
 - [dotnet/corert](https://github.com/dotnet/corert) - This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain.
 - [DavidColson/UnrealInk](https://github.com/DavidColson/UnrealInk) - Integration of the Ink language into Unreal 4 (https://github.com/inkle/ink)
 - [inkle/ink-tmlanguage](https://github.com/inkle/ink-tmlanguage) - TextMate grammar files for Ink. (VS Code, Sublime Text, and Atom)
-- [jedisct1/minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
 - [travis-ci/packer-templates-mac](https://github.com/travis-ci/packer-templates-mac) - Templates for building images for macOS for Travis with Packer!
 - [Polidea/SiriusObfuscator](https://github.com/Polidea/SiriusObfuscator) - 
 - [jontelang/Conductor](https://github.com/jontelang/Conductor) - A simple GUI tool to start XCUITests
@@ -10156,7 +10202,6 @@
 - [ocaml/opam-repository](https://github.com/ocaml/opam-repository) - Main public package repository for opam, the source package manager of OCaml.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [Scalingo/go-ssh-examples](https://github.com/Scalingo/go-ssh-examples) - Go examples of SSH servers and clients
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [beelsebob/CoreParse](https://github.com/beelsebob/CoreParse) - A shift/reduce parsing framework for Mac OS X and iOS
 - [sparkfun/SparkFun-KiCad-Libraries](https://github.com/sparkfun/SparkFun-KiCad-Libraries) - SparkFun's KiCad Libraries
 - [Digi-Key/digikey-kicad-library](https://github.com/Digi-Key/digikey-kicad-library) - An atomic parts  library for Ki-Cad.
@@ -10796,7 +10841,6 @@
 - [google/bottery](https://github.com/google/bottery) - 
 - [dlundquist/sniproxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
 - [design4use/gb-sketch-segmentcircle](https://github.com/design4use/gb-sketch-segmentcircle) - Sketch plugin creates circular graphics for diagrams, instrumentation and analytics.
-- [cryfs/cryfs](https://github.com/cryfs/cryfs) - Cryptographic filesystem for the cloud
 - [holzschu/blink](https://github.com/holzschu/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [KiranJasvanee/OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - A simple and flexible way to add source of overlapping circular pictures, currently supports horizontal overlapping or distant pictures with great layout flexibility.
 - [mahemoff/lokalise](https://github.com/mahemoff/lokalise) - (No longer maintained!) Unofficial command-line utility for Lokalise, mainly lets you download strings in your preferred format. May also be incorporated into Ruby/Rake scripts.
@@ -11355,7 +11399,6 @@
 - [vercel/hyperyellow](https://github.com/vercel/hyperyellow) - Example theme for hyperterm
 - [vercel/hyperpower](https://github.com/vercel/hyperpower) - Hyper particle effects extension
 - [brianmichel/Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting.
-- [C2SP/wycheproof](https://github.com/C2SP/wycheproof) - Project Wycheproof tests crypto libraries against known attacks.
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [radex/dotfiles](https://github.com/radex/dotfiles) - 
 - [Onix-Systems/RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl) - Simple refresh control for iOS based on SpriteKit and Core Graphics
@@ -11399,7 +11442,6 @@
 - [dylang/shortid](https://github.com/dylang/shortid) - Short id generator. Url-friendly. Non-predictable. Cluster-compatible.
 - [moonlight-stream/moonlight-ios](https://github.com/moonlight-stream/moonlight-ios) - GameStream client for iOS/tvOS
 - [csmith-project/creduce](https://github.com/csmith-project/creduce) - C-Reduce, a C and C++ program reducer
-- [nytimes/kyt](https://github.com/nytimes/kyt) - Starting a new JS app? Build, test and run advanced apps with kyt 🔥
 - [timsutton/python-macadmin-tools](https://github.com/timsutton/python-macadmin-tools) - List of open-source Python-based Mac sysadmin tools
 - [anvaka/git-also](https://github.com/anvaka/git-also) - For a `file` in your git repository, prints other files that are most often committed together
 - [atom/package-generator](https://github.com/atom/package-generator) - Package to generate new packages
@@ -11587,7 +11629,7 @@
 - [llasram/openssl-2xdrop-rust](https://github.com/llasram/openssl-2xdrop-rust) - Minimal reproduction case for rust-openssl double-drop bug
 - [librariesio/package-managers](https://github.com/librariesio/package-managers) - :package: Metadata about every package manager that Libraries.io supports
 - [swiftdocker/docker-swift-from-scratch](https://github.com/swiftdocker/docker-swift-from-scratch) - Swift built from scratch, when the nightly builds take too long.
-- [apple/swift-docker](https://github.com/apple/swift-docker) - Docker Official Image packaging for Swift
+- [swiftlang/swift-docker](https://github.com/swiftlang/swift-docker) - Docker Official Image packaging for Swift
 - [swiftdocker/docker-swift-dev](https://github.com/swiftdocker/docker-swift-dev) - Easily hack on the Swift language.
 - [krzysztofzablocki/LinkedConsole](https://github.com/krzysztofzablocki/LinkedConsole) - Clickable links in your Xcode console, so you never wonder which class logged the message.
 - [figment/falloutsnip](https://github.com/figment/falloutsnip) - Fork of TESsnip targeted at Fallout 4
@@ -14005,6 +14047,7 @@
 
 ## rust 
 
+- [frectonz/sqlite-studio](https://github.com/frectonz/sqlite-studio) - SQLite database explorer
 - [Ph0enixKM/Heraclitus](https://github.com/Ph0enixKM/Heraclitus) - 🧱 Compiler frontend for developing great programming languages
 - [dalance/amber](https://github.com/dalance/amber) - A code search / replace tool
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
@@ -14368,6 +14411,7 @@
 
 ## self-hosted 
 
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
@@ -14622,10 +14666,11 @@
 
 ## sqlite 
 
+- [frectonz/sqlite-studio](https://github.com/frectonz/sqlite-studio) - SQLite database explorer
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [vlcn-io/sqlite-rs-embedded](https://github.com/vlcn-io/sqlite-rs-embedded) - Rust bindings for SQLite that are no_std and wasm compatible
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
-- [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions
+- [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [x2bool/xlite](https://github.com/x2bool/xlite) - Query Excel spredsheets (.xlsx, .xls, .ods) using SQLite
@@ -14689,6 +14734,9 @@
 
 ## swift 
 
+- [sindresorhus/LaunchAtLogin-Modern](https://github.com/sindresorhus/LaunchAtLogin-Modern) - Add “Launch at Login” functionality to your macOS app in seconds
+- [gohanlon/swift-memberwise-init-macro](https://github.com/gohanlon/swift-memberwise-init-macro) - Swift Macro for enhanced automatic inits.
+- [swiftlang/vscode-swift](https://github.com/swiftlang/vscode-swift) - Visual Studio Code Extension for Swift
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource) - Server-sent events (SSE) client implementation in Swift for iOS, macOS, tvOS, and watchOS
@@ -14726,7 +14774,7 @@
 - [soulverteam/SoulverDateFromString](https://github.com/soulverteam/SoulverDateFromString) - Use SoulverCore to add a natural language date input feature to your Mac or iOS app
 - [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 - [Ekhoo/Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
-- [swift-server/swiftly](https://github.com/swift-server/swiftly) - A Swift toolchain installer and manager, written in Swift.
+- [swiftlang/swiftly](https://github.com/swiftlang/swiftly) - A Swift toolchain installer and manager, written in Swift.
 - [heestand-xyz/AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) - Edit images and video with Swift concurrency, powered by Metal.
 - [googlemaps-samples/maps-sdk-for-ios-samples](https://github.com/googlemaps-samples/maps-sdk-for-ios-samples) - Samples for the Google Maps and Places SDKs for iOS
 - [jessesquires/Foil](https://github.com/jessesquires/Foil) - A lightweight property wrapper for UserDefaults done right
@@ -15504,6 +15552,8 @@
 
 ## swiftui 
 
+- [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
+- [sindresorhus/LaunchAtLogin-Modern](https://github.com/sindresorhus/LaunchAtLogin-Modern) - Add “Launch at Login” functionality to your macOS app in seconds
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
@@ -15770,9 +15820,10 @@
 - [dumrauf/serverless_static_website_with_basic_auth](https://github.com/dumrauf/serverless_static_website_with_basic_auth) - Builds a serverless infrastructure in AWS for hosting a static website protected with Basic Authentication and published on a subdomain registered via Route 53
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword) - Use the 1Password Terraform Provider to reference, create, or update items in your 1Password Vaults.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [jdhollis/bastions-on-demand](https://github.com/jdhollis/bastions-on-demand) - Create and destroy bastions on demand with Fargate.
 - [secrethub/terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) - Terraform Provider to manage and use secrets
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [IBM-Cloud/terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs
 - [dan-v/rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud.
 - [anubhavmishra/terraform-provider-jira](https://github.com/anubhavmishra/terraform-provider-jira) - Terraform Provider for JIRA
@@ -15860,6 +15911,7 @@
 
 ## typescript 
 
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -15970,10 +16022,10 @@
 
 ## unreal-engine 
 
-- [atenfyr/UAssetAPI](https://github.com/atenfyr/UAssetAPI) - A low-level .NET library for reading and writing Unreal Engine 4 game assets.
+- [atenfyr/UAssetAPI](https://github.com/atenfyr/UAssetAPI) - A low-level .NET library for reading and writing Unreal Engine game assets.
 - [bananaturtlesandwich/stove](https://github.com/bananaturtlesandwich/stove) - an editor for cooked unreal engine 4/5 maps
 - [mikeroyal/Unreal-Engine-Guide](https://github.com/mikeroyal/Unreal-Engine-Guide) - Unreal Engine 5 Guide. Learn to develop games for Windows, Linux, macOS, iOS, Android, Xbox Series X|S, PlayStation  5, Nintendo Switch.
-- [atenfyr/UAssetGUI](https://github.com/atenfyr/UAssetGUI) - A tool designed for low-level examination and modification of Unreal Engine 4 game assets by hand.
+- [atenfyr/UAssetGUI](https://github.com/atenfyr/UAssetGUI) - A tool designed for low-level examination and modification of Unreal Engine game assets by hand.
 - [4sval/FModel](https://github.com/4sval/FModel) - Unreal Engine Archives Explorer
 - [timdecode/LifeBrush](https://github.com/timdecode/LifeBrush) - A toolkit for painting agent-based mesoscale molecular simulations and illustrations.
 - [nxrighthere/UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET 6 integration
@@ -16486,6 +16538,11 @@
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [ropensci-archive/rplos](https://github.com/ropensci-archive/rplos) - :warning: ARCHIVED :warning: R client for the PLoS Journals API
 - [mattt/Ono](https://github.com/mattt/Ono) - A sensible way to deal with XML & HTML for iOS & macOS
+
+## zig 
+
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
 ## License
