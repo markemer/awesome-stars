@@ -470,7 +470,7 @@
 - [geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac) - Collection of macOS automation tools for Ansible.
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [1Password/ansible-onepasswordconnect-collection](https://github.com/1Password/ansible-onepasswordconnect-collection) - The 1Password Connect collection contains modules that interact with your 1Password Connect deployment. The modules communicate with the 1Password Connect API to support Vault Item create/read/update/
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
 - [secrethub/ansible-secrethub](https://github.com/secrethub/ansible-secrethub) - Official Ansible module for SecretHub
 - [macstadium/ansible-role-osx-ci](https://github.com/macstadium/ansible-role-osx-ci) - Ansible Role - OSX CI
 - [macstadium/ansible-playbook-osx-ci-setup](https://github.com/macstadium/ansible-playbook-osx-ci-setup) - Ansible Playbook: OSX CI Setup
@@ -661,6 +661,7 @@
 
 ## awesome 
 
+- [ocaml-community/awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
 - [beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
@@ -1114,7 +1115,7 @@
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
@@ -1542,7 +1543,7 @@
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
@@ -1671,6 +1672,7 @@
 
 ## computer-science 
 
+- [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [DSLsofMath/DSLsofMath](https://github.com/DSLsofMath/DSLsofMath) - Domain-Specific Languages of Mathematics
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
@@ -2057,7 +2059,7 @@
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [tflearn/tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
@@ -2313,7 +2315,7 @@
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
 - [LucianoPAlmeida/variable-injector](https://github.com/LucianoPAlmeida/variable-injector) - Continuous Integration Tool for Swift Projects
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
@@ -2347,7 +2349,7 @@
 - [apache/allura](https://github.com/apache/allura) - Apache Allura - a software forge to manage source code repositories, bug reports, discussions, wiki pages, blogs, and more
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [hygieia/hygieia](https://github.com/hygieia/hygieia) - CapitalOne  DevOps Dashboard
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [capistrano/sshkit](https://github.com/capistrano/sshkit) - A toolkit for deploying code and assets to servers in a repeatable, testable, reliable way.
@@ -2610,6 +2612,7 @@
 
 ## electron 
 
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [capacitor-community/electron](https://github.com/capacitor-community/electron) - Deploy your Capacitor apps to Linux, Mac, and Windows desktops, with the Electron platform! 🖥️
@@ -4136,7 +4139,7 @@
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [geminabox/geminabox](https://github.com/geminabox/geminabox) - Really simple rubygem hosting
 - [xcpretty/xcode-install](https://github.com/xcpretty/xcode-install) - 🔽 Install and update your Xcodes
 - [watson-developer-cloud/swift-sdk](https://github.com/watson-developer-cloud/swift-sdk) - :iphone: The Watson Swift SDK enables developers to quickly add Watson Cognitive Computing services to their Swift applications.
@@ -4407,6 +4410,7 @@
 
 ## ios 
 
+- [AladinWay/TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation.
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource) - Server-sent events (SSE) client implementation in Swift for iOS, macOS, tvOS, and watchOS
 - [JanGorman/Agrume](https://github.com/JanGorman/Agrume) - 🍋 A lemony fresh iOS image viewer written in Swift.
@@ -6909,6 +6913,7 @@
 
 ## nodejs 
 
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [Deep-Symmetry/bytefield-svg](https://github.com/Deep-Symmetry/bytefield-svg) - Node module that generates byte field diagrams in SVG format
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
@@ -7288,6 +7293,19 @@
 
 ## others 
 
+- [idea-fasoc/OpenFASOC](https://github.com/idea-fasoc/OpenFASOC) - Fully Open Source FASOC generators built on top of open-source EDA tools
+- [open-simh/simh](https://github.com/open-simh/simh) - The Open SIMH simulators package
+- [TinyTapeout/tt-demo-pcb](https://github.com/TinyTapeout/tt-demo-pcb) - Demo board for TT4 and beyond
+- [TinyTapeout/tt-support-tools](https://github.com/TinyTapeout/tt-support-tools) - tools used by project repos to test configuration, generate OpenLane run summaries and documentation
+- [seldridge/verilog](https://github.com/seldridge/verilog) - Repository for basic (and not so basic) Verilog blocks with high re-use potential
+- [hamsternz/DisplayPort_Verilog](https://github.com/hamsternz/DisplayPort_Verilog) - A Verilog implementation of DisplayPort protocol for FPGAs
+- [TinyTapeout/siliwiz](https://github.com/TinyTapeout/siliwiz) - Silicon Layout Wizard
+- [TinyTapeout/tinytapeout-08](https://github.com/TinyTapeout/tinytapeout-08) - Tiny Tapeout 8
+- [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
+- [WireGuard/wireguard-apple](https://github.com/WireGuard/wireguard-apple) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-apple
+- [tailscale/codespace](https://github.com/tailscale/codespace) - Experimenting with codespaces
+- [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network.
+- [tailscale/hujson](https://github.com/tailscale/hujson) - HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas)
 - [steveftoth/hashgrits](https://github.com/steveftoth/hashgrits) - HashGrits is a project to add native redis support to the PostgreSQL server
 - [RTimothyEdwards/contact_programmed_ROM_cells](https://github.com/RTimothyEdwards/contact_programmed_ROM_cells) - Set of layouts for contact-programmed ROM values of various bit widths.
 - [NabuCasa/buildroot-installer](https://github.com/NabuCasa/buildroot-installer) - Buildroot for Yellow Installer and Tester
@@ -7755,7 +7773,7 @@
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [DHowett/go-plist](https://github.com/DHowett/go-plist) - A pure Go Apple Property List transcoder
 - [ionic-team/capacitor-background-runner](https://github.com/ionic-team/capacitor-background-runner) - 
-- [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) - 
+- [swiftlang/swift-installer-scripts](https://github.com/swiftlang/swift-installer-scripts) - 
 - [OfficeDev/generator-office](https://github.com/OfficeDev/generator-office) - Yeoman generator for building Microsoft Office related projects.
 - [ionic-team/native-run](https://github.com/ionic-team/native-run) - Utility for running native binaries on iOS and Android devices and simulators/emulators
 - [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
@@ -8241,7 +8259,7 @@
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [CoatiSoftware/SourcetrailDB](https://github.com/CoatiSoftware/SourcetrailDB) - Library to export Sourcetrail compatible database files for writing custom indexers
-- [qpdf/qpdf](https://github.com/qpdf/qpdf) - QPDF: A content-preserving PDF document transformer
+- [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [JohnSundell/CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs.
@@ -11217,7 +11235,7 @@
 - [crmulliner/hidemulation](https://github.com/crmulliner/hidemulation) - hid emulation tools for the usbarmory
 - [h2o/picotls](https://github.com/h2o/picotls) - TLS 1.3 implementation in C (master supports RFC8446 as well as draft-26, -27, -28)
 - [timuric/sketchapp-scripter](https://github.com/timuric/sketchapp-scripter) - Atom package for running sketch app scripts from the atom editor
-- [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme for readthedocs.org
+- [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme from Read the Docs
 - [Yelp/osxcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X
 - [ajam/2014_payday-nation-data](https://github.com/ajam/2014_payday-nation-data) - Data for the Payday Nation project.
 - [chrishutchinson/cardkit](https://github.com/chrishutchinson/cardkit) - A simple, powerful and fully configurable image editor for web browsers and servers. Optional UI included.
@@ -11497,7 +11515,7 @@
 - [kristopherjohnson/suwaneeforth](https://github.com/kristopherjohnson/suwaneeforth) - A Forth interpreter implemented in Swift, based upon JONESFORTH
 - [nicnocquee/fastgrant](https://github.com/nicnocquee/fastgrant) - Fastlane actions to grant iOS permissions in iPhone Simulator.
 - [openexchangerates/accounting.js](https://github.com/openexchangerates/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
-- [alunbestor/Boxer](https://github.com/alunbestor/Boxer) - The DOS game emulator that's fit for your Mac.
+- [alinebee/Boxer](https://github.com/alinebee/Boxer) - The DOS game emulator that's fit for your Mac.
 - [BalestraPatrick/ClangFormatter](https://github.com/BalestraPatrick/ClangFormatter) - Xcode Source Editor Extension for clang-format
 - [lettergram/hdr](https://github.com/lettergram/hdr) - Handwritten Digit Recognition
 - [delas/hdr](https://github.com/delas/hdr) - Handwritten Digit Recognition
@@ -11642,7 +11660,7 @@
 - [neonichu/swift-buildpack](https://github.com/neonichu/swift-buildpack) - Heroku buildpack for Swift
 - [capitalone/SWHttpTrafficRecorder](https://github.com/capitalone/SWHttpTrafficRecorder) - A simple library empowering you to record/capture HTTP(s) traffic of an iOS app for mocking/stubbing later.
 - [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
-- [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [lyft/mapper](https://github.com/lyft/mapper) - A JSON deserialization library for Swift
 - [Conche/Conche](https://github.com/Conche/Conche) - Swift build system and dependency manager.
 - [neonichu/Xcode-RuntimeHeaders](https://github.com/neonichu/Xcode-RuntimeHeaders) - Class dump of all of the internals of Xcode
@@ -13027,6 +13045,7 @@
 
 ## postgresql 
 
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL]
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -13448,7 +13467,7 @@
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [inveniosoftware/invenio](https://github.com/inveniosoftware/invenio) - Invenio digital library framework
 - [cernopendata/opendata.cern.ch](https://github.com/cernopendata/opendata.cern.ch) - Source code for the CERN Open Data portal
@@ -13684,6 +13703,7 @@
 - [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 
@@ -14047,7 +14067,8 @@
 
 ## rust 
 
-- [frectonz/sqlite-studio](https://github.com/frectonz/sqlite-studio) - SQLite database explorer
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL]
 - [Ph0enixKM/Heraclitus](https://github.com/Ph0enixKM/Heraclitus) - 🧱 Compiler frontend for developing great programming languages
 - [dalance/amber](https://github.com/dalance/amber) - A code search / replace tool
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
@@ -14582,7 +14603,7 @@
 - [cucumber/aruba](https://github.com/cucumber/aruba) - Test command-line applications with Cucumber-Ruby, RSpec or Minitest.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
@@ -14666,7 +14687,7 @@
 
 ## sqlite 
 
-- [frectonz/sqlite-studio](https://github.com/frectonz/sqlite-studio) - SQLite database explorer
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL]
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [vlcn-io/sqlite-rs-embedded](https://github.com/vlcn-io/sqlite-rs-embedded) - Rust bindings for SQLite that are no_std and wasm compatible
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
@@ -14734,6 +14755,7 @@
 
 ## swift 
 
+- [AladinWay/TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation.
 - [sindresorhus/LaunchAtLogin-Modern](https://github.com/sindresorhus/LaunchAtLogin-Modern) - Add “Launch at Login” functionality to your macOS app in seconds
 - [gohanlon/swift-memberwise-init-macro](https://github.com/gohanlon/swift-memberwise-init-macro) - Swift Macro for enhanced automatic inits.
 - [swiftlang/vscode-swift](https://github.com/swiftlang/vscode-swift) - Visual Studio Code Extension for Swift
@@ -15799,7 +15821,6 @@
 - [OrkoHunter/keep](https://github.com/OrkoHunter/keep) - A Meta CLI toolkit : Personal shell command keeper and snippets manager
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [KrauseFx/what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using) - 💻 For everyone who wants to know more about the terminal I use
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
@@ -15820,7 +15841,7 @@
 - [dumrauf/serverless_static_website_with_basic_auth](https://github.com/dumrauf/serverless_static_website_with_basic_auth) - Builds a serverless infrastructure in AWS for hosting a static website protected with Basic Authentication and published on a subdomain registered via Route 53
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword) - Use the 1Password Terraform Provider to reference, create, or update items in your 1Password Vaults.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
 - [jdhollis/bastions-on-demand](https://github.com/jdhollis/bastions-on-demand) - Create and destroy bastions on demand with Fargate.
 - [secrethub/terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) - Terraform Provider to manage and use secrets
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
