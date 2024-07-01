@@ -1783,6 +1783,7 @@
 - [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system
 - [przemek83/volbx](https://github.com/przemek83/volbx) - Graphical tool for data manipulation written in C++/Qt.
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [QB64Team/qb64](https://github.com/QB64Team/qb64) - BASIC for the modern era.
 - [NVIDIA/libcudacxx](https://github.com/NVIDIA/libcudacxx) - [ARCHIVED] The C++ Standard Library for your entire system. See https://github.com/NVIDIA/cccl
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
@@ -1977,7 +1978,7 @@
 
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
 - [huextrat/Taskist](https://github.com/huextrat/Taskist) - Flutter ToDo App with Firebase
 - [TerminalStudio/xterm.dart](https://github.com/TerminalStudio/xterm.dart) - 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms.
@@ -2415,6 +2416,7 @@
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
 - [JAremko/docker-x11-bridge](https://github.com/JAremko/docker-x11-bridge) - Simple Xpra X11 bridge to enable GUI with any docker image
 - [JAremko/docker-emacs](https://github.com/JAremko/docker-emacs) - Dockerized Emacs (GUI)
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -2703,7 +2705,7 @@
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [google/OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
-- [ardera/flutter-pi](https://github.com/ardera/flutter-pi) - A light-weight Flutter Engine Embedder for Raspberry Pi that runs without X.
+- [ardera/flutter-pi](https://github.com/ardera/flutter-pi) - A light-weight Flutter Engine Embedder for Linux Embedded that runs without X11 or Wayland.
 - [libts/tslib](https://github.com/libts/tslib) - Touchscreen access library
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [meta-flutter/flutter_embedded](https://github.com/meta-flutter/flutter_embedded) - Embedded Flutter
@@ -2796,7 +2798,7 @@
 
 ## ethereum 
 
-- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webass
+- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
 - [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
 
 ## express 
@@ -2876,14 +2878,14 @@
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [mingchen/docker-android-build-box](https://github.com/mingchen/docker-android-build-box) - An optimized docker image includes Android, Kotlin, Flutter sdk.
 - [singerdmx/flutter-quill](https://github.com/singerdmx/flutter-quill) - Rich text editor for Flutter
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [huextrat/Taskist](https://github.com/huextrat/Taskist) - Flutter ToDo App with Firebase
 - [TerminalStudio/xterm.dart](https://github.com/TerminalStudio/xterm.dart) - 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [flutter/gallery](https://github.com/flutter/gallery) - Flutter Gallery was a resource to help developers evaluate and use Flutter
 - [chuabingquan/helm](https://github.com/chuabingquan/helm) - 💪 Helm is an app that gamifies stress/anxiety/depression management in an actionable manner to provide relief.
 - [ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
-- [ardera/flutter-pi](https://github.com/ardera/flutter-pi) - A light-weight Flutter Engine Embedder for Raspberry Pi that runs without X.
+- [ardera/flutter-pi](https://github.com/ardera/flutter-pi) - A light-weight Flutter Engine Embedder for Linux Embedded that runs without X11 or Wayland.
 - [firebase/flutterfire](https://github.com/firebase/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
 - [chinmaygarde/flutter_from_scratch](https://github.com/chinmaygarde/flutter_from_scratch) - A minimal Flutter Embedder from Scratch.
 - [meta-flutter/flutter_embedded](https://github.com/meta-flutter/flutter_embedded) - Embedded Flutter
@@ -2897,7 +2899,7 @@
 ## flutter-apps 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 ## font 
@@ -2963,7 +2965,7 @@
 - [google/promises](https://github.com/google/promises) - Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
 - [willowtreeapps/Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS) - In-app design review tool to inspect measurements, attributes, and animations.
 - [mattlawer/FaceLandmarksDetection](https://github.com/mattlawer/FaceLandmarksDetection) - Finds facial features such as face contour, eyes, mouth and nose in an image.
-- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webass
+- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [SparkPost/heml](https://github.com/SparkPost/heml) - HEML is an open source markup language for building responsive email.
@@ -3906,7 +3908,7 @@
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [Kampfkarren/full-moon](https://github.com/Kampfkarren/full-moon) - A lossless Lua 5.1 parser
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -3995,7 +3997,6 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [ygit/swiftui](https://github.com/ygit/swiftui) - A collaborative list of awesome SwiftUI resources. Feel free to contribute!
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-- [ardera/flutter-pi](https://github.com/ardera/flutter-pi) - A light-weight Flutter Engine Embedder for Raspberry Pi that runs without X.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [getsentry/sentry-fastlane-plugin](https://github.com/getsentry/sentry-fastlane-plugin) - Official fastlane plugin for Sentry
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
@@ -4458,6 +4459,7 @@
 - [GottaGetSwifty/SwiftyXMLKit](https://github.com/GottaGetSwifty/SwiftyXMLKit) - Tools for working with XML in Swift
 - [GottaGetSwifty/CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Corelocation swift async await streamer Corelocation map swift tracker geolocation and geocoding swiftui map example using MapKit address decoder Corelocation based service in swift Async stream patte
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 - [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
 - [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
@@ -5741,6 +5743,7 @@
 
 ## linux 
 
+- [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -5789,7 +5792,7 @@
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [Infineon/linux-optiga-trust-m](https://github.com/Infineon/linux-optiga-trust-m) - Linux tools and examples for OPTIGA™ Trust M1/M3 security solution
@@ -6533,7 +6536,7 @@
 - [p2/OAuth2](https://github.com/p2/OAuth2) - OAuth2 framework for macOS and iOS, written in Swift.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
-- [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code extensions in the official PopClip Extensions directory.
+- [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code for extensions in the official PopClip Extensions directory.
 - [ashchan/mail-notifr](https://github.com/ashchan/mail-notifr) - Mail Notifr - Gmail Notifier for macOS
 - [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous image downloader with cache support as a UIImageView category
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
@@ -6667,7 +6670,6 @@
 
 ## microsoft 
 
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows e
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
@@ -7311,6 +7313,16 @@
 
 ## others 
 
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
+- [gtkwave/gtkwave](https://github.com/gtkwave/gtkwave) - GTKWave is a fully featured GTK+ based wave viewer for Unix and Win32 which reads LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.
+- [randomplum/gtkwave](https://github.com/randomplum/gtkwave) - GTKWave is a fully featured GTK+ based wave viewer for Unix and Win32 which reads LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.
+- [ibm2030/IBM2030](https://github.com/ibm2030/IBM2030) - An IBM System/360 Model 30 in VHDL
+- [rejunity/tt07-psg-ay8913-with-analog-dac](https://github.com/rejunity/tt07-psg-ay8913-with-analog-dac) - AY-3-891x with analog DAC
+- [rejunity/tt05-psg-ay8913](https://github.com/rejunity/tt05-psg-ay8913) - TinyTapeout submission with the AY-3-8913 a 3-voice programmable sound generator (PSG) chip from General Instruments.
+- [mike42/65816-computer](https://github.com/mike42/65816-computer) - A 65C816-based homebrew computer (prototype)
+- [FrancescoRigoni/Lib65816_Sample](https://github.com/FrancescoRigoni/Lib65816_Sample) - Sample application using the Lib65816 emulator library
+- [mike42/6502-assembly-intellij](https://github.com/mike42/6502-assembly-intellij) - An Intellij plugin for 6502 assembly projects (ca65 syntax)
+- [daveho/GALasm](https://github.com/daveho/GALasm) - Very slightly modified version of Alessandro Zummo's GALasm 2.1, for programming GAL devices
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite lan
 - [Moonif/MacBox](https://github.com/Moonif/MacBox) - MacBox for 86Box
@@ -7429,7 +7441,6 @@
 - [t2linux/fedora-iso](https://github.com/t2linux/fedora-iso) - ISO for t2linux fedora.
 - [sekey/ssh-agent.rs](https://github.com/sekey/ssh-agent.rs) - SSH agent library
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
-- [ruby/lrama](https://github.com/ruby/lrama) - Pure Ruby LALR parser generator
 - [schlae/BreadboardGadgets](https://github.com/schlae/BreadboardGadgets) - Convenient little boards that plug into your solderless breadboard
 - [StefanSchippers/xschem](https://github.com/StefanSchippers/xschem) - A schematic editor for VLSI/Asic/Analog custom designs, netlist backends for VHDL, Spice and Verilog. The tool is focused on hierarchy and parametric designs, to maximize circuit reuse.
 - [greenblat/vlsistuff](https://github.com/greenblat/vlsistuff) - ideas and eda software for vlsi design
@@ -7816,7 +7827,6 @@
 - [BRL-CAD/brlcad](https://github.com/BRL-CAD/brlcad) - BRL-CAD is a powerful cross-platform open source combinatorial solid modeling system
 - [OpenTimer/OpenTimer](https://github.com/OpenTimer/OpenTimer) - A High-performance Timing Analysis Tool for VLSI Systems
 - [whatthefilament/Framework-AIO](https://github.com/whatthefilament/Framework-AIO) - AIO Mod for Framework Laptop
-- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Corelocation swift async await streamer Corelocation map swift tracker geolocation and geocoding swiftui map example using MapKit address decoder Corelocation based service in swift Async stream patte
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [shizmob/rpatool](https://github.com/shizmob/rpatool) - A tool to work with Ren'Py archives.
 - [Jana-Marie/OtterCam-s3](https://github.com/Jana-Marie/OtterCam-s3) - Open source 1080p60Hz USB & IP camera based on Sochip s3 and OS05A10/OS05A20 (general MIPI CSI IP camera interface).
@@ -7853,7 +7863,7 @@
 - [usbarmory/GoTEE](https://github.com/usbarmory/GoTEE) - Go Trusted Execution Environment (TEE)
 - [usbarmory/usbarmory-debian-base_image](https://github.com/usbarmory/usbarmory-debian-base_image) - USB armory Debian base image
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
+- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [usbarmory/tamago-go](https://github.com/usbarmory/tamago-go) - The Go programming language
 - [usbarmory/GoTEE-example](https://github.com/usbarmory/GoTEE-example) - GoTEE - example application
@@ -8423,7 +8433,7 @@
 - [pgwipeout/linux](https://github.com/pgwipeout/linux) - Linux kernel source tree, working on sbc support.
 - [rodrigorichter/steamblower](https://github.com/rodrigorichter/steamblower) - 
 - [garrynewman/SteamScreenshotDownloader](https://github.com/garrynewman/SteamScreenshotDownloader) - Download all of your (public) steam screenshots
-- [opencomputeproject/Time-Appliance-Project](https://github.com/opencomputeproject/Time-Appliance-Project) - Develop an end-to-end hypothetical reference model, network architectures, performance objectives and the methods to distribute, operate, monitor time synchronization within data center and much more.
+- [opencomputeproject/Time-Appliance-Project](https://github.com/opencomputeproject/Time-Appliance-Project) - Develop an end-to-end hypothetical reference model, network architectures, precision time tools, performance objectives and the methods to distribute, operate, monitor time synchronization within data
 - [usnistgov/dataplot](https://github.com/usnistgov/dataplot) - Source code and auxiliary files for dataplot.
 - [KhaosT/MacVM](https://github.com/KhaosT/MacVM) - macOS VM for Apple Silicon using Virtualization API
 - [jpd236/kotwords](https://github.com/jpd236/kotwords) - Collection of crossword puzzle file format converters and other utilities, written in Kotlin.
@@ -8981,7 +8991,7 @@
 - [chipsalliance/aib-phy-generator](https://github.com/chipsalliance/aib-phy-generator) - AIB Generator: Analog hardware compiler for AIB PHY
 - [chipsalliance/Cores-VeeR-EL2](https://github.com/chipsalliance/Cores-VeeR-EL2) - VeeR EL2 Core
 - [lhoursquentin/sed-bin](https://github.com/lhoursquentin/sed-bin) - sed to C translator written in sed
-- [apple/swift-tools-support-core](https://github.com/apple/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
+- [swiftlang/swift-tools-support-core](https://github.com/swiftlang/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
 - [RandalLinden/DOOM-FX](https://github.com/RandalLinden/DOOM-FX) - Doom/FX for Super Nintendo with SuperFX GSU2A
 - [openpower-cores/a2i](https://github.com/openpower-cores/a2i) - 
 - [vmware-archive/vctl-docs](https://github.com/vmware-archive/vctl-docs) - VMware vctl Docs
@@ -10064,7 +10074,7 @@
 - [FPGAwars/icestudio-blocks](https://github.com/FPGAwars/icestudio-blocks) - Index of Icestudio resources: blocks, collections, icons, examples...
 - [rickkas7/CellularHelper](https://github.com/rickkas7/CellularHelper) - Handy utility functions for Particle cellular devices
 - [rickkas7/electron_cellular](https://github.com/rickkas7/electron_cellular) - Example code for using the Particle Electron to directly access the u-blox cellular modem
-- [FDio/vpp](https://github.com/FDio/vpp) - 
+- [FDio/vpp](https://github.com/FDio/vpp) - Mirror of VPP code base hosted at git.fd.io
 - [NocturnalSolutions/Configuration-INIDeserializer](https://github.com/NocturnalSolutions/Configuration-INIDeserializer) - Use INI config files with Configuration!
 - [schlangster/skyui-lib](https://github.com/schlangster/skyui-lib) - A redistributable UI library for Skyrim.
 - [ghuser-io/ghuser.io](https://github.com/ghuser-io/ghuser.io) - :octocat: Better GitHub profiles
@@ -12916,7 +12926,7 @@
 
 ## p2p 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [zssz/BerkananSDK](https://github.com/zssz/BerkananSDK) - Bluetooth mesh messaging SDK for apps
 - [yinqiwen/gsnova](https://github.com/yinqiwen/gsnova) - Private proxy solution & network troubleshooting tool.
@@ -13699,7 +13709,7 @@
 - [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
-- [ardera/flutter-pi](https://github.com/ardera/flutter-pi) - A light-weight Flutter Engine Embedder for Raspberry Pi that runs without X.
+- [ardera/flutter-pi](https://github.com/ardera/flutter-pi) - A light-weight Flutter Engine Embedder for Linux Embedded that runs without X11 or Wayland.
 - [balena-io-hardware/fin-info-doc](https://github.com/balena-io-hardware/fin-info-doc) - General information about the balenaFin including design files, software support, and more
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
@@ -13959,7 +13969,7 @@
 - [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap) - Binary Analysis Platform
 - [RUB-SysSec/Microcode](https://github.com/RUB-SysSec/Microcode) - Microcode Updates for the USENIX 2017 paper: Reverse Engineering x86 Processor Microcode
 - [xoreos/xoreos](https://github.com/xoreos/xoreos) - A reimplementation of BioWare's Aurora engine (and derivatives). Pre-pre-alpha :P
-- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webass
+- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [cmu-sei/pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
@@ -13984,6 +13994,7 @@
 
 ## ruby 
 
+- [ruby/lrama](https://github.com/ruby/lrama) - Pure Ruby LALR parser generator
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [gettalong/hexapdf](https://github.com/gettalong/hexapdf) - Versatile PDF creation and manipulation for Ruby
 - [Homebrew/ruby-macho](https://github.com/Homebrew/ruby-macho) - 🔩 A pure-Ruby library for parsing Mach-O files.
@@ -14178,7 +14189,7 @@
 - [x4e/classfile-rs](https://github.com/x4e/classfile-rs) - JVM classfile parser and writer for Rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [io12/unf](https://github.com/io12/unf) - UNixize Filename -- replace annoying anti-unix characters in filenames
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [lukaslueg/macro_railroad](https://github.com/lukaslueg/macro_railroad) - A library to generate syntax diagrams for Rust macros.
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
 - [PaddiM8/kalker](https://github.com/PaddiM8/kalker) - Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
@@ -14421,7 +14432,7 @@
 - [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - [agens-no/EllipticCurveKeyPair](https://github.com/agens-no/EllipticCurveKeyPair) - Sign, verify, encrypt and decrypt using the Secure Enclave
-- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webass
+- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
@@ -14842,6 +14853,7 @@
 - [GottaGetSwifty/CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy
 - [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+- [The-Igor/d3-async-location](https://github.com/The-Igor/d3-async-location) - Corelocation swift async await streamer Corelocation map swift tracker geolocation and geocoding swiftui map example using MapKit address decoder Corelocation based service in swift Async stream patte
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 - [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
 - [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
