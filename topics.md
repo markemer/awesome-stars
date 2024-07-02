@@ -1176,6 +1176,7 @@
 
 ## c 
 
+- [t4th/win32-gui-wrapper](https://github.com/t4th/win32-gui-wrapper) - Experimental win32 gui wrapper in C++
 - [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 - [marzent/wine-msync](https://github.com/marzent/wine-msync) - A Mach semaphore-based synchronization mechanism for Wine on macOS. Built for speed, inspired by fsync.
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
@@ -1756,6 +1757,7 @@
 
 ## cpp 
 
+- [t4th/win32-gui-wrapper](https://github.com/t4th/win32-gui-wrapper) - Experimental win32 gui wrapper in C++
 - [dynamixel-community/dynamixel_hardware](https://github.com/dynamixel-community/dynamixel_hardware) - ros2_control packages for ROBOTIS Dynamixel
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
@@ -5743,6 +5745,7 @@
 
 ## linux 
 
+- [akkartik/mu](https://github.com/akkartik/mu) - Soul of a tiny new machine. More thorough tests → More comprehensible and rewrite-friendly software → More resilient society.
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
@@ -7313,6 +7316,8 @@
 
 ## others 
 
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [sillycowvalley/Hopper](https://github.com/sillycowvalley/Hopper) - 
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [gtkwave/gtkwave](https://github.com/gtkwave/gtkwave) - GTKWave is a fully featured GTK+ based wave viewer for Unix and Win32 which reads LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.
 - [randomplum/gtkwave](https://github.com/randomplum/gtkwave) - GTKWave is a fully featured GTK+ based wave viewer for Unix and Win32 which reads LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.
@@ -9490,7 +9495,7 @@
 - [geoffeg/opiterm](https://github.com/geoffeg/opiterm) - 1Password integration for iTerm2
 - [google/renameio](https://github.com/google/renameio) - Package renameio provides a way to atomically create or replace a file or symbolic link.
 - [alexforencich/verilog-pcie](https://github.com/alexforencich/verilog-pcie) - Verilog PCI express components
-- [apple/swift-driver](https://github.com/apple/swift-driver) - Swift compiler driver reimplementation in Swift
+- [swiftlang/swift-driver](https://github.com/swiftlang/swift-driver) - Swift compiler driver reimplementation in Swift
 - [bbbradsmith/usbcopynesblue](https://github.com/bbbradsmith/usbcopynesblue) - USBCopyNESBlue for Windows
 - [unixcharles/acme-client](https://github.com/unixcharles/acme-client) - A Ruby client for the letsencrypt's ACME protocol.
 - [MSWorkers/support.Githubbers](https://github.com/MSWorkers/support.Githubbers) - Star this repo to show your support to Githubbers!
