@@ -1141,6 +1141,7 @@
 
 ## C# # 
 
+- [circuitdiagram/circuitdiagram](https://github.com/circuitdiagram/circuitdiagram) - A user-friendly program for making electronic circuit diagrams.
 - [openhardwaremonitor/openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) - Open Hardware Monitor
 - [LennardF1989/BG3-BagsOfSorting](https://github.com/LennardF1989/BG3-BagsOfSorting) - A command-line and GUI tool for Baldur's Gate 3 to generate custom inventory bags, modify treasure tables and search for items without extracting game-files!
 - [FalloutTeamX/sFall-ScriptEditor](https://github.com/FalloutTeamX/sFall-ScriptEditor) - Scripts and Dialogs editor for Fallout 2
@@ -1283,6 +1284,7 @@
 
 ## C++ 
 
+- [ra3xdh/qucs_s](https://github.com/ra3xdh/qucs_s) - Qucs-S is a circuit simulation program with Qt-based GUI
 - [azonenberg/microkvs](https://github.com/azonenberg/microkvs) - Tiny key-value store for persisting configuration data on microcontrollers
 - [t4th/win32-gui-wrapper](https://github.com/t4th/win32-gui-wrapper) - Experimental win32 gui wrapper in C++
 - [mike42/65816-computer](https://github.com/mike42/65816-computer) - A 65C816-based homebrew computer (prototype)
@@ -2121,7 +2123,7 @@
 - [Deep-Symmetry/bytefield-svg](https://github.com/Deep-Symmetry/bytefield-svg) - Node module that generates byte field diagrams in SVG format
 - [mentat-collective/emmy](https://github.com/mentat-collective/emmy) - The Emmy Computer Algebra System.
 - [narimiran/AdventOfCode2022](https://github.com/narimiran/AdventOfCode2022) - My solutions for AoC 2022
-- [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - config karabiner with ease
 - [Orcpub/orcpub](https://github.com/Orcpub/orcpub) - Code for Dungeon Master's Vault Community Edition
@@ -2961,6 +2963,7 @@
 
 ## HTML 
 
+- [qucat/qucat](https://github.com/qucat/qucat) - Quantum Circuit Analyzer Tool
 - [daveho/GALasm](https://github.com/daveho/GALasm) - Very slightly modified version of Alessandro Zummo's GALasm 2.1, for programming GAL devices
 - [pa3gsb/Radioberry-2.x](https://github.com/pa3gsb/Radioberry-2.x) - Ham Radio hat for Raspberry PI
 - [ModdingLinked/Viva-New-Vegas](https://github.com/ModdingLinked/Viva-New-Vegas) - A Comprehensive Fallout New Vegas Modding Guide.
@@ -3182,6 +3185,7 @@
 
 ## Haskell 
 
+- [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [DSLsofMath/DSLsofMath](https://github.com/DSLsofMath/DSLsofMath) - Domain-Specific Languages of Mathematics
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [jez/pandoc-sidenote](https://github.com/jez/pandoc-sidenote) - Convert Pandoc Markdown-style footnotes into sidenotes
@@ -3406,7 +3410,7 @@
 
 ## JavaScript 
 
-- [kjk/edna](https://github.com/kjk/edna) - Note taking app for developers and power users
+- [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
 - [TinyTapeout/siliwiz](https://github.com/TinyTapeout/siliwiz) - Silicon Layout Wizard
 - [1Password/onepassword-sdk-js](https://github.com/1Password/onepassword-sdk-js) - The official JavaScript SDK for 1Password
 - [nytimes/ice](https://github.com/nytimes/ice) - track changes with javascript
@@ -4304,6 +4308,7 @@
 
 ## Jupyter Notebook 
 
+- [flaport/sax](https://github.com/flaport/sax) - S + Autograd + XLA :: S-parameter based frequency domain circuit simulations and optimizations using JAX.
 - [IanBriggs/megalibm](https://github.com/IanBriggs/megalibm) - 
 - [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a module that extends Python with the ability to design electronic circuits.
 - [aws-samples/amazon-textract-textractor](https://github.com/aws-samples/amazon-textract-textractor) - Analyze documents with Amazon Textract and generate output in multiple formats.
@@ -4413,7 +4418,6 @@
 - [jpd236/kotwords](https://github.com/jpd236/kotwords) - Collection of crossword puzzle file format converters and other utilities, written in Kotlin.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [GitLiveApp/firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase
-- [touchlab/xcode-kotlin](https://github.com/touchlab/xcode-kotlin) - Kotlin Native Xcode Plugin
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 - [Flank/flank](https://github.com/Flank/flank) - :speedboat: Massively parallel Android and iOS test runner for Firebase Test Lab
 - [CodingDoug/universal-translator](https://github.com/CodingDoug/universal-translator) - Demo app using Firebase and Google Cloud products to implement a "universal translator"
@@ -6057,6 +6061,7 @@
 
 ## PowerShell 
 
+- [circuitdiagram/components](https://github.com/circuitdiagram/components) - Library of components for Circuit Diagram.
 - [tailscale/tailscale-chocolatey](https://github.com/tailscale/tailscale-chocolatey) - Chocolatey packaging for Tailscale IPN
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows e
@@ -6098,6 +6103,7 @@
 
 ## Python 
 
+- [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [rejunity/tt05-psg-ay8913](https://github.com/rejunity/tt05-psg-ay8913) - TinyTapeout submission with the AY-3-8913 a 3-voice programmable sound generator (PSG) chip from General Instruments.
 - [jpakkane/glyphtracer](https://github.com/jpakkane/glyphtracer) - Glyphtracer is an app for converting images of letters to a font
 - [idea-fasoc/OpenFASOC](https://github.com/idea-fasoc/OpenFASOC) - Fully Open Source FASOC generators built on top of open-source EDA tools
@@ -6342,6 +6348,7 @@
 - [ai03-2725/another-keyboard-builder](https://github.com/ai03-2725/another-keyboard-builder) - An exact mechanical keyboard plate creator
 - [CQCumbers/kle_render](https://github.com/CQCumbers/kle_render) - Get prettier images of Keyboard Layout Editor designs
 - [kronenthaler/mod-pbxproj](https://github.com/kronenthaler/mod-pbxproj) - A python module to manipulate XCode projects
+- [touchlab/xcode-kotlin](https://github.com/touchlab/xcode-kotlin) - Kotlin Native Xcode Plugin
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [savagezen/dnd-tools](https://github.com/savagezen/dnd-tools) - ARCHIVE - MOVED TO GITLAB | Interactive CLI tools for Dungeons and Dragons 5e
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
@@ -7505,7 +7512,7 @@
 - [awslabs/aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter) - Run web applications on AWS Lambda
 - [Eliah-Lakhin/lady-deirdre](https://github.com/Eliah-Lakhin/lady-deirdre) - Compiler front-end foundation technology.
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
 - [Ph0enixKM/Heraclitus](https://github.com/Ph0enixKM/Heraclitus) - 🧱 Compiler frontend for developing great programming languages
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
