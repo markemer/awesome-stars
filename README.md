@@ -290,6 +290,7 @@
 - [nxp-imx/meta-imx](https://github.com/nxp-imx/meta-imx) - i.MX Yocto Project i.MX BSP Layer
 - [YoeDistro/yoe-distro](https://github.com/YoeDistro/yoe-distro) - Embedded Linux distribution optimized for product development (based on OE/Yocto)
 - [openbmc/openbmc](https://github.com/openbmc/openbmc) - OpenBMC Distribution
+- [sifive/freedom-u-sdk](https://github.com/sifive/freedom-u-sdk) - Freedom U Software Development Kit (FUSDK)
 
 ## Blade 
 
@@ -929,7 +930,6 @@
 - [riscv-software-src/riscv-pk](https://github.com/riscv-software-src/riscv-pk) - RISC-V Proxy Kernel
 - [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
 - [riscvarchive/riscv-fesvr](https://github.com/riscvarchive/riscv-fesvr) - RISC-V Frontend Server
-- [sifive/freedom-u-sdk](https://github.com/sifive/freedom-u-sdk) - Freedom U Software Development Kit (FUSDK)
 - [aws/amazon-freertos](https://github.com/aws/amazon-freertos) - DEPRECATED - See README.md
 - [CarloWood/libmemleak](https://github.com/CarloWood/libmemleak) - A shared library that can be LD_PRELOAD-ed to show memory increments per second per backtrace on dynamically chosen time intervals.
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
@@ -1723,7 +1723,7 @@
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [google/souper](https://github.com/google/souper) - A superoptimizer for LLVM IR
 - [google/sling](https://github.com/google/sling) - SLING - A natural language frame semantics parser
-- [Nukem9/SkyrimSETest](https://github.com/Nukem9/SkyrimSETest) - Reverse engineering TES: Skyrim Special Edition.
+- [Nukem9/skyrimse-test](https://github.com/Nukem9/skyrimse-test) - Reverse engineering TES: Skyrim Special Edition.
 - [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
 - [aers/EngineFixesSkyrim64](https://github.com/aers/EngineFixesSkyrim64) - WIP skse64 plugin to fix stuff in Skyrim SE (and probably VR at some point)
 - [rickkas7/CellularHelper](https://github.com/rickkas7/CellularHelper) - Handy utility functions for Particle cellular devices
@@ -3655,7 +3655,7 @@
 - [patternknife/url-knife](https://github.com/patternknife/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with robust patterns.
 - [YOCKOW/Action-setup-swift](https://github.com/YOCKOW/Action-setup-swift) - GitHub Action that sets up Swift.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 Browse the web from a browser you run on a server, rather than on your local device. Lightweight virtual browser. For security, privacy and more! By https://github.com/dosyago
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 Browse the web from a web page. Remote browser isolation. For security, privacy and more! By https://github.com/dosyago
 - [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [millette/oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
@@ -6069,7 +6069,7 @@
 - [circuitdiagram/components](https://github.com/circuitdiagram/components) - Library of components for Circuit Diagram.
 - [tailscale/tailscale-chocolatey](https://github.com/tailscale/tailscale-chocolatey) - Chocolatey packaging for Tailscale IPN
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows e
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from windows, disable telemetry, remove Bing from windows search as well as perform various other changes to declutter and improve 
 - [parsec-cloud/Cloud-GPU-Updater](https://github.com/parsec-cloud/Cloud-GPU-Updater) - For updating P4000, P5000 and M60 GPU's
 - [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
 - [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
@@ -6224,7 +6224,7 @@
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [hashlookup/hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser) - Analyse a forensic target (such as a directory) to find and report files found and not found from CIRCL hashlookup public service - https://circl.lu/services/hashlookup/
 - [mapbox/mapbox-navigation-native-ios](https://github.com/mapbox/mapbox-navigation-native-ios) - 
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) - 
 - [chipsalliance/fasm](https://github.com/chipsalliance/fasm) - FPGA Assembly (FASM) Parser and Generator
 - [ucb-art/BAG_framework](https://github.com/ucb-art/BAG_framework) - 
