@@ -2912,6 +2912,7 @@
 ## flutter-apps 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+- [singerdmx/flutter-quill](https://github.com/singerdmx/flutter-quill) - Rich text editor for Flutter
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
@@ -7334,6 +7335,8 @@
 
 ## others 
 
+- [Redherring32/OpenTendo-TopLoader](https://github.com/Redherring32/OpenTendo-TopLoader) - An Open Source HardWare (OSHW) recreation of the 1993 toploading NES motherboard (Also known as NES-101)
+- [marqs85/ic_drivers](https://github.com/marqs85/ic_drivers) - 
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux
 - [crazyelectron-io/RetroChipTester](https://github.com/crazyelectron-io/RetroChipTester) - Retro Chip Tester Pro
