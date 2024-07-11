@@ -306,6 +306,7 @@
 
 ## C 
 
+- [marqs85/ic_drivers](https://github.com/marqs85/ic_drivers) - 
 - [virtualsquare/vuos](https://github.com/virtualsquare/vuos) - view based o.s.
 - [virtualsquare/vde-2](https://github.com/virtualsquare/vde-2) - 
 - [gtkwave/gtkwave](https://github.com/gtkwave/gtkwave) - GTKWave is a fully featured GTK+ based wave viewer for Unix and Win32 which reads LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.
@@ -5198,6 +5199,7 @@
 
 ## Others 
 
+- [Redherring32/OpenTendo-TopLoader](https://github.com/Redherring32/OpenTendo-TopLoader) - An Open Source HardWare (OSHW) recreation of the 1993 toploading NES motherboard (Also known as NES-101)
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
 - [visrealm/keyboard4a99](https://github.com/visrealm/keyboard4a99) - Cherry MX compatible upgrade for your Texas Instruments TI-99/4A Mitsumi mylar keyboard
 - [TinyTapeout/tt-demo-pcb](https://github.com/TinyTapeout/tt-demo-pcb) - Demo board for TT4 and beyond
