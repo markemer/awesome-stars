@@ -307,6 +307,8 @@
 
 ## C 
 
+- [sfall-team/Fallout_DAT2](https://github.com/sfall-team/Fallout_DAT2) - Fallout DAT file packer/unpacker
+- [phobos2077/Fallout2_Restoration_Project](https://github.com/phobos2077/Fallout2_Restoration_Project) - Fallout 2 Restoration Project, updated
 - [marqs85/ic_drivers](https://github.com/marqs85/ic_drivers) - 
 - [virtualsquare/vuos](https://github.com/virtualsquare/vuos) - view based o.s.
 - [virtualsquare/vde-2](https://github.com/virtualsquare/vde-2) - 
@@ -1145,6 +1147,8 @@
 
 ## C# # 
 
+- [FalloutTeamX/Fallout-2-Editor](https://github.com/FalloutTeamX/Fallout-2-Editor) - 
+- [eocron/Fallout-2-Editor](https://github.com/eocron/Fallout-2-Editor) - 
 - [circuitdiagram/circuitdiagram](https://github.com/circuitdiagram/circuitdiagram) - A user-friendly program for making electronic circuit diagrams.
 - [openhardwaremonitor/openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) - Open Hardware Monitor
 - [LennardF1989/BG3-BagsOfSorting](https://github.com/LennardF1989/BG3-BagsOfSorting) - A command-line and GUI tool for Baldur's Gate 3 to generate custom inventory bags, modify treasure tables and search for items without extracting game-files!
@@ -1288,6 +1292,8 @@
 
 ## C++ 
 
+- [FalloutTeamX/F2_Mapper_Dims](https://github.com/FalloutTeamX/F2_Mapper_Dims) - Fallout 2 Maps Editor by Dims v0.99.3
+- [FalloutTeamX/sfall-Extended](https://github.com/FalloutTeamX/sfall-Extended) - The official and extended modification of sfall for Fallout 2. sFall v5.0 released moved to repository on GitFlic.
 - [sanni/cartreader](https://github.com/sanni/cartreader) - A shield for the Arduino Mega that can back up video game cartridges.
 - [ra3xdh/qucs_s](https://github.com/ra3xdh/qucs_s) - Qucs-S is a circuit simulation program with Qt-based GUI
 - [azonenberg/microkvs](https://github.com/azonenberg/microkvs) - Tiny key-value store for persisting configuration data on microcontrollers
@@ -4590,7 +4596,7 @@
 
 - [steveftoth/hashgrits](https://github.com/steveftoth/hashgrits) - HashGrits is a project to add native redis support to the PostgreSQL server
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
-- [Ramblurr/nixcfg](https://github.com/Ramblurr/nixcfg) - My nix flake for all my NixOS machines.
+- [Ramblurr/nixcfg](https://github.com/Ramblurr/nixcfg) - ❄️ My nix flake for all my NixOS machines.
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [tpwrules/nixos-pinenote](https://github.com/tpwrules/nixos-pinenote) - Attempts to get NixOS up on the PINE64 PineNote.
@@ -4646,6 +4652,7 @@
 
 ## Objective-C 
 
+- [libobjc/SGPlayer](https://github.com/libobjc/SGPlayer) - A powerful media play framework for iOS, macOS, and tvOS.
 - [Subito-it/SBTUITestTunnel](https://github.com/Subito-it/SBTUITestTunnel) - Enable network mocks and more in UI Tests
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 - [LeoNatan/LNTouchVisualizer](https://github.com/LeoNatan/LNTouchVisualizer) - Touch visualizing framework for iOS
