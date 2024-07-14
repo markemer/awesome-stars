@@ -2574,6 +2574,7 @@
 ## dotfiles 
 
 - [cweagans/dotfiles](https://github.com/cweagans/dotfiles) - My personal config files.
+- [Ramblurr/nixcfg](https://github.com/Ramblurr/nixcfg) - ❄️ My nix flake for all my NixOS machines.
 - [mkasberg/dotfiles](https://github.com/mkasberg/dotfiles) - 🛠️ Mike's dotfiles. Managed with https://www.chezmoi.io/
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
@@ -4437,6 +4438,7 @@
 
 ## ios 
 
+- [libobjc/SGPlayer](https://github.com/libobjc/SGPlayer) - A powerful media play framework for iOS, macOS, and tvOS.
 - [danielsaidi/OnboardingKit](https://github.com/danielsaidi/OnboardingKit) - OnboardingKit is a Swift SDK that helps you create onboarding experiences in Swift and SwiftUI.
 - [alessiorubicini/SFSymbolsPickerForSwiftUI](https://github.com/alessiorubicini/SFSymbolsPickerForSwiftUI) - A SwiftUI view for selecting SF symbols in your app
 - [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
@@ -6163,6 +6165,7 @@
 
 ## macos 
 
+- [libobjc/SGPlayer](https://github.com/libobjc/SGPlayer) - A powerful media play framework for iOS, macOS, and tvOS.
 - [danielsaidi/OnboardingKit](https://github.com/danielsaidi/OnboardingKit) - OnboardingKit is a Swift SDK that helps you create onboarding experiences in Swift and SwiftUI.
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
 - [sindresorhus/LaunchAtLogin-Modern](https://github.com/sindresorhus/LaunchAtLogin-Modern) - Add “Launch at Login” functionality to your macOS app in seconds
@@ -7335,6 +7338,14 @@
 
 ## others 
 
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [FalloutTeamX/F2_Mapper_Dims](https://github.com/FalloutTeamX/F2_Mapper_Dims) - Fallout 2 Maps Editor by Dims v0.99.3
+- [FalloutTeamX/Fallout-2-Editor](https://github.com/FalloutTeamX/Fallout-2-Editor) - 
+- [eocron/Fallout-2-Editor](https://github.com/eocron/Fallout-2-Editor) - 
+- [FalloutTeamX/sfall-Extended](https://github.com/FalloutTeamX/sfall-Extended) - The official and extended modification of sfall for Fallout 2. sFall v5.0 released moved to repository on GitFlic.
+- [sfall-team/Fallout_DAT2](https://github.com/sfall-team/Fallout_DAT2) - Fallout DAT file packer/unpacker
+- [phobos2077/Fallout2_Restoration_Project](https://github.com/phobos2077/Fallout2_Restoration_Project) - Fallout 2 Restoration Project, updated
+- [OLIMEX/Neo6502](https://github.com/OLIMEX/Neo6502) - Neo6502 Modern Retro Computer with W65C02S processor and RP2040 memory and peripherals emulator
 - [Redherring32/OpenTendo-TopLoader](https://github.com/Redherring32/OpenTendo-TopLoader) - An Open Source HardWare (OSHW) recreation of the 1993 toploading NES motherboard (Also known as NES-101)
 - [marqs85/ic_drivers](https://github.com/marqs85/ic_drivers) - 
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
@@ -7572,7 +7583,7 @@
 - [ml-explore/mlx-data](https://github.com/ml-explore/mlx-data) - Efficient framework-agnostic data loading
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
-- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build custom internal software with AI. Dropbase Server and Worker are self-hosted and they securely interact with your data within your own infra.
+- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps developers build and prototype web apps faster with AI. Dropbase is local-first and self hosted.
 - [iic-jku/IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) - IIC-OSIC-TOOLS is an all-in-one Docker image for SKY130/GF180/IHP130-based analog and digital chip design. AMD64 and ARM64 are natively supported.
 - [nst/bfps](https://github.com/nst/bfps) - A Brainfuck interpreter written in PostScript
 - [FPGAwars/FPGA-peripherals](https://github.com/FPGAwars/FPGA-peripherals) - :seedling: :snowflake: Collection of open-source peripherals in Verilog
@@ -7771,7 +7782,6 @@
 - [eliben/wasm-wat-samples](https://github.com/eliben/wasm-wat-samples) - Samples of WebAssembly Text programs
 - [Jana-Marie/trainlog](https://github.com/Jana-Marie/trainlog) - simple position and movement tracker/logger.
 - [DougGregor/swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
-- [Ramblurr/nixcfg](https://github.com/Ramblurr/nixcfg) - My nix flake for all my NixOS machines.
 - [iains/gcc-13-branch](https://github.com/iains/gcc-13-branch) - GCC 13 for Darwin with experimental Arm64 support.  Current release 13.3-darwin-r0 [May 2024]
 - [Blizzard/s2client-api](https://github.com/Blizzard/s2client-api) - StarCraft II Client - C++ library supported on Windows, Linux and Mac designed for building scripted bots and research using the SC2API.
 - [Blizzard/s2protocol](https://github.com/Blizzard/s2protocol) - Python library to decode StarCraft II replay protocols
@@ -8084,7 +8094,7 @@
 - [sxpert/hp-saturn](https://github.com/sxpert/hp-saturn) - 
 - [serhack/pdf-diff](https://github.com/serhack/pdf-diff) - A tool for visualizing differences between two pdf files.
 - [GenieFramework/StippleUI.jl](https://github.com/GenieFramework/StippleUI.jl) - StippleUI is a library of reactive UI elements for Stipple.jl.
-- [apple/swift-llvm-bindings](https://github.com/apple/swift-llvm-bindings) - Swift Bindings for LLVM Project APIs
+- [swiftlang/swift-llvm-bindings](https://github.com/swiftlang/swift-llvm-bindings) - Swift Bindings for LLVM Project APIs
 - [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide) - Supplementary resources for the AWS Lambda Developer Guide
 - [saurvs/astro-rust](https://github.com/saurvs/astro-rust) - Astronomical algorithms in Rust
 - [aws-samples/avh-workshop](https://github.com/aws-samples/avh-workshop) - 
@@ -8401,7 +8411,7 @@
 - [mapmeld/fortran-machine](https://github.com/mapmeld/fortran-machine) - Finally a Fortran MVC web platform
 - [QuickMythril/idlecombos](https://github.com/QuickMythril/idlecombos) - 
 - [TheFuseLab/VL.Fuse](https://github.com/TheFuseLab/VL.Fuse) - A library for visually programming on the GPU, built to enable rapid workflows and modular approaches to accelerated graphics, logic and computation.
-- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
+- [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [ME3Tweaks/LE2-ASI-Plugins](https://github.com/ME3Tweaks/LE2-ASI-Plugins) - ASI plugins for Mass Effect 2 (Legendary Edition)
 - [d00telemental/LExSDKGenerator](https://github.com/d00telemental/LExSDKGenerator) - An adapted version of TheFeckless' UE3 SDK generator, targeted specifically at the games of Mass Effect Legendary Edition.
