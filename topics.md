@@ -5887,7 +5887,7 @@
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [google/gapid](https://github.com/google/gapid) - Graphics API Debugger
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
-- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 - [jpsim/Yams](https://github.com/jpsim/Yams) - A Sweet and Swifty YAML parser.
 - [intel/pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -7338,6 +7338,8 @@
 
 ## others 
 
+- [efabless/chipignite-resources](https://github.com/efabless/chipignite-resources) - 
+- [shalan/Awesome-Sky130-IPs](https://github.com/shalan/Awesome-Sky130-IPs) - 
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [FalloutTeamX/F2_Mapper_Dims](https://github.com/FalloutTeamX/F2_Mapper_Dims) - Fallout 2 Maps Editor by Dims v0.99.3
 - [FalloutTeamX/Fallout-2-Editor](https://github.com/FalloutTeamX/Fallout-2-Editor) - 
@@ -7444,7 +7446,7 @@
 - [noisysockets/nsh](https://github.com/noisysockets/nsh) - The Noisy Sockets CLI
 - [noisysockets/noisysockets](https://github.com/noisysockets/noisysockets) - Userspace TCP/IP Sockets For WireGuard.
 - [LennardF1989/BG3-BagsOfSorting](https://github.com/LennardF1989/BG3-BagsOfSorting) - A command-line and GUI tool for Baldur's Gate 3 to generate custom inventory bags, modify treasure tables and search for items without extracting game-files!
-- [benruijl/symbolica](https://github.com/benruijl/symbolica) - A modern computer algebra system which aims to handle expressions with billions of terms.
+- [benruijl/symbolica](https://github.com/benruijl/symbolica) - A modern computer algebra library for Python and Rust.
 - [ArtifexSoftware/mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) - 
@@ -7541,7 +7543,7 @@
 - [PNDeb/pinenote-tweaks](https://github.com/PNDeb/pinenote-tweaks) - 
 - [PNDeb/rga-v4l2-demo](https://github.com/PNDeb/rga-v4l2-demo) - Example for using the rockchip rga mem2mem driver, adapted to work with the Pinenote
 - [PNDeb/pinenote_dbus_service](https://github.com/PNDeb/pinenote_dbus_service) - A dbus daemon for controlling some driver aspects related to the Pine64 Pinenote
-- [PNDeb/pinenote-debian-image](https://github.com/PNDeb/pinenote-debian-image) - A user-ready linux image/rootfs for the Pine64 Pinenote based on Debian bookworm and GNOME
+- [PNDeb/pinenote-debian-image](https://github.com/PNDeb/pinenote-debian-image) - A user-ready linux image/rootfs for the Pine64 Pinenote based on Debian trixie and GNOME
 - [LucasVanDongen/ThreadTortureTests](https://github.com/LucasVanDongen/ThreadTortureTests) - A small Swift repository showcasing all kinds of edge cases and solutions when dealing with threads at scale
 - [verilog-to-routing/tatum](https://github.com/verilog-to-routing/tatum) - Tatum: A Fast, Flexible Static Timing Analysis (STA) Engine for Digital Circuits
 - [OpenTimer/Parser-SPEF](https://github.com/OpenTimer/Parser-SPEF) - A Fast C++ Header-only Parser for Standard Parasitic Exchange Format (SPEF).
@@ -15562,7 +15564,7 @@
 - [Idean/sonar-swift](https://github.com/Idean/sonar-swift) - Open source Swift plugin for SonarQube (also supports Objective-C)
 - [llvm-swift/LLVMSwift](https://github.com/llvm-swift/LLVMSwift) - A Swift wrapper for the LLVM C API (version 11.0)
 - [Otbivnoe/XShared](https://github.com/Otbivnoe/XShared) - Xcode extension that allows you copying the code with special formatting quotes for social (Slack, Telegram)
-- [apple/swift-llbuild](https://github.com/apple/swift-llbuild) - A low-level build system, used by Xcode and the Swift Package Manager
+- [swiftlang/swift-llbuild](https://github.com/swiftlang/swift-llbuild) - A low-level build system, used by Xcode and the Swift Package Manager
 - [choefele/AlexaSkillsKit](https://github.com/choefele/AlexaSkillsKit) - Swift library to develop custom Alexa Skills
 - [choefele/swift-lambda-app](https://github.com/choefele/swift-lambda-app) - Amazon Lambda app with Swift and Docker
 - [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
