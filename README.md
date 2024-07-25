@@ -1521,7 +1521,7 @@
 - [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system
 - [ianpatt/f4se](https://github.com/ianpatt/f4se) - Fallout 4 Script Extender
 - [charlie-foxtrot/RTLSDR-Airband](https://github.com/charlie-foxtrot/RTLSDR-Airband) - Multichannel AM/NFM demodulator
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [June 2024]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [July 2024]
 - [robmikh/Win32CaptureSample](https://github.com/robmikh/Win32CaptureSample) - A simple sample using the Windows.Graphics.Capture APIs in a Win32 application.
 - [PixelRick/CyberpunkSaveEditor](https://github.com/PixelRick/CyberpunkSaveEditor) - A tool to edit Cyberpunk 2077 sav.dat files
 - [przemek83/volbx](https://github.com/przemek83/volbx) - Graphical tool for data manipulation written in C++/Qt.
@@ -2976,6 +2976,9 @@
 
 ## HTML 
 
+- [will127534/StarlightEye](https://github.com/will127534/StarlightEye) - A IMX585 camera board designed for Raspberry Pi
+- [will127534/FourThirdsEye](https://github.com/will127534/FourThirdsEye) - Open source Raspberry Pi 5 compatible Micro Four Thirds camera module based on IMX294
+- [biocircuits/biocircuits.github.io](https://github.com/biocircuits/biocircuits.github.io) - 
 - [crazyelectron-io/RetroChipTester](https://github.com/crazyelectron-io/RetroChipTester) - Retro Chip Tester Pro
 - [qucat/qucat](https://github.com/qucat/qucat) - Quantum Circuit Analyzer Tool
 - [daveho/GALasm](https://github.com/daveho/GALasm) - Very slightly modified version of Alessandro Zummo's GALasm 2.1, for programming GAL devices
@@ -3267,6 +3270,9 @@
 
 ## Java 
 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+- [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [mike42/6502-assembly-intellij](https://github.com/mike42/6502-assembly-intellij) - An Intellij plugin for 6502 assembly projects (ca65 syntax)
 - [freerouting/freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
 - [batfish/batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evo
@@ -3426,6 +3432,7 @@
 
 ## JavaScript 
 
+- [dfederspiel/ti-sprite-maker](https://github.com/dfederspiel/ti-sprite-maker) - Visual HEX encoder for ASCII character mapping on the TI-99/4A
 - [weetmuts/ti994a_basic](https://github.com/weetmuts/ti994a_basic) - Edit TI-99/4a basic programs. Upload/Download TIFILES. Play sounds for transfer of basic program to actual TI-99/4a computer.
 - [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
 - [TinyTapeout/siliwiz](https://github.com/TinyTapeout/siliwiz) - Silicon Layout Wizard
@@ -3523,6 +3530,7 @@
 - [alex-pinkus/tree-sitter-swift](https://github.com/alex-pinkus/tree-sitter-swift) - A tree-sitter grammar for the Swift programming language.
 - [elgatosf/streamdeck-plugintemplate](https://github.com/elgatosf/streamdeck-plugintemplate) - Stream Deck SDK: Plugin Template
 - [Paperspace/client-sdk](https://github.com/Paperspace/client-sdk) - Paperspace SDK for client-side browser environments
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [yaqwsx/jlcparts](https://github.com/yaqwsx/jlcparts) - Better parametric search for components available for JLC PCB assembly
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [ottomatica/slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
@@ -3663,11 +3671,10 @@
 - [PaulTaykalo/objc-dependency-visualizer](https://github.com/PaulTaykalo/objc-dependency-visualizer) - Objective-C and Swift dependency visualizer. It's tool that helps to visualize current state of your project. It's really easy to see how tight your classes are coupled.
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
-- [patternknife/url-knife](https://github.com/patternknife/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with robust patterns.
+- [patternknife/url-knife](https://github.com/patternknife/url-knife) - Extract and decompose URLs (including emails, which are conceptually a part of URLs) with robust patterns.
 - [YOCKOW/Action-setup-swift](https://github.com/YOCKOW/Action-setup-swift) - GitHub Action that sets up Swift.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 - [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 Browse the web from a web page. Remote browser isolation. For security, privacy and more! By https://github.com/dosyago
-- [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [millette/oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [rsms/graphviz](https://github.com/rsms/graphviz) - Graphviz web app
@@ -4100,7 +4107,7 @@
 - [gembarrett/coconduct-builder](https://github.com/gembarrett/coconduct-builder) - An online tool for building a thorough and well-supported Code of Conduct specific to a community's online and/or offline environment.
 - [kbitdk/kbsslenforcer](https://github.com/kbitdk/kbsslenforcer) - Automatic security, browse encrypted
 - [guardian/scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
-- [Lascorbe/CocoaConferences](https://github.com/Lascorbe/CocoaConferences) - List of Cocoa conferences for iOS & macOS developers
+- [Lascorbe/CocoaConferences](https://github.com/Lascorbe/CocoaConferences) - List of conferences for iOS, visionOS, macOS, watchOS & tvOS developers
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [h2non/toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
 - [mailslurper/mailslurper](https://github.com/mailslurper/mailslurper) - Local, web-based mail server application. Slurp mails into oblivion!
@@ -4571,7 +4578,7 @@
 
 ## Markdown 
 
-- [apple/swift-book](https://github.com/apple/swift-book) - The Swift Programming Language book
+- [swiftlang/swift-book](https://github.com/swiftlang/swift-book) - The Swift Programming Language book
 - [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [JetBrains/intellij-sdk-docs](https://github.com/JetBrains/intellij-sdk-docs) - IntelliJ SDK Platform Documentation
@@ -5210,6 +5217,7 @@
 
 ## Others 
 
+- [cinepi/cinepi-sdk](https://github.com/cinepi/cinepi-sdk) - Collection of software components for development of open source cinema camera using raspberry pi hardware and software.
 - [LattePandaTeam/LattePanda-Mu](https://github.com/LattePandaTeam/LattePanda-Mu) - All about LattePanda Mu
 - [apple/swift-homomorphic-encryption-protobuf](https://github.com/apple/swift-homomorphic-encryption-protobuf) - Protocol buffers definitions for Swift Homomorphic Encryption
 - [Floppie209/Amiga2000-remake](https://github.com/Floppie209/Amiga2000-remake) - A recreation of the Amiga2000 motherboard using Sprint Layout
@@ -5257,7 +5265,6 @@
 - [icebreaker-fpga/icebreaker](https://github.com/icebreaker-fpga/icebreaker) - Small and low cost FPGA educational and development board
 - [wiesl/ti99-rgb](https://github.com/wiesl/ti99-rgb) - ti99-rgb
 - [dnotq/dnotq_kicad_lib](https://github.com/dnotq/dnotq_kicad_lib) - DNOTQ KiCAD Library
-- [sluicebox/sci-scripts](https://github.com/sluicebox/sci-scripts) - 
 - [jedimatt42/ti994a-pebboard-template](https://github.com/jedimatt42/ti994a-pebboard-template) - 
 - [automateyournetwork/automate_your_network](https://github.com/automateyournetwork/automate_your_network) - The book in PDF format for all to enjoy!
 - [rkrenicki/TI99-Motherboard](https://github.com/rkrenicki/TI99-Motherboard) - 
@@ -6125,6 +6132,8 @@
 
 ## Python 
 
+- [justinbois/biocircuits](https://github.com/justinbois/biocircuits) - Utilities for Caltech course BE 150
+- [qingfengxia/FreeCAD_Mod_Dev_Guide](https://github.com/qingfengxia/FreeCAD_Mod_Dev_Guide) - Ebook: Module developer's guide to FreeCAD 's source code
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [virtualsquare/virtualbricks](https://github.com/virtualsquare/virtualbricks) - A GTK frontend for VDE and QEMU/KVM. Supports multiple network on the same host, tunneling between hosts networks, a fully featured configuration interface.
@@ -6377,7 +6386,7 @@
 - [touchlab/xcode-kotlin](https://github.com/touchlab/xcode-kotlin) - Kotlin Native Xcode Plugin
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [savagezen/dnd-tools](https://github.com/savagezen/dnd-tools) - ARCHIVE - MOVED TO GITLAB | Interactive CLI tools for Dungeons and Dragons 5e
-- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [madmachineio/mm-sdk](https://github.com/madmachineio/mm-sdk) - CLI based SDK for building MadMachine project.
 - [jedimatt42/tipi](https://github.com/jedimatt42/tipi) - TI-99/4A to Raspberry PI messaging through console sideport
@@ -6618,7 +6627,6 @@
 - [calebmadrigal/trackerjacker](https://github.com/calebmadrigal/trackerjacker) - Like nmap for mapping wifi networks you're not connected to, plus device tracking
 - [mmiszczyk/LondonRising](https://github.com/mmiszczyk/LondonRising) - Reversing Fallen London
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [ydkhatri/spotlight_parser](https://github.com/ydkhatri/spotlight_parser) - Read and extract data from macOS spotlight databases
 - [raghakot/keras-text](https://github.com/raghakot/keras-text) - Text Classification Library in Keras
 - [reg2k/f4se-build-tools](https://github.com/reg2k/f4se-build-tools) - Build scripts for F4SE plugins.
@@ -6743,7 +6751,7 @@
 - [pearl-core/pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessibl
 - [iawia002/Lulu](https://github.com/iawia002/Lulu) - [Unmaintained] A simple and clean video/music/image downloader 👾
 - [mtneug/ansible-modules-plist](https://github.com/mtneug/ansible-modules-plist) - Ansible module for managing plist files
-- [oilshell/oil](https://github.com/oilshell/oil) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
+- [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [pirate/security-growler](https://github.com/pirate/security-growler) - :satellite: A Mac menubar app that notifies you whenever SSH, VNC, sudo, or other auth events occur.
 - [MagerValp/AutoDMG](https://github.com/MagerValp/AutoDMG) - Create deployable system images from OS X installer
 - [chipsec/chipsec](https://github.com/chipsec/chipsec) - Platform Security Assessment Framework
@@ -7534,6 +7542,8 @@
 
 ## Rust 
 
+- [asg017/sqlite-jiff](https://github.com/asg017/sqlite-jiff) - 
+- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
 - [ekiwi/wellen](https://github.com/ekiwi/wellen) - wellen: waveform datastructures in Rust. Fast VCD, FST and GHW parsing for waveform viewers.
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
@@ -7546,7 +7556,7 @@
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [dalance/amber](https://github.com/dalance/amber) - A code search / replace tool
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [VictorTaelin/Interaction-Calculus](https://github.com/VictorTaelin/Interaction-Calculus) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [benruijl/symbolica](https://github.com/benruijl/symbolica) - A modern computer algebra library for Python and Rust.
@@ -7651,7 +7661,6 @@
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 - [dtolnay/ryu](https://github.com/dtolnay/ryu) - Fast floating point to string conversion
 - [JuliaLang/juliaup](https://github.com/JuliaLang/juliaup) - Julia installer and version multiplexer
-- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
@@ -7902,6 +7911,7 @@
 ## Scala 
 
 - [ovh/sv2chisel](https://github.com/ovh/sv2chisel) - (System)Verilog to Chisel translator
+- [sluicebox/sci-scripts](https://github.com/sluicebox/sci-scripts) - 
 - [historicalsource/leisure-suit-larry-1-vga](https://github.com/historicalsource/leisure-suit-larry-1-vga) - A VGA version of a game about a man on a quest.
 - [ucb-bar/midas](https://github.com/ucb-bar/midas) - FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL
 - [freechipsproject/diagrammer](https://github.com/freechipsproject/diagrammer) - Provides dot visualizations of chisel/firrtl circuits
@@ -10075,6 +10085,7 @@
 - [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira) - Connect your code with your project management in Jira
 - [eavichay/microfronts](https://github.com/eavichay/microfronts) - Polyglot Front-End Solution for running multiple frameworks as one
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
@@ -10113,6 +10124,7 @@
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
 - [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [inkle/ink-tmlanguage](https://github.com/inkle/ink-tmlanguage) - TextMate grammar files for Ink. (VS Code, Sublime Text, and Atom)
+- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [Ulterius/client](https://github.com/Ulterius/client) - [WIP] Ulterius™ HTML5 react frontend.
