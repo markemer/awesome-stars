@@ -491,6 +491,7 @@
 
 ## api 
 
+- [StreamPot/StreamPot](https://github.com/StreamPot/StreamPot) - Run ffmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [WillAbides/octo-go](https://github.com/WillAbides/octo-go) - A generated go client for GitHub's REST API
 - [Adawg4/openapi-autospec](https://github.com/Adawg4/openapi-autospec) - Proxy server that generates API specs for any app or website on localhost.
@@ -1249,7 +1250,6 @@
 - [pete/cats](https://github.com/pete/cats) - Implementations of cat(1) from various sources.
 - [Yubico/yubico-pam](https://github.com/Yubico/yubico-pam) - Yubico Pluggable Authentication Module (PAM)
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
-- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 - [agroce/universalmutator](https://github.com/agroce/universalmutator) - Regexp based tool for mutating generic source code across numerous languages
 - [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
@@ -1431,7 +1431,7 @@
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
-- [zix99/rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common CLI formats such as histograms, bar graphs, numerical summaries, tables, and more!
+- [zix99/rare](https://github.com/zix99/rare) - Create console histograms, bar graphs, tables, heatmaps and more in realtime using regex and expressions.
 - [SpacehuhnTech/SimpleCLI](https://github.com/SpacehuhnTech/SimpleCLI) - Command Line Interface Library for Arduino
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -1809,7 +1809,7 @@
 - [ArkScript-lang/Ark](https://github.com/ArkScript-lang/Ark) - ArkScript is a small, fast, functional and scripting language for C++ projects
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
-- [fwsGonzo/libriscv](https://github.com/fwsGonzo/libriscv) - The fastest RISC-V sandbox
+- [libriscv/libriscv](https://github.com/libriscv/libriscv) - The fastest RISC-V sandbox
 - [agroce/universalmutator](https://github.com/agroce/universalmutator) - Regexp based tool for mutating generic source code across numerous languages
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [pfultz2/cget](https://github.com/pfultz2/cget) - C++ package retrieval
@@ -1863,6 +1863,7 @@
 
 ## cryptography 
 
+- [apple/swift-homomorphic-encryption](https://github.com/apple/swift-homomorphic-encryption) - Homomorphic Encryption library and applications in Swift
 - [mirage/mirage-crypto](https://github.com/mirage/mirage-crypto) - Cryptographic primitives for OCaml, in OCaml (also used in MirageOS)
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
@@ -2782,7 +2783,7 @@
 - [bsnes-emu/bsnes](https://github.com/bsnes-emu/bsnes) - bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
 - [higan-emu/higan](https://github.com/higan-emu/higan) - higan is a multi-system emulator focused on accuracy, preservation, and configurability.
 - [spieglt/nestur](https://github.com/spieglt/nestur) - The NES (emulator) you left outside in the rain but let dry and still kind of works
-- [fwsGonzo/libriscv](https://github.com/fwsGonzo/libriscv) - The fastest RISC-V sandbox
+- [libriscv/libriscv](https://github.com/libriscv/libriscv) - The fastest RISC-V sandbox
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [dparnell/i48](https://github.com/dparnell/i48) - A HP48GX emulator for the iPhone and iPod touch
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
@@ -4838,6 +4839,7 @@
 - [Nirma/UIDeviceComplete](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
 - [sobri909/LocoKit](https://github.com/sobri909/LocoKit) - Location, motion, and activity recording framework for iOS
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [hansemannn/iOS-NFC-Example](https://github.com/hansemannn/iOS-NFC-Example) - 📱 Use the Core NFC API in Swift/iOS
 - [smartdevicelink/sdl_ios](https://github.com/smartdevicelink/sdl_ios) - Get your app connected to the 🚙, make your users feel like a 🌟
 - [Ramotion/folding-cell](https://github.com/Ramotion/folding-cell) - :octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion
 - [shoheiyokoyama/Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework for iOS, written in Swift.
@@ -5187,7 +5189,6 @@
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [PaulTaykalo/objc-dependency-visualizer](https://github.com/PaulTaykalo/objc-dependency-visualizer) - Objective-C and Swift dependency visualizer. It's tool that helps to visualize current state of your project. It's really easy to see how tight your classes are coupled.
-- [patternknife/url-knife](https://github.com/patternknife/url-knife) - Extract and decompose URLs (including emails, which are conceptually a part of URLs) with robust patterns.
 - [eavichay/microfronts](https://github.com/eavichay/microfronts) - Polyglot Front-End Solution for running multiple frameworks as one
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
@@ -6034,6 +6035,7 @@
 
 ## mac 
 
+- [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [grahampugh/erase-install](https://github.com/grahampugh/erase-install) - A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process. Watch the video!
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
@@ -6206,7 +6208,7 @@
 - [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS, macOS & visionOS in Swift. Native SwiftUI & UIKit views.
 - [LeoNatan/LNViewHierarchyDumper](https://github.com/LeoNatan/LNViewHierarchyDumper) - Dump your view hierarchies programmatically to Xcode 12 and above compatible view hierarchy file archives.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
-- [krzyzanowskim/STTextView](https://github.com/krzyzanowskim/STTextView) - Performant and reusable macOS text view component (TextKit2), with line numbers and more. NSTextView replacement.
+- [krzyzanowskim/STTextView](https://github.com/krzyzanowskim/STTextView) - Performant and reusable text view component (TextKit 2), with line numbers and more. UITextView / NSTextView replacement.
 - [Tom94/tev](https://github.com/Tom94/tev) - High dynamic range (HDR) image viewer for graphics people
 - [Code-Hex/vz](https://github.com/Code-Hex/vz) - Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.framework.
 - [ryanashcraft/CloudSyncSession](https://github.com/ryanashcraft/CloudSyncSession) - Swift package that makes it easier to write CloudKit sync-enabled, offline-capable apps
@@ -7349,6 +7351,8 @@
 
 ## others 
 
+- [lexbailey/compilerfax](https://github.com/lexbailey/compilerfax) - 
+- [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) - Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and serv
 - [azonenberg/common-ibc](https://github.com/azonenberg/common-ibc) - 48-12V 72W intermediate bus converter common to all of my larger FPGA projects
 - [will127534/StarlightEye](https://github.com/will127534/StarlightEye) - A IMX585 camera board designed for Raspberry Pi
 - [will127534/FourThirdsEye](https://github.com/will127534/FourThirdsEye) - Open source Raspberry Pi 5 compatible Micro Four Thirds camera module based on IMX294
@@ -7363,7 +7367,6 @@
 - [LattePandaTeam/LattePanda-Mu](https://github.com/LattePandaTeam/LattePanda-Mu) - All about LattePanda Mu
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [apple/swift-homomorphic-encryption-protobuf](https://github.com/apple/swift-homomorphic-encryption-protobuf) - Protocol buffers definitions for Swift Homomorphic Encryption
-- [apple/swift-homomorphic-encryption](https://github.com/apple/swift-homomorphic-encryption) - Homomorphic Encryption library and applications in Swift
 - [Floppie209/Amiga2000-remake](https://github.com/Floppie209/Amiga2000-remake) - A recreation of the Amiga2000 motherboard using Sprint Layout
 - [efabless/chipignite-resources](https://github.com/efabless/chipignite-resources) - 
 - [shalan/Awesome-Sky130-IPs](https://github.com/shalan/Awesome-Sky130-IPs) - 
@@ -9475,6 +9478,7 @@
 - [kfrlib/kfr](https://github.com/kfrlib/kfr) - Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON)
 - [twostraws/SamplePackage](https://github.com/twostraws/SamplePackage) - A test package for Swift Package Manager.
 - [gregfjohnson/aplette](https://github.com/gregfjohnson/aplette) - This is a new take on an old language:  APL.  The goal is to pare APL down to its elegant essence.  This version of APL is oriented toward scripting within a Unix-style computing environment.
+- [patternknife/url-knife](https://github.com/patternknife/url-knife) - Extract and decompose URLs (including emails, which are conceptually a part of URLs) with robust patterns.
 - [Emotiv/cortex-example](https://github.com/Emotiv/cortex-example) - Example with Cortex V2/V3 API
 - [postput/postput](https://github.com/postput/postput) - Cloud native storage operator - Upload, download and perform operations on your files
 - [Croteam-official/Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
@@ -9701,7 +9705,6 @@
 - [jasbur/RaspiWiFi](https://github.com/jasbur/RaspiWiFi) - Headless WiFi configuration for the Raspberry Pi (or most other devices running Linux) by using a temporary WiFi access point and web interface
 - [commaai/chffrplus](https://github.com/commaai/chffrplus) - open source dashcam software
 - [commaai/neo](https://github.com/commaai/neo) - all open source hardware from comma.ai
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [OblivionCloudControl/opvault](https://github.com/OblivionCloudControl/opvault) - Python library to access 1Password OPVault stores
 - [miquella/opvault](https://github.com/miquella/opvault) - Go package for reading the 1Password OPVault format
@@ -11144,7 +11147,6 @@
 - [adurbalo/JiraConnector](https://github.com/adurbalo/JiraConnector) - Integrate JiraConnector in your project and give ability to testers create JIRA issues from you app just by shaking device.
 - [mikeash/BinaryCoder](https://github.com/mikeash/BinaryCoder) - An example implementation of Swift.Codable using a simple binary format
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-- [hansemannn/iOS-NFC-Example](https://github.com/hansemannn/iOS-NFC-Example) - 📱 Example showing how to use the Core NFC API in Swift/iOS
 - [LaunchKit/LaunchKit](https://github.com/LaunchKit/LaunchKit) - A set of web-based tools for mobile app developers, now open source!
 - [graalvm/sulong](https://github.com/graalvm/sulong) - Obsolete repository. Moved to oracle/graal.
 - [ampotos/dynStruct](https://github.com/ampotos/dynStruct) - Reverse engineering tool for automatic structure recovering and memory use analysis based on DynamoRIO and Capstone
@@ -12073,7 +12075,6 @@
 - [aaronabentheuer/AAFaceDetection](https://github.com/aaronabentheuer/AAFaceDetection) - Prototyping-Library providing easy access to iOS face detection features through NSNotification.
 - [Evernote/evernote-sdk-ruby](https://github.com/Evernote/evernote-sdk-ruby) - Evernote SDK for Ruby
 - [Evernote/evernote-oauth-ruby](https://github.com/Evernote/evernote-oauth-ruby) - Evernote OAuth / Thrift API client library for Ruby
-- [Evernote/evernote-sdk-python3](https://github.com/Evernote/evernote-sdk-python3) - Testing the Evernote Cloud API for Python 3
 - [Evernote/evernote-sdk-ios](https://github.com/Evernote/evernote-sdk-ios) - Evernote SDK for iOS
 - [Evernote/evernote-cloud-sdk-ios](https://github.com/Evernote/evernote-cloud-sdk-ios) - Evernote Cloud SDK for iOS
 - [Evernote/evernote-sdk-mac](https://github.com/Evernote/evernote-sdk-mac) - Evernote SDK for Cocoa
@@ -13201,7 +13202,7 @@
 ## powershell 
 
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from windows, disable telemetry, remove Bing from windows search as well as perform various other changes to declutter and improve 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
 - [fstudio/clangbuilder](https://github.com/fstudio/clangbuilder) - Building Clang ♡ Utility and Environment
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
@@ -13833,6 +13834,7 @@
 
 ## react 
 
+- [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [dfederspiel/ti-sprite-maker](https://github.com/dfederspiel/ti-sprite-maker) - Visual HEX encoder for ASCII character mapping on the TI-99/4A
 - [srt4rulez/fallout-new-vegas-interactive-map](https://github.com/srt4rulez/fallout-new-vegas-interactive-map) - An interactive map of the Mojave Wasteland in Fallout: New Vegas.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -14071,6 +14073,7 @@
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 - [awesome-photogrammetry/awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - 😎 Awesome photogrammetry projects
 - [p-org/P](https://github.com/p-org/P) - The P programming language.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
 - [osrf/homebrew-simulation](https://github.com/osrf/homebrew-simulation) - Homebrew tap for osrf simulation software
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
@@ -14190,6 +14193,7 @@
 
 ## rust 
 
+- [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
@@ -14879,6 +14883,7 @@
 
 ## swift 
 
+- [apple/swift-homomorphic-encryption](https://github.com/apple/swift-homomorphic-encryption) - Homomorphic Encryption library and applications in Swift
 - [danielsaidi/OnboardingKit](https://github.com/danielsaidi/OnboardingKit) - OnboardingKit is a Swift SDK that helps you create onboarding experiences in Swift and SwiftUI.
 - [AladinWay/TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation.
 - [sindresorhus/LaunchAtLogin-Modern](https://github.com/sindresorhus/LaunchAtLogin-Modern) - Add “Launch at Login” functionality to your macOS app in seconds
@@ -14912,7 +14917,7 @@
 - [huri000/SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [joomcode/BottomSheet](https://github.com/joomcode/BottomSheet) - Bottom Sheet for iOS
-- [krzyzanowskim/STTextView](https://github.com/krzyzanowskim/STTextView) - Performant and reusable macOS text view component (TextKit2), with line numbers and more. NSTextView replacement.
+- [krzyzanowskim/STTextView](https://github.com/krzyzanowskim/STTextView) - Performant and reusable text view component (TextKit 2), with line numbers and more. UITextView / NSTextView replacement.
 - [krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of awesome Swift Macros
 - [s1ddok/Alloy](https://github.com/s1ddok/Alloy) - Make usage of Metal API a pleasure
 - [ABridoux/SafeFetching](https://github.com/ABridoux/SafeFetching) - DSL to build predicates and requests for CoreData fetching
@@ -15512,6 +15517,7 @@
 - [sobri909/LocoKit](https://github.com/sobri909/LocoKit) - Location, motion, and activity recording framework for iOS
 - [Skyscanner/SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of  "Float Label Pattern". Written in Swift.
 - [ArtSabintsev/GitFame](https://github.com/ArtSabintsev/GitFame) - A Swift CLI script that logs your GitHub Stars and Forks.
+- [hansemannn/iOS-NFC-Example](https://github.com/hansemannn/iOS-NFC-Example) - 📱 Use the Core NFC API in Swift/iOS
 - [smartdevicelink/sdl_ios](https://github.com/smartdevicelink/sdl_ios) - Get your app connected to the 🚙, make your users feel like a 🌟
 - [Ramotion/folding-cell](https://github.com/Ramotion/folding-cell) - :octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion
 - [PaulTaykalo/xcode-time-tracker](https://github.com/PaulTaykalo/xcode-time-tracker) - 
@@ -15715,7 +15721,7 @@
 - [jwd-ali/Switch-Animations](https://github.com/jwd-ali/Switch-Animations) - An animate switch collection, Add Beautiful Customise Switch in your application to boost UI and UX
 - [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS, macOS & visionOS in Swift. Native SwiftUI & UIKit views.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
-- [krzyzanowskim/STTextView](https://github.com/krzyzanowskim/STTextView) - Performant and reusable macOS text view component (TextKit2), with line numbers and more. NSTextView replacement.
+- [krzyzanowskim/STTextView](https://github.com/krzyzanowskim/STTextView) - Performant and reusable text view component (TextKit 2), with line numbers and more. UITextView / NSTextView replacement.
 - [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 - [V8tr/AsyncImage](https://github.com/V8tr/AsyncImage) - Asynchronous Image Loading from URL in SwiftUI
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
@@ -16372,6 +16378,7 @@
 
 ## windows 
 
+- [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
@@ -16379,7 +16386,7 @@
 - [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Forwarder is a production-ready, fast MITM proxy with PAC support. It's suitable for debugging, intercepting and manipulating HTTP traffic. It's used as a core component of Sauce Labs Sauce Connect Pr
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from windows, disable telemetry, remove Bing from windows search as well as perform various other changes to declutter and improve 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
 - [tursilion/classic99](https://github.com/tursilion/classic99) - Classic99 TI-99/4A Emulator for Windows, QI3xx series
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 - [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
