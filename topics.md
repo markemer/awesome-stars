@@ -6020,7 +6020,7 @@
 - [Hammerspoon/Spoons](https://github.com/Hammerspoon/Spoons) - The official repository of Spoon plugins
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 - [xboot/xboot](https://github.com/xboot/xboot) - The extensible bootloader for embedded system with application engine, write once, run everywhere.
-- [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .c)
+- [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .h)
 - [CommandPost/CommandPost](https://github.com/CommandPost/CommandPost) - Workflow Enhancements for Creatives
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [libmoon/libmoon](https://github.com/libmoon/libmoon) - libmoon is a library for fast and flexible packet processing with DPDK and LuaJIT.
@@ -7351,6 +7351,7 @@
 
 ## others 
 
+- [LaserWeb/LaserWeb4](https://github.com/LaserWeb/LaserWeb4) - Collaborative effort on the next version of LaserWeb / CNCWeb
 - [lexbailey/compilerfax](https://github.com/lexbailey/compilerfax) - 
 - [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) - Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and serv
 - [azonenberg/common-ibc](https://github.com/azonenberg/common-ibc) - 48-12V 72W intermediate bus converter common to all of my larger FPGA projects
@@ -8467,7 +8468,7 @@
 - [johnelm/node-jxa](https://github.com/johnelm/node-jxa) - Use your favorite node.js modules (and JS editor) for your Javascript OSX automation scripts
 - [dbr/tvnamer](https://github.com/dbr/tvnamer) - Automatic TV episode file renamer, uses data from thetvdb.com via tvdb_api
 - [andrewattwood/fuserisc](https://github.com/andrewattwood/fuserisc) - Dual RISC-V DISC with integrated eFPGA
-- [greatscottgadgets/ViewSB](https://github.com/greatscottgadgets/ViewSB) - open-source USB analyzer toolkit with support for a variety of capture hardware
+- [greatscottgadgets/ViewSB](https://github.com/greatscottgadgets/ViewSB) - [Archived] open-source USB analyzer toolkit with support for a variety of capture hardware
 - [TV-Rename/tvrename](https://github.com/TV-Rename/tvrename) - Organise your TV & Movie videos with ease
 - [f4pga/prjxray](https://github.com/f4pga/prjxray) - Documenting the Xilinx 7-series bit-stream format.
 - [chipsalliance/f4pga-examples](https://github.com/chipsalliance/f4pga-examples) - Example designs showing different ways to use F4PGA toolchains.
@@ -11461,7 +11462,7 @@
 - [nareix/joy4](https://github.com/nareix/joy4) - Golang audio/video library and streaming server
 - [giginet/xcprofiler](https://github.com/giginet/xcprofiler) - :chart_with_upwards_trend: CLI to profile compilation time of Swift project
 - [guerrero/generator-sketch-plugin](https://github.com/guerrero/generator-sketch-plugin) - Scaffold out a sketch plugin
-- [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support
+- [swiftlang/swift-corelibs-xctest](https://github.com/swiftlang/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support
 - [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) - The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
 - [apple/swift-xcode-playground-support](https://github.com/apple/swift-xcode-playground-support) - Logging and communication to allow Swift toolchains to communicate with Xcode.
