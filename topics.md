@@ -7351,6 +7351,7 @@
 
 ## others 
 
+- [riscv/learn](https://github.com/riscv/learn) - Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc.
 - [LaserWeb/LaserWeb4](https://github.com/LaserWeb/LaserWeb4) - Collaborative effort on the next version of LaserWeb / CNCWeb
 - [lexbailey/compilerfax](https://github.com/lexbailey/compilerfax) - 
 - [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) - Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and serv
