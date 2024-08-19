@@ -1052,7 +1052,7 @@
 - [jncronin/rpi-boot](https://github.com/jncronin/rpi-boot) - A second stage bootloader for the Raspberry Pi
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
 - [LuaDist/luajit](https://github.com/LuaDist/luajit) - LuaJIT is JIT compiler for the Lua language.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [simh/simh](https://github.com/simh/simh) - The Computer History Simulation Project
 - [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
@@ -1581,7 +1581,7 @@
 - [fastogt/fastonosql](https://github.com/fastogt/fastonosql) - FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika, Dynomite, KeyDB GUI management tool.
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [macmade/macho](https://github.com/macmade/macho) - Mach-O file parser.
-- [peadar/pstack](https://github.com/peadar/pstack) - Print stack traces from running processes, or core files. Works properly for x86_64 without frame pointers
+- [peadar/pstack](https://github.com/peadar/pstack) - Print stack traces from running processes, or core files. Supports aarch64, x86_64, and i386
 - [The-OpenROAD-Project/yosys](https://github.com/The-OpenROAD-Project/yosys) - Logic synthesis and ABC based optimization
 - [vtil-project/VTIL-Core](https://github.com/vtil-project/VTIL-Core) - Virtual-machine Translation Intermediate Language
 - [Yours3lf/rpi-vk-driver](https://github.com/Yours3lf/rpi-vk-driver) - VK driver for the Raspberry Pi (Broadcom Videocore IV)
