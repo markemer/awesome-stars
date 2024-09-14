@@ -391,7 +391,7 @@
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [mecparts/RetroWiFiModem](https://github.com/mecparts/RetroWiFiModem) - An ESP8266 based RS232 &lt;-&gt; WiFi modem with Hayes AT style commands and LED indicators
 - [nickandre/dnvt-fw](https://github.com/nickandre/dnvt-fw) - 
-- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
+- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [ZipCPU/eth10g](https://github.com/ZipCPU/eth10g) - 10Gb Ethernet Switch
 - [openhwgroup/cvw](https://github.com/openhwgroup/cvw) - CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches,
 - [utmapp/qemu](https://github.com/utmapp/qemu) - qemu with iOS host support
@@ -1305,6 +1305,7 @@
 
 ## C++ 
 
+- [Robotips/uConfig](https://github.com/Robotips/uConfig) - Datasheet pinout extractor from PDF and library Stylizer for Kicad.
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [nodejs/nan](https://github.com/nodejs/nan) - Native Abstractions for Node.js
 - [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
@@ -2041,6 +2042,7 @@
 - [loarabia/Clang-tutorial](https://github.com/loarabia/Clang-tutorial) - A collection of code samples showing usage of clang and llvm as a library
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [assimp/assimp](https://github.com/assimp/assimp) - The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
+- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [facebookarchive/scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
@@ -3077,6 +3079,7 @@
 - [MichaelJCole/wiki.unrealengine.com](https://github.com/MichaelJCole/wiki.unrealengine.com) - A VuePress documentation site scraped from the internet archives:
 - [COVID19StatePolicy/SocialDistancing](https://github.com/COVID19StatePolicy/SocialDistancing) - 
 - [haukex/webperl](https://github.com/haukex/webperl) - Run Perl in the browser with WebPerl!
+- [pqrs-org/sites-karabiner-elements.pqrs.org](https://github.com/pqrs-org/sites-karabiner-elements.pqrs.org) - 
 - [gluster/glusterdocs](https://github.com/gluster/glusterdocs) - This repo contains the source of official Gluster documentation rendered at https://docs.gluster.org
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [laforest/FPGADesignElements](https://github.com/laforest/FPGADesignElements) - A self-contained online book containing a library of FPGA design modules and related coding/design guides.
@@ -3214,7 +3217,6 @@
 ## Hack 
 
 - [wincent/masochist](https://github.com/wincent/masochist) - ⛓ Website infrastructure for over-engineers
-- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 
 ## Handlebars 
 
@@ -4437,6 +4439,7 @@
 
 ## Kotlin 
 
+- [realm/realm-kotlin](https://github.com/realm/realm-kotlin) - Kotlin Multiplatform and Android SDK for the Realm Mobile Database: Build Better Apps Faster.
 - [apple/pkl-package-docs](https://github.com/apple/pkl-package-docs) - Documentation for Pkl packages
 - [touchlab/SKIE](https://github.com/touchlab/SKIE) - SKIE - Swift Kotlin Interface Enhancer
 - [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
@@ -4569,7 +4572,6 @@
 - [foostan/kbd](https://github.com/foostan/kbd) - for building keyboard libraries
 - [linuxboot/heads](https://github.com/linuxboot/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops, workstations and servers.
 - [adobe-type-tools/cmap-resources](https://github.com/adobe-type-tools/cmap-resources) - CMap Resources
-- [pqrs-org/gh-pages-karabiner-elements.pqrs.org](https://github.com/pqrs-org/gh-pages-karabiner-elements.pqrs.org) - 
 - [enzomaruffa/RealityKit-Motion-Recorder](https://github.com/enzomaruffa/RealityKit-Motion-Recorder) - Used to store bodytracked joint's position in a JSON file
 - [ibm-op-release/op-build](https://github.com/ibm-op-release/op-build) - Buildroot overlay for IBM Open Power releases
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
@@ -5241,6 +5243,7 @@
 
 ## Others 
 
+- [joanbono/awesome-kicad](https://github.com/joanbono/awesome-kicad) - A curated list of awesome KiCad plugins and resources
 - [macstadium/orka-desktop](https://github.com/macstadium/orka-desktop) - Orka Desktop is a free, no obligation, virtualization tool, which is designed to be deployed on individual macOS workstations.
 - [macstadium/orka-images](https://github.com/macstadium/orka-images) - Public images for Apple silicon-based Orka virtual machines
 - [gibbed/Borderlands3Dumps](https://github.com/gibbed/Borderlands3Dumps) - Borderlands 3 data dumps.
@@ -6159,6 +6162,8 @@
 
 ## Python 
 
+- [mherrmann/fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [holgern/pyedflib](https://github.com/holgern/pyedflib) - pyedflib is a python library to read/write EDF+/BDF+ files based on EDFlib.
 - [notepad-plus-plus/nppPluginList](https://github.com/notepad-plus-plus/nppPluginList) - The official collection of Notepad++ plugins.
@@ -7587,7 +7592,7 @@
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
 - [amber-lang/heraclitus](https://github.com/amber-lang/heraclitus) - 🧱 Compiler frontend for developing great programming languages
-- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [dalance/amber](https://github.com/dalance/amber) - A code search / replace tool
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
@@ -8281,7 +8286,7 @@
 - [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [ryanb/dotfiles](https://github.com/ryanb/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
 
 ## Smalltalk 
@@ -9917,6 +9922,7 @@
 
 ## TypeScript 
 
+- [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce) - VS Code Extension Manager
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a font released by the Internet Development Studio Company. SIL Open Font License 1.1
@@ -10003,7 +10009,7 @@
 - [cdklabs/aws-secrets-github-sync](https://github.com/cdklabs/aws-secrets-github-sync) - Sync GitHub repository secrets from AWS Secrets Manager
 - [cdklabs/markmac](https://github.com/cdklabs/markmac) - Embed program outputs in markdown
 - [cdklabs/cdk-pipelines-github](https://github.com/cdklabs/cdk-pipelines-github) - 
-- [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!
+- [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [aws-samples/automated-iam-access-analyzer](https://github.com/aws-samples/automated-iam-access-analyzer) - 
 - [RobotsAndPencils/1password-action](https://github.com/RobotsAndPencils/1password-action) - Import logins, passwords and documents from your 1Password vaults to use in your GitHub Action workflows.
@@ -10191,7 +10197,7 @@
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [phosphorjs/phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
 - [ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [davidedc/Algebrite](https://github.com/davidedc/Algebrite) - Computer Algebra System in Javascript (Typescript)
