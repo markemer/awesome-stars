@@ -5060,7 +5060,7 @@
 - [twotoasters/TWTSideMenuViewController](https://github.com/twotoasters/TWTSideMenuViewController) - Side Menus for iOS 7
 - [mdinacci/MDRadialProgress](https://github.com/mdinacci/MDRadialProgress) - A custom UIView useful to represent progress in discrete steps.
 - [CooperRS/RMStepsController](https://github.com/CooperRS/RMStepsController) - This is an iOS control for guiding users through a process step-by-step
-- [qfish/XAlign](https://github.com/qfish/XAlign) - An amazing Xcode Source Editor extension to align regular code. It can align Xnything in any way you want.
+- [qfish/XAlign](https://github.com/qfish/XAlign) - An amazing Xcode Source Editor extension to align regular code. It can align anything in any way you want.
 - [comyar/Sol](https://github.com/comyar/Sol) - :sunny: Sol° beautifully displays weather information so you can plan your day accordingly. Check the weather in your current location or any city around the world. Implemented in Objective-C.
 - [eerolanguage/eero](https://github.com/eerolanguage/eero) - Eero was a fully binary- and header-compatible dialect of Objective-C, implemented with a modified version of the Apple-sponsored LLVM/clang open-source compiler. It featured a streamlined syntax, Pyt
 - [node-app/Interpreter](https://github.com/node-app/Interpreter) - Node.js Interpreter for iOS 7
@@ -5293,6 +5293,7 @@
 - [fdufnews/SMART-Response-XE-schematics](https://github.com/fdufnews/SMART-Response-XE-schematics) - Schematics of the SMART Response XE terminal
 - [ebastler/zmk-designguide](https://github.com/ebastler/zmk-designguide) - A short hardware-designguide for ZMK keyboards
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [icebreaker-fpga/icebreaker](https://github.com/icebreaker-fpga/icebreaker) - Small and low cost FPGA educational and development board
 - [wiesl/ti99-rgb](https://github.com/wiesl/ti99-rgb) - ti99-rgb
 - [dnotq/dnotq_kicad_lib](https://github.com/dnotq/dnotq_kicad_lib) - DNOTQ KiCAD Library
@@ -8181,7 +8182,7 @@
 - [openfaas/store](https://github.com/openfaas/store) - Official Function and Template Store for OpenFaaS
 - [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker) - Docker container for Caddy
 - [sdt/docker-raspberry-pi-cross-compiler](https://github.com/sdt/docker-raspberry-pi-cross-compiler) - Raspberry Pi cross-compiler and sysroot in a Docker container.
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to PlexGuide ~ Deploy Multiple Docker Containers in a Hasty Manner
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Deploy Multiple Docker Containers in a Hasty Manner
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
@@ -8403,7 +8404,6 @@
 - [HyperARCo/Mirador](https://github.com/HyperARCo/Mirador) - Mirador makes it easy to build impressive “Point of Interest” AR experiences, on Apple's new RealityKit framework.
 - [huri000/SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
 - [XcodesOrg/unxip](https://github.com/XcodesOrg/unxip) - A fast Xcode unarchiver
-- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [joomcode/BottomSheet](https://github.com/joomcode/BottomSheet) - Bottom Sheet for iOS
 - [krzyzanowskim/STTextView](https://github.com/krzyzanowskim/STTextView) - Performant and reusable text view component (TextKit 2), with line numbers and more. UITextView / NSTextView replacement.
 - [krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of awesome Swift Macros
