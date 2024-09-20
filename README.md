@@ -306,6 +306,7 @@
 
 ## C 
 
+- [Gadgetoid/pi400kb](https://github.com/Gadgetoid/pi400kb) - Raw HID keyboard forwarder to turn the Pi 400 into a USB keyboard
 - [tcltk/tk](https://github.com/tcltk/tk) - The Tk Widget Toolkit For Tcl (Mirror of core.tcl-lang.org)
 - [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
 - [flightaware/tclx](https://github.com/flightaware/tclx) - Official home of the TclX extension for Tcl
@@ -1305,6 +1306,7 @@
 
 ## C++ 
 
+- [iains/gcc-14-branch](https://github.com/iains/gcc-14-branch) - GCC 14 for Darwin with experimental Arm64 support.  Current release 14.2-darwin-r0 [August 2024]
 - [Robotips/uConfig](https://github.com/Robotips/uConfig) - Datasheet pinout extractor from PDF and library Stylizer for Kicad.
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [nodejs/nan](https://github.com/nodejs/nan) - Native Abstractions for Node.js
@@ -2547,9 +2549,9 @@
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated.
 - [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) - Hashicorp Vault plugin integrates with 1Password Connect to allow for the retrieval, creation, and deletion of items stored in 1Password.
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, hea
-- [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and ot
+- [ory/hydra](https://github.com/ory/hydra) - The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written i
+- [ory/kratos](https://github.com/ory/kratos) - The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor A
+- [ory/keto](https://github.com/ory/keto) - The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, clo
 - [tongson/LadyLua](https://github.com/tongson/LadyLua) - Single executable(static), batteries included, Lua 5.1 interpreter.
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub & GitLab
@@ -3453,6 +3455,8 @@
 
 ## JavaScript 
 
+- [technix/atrament-web-ui](https://github.com/technix/atrament-web-ui) - Atrament Web UI
+- [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [opendevise/asciidoc-parsing-lab](https://github.com/opendevise/asciidoc-parsing-lab) - An incubator for the development of a grammar formalism and parser for the AsciiDoc Language.
 - [LaserWeb/LaserWeb4](https://github.com/LaserWeb/LaserWeb4) - Collaborative effort on the next version of LaserWeb / CNCWeb
 - [dfederspiel/ti-sprite-maker](https://github.com/dfederspiel/ti-sprite-maker) - Visual HEX encoder for ASCII character mapping on the TI-99/4A
@@ -5243,6 +5247,7 @@
 
 ## Others 
 
+- [sketchfab/unreal-plugin](https://github.com/sketchfab/unreal-plugin) - 
 - [joanbono/awesome-kicad](https://github.com/joanbono/awesome-kicad) - A curated list of awesome KiCad plugins and resources
 - [macstadium/orka-desktop](https://github.com/macstadium/orka-desktop) - Orka Desktop is a free, no obligation, virtualization tool, which is designed to be deployed on individual macOS workstations.
 - [macstadium/orka-images](https://github.com/macstadium/orka-images) - Public images for Apple silicon-based Orka virtual machines
@@ -6163,6 +6168,7 @@
 
 ## Python 
 
+- [efabless/cace](https://github.com/efabless/cace) - Circuit Automatic Characterization Engine
 - [mherrmann/fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
@@ -6521,7 +6527,7 @@
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
 - [boothby/repiet](https://github.com/boothby/repiet) - A compiler for the esoteric language Piet, targeting multiple backends.
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
-- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [ProjectDrawdown/spatial-aez](https://github.com/ProjectDrawdown/spatial-aez) - Process climate-related spatial data files for use in Project Drawdown climate solution models.
 - [FreeCAD/FreeCAD-render](https://github.com/FreeCAD/FreeCAD-render) - The Render workbench
 - [jar-o/rotvpn](https://github.com/jar-o/rotvpn) - Run a personal VPN in the cloud. And rotate it regularly.
@@ -7924,6 +7930,7 @@
 
 ## SCSS 
 
+- [asciidoctor/asciidoctor.org](https://github.com/asciidoctor/asciidoctor.org) - :globe_with_meridians: Asciidoctor project site. Composed in AsciiDoc. Baked with Awestruct.
 - [MichiMolle/gtk4-eink](https://github.com/MichiMolle/gtk4-eink) - css for making gtk4-applications look better on eink devices
 - [fujimo-t/gnome-shell-theme-e-ink](https://github.com/fujimo-t/gnome-shell-theme-e-ink) - A GNOME Shell theme for E-Ink displays
 - [mpdf/mpdf.github.io](https://github.com/mpdf/mpdf.github.io) - mPDF documentation
@@ -8320,7 +8327,6 @@
 
 ## Svelte 
 
-- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [sdl60660/river-runner](https://github.com/sdl60660/river-runner) - Uses USGS/MERIT Basin data to visualize the path of a rain droplet to its endpoint.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -9951,6 +9957,7 @@
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [apple/pkl-vscode](https://github.com/apple/pkl-vscode) - Pkl language support for VS Code
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A feature-rich GraphQL Client for all platforms.
+- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
