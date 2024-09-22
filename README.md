@@ -306,6 +306,7 @@
 
 ## C 
 
+- [LingDong-/wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀
 - [Gadgetoid/pi400kb](https://github.com/Gadgetoid/pi400kb) - Raw HID keyboard forwarder to turn the Pi 400 into a USB keyboard
 - [tcltk/tk](https://github.com/tcltk/tk) - The Tk Widget Toolkit For Tcl (Mirror of core.tcl-lang.org)
 - [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
@@ -1030,7 +1031,7 @@
 - [ATaylorCEngFIET/MicroZed-Chronicles](https://github.com/ATaylorCEngFIET/MicroZed-Chronicles) - Source code from the MicroZed Chronicles blog hosted by Xcell Daily Blog
 - [arantius/tivodecode](https://github.com/arantius/tivodecode) - Portable C program to convert a .TiVo file from TiVoToGo to a normal MPEG file given the MAK for the TiVo which generated the file.
 - [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) - The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
-- [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
+- [swiftlang/swift-corelibs-foundation](https://github.com/swiftlang/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
 - [shinh/elvm](https://github.com/shinh/elvm) - EsoLangVM Compiler Infrastructure
 - [my-mail-ru/swiftperl](https://github.com/my-mail-ru/swiftperl) - Swift and Perl Interoperability
 - [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
@@ -3455,6 +3456,7 @@
 
 ## JavaScript 
 
+- [Harvie/cnc-simulator](https://github.com/Harvie/cnc-simulator) - In-browser g-code simulator
 - [technix/atrament-web-ui](https://github.com/technix/atrament-web-ui) - Atrament Web UI
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [opendevise/asciidoc-parsing-lab](https://github.com/opendevise/asciidoc-parsing-lab) - An incubator for the development of a grammar formalism and parser for the AsciiDoc Language.
@@ -3598,7 +3600,7 @@
 - [pidtuner/pidtuner.github.io](https://github.com/pidtuner/pidtuner.github.io) - Free PID Controller gains tuning tool
 - [github/tweetsodium](https://github.com/github/tweetsodium) - libsodium sealed cryptobox using tweetnacl
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
 - [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
@@ -8422,7 +8424,7 @@
 - [patskovn/MeshGradient](https://github.com/patskovn/MeshGradient) - 
 - [ABridoux/SafeFetching](https://github.com/ABridoux/SafeFetching) - DSL to build predicates and requests for CoreData fetching
 - [inaka/EventSource](https://github.com/inaka/EventSource) - A simple Swift client library for the Server Sent Events (SSE)
-- [apple/swift-foundation](https://github.com/apple/swift-foundation) - The Foundation project
+- [swiftlang/swift-foundation](https://github.com/swiftlang/swift-foundation) - The Foundation project
 - [CodeEditApp/CodeEditSourceEditor](https://github.com/CodeEditApp/CodeEditSourceEditor) - A code editor view written in Swift powered by tree-sitter.
 - [gordontucker/FittedSheets](https://github.com/gordontucker/FittedSheets) - Bottom sheets for iOS
 - [ryanashcraft/CloudSyncSession](https://github.com/ryanashcraft/CloudSyncSession) - Swift package that makes it easier to write CloudKit sync-enabled, offline-capable apps
@@ -8452,7 +8454,7 @@
 - [GottaGetSwifty/SwiftyXMLKit](https://github.com/GottaGetSwifty/SwiftyXMLKit) - Tools for working with XML in Swift
 - [GottaGetSwifty/CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy
 - [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift
-- [igor11191708/d3-async-location](https://github.com/igor11191708/d3-async-location) - Corelocation swift async await streamer Corelocation map swift tracker geolocation and geocoding swiftui map example using MapKit address decoder Corelocation based service in swift Async stream patte
+- [igor11191708/d3-async-location](https://github.com/igor11191708/d3-async-location) - Corelocation swift async await streamer Corelocation map swift tracker get user current geolocation and geocoding swiftui map example using MapKit address decoder Corelocation based service in swift A
 - [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
 - [metal-by-example/minimal-swift-assimp](https://github.com/metal-by-example/minimal-swift-assimp) - 
 - [V8tr/AsyncImage](https://github.com/V8tr/AsyncImage) - Asynchronous Image Loading from URL in SwiftUI
@@ -9932,6 +9934,7 @@
 
 ## TypeScript 
 
+- [line/ts-remove-unused](https://github.com/line/ts-remove-unused) - Remove unused code from your TypeScript project
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce) - VS Code Extension Manager
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
