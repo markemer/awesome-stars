@@ -1997,7 +1997,7 @@
 - [jedisct1/libhydrogen](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments.
 - [trussed-dev/trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware
 - [zorggomat/FractalCryptGUI](https://github.com/zorggomat/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
-- [Infineon/linux-optiga-trust-m](https://github.com/Infineon/linux-optiga-trust-m) - Linux tools and examples for OPTIGA™ Trust M1/M3 security solution
+- [Infineon/linux-optiga-trust-m](https://github.com/Infineon/linux-optiga-trust-m) - Linux tools and examples for OPTIGA™ Trust V1/V3 security solution
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [rustls/rustls-ffi](https://github.com/rustls/rustls-ffi) - Use Rustls from any language
 - [josephernest/nfreezer](https://github.com/josephernest/nfreezer) - nFreezer is an encrypted-at-rest backup tool.
@@ -4023,7 +4023,6 @@
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [nova-labs/watto](https://github.com/nova-labs/watto) - wautils2: Rails app for wautils.nova-labs.org
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise your Go program runtime metrics in real time in the browser
 - [WerWolv/PatternLanguage](https://github.com/WerWolv/PatternLanguage) - The Pattern Language used by the ImHex Hex Editor
@@ -4188,6 +4187,7 @@
 - [secrethub/secrethub-go](https://github.com/secrethub/secrethub-go) - Golang SDK for the SecretHub Secrets Management API
 - [ryceg/Eigengrau-s-Essential-Establishment-Generator](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator) - A town generator that is suitable for out of the box play in any fantasy TTRPG setting.
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
 - [RIOT-OS/RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
@@ -5956,6 +5956,7 @@
 
 ## linux 
 
+- [matyler/mtCellEdit](https://github.com/matyler/mtCellEdit) - Mark Tyler's Spreadsheet Program
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
 - [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
@@ -6013,7 +6014,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
-- [Infineon/linux-optiga-trust-m](https://github.com/Infineon/linux-optiga-trust-m) - Linux tools and examples for OPTIGA™ Trust M1/M3 security solution
+- [Infineon/linux-optiga-trust-m](https://github.com/Infineon/linux-optiga-trust-m) - Linux tools and examples for OPTIGA™ Trust V1/V3 security solution
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
 - [alemar11/Mechanica](https://github.com/alemar11/Mechanica) - A cross-platform library of Swift utils to ease your iOS | macOS | watchOS | tvOS and Linux development.
 - [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
@@ -7566,6 +7567,7 @@
 
 ## others 
 
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [nobuyuki83/floor_plan](https://github.com/nobuyuki83/floor_plan) - 
 - [Harvie/cnc-simulator](https://github.com/Harvie/cnc-simulator) - In-browser g-code simulator
 - [Gadgetoid/pi400kb](https://github.com/Gadgetoid/pi400kb) - Raw HID keyboard forwarder to turn the Pi 400 into a USB keyboard
