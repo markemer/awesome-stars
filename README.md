@@ -2498,7 +2498,7 @@
 - [zix99/rare](https://github.com/zix99/rare) - Create console histograms, bar graphs, tables, heatmaps and more in realtime using regex and expressions.
 - [cirruslabs/packer-plugin-tart](https://github.com/cirruslabs/packer-plugin-tart) - Packer builder for Tart VMs
 - [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) - CLI for executing Cirrus tasks locally and in any CI
-- [brimdata/zed](https://github.com/brimdata/zed) - A novel data lake based on super-structured data
+- [brimdata/super](https://github.com/brimdata/super) - A novel data lake based on super-structured data
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [ClickSend/clicksend-go](https://github.com/ClickSend/clicksend-go) - ClickSend Go SDK
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux
@@ -2565,7 +2565,7 @@
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub & GitLab
 - [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
 - [DSpeichert/netbootd](https://github.com/DSpeichert/netbootd) - Lightweight network boot/install server (DHCP, TFTP, HTTP)
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - An agent to enable remote management of your EC2 instances, on-premises servers, or virtual machines (VMs).
 - [libdns/libdns](https://github.com/libdns/libdns) - Core interfaces for universal DNS record manipulation across providers
 - [googleapis/gapic-generator-go](https://github.com/googleapis/gapic-generator-go) - Generate Go API client libraries from Protocol Buffers.
@@ -4371,6 +4371,7 @@
 
 ## Jupyter Notebook 
 
+- [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based PDF chunking
 - [tonykipkemboi/ollama_pdf_rag](https://github.com/tonykipkemboi/ollama_pdf_rag) - A demo Jupyter Notebook showcasing a simple local RAG (Retrieval Augmented Generation) pipeline to chat with your PDFs.
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
 - [flaport/sax](https://github.com/flaport/sax) - S + Autograd + XLA :: S-parameter based frequency domain circuit simulations and optimizations using JAX.
@@ -4667,6 +4668,7 @@
 
 ## OCaml 
 
+- [NyuB/ocli](https://github.com/NyuB/ocli) - Mini elm-inspired framework for Ocaml CLI applications
 - [panglesd/slipshow](https://github.com/panglesd/slipshow) - An engine for displaying slips, the next-gen version of slides
 - [mirage/ocaml-tar](https://github.com/mirage/ocaml-tar) - Pure OCaml library to read and write tar files
 - [ocsigen/lwt](https://github.com/ocsigen/lwt) - OCaml promises and concurrent I/O
@@ -5264,6 +5266,8 @@
 
 ## Others 
 
+- [TechxArtisanStudio/Openterface_Mini-KVM_Hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware) - Openterface Mini-KVM:  Hardware Design, Schematics and Components
+- [azonenberg/dumptruck](https://github.com/azonenberg/dumptruck) - FPGA based dumper for flashes and more
 - [pdaderko/16702B](https://github.com/pdaderko/16702B) - HP/Agilent 16702B (and other 16xxx) logic analyzer related stuff
 - [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - Collection of resources about Virtualization
 - [microsoftarchive/msdn-code-gallery-microsoft](https://github.com/microsoftarchive/msdn-code-gallery-microsoft) - Samples from Microsoft teams for the MSDN Code Gallery
@@ -5993,6 +5997,8 @@
 
 ## PHP 
 
+- [roots/wp-password-bcrypt](https://github.com/roots/wp-password-bcrypt) - WordPress plugin to implement secure bcrypt hashed passwords
+- [vinkla/headache](https://github.com/vinkla/headache) - An easy-to-swallow painkiller plugin for WordPress
 - [Part-DB/Part-DB-server](https://github.com/Part-DB/Part-DB-server) - Part-DB is an Open source inventory management system for your electronic components
 - [nilovelez/machete](https://github.com/nilovelez/machete) - Machete is a simple suite of tools that solve common WordPress annoyances using as few resources as posible. Machete doesn't cover every single user case, but there is a huge amount of sites that woul
 - [luehrsenheinrich/wpm-citations](https://github.com/luehrsenheinrich/wpm-citations) - This WordPress Plugin introduces advanced citation capabilities to the WordPress Block Editor.
@@ -6193,6 +6199,9 @@
 
 ## Python 
 
+- [Mr-FuzzyPenguin/manim-circuit](https://github.com/Mr-FuzzyPenguin/manim-circuit) - 
+- [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - 
+- [lifeiteng/OmniSenseVoice](https://github.com/lifeiteng/OmniSenseVoice) - Omni SenseVoice: High-Speed Speech Recognition with words timestamps 🗣️🎯
 - [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
 - [creativecommons/licensebuttons](https://github.com/creativecommons/licensebuttons) - Creative Commons badges, license Buttons, etc.
 - [kiswitch/kiswitch](https://github.com/kiswitch/kiswitch) - Footprints for popular keyboard switches
@@ -8036,6 +8045,7 @@
 
 ## Shell 
 
+- [anandslab/docker-traefik](https://github.com/anandslab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [qt/qt5](https://github.com/qt/qt5) - Qt5 super module
 - [ph202107/nordlist](https://github.com/ph202107/nordlist) - Bash script to use with the NordVPN Linux CLI.
@@ -8366,6 +8376,7 @@
 
 ## Swift 
 
+- [kvyatkovskys/KVKCalendar](https://github.com/kvyatkovskys/KVKCalendar) - A most fully customization calendar for Apple platforms 📅
 - [pointfreeco/swift-url-routing](https://github.com/pointfreeco/swift-url-routing) - A bidirectional router with more type safety and less fuss.
 - [mergesort/Anchorman](https://github.com/mergesort/Anchorman) - An autolayout library for the damn fine citizens of San Diego.
 - [mergesort/TypedNotifications](https://github.com/mergesort/TypedNotifications) - A mechanism for sending typed notifications with payloads across your iOS app.
@@ -9982,6 +9993,7 @@
 
 ## TypeScript 
 
+- [Khan/perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's exercise question editor and renderer.
 - [mvasilkov/board2024](https://github.com/mvasilkov/board2024) - King Thirteen for js13kGames–2024: Triskaidekaphobia
 - [js13kGames/king-thirteen](https://github.com/js13kGames/king-thirteen) - King Thirteen - a js13kGames 2024 competition entry by @mvasilkov.
 - [KevinBatdorf/code-block-pro](https://github.com/KevinBatdorf/code-block-pro) - A Gutenberg code block with syntax highlighting powered by VS Code
