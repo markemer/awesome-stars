@@ -305,6 +305,7 @@
 
 ## C 
 
+- [rtr989/Agilent-16700-FFT](https://github.com/rtr989/Agilent-16700-FFT) - 
 - [shibatch/sleef](https://github.com/shibatch/sleef) - SIMD Library for Evaluating Elementary Functions, vectorized libm and DFT
 - [orklann/hvf-examples](https://github.com/orklann/hvf-examples) - Hypervisor Framework examples
 - [opensource-apple/cctools](https://github.com/opensource-apple/cctools) - 
@@ -1227,7 +1228,7 @@
 - [ME3Tweaks/LegendaryExplorer](https://github.com/ME3Tweaks/LegendaryExplorer) - Editor toolset for Mass Effect Trilogy and Mass Effect Legendary Edition
 - [microsoft/scalar](https://github.com/microsoft/scalar) - Scalar: A set of tools and extensions for Git to allow very large monorepos to run on Git without a virtualization layer
 - [microsoft/Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [WolvenKit/CP77Tools](https://github.com/WolvenKit/CP77Tools) - Cyberpunk2077 archive modding tools.
 - [WolvenKit/WolvenKit](https://github.com/WolvenKit/WolvenKit) - Community Mod editor/creator for REDengine games.
 - [MiloszKrajewski/K4os.Compression.LZ4](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) - LZ4/LH4HC compression for .NET Standard 1.6/2.0 (formerly known as lz4net)
@@ -1308,6 +1309,7 @@
 
 ## C++ 
 
+- [JohnDTill/Forscape](https://github.com/JohnDTill/Forscape) - Scientific computing language
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [shibatch/tlfloat](https://github.com/shibatch/tlfloat) - Template library for floating point operations
 - [ra3xdh/qucsator_rf](https://github.com/ra3xdh/qucsator_rf) - Qucsator-RF is RF circuit simulation kernel for Qucs-S
@@ -1907,7 +1909,7 @@
 - [google/butteraugli](https://github.com/google/butteraugli) - butteraugli estimates the psychovisual difference between two images
 - [solarus-games/solarus](https://github.com/solarus-games/solarus) - This repository was moved to GitLab: https://gitlab.com/solarus-games/solarus
 - [herumi/fmath](https://github.com/herumi/fmath) - fast log and exp functions for x86/x64 SSE
-- [herumi/xbyak](https://github.com/herumi/xbyak) - a JIT assembler for x86(IA-32)/x64(AMD64, x86-64) MMX/SSE/SSE2/SSE3/SSSE3/SSE4/FPU/AVX/AVX2/AVX-512 by C++ header
+- [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting MMX, SSE (1-4), AVX (1-2, 512), FPU, APX, and AVX10.2
 - [sampsyo/llvm-pass-skeleton](https://github.com/sampsyo/llvm-pass-skeleton) - example LLVM pass
 - [includeos/IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
@@ -6896,7 +6898,6 @@
 - [ptresearch/unME11](https://github.com/ptresearch/unME11) - Intel ME 11.x Firmware Images Unpacker
 - [ajdavis/proporti.onl](https://github.com/ajdavis/proporti.onl) - Compare number of women, men, and nonbinary people among my friends and followers.
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
-- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [ollix/svg2nvg](https://github.com/ollix/svg2nvg) - A tool for converting SVG files to nanovg source code
 - [neozhaoliang/pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
@@ -7950,6 +7951,7 @@
 - [koute/stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
 - [sekey/sekey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication!
 - [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [rusticata/rusticata](https://github.com/rusticata/rusticata) - Rusticata: Rust parsers for Suricata (test code)
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
@@ -9993,6 +9995,7 @@
 
 ## TypeScript 
 
+- [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
 - [Khan/perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's exercise question editor and renderer.
 - [mvasilkov/board2024](https://github.com/mvasilkov/board2024) - King Thirteen for js13kGames–2024: Triskaidekaphobia
 - [js13kGames/king-thirteen](https://github.com/js13kGames/king-thirteen) - King Thirteen - a js13kGames 2024 competition entry by @mvasilkov.
