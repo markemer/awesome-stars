@@ -1713,6 +1713,7 @@
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [macmade/xasm65](https://github.com/macmade/xasm65) - A MOS 6502 assembler/disassembler written in Swift.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [FlineDev/BartyCrouch](https://github.com/FlineDev/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -1792,7 +1793,7 @@
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [kaitai-io/kaitai_struct_compiler](https://github.com/kaitai-io/kaitai_struct_compiler) - Kaitai Struct: compiler to translate .ksy =&gt; .cpp / .cs / .dot / .go / .java / .js / .lua / .nim / .php / .pm / .py / .rb
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
@@ -3992,6 +3993,7 @@
 
 ## hacktoberfest 
 
+- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [kiswitch/kiswitch](https://github.com/kiswitch/kiswitch) - Footprints for popular keyboard switches
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [chef/ohai](https://github.com/chef/ohai) - Ohai profiles your system and emits JSON
@@ -4738,7 +4740,7 @@
 - [fastlane-community/trainer](https://github.com/fastlane-community/trainer) - Convert xcodebuild plist and xcresult files to JUnit reports
 - [weitieda/bottom-sheet](https://github.com/weitieda/bottom-sheet) - ⬆️ A SwiftUI view component sliding in from bottom
 - [guoyingtao/Mantis](https://github.com/guoyingtao/Mantis) - An iOS Image cropping library, which mimics the Photo App written in Swift.
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [EndouMari/TabPageViewController](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view
 - [kickstarter/ios-oss](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 - [hot3eed/xpcspy](https://github.com/hot3eed/xpcspy) - Bidirectional XPC message interception and more. Powered by Frida
@@ -5310,6 +5312,7 @@
 
 ## javascript 
 
+- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [js13kGames/king-thirteen](https://github.com/js13kGames/king-thirteen) - King Thirteen - a js13kGames 2024 competition entry by @mvasilkov.
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
@@ -6270,6 +6273,7 @@
 - [geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac) - Collection of macOS automation tools for Ansible.
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide) - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Sili
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [lyndsey-ferguson/fastlane-plugin-test_center](https://github.com/lyndsey-ferguson/fastlane-plugin-test_center) - 🎯 The best fastlane plugin to understand and tame misbehaving iOS tests 🎉
 - [macmade/DSStoreView](https://github.com/macmade/DSStoreView) - .DS_Store file parser/viewer.
 - [macmade/IOBrowser](https://github.com/macmade/IOBrowser) - A macOS application for browsing the IOKit registry.
@@ -6496,7 +6500,7 @@
 - [cirruslabs/packer-plugin-tart](https://github.com/cirruslabs/packer-plugin-tart) - Packer builder for Tart VMs
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [scottrhoyt/SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) - A lightweight library for generating text tables.
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [trilemma-dev/SecureXPC](https://github.com/trilemma-dev/SecureXPC) - A simple and secure XPC framework for Swift
 - [dagronf/DSFDockTile](https://github.com/dagronf/DSFDockTile) - Easily display images, animations, badges and alerts to your macOS application's dock icon
 - [FabrizioBrancati/Queuer](https://github.com/FabrizioBrancati/Queuer) - Queuer is a queue manager, built on top of OperationQueue and Dispatch (aka GCD).
@@ -7205,6 +7209,7 @@
 
 ## nodejs 
 
+- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [nodejs/nan](https://github.com/nodejs/nan) - Native Abstractions for Node.js
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -7456,7 +7461,7 @@
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -7602,6 +7607,9 @@
 
 ## others 
 
+- [cookiengineer/cookie.engineer](https://github.com/cookiengineer/cookie.engineer) - My portfolio, for the lulz and interwebz. Not for 4/8 chan though.
+- [ZuluSCSI/ZuluSCSI-firmware](https://github.com/ZuluSCSI/ZuluSCSI-firmware) - Firmware for the ZuluSCSI advanced SCSI emulator
+- [fhdm-dev/scoppy](https://github.com/fhdm-dev/scoppy) - Use your Rasperry Pi Pico and Android Phone as an Oscilloscope and Logic Analyzer
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
 - [LinuxCNC/simple-gcode-generators](https://github.com/LinuxCNC/simple-gcode-generators) - Simple LinuxCNC G-Code Generators written in Python
 - [hudbrog/gCodeViewer](https://github.com/hudbrog/gCodeViewer) - a visual web based gcode analyzer
@@ -8018,7 +8026,7 @@
 - [IanKeen/MacroKit](https://github.com/IanKeen/MacroKit) - Exploring Swifts new macro system
 - [Norbyte/bg3se](https://github.com/Norbyte/bg3se) - Baldur's Gate 3 Script Extender
 - [groue/Semaphore](https://github.com/groue/Semaphore) - A Synchronization Primitive for Swift Concurrency
-- [koute/polkavm](https://github.com/koute/polkavm) - A fast and secure RISC-V based virtual machine
+- [paritytech/polkavm](https://github.com/paritytech/polkavm) - A fast and secure RISC-V based virtual machine
 - [icanzilb/LogRider](https://github.com/icanzilb/LogRider) - Logs viewer app for mac
 - [adamwulf/Inkable](https://github.com/adamwulf/Inkable) - 
 - [macmade/MOS-6502-Tests](https://github.com/macmade/MOS-6502-Tests) - Test Suite for the MOS 6502 CPU
@@ -10575,7 +10583,6 @@
 - [Dyalog/MiServer](https://github.com/Dyalog/MiServer) - MiServer- an APL-based web server - requires Dyalog APL available from http://www.dyalog.com
 - [eduardsui/tlse](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library
 - [lammertb/libhttp](https://github.com/lammertb/libhttp) - Multi platform HTTP and HTTPS library
-- [logancollins/Mocha](https://github.com/logancollins/Mocha) - Objective-C / JavaScript Bridge and Scripting Environment
 - [onekiloparsec/KPCTabsControl](https://github.com/onekiloparsec/KPCTabsControl) - A macOS control for tabs with enhanced capabilities, and styles: Safari, Chrome and custom ones.
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
 - [divan/depscheck](https://github.com/divan/depscheck) - Dependency checker for Golang (Go) packages. Prints stats and suggests to remove small LeftPad-like imports if any.
@@ -15377,7 +15384,7 @@
 - [weitieda/bottom-sheet](https://github.com/weitieda/bottom-sheet) - ⬆️ A SwiftUI view component sliding in from bottom
 - [guoyingtao/Mantis](https://github.com/guoyingtao/Mantis) - An iOS Image cropping library, which mimics the Photo App written in Swift.
 - [ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [trilemma-dev/SecureXPC](https://github.com/trilemma-dev/SecureXPC) - A simple and secure XPC framework for Swift
 - [MaxDesiatov/Hleeb](https://github.com/MaxDesiatov/Hleeb) - Swift running on bare metal Raspberry Pi
 - [uber/mockolo](https://github.com/uber/mockolo) - Efficient Mock Generator for Swift
@@ -16109,7 +16116,7 @@
 - [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide) - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Sili
 - [weitieda/bottom-sheet](https://github.com/weitieda/bottom-sheet) - ⬆️ A SwiftUI view component sliding in from bottom
 - [guoyingtao/Mantis](https://github.com/guoyingtao/Mantis) - An iOS Image cropping library, which mimics the Photo App written in Swift.
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [dagronf/DSFDockTile](https://github.com/dagronf/DSFDockTile) - Easily display images, animations, badges and alerts to your macOS application's dock icon
 - [nmandica/DirectedGraph](https://github.com/nmandica/DirectedGraph) - SwiftUI package for displaying directed graphs
 - [ZeeZide/CodeEditor](https://github.com/ZeeZide/CodeEditor) - A SwiftUI TextEditor with syntax highlighting using Highlight.js
@@ -16916,6 +16923,7 @@
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII) - Re-write of Injection for Xcode in (mostly) Swift
 - [marcosgriselli/SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [uber/mockolo](https://github.com/uber/mockolo) - Efficient Mock Generator for Swift
 - [spotify/XCMetrics](https://github.com/spotify/XCMetrics) - XCMetrics is the easiest way to collect Xcode build metrics and improve developer productivity.
 - [paulz/PerspectiveTransform](https://github.com/paulz/PerspectiveTransform) - Calculate CATransform3D between two Perspectives
