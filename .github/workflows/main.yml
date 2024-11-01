@@ -19,12 +19,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install starred
     - name: update repo category by language
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository 'awesome-stars' --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by language update by github actions cron, created by starred'
+      run: starred --username ${{ github.repository_owner }} --repository 'awesome-stars' --sort --token ${{ secrets.GITHUB_TOKEN }} --message 'awesome-stars category by language update by github actions cron, created by starred'
     - name: update repo category by topic
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository 'awesome-stars' --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md
+      run: starred --username ${{ github.repository_owner }} --repository 'awesome-stars' --sort --token ${{ secrets.GITHUB_TOKEN }} --message 'awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md
