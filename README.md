@@ -604,7 +604,7 @@
 - [QB64Team/qb64](https://github.com/QB64Team/qb64) - BASIC for the modern era.
 - [k06a/Cliple](https://github.com/k06a/Cliple) - Simple clipboard manage app for Mac OS X
 - [MalphasWats/hawk](https://github.com/MalphasWats/hawk) - Tutorial for making an ARM dev board in KiCAD
-- [Infineon/optiga-trust-m](https://github.com/Infineon/optiga-trust-m) - OPTIGA™ Trust M Software Framework
+- [Infineon/optiga-trust-m](https://github.com/Infineon/optiga-trust-m) - OPTIGA™ Trust M Host Library for C
 - [jhelvy/qmkJsonConverter](https://github.com/jhelvy/qmkJsonConverter) - R code to convert the .json file from the QMK configurator into a keymap.c file
 - [minosproject/minos](https://github.com/minosproject/minos) - Flexible Virtualization Solution for Embedded System
 - [ARMmbed/DAPLink](https://github.com/ARMmbed/DAPLink) - 
@@ -3098,7 +3098,6 @@
 - [riderx/awesome-capacitor](https://github.com/riderx/awesome-capacitor) - 😎 Awesome lists of capacitor plugins.
 - [luigimannoni/stadia-controller-flasher](https://github.com/luigimannoni/stadia-controller-flasher) - Utility for flashing Stadia Controllers
 - [solderparty/bbq20kbd_hw](https://github.com/solderparty/bbq20kbd_hw) - 
-- [eez-open/modular-psu](https://github.com/eez-open/modular-psu) - EEZ Bench Box 3 (BB3) Modular T&M chassis
 - [CRImier/NGFF](https://github.com/CRImier/NGFF) - M.2 NGFF接口标准
 - [xyphro/UsbGpib](https://github.com/xyphro/UsbGpib) - Versatile, cheap and portable USB to GPIB converter (USBTMC class based)
 - [amazonlinux/amazon-linux-2023](https://github.com/amazonlinux/amazon-linux-2023) - Amazon Linux 2023
@@ -3726,7 +3725,6 @@
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
 - [rdeprey/web-bluetooth-starter](https://github.com/rdeprey/web-bluetooth-starter) - This is a simple React starter app that uses the Web Bluetooth API to get battery level information from a BLE device through the browser.
-- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
@@ -4416,6 +4414,7 @@
 - [GenieFramework/StippleUI.jl](https://github.com/GenieFramework/StippleUI.jl) - StippleUI is a library of reactive UI elements for Stipple.jl.
 - [JuliaPluto/PlutoUI.jl](https://github.com/JuliaPluto/PlutoUI.jl) - 
 - [microsoft/OpticSim.jl](https://github.com/microsoft/OpticSim.jl) - Optical Simulation software
+- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [JuliaML/MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) - Utility package for accessing common Machine Learning datasets in Julia
 - [BioJulia/BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) - A Julia package to read, write and manipulate macromolecular structures
 - [JunoLab/Atom.jl](https://github.com/JunoLab/Atom.jl) - Julia Client for Atom
@@ -5335,6 +5334,7 @@
 
 ## Others 
 
+- [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
 - [joelparkerhenderson/github-special-files-and-paths](https://github.com/joelparkerhenderson/github-special-files-and-paths) - GitHub special files and paths, such as README, LICENSE, .github, docs, dependabot, workflows.
 - [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) - A curated list of awesome embedded programming.
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
@@ -8518,6 +8518,7 @@
 
 ## Swift 
 
+- [Adyen/adyen-swift-public-api-diff](https://github.com/Adyen/adyen-swift-public-api-diff) - This tool allows comparing 2 versions of a swift (sdk) project and lists all changes in a human readable way.
 - [TechxArtisanStudio/Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS) - Openterface MacOS App source code
 - [ninxsoft/Kmart](https://github.com/ninxsoft/Kmart) - A Mac command-line tool that generates kick-ass Jamf Pro reports.
 - [ninxsoft/LowProfile](https://github.com/ninxsoft/LowProfile) - A Mac utility to help inspect Apple Configuration Profile payloads.
@@ -10265,6 +10266,7 @@
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.
 - [jgm/djot.js](https://github.com/jgm/djot.js) - JavaScript implementation of djot
+- [eez-open/modular-psu](https://github.com/eez-open/modular-psu) - EEZ Bench Box 3 (BB3) Modular T&M chassis
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [lezer-parser/markdown](https://github.com/lezer-parser/markdown) - A lezer-integrated Markdown parser
