@@ -2439,6 +2439,7 @@
 
 ## Go 
 
+- [ahalbert/ted](https://github.com/ahalbert/ted) - A tool for editing files according to the rules of a provided Turing Machine
 - [0x6flab/namegenerator](https://github.com/0x6flab/namegenerator) - namegenerator is a Golang package that provides a simple yet powerful tool for generating human-readable and pronounceable random names.
 - [digitalocean/godo](https://github.com/digitalocean/godo) - DigitalOcean Go API client
 - [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
@@ -5334,6 +5335,7 @@
 
 ## Others 
 
+- [piecol/CM5_MINIMA_REV1](https://github.com/piecol/CM5_MINIMA_REV1) - CM5 LoRaWAN carrier board in a compact, feature-filled footprint
 - [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
 - [joelparkerhenderson/github-special-files-and-paths](https://github.com/joelparkerhenderson/github-special-files-and-paths) - GitHub special files and paths, such as README, LICENSE, .github, docs, dependabot, workflows.
 - [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) - A curated list of awesome embedded programming.
@@ -7132,6 +7134,7 @@
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
 - [Reflejo/ib-unfuck-git](https://github.com/Reflejo/ib-unfuck-git) - 
 - [inveniosoftware/invenio](https://github.com/inveniosoftware/invenio) - Invenio digital library framework
+- [cernopendata/opendata.cern.ch](https://github.com/cernopendata/opendata.cern.ch) - Source code for the CERN Open Data portal
 - [dropbox/mdwebhook](https://github.com/dropbox/mdwebhook) - A sample app that uses webhooks to convert Markdown files to HTML.
 - [vitalyrodnenko/geeknote](https://github.com/vitalyrodnenko/geeknote) - Console client for Evernote.
 - [MacPython/terryfy](https://github.com/MacPython/terryfy) - Utilities for testing OSX on travis-ci.org
@@ -8423,7 +8426,6 @@
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [davidfsmith/AWS-OmniGraffle-Stencils](https://github.com/davidfsmith/AWS-OmniGraffle-Stencils) - OmniGraffle stencils for Amazon Web Services
 - [neonichu/swift-buildpack](https://github.com/neonichu/swift-buildpack) - Heroku buildpack for Swift
-- [cernopendata/opendata.cern.ch](https://github.com/cernopendata/opendata.cern.ch) - Source code for the CERN Open Data portal
 - [hashicorp/atlas-packer-vagrant-tutorial](https://github.com/hashicorp/atlas-packer-vagrant-tutorial) - Packer configuration for the Atlas Packer Vagrant Tutorial
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [weaveworks-guides/weave-net-legacy](https://github.com/weaveworks-guides/weave-net-legacy) - Weave Net Old Guides
@@ -8518,6 +8520,8 @@
 
 ## Swift 
 
+- [nathantannar4/Engine](https://github.com/nathantannar4/Engine) - Engine makes it easier to create idiomatic APIs and Views that feel natural in SwiftUI without sacrificing performance
+- [drewmccormack/Forked](https://github.com/drewmccormack/Forked) - Manage concurrent access to shared resources in Swift with complete confidence.
 - [Adyen/adyen-swift-public-api-diff](https://github.com/Adyen/adyen-swift-public-api-diff) - This tool allows comparing 2 versions of a swift (sdk) project and lists all changes in a human readable way.
 - [TechxArtisanStudio/Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS) - Openterface MacOS App source code
 - [ninxsoft/Kmart](https://github.com/ninxsoft/Kmart) - A Mac command-line tool that generates kick-ass Jamf Pro reports.
@@ -10124,7 +10128,7 @@
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
 - [Witiko/markdown](https://github.com/Witiko/markdown) - :notebook_with_decorative_cover: A package for converting and rendering markdown documents in TeX
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
-- [clever-algorithms/CleverAlgorithms](https://github.com/clever-algorithms/CleverAlgorithms) - Clever Algorithms: Nature-Inspired Programming Recipes
+- [Jason2Brownlee/CleverAlgorithms](https://github.com/Jason2Brownlee/CleverAlgorithms) - Clever Algorithms: Nature-Inspired Programming Recipes
 - [patmorin/ods](https://github.com/patmorin/ods) - Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [sswatson/julia-in-tex](https://github.com/sswatson/julia-in-tex) - My setup for running Julia code inside a TeX document
@@ -10167,7 +10171,7 @@
 - [llvm/vscode-lldb](https://github.com/llvm/vscode-lldb) - 
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [microsoft/ts-gyb](https://github.com/microsoft/ts-gyb) - Generating native code interfaces from TypeScript
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
 - [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 500+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!
@@ -10340,7 +10344,7 @@
 - [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [dungeon-revealer/dungeon-revealer](https://github.com/dungeon-revealer/dungeon-revealer) - A web app for tabletop gaming to allow the game master to reveal areas of the game map to players, roll dice and take notes.
-- [bangle-io/bangle-editor](https://github.com/bangle-io/bangle-editor) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
+- [bangle-io/banger-editor](https://github.com/bangle-io/banger-editor) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [ephread/ink-language-server](https://github.com/ephread/ink-language-server) - A language server for inkle's Ink.
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
