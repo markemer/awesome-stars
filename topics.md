@@ -297,7 +297,7 @@
 - [Macad3D/Macad3D](https://github.com/Macad3D/Macad3D) - Free and OpenSource 3D Construction Tool
 - [CadQuery/CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT
 - [tpaviot/oce](https://github.com/tpaviot/oce) - OpenCASCADE Community Edition (OCE): a community driven fork of the Open CASCADE library.
-- [partcad/partcad](https://github.com/partcad/partcad) - The first package manager for hardware: design modularly, build efficiently, and reuse hardware designs like never before.
+- [partcad/partcad](https://github.com/partcad/partcad) - The first package manager for hardware: design for manufacturing, design modularly, build efficiently, and reuse hardware designs like never before.
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
@@ -2491,7 +2491,7 @@
 ## design 
 
 - [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 - [willowtreeapps/spruce-ios](https://github.com/willowtreeapps/spruce-ios) - Swift library for choreographing animations on the screen.
 - [softhausHQ/CircleBar](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
@@ -2603,7 +2603,7 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [dockur/windows-arm](https://github.com/dockur/windows-arm) - Windows for ARM in a Docker container.
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
-- [anandslab/docker-traefik](https://github.com/anandslab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
+- [SimpleHomelab/docker-traefik](https://github.com/SimpleHomelab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -3766,6 +3766,7 @@
 
 ## golang 
 
+- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [digitalocean/godo](https://github.com/digitalocean/godo) - DigitalOcean Go API client
 - [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services.
@@ -5722,6 +5723,7 @@
 
 ## json 
 
+- [spdx/license-list-data](https://github.com/spdx/license-list-data) - Various data formats for the SPDX License List including RDFa, HTML, Text, and JSON
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [atenfyr/UAssetAPI](https://github.com/atenfyr/UAssetAPI) - A low-level .NET library for reading and writing Unreal Engine game assets.
 - [atenfyr/UAssetGUI](https://github.com/atenfyr/UAssetGUI) - A tool designed for low-level examination and modification of Unreal Engine game assets by hand.
@@ -5966,7 +5968,7 @@
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
@@ -6160,7 +6162,7 @@
 - [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the 
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.9+) and Qt 5 (5.15) for cros
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) - An open Apple Wireless Direct Link (AWDL) implementation written in C
 - [savagezen/dnd-tools](https://github.com/savagezen/dnd-tools) - ARCHIVE - MOVED TO GITLAB | Interactive CLI tools for Dungeons and Dragons 5e
@@ -6675,7 +6677,7 @@
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [SwiftyBeaver/SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient & secure logging during development & release in Swift 4 & 5
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.9+) and Qt 5 (5.15) for cros
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [CoreOffice/CoreXLSX](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format parser written in pure Swift
 - [billp/TermiNetwork](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
@@ -7736,6 +7738,10 @@
 
 ## others 
 
+- [ionic-team/capacitor-privacy-screen](https://github.com/ionic-team/capacitor-privacy-screen) - The Privacy Screen plugin provides functionality to prevent sensitive information from being visible in app switchers and when leaving an app.
+- [simonask/werk](https://github.com/simonask/werk) - Simplistic command runner and build system
+- [Xilinx/u-boot-xlnx](https://github.com/Xilinx/u-boot-xlnx) - The official Xilinx u-boot repository
+- [r-follador/CubeTrek](https://github.com/r-follador/CubeTrek) - Home for all your GPS Tracks: Visualize, share and manage your GPS tracks.
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [dgibson/dtc](https://github.com/dgibson/dtc) - Device Tree Compiler
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
@@ -13694,6 +13700,7 @@
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [agentejo/cockpit](https://github.com/agentejo/cockpit) - Add content management functionality to any site - plug & play / headless / api-first CMS
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker) - Docker container for Caddy
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -13769,6 +13776,7 @@
 
 ## powershell 
 
+- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
 - [fstudio/clangbuilder](https://github.com/fstudio/clangbuilder) - Building Clang ♡ Utility and Environment
@@ -13889,7 +13897,7 @@
 - [circuitgraph/circuitgraph](https://github.com/circuitgraph/circuitgraph) - Tools for working with circuits as graphs in python
 - [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a module that extends Python with the ability to design electronic circuits.
 - [CadQuery/CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT
-- [partcad/partcad](https://github.com/partcad/partcad) - The first package manager for hardware: design modularly, build efficiently, and reuse hardware designs like never before.
+- [partcad/partcad](https://github.com/partcad/partcad) - The first package manager for hardware: design for manufacturing, design modularly, build efficiently, and reuse hardware designs like never before.
 - [cocotb/cocotb](https://github.com/cocotb/cocotb) - cocotb, a coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
 - [fabriziotappero/opencores-scraper](https://github.com/fabriziotappero/opencores-scraper) - few python scripts to clone all IP cores from opencores.org
 - [ben-marshall/awesome-open-hardware-verification](https://github.com/ben-marshall/awesome-open-hardware-verification) - A List of Free and Open Source Hardware Verification Tools and Frameworks
@@ -13961,7 +13969,7 @@
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [damienBloch/inkscape-raytracing](https://github.com/damienBloch/inkscape-raytracing) - An extension for Inkscape that makes it easier to draw optical diagrams.
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.9+) and Qt 5 (5.15) for cros
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [adafruit/circuitpython](https://github.com/adafruit/circuitpython) - CircuitPython - a Python implementation for teaching coding with microcontrollers
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [inducer/meshpy](https://github.com/inducer/meshpy) - 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
@@ -14428,7 +14436,7 @@
 - [dfederspiel/ti-sprite-maker](https://github.com/dfederspiel/ti-sprite-maker) - Visual HEX encoder for ASCII character mapping on the TI-99/4A
 - [srt4rulez/fallout-new-vegas-interactive-map](https://github.com/srt4rulez/fallout-new-vegas-interactive-map) - An interactive map of the Mojave Wasteland in Fallout: New Vegas.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [Automattic/jetpack](https://github.com/Automattic/jetpack) - Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
@@ -15225,6 +15233,7 @@
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [sandstorm-io/vagrant-spk](https://github.com/sandstorm-io/vagrant-spk) - Packaging tool for Sandstorm, a self-hosting platform for web apps!
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -15384,7 +15393,7 @@
 
 ## sketch 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 - [alexkaessner/macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) - :gem: The most detailed and accurate macOS UI Kit for Sketch. This Sketch Library includes common Mac interface elements, cursors, and a Touch Bar UI Kit.
 - [skpm/skpm](https://github.com/skpm/skpm) - 💎📦  A utility to build and publish Sketch plugins
 - [skpm/sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) - See your plugin logs, inspect the state of Sketch documents, explore actions, and more!
@@ -15531,6 +15540,7 @@
 
 ## swift 
 
+- [swiftwasm/swift](https://github.com/swiftwasm/swift) - WebAssembly support for the Swift programming language
 - [nathantannar4/Engine](https://github.com/nathantannar4/Engine) - Engine makes it easier to create idiomatic APIs and Views that feel natural in SwiftUI without sacrificing performance
 - [Adyen/adyen-swift-public-api-diff](https://github.com/Adyen/adyen-swift-public-api-diff) - This tool allows comparing 2 versions of a swift (sdk) project and lists all changes in a human readable way.
 - [cgrindel/rules_swift_package_manager](https://github.com/cgrindel/rules_swift_package_manager) - Collection of utilities and Bazel rules to aid in the development and maintenance of Swift repositories using Bazel.
@@ -15986,7 +15996,6 @@
 - [henrinormak/Heimdall](https://github.com/henrinormak/Heimdall) - Heimdall is a wrapper around the Security framework for simple encryption/decryption operations.
 - [IBM-Swift/generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) - WARNING: This repository is no longer maintained
 - [tarunon/Instantiate](https://github.com/tarunon/Instantiate) - Type-safe and constructor injectable InterfaceBuilder protocols.
-- [swiftwasm/swift](https://github.com/swiftwasm/swift) - WebAssembly support for the Swift programming language
 - [g-mark/SwiftPath](https://github.com/g-mark/SwiftPath) - JSONPath for Swift
 - [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 - [Kitura/BlueRSA](https://github.com/Kitura/BlueRSA) - RSA public/private key encryption, private key signing and public key verification in Swift using the Swift Package Manager. Works on iOS, macOS, and Linux (work in progress).
@@ -17102,6 +17111,7 @@
 
 ## windows 
 
+- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [momo5502/emulator](https://github.com/momo5502/emulator) - 🪅 Windows User Space Emulator
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [dockur/windows-arm](https://github.com/dockur/windows-arm) - Windows for ARM in a Docker container.
@@ -17144,7 +17154,7 @@
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.9+) and Qt 5 (5.15) for cros
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -17220,7 +17230,7 @@
 
 - [splorp/wordpress-comment-blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
 - [roots/wp-password-bcrypt](https://github.com/roots/wp-password-bcrypt) - WordPress plugin to implement secure bcrypt hashed passwords
-- [anandslab/docker-traefik](https://github.com/anandslab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
+- [SimpleHomelab/docker-traefik](https://github.com/SimpleHomelab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [nilovelez/machete](https://github.com/nilovelez/machete) - Machete is a simple suite of tools that solve common WordPress annoyances using as few resources as posible. Machete doesn't cover every single user case, but there is a huge amount of sites that woul
 - [luehrsenheinrich/wpm-citations](https://github.com/luehrsenheinrich/wpm-citations) - This WordPress Plugin introduces advanced citation capabilities to the WordPress Block Editor.
 - [BinaryMoon/wp-toolbelt](https://github.com/BinaryMoon/wp-toolbelt) - A lightweight, multi-purpose, WordPress plugin with a focus on privacy and speed
