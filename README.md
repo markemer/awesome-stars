@@ -1511,7 +1511,7 @@
 - [wopss/RED4ext.SDK](https://github.com/wopss/RED4ext.SDK) - A library to create mods for REDengine 4 (Cyberpunk 2077), independently of RED4ext.
 - [psiberx/cp2077-archive-xl](https://github.com/psiberx/cp2077-archive-xl) - Cyberpunk 2077 mod that allows you to expand game resources without conflicts.
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
-- [simdutf/simdutf](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per second using SSE2, AVX2, NEON, AVX-512, RISC-V Vector Extension, LoongArch64. Part of Node.js, WebKit/Safari, Ladybird, Chr
+- [simdutf/simdutf](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per second using SSE2, AVX2, NEON, AVX-512, RISC-V Vector Extension, LoongArch64, POWER. Part of Node.js, WebKit/Safari, Ladybi
 - [ME3Tweaks/LEASIMods](https://github.com/ME3Tweaks/LEASIMods) - Repo for sharing ASI code between LE1/LE2/LE3 ASI plugins
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 - [msrst/interactive-8051-disassembler](https://github.com/msrst/interactive-8051-disassembler) - Interactive 8051 Dissassembler with GUI
@@ -1646,7 +1646,7 @@
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [llvm/circt](https://github.com/llvm/circt) - Circuit IR Compilers and Tools
-- [synfig/synfig](https://github.com/synfig/synfig) - This is the Official source code repository of the Synfig project
+- [synfig/synfig](https://github.com/synfig/synfig) - This is the Official source code repository of Synfig Studio animation software
 - [ispc/ispc](https://github.com/ispc/ispc) - Intel® Implicit SPMD Program Compiler
 - [YACReader/yacreader](https://github.com/YACReader/yacreader) - This repo contains the code of YACReader's desktop version.
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
@@ -2920,7 +2920,7 @@
 - [jedisct1/piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
 - [icecreammatt/hugo-gallery](https://github.com/icecreammatt/hugo-gallery) - A gallery generator for the Hugo static site generator
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
-- [1backend/1backend](https://github.com/1backend/1backend) - A common backend for your AI applications—microservices-based and built to scale.
+- [1backend/1backend](https://github.com/1backend/1backend) - A unified backend development platform for your AI applications—microservices-based and built to scale.
 - [aws-samples/lambda-go-samples](https://github.com/aws-samples/lambda-go-samples) - An example of using AWS Lambda with Go
 - [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
@@ -3091,6 +3091,7 @@
 
 ## HTML 
 
+- [SynBioDex/SBOL-visual](https://github.com/SynBioDex/SBOL-visual) - The reference implementation of the SBOL Visual standard
 - [spdx/license-list-data](https://github.com/spdx/license-list-data) - Various data formats for the SPDX License List including RDFa, HTML, Text, and JSON
 - [r-follador/CubeTrek](https://github.com/r-follador/CubeTrek) - Home for all your GPS Tracks: Visualize, share and manage your GPS tracks.
 - [Wheels35/CultoftheLamb](https://github.com/Wheels35/CultoftheLamb) - This is a collection of basic instructions for editing your unecrypted save game file.
@@ -5676,7 +5677,7 @@
 - [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
 - [bridgetkromhout/devops-against-humanity](https://github.com/bridgetkromhout/devops-against-humanity) - DevOps Against Humanity
 - [rtakehara/5e-Framework](https://github.com/rtakehara/5e-Framework) - A comprehensive 5th Edition Dungeons & Dragons Framework for MapTool.
-- [OldManUmby/DND.SRD.Wiki](https://github.com/OldManUmby/DND.SRD.Wiki) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
+- [oldmanumby/DND.SRD.Wiki](https://github.com/oldmanumby/DND.SRD.Wiki) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
 - [swift-server/sswg](https://github.com/swift-server/sswg) - Swift Server Working Group (SSWG)
 - [hengestone/lua-languages](https://github.com/hengestone/lua-languages) - Languages that compile to Lua
 - [zoom/zoom-sdk-macos](https://github.com/zoom/zoom-sdk-macos) - Zoom macOS SDK
@@ -6787,7 +6788,7 @@
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [benedekrozemberczki/awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - A collection of important graph embedding, classification and representation learning papers with implementations.
 - [jasbur/RaspiWiFi](https://github.com/jasbur/RaspiWiFi) - Headless WiFi configuration for the Raspberry Pi (or most other devices running Linux) by using a temporary WiFi access point and web interface
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [OblivionCloudControl/opvault](https://github.com/OblivionCloudControl/opvault) - Python library to access 1Password OPVault stores
 - [mhoogen/ML4QS](https://github.com/mhoogen/ML4QS) - Code belonging to the book machine learning for the quantified self.
@@ -7608,7 +7609,7 @@
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 - [nanoc/nanoc](https://github.com/nanoc/nanoc) - A powerful web publishing system
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [hanami/hanami](https://github.com/hanami/hanami) - The web, with simplicity.
+- [hanami/hanami](https://github.com/hanami/hanami) - A flexible framework for maintainable Ruby apps
 - [houndci/hound](https://github.com/houndci/hound) - Automated code review for GitHub pull requests.
 - [hakirisec/hakiri_toolbelt](https://github.com/hakirisec/hakiri_toolbelt) - Secure Ruby apps with Hakiri
 - [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
@@ -8489,7 +8490,7 @@
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [joshua/dotfiles](https://github.com/joshua/dotfiles) - conceitedly assertive and dogmatic dotfiles
 - [ridvank/UIImageViewWithWords](https://github.com/ridvank/UIImageViewWithWords) - Create UIImageView with words in Swift
-- [drduh/config](https://github.com/drduh/config) - Various program configuration files and scripts
+- [drduh/config](https://github.com/drduh/config) - Various configuration files and scripts
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [davidfsmith/AWS-OmniGraffle-Stencils](https://github.com/davidfsmith/AWS-OmniGraffle-Stencils) - OmniGraffle stencils for Amazon Web Services
@@ -10204,6 +10205,7 @@
 
 ## TeX 
 
+- [SynBioDex/SBOL-specification](https://github.com/SynBioDex/SBOL-specification) - The Synthetic Biology Open Language (SBOL)
 - [latex3/latex2e](https://github.com/latex3/latex2e) - The LaTeX2e kernel
 - [borisveytsman/nostarch](https://github.com/borisveytsman/nostarch) - LaTeX Style For No Starch Press
 - [AnMnv/eBook](https://github.com/AnMnv/eBook) - LaTeX book with examples, open-source eBook
