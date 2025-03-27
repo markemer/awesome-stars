@@ -300,6 +300,7 @@
 
 ## Blade 
 
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
 ## Bluespec 
@@ -312,6 +313,7 @@
 
 ## C 
 
+- [OpenBoardView/OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd files
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [joncampbell123/doslib](https://github.com/joncampbell123/doslib) - Hackipedia DOSLIB, a general collection of useful libraries for writing MS-DOS software
 - [merbanan/rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
@@ -944,7 +946,7 @@
 - [mjolnirapp/mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X
 - [dekuNukem/exixe](https://github.com/dekuNukem/exixe) - Miniature driver modules for IN-12 and IN-14 Nixie tubes
 - [ostreedev/ostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [psaghelyi/MachOView](https://github.com/psaghelyi/MachOView) - Apple Mach-O binary explorer.
 - [libexpat/libexpat](https://github.com/libexpat/libexpat) - :herb: Fast streaming XML parser written in C99 with &gt;90% test coverage; moved from SourceForge to GitHub
 - [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
@@ -1344,6 +1346,7 @@
 
 ## C++ 
 
+- [gnucap/gnucap](https://github.com/gnucap/gnucap) - gnucap mirror (read only)
 - [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) - Command and Conquer: Generals - Zero Hour
 - [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert
 - [electronicarts/CnC_Tiberian_Dawn](https://github.com/electronicarts/CnC_Tiberian_Dawn) - Command and Conquer Tiberian Dawn
@@ -2340,7 +2343,7 @@
 - [linuxserver/docker-grocy](https://github.com/linuxserver/docker-grocy) - A container for grocy - the ERP application for your kitchen https://grocy.info
 - [grocy/grocy-docker](https://github.com/grocy/grocy-docker) - ERP beyond your fridge - now containerized - this is the docker repo of https://github.com/grocy/grocy
 - [wajahatkarim3/hugo-on-fire](https://github.com/wajahatkarim3/hugo-on-fire) - 🔥 A Github Action to build a Hugo site and deploy it on Firebase Hosting.
-- [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple Win64 and Win32 applications on arm64 Linux
+- [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs Win64 and Win32 applications on arm64 Linux
 - [taki-on/swift_codespaces](https://github.com/taki-on/swift_codespaces) - Swift 5 in GitHub Codespaces
 - [Didstopia/SwiftAction](https://github.com/Didstopia/SwiftAction) - Swift support for GitHub Actions.
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
@@ -2418,6 +2421,7 @@
 
 ## Fortran 
 
+- [nwchemgit/nwchem](https://github.com/nwchemgit/nwchem) - NWChem: Open Source High-Performance Computational Chemistry
 - [mapmeld/fortran-machine](https://github.com/mapmeld/fortran-machine) - Finally a Fortran MVC web platform
 - [usnistgov/dataplot](https://github.com/usnistgov/dataplot) - Source code and auxiliary files for dataplot.
 - [fortran-lang/stdlib](https://github.com/fortran-lang/stdlib) - Fortran Standard Library
@@ -2454,6 +2458,8 @@
 
 ## Go 
 
+- [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) - Reference implementation of OpenPubkey
+- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
 - [znscli/zns](https://github.com/znscli/zns) - CLI tool for querying DNS records with readable, colored output.
 - [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers
 - [noperator/yknotify](https://github.com/noperator/yknotify) - Notify when YubiKey needs touch on macOS
@@ -2921,7 +2927,7 @@
 - [jedisct1/piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
 - [icecreammatt/hugo-gallery](https://github.com/icecreammatt/hugo-gallery) - A gallery generator for the Hugo static site generator
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
-- [1backend/1backend](https://github.com/1backend/1backend) - A unified backend development platform for microservices-based AI applications.
+- [1backend/1backend](https://github.com/1backend/1backend) - AI-native microservices platform.
 - [aws-samples/lambda-go-samples](https://github.com/aws-samples/lambda-go-samples) - An example of using AWS Lambda with Go
 - [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
@@ -3955,7 +3961,6 @@
 - [mathisonian/idyll-chartjs-example](https://github.com/mathisonian/idyll-chartjs-example) - Idyll chartjs example
 - [marcrobledo/savegame-editors](https://github.com/marcrobledo/savegame-editors) - A compilation of console savegame editors made with HTML5 technologies.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [dataliterate/data-populator](https://github.com/dataliterate/data-populator) - A plugin for Sketch and Adobe XD to populate your design mockups with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 - [josh-/automating-macOS-with-JXA-presentation](https://github.com/josh-/automating-macOS-with-JXA-presentation) - Slides & sample code from the "Automating macOS with Javascript for Automation" talk, given at the MelbJS meetup
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
@@ -4067,7 +4072,6 @@
 - [metbosch/homebridge-http-temperature](https://github.com/metbosch/homebridge-http-temperature) - HomeBridge HomeKit Plugin for HTTP temperature endpoints
 - [claudehohl/Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in PHP
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
-- [ulid/javascript](https://github.com/ulid/javascript) - Universally Unique Lexicographically Sortable Identifier
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [onmyway133/PushNotifications](https://github.com/onmyway133/PushNotifications) - 🐉 A macOS, Linux, Windows app to test push notifications on iOS and Android
 - [staltz/rxmarbles](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables
@@ -5380,6 +5384,7 @@
 
 ## Others 
 
+- [the-thought-emporium/Whose-gene-is-it-anyway](https://github.com/the-thought-emporium/Whose-gene-is-it-anyway) - 
 - [thethoughtemporium/Intro-To-Genetic-Engineering](https://github.com/thethoughtemporium/Intro-To-Genetic-Engineering) - 
 - [thethoughtemporium/radio-telescope](https://github.com/thethoughtemporium/radio-telescope) - 
 - [kormax/apple-device-as-access-card](https://github.com/kormax/apple-device-as-access-card) - Using your Apple device as an access card in unsupported systems
@@ -5492,7 +5497,6 @@
 - [1Password/check-signed-commits-action](https://github.com/1Password/check-signed-commits-action) - GitHub Action to check PRs for signed commits
 - [FrameworkComputer/InputModules](https://github.com/FrameworkComputer/InputModules) - Reference designs and documentation for the Input Module system in the Framework Laptop 16
 - [FrameworkComputer/ExpansionBay](https://github.com/FrameworkComputer/ExpansionBay) - CAD and documentation for the Expansion Bay module system in the Framework Laptop 16
-- [err4o4/spotify-car-thing-reverse-engineering](https://github.com/err4o4/spotify-car-thing-reverse-engineering) - 
 - [matthewbarreiro/awesome-steam-deck](https://github.com/matthewbarreiro/awesome-steam-deck) - A curated list of software and hardware for Valve's Steam Deck!
 - [theleagueof/league-mono](https://github.com/theleagueof/league-mono) - A monospace typeface inspired by Fira Mono, Libertinus Mono, and Courier.
 - [JohnBlood/awesome-basic](https://github.com/JohnBlood/awesome-basic) - A curated list of awesome BASIC dialects, IDEs, and tutorials
@@ -5723,6 +5727,7 @@
 - [jhallen/vivado_setup](https://github.com/jhallen/vivado_setup) - How to set up Xilinx Vivado for source control
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [aws-samples/aws-modern-application-workshop](https://github.com/aws-samples/aws-modern-application-workshop) - A tutorial for developers that want to learn about how to build modern applications on top of AWS. You will build a sample website that leverages infrastructure as code, containers, serverless code fu
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 💀 Homebrew Bundle (deprecated)
 - [moonlight-stream/moonlight-docs](https://github.com/moonlight-stream/moonlight-docs) - Moonlight Documentation
 - [petere/pex-packages](https://github.com/petere/pex-packages) - package library for pex (https://github.com/petere/pex)
 - [avsm/macos-xen](https://github.com/avsm/macos-xen) - patches and notes for MacOS/Xen support
@@ -6341,6 +6346,7 @@
 
 ## Python 
 
+- [benchling/integration-examples](https://github.com/benchling/integration-examples) - Example usage of the Benchling API: https://docs.benchling.com/
 - [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib) - Next-gen fast plotting library running on WGPU using the pygfx rendering engine
 - [tjac/tsto_server](https://github.com/tjac/tsto_server) - Local server for The Simpsons: Tapped Out mobile game
 - [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
@@ -7478,7 +7484,6 @@
 - [microsoft/fastlane-plugin-appcenter](https://github.com/microsoft/fastlane-plugin-appcenter) - App Center fastlane integration.
 - [azohra/forsis](https://github.com/azohra/forsis) - A Fastlane plugin that converts JUnit test reports to generic test execution reports supported by SonarQube
 - [roverdotcom/danger-jira_sync](https://github.com/roverdotcom/danger-jira_sync) - Connects JIRA with GitHub via Danger
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [grab/cocoapods-pod-merge](https://github.com/grab/cocoapods-pod-merge) - Cocoapods plugin to merge pods used by your Xcode project, reducing the number of dynamic frameworks your app has to load on startup
 - [nooverviewavailable/NoOverviewAvailable.com](https://github.com/nooverviewavailable/NoOverviewAvailable.com) - A survey of Apple developer documentation.
 - [unixcharles/acme-client](https://github.com/unixcharles/acme-client) - A Ruby client for the letsencrypt's ACME protocol.
@@ -8271,6 +8276,7 @@
 - [ebastler/marbastlib](https://github.com/ebastler/marbastlib) - A library collecting MX and Choc style footprints, as well as various other parts used to design custom keyboards
 - [simonbs/xctemplates](https://github.com/simonbs/xctemplates) - ⚙️ Opinionated Xcode templates
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
+- [err4o4/spotify-car-thing-reverse-engineering](https://github.com/err4o4/spotify-car-thing-reverse-engineering) - 
 - [ValveSoftware/steam-runtime](https://github.com/ValveSoftware/steam-runtime) - A runtime environment for Steam applications
 - [swift-server/swift-devcontainer-template](https://github.com/swift-server/swift-devcontainer-template) - Visual Studio Code Development Container for Swift
 - [cli/gh-extension-precompile](https://github.com/cli/gh-extension-precompile) - Action for publishing binary GitHub CLI extensions
@@ -8443,7 +8449,7 @@
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
@@ -8549,7 +8555,7 @@
 
 ## Smalltalk 
 
-- [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is the Moldable Development environment. It empowers you to make systems explainable through experiences tailored for each problem.
+- [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is the Moldable Development Environment. It empowers you to make systems explainable through contextual micro tools.
 
 ## Smarty 
 
@@ -8588,6 +8594,7 @@
 
 ## Swift 
 
+- [Kolos65/Mockable](https://github.com/Kolos65/Mockable) - A Swift macro driven auto-mocking library.
 - [obvios/Routing](https://github.com/obvios/Routing) - Routing library for abstracting navigation logic from SwiftUI views.
 - [pointfreeco/swift-issue-reporting](https://github.com/pointfreeco/swift-issue-reporting) - Report issues in your application and library code as Xcode runtime warnings, breakpoints, assertions, and do so in a testable manner.
 - [shapehq/spices](https://github.com/shapehq/spices) - 🫙🌶️ Spices makes it straightforward to create in-app debug menus by generating native UI from Swift.
@@ -9082,7 +9089,7 @@
 - [target/XCBBuildServiceProxy](https://github.com/target/XCBBuildServiceProxy) - A framework to create proxies for XCBBuildService, which allows for custom Xcode build integrations.
 - [ChimeHQ/Wells](https://github.com/ChimeHQ/Wells) - A lightweight diagnostics report submission system
 - [marmelroy/PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
-- [mohakapt/Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
+- [heysem-useinsider/Stringz](https://github.com/heysem-useinsider/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
 - [thecb4/blanket](https://github.com/thecb4/blanket) - 
 - [xcodereleases/xcinfo](https://github.com/xcodereleases/xcinfo) - Install as many Xcodes at once as you can
 - [migueldeicaza/CovidExtractor](https://github.com/migueldeicaza/CovidExtractor) - My Covid Extractor
@@ -9214,7 +9221,7 @@
 - [MeltedNYC/ContinuousCorners](https://github.com/MeltedNYC/ContinuousCorners) - A Swift extension for creating a UIBezierPath with smooth rounded corners that will match the iPhone X.
 - [migueldeicaza/SwiftTermApp](https://github.com/migueldeicaza/SwiftTermApp) - 
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-- [Fleuronic/Skewer](https://github.com/Fleuronic/Skewer) - 🍡 Automatic support for “kebab-case” in Swift JSON encoders and decoders
+- [jordanekay/Skewer](https://github.com/jordanekay/Skewer) - 🍡 Automatic support for “kebab-case” in Swift JSON encoders and decoders
 - [SwiftDocOrg/DocTest](https://github.com/SwiftDocOrg/DocTest) - An experimental tool for testing Swift example code in documentation.
 - [firebase/quickstart-ios](https://github.com/firebase/quickstart-ios) - Firebase Quickstart Samples for iOS
 - [JamieScanlon/AugmentKit](https://github.com/JamieScanlon/AugmentKit) - An Augmented Reality framework. Built on ARKit. Made with app developers in mind.
@@ -10256,6 +10263,7 @@
 
 ## TypeScript 
 
+- [polylog-cs/zero-knowledge-proofs](https://github.com/polylog-cs/zero-knowledge-proofs) - 
 - [git-truck/git-truck](https://github.com/git-truck/git-truck) - Git repository visualizations, cumulative contribution statistics and more. Run npx -y git-truck to use Git Truck today!
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is an experimental language for describing data relationships and transformations.
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
@@ -10588,6 +10596,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
+- [ulid/javascript](https://github.com/ulid/javascript) - Universally Unique Lexicographically Sortable Identifier
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [y-lohse/inkjs](https://github.com/y-lohse/inkjs) - A javascript port of inkle's ink scripting language.
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
