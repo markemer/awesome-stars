@@ -184,6 +184,7 @@
 - [nextjs](#nextjs)
 - [nim](#nim)
 - [nlp](#nlp)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
@@ -338,7 +339,7 @@
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
-- [1backend/1backend](https://github.com/1backend/1backend) - A unified backend development platform for microservices-based AI applications.
+- [1backend/1backend](https://github.com/1backend/1backend) - AI-native microservices platform.
 - [cocoa-ai/CocoaAI](https://github.com/cocoa-ai/CocoaAI) - 🤖 The Cocoa Artificial Intelligence Lab
 - [facebookarchive/caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
@@ -393,7 +394,6 @@
 
 ## android 
 
-- [shibatch/sleef](https://github.com/shibatch/sleef) - SIMD Library for Evaluating Elementary Functions, vectorized libm and DFT
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [realm/realm-kotlin](https://github.com/realm/realm-kotlin) - Kotlin Multiplatform and Android SDK for the Realm Mobile Database: Build Better Apps Faster.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
@@ -607,7 +607,6 @@
 ## artificial-intelligence 
 
 - [apeman/awesome_computer_science](https://github.com/apeman/awesome_computer_science) - The complete syllabus of Computer Science and Engineering. Roadmap, Checklist for Beginners.
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [nfstream/nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [google-deepmind/graph_nets](https://github.com/google-deepmind/graph_nets) - Build Graph Nets in Tensorflow
@@ -837,7 +836,7 @@
 - [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules and examples.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [theswiftdev/awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) - Awesome native Xcode extensions.
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
@@ -1339,7 +1338,7 @@
 - [jakogut/tinyvm](https://github.com/jakogut/tinyvm) - TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.
 - [xsawyerx/xs-fun](https://github.com/xsawyerx/xs-fun) - XS is fun: a simple and easy tutorial on writing Perl XS
 - [skx/sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [libexpat/libexpat](https://github.com/libexpat/libexpat) - :herb: Fast streaming XML parser written in C99 with &gt;90% test coverage; moved from SourceForge to GitHub
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -2050,11 +2049,11 @@
 
 ## cryptocurrency 
 
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [ScottfreeLLC/AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Python AutoML for Trading Systems and Sports Betting
 
 ## cryptography 
 
+- [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) - Reference implementation of OpenPubkey
 - [Nitrokey/nethsm](https://github.com/Nitrokey/nethsm) - Nitrokey NetHSM system software and firmware
 - [apeman/awesome_computer_science](https://github.com/apeman/awesome_computer_science) - The complete syllabus of Computer Science and Engineering. Roadmap, Checklist for Beginners.
 - [apple/swift-homomorphic-encryption](https://github.com/apple/swift-homomorphic-encryption) - Homomorphic Encryption library and applications in Swift
@@ -2811,7 +2810,7 @@
 - [pearl-core/pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessibl
 - [jh3y/kody](https://github.com/jh3y/kody) - .files and environment configuration manager created with node
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
@@ -4393,7 +4392,7 @@
 - [rockdaboot/libpsl](https://github.com/rockdaboot/libpsl) - C library for the Public Suffix List
 - [publify/publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [codecat/ClawSearch](https://github.com/codecat/ClawSearch) - A memory scanner plugin for x64dbg, inspired by Cheat Engine.
@@ -4550,7 +4549,6 @@
 - [Artefact2/texbrew](https://github.com/Artefact2/texbrew) - An attempt to make good-looking homebrew documents for various roleplaying systems using XeTeX for typesetting.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied tra
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [noahc3/PegaScape](https://github.com/noahc3/PegaScape) - A user-friendly public frontend for common PegaSwitch scripts including Nereba, Caffeine, HBL and more.
 - [switchbrew/libnx](https://github.com/switchbrew/libnx) - Library for Switch Homebrew
 - [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) - 💡 A homebrew save management, editing tool and memory trainer for Horizon (Nintendo Switch)
@@ -4794,7 +4792,6 @@
 - [mergesort/TypedNotifications](https://github.com/mergesort/TypedNotifications) - A mechanism for sending typed notifications with payloads across your iOS app.
 - [mergesort/FeedbackEffect](https://github.com/mergesort/FeedbackEffect) - A library for playing sounds and providing haptic feedback with ease.
 - [mergesort/TableFlip](https://github.com/mergesort/TableFlip) - A simpler way to do cool UITableView animations! (╯°□°）╯︵ ┻━┻
-- [shibatch/sleef](https://github.com/shibatch/sleef) - SIMD Library for Evaluating Elementary Functions, vectorized libm and DFT
 - [readium/swift-toolkit](https://github.com/readium/swift-toolkit) - A toolkit for ebooks, audiobooks and comics written in Swift
 - [michaelhenry/ImageViewer.swift](https://github.com/michaelhenry/ImageViewer.swift) - An easy to use Image Viewer that is inspired by Facebook
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
@@ -4941,7 +4938,7 @@
 - [umerjabbar/ContextMenuSwift](https://github.com/umerjabbar/ContextMenuSwift) - A better version of iOS 13 Context Menu
 - [rockbruno/SwiftInfo](https://github.com/rockbruno/SwiftInfo) - 📊 Extract and analyze the evolution of an iOS app's code.
 - [ChimeHQ/Wells](https://github.com/ChimeHQ/Wells) - A lightweight diagnostics report submission system
-- [mohakapt/Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
+- [heysem-useinsider/Stringz](https://github.com/heysem-useinsider/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
 - [below/HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to ARM64 assembly on Apple Silicon Macs
 - [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) - The official Sentry SDK for iOS, tvOS, macOS, watchOS.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -5181,7 +5178,7 @@
 - [PGSSoft/3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR) - Well known game Snake written in Swift using ARKit.
 - [Boris-Em/ARCharts](https://github.com/Boris-Em/ARCharts) - Lovely Augmented Reality Charts for iOS - Built with ARKit
 - [johnpatrickmorgan/Sparse](https://github.com/johnpatrickmorgan/Sparse) - Sparse is a simple parser-combinator library written in Swift.
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [MosheBerman/MBCalendarKit](https://github.com/MosheBerman/MBCalendarKit) - An open source calendar framework for iOS, with support for customization, IBDesignable, Autolayout, and more.
 - [TimOliver/TOPasscodeViewController](https://github.com/TimOliver/TOPasscodeViewController) - A modal passcode input and validation view controller for iOS
 - [Nirma/UIDeviceComplete](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
@@ -5980,7 +5977,7 @@
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
 - [jac3km4/redscript](https://github.com/jac3km4/redscript) - Compiler/decompiler toolkit for redscript
 - [mukul-rathi/bolt](https://github.com/mukul-rathi/bolt) - Bolt is a language with in-built data-race freedom!
-- [mohakapt/Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
+- [heysem-useinsider/Stringz](https://github.com/heysem-useinsider/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
 - [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games!
 - [ArkScript-lang/Ark](https://github.com/ArkScript-lang/Ark) - ArkScript is a small, fast, functional and scripting language for C++ projects
 - [agroce/universalmutator](https://github.com/agroce/universalmutator) - Regexp based tool for mutating generic source code across numerous languages
@@ -6356,7 +6353,7 @@
 ## localization 
 
 - [FlineDev/BartyCrouch](https://github.com/FlineDev/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
-- [mohakapt/Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
+- [heysem-useinsider/Stringz](https://github.com/heysem-useinsider/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
 - [nalexn/EnvironmentOverrides](https://github.com/nalexn/EnvironmentOverrides) - QA assistant for a SwiftUI app: change the color scheme, accessibility settings, and localization on the fly!
 - [igorkulman/iOSLocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS and macOS app localizations by allowing you to edit all the translations side by side
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
@@ -6746,7 +6743,7 @@
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - config karabiner with ease
 - [ChimeHQ/Wells](https://github.com/ChimeHQ/Wells) - A lightweight diagnostics report submission system
-- [mohakapt/Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
+- [heysem-useinsider/Stringz](https://github.com/heysem-useinsider/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
 - [below/HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to ARM64 assembly on Apple Silicon Macs
 - [seemoo-lab/airdrop-keychain-extractor](https://github.com/seemoo-lab/airdrop-keychain-extractor) - Extracting Apple ID Validation Record, Certificate, and Key for AirDrop
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) - An open Apple Wireless Direct Link (AWDL) implementation written in C
@@ -6930,7 +6927,7 @@
 - [macmade/Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS.
 - [tuist/XcodeProj](https://github.com/tuist/XcodeProj) - 📝 Read, update and write your Xcode projects
 - [johnpatrickmorgan/Sparse](https://github.com/johnpatrickmorgan/Sparse) - Sparse is a simple parser-combinator library written in Swift.
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [github/SoftU2F](https://github.com/github/SoftU2F) - Software U2F authenticator for macOS
@@ -7370,6 +7367,16 @@
 - [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
+
+## no-code 
+
+- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+- [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
 ## node 
 
@@ -7814,6 +7821,14 @@
 
 ## others 
 
+- [gnucap/gnucap](https://github.com/gnucap/gnucap) - gnucap mirror (read only)
+- [OpenBoardView/OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd files
+- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
+- [Kolos65/Mockable](https://github.com/Kolos65/Mockable) - A Swift macro driven auto-mocking library.
+- [nwchemgit/nwchem](https://github.com/nwchemgit/nwchem) - NWChem: Open Source High-Performance Computational Chemistry
+- [the-thought-emporium/Whose-gene-is-it-anyway](https://github.com/the-thought-emporium/Whose-gene-is-it-anyway) - 
+- [benchling/integration-examples](https://github.com/benchling/integration-examples) - Example usage of the Benchling API: https://docs.benchling.com/
+- [polylog-cs/zero-knowledge-proofs](https://github.com/polylog-cs/zero-knowledge-proofs) - 
 - [SynBioDex/SBOL-visual](https://github.com/SynBioDex/SBOL-visual) - The reference implementation of the SBOL Visual standard
 - [SynBioDex/SBOL-specification](https://github.com/SynBioDex/SBOL-specification) - The Synthetic Biology Open Language (SBOL)
 - [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib) - Next-gen fast plotting library running on WGPU using the pygfx rendering engine
@@ -8001,6 +8016,7 @@
 - [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [mvasilkov/board2024](https://github.com/mvasilkov/board2024) - King Thirteen for js13kGames–2024: Triskaidekaphobia
+- [shibatch/sleef](https://github.com/shibatch/sleef) - SIMD Library for Evaluating Elementary Functions, vectorized libm and DFT
 - [creativecommons/licensebuttons](https://github.com/creativecommons/licensebuttons) - Creative Commons badges, license Buttons, etc.
 - [divibanks/footnotes-made-easy](https://github.com/divibanks/footnotes-made-easy) - A WordPress plugin that allows post authors to easily add and manage footnotes in posts and pages.
 - [xcodereleases/data](https://github.com/xcodereleases/data) - The data generator that powers xcodereleases.com
@@ -8422,7 +8438,7 @@
 - [zoom/server-to-server-oauth-starter-api](https://github.com/zoom/server-to-server-oauth-starter-api) - Starting point for developing a Zoom S2S OAuth API
 - [larsbrinkhoff/awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - All CPU and MCU documentation in one place
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
-- [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is the Moldable Development environment. It empowers you to make systems explainable through experiences tailored for each problem.
+- [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is the Moldable Development Environment. It empowers you to make systems explainable through contextual micro tools.
 - [OutSystems/cordova-outsystems-barcodescanner](https://github.com/OutSystems/cordova-outsystems-barcodescanner) - Implementation of Barcode Plugin
 - [icebreaker-fpga/icebreaker](https://github.com/icebreaker-fpga/icebreaker) - Small and low cost FPGA educational and development board
 - [wiesl/ti99-rgb](https://github.com/wiesl/ti99-rgb) - ti99-rgb
@@ -9598,7 +9614,7 @@
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [AndresNavarro82/vt52-fpga](https://github.com/AndresNavarro82/vt52-fpga) - 
 - [alex/nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
-- [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple Win64 and Win32 applications on arm64 Linux
+- [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs Win64 and Win32 applications on arm64 Linux
 - [pwsacademy/swift-setup](https://github.com/pwsacademy/swift-setup) - Student-friendly setup instructions for platforms, editors, and IDEs that support Swift.
 - [microsoft/uf2](https://github.com/microsoft/uf2) - UF2 file format specification
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
@@ -9900,7 +9916,7 @@
 - [sarahemm/pf100](https://github.com/sarahemm/pf100) - Ruby tool to communicate via USB with Microlife PF100 meter
 - [yoppeh/efi](https://github.com/yoppeh/efi) - efi headers
 - [yoppeh/efi-clang](https://github.com/yoppeh/efi-clang) - Build UEFI applications with the Clang compiler and LLD linker.
-- [Fleuronic/Skewer](https://github.com/Fleuronic/Skewer) - 🍡 Automatic support for “kebab-case” in Swift JSON encoders and decoders
+- [jordanekay/Skewer](https://github.com/jordanekay/Skewer) - 🍡 Automatic support for “kebab-case” in Swift JSON encoders and decoders
 - [usbarmory/GoKey](https://github.com/usbarmory/GoKey) - The bare metal Go smart card
 - [intel/nemu](https://github.com/intel/nemu) - ARCHIVED: Modern Hypervisor for the Cloud. See https://github.com/cloud-hypervisor/cloud-hypervisor instead
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -10211,6 +10227,7 @@
 - [rochus-keller/LjTools](https://github.com/rochus-keller/LjTools) - LuaJIT 2.0 bytecode parser, viewer, assembler and test VM. Lua 5.1 parser, IDE and debugger.
 - [millette/oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [apple/swift-numerics](https://github.com/apple/swift-numerics) - Advanced mathematical types and functions for Swift
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 💀 Homebrew Bundle (deprecated)
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [lowRISC/ibex](https://github.com/lowRISC/ibex) - Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.
 - [lowRISC/opentitan](https://github.com/lowRISC/opentitan) - OpenTitan: Open source silicon root of trust
@@ -14823,7 +14840,6 @@
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [jruby/jruby](https://github.com/jruby/jruby) - JRuby, an implementation of Ruby on the JVM
 - [rmagick/rmagick](https://github.com/rmagick/rmagick) - Ruby bindings for ImageMagick
@@ -17438,7 +17454,7 @@
 - [rockbruno/SwiftInfo](https://github.com/rockbruno/SwiftInfo) - 📊 Extract and analyze the evolution of an iOS app's code.
 - [devMEremenko/XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark) - XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro
 - [target/XCBBuildServiceProxy](https://github.com/target/XCBBuildServiceProxy) - A framework to create proxies for XCBBuildService, which allows for custom Xcode build integrations.
-- [mohakapt/Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
+- [heysem-useinsider/Stringz](https://github.com/heysem-useinsider/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
 - [kronenthaler/mod-pbxproj](https://github.com/kronenthaler/mod-pbxproj) - A python module to manipulate XCode projects
 - [touchlab/xcode-kotlin](https://github.com/touchlab/xcode-kotlin) - Kotlin Native Xcode Plugin
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
