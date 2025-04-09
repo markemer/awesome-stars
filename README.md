@@ -314,6 +314,7 @@
 
 ## C 
 
+- [meklort/kextcacheHelper](https://github.com/meklort/kextcacheHelper) - A simple Mac OS X Kernel Extension used to intercept exec calls in the kernel and modify kextcache arguments.
 - [jbeverly/pam_ssh_agent_auth](https://github.com/jbeverly/pam_ssh_agent_auth) - Moving pam_ssh_agent_auth to github as primary development location
 - [todbot/blink1-tool](https://github.com/todbot/blink1-tool) - Command-line tools and C library for blink(1) USB RGB LED
 - [alard/wget-lua](https://github.com/alard/wget-lua) - Wget with Lua extension
@@ -1449,7 +1450,7 @@
 - [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK+ UI
 - [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - 
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
-- [OMOTE-Community/OMOTE-Firmware](https://github.com/OMOTE-Community/OMOTE-Firmware) - Open Source Remote Using ESP32 and LVGL
+- [OMOTE-Community/OMOTE-Firmware](https://github.com/OMOTE-Community/OMOTE-Firmware) - Open Source Remote - Firmware
 - [GENIVI/CANdevStudio](https://github.com/GENIVI/CANdevStudio) - Development tool for CAN bus simulation
 - [bitbank2/SmartResponseXE](https://github.com/bitbank2/SmartResponseXE) - Arduino library with LCD, Keyboard and SPI Flash support for the SMART Response XE classroom communicator
 - [icefallgames/SCICompanion](https://github.com/icefallgames/SCICompanion) - SCI Companion - an editor for Sierra SCI games
@@ -1612,7 +1613,7 @@
 - [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system
 - [ianpatt/f4se](https://github.com/ianpatt/f4se) - Fallout 4 Script Extender
 - [rtl-airband/RTLSDR-Airband](https://github.com/rtl-airband/RTLSDR-Airband) - Multichannel AM/NFM demodulator
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.1 [March 2025]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.1 [April 2025]
 - [robmikh/Win32CaptureSample](https://github.com/robmikh/Win32CaptureSample) - A simple sample using the Windows.Graphics.Capture APIs in a Win32 application.
 - [PixelRick/CyberpunkSaveEditor](https://github.com/PixelRick/CyberpunkSaveEditor) - A tool to edit Cyberpunk 2077 sav.dat files
 - [przemek83/volbx](https://github.com/przemek83/volbx) - Graphical tool for data manipulation written in C++/Qt.
@@ -2515,7 +2516,7 @@
 - [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Forwarder is a production-ready, fast MITM proxy with PAC support. It's suitable for debugging, intercepting and manipulating HTTP traffic. It's used as a core component of Sauce Labs Sauce Connect Pr
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
-- [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
+- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [philippta/flyscrape](https://github.com/philippta/flyscrape) - Flyscrape is a command-line web scraping tool designed for those without advanced programming skills.
 - [tcnksm/ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
 - [dropbox/godropbox](https://github.com/dropbox/godropbox) - Common libraries for writing Go services/applications.
@@ -3491,6 +3492,7 @@
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [square/keywhiz](https://github.com/square/keywhiz) - A system for distributing and managing secrets
 - [Netflix/Prana](https://github.com/Netflix/Prana) - A sidecar for your NetflixOSS based services.
+- [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [SAP-archive/xliff-1-2](https://github.com/SAP-archive/xliff-1-2) - The XLIFF 1.2 Core library offers functionality for constructing, reading, modifying and writing XLIFF 1.2 files according to the OASIS specification.
 - [graalvm/sulong](https://github.com/graalvm/sulong) - Obsolete repository. Moved to oracle/graal.
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
@@ -3735,6 +3737,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
 - [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
+- [davidcarlisle/latexcgi](https://github.com/davidcarlisle/latexcgi) - LaTeX server via perl cgi script, developed for learnlatex.org
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [adventurerscodex/adventurerscodex](https://github.com/adventurerscodex/adventurerscodex) - Experience the next step in tabletop RPGs
@@ -5391,6 +5394,7 @@
 
 ## Others 
 
+- [hexbus/TI99_64K_Cartridge_Board](https://github.com/hexbus/TI99_64K_Cartridge_Board) - 64K EPROM Cartridge board for TI-99/4A
 - [ruarxive/awesome-digital-preservation](https://github.com/ruarxive/awesome-digital-preservation) - Awesome list dedicated to digital and data preservation tools, sources, services and so on.
 - [the-thought-emporium/Whose-gene-is-it-anyway](https://github.com/the-thought-emporium/Whose-gene-is-it-anyway) - 
 - [thethoughtemporium/Intro-To-Genetic-Engineering](https://github.com/thethoughtemporium/Intro-To-Genetic-Engineering) - 
@@ -6264,7 +6268,6 @@
 - [ClickSend/clicksend-perl](https://github.com/ClickSend/clicksend-perl) - ClickSend Perl SDK
 - [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) - Server for the MusicBrainz project (website, API, database tools)
 - [RichiH/myrepos](https://github.com/RichiH/myrepos) - 
-- [davidcarlisle/latexcgi](https://github.com/davidcarlisle/latexcgi) - LaTeX server via perl cgi script, developed for learnlatex.org
 - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
 - [richterger/Perl-LanguageServer](https://github.com/richterger/Perl-LanguageServer) - Language Server for Perl
 - [openxpki/openxpki](https://github.com/openxpki/openxpki) - OpenXPKI Code
@@ -8271,7 +8274,7 @@
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [viralpoetry/packer-bare-metal](https://github.com/viralpoetry/packer-bare-metal) - Building bare metal OS images with Packer, VirtualBox and qemu-img
 - [crowbar/crowbar](https://github.com/crowbar/crowbar) - Cloud Operations Platform
-- [SimpleHomelab/docker-traefik](https://github.com/SimpleHomelab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
+- [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [qt/qt5](https://github.com/qt/qt5) - Qt5 super module
 - [ph202107/nordlist](https://github.com/ph202107/nordlist) - Bash script to use with the NordVPN Linux CLI.
@@ -8458,7 +8461,6 @@
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
-- [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
@@ -10285,7 +10287,7 @@
 - [Redcrafter/verilog2factorio](https://github.com/Redcrafter/verilog2factorio) - This project will compile verilog (a hardware description language) into factorio blueprints.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [octokit/rest.js](https://github.com/octokit/rest.js) - GitHub REST API client for JavaScript
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [llvm/vscode-lldb](https://github.com/llvm/vscode-lldb) - 
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [microsoft/ts-gyb](https://github.com/microsoft/ts-gyb) - Generating native code interfaces from TypeScript
@@ -10312,7 +10314,7 @@
 - [line/tsr](https://github.com/line/tsr) - TypeScript Remove (tsr) is a utility that removes unused code from TypeScript projects – It's like tree shaking, but for source files
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce) - VS Code Extension Manager
-- [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
+- [textlint/textlint](https://github.com/textlint/textlint) - textlint is the pluggable linter for natural language text.
 - [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a font released by the Internet Development Studio Company. SIL Open Font License 1.1
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [StreamPot/StreamPot](https://github.com/StreamPot/StreamPot) - Run FFmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage.
