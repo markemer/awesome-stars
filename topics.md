@@ -402,7 +402,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
 - [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [matan-h/adb-shell](https://github.com/matan-h/adb-shell) - better `adb shell`
 - [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 - [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
@@ -3160,7 +3160,7 @@
 
 ## flutter 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [mingchen/docker-android-build-box](https://github.com/mingchen/docker-android-build-box) - An optimized docker image includes Android, Kotlin, Flutter sdk.
@@ -3835,7 +3835,7 @@
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [WillAbides/octo-go](https://github.com/WillAbides/octo-go) - A generated go client for GitHub's REST API
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -4322,7 +4322,6 @@
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [pokanop/nostromo](https://github.com/pokanop/nostromo) - 👽 CLI for building powerful aliases and tools
 - [ghdl/ghdl](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [Cockatrice/Cockatrice](https://github.com/Cockatrice/Cockatrice) - A cross-platform virtual tabletop for multiplayer card games
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
@@ -4821,7 +4820,7 @@
 - [alessiorubicini/SFSymbolsPickerForSwiftUI](https://github.com/alessiorubicini/SFSymbolsPickerForSwiftUI) - A SwiftUI view for selecting SF symbols in your app
 - [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
 - [AladinWay/TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation.
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource) - Server-sent events (SSE) client implementation in Swift for iOS, macOS, tvOS, and watchOS
 - [JanGorman/Agrume](https://github.com/JanGorman/Agrume) - 🍋 A lemony fresh iOS image viewer written in Swift.
 - [dropbox/hypershard-ios](https://github.com/dropbox/hypershard-ios) - ⚡ the ridiculously fast XCUITest collector.
@@ -6075,6 +6074,7 @@
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [overleaf/web](https://github.com/overleaf/web) - The web front end for Overleaf, a web-based collaborative LaTeX editor
+- [SublimeText/LaTeXTools](https://github.com/SublimeText/LaTeXTools) - LaTeX plugin for Sublime Text
 
 ## learning 
 
@@ -6651,7 +6651,7 @@
 - [ryanashcraft/CloudSyncSession](https://github.com/ryanashcraft/CloudSyncSession) - Swift package that makes it easier to write CloudKit sync-enabled, offline-capable apps
 - [mitchellh/gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [brunophilipe/LiquidKit](https://github.com/brunophilipe/LiquidKit) - Liquid template language parser engine in Swift.
-- [sveinbjornt/hear](https://github.com/sveinbjornt/hear) - Command line speech recognition and transcription for macOS
+- [sveinbjornt/hear](https://github.com/sveinbjornt/hear) - Command line interface for the built-in speech recognition and transcription in macOS
 - [cirruslabs/orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 - [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script that takes the game you're playing on steam and displays it on discord
 - [Ekhoo/Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
@@ -7843,6 +7843,7 @@
 
 ## others 
 
+- [tscircuit/circuit-json](https://github.com/tscircuit/circuit-json) - Circuit JSON a low-level circuit representation. Use to visually represent schematic, PCB, produce Gerber files, produce bill of materials, run SPICE simulations, view warnings and more.
 - [bpdegnan/redbash](https://github.com/bpdegnan/redbash) - Userland macports that is targeted at RHEL so that packages can be installed without root.
 - [LaughingLeader/BG3ModdingTools](https://github.com/LaughingLeader/BG3ModdingTools) - A collection is miscellaneous snippets and scripts to make life easier when modding Baldur's Gate 3.
 - [calmsacibis995/irix-6517-src](https://github.com/calmsacibis995/irix-6517-src) - The IRIX 6.5.17 source code.
@@ -7883,7 +7884,7 @@
 - [merbanan/rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
 - [noperator/yknotify](https://github.com/noperator/yknotify) - Notify when YubiKey needs touch on macOS
 - [tjac/tsto_server](https://github.com/tjac/tsto_server) - Local server for The Simpsons: Tapped Out mobile game
-- [chipsalliance/t1](https://github.com/chipsalliance/t1) - 
+- [chipsalliance/t1](https://github.com/chipsalliance/t1) - The highest performace Cray-like RISC-V Vector in the world.
 - [QuadrupleA/sqlite-page-explorer](https://github.com/QuadrupleA/sqlite-page-explorer) - Visual tool to explore SQLite databases page-by-page, the way they're stored on disk and the way SQLite sees them.
 - [ArchiveTeam/usgovernment-grab](https://github.com/ArchiveTeam/usgovernment-grab) - Archiving parts of the US government.
 - [CTCL/election-websites](https://github.com/CTCL/election-websites) - Local election official in the United States can use this template to get a head start on building an election website. The template follows guidelines from the Center for Civic Design and is fast, mo
@@ -9222,7 +9223,7 @@
 - [FPGA-Research/FABulous](https://github.com/FPGA-Research/FABulous) - Fabric generator and CAD tools
 - [FPGA-Research/FABulous-Sky---a-heterogeneous-FPGA-fabric-in-Skywater130](https://github.com/FPGA-Research/FABulous-Sky---a-heterogeneous-FPGA-fabric-in-Skywater130) - https://caravel-user-project.readthedocs.io
 - [efabless/OpenLane](https://github.com/efabless/OpenLane) - This repo is a fork of the master OpenLANE repo for us with projects submitted on Efabless Open MPW or chipIgnite shuttles:: OpenLANE is an automated RTL to GDSII flow based on several components incl
-- [skvadrik/re2c](https://github.com/skvadrik/re2c) - Lexer generator for C, C++, D, Go, Haskell, Java, JS, OCaml, Python, Rust, V and Zig.
+- [skvadrik/re2c](https://github.com/skvadrik/re2c) - Lexer generator for C, C++, D, Go, Haskell, Java, JS, OCaml, Python, Rust, Swift, V and Zig.
 - [EFForg/apkeep](https://github.com/EFForg/apkeep) - A command-line tool for downloading APK files from various sources
 - [Digilent/Genesys-ZU](https://github.com/Digilent/Genesys-ZU) - 
 - [flutter/devtools](https://github.com/flutter/devtools) - Performance tools for Flutter
@@ -13947,7 +13948,7 @@
 ## privacy 
 
 - [BinaryMoon/wp-toolbelt](https://github.com/BinaryMoon/wp-toolbelt) - A lightweight, multi-purpose, WordPress plugin with a focus on privacy and speed
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -14521,7 +14522,7 @@
 - [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) - Any Linux distribution, anywhere.
 - [MaxDesiatov/Hleeb](https://github.com/MaxDesiatov/Hleeb) - Swift running on bare metal Raspberry Pi
 - [mn416/QPULib](https://github.com/mn416/QPULib) - Language and compiler for the Raspberry Pi GPU
-- [ThomasVon2021/pikvm-board](https://github.com/ThomasVon2021/pikvm-board) - Cheap and high performance hardware based on CM4 for pikvm or tinypilot
+- [blikvm/pikvm-board](https://github.com/blikvm/pikvm-board) - Cheap and high performance hardware based on CM4 for pikvm or tinypilot
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -15714,6 +15715,7 @@
 
 ## swift 
 
+- [apple/swift-container-plugin](https://github.com/apple/swift-container-plugin) - Build and publish container images using Swift Package Manager
 - [swiftyfinch/Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 - [sanzaru/SimpleToast](https://github.com/sanzaru/SimpleToast) - SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content 
 - [VergeGroup/swift-verge](https://github.com/VergeGroup/swift-verge) - 🟣 A robust Swift state-management framework designed for complex applications, featuring an integrated ORM for efficient data handling.
@@ -16974,7 +16976,7 @@
 - [line/tsr](https://github.com/line/tsr) - TypeScript Remove (tsr) is a utility that removes unused code from TypeScript projects – It's like tree shaking, but for source files
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [srt4rulez/fallout-new-vegas-interactive-map](https://github.com/srt4rulez/fallout-new-vegas-interactive-map) - An interactive map of the Mojave Wasteland in Fallout: New Vegas.
 - [darkf/darkfo](https://github.com/darkf/darkfo) - DarkFO, a post-nuclear RPG remake (of Fallout 2)
