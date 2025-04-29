@@ -145,6 +145,7 @@
 - [TLA](#tla)
 - [Tcl](#tcl)
 - [TeX](#tex)
+- [Text](#text)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [UnrealScript](#unrealscript)
@@ -314,6 +315,7 @@
 
 ## C 
 
+- [megamarc/Tilengine](https://github.com/megamarc/Tilengine) - Free 2D graphics engine with raster effects for retro/classic style game development
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [calmsacibis995/irix-6517-src](https://github.com/calmsacibis995/irix-6517-src) - The IRIX 6.5.17 source code.
 - [meklort/kextcacheHelper](https://github.com/meklort/kextcacheHelper) - A simple Mac OS X Kernel Extension used to intercept exec calls in the kernel and modify kextcache arguments.
@@ -2468,6 +2470,7 @@
 
 ## Go 
 
+- [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
 - [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) - Reference implementation of OpenPubkey
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
@@ -5399,6 +5402,7 @@
 
 ## Others 
 
+- [amachronic/echoplayer](https://github.com/amachronic/echoplayer) - Echo - Open Hardware Music Player
 - [hexbus/TI99_64K_Cartridge_Board](https://github.com/hexbus/TI99_64K_Cartridge_Board) - 64K EPROM Cartridge board for TI-99/4A
 - [ruarxive/awesome-digital-preservation](https://github.com/ruarxive/awesome-digital-preservation) - Awesome list dedicated to digital and data preservation tools, sources, services and so on.
 - [the-thought-emporium/Whose-gene-is-it-anyway](https://github.com/the-thought-emporium/Whose-gene-is-it-anyway) - 
@@ -6092,6 +6096,7 @@
 - [tylergaw/js-osx-app-examples](https://github.com/tylergaw/js-osx-app-examples) - Example OS X applications written in JavaScript.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
+- [paperwork/paperwork](https://github.com/paperwork/paperwork) - 
 - [objcio/issue-1-view-controller-containment](https://github.com/objcio/issue-1-view-controller-containment) - Small example app that shows a container view controller
 - [FirstBuild/ChillHub](https://github.com/FirstBuild/ChillHub) - A smart refrigerator with USB, Wi-Fi, and attachments
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
@@ -8539,7 +8544,6 @@
 - [adafruit/Adafruit-Pi-Kernel-o-Matic](https://github.com/adafruit/Adafruit-Pi-Kernel-o-Matic) - 
 - [0xAX/git-cheat](https://github.com/0xAX/git-cheat) - git cheat sheets in your command line
 - [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
-- [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [freeipa/freeipa-container](https://github.com/freeipa/freeipa-container) - FreeIPA server in containers — images at https://quay.io/repository/freeipa/freeipa-server?tab=tags
 - [google/grr-doc](https://github.com/google/grr-doc) - Documentation for the GRR Rapid Reponse framework
 - [phusion/traveling-ruby](https://github.com/phusion/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
@@ -8613,6 +8617,7 @@
 
 ## Swift 
 
+- [nachonavarro/Pages](https://github.com/nachonavarro/Pages) - 📖   A lightweight, paging view solution for SwiftUI
 - [apple/swift-container-plugin](https://github.com/apple/swift-container-plugin) - Build and publish container images using Swift Package Manager
 - [Reflejo/pam-touchID](https://github.com/Reflejo/pam-touchID) - PAM plugin module that allows touch ID to be used for authentication
 - [swiftyfinch/Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
@@ -10282,6 +10287,10 @@
 - [jbangert/nail](https://github.com/jbangert/nail) - A practical interface generator for data formats.
 - [facebookarchive/opencompute](https://github.com/facebookarchive/opencompute) - A community of engineers whose mission is to design and enable the delivery of the most efficient server, storage and data center hardware designs for scalable computing.
 - [manuels/texlive.js](https://github.com/manuels/texlive.js) - Compiling LaTeX (TeX live) in your browser
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
