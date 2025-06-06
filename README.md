@@ -315,6 +315,7 @@
 
 ## C 
 
+- [adobe-type-tools/afdko](https://github.com/adobe-type-tools/afdko) - Adobe Font Development Kit for OpenType
 - [Summa-Cogni/Mathpad](https://github.com/Summa-Cogni/Mathpad) - A mathematical keypad for students and professionals
 - [t2linux/apple-bce-drv](https://github.com/t2linux/apple-bce-drv) - Apple BCE (Buffer Copy Engine) and associated subsystems drivers for T2-based Macs
 - [libtom/tomsfastmath](https://github.com/libtom/tomsfastmath) - TomsFastMath is a fast public domain, open source, large integer arithmetic library written in portable ISO C.
@@ -2376,6 +2377,7 @@
 
 ## Elixir 
 
+- [tuist/Noora](https://github.com/tuist/Noora) - 🎨 A design system for Swift CLIs and Phoenix apps
 - [dashbitco/nimble_publisher](https://github.com/dashbitco/nimble_publisher) - A minimal filesystem-based publishing engine with Markdown support and code highlighting
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
@@ -2415,7 +2417,6 @@
 - [melpa/melpa](https://github.com/melpa/melpa) - Recipes and build machinery for the biggest Emacs package repo
 - [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 - [aquamacs-emacs/aquamacs-emacs](https://github.com/aquamacs-emacs/aquamacs-emacs) - Aquamacs Emacs
-- [kragen/xcompose](https://github.com/kragen/xcompose) - for sharing .XCompose keybindings
 
 ## Erlang 
 
@@ -2554,7 +2555,7 @@
 - [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go) - Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
 - [blacktop/go-apfs](https://github.com/blacktop/go-apfs) - APFS parser written in pure Go
 - [DHowett/go-plist](https://github.com/DHowett/go-plist) - A pure Go Apple Property List transcoder
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [usbarmory/imx-usbnet](https://github.com/usbarmory/imx-usbnet) - i.MX Ethernet over USB driver
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -3591,6 +3592,8 @@
 
 ## JavaScript 
 
+- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [netbymatt/ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
 - [TheRoccoB/hetzner-billing-auto-shutdown-and-notif](https://github.com/TheRoccoB/hetzner-billing-auto-shutdown-and-notif) - github cron job that sends slack alerts and kills hetzner if necessary
 - [lottie/lottie-spec](https://github.com/lottie/lottie-spec) - Lottie Animation format documentation and tools
@@ -3919,7 +3922,7 @@
 - [aceakash/string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
 - [dandrews/nefarious-linkedin](https://github.com/dandrews/nefarious-linkedin) - :shipit: A look at how LinkedIn spies on its users.
 - [pswai/git-sweep](https://github.com/pswai/git-sweep) - Clean up remote branches for git repo
-- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
 - [portsmouth/fibre](https://github.com/portsmouth/fibre) - WebGL 3d dynamical systems visualization
 - [mewo2/terrain](https://github.com/mewo2/terrain) - Fantasy map generator
@@ -6379,6 +6382,8 @@
 
 ## Python 
 
+- [robotools/robofab](https://github.com/robotools/robofab) - RoboFab
+- [robotools/fontParts](https://github.com/robotools/fontParts) - The replacement for RoboFab
 - [usnistgov/NEMO](https://github.com/usnistgov/NEMO) - NEMO is a laboratory logistics web application. Use it to schedule reservations, control tool access, track maintenance issues, and more.
 - [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Modern Python FFmpeg wrappers offer comprehensive support for complex filters, complete with detailed typing and documentation.
 - [robbyzhaox/myocr](https://github.com/robbyzhaox/myocr) - A highly extensible and customizable framework for building OCR systems.
@@ -6608,7 +6613,7 @@
 - [d00mfish/NFC-Spotify-Player](https://github.com/d00mfish/NFC-Spotify-Player) - 
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
 - [dbr/tvnamer](https://github.com/dbr/tvnamer) - Automatic TV episode file renamer, uses data from thetvdb.com via tvdb_api
 - [greatscottgadgets/ViewSB](https://github.com/greatscottgadgets/ViewSB) - [Archived] open-source USB analyzer toolkit with support for a variety of capture hardware
 - [f4pga/prjxray](https://github.com/f4pga/prjxray) - Documenting the Xilinx 7-series bit-stream format.
@@ -7375,6 +7380,7 @@
 - [laanwj/decuda](https://github.com/laanwj/decuda) - Decuda and cudasm, the CUDA binary utilities package. Low-level tools for NVidia G80 GPUs.
 - [divegeek/uscode](https://github.com/divegeek/uscode) - The United States Code
 - [jtriley/StarCluster](https://github.com/jtriley/StarCluster) - StarCluster is an open source cluster-computing toolkit for Amazon's Elastic Compute Cloud (EC2).
+- [kragen/xcompose](https://github.com/kragen/xcompose) - for sharing .XCompose keybindings
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 
 ## Q# # 
@@ -7530,6 +7536,7 @@
 - [grab/cocoapods-pod-merge](https://github.com/grab/cocoapods-pod-merge) - Cocoapods plugin to merge pods used by your Xcode project, reducing the number of dynamic frameworks your app has to load on startup
 - [nooverviewavailable/NoOverviewAvailable.com](https://github.com/nooverviewavailable/NoOverviewAvailable.com) - A survey of Apple developer documentation.
 - [unixcharles/acme-client](https://github.com/unixcharles/acme-client) - A Ruby client for the letsencrypt's ACME protocol.
+- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [fastlane-community/xcresult](https://github.com/fastlane-community/xcresult) - Ruby interface for inspecting data and exporting data from Xcode 11 .xcresult files
 - [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 - [yob/pdf-reader](https://github.com/yob/pdf-reader) - The PDF::Reader library implements a PDF parser conforming as much as possible to the PDF specification from Adobe.
@@ -7881,7 +7888,7 @@
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [nobuyuki83/floor_plan](https://github.com/nobuyuki83/floor_plan) - 
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-- [David-OConnor/plascad](https://github.com/David-OConnor/plascad) - 
+- [David-OConnor/plascad](https://github.com/David-OConnor/plascad) - Plasmid and primer design software
 - [zed-industries/create-gpui-app](https://github.com/zed-industries/create-gpui-app) - CRA-style tool for creating new gpui apps
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [asg017/sqlite-jiff](https://github.com/asg017/sqlite-jiff) - 
@@ -8417,7 +8424,6 @@
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [geoffeg/opiterm](https://github.com/geoffeg/opiterm) - 1Password integration for iTerm2
 - [NSHipster/xcderiveddata](https://github.com/NSHipster/xcderiveddata) - A command-line utility that prints the path of the derived data directory for the current Xcode project
-- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [fieldnotescommunities/ios-device-identifiers](https://github.com/fieldnotescommunities/ios-device-identifiers) - 
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [chinmaygarde/raspberrypi_cross_compilation_sdk](https://github.com/chinmaygarde/raspberrypi_cross_compilation_sdk) - A GN Cross Compilation Buildroot (for targets like the Raspberry Pi)
@@ -8645,6 +8651,7 @@
 
 ## Swift 
 
+- [ivanvorobei/SwiftUI](https://github.com/ivanvorobei/SwiftUI) - Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.
 - [mikeroyal/Metal-Guide](https://github.com/mikeroyal/Metal-Guide) - Metal Guide
 - [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
 - [QuickBirdEng/XCoordinator](https://github.com/QuickBirdEng/XCoordinator) - 🎌 Powerful navigation library for iOS based on the coordinator pattern
@@ -8663,7 +8670,6 @@
 - [pointfreeco/swift-issue-reporting](https://github.com/pointfreeco/swift-issue-reporting) - Report issues in your application and library code as Xcode runtime warnings, breakpoints, assertions, and do so in a testable manner.
 - [shapehq/spices](https://github.com/shapehq/spices) - 🫙🌶️ Spices makes it straightforward to create in-app debug menus by generating native UI from Swift.
 - [tuist/XcodeGraph](https://github.com/tuist/XcodeGraph) - ፨ A Swift Package with data structures to model Xcode workspaces and projects
-- [tuist/Noora](https://github.com/tuist/Noora) - 🎨 A design system for building CLIs in Swift
 - [tuist/SwiftyTailwind](https://github.com/tuist/SwiftyTailwind) - 💇 A Swift Package to pull and run Tailwind from a Swift process
 - [sanzaru/SimpleToast](https://github.com/sanzaru/SimpleToast) - SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content 
 - [VergeGroup/swift-verge](https://github.com/VergeGroup/swift-verge) - 🟣 A robust Swift state-management framework designed for complex applications, featuring an integrated ORM for efficient data handling.
@@ -9224,7 +9230,7 @@
 - [erickjung/SwiftGUI](https://github.com/erickjung/SwiftGUI) - SwiftGUI is an API inspired by SwiftUI DSL, using Dear ImGui as renderer and running on macOS 10.13+ and iOS 11+
 - [SFSafeSymbols/SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
 - [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - 📅 Calendar for Apple platforms in Swift
-- [tuist/tuist](https://github.com/tuist/tuist) - Build better Swift apps faster
+- [tuist/tuist](https://github.com/tuist/tuist) - A virtual platform team for mobile devs who ship
 - [swift-server/swift-service-lifecycle](https://github.com/swift-server/swift-service-lifecycle) - Cleanly startup and shutdown server application, freeing resources in order before exiting.
 - [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
 - [swiftlang/swift-tools-support-core](https://github.com/swiftlang/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
@@ -9673,7 +9679,7 @@
 - [CassiusPacheco/Swift-CleanArchitecture](https://github.com/CassiusPacheco/Swift-CleanArchitecture) - Simple Swift project applying concepts inspired on the Clean Architecture
 - [Flight-School/FloatingPointApproximation](https://github.com/Flight-School/FloatingPointApproximation) - A correct way to determine if two floating-point numbers are approximately equal to one another in Swift
 - [Kitura/Kitura-CredentialsHTTP](https://github.com/Kitura/Kitura-CredentialsHTTP) - A plugin for the Kitura-Credentials framework that authenticates using HTTP Basic and Digest authentication
-- [apple/example-package-dealer](https://github.com/apple/example-package-dealer) - Example package for use with the Swift Package Manager
+- [swiftlang/example-package-dealer](https://github.com/swiftlang/example-package-dealer) - Example package for use with the Swift Package Manager
 - [twilio/twilio-voice-ios](https://github.com/twilio/twilio-voice-ios) - Programmable Voice SDK by Twilio
 - [twilio/twilio-chat-ios](https://github.com/twilio/twilio-chat-ios) - SPM releases
 - [twilio/twilio-video-ios](https://github.com/twilio/twilio-video-ios) - Programmable Video SDK by Twilio
@@ -10334,6 +10340,8 @@
 
 ## TypeScript 
 
+- [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
+- [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.
 - [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) - Access to Anthropic's safety-first language model APIs
 - [jdx/mise-action](https://github.com/jdx/mise-action) - 
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
@@ -10354,7 +10362,7 @@
 - [llvm/vscode-lldb](https://github.com/llvm/vscode-lldb) - 
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [microsoft/ts-gyb](https://github.com/microsoft/ts-gyb) - Generating native code interfaces from TypeScript
-- [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
+- [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
 - [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract +600 technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!
