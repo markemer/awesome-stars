@@ -17,6 +17,7 @@
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Awk](#awk)
+- [BASIC](#basic)
 - [Ballerina](#ballerina)
 - [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
@@ -228,7 +229,6 @@
 - [aldonunez/zelda1-disassembly](https://github.com/aldonunez/zelda1-disassembly) - A complete disassembly of The Legend of Zelda
 - [lukeshiner/6502_computer](https://github.com/lukeshiner/6502_computer) - Tools and code for the Ben Eater 6502 Computer Kit
 - [mafleming/HP71MultiMod](https://github.com/mafleming/HP71MultiMod) - A ROM Emulator for the HP-71B
-- [Embroidermodder/libembroidery](https://github.com/Embroidermodder/libembroidery) - Library for reading/writing/manipulating machine and design embroidery files
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [fadden/6502bench](https://github.com/fadden/6502bench) - A workbench for developing 6502 code
 - [visrealm/hbc-56](https://github.com/visrealm/hbc-56) - Homebrew 65C02 computer on a backplane
@@ -278,6 +278,10 @@
 
 - [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
 
+## BASIC 
+
+- [visrealm/pico9918](https://github.com/visrealm/pico9918) - A replacement for the classic TMS9918A/TMS9929A VDP, powered by a Raspberry Pi Pico
+
 ## Ballerina 
 
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
@@ -316,6 +320,7 @@
 
 ## C 
 
+- [google/ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
 - [adobe-type-tools/afdko](https://github.com/adobe-type-tools/afdko) - Adobe Font Development Kit for OpenType
 - [Summa-Cogni/Mathpad](https://github.com/Summa-Cogni/Mathpad) - A mathematical keypad for students and professionals
 - [t2linux/apple-bce-drv](https://github.com/t2linux/apple-bce-drv) - Apple BCE (Buffer Copy Engine) and associated subsystems drivers for T2-based Macs
@@ -382,7 +387,6 @@
 - [FDOS/freecom](https://github.com/FDOS/freecom) - FreeDOS Command Shell (command.com)
 - [open-simh/simh](https://github.com/open-simh/simh) - The Open SIMH simulators package
 - [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
-- [visrealm/pico9918](https://github.com/visrealm/pico9918) - A replacement for the classic TMS9918A/TMS9929A VDP, powered by a Raspberry Pi Pico
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
 - [ArtifexSoftware/ghostpdl](https://github.com/ArtifexSoftware/ghostpdl) - This is a mirror: the canonical repo is: git.ghostscript.com/ghostpdl.git https://www.ghostscript.com
 - [fsphil/hacktv](https://github.com/fsphil/hacktv) - Analogue TV transmitter for the HackRF
@@ -482,6 +486,7 @@
 - [myriadrf/LimeSuite](https://github.com/myriadrf/LimeSuite) - Driver and GUI for LMS7002M-based SDR platforms
 - [danzeeeman/ofxMH871](https://github.com/danzeeeman/ofxMH871) - WIP openFrameworks addon to drive the US Cutter MH871 MKII and similar HPGL serial plotters
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
+- [Embroidermodder/libembroidery](https://github.com/Embroidermodder/libembroidery) - Library for reading/writing/manipulating machine and design embroidery files
 - [corsix/amx](https://github.com/corsix/amx) - Apple AMX Instruction Set
 - [kingyoPiyo/Pico-10BASE-T](https://github.com/kingyoPiyo/Pico-10BASE-T) - 10BASE-T from Raspberry Pi Pico
 - [aws/aws-nitro-enclaves-sdk-c](https://github.com/aws/aws-nitro-enclaves-sdk-c) - This repo provides a C API for AWS Nitro Enclaves, including a KMS SDK that integrates it with attestation.
@@ -1485,7 +1490,7 @@
 - [fstudio/clangbuilder](https://github.com/fstudio/clangbuilder) - Building Clang ♡ Utility and Environment
 - [google/lldb-eval](https://github.com/google/lldb-eval) - lldb-eval is a library for evaluating expressions in the debugger context
 - [Jana-Marie/trainlog](https://github.com/Jana-Marie/trainlog) - simple position and movement tracker/logger.
-- [iains/gcc-13-branch](https://github.com/iains/gcc-13-branch) - GCC 13 for Darwin with experimental Arm64 support.  Current release 13.3-darwin-r0 [May 2024]
+- [iains/gcc-13-branch](https://github.com/iains/gcc-13-branch) - GCC 13 for Darwin with experimental Arm64 support.  Current release 13.4-darwin-r0 [June 2025]
 - [Blizzard/s2client-api](https://github.com/Blizzard/s2client-api) - StarCraft II Client - C++ library supported on Windows, Linux and Mac designed for building scripted bots and research using the SC2API.
 - [jkriege2/JKQtPlotter](https://github.com/jkriege2/JKQtPlotter) - an extensive Qt5 & Qt6 Plotter framework (including a feature-richt plotter widget, a speed-optimized, but limited variant and a LaTeX equation renderer!), written fully in C/C++ and without external 
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
@@ -2918,7 +2923,7 @@
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [rivo/duplo](https://github.com/rivo/duplo) - Detect duplicate (or similar) images. Written in Go.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [bitly/oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
 - [globalsign/certlint](https://github.com/globalsign/certlint) - X.509 certificate linter, written in Go
@@ -4039,7 +4044,6 @@
 - [vega/vega-desktop](https://github.com/vega/vega-desktop) - App for viewing visualizations created in Vega or Vega-lite
 - [kvaggelakos/serverless-ffmpeg](https://github.com/kvaggelakos/serverless-ffmpeg) - Bucket event driven FFMPEG built with cloud functions
 - [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
-- [neocotic/convert-svg](https://github.com/neocotic/convert-svg) - Node.js packages for converting SVG into other formats using headless Chromium
 - [danvk/dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag
 - [securityheaders/security-headers-cloudflare-worker](https://github.com/securityheaders/security-headers-cloudflare-worker) - A Cloudflare Worker to enable Security Headers on your site.
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
@@ -4657,6 +4661,7 @@
 
 ## Lua 
 
+- [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)
 - [LaughingLeader/BG3ModdingTools](https://github.com/LaughingLeader/BG3ModdingTools) - A collection is miscellaneous snippets and scripts to make life easier when modding Baldur's Gate 3.
 - [QuadrupleA/sqlite-page-explorer](https://github.com/QuadrupleA/sqlite-page-explorer) - Visual tool to explore SQLite databases page-by-page, the way they're stored on disk and the way SQLite sees them.
 - [ArchiveTeam/usgovernment-grab](https://github.com/ArchiveTeam/usgovernment-grab) - Archiving parts of the US government.
@@ -6175,7 +6180,7 @@
 
 ## PHP 
 
-- [Krook9d/PurpleLab](https://github.com/Krook9d/PurpleLab) - PurpleLab is an efficient and readily deployable lab solution, providing a swift setup for cybersecurity professionals to test detection rules, simulate logs, and undertake various security tasks, all
+- [Krook9d/PurpleLab](https://github.com/Krook9d/PurpleLab) - PurpleLab is an efficient and readily deployable lab solution, providing a swift setup for cybersecurity professionals to test detection rules and undertake various security tasks, all accessible thro
 - [CTCL/election-websites](https://github.com/CTCL/election-websites) - Local election official in the United States can use this template to get a head start on building an election website. The template follows guidelines from the Center for Civic Design and is fast, mo
 - [afragen/git-updater](https://github.com/afragen/git-updater) - This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
@@ -7856,6 +7861,7 @@
 
 ## Rust 
 
+- [JonasKruckenberg/k23](https://github.com/JonasKruckenberg/k23) - Experimental WASM Microkernel Operating System
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - Simple Yet Powerful Browser Orchestrator 🍩
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [IBM/ACE-RISCV](https://github.com/IBM/ACE-RISCV) - Assured confidential execution (ACE) implements VM-based trusted execution environment (TEE) for embedded RISC-V systems with focus on a formally verified and auditable firmware.
@@ -8154,7 +8160,7 @@
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [kryptco/ssh-wire](https://github.com/kryptco/ssh-wire) - 
-- [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
+- [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style. (Now with support for macOS 26 Tahoe!)
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust
 - [samuela/rustybox](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust 🦀
 - [getsentry/symbolicator](https://github.com/getsentry/symbolicator) - Native Symbolication as a Service
@@ -10310,7 +10316,7 @@
 - [rpgtex/DND-5e-LaTeX-Template](https://github.com/rpgtex/DND-5e-LaTeX-Template) - LaTeX package to typeset material for the fifth edition of the "world's greatest roleplaying game".
 - [corona-warn-app/cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) - Project overview, general documentation, and white papers. The CWA development ends on May 31, 2023. You still can warn other users until April 30, 2023. More information:
 - [oscarlevin/discrete-book](https://github.com/oscarlevin/discrete-book) - An open textbook for Discrete Mathematics, as taught at the University of Northern Colorado
-- [illinois-cs241/coursebook](https://github.com/illinois-cs241/coursebook) - Open Source Introductory Systems Programming Textbook for the University of Illinois
+- [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) - Open Source Introductory Systems Programming Textbook for the University of Illinois
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 - [ixy-languages/ixy-languages](https://github.com/ixy-languages/ixy-languages) - A high-speed network driver written in C, Rust, C++, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python
 - [schoeberl/chisel-book](https://github.com/schoeberl/chisel-book) - Digital Design with Chisel
@@ -10344,6 +10350,7 @@
 
 ## TypeScript 
 
+- [RemoteDebug/remotedebug-ios-webkit-adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Debug Safari and WebViews on iOS from tools like VS Code and Chrome DevTools
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.
 - [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) - Access to Anthropic's safety-first language model APIs
@@ -10664,6 +10671,7 @@
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
+- [neocotic/convert-svg](https://github.com/neocotic/convert-svg) - Node.js packages for converting SVG into other formats using headless Chromium
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [phosphorjs/phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
