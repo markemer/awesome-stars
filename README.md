@@ -17,7 +17,6 @@
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Awk](#awk)
-- [BASIC](#basic)
 - [Ballerina](#ballerina)
 - [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
@@ -221,6 +220,7 @@
 - [OLIMEX/Neo6502](https://github.com/OLIMEX/Neo6502) - Neo6502 Modern Retro Computer with W65C02S processor and RP2040 memory and peripherals emulator
 - [sillycowvalley/Hopper](https://github.com/sillycowvalley/Hopper) - 
 - [akkartik/mu](https://github.com/akkartik/mu) - Soul of a tiny new machine. More thorough tests → More comprehensible and rewrite-friendly software → More resilient society.
+- [visrealm/pico9918](https://github.com/visrealm/pico9918) - A replacement for the classic TMS9918A/TMS9929A VDP, powered by a Raspberry Pi Pico
 - [mist64/msbasic](https://github.com/mist64/msbasic) - Microsoft BASIC for 6502 (Commodore, Apple, KIM-1, AIM-65, OSI, ...)
 - [beneater/msbasic](https://github.com/beneater/msbasic) - Microsoft BASIC for 6502 (Commodore, Apple, KIM-1, AIM-65, OSI, ...)
 - [kl9900/TMS9900Family](https://github.com/kl9900/TMS9900Family) - Vintage Texas Instruments Cpu System Source Code
@@ -277,10 +277,6 @@
 ## Awk 
 
 - [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
-
-## BASIC 
-
-- [visrealm/pico9918](https://github.com/visrealm/pico9918) - A replacement for the classic TMS9918A/TMS9929A VDP, powered by a Raspberry Pi Pico
 
 ## Ballerina 
 
@@ -417,6 +413,7 @@
 - [nutanix/libvfio-user](https://github.com/nutanix/libvfio-user) - framework for emulating devices in userspace
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [LibreDWG/libredwg](https://github.com/LibreDWG/libredwg) - Official mirror of libredwg. With CI hooks and nightly releases. PR's ok
+- [verilog-to-routing/vtr-verilog-to-routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing) - Verilog to Routing -- Open Source CAD Flow for FPGA Research
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [tillitis/tillitis-key1](https://github.com/tillitis/tillitis-key1) - FPGA verilog and firmware for TKey, the flexible and open USB security key 🔑
 - [TobyLobster/multiply_test](https://github.com/TobyLobster/multiply_test) - Comparing 6502 multiply routines
@@ -698,6 +695,7 @@
 - [illumos/illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system -- this is a read-only mirror of the official repository at https://code.illumos.org/plugins/gitiles/illumos-gate
 - [swift-server/swift-backtrace](https://github.com/swift-server/swift-backtrace) - 💥 Backtraces for Swift on Linux and Windows
 - [ocornut/imgui_club](https://github.com/ocornut/imgui_club) - Nice things to use along dear imgui
+- [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [furiousMAC/continuity](https://github.com/furiousMAC/continuity) - Apple Continuity Protocol Reverse Engineering and Dissector
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [klaussilveira/qengine](https://github.com/klaussilveira/qengine) - Retro game engine for creating games like it's 1997
@@ -887,7 +885,7 @@
 - [vmware/open-vm-tools](https://github.com/vmware/open-vm-tools) - Official repository of VMware open-vm-tools project
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [Distrotech/transfig](https://github.com/Distrotech/transfig) - Transfig (fig2dev)
-- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it o
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [SELinuxProject/cil](https://github.com/SELinuxProject/cil) - The SELinux Common Intermediate Language (CIL) is designed to be a language that sits between one or more high level policy languages (such as the current module language) and the low-level kernel pol
 - [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux
@@ -1155,7 +1153,6 @@
 - [limpkin/mooltipass](https://github.com/limpkin/mooltipass) - Github repository dedicated to the mooltipass project
 - [gonsie/SR](https://github.com/gonsie/SR) - Simplified ROSS (now with history!)
 - [kjn/lbzip2](https://github.com/kjn/lbzip2) - Parallel bzip2 utility
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [gcwnow/linux](https://github.com/gcwnow/linux) - Linux kernel for GCW Zero (Ingenic JZ4770)
 - [macmade/ClangKit](https://github.com/macmade/ClangKit) - ClangKit provides an Objective-C frontend to LibClang. Source tokenization, diagnostics and fix-its are actually implemented.
 - [seb-m/CryptoPill](https://github.com/seb-m/CryptoPill) - Core Secret's crypto code.
@@ -1377,7 +1374,7 @@
 - [LaurieWired/SantaClausProblem](https://github.com/LaurieWired/SantaClausProblem) - C++ solution and demonstration of the Santa Claus concurrency problem
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - The universal dashboard for embedded systems.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Visualize embedded device data.
 - [tomverbeure/fake_parallel_printer](https://github.com/tomverbeure/fake_parallel_printer) - Capture traffic on parallel printer port to USB
 - [pizlonator/llvm-project-deluge](https://github.com/pizlonator/llvm-project-deluge) - Fil-C
 - [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
@@ -1444,7 +1441,6 @@
 - [SystemRDL/systemrdl-compiler](https://github.com/SystemRDL/systemrdl-compiler) - SystemRDL 2.0 language compiler front-end
 - [limbo018/Limbo](https://github.com/limbo018/Limbo) - Library for VLSI CAD Design Useful parsers and solvers' api are implemented.
 - [tpaviot/oce](https://github.com/tpaviot/oce) - OpenCASCADE Community Edition (OCE): a community driven fork of the Open CASCADE library.
-- [verilog-to-routing/vtr-verilog-to-routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing) - Verilog to Routing -- Open Source CAD Flow for FPGA Research
 - [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
 - [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
@@ -1717,7 +1713,6 @@
 - [EpicGames/ShaderConductor](https://github.com/EpicGames/ShaderConductor) - ShaderConductor is a tool designed for cross-compiling HLSL to other shading languages
 - [microsoft/ShaderConductor](https://github.com/microsoft/ShaderConductor) - ShaderConductor is a tool designed for cross-compiling HLSL to other shading languages
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [openbmc/entity-manager](https://github.com/openbmc/entity-manager) - Run-time JSON driven system configuration manager
 - [mitsuba-renderer/mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) - Mitsuba 2: A Retargetable Forward and Inverse Renderer
 - [reg2k/control-health-regen](https://github.com/reg2k/control-health-regen) - A mod for Control that adds configurable in-combat / out-of-combat health regeneration.
@@ -2092,6 +2087,7 @@
 - [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
 - [laprej/ROSS--](https://github.com/laprej/ROSS--) - ROSS-- + C++ = ROSS + C
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [Smoothieware/Smoothiepanel](https://github.com/Smoothieware/Smoothiepanel) - SmoothiePanel is an Open Source Hardware control interface for industrial robotic machinery.
 - [Smoothieware/Smoothieware](https://github.com/Smoothieware/Smoothieware) - Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
@@ -2324,7 +2320,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [rosera/flutter-and-dart-cookbook](https://github.com/rosera/flutter-and-dart-cookbook) - Flutter and Dart Cookbook  O'Reilly Companion repository
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
@@ -2680,7 +2676,7 @@
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub & GitLab
 - [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
 - [DSpeichert/netbootd](https://github.com/DSpeichert/netbootd) - Lightweight network boot/install server (DHCP, TFTP, HTTP)
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - An agent to enable remote management of your EC2 instances, on-premises servers, or virtual machines (VMs).
 - [libdns/libdns](https://github.com/libdns/libdns) - Core interfaces for universal DNS record manipulation across providers
 - [googleapis/gapic-generator-go](https://github.com/googleapis/gapic-generator-go) - Generate Go API client libraries from Protocol Buffers.
@@ -4515,7 +4511,6 @@
 - [dssg/hitchhikers-guide](https://github.com/dssg/hitchhikers-guide) - The Hitchhiker's Guide to Data Science for Social Good
 - [tonykipkemboi/ollama_pdf_rag](https://github.com/tonykipkemboi/ollama_pdf_rag) - A demo Jupyter Notebook showcasing a simple local RAG (Retrieval Augmented Generation) pipeline to chat with your PDFs.
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
-- [flaport/sax](https://github.com/flaport/sax) - S + Autograd + XLA :: S-parameter based frequency domain circuit simulations and optimizations using JAX.
 - [IanBriggs/megalibm](https://github.com/IanBriggs/megalibm) - 
 - [aws-samples/amazon-textract-textractor](https://github.com/aws-samples/amazon-textract-textractor) - Analyze documents with Amazon Textract and generate output in multiple formats.
 - [bmurmann/Book-on-MOS-stages](https://github.com/bmurmann/Book-on-MOS-stages) - Book repository "Analysis and Design of Elementary MOS Amplifier Stages"
@@ -5401,6 +5396,7 @@
 
 ## OpenSCAD 
 
+- [timonoko/Ulefone-Usmart-connector](https://github.com/timonoko/Ulefone-Usmart-connector) - Ulefone 19T have strange USB-connector
 - [fullyautomated/means-of-circuit-design](https://github.com/fullyautomated/means-of-circuit-design) - Assorted KiCad Symbols and Footprints
 - [hugokernel/OpenSCAD_Dovetail](https://github.com/hugokernel/OpenSCAD_Dovetail) - Create dovetail and cut piece with OpenScad
 - [hominoids/SBC_Model_Framework](https://github.com/hominoids/SBC_Model_Framework) - A framework for the generation of SBC and micro-controller models
@@ -5780,6 +5776,7 @@
 - [MSWorkers/support.Githubbers](https://github.com/MSWorkers/support.Githubbers) - Star this repo to show your support to Githubbers!
 - [palewire/nrol-39-logo](https://github.com/palewire/nrol-39-logo) - A vector PDF of the official mission logo of NROL-39 released via FOIA
 - [Siguza/ios-resources](https://github.com/Siguza/ios-resources) - Useful resources for iOS hacking
+- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) - Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client
 - [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [jarikoi/interesting-papers](https://github.com/jarikoi/interesting-papers) - Jari's collection of interesting papers.
@@ -6392,6 +6389,7 @@
 - [robbyzhaox/myocr](https://github.com/robbyzhaox/myocr) - A highly extensible and customizable framework for building OCR systems.
 - [Amourspirit/python_ooo_dev_tools](https://github.com/Amourspirit/python_ooo_dev_tools) - 
 - [rmkenv/disaster-data-replicator](https://github.com/rmkenv/disaster-data-replicator) - Data pipeline for replicating NOAA's Billion-Dollar Disasters Database using NWS and FEMA APIs
+- [Anemll/Anemll](https://github.com/Anemll/Anemll) - Artificial Neural Engine Machine Learning Library
 - [systemd/mkosi](https://github.com/systemd/mkosi) - 💽 Build Bespoke OS Images
 - [inickt/pam_wtid](https://github.com/inickt/pam_wtid) - Patch for Apple's pam_tid PAM Touch ID module to add sudo watch authentication
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
@@ -6449,6 +6447,7 @@
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [virtualsquare/virtualbricks](https://github.com/virtualsquare/virtualbricks) - A GTK frontend for VDE and QEMU/KVM. Supports multiple network on the same host, tunneling between hosts networks, a fully featured configuration interface.
+- [flaport/sax](https://github.com/flaport/sax) - S + Autograd + XLA :: S-parameter based frequency domain circuit simulations and optimizations using JAX.
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [rejunity/tt05-psg-ay8913](https://github.com/rejunity/tt05-psg-ay8913) - TinyTapeout submission with the AY-3-8913 a 3-voice programmable sound generator (PSG) chip from General Instruments.
 - [jpakkane/glyphtracer](https://github.com/jpakkane/glyphtracer) - Glyphtracer is an app for converting images of letters to a font
@@ -6876,6 +6875,7 @@
 - [google-deepmind/mathematics_dataset](https://github.com/google-deepmind/mathematics_dataset) - This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
 - [andrewbihl/bsed](https://github.com/andrewbihl/bsed) - Simple SQL-like syntax on top of Perl text processing.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+- [FPGAwars/apio](https://github.com/FPGAwars/apio) - :seedling: Open source ecosystem for open FPGA boards
 - [adafruit/Adafruit_Adalink](https://github.com/adafruit/Adafruit_Adalink) - Python wrapper for Segger's J-Link Commander & STMicro STLink V2 to flash various ARM MCUs
 - [davidaurelio/hashids-python](https://github.com/davidaurelio/hashids-python) - Implementation of hashids (http://hashids.org) in Python. Compatible with Python 2 and Python 3
 - [openxc/openxc-python](https://github.com/openxc/openxc-python) - OpenXC Python library
@@ -7539,7 +7539,6 @@
 - [grab/cocoapods-pod-merge](https://github.com/grab/cocoapods-pod-merge) - Cocoapods plugin to merge pods used by your Xcode project, reducing the number of dynamic frameworks your app has to load on startup
 - [nooverviewavailable/NoOverviewAvailable.com](https://github.com/nooverviewavailable/NoOverviewAvailable.com) - A survey of Apple developer documentation.
 - [unixcharles/acme-client](https://github.com/unixcharles/acme-client) - A Ruby client for the letsencrypt's ACME protocol.
-- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [fastlane-community/xcresult](https://github.com/fastlane-community/xcresult) - Ruby interface for inspecting data and exporting data from Xcode 11 .xcresult files
 - [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 - [yob/pdf-reader](https://github.com/yob/pdf-reader) - The PDF::Reader library implements a PDF parser conforming as much as possible to the PDF specification from Adobe.
@@ -8660,6 +8659,7 @@
 
 ## Swift 
 
+- [scriptingosx/utiluti](https://github.com/scriptingosx/utiluti) - A macOS command-line to work with default apps
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [ivanvorobei/SwiftUI](https://github.com/ivanvorobei/SwiftUI) - Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.
 - [mikeroyal/Metal-Guide](https://github.com/mikeroyal/Metal-Guide) - Metal Guide
@@ -8670,7 +8670,6 @@
 - [FlineDev/ErrorKit](https://github.com/FlineDev/ErrorKit) - Simplified error handling with built-in user-friendly messages for common errors. Fully localized. Community-driven.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
-- [Anemll/Anemll](https://github.com/Anemll/Anemll) - Artificial Neural Engine Machine Learning Library
 - [nachonavarro/Pages](https://github.com/nachonavarro/Pages) - 📖   A lightweight, paging view solution for SwiftUI
 - [apple/swift-container-plugin](https://github.com/apple/swift-container-plugin) - Build and publish container images using Swift Package Manager
 - [Reflejo/pam-touchID](https://github.com/Reflejo/pam-touchID) - PAM plugin module that allows touch ID to be used for authentication
@@ -8736,7 +8735,7 @@
 - [mergesort/Recap](https://github.com/mergesort/Recap) - A What's New screen, and more
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
 - [toucansites/toucan](https://github.com/toucansites/toucan) - Toucan is a static site generator written in Swift.
-- [apple/pir-service-example](https://github.com/apple/pir-service-example) - Example PIR service & documentation for Live Caller ID Lookup
+- [apple/pir-service-example](https://github.com/apple/pir-service-example) - Example PIR service & documentation for Live Caller ID Lookup & NEURLFilter
 - [amosavian/FileProvider](https://github.com/amosavian/FileProvider) - FileManager replacement for Local, iCloud and Remote (WebDAV/FTP/Dropbox/OneDrive) files -- Swift
 - [xcodereleases/data](https://github.com/xcodereleases/data) - The data generator that powers xcodereleases.com
 - [nick-botticelli/super-tart](https://github.com/nick-botticelli/super-tart) - tart, but with custom AVPBooter ROM, serial I/O, DFU mode, GDB debugging (port 8000), and panic halting. See help menus for `tart create` and `tart run` for more info. Requires SIP/AMFI to be disabled
@@ -10359,7 +10358,7 @@
 - [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
 - [tscircuit/circuit-json](https://github.com/tscircuit/circuit-json) - Circuit JSON a low-level circuit representation. Visually represent schematic, PCB, produce Gerber files, produce bill of materials, run SPICE simulations, view warnings and more.
 - [polylog-cs/zero-knowledge-proofs](https://github.com/polylog-cs/zero-knowledge-proofs) - 
-- [git-truck/git-truck](https://github.com/git-truck/git-truck) - Git repository visualizations, cumulative contribution statistics and more. Run npx -y git-truck to use Git Truck today!
+- [git-truck/git-truck](https://github.com/git-truck/git-truck) - Git repository visualizations, cumulative contribution statistics and more. Run `npx -y git-truck` to try Git Truck today!
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is an experimental language for describing data relationships and transformations.
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
@@ -10505,7 +10504,7 @@
 - [hot3eed/xpcspy](https://github.com/hot3eed/xpcspy) - Bidirectional XPC message interception and more. Powered by Frida
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [jeffanddom/ink2txt](https://github.com/jeffanddom/ink2txt) - 
 - [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) - ⏹️ GitHub Action to cancel previous running workflows on push
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
@@ -10800,6 +10799,7 @@
 
 ## Verilog 
 
+- [SparcLab/OpenSERDES](https://github.com/SparcLab/OpenSERDES) - Digitally synthesizable architecture for SerDes using Skywater Open PDK 130 nm technology.
 - [mole99/greyhound-ihp](https://github.com/mole99/greyhound-ihp) - Greyhound on IHP SG13G2 0.13 μm BiCMOS process
 - [nand2mario/snestang](https://github.com/nand2mario/snestang) - Super Nintendo Entertainment System for Tang FPGA boards
 - [IHP-GmbH/IHP-Open-DesignLib](https://github.com/IHP-GmbH/IHP-Open-DesignLib) - Open source designs developed with IHP 130nm BiCMOS Open Source PDK. Documentation at https://ihp-open-ip.readthedocs.io/en/latest/
@@ -10866,7 +10866,6 @@
 - [antonblanchard/microwatt](https://github.com/antonblanchard/microwatt) - A tiny Open POWER ISA softcore written in VHDL 2008
 - [alexforencich/verilog-axi](https://github.com/alexforencich/verilog-axi) - Verilog AXI components for FPGA implementation
 - [strigeus/fpganes](https://github.com/strigeus/fpganes) - NES in Verilog
-- [FPGAwars/apio](https://github.com/FPGAwars/apio) - :seedling: Open source ecosystem for open FPGA boards
 - [ZipCPU/zipversa](https://github.com/ZipCPU/zipversa) - A Versa Board implementation using the AutoFPGA/ZipCPU infrastructure
 - [MiSTer-devel/Genesis_MiSTer](https://github.com/MiSTer-devel/Genesis_MiSTer) - Sega Genesis for MiSTer
 - [bluespec/Piccolo](https://github.com/bluespec/Piccolo) - RISC-V CPU, simple 3-stage pipeline, for low-end applications (e.g., embedded, IoT)
