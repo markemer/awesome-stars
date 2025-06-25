@@ -1363,6 +1363,7 @@
 
 ## C++ 
 
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [dalathegreat/Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters
 - [gnucap/gnucap](https://github.com/gnucap/gnucap) - gnucap mirror (read only)
 - [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) - Command and Conquer: Generals - Zero Hour
@@ -2475,6 +2476,8 @@
 
 ## Go 
 
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
 - [cwarden/git-add--interactive](https://github.com/cwarden/git-add--interactive) - git-add--interactive with extra features
 - [glasskube/distr](https://github.com/glasskube/distr) - The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.
 - [namecheap/go-namecheap-sdk](https://github.com/namecheap/go-namecheap-sdk) - Go library for Namecheap API
@@ -3144,7 +3147,6 @@
 - [qucat/qucat](https://github.com/qucat/qucat) - Quantum Circuit Analyzer Tool
 - [daveho/GALasm](https://github.com/daveho/GALasm) - Very slightly modified version of Alessandro Zummo's GALasm 2.1, for programming GAL devices
 - [pa3gsb/Radioberry-2.x](https://github.com/pa3gsb/Radioberry-2.x) - Ham Radio hat for Raspberry PI
-- [panglesd/slipshow](https://github.com/panglesd/slipshow) - An engine for displaying slips, the next-gen version of slides
 - [ModdingLinked/Viva-New-Vegas](https://github.com/ModdingLinked/Viva-New-Vegas) - A comprehensive Fallout New Vegas modding guide.
 - [IHP-GmbH/IHP-Open-PDK](https://github.com/IHP-GmbH/IHP-Open-PDK) - 130nm BiCMOS Open Source PDK, dedicated for Analog, Mixed Signal and RF Design
 - [nanographs/Open-Beam-Interface](https://github.com/nanographs/Open-Beam-Interface) - 
@@ -3593,6 +3595,7 @@
 
 ## JavaScript 
 
+- [luckymarmot/Paw-DigestAuthDynamicValue](https://github.com/luckymarmot/Paw-DigestAuthDynamicValue) - HTTP Digest Auth extension for Paw
 - [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [netbymatt/ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
@@ -3923,7 +3926,6 @@
 - [aceakash/string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
 - [dandrews/nefarious-linkedin](https://github.com/dandrews/nefarious-linkedin) - :shipit: A look at how LinkedIn spies on its users.
 - [pswai/git-sweep](https://github.com/pswai/git-sweep) - Clean up remote branches for git repo
-- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
 - [portsmouth/fibre](https://github.com/portsmouth/fibre) - WebGL 3d dynamical systems visualization
 - [mewo2/terrain](https://github.com/mewo2/terrain) - Fantasy map generator
@@ -4811,6 +4813,7 @@
 
 - [Nitrokey/nethsm](https://github.com/Nitrokey/nethsm) - Nitrokey NetHSM system software and firmware
 - [NyuB/ocli](https://github.com/NyuB/ocli) - Mini elm-inspired utilities for Ocaml CLI applications
+- [panglesd/slipshow](https://github.com/panglesd/slipshow) - An engine for displaying slips, the next-gen version of slides
 - [mirage/ocaml-tar](https://github.com/mirage/ocaml-tar) - Pure OCaml library to read and write tar files
 - [ocsigen/lwt](https://github.com/ocsigen/lwt) - OCaml promises and concurrent I/O
 - [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
@@ -6347,6 +6350,7 @@
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [parsec-cloud/Cloud-GPU-Updater](https://github.com/parsec-cloud/Cloud-GPU-Updater) - For updating P4000, P5000 and M60 GPU's
+- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
 - [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
@@ -6459,7 +6463,7 @@
 - [dekuNukem/PicoRC](https://github.com/dekuNukem/PicoRC) - PicoPSU adaptor for retro computers
 - [leswright1977/PySpectrometer](https://github.com/leswright1977/PySpectrometer) - Raspberry Pi Spectrometer
 - [abey79/vpype](https://github.com/abey79/vpype) - The Swiss-Army-knife command-line tool for plotter vector graphics.
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [dynamixel-community/dynamixel_hardware_examples](https://github.com/dynamixel-community/dynamixel_hardware_examples) - ros2_control robot examples with dynamixel_hardware
 - [Le0Michine/FusionGridfinityGenerator](https://github.com/Le0Michine/FusionGridfinityGenerator) - 
@@ -6584,7 +6588,6 @@
 - [timothycrosley/streamdeck-ui](https://github.com/timothycrosley/streamdeck-ui) - A Linux compatible UI for the Elgato Stream Deck.
 - [abcminiuser/python-elgato-streamdeck](https://github.com/abcminiuser/python-elgato-streamdeck) - Python library to control the Elgato Stream Deck.
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
-- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams
@@ -7059,6 +7062,7 @@
 - [nst/objc_dep](https://github.com/nst/objc_dep) - Graph the import dependancies in an Objective-C project
 - [cmdmnt/commandment](https://github.com/cmdmnt/commandment) - Open Source Apple MDM implemented in Python
 - [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral is a high-visibility platform for controlling Apple endpoints in enterprises. It brings great observability to IT and makes tracking & reporting compliance much less manual.
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [project-imas/mdm-server](https://github.com/project-imas/mdm-server) - Sample iOS MDM server
 - [pearl-core/pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessibl
 - [iawia002/Lulu](https://github.com/iawia002/Lulu) - [Unmaintained] A simple and clean video/music/image downloader 👾
@@ -7558,7 +7562,7 @@
 - [messeb/ios-project-template](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [ShuttleProject/fastlane-plugin-shuttle](https://github.com/ShuttleProject/fastlane-plugin-shuttle) - Shuttle fastlane integration.
-- [hdm/mac-ages](https://github.com/hdm/mac-ages) - MAC address age tracking
+- [hdm/mac-ages](https://github.com/hdm/mac-ages) - This repository has been combined with mac-tracker project and no longer receives updates.
 - [sportngin/brew-gem](https://github.com/sportngin/brew-gem) - Install gems as homebrew formulas
 - [twilio/cocoapod-specs](https://github.com/twilio/cocoapod-specs) - 
 - [square/cocoapods-generate](https://github.com/square/cocoapods-generate) - A CocoaPods plugin that allows you to easily generate a workspace from a podspec.
@@ -8270,7 +8274,7 @@
 
 ## Scala 
 
-- [chipsalliance/t1](https://github.com/chipsalliance/t1) - The highest performace Cray-like RISC-V Vector in the world.
+- [chipsalliance/t1](https://github.com/chipsalliance/t1) - 
 - [aesc-silicon/i2c-gpio-expander](https://github.com/aesc-silicon/i2c-gpio-expander) - End-to-End Open-Source I2C GPIO Expander
 - [ovh/sv2chisel](https://github.com/ovh/sv2chisel) - (System)Verilog to Chisel translator
 - [historicalsource/leisure-suit-larry-1-vga](https://github.com/historicalsource/leisure-suit-larry-1-vga) - A VGA version of a game about a man on a quest.
@@ -8659,6 +8663,7 @@
 
 ## Swift 
 
+- [ionic-team/ios-kitchen-sink.swiftpm](https://github.com/ionic-team/ios-kitchen-sink.swiftpm) - A collection of iOS components in Swift for comparison with Ionic Framework components.
 - [scriptingosx/utiluti](https://github.com/scriptingosx/utiluti) - A macOS command-line to work with default apps
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [ivanvorobei/SwiftUI](https://github.com/ivanvorobei/SwiftUI) - Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.
@@ -10245,6 +10250,7 @@
 
 ## SystemVerilog 
 
+- [pulp-platform/common_cells](https://github.com/pulp-platform/common_cells) - Common SystemVerilog components
 - [pulp-platform/tech_cells_generic](https://github.com/pulp-platform/tech_cells_generic) - Technology dependent cells instantiated in the design for generic process (simulation, FPGA)
 - [openhwgroup/cv32e40x](https://github.com/openhwgroup/cv32e40x) - 4 stage, in-order, compute RISC-V core based on the CV32E40P
 - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
@@ -10373,7 +10379,7 @@
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [microsoft/ts-gyb](https://github.com/microsoft/ts-gyb) - Generating native code interfaces from TypeScript
 - [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
-- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract +600 technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
+- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract +700 technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!
 - [davidnguyen11/web-extension-boilerplate](https://github.com/davidnguyen11/web-extension-boilerplate) - The web extension boilerplate help to set up project quickly using typescript, jest, webpack, githook, prettier and github actions
@@ -10633,6 +10639,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [KnicKnic/WASM-ImageMagick](https://github.com/KnicKnic/WASM-ImageMagick) - Webassembly compilation of https://github.com/ImageMagick/ImageMagick & samples
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [alexandercerutti/passkit-generator](https://github.com/alexandercerutti/passkit-generator) - The easiest way to generate custom Apple Wallet passes in Node.js
@@ -10679,7 +10686,6 @@
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, TypeScript module, and more!
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
@@ -10799,6 +10805,8 @@
 
 ## Verilog 
 
+- [WangXuan95/FPGA-CAN](https://github.com/WangXuan95/FPGA-CAN) - An FPGA-based lightweight CAN bus controller. 基于FPGA的轻量级CAN总线控制器。
+- [WangXuan95/FPGA-SDfake](https://github.com/WangXuan95/FPGA-SDfake) - Imitate SDcard using FPGAs. 使用FPGA模拟伪装SD卡。
 - [SparcLab/OpenSERDES](https://github.com/SparcLab/OpenSERDES) - Digitally synthesizable architecture for SerDes using Skywater Open PDK 130 nm technology.
 - [mole99/greyhound-ihp](https://github.com/mole99/greyhound-ihp) - Greyhound on IHP SG13G2 0.13 μm BiCMOS process
 - [nand2mario/snestang](https://github.com/nand2mario/snestang) - Super Nintendo Entertainment System for Tang FPGA boards
