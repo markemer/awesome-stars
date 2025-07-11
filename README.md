@@ -51,6 +51,7 @@
 - [F#](#f#)
 - [Factor](#factor)
 - [Fortran](#fortran)
+- [FreeBASIC](#freebasic)
 - [G-code](#g-code)
 - [GDScript](#gdscript)
 - [GLSL](#glsl)
@@ -316,6 +317,11 @@
 
 ## C 
 
+- [QB64Official/qb64](https://github.com/QB64Official/qb64) - The official home for the QB64 source code and wiki.
+- [berry-lang/berry](https://github.com/berry-lang/berry) - A ultra-lightweight embedded scripting language optimized for microcontrollers.
+- [nanochess/transputer](https://github.com/nanochess/transputer) - Transputer T805 emulator, assembler, Pascal compiler, operating system, and K&R C compiler.
+- [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
+- [stevedonovan/luabuild](https://github.com/stevedonovan/luabuild) - A highly customizable Lua 5.2 build system, allowing for common external modules to be linked in statically, and built-in modules to be excluded
 - [google/ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
 - [adobe-type-tools/afdko](https://github.com/adobe-type-tools/afdko) - Adobe Font Development Kit for OpenType
 - [Summa-Cogni/Mathpad](https://github.com/Summa-Cogni/Mathpad) - A mathematical keypad for students and professionals
@@ -1362,6 +1368,8 @@
 
 ## C++ 
 
+- [ZigRazor/CXXStateTree](https://github.com/ZigRazor/CXXStateTree) - A C++ Header-Only Hierarchical State Tree Library
+- [brianluft/heirloom](https://github.com/brianluft/heirloom) - Heirloom apps — Modernized File Manager and Program Manager for Windows
 - [quic/eud](https://github.com/quic/eud) - 
 - [BitFunnel/NativeJIT](https://github.com/BitFunnel/NativeJIT) - A C++ expression -&gt; x64 JIT
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
@@ -1372,7 +1380,7 @@
 - [electronicarts/CnC_Tiberian_Dawn](https://github.com/electronicarts/CnC_Tiberian_Dawn) - Command and Conquer Tiberian Dawn
 - [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
-- [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware) - VM detection library and tool
+- [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware) - Advanced VM detection library and tool
 - [LaurieWired/SantaClausProblem](https://github.com/LaurieWired/SantaClausProblem) - C++ solution and demonstration of the Santa Claus concurrency problem
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
@@ -2090,7 +2098,6 @@
 - [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
 - [laprej/ROSS--](https://github.com/laprej/ROSS--) - ROSS-- + C++ = ROSS + C
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [Smoothieware/Smoothiepanel](https://github.com/Smoothieware/Smoothiepanel) - SmoothiePanel is an Open Source Hardware control interface for industrial robotic machinery.
 - [Smoothieware/Smoothieware](https://github.com/Smoothieware/Smoothieware) - Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
@@ -2446,6 +2453,10 @@
 - [usnistgov/dataplot](https://github.com/usnistgov/dataplot) - Source code and auxiliary files for dataplot.
 - [fortran-lang/stdlib](https://github.com/fortran-lang/stdlib) - Fortran Standard Library
 
+## FreeBASIC 
+
+- [DualBrain/QB64](https://github.com/DualBrain/QB64) - QB64 Hub Site
+
 ## G-code 
 
 - [prusa3d/libbgcode](https://github.com/prusa3d/libbgcode) - Prusa Block & Binary G-code reader / writer / converter
@@ -2478,6 +2489,9 @@
 
 ## Go 
 
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale) - A highly experimental exploration of integrating Tailscale and Caddy.
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
@@ -3598,6 +3612,10 @@
 
 ## JavaScript 
 
+- [octokit/app-permissions](https://github.com/octokit/app-permissions) - machine-readable, always up-to-date GitHub App permissions
+- [octokit/graphql-schema](https://github.com/octokit/graphql-schema) - GitHub’s GraphQL Schema with validation. Automatically updated.
+- [asamuzaK/webExtNativeMsg](https://github.com/asamuzaK/webExtNativeMsg) - Helper modules for WebExtensions native messaging host
+- [jbnicolai/ansi-256-colors](https://github.com/jbnicolai/ansi-256-colors) - 256 ansi color codes for sparkling rainbows in the terminal
 - [luckymarmot/Paw-DigestAuthDynamicValue](https://github.com/luckymarmot/Paw-DigestAuthDynamicValue) - HTTP Digest Auth extension for Paw
 - [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
@@ -3649,7 +3667,7 @@
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
-- [JerryI/wljs-interpreter](https://github.com/JerryI/wljs-interpreter) - 
+- [WLJSTeam/wljs-interpreter](https://github.com/WLJSTeam/wljs-interpreter) - 
 - [Page-Replica/page-replica](https://github.com/Page-Replica/page-replica) - Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost
 - [ahmed-agiza/EDAViewer](https://github.com/ahmed-agiza/EDAViewer) - EDAV: Open-Source EDA Viewer; render design LEF/DEF files in your browser!
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
@@ -4608,7 +4626,7 @@
 - [touchlab/KMMBridge](https://github.com/touchlab/KMMBridge) - KMMBridge is a tool that helps publish Kotlin Multiplatform (KMP) Xcode binaries for use from Swift Package Manager (SPM) and CocoaPods.
 - [deliveryhero/whetstone](https://github.com/deliveryhero/whetstone) - Whetstone is a dependency injection framework for Android that greatly simplifies working with Dagger 2 using all the powers of Anvil
 - [jcaldier/feline-friendly-plants](https://github.com/jcaldier/feline-friendly-plants) - [WIP] Lightweight app for determining whether a house plant is safe for cats or not.
-- [android-password-store/kage](https://github.com/android-password-store/kage) - 🚧 WIP Kotlin implementation of the age file encryption format
+- [android-password-store/kage](https://github.com/android-password-store/kage) - Kotlin implementation of the age file encryption format
 - [pinterest/ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
 - [varabyte/kobweb](https://github.com/varabyte/kobweb) - A modern framework for full stack web apps in Kotlin, built upon Compose HTML
 - [cashapp/redwood](https://github.com/cashapp/redwood) - Multiplatform reactive UI for Android, iOS, and web using Kotlin and Jetpack Compose
@@ -4724,6 +4742,7 @@
 
 ## Makefile 
 
+- [mroi/apple-internals](https://github.com/mroi/apple-internals) - information and tools to understand the internals of Apple’s operating systems
 - [drk1wi/portspoof](https://github.com/drk1wi/portspoof) - Portspoof
 - [NabuCasa/buildroot-installer](https://github.com/NabuCasa/buildroot-installer) - Buildroot for Yellow Installer and Tester
 - [jmapio/jmap](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification (JMAP)
@@ -4856,6 +4875,7 @@
 
 ## Objective-C 
 
+- [ViennaRSS/MMTabBarView](https://github.com/ViennaRSS/MMTabBarView) - 
 - [tww0003/KMLParser](https://github.com/tww0003/KMLParser) - A Swift Package for Apple's KMLParser
 - [YubicoLabs/YubiKit-iOS-Starter](https://github.com/YubicoLabs/YubiKit-iOS-Starter) - iOS Swift starter app integrated with Yubico SDK for iOS
 - [libobjc/SGPlayer](https://github.com/libobjc/SGPlayer) - A powerful media play framework for iOS, macOS, and tvOS.
@@ -5418,6 +5438,7 @@
 
 ## Others 
 
+- [PacktPublishing/Improving-CAD-Designs-with-Autodesk-Fusion-360](https://github.com/PacktPublishing/Improving-CAD-Designs-with-Autodesk-Fusion-360) - Improving CAD Designs with Autodesk Fusion 360, published by Packt
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [ngrok/ngrok-api-go](https://github.com/ngrok/ngrok-api-go) - ngrok API client library for Golang
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
@@ -5747,7 +5768,7 @@
 - [sakofchit/fund-my-project](https://github.com/sakofchit/fund-my-project) - A directory of verified programs that offer grants + funding towards side projects/startups
 - [matthewreagan/BashSnippets](https://github.com/matthewreagan/BashSnippets) - Simple bash scripting examples and snippets
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [dariubs/awesome-proxy](https://github.com/dariubs/awesome-proxy) - A collaborative list of awesome proxy servers and resources. Feel free to contribute!
+- [devtoolsd/awesome-devtools](https://github.com/devtoolsd/awesome-devtools) - A curated list of awesome developer tools and services — from cloud platforms and IDEs to AI-powered coding assistants and productivity utilities.
 - [aozhimin/iOS-Debug-Hacks](https://github.com/aozhimin/iOS-Debug-Hacks) - :dart: Advanced debugging skills used in the iOS project development process, involves the dynamic debugging, static analysis and decompile of third-party libraries. iOS 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分
 - [objcio/thinking-in-swiftui-code](https://github.com/objcio/thinking-in-swiftui-code) - Accompanying code for the book Thinking in SwiftUI
 - [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with GitHub's integration for Slack
@@ -6387,6 +6408,7 @@
 
 ## Python 
 
+- [aedrax/opasm](https://github.com/aedrax/opasm) - Assembly REPL
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API + UI)
 - [HelgeGehring/gdshelpers](https://github.com/HelgeGehring/gdshelpers) - GDSHelpers is an open-source package for automatized pattern generation for nano-structuring.
 - [robotools/robofab](https://github.com/robotools/robofab) - RoboFab
@@ -7065,7 +7087,6 @@
 - [nst/objc_dep](https://github.com/nst/objc_dep) - Graph the import dependancies in an Objective-C project
 - [cmdmnt/commandment](https://github.com/cmdmnt/commandment) - Open Source Apple MDM implemented in Python
 - [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral is a high-visibility platform for controlling Apple endpoints in enterprises. It brings great observability to IT and makes tracking & reporting compliance much less manual.
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [project-imas/mdm-server](https://github.com/project-imas/mdm-server) - Sample iOS MDM server
 - [pearl-core/pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessibl
 - [iawia002/Lulu](https://github.com/iawia002/Lulu) - [Unmaintained] A simple and clean video/music/image downloader 👾
@@ -7319,6 +7340,7 @@
 - [xyz2tex/dot2tex](https://github.com/xyz2tex/dot2tex) - Convert graphs generated by Graphviz to LaTeX friendly formats
 - [nvidia-compiler-sdk/pynvvm](https://github.com/nvidia-compiler-sdk/pynvvm) - Python bindings for libNVVM
 - [m-labs/migen](https://github.com/m-labs/migen) - A Python toolbox for building complex digital hardware
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [aws-samples/aws-python-sample](https://github.com/aws-samples/aws-python-sample) - Sample project to demonstrate usage of the AWS SDK for Python
@@ -7474,6 +7496,7 @@
 
 ## Ruby 
 
+- [contraptionco/postcard](https://github.com/contraptionco/postcard) - Personal website + newsletter as an alternative to social media.
 - [ViewComponent/view_component](https://github.com/ViewComponent/view_component) - A framework for building reusable, testable & encapsulated view components in Ruby on Rails.
 - [binarylogic/authlogic](https://github.com/binarylogic/authlogic) - A simple ruby authentication solution.
 - [asciidoctor/asciidoctor-extensions-lab](https://github.com/asciidoctor/asciidoctor-extensions-lab) - A lab for testing and demonstrating Asciidoctor extensions. Please do not use this code in production. If you want to use one of these extensions in your application, create a new project, import the 
@@ -7867,7 +7890,8 @@
 
 ## Rust 
 
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [richardscollin/tmux-rs](https://github.com/richardscollin/tmux-rs) - A Rust port of tmux
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [JonasKruckenberg/k23](https://github.com/JonasKruckenberg/k23) - Experimental WASM Microkernel Operating System
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - Simple Yet Powerful Browser Orchestrator 🍩
@@ -8325,6 +8349,7 @@
 
 ## Shell 
 
+- [tailscale-dev/examples-api-scripts](https://github.com/tailscale-dev/examples-api-scripts) - Minimally functional demonstration scripts for API actions. Meant to be a starting point to develop your own workflows.
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
 - [Parallels/prlctl-scripts](https://github.com/Parallels/prlctl-scripts) - Somes useful scripts to use with Parallels command line to help in automation
 - [bpdegnan/redbash](https://github.com/bpdegnan/redbash) - Userland macports that is targeted at RHEL so that packages can be installed without root.
@@ -8669,6 +8694,9 @@
 
 ## Swift 
 
+- [Yubico/yubikit-swift](https://github.com/Yubico/yubikit-swift) - Yubico Swift SDK - YubiKit
+- [davedufresne/SwiftParsec](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language.
+- [pointfreeco/swift-macro-testing](https://github.com/pointfreeco/swift-macro-testing) - Magical testing tools for Swift macros.
 - [swift-server-community/APNSwift](https://github.com/swift-server-community/APNSwift) - 📱HTTP/2 Apple Push Notification Service built with swift - send push notifications to iOS, iPadOS, tvOS, macOS, watchOS, visionOS, and Safari!
 - [ionic-team/ios-kitchen-sink.swiftpm](https://github.com/ionic-team/ios-kitchen-sink.swiftpm) - A collection of iOS components in Swift for comparison with Ionic Framework components.
 - [scriptingosx/utiluti](https://github.com/scriptingosx/utiluti) - A macOS command-line to work with default apps
@@ -10362,6 +10390,11 @@
 
 ## TypeScript 
 
+- [tscircuit/kicad-viewer](https://github.com/tscircuit/kicad-viewer) - View all the official kicad library files on the web
+- [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
+- [tscircuit/cli](https://github.com/tscircuit/cli) - Create electronics with React with a local development server
+- [getsentry/Reaper-iOS](https://github.com/getsentry/Reaper-iOS) - A tool for detecting unused code
+- [octokit/webhooks](https://github.com/octokit/webhooks) - machine-readable, always up-to-date GitHub Webhooks specifications
 - [RemoteDebug/remotedebug-ios-webkit-adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Debug Safari and WebViews on iOS from tools like VS Code and Chrome DevTools
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.
@@ -10695,6 +10728,7 @@
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, TypeScript module, and more!
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
