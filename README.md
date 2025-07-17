@@ -353,6 +353,7 @@
 - [apache/nuttx](https://github.com/apache/nuttx) - Apache NuttX is a mature, real-time embedded operating system (RTOS)
 - [FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS) - 'Classic' FreeRTOS distribution.  Started as Git clone of FreeRTOS SourceForge SVN repo.  Submodules the kernel.
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Visualize embedded device data.
 - [libgit2/libgit2-backends](https://github.com/libgit2/libgit2-backends) - Standalone ODB backends for the libgit2 library
 - [rudyrucker/chaos](https://github.com/rudyrucker/chaos) - James Gleick's Chaos: The Software
 - [tidwall/geokit](https://github.com/tidwall/geokit) - Various geodesic calculations for C
@@ -1368,6 +1369,10 @@
 
 ## C++ 
 
+- [tomasz-grobelny/AACS](https://github.com/tomasz-grobelny/AACS) - Android Auto Server encapsulates communication with modern car infotainment system
+- [collin80/SavvyCAN](https://github.com/collin80/SavvyCAN) - QT based cross platform canbus tool
+- [Alia5/PiCCANTE](https://github.com/Alia5/PiCCANTE) - PiCCANTE is a powerful tool for exploring and reversing CAN busses of vehicles, based on Raspberry Pi Pico (any model)
+- [InkboxSoftware/all-screen-keyboard](https://github.com/InkboxSoftware/all-screen-keyboard) - The first open source all-screen keyboard
 - [ZigRazor/CXXStateTree](https://github.com/ZigRazor/CXXStateTree) - A C++ Header-Only Hierarchical State Tree Library
 - [brianluft/heirloom](https://github.com/brianluft/heirloom) - Heirloom apps — Modernized File Manager and Program Manager for Windows
 - [quic/eud](https://github.com/quic/eud) - 
@@ -1384,7 +1389,6 @@
 - [LaurieWired/SantaClausProblem](https://github.com/LaurieWired/SantaClausProblem) - C++ solution and demonstration of the Santa Claus concurrency problem
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Visualize embedded device data.
 - [tomverbeure/fake_parallel_printer](https://github.com/tomverbeure/fake_parallel_printer) - Capture traffic on parallel printer port to USB
 - [pizlonator/llvm-project-deluge](https://github.com/pizlonator/llvm-project-deluge) - Fil-C
 - [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
@@ -1512,7 +1516,6 @@
 - [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 - [AcademySoftwareFoundation/MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) - MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.
 - [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
-- [jackhumbert/let_there_be_flight](https://github.com/jackhumbert/let_there_be_flight) - A flight mod for Cyberpunk 2077
 - [heitzmann/gdstk](https://github.com/heitzmann/gdstk) - Gdstk (GDSII Tool Kit) is a C++/Python library for creation and manipulation of GDSII and OASIS files.
 - [alexbatalov/fallout1-ce](https://github.com/alexbatalov/fallout1-ce) - Fallout for modern operating systems
 - [alexbatalov/fallout2-ce](https://github.com/alexbatalov/fallout2-ce) - Fallout 2 for modern operating systems
@@ -2489,6 +2492,8 @@
 
 ## Go 
 
+- [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying
+- [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale) - A highly experimental exploration of integrating Tailscale and Caddy.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -3171,6 +3176,7 @@
 - [chilaPCB/Altium-Library](https://github.com/chilaPCB/Altium-Library) - Altium Library with 4000 components, IPC compliant footprints, 3D step model
 - [fabriziotappero/opencores-scraper](https://github.com/fabriziotappero/opencores-scraper) - few python scripts to clone all IP cores from opencores.org
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
+- [Heber-co-uk/Multisystem](https://github.com/Heber-co-uk/Multisystem) - The MiSTer Multisystem console Hardware PCB - FPGA platform
 - [will127534/OneInchEye](https://github.com/will127534/OneInchEye) - A One Inch CMOS sensor (IMX283) camera board designed for Raspberry Pi
 - [thpoll83/PolyKybd](https://github.com/thpoll83/PolyKybd) - PolyKybd
 - [dy/wavefont](https://github.com/dy/wavefont) - Typeface for rendering waveform/data
@@ -5438,6 +5444,7 @@
 
 ## Others 
 
+- [github/ruleset-recipes](https://github.com/github/ruleset-recipes) - Quickstart your use of Repository Rules with prebuilt rulesets ready to import.
 - [PacktPublishing/Improving-CAD-Designs-with-Autodesk-Fusion-360](https://github.com/PacktPublishing/Improving-CAD-Designs-with-Autodesk-Fusion-360) - Improving CAD Designs with Autodesk Fusion 360, published by Packt
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [ngrok/ngrok-api-go](https://github.com/ngrok/ngrok-api-go) - ngrok API client library for Golang
@@ -5517,7 +5524,6 @@
 - [drom/awesome-hdl](https://github.com/drom/awesome-hdl) - Hardware Description Languages
 - [fabriziotappero/ip-cores](https://github.com/fabriziotappero/ip-cores) - A huge collection of VHDL/Verilog open-source IP cores scraped from the web
 - [arcataroger/awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - A curated list of engineering-related video games rated Very Positive or higher on Steam
-- [Heber-co-uk/Multisystem](https://github.com/Heber-co-uk/Multisystem) - The MiSTer Multisystem console Hardware PCB - FPGA platform
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
 - [astronexus/HYG-Database](https://github.com/astronexus/HYG-Database) - Current version of the HYG Stellar database
@@ -7239,7 +7245,7 @@
 - [dit/dit](https://github.com/dit/dit) - Python package for information theory.
 - [awslabs/route53-dynamic-dns-with-lambda](https://github.com/awslabs/route53-dynamic-dns-with-lambda) - A Dynamic DNS system built with API Gateway, Lambda & Route 53.
 - [intelxed/xed](https://github.com/intelxed/xed) - The X86 Encoder Decoder (XED), is a software library for encoding and decoding X86 (IA32 and Intel64) instructions
-- [leegao/readme2tex](https://github.com/leegao/readme2tex) - Renders TeXy Math for Github Readmes
+- [leegao/readme2tex](https://github.com/leegao/readme2tex) - Renders TeXy Math for Github Readme - No longer needed with official MathTex support on GH
 - [barbosa/clorox](https://github.com/barbosa/clorox) - Remove all the cruft from Xcode's file headers.
 - [Laksen/kicad-bga-tools](https://github.com/Laksen/kicad-bga-tools) - Tools to make life easier for PCB design with BGA's
 - [xesscorp/xess_fp_wizard](https://github.com/xesscorp/xess_fp_wizard) - A KiCad wizard to assist you in making footprints for chips having pins around the  edges (SOICs, QFPs, etc.) and ball grid arrays (BGAs)
@@ -7320,7 +7326,7 @@
 - [googleapis/oauth2client](https://github.com/googleapis/oauth2client) - This is a Python library for accessing resources protected by OAuth 2.0.
 - [mkeeter/kokopelli](https://github.com/mkeeter/kokopelli) - Script-based CAD/CAM in Python (deprecated)
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
+- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
 - [boto/botocore](https://github.com/boto/botocore) - The low-level, core functionality of boto3 and the AWS CLI.
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
 - [nate-parrott/Flashlight](https://github.com/nate-parrott/Flashlight) - The missing Spotlight plugin system
@@ -7904,7 +7910,7 @@
 - [hlorenzi/customasm](https://github.com/hlorenzi/customasm) - 💻 An assembler for custom, user-defined instruction sets! https://hlorenzi.github.io/customasm/web/
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [simonask/werk](https://github.com/simonask/werk) - Simplistic command runner and build system
-- [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A GPU-accelerated 2D graphics environment for Node.js
+- [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A multi-threaded, GPU-powered, 2D vector graphics environment for Node.js
 - [keisentraut/age-keygen-deterministic](https://github.com/keisentraut/age-keygen-deterministic) - simple Rust CLI tool to derive an age private key from passphrase
 - [Nitrokey/nitrokey-3-firmware](https://github.com/Nitrokey/nitrokey-3-firmware) - Nitrokey 3 firmware
 - [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
@@ -8349,6 +8355,7 @@
 
 ## Shell 
 
+- [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
 - [tailscale-dev/examples-api-scripts](https://github.com/tailscale-dev/examples-api-scripts) - Minimally functional demonstration scripts for API actions. Meant to be a starting point to develop your own workflows.
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
 - [Parallels/prlctl-scripts](https://github.com/Parallels/prlctl-scripts) - Somes useful scripts to use with Parallels command line to help in automation
@@ -8698,7 +8705,6 @@
 - [davedufresne/SwiftParsec](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language.
 - [pointfreeco/swift-macro-testing](https://github.com/pointfreeco/swift-macro-testing) - Magical testing tools for Swift macros.
 - [swift-server-community/APNSwift](https://github.com/swift-server-community/APNSwift) - 📱HTTP/2 Apple Push Notification Service built with swift - send push notifications to iOS, iPadOS, tvOS, macOS, watchOS, visionOS, and Safari!
-- [ionic-team/ios-kitchen-sink.swiftpm](https://github.com/ionic-team/ios-kitchen-sink.swiftpm) - A collection of iOS components in Swift for comparison with Ionic Framework components.
 - [scriptingosx/utiluti](https://github.com/scriptingosx/utiluti) - A macOS command-line to work with default apps
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [ivanvorobei/SwiftUI](https://github.com/ivanvorobei/SwiftUI) - Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.
@@ -8859,7 +8865,7 @@
 - [BradLarson/Molecules](https://github.com/BradLarson/Molecules) - Molecules is an open source 3-D molecular visualizer for iOS.
 - [PassiveLogic/differentiable-swift-examples](https://github.com/PassiveLogic/differentiable-swift-examples) - Examples and documentation for the experimental differentiable Swift language feature
 - [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS, macOS & visionOS in Swift. Native SwiftUI & UIKit views.
-- [HyperARCo/Mirador](https://github.com/HyperARCo/Mirador) - Mirador makes it easy to build impressive “Point of Interest” AR experiences, on Apple's new RealityKit framework.
+- [AndrewHartAR/Mirador](https://github.com/AndrewHartAR/Mirador) - Mirador makes it easy to build impressive “Point of Interest” AR experiences, on Apple's new RealityKit framework.
 - [huri000/SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
 - [XcodesOrg/unxip](https://github.com/XcodesOrg/unxip) - A fast Xcode unarchiver
 - [joomcode/BottomSheet](https://github.com/joomcode/BottomSheet) - Bottom Sheet for iOS
@@ -8899,7 +8905,8 @@
 - [orlandos-nl/Citadel](https://github.com/orlandos-nl/Citadel) - SSH Client & Server framework in Swift
 - [pointfreeco/swift-tagged](https://github.com/pointfreeco/swift-tagged) - 🏷 A wrapper type for safer, expressive code.
 - [GottaGetSwifty/SwiftyXMLKit](https://github.com/GottaGetSwifty/SwiftyXMLKit) - Tools for working with XML in Swift
-- [GottaGetSwifty/CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy
+- [GottaGetSwifty/CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - Make Custom Serialization of Swift Codable Types easy with Annotations
+- [jackhumbert/let_there_be_flight](https://github.com/jackhumbert/let_there_be_flight) - A flight mod for Cyberpunk 2077
 - [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift
 - [swiftuiux/swift-async-corelocation-streamer](https://github.com/swiftuiux/swift-async-corelocation-streamer) - swift async await streamer Corelocation kit ios map swift tracker get user current geolocation and geocoding, gps, swiftui map example using MapKit address decoder Corelocation based service in swift 
 - [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
@@ -10390,6 +10397,7 @@
 
 ## TypeScript 
 
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [tscircuit/kicad-viewer](https://github.com/tscircuit/kicad-viewer) - View all the official kicad library files on the web
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
 - [tscircuit/cli](https://github.com/tscircuit/cli) - Create electronics with React with a local development server
@@ -10448,7 +10456,7 @@
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [1Password/onepassword-sdk-js](https://github.com/1Password/onepassword-sdk-js) - The official JavaScript SDK for 1Password
 - [swiftlang/vscode-swift](https://github.com/swiftlang/vscode-swift) - Visual Studio Code Extension for Swift
 - [herbie-fp/odyssey](https://github.com/herbie-fp/odyssey) - A platform for exploring floating-point expressions :boat:
@@ -10869,7 +10877,6 @@
 - [The-OpenROAD-Project/OpenROAD-flow-scripts](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts) - OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/
 - [olofk/serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
 - [FPGAwars/FPGA-peripherals](https://github.com/FPGAwars/FPGA-peripherals) - :seedling: :snowflake: Collection of open-source peripherals in Verilog
-- [sudhamshu091/32-Verilog-Mini-Projects](https://github.com/sudhamshu091/32-Verilog-Mini-Projects) - Implementing 32 Verilog Mini Projects. 32 bit adder, Array Multiplier, Barrel Shifter, Binary Divider 16 by 8, Booth Multiplication, CRC Coding, Carry Select and Carry Look Ahead Adder, Carry Skip and
 - [open-sdr/openofdm](https://github.com/open-sdr/openofdm) - Sythesizable, modular Verilog implementation of 802.11 OFDM decoder.
 - [open-sdr/openwifi-hw](https://github.com/open-sdr/openwifi-hw) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: FPGA, hardware
 - [mikeroyal/CPLD-Guide](https://github.com/mikeroyal/CPLD-Guide) - Complex Programmable Logic Device (CPLD) Guide
