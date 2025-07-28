@@ -257,7 +257,7 @@
 - [Xkeeper0/smb2](https://github.com/Xkeeper0/smb2) - Super Mario Bros. 2, discombobulated
 - [richardjrossiii/iOSAppInAssembly](https://github.com/richardjrossiii/iOSAppInAssembly) - An iOS app in assembly
 - [corsix/pigz](https://github.com/corsix/pigz) - Optimised x86-64 gzip decompressor
-- [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
+- [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.
 - [dwelch67/raspberrypi](https://github.com/dwelch67/raspberrypi) - Raspberry Pi ARM based bare metal examples
 - [Apress/low-level-programming](https://github.com/Apress/low-level-programming) - Source code for 'Low-Level Programming' by Igor Zhirkov
 - [ReturnInfinity/BareMetal](https://github.com/ReturnInfinity/BareMetal) - A very minimal, resource efficient exo-kernel
@@ -1431,7 +1431,7 @@
 - [turingmotors/swan](https://github.com/turingmotors/swan) - This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources.
 - [lStewieAl/Geck-Extender](https://github.com/lStewieAl/Geck-Extender) - A project adding functionality to New Vegas' Creation Kit. https://www.nexusmods.com/newvegas/mods/64888
 - [cvet/fonline](https://github.com/cvet/fonline) - FOnline Engine is a flexible cross-platform isometric game engine
-- [JanSimek/geck-map-editor](https://github.com/JanSimek/geck-map-editor) - Fallout 2 map editor
+- [JanSimek/gecko](https://github.com/JanSimek/gecko) - Fallout 2 map editor
 - [xNVSE/NVSE](https://github.com/xNVSE/NVSE) - New Vegas Script Extender (NVSE)
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
@@ -1489,7 +1489,7 @@
 - [pajotsetrapper/TMS9129VDPTest](https://github.com/pajotsetrapper/TMS9129VDPTest) - Arduino-based TMS9129 VideoProcessor test
 - [tursilion/classic99](https://github.com/tursilion/classic99) - Classic99 TI-99/4A Emulator for Windows, QI3xx series
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
-- [Tom94/tev](https://github.com/Tom94/tev) - High dynamic range (HDR) image viewer for graphics people
+- [Tom94/tev](https://github.com/Tom94/tev) - High dynamic range (HDR) image viewer for people who care about colors
 - [mmp/pbrt-v4](https://github.com/mmp/pbrt-v4) - Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.
 - [AcademySoftwareFoundation/OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO) - A color management framework for visual effects and animation.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -2101,6 +2101,7 @@
 - [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
 - [laprej/ROSS--](https://github.com/laprej/ROSS--) - ROSS-- + C++ = ROSS + C
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [Smoothieware/Smoothiepanel](https://github.com/Smoothieware/Smoothiepanel) - SmoothiePanel is an Open Source Hardware control interface for industrial robotic machinery.
 - [Smoothieware/Smoothieware](https://github.com/Smoothieware/Smoothieware) - Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
@@ -2306,7 +2307,7 @@
 
 - [susam/mathb](https://github.com/susam/mathb) - Mathematics pastebin software that powered MathB.in from 2012 to 2025
 - [phantomics/april](https://github.com/phantomics/april) - The APL programming language (a subset thereof) compiling to Common Lisp.
-- [lem-project/lem](https://github.com/lem-project/lem) - Common Lisp editor/IDE with high expansibility
+- [lem-project/lem](https://github.com/lem-project/lem) - General-purpose editor/IDE with high expansibility in Common Lisp
 
 ## Common Workflow Language 
 
@@ -2492,6 +2493,7 @@
 
 ## Go 
 
+- [gokrazy/breakglass](https://github.com/gokrazy/breakglass) - emergency/debugging access for gokrazy installations
 - [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying
 - [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
@@ -2830,7 +2832,7 @@
 - [GoogleCloudPlatform/cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) - Community-contributed images for Google Cloud Build
 - [googleapis/api-linter](https://github.com/googleapis/api-linter) - A linter for APIs defined in protocol buffers.
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [googleworkspace/go-samples](https://github.com/googleworkspace/go-samples) - Go samples for Google Workspace APIs
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
@@ -3099,7 +3101,7 @@
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
 - [rancher/go-machine-service](https://github.com/rancher/go-machine-service) - 
-- [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
+- [docker-archive-public/docker.machine](https://github.com/docker-archive-public/docker.machine) - Machine management for a container-centric world
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [kurrik/twittergo](https://github.com/kurrik/twittergo) - Twitter client library for go
 - [ChimeraCoder/anaconda](https://github.com/ChimeraCoder/anaconda) - A Go client library for the Twitter 1.1 API
@@ -3657,7 +3659,7 @@
 - [LaserWeb/LaserWeb4](https://github.com/LaserWeb/LaserWeb4) - Collaborative effort on the next version of LaserWeb / CNCWeb
 - [dfederspiel/ti-sprite-maker](https://github.com/dfederspiel/ti-sprite-maker) - Visual HEX encoder for ASCII character mapping on the TI-99/4A
 - [weetmuts/ti994a_basic](https://github.com/weetmuts/ti994a_basic) - Edit TI-99/4a basic programs. Upload/Download TIFILES. Play sounds for transfer of basic program to actual TI-99/4a computer.
-- [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
+- [kjk/edna](https://github.com/kjk/edna) - Note taking with super powers
 - [TinyTapeout/siliwiz](https://github.com/TinyTapeout/siliwiz) - Silicon Layout Wizard
 - [nytimes/ice](https://github.com/nytimes/ice) - track changes with javascript
 - [fullcalendar/fullcalendar-vue](https://github.com/fullcalendar/fullcalendar-vue) - The official Vue 3 component for FullCalendar
@@ -4353,7 +4355,7 @@
 - [google/pepper.js](https://github.com/google/pepper.js) - Pepper applications as Native Client or JavaScript
 - [alternatekev/heatmap-calendar](https://github.com/alternatekev/heatmap-calendar) - A set of ReactJS components that populate a calendar with days colored hot or cold based on data pulled from JSON
 - [angular/material](https://github.com/angular/material) - Material design for AngularJS
-- [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
+- [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [hanse/react-calendar](https://github.com/hanse/react-calendar) - React.js Calendar Component (npm install react-calendar-component) 📅
@@ -4691,7 +4693,6 @@
 - [smwhr/tinta](https://github.com/smwhr/tinta) - Lua port of inkle's ink, a scripting language for writing interactive narrative
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [BG3-Community-Library-Team/BG3-Compatibility-Framework](https://github.com/BG3-Community-Library-Team/BG3-Compatibility-Framework) - An API-based Driven Compatibility Framework for Baldur's Gate 3 Mods
-- [cweagans/dotfiles](https://github.com/cweagans/dotfiles) - My personal config files.
 - [BG3-Community-Library-Team/BG3-Community-Library](https://github.com/BG3-Community-Library-Team/BG3-Community-Library) - Baldur's Gate 3 Community Library exists to provide a common collection of Spells, Scripts, Items, Statuses, Passives, and other useful material that will assist modders in creating new content.
 - [justarandomguyintheinternet/CP77_InventoryMaid](https://github.com/justarandomguyintheinternet/CP77_InventoryMaid) - Highly customizable Inventory manager for Cyberpunk 2077
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -4837,7 +4838,7 @@
 
 ## OCaml 
 
-- [Nitrokey/nethsm](https://github.com/Nitrokey/nethsm) - Nitrokey NetHSM system software and firmware
+- [Nitrokey/nethsm](https://github.com/Nitrokey/nethsm) - Nitrokey NetHSM system software
 - [NyuB/ocli](https://github.com/NyuB/ocli) - Mini elm-inspired utilities for Ocaml CLI applications
 - [panglesd/slipshow](https://github.com/panglesd/slipshow) - An engine for displaying slips, the next-gen version of slides
 - [mirage/ocaml-tar](https://github.com/mirage/ocaml-tar) - Pure OCaml library to read and write tar files
@@ -5341,7 +5342,7 @@
 - [erichoracek/MSCollectionViewCalendarLayout](https://github.com/erichoracek/MSCollectionViewCalendarLayout) - UICollectionViewLayout for displaying cells chronologically. Similar to the iOS Calendar app.
 - [lukagabric/LBorderView](https://github.com/lukagabric/LBorderView) - iOS UIView with dashed or solid line border
 - [Katharine/httpebble-ios](https://github.com/Katharine/httpebble-ios) - iOS httpebble implementation
-- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS
+- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS
 - [TumblrArchive/TMCache](https://github.com/TumblrArchive/TMCache) - Fast parallel object cache for iOS and OS X.
 - [hanspinckaers/GrowingTextView](https://github.com/hanspinckaers/GrowingTextView) - [UNMAINTAINED] An UITextView which grows/shrinks with the text and starts scrolling when the content reaches a certain number of lines. Similar to the one Apple uses in the SMS-app. See blog-post for 
 - [fphilipe/PHFComposeBarView](https://github.com/fphilipe/PHFComposeBarView) - Compose bar from iOS 7 Messages.app
@@ -6262,7 +6263,7 @@
 - [Shapeways/shapeways-api](https://github.com/Shapeways/shapeways-api) - Shapeways API Reference Clients
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
-- [docker/labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
+- [docker-archive-public/docker.labs](https://github.com/docker-archive-public/docker.labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [sagebind/slackyboy](https://github.com/sagebind/slackyboy) - A helpful, programmable chat bot for Slack
 - [sagebind/slack-client](https://github.com/sagebind/slack-client) - A better Slack client, with RTM API support.
 - [openva/richmondsunlight.com](https://github.com/openva/richmondsunlight.com) - The Richmond Sunlight website.
@@ -6828,7 +6829,6 @@
 - [boothby/repiet](https://github.com/boothby/repiet) - A compiler for the esoteric language Piet, targeting multiple backends.
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-- [ProjectDrawdown/spatial-aez](https://github.com/ProjectDrawdown/spatial-aez) - Process climate-related spatial data files for use in Project Drawdown climate solution models.
 - [FreeCAD/FreeCAD-render](https://github.com/FreeCAD/FreeCAD-render) - The Render workbench
 - [jar-o/rotvpn](https://github.com/jar-o/rotvpn) - Run a personal VPN in the cloud. And rotate it regularly.
 - [appleseedhq/blenderseed](https://github.com/appleseedhq/blenderseed) - appleseed plugin for Blender
@@ -7346,7 +7346,6 @@
 - [xyz2tex/dot2tex](https://github.com/xyz2tex/dot2tex) - Convert graphs generated by Graphviz to LaTeX friendly formats
 - [nvidia-compiler-sdk/pynvvm](https://github.com/nvidia-compiler-sdk/pynvvm) - Python bindings for libNVVM
 - [m-labs/migen](https://github.com/m-labs/migen) - A Python toolbox for building complex digital hardware
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [aws-samples/aws-python-sample](https://github.com/aws-samples/aws-python-sample) - Sample project to demonstrate usage of the AWS SDK for Python
@@ -7896,6 +7895,7 @@
 
 ## Rust 
 
+- [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - 
 - [richardscollin/tmux-rs](https://github.com/richardscollin/tmux-rs) - A Rust port of tmux
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -8355,6 +8355,7 @@
 
 ## Shell 
 
+- [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
 - [tailscale-dev/examples-api-scripts](https://github.com/tailscale-dev/examples-api-scripts) - Minimally functional demonstration scripts for API actions. Meant to be a starting point to develop your own workflows.
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
@@ -8381,6 +8382,7 @@
 - [grahampugh/erase-install](https://github.com/grahampugh/erase-install) - A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process. Watch the video!
 - [t2linux/fedora-iso](https://github.com/t2linux/fedora-iso) - ISO for t2linux fedora.
 - [iic-jku/IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) - IIC-OSIC-TOOLS is an all-in-one Docker image for SKY130/GF180/IHP130-based analog and digital chip design. AMD64 and ARM64 are natively supported.
+- [cweagans/dotfiles](https://github.com/cweagans/dotfiles) - My personal config files.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [ebastler/marbastlib](https://github.com/ebastler/marbastlib) - A library collecting MX and Choc style footprints, as well as various other parts used to design custom keyboards
 - [simonbs/xctemplates](https://github.com/simonbs/xctemplates) - ⚙️ Opinionated Xcode templates
@@ -8701,6 +8703,8 @@
 
 ## Swift 
 
+- [otp-interop/swift-erlang-actor-system](https://github.com/otp-interop/swift-erlang-actor-system) - Erlang/Elixir integration for Swift Distributed Actors
+- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 - [Yubico/yubikit-swift](https://github.com/Yubico/yubikit-swift) - Yubico Swift SDK - YubiKit
 - [davedufresne/SwiftParsec](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language.
 - [pointfreeco/swift-macro-testing](https://github.com/pointfreeco/swift-macro-testing) - Magical testing tools for Swift macros.
@@ -9791,7 +9795,7 @@
 - [kickstarter/Kickstarter-Prelude](https://github.com/kickstarter/Kickstarter-Prelude) - A collection of useful Swift tools that are used in the Kickstarter apps.
 - [bazelbuild/tulsi](https://github.com/bazelbuild/tulsi) - An Xcode Project Generator For Bazel
 - [mcudich/HeckelDiff](https://github.com/mcudich/HeckelDiff) - A fast Swift diffing library.
-- [NathanFlurry/VisualProgrammingLanguage](https://github.com/NathanFlurry/VisualProgrammingLanguage) - Visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission.
+- [NathanFlurry/VisualProgrammingLanguage](https://github.com/NathanFlurry/VisualProgrammingLanguage) - Visual programming language written in Swift that assembles to executable Swift code.
 - [SwiftGit2/SwiftGit2](https://github.com/SwiftGit2/SwiftGit2) - Swift bindings to libgit2
 - [watson-developer-cloud/visual-recognition-coreml](https://github.com/watson-developer-cloud/visual-recognition-coreml) - Classify images offline using Watson Visual Recognition and Core ML
 - [nicklockwood/Consumer](https://github.com/nicklockwood/Consumer) - Mac and iOS library for parsing structured text
@@ -10464,7 +10468,7 @@
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Pyramids of map tiles in a single file on static storage
 - [serverlessmaps/serverlessmaps](https://github.com/serverlessmaps/serverlessmaps) - Creating and hosting serverless maps
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
-- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] An open-source Geforce Now alternative
+- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [srt4rulez/fallout-new-vegas-interactive-map](https://github.com/srt4rulez/fallout-new-vegas-interactive-map) - An interactive map of the Mojave Wasteland in Fallout: New Vegas.
 - [darkf/darkfo](https://github.com/darkf/darkfo) - DarkFO, a post-nuclear RPG remake (of Fallout 2)
 - [League-of-Foundry-Developers/foundry-vtt-types](https://github.com/League-of-Foundry-Developers/foundry-vtt-types) - Unofficial type declarations for the Foundry Virtual Tabletop API
