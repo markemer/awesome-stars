@@ -59,6 +59,7 @@
 - [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
+- [data-engineering](#data-engineering)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
@@ -302,6 +303,7 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -1104,7 +1106,7 @@
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [aws/aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) - AWS SDK for C++
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
-- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language (In Maintenance Mode, End-of-Life on 07/31/2025). The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
+- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - This SDK has reached end-of-support. The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
 - [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 
@@ -2292,6 +2294,18 @@
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 
+## data-engineering 
+
+- [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
+- [adilkhash/Data-Engineering-HowTo](https://github.com/adilkhash/Data-Engineering-HowTo) - A list of useful resources to learn Data Engineering from scratch
+- [san089/goodreads_etl_pipeline](https://github.com/san089/goodreads_etl_pipeline) - An end-to-end GoodReads Data Pipeline for Building Data Lake, Data Warehouse and Analytics Platform.
+- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [kantord/just-dashboard](https://github.com/kantord/just-dashboard) - :bar_chart: :clipboard: Dashboards using YAML or JSON files
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
+
 ## data-science 
 
 - [dssg/hitchhikers-guide](https://github.com/dssg/hitchhikers-guide) - The Hitchhiker's Guide to Data Science for Social Good
@@ -3029,7 +3043,7 @@
 
 ## elixir 
 
-- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
+- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language.
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -3931,7 +3945,7 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language (In Maintenance Mode, End-of-Life on 07/31/2025). The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
+- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - This SDK has reached end-of-support. The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
@@ -4292,7 +4306,7 @@
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
-- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
+- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language.
 - [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [abey79/vpype](https://github.com/abey79/vpype) - The Swiss-Army-knife command-line tool for plotter vector graphics.
@@ -6010,7 +6024,7 @@
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [JuliaML/MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) - Utility package for accessing common Machine Learning datasets in Julia
 - [BioJulia/BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) - A Julia package to read, write and manipulate macromolecular structures
-- [PainterQubits/Unitful.jl](https://github.com/PainterQubits/Unitful.jl) - Physical quantities with arbitrary units
+- [JuliaPhysics/Unitful.jl](https://github.com/JuliaPhysics/Unitful.jl) - Physical quantities with arbitrary units
 - [SciML/OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl) - High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning 
 - [JuliaMath/SpecialFunctions.jl](https://github.com/JuliaMath/SpecialFunctions.jl) - Special mathematical functions in Julia
 - [JuliaGPU/CuArrays.jl](https://github.com/JuliaGPU/CuArrays.jl) - A Curious Cumulation of CUDA Cuisine
@@ -6235,7 +6249,7 @@
 
 ## learning 
 
-- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
+- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language.
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -7135,7 +7149,6 @@
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QRCode in Swift, support iOS, macOS, watchOS, tvOS, and/or visionOS.
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 - [Kitura/BlueSSLService](https://github.com/Kitura/BlueSSLService) - SSL/TLS Add-in for BlueSocket using Secure Transport and OpenSSL
 - [kitecomp/kitekit](https://github.com/kitecomp/kitekit) - KiteKit for iOS and Mac
@@ -8024,6 +8037,8 @@
 
 ## others 
 
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [multikernel/kernelscript](https://github.com/multikernel/kernelscript) - KernelScript is a modern, type-safe, domain-specific programming language for eBPF-Centric kernel customization
 - [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - 
 - [otp-interop/swift-erlang-actor-system](https://github.com/otp-interop/swift-erlang-actor-system) - Erlang/Elixir integration for Swift Distributed Actors
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
@@ -9959,7 +9974,7 @@
 - [OFS/opae-sdk](https://github.com/OFS/opae-sdk) - Open Programmable Acceleration Engine
 - [96boards/96boards-kicad-mezzanine-template](https://github.com/96boards/96boards-kicad-mezzanine-template) - 
 - [DuncanMC/BlurredStrokedPath](https://github.com/DuncanMC/BlurredStrokedPath) - An iOS project that uses Core Animation and a layer's `shadowPath` to animate blurred stroked paths.
-- [Hamlib/Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library for rigs, rotators, tuners, and amplifiers
+- [Hamlib/Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library for rigs (radios), rotators, and amplifiers.  For daily snapshots see:
 - [qradiolink/qradiolink](https://github.com/qradiolink/qradiolink) - Multimode SDR transceiver for GNU radio
 - [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
@@ -10348,7 +10363,7 @@
 - [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad, EasyEDA, Eagle, Fusion360 and Allegro PCB designer
 - [ckuethe/usbarmory](https://github.com/ckuethe/usbarmory) - Scripts, learnings, sample configurations, and random whining
 - [usbarmory/tamago](https://github.com/usbarmory/tamago) - TamaGo - bare metal Go
-- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
 - [bashi/minimp3-wasm](https://github.com/bashi/minimp3-wasm) - A tiny WebAssembly MP3 decoder
 - [zevv/lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [mulshine/OOPS](https://github.com/mulshine/OOPS) - OOPS is now LEAF! A C library for Audio synthesis and processing, intended for embedded applications, written using semi-OOP style.
@@ -10392,7 +10407,6 @@
 - [nodefortytwo/amz-ssh](https://github.com/nodefortytwo/amz-ssh) - a tool that replaces aws/aws-ec2-instance-connect-cli. No python and support for ssh tunnels
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
 - [j4mie/sqlsite](https://github.com/j4mie/sqlsite) - NO LONGER MAINTAINED! A tool for serving simple websites, JSON APIs and static files directly from a SQLite database
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [bluespec/Toooba](https://github.com/bluespec/Toooba) - RISC-V Core; superscalar, out-of-order, multi-core capable; based on RISCY-OOO from MIT
 - [aws-actions/amazon-ecr-login](https://github.com/aws-actions/amazon-ecr-login) - Logs into Amazon ECR with the local Docker client.
 - [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
@@ -10666,7 +10680,6 @@
 - [TablePlus/tabledump](https://github.com/TablePlus/tabledump) - This is a TablePlus plugin which add `copy table creation` menu in left panel
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [jgm/doclayout](https://github.com/jgm/doclayout) - A prettyprinting library designed for laying out plain text documents
-- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [programming-nu/nu-proto](https://github.com/programming-nu/nu-proto) - Protocol Buffer support for Nu (experimental)
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [gtfunes/itransmission-ios](https://github.com/gtfunes/itransmission-ios) - iTransmission for iOS 8+
@@ -12077,7 +12090,6 @@
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library
 - [neozhaoliang/pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
-- [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [memononen/nanosvg](https://github.com/memononen/nanosvg) - Simple stupid SVG parser
 - [sly7-7/d3-v4-cloud](https://github.com/sly7-7/d3-v4-cloud) - Create word clouds in JavaScript.
 - [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
@@ -12423,7 +12435,6 @@
 - [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [kylef/Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift
 - [QueryKit/querykit-cli](https://github.com/QueryKit/querykit-cli) - QueryKit command line tool to produce type-safe accessors
-- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [openva/richmondsunlight.com](https://github.com/openva/richmondsunlight.com) - The Richmond Sunlight website.
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [0x55555555/lldb-example](https://github.com/0x55555555/lldb-example) - 
@@ -13618,7 +13629,6 @@
 - [rentzsch/mogenerator](https://github.com/rentzsch/mogenerator) - Core Data code generation
 - [overcommitted/ParcelKit](https://github.com/overcommitted/ParcelKit) - ParcelKit integrates Core Data with Dropbox using the Dropbox Datastore API
 - [lhunath/UbiquityStoreManager](https://github.com/lhunath/UbiquityStoreManager) - Implements Core Data + iCloud, deals with all the nasty stuff and gives you a clean API.
-- [nothirst/TICoreDataSync](https://github.com/nothirst/TICoreDataSync) - Automatic synchronization for Core Data apps, between any combination of Mac OS X and iOS: Mac to iPhone to iPad to iPod touch and back again.
 - [Overcoat/Overcoat](https://github.com/Overcoat/Overcoat) - The perfect accessory for Mantle and AFNetworking.
 - [OliverLetterer/SLRESTfulCoreData](https://github.com/OliverLetterer/SLRESTfulCoreData) - Objc naming conventions, autogenerated accessors at runtime, URL substitutions and intelligent attribute mapping
 - [mutualmobile/MMRecord](https://github.com/mutualmobile/MMRecord) - Seamless Web Service Integration and Core Data Model Population
@@ -14244,7 +14254,7 @@
 ## programming 
 
 - [apeman/awesome_computer_science](https://github.com/apeman/awesome_computer_science) - The complete syllabus of Computer Science and Engineering. Roadmap, Checklist for Beginners.
-- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
+- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language.
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
 - [krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of awesome Swift Macros
@@ -15255,7 +15265,7 @@
 - [rust-embedded/cortex-m-quickstart](https://github.com/rust-embedded/cortex-m-quickstart) - Template to develop bare metal applications for Cortex-M microcontrollers
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [bgahagan/git-remote-s3](https://github.com/bgahagan/git-remote-s3) - Push and pull git repos to/from an s3 bucket, encrypted using gpg.
-- [microsoft/openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL.
+- [microsoft/openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [zmaril/bpfquery](https://github.com/zmaril/bpfquery) - Zack's experimental tool for querying BPF with SQL.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -15748,7 +15758,6 @@
 - [kvaggelakos/serverless-ffmpeg](https://github.com/kvaggelakos/serverless-ffmpeg) - Bucket event driven FFMPEG built with cloud functions
 - [SkygearIO/skygear-server](https://github.com/SkygearIO/skygear-server) - Skygear - an open source serverless platform for modern secure app development
 - [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [noppoMan/Hexaville](https://github.com/noppoMan/Hexaville) - The modern serverless web application engine and framework for Swift
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
@@ -18053,6 +18062,43 @@
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## zsh 
+
+- [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
+- [justjanne/powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
+- [mkasberg/dotfiles](https://github.com/mkasberg/dotfiles) - 🛠️ Mike's dotfiles. Managed with https://www.chezmoi.io/
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [digitalist/bash_database_history](https://github.com/digitalist/bash_database_history) - save your bash/zsh history to mysql or sqlite
+- [romkatv/gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
+- [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
+- [pokanop/nostromo](https://github.com/pokanop/nostromo) - 👽 CLI for building powerful aliases and tools
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
+- [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
+- [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
+- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+- [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
+- [keith/zsh-xcode-completions](https://github.com/keith/zsh-xcode-completions) - Zsh completion for the Xcode command line tools
+- [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
