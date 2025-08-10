@@ -473,7 +473,7 @@
 - [ozkl/doomgeneric](https://github.com/ozkl/doomgeneric) - Easily portable doom
 - [sfall-team/sslc](https://github.com/sfall-team/sslc) - Script compiler/parser for Fallout 2/sfall scripts
 - [alexbatalov/fallout1-re](https://github.com/alexbatalov/fallout1-re) - Reverse engineered Fallout
-- [kspalaiologos/qbdiff](https://github.com/kspalaiologos/qbdiff) - building and applying patches to binary files
+- [iczelia/qbdiff](https://github.com/iczelia/qbdiff) - building and applying patches to binary files
 - [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) - XDP tutorial
 - [ZSWatch/ZSWatch](https://github.com/ZSWatch/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
 - [ukmaker/VDPtoTFT](https://github.com/ukmaker/VDPtoTFT) - Converts the output from an old TMS9928A Video Display Processor to drive a small TFT panel using either an SPI or a parallel interface. For lovers of micrvocomputers from the 70s and 80s.
@@ -708,7 +708,7 @@
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [shiyanhui/libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
 - [dcf21/star-charter](https://github.com/dcf21/star-charter) - A command-line tool for producing vector-graphics charts of the night sky in SVG, PDF and PNG formats.
-- [blackmagic-debug/blackmagic](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
+- [blackmagic-debug/blackmagic](https://github.com/blackmagic-debug/blackmagic) - In-application debugger for ARM Cortex and RISC-V processors.
 - [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
 - [espressif/esp-serial-flasher](https://github.com/espressif/esp-serial-flasher) - Library for flashing Espressif SoCs from other MCUs.
@@ -1390,7 +1390,7 @@
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
 - [tomverbeure/fake_parallel_printer](https://github.com/tomverbeure/fake_parallel_printer) - Capture traffic on parallel printer port to USB
-- [pizlonator/llvm-project-deluge](https://github.com/pizlonator/llvm-project-deluge) - Fil-C
+- [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C
 - [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
 - [AndersBNielsen/Relatively-Universal-ROM-Programmer](https://github.com/AndersBNielsen/Relatively-Universal-ROM-Programmer) - Hardware to program W27C512 EEPROM or any 24/28/32 pin ROM requiring from 5V to 27V programming voltage.
 - [cisco/openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
@@ -2535,7 +2535,7 @@
 - [plunder-app/plunder](https://github.com/plunder-app/plunder) - A Modern automation platform
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [Backblaze/blazer](https://github.com/Backblaze/blazer) - A Go library for Backblaze's B2.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [macstadium/packer-plugin-macstadium-orka](https://github.com/macstadium/packer-plugin-macstadium-orka) - Builder for Orka in MacStadium. (originally https://github.com/AndrewFarley/packer-builder-macstadium-orka )
 - [tedpearson/edf-importer](https://github.com/tedpearson/edf-importer) - Tool to import .edf files (particularly from CPAP machines) to influxdb or victoriametrics.
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
@@ -2590,6 +2590,7 @@
 - [hashicorp/hil](https://github.com/hashicorp/hil) - HIL is a small embedded language for string interpolations.
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [terrastruct/d2oracle-demo](https://github.com/terrastruct/d2oracle-demo) - 
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.
 - [usbarmory/GoTEE](https://github.com/usbarmory/GoTEE) - Go Trusted Execution Environment (TEE)
@@ -3712,7 +3713,6 @@
 - [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
 - [molly/static-timeline-generator](https://github.com/molly/static-timeline-generator) - Create static timeline webpages.
 - [backblaze-b2-samples/cloudflare-b2](https://github.com/backblaze-b2-samples/cloudflare-b2) - Provide access to a private Backblaze B2 bucket via a Cloudflare Worker
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [fouita/form-editor](https://github.com/fouita/form-editor) - NoCode form builder built with Svelte and Tailwindcss https://fouita.com/explore/form-builder
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
@@ -3856,7 +3856,7 @@
 - [apple/password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
-- [ChromeDevTools/debugger-protocol-viewer](https://github.com/ChromeDevTools/debugger-protocol-viewer) - DevTools Protocol API docs—its domains, methods, and events
+- [ChromeDevTools/debugger-protocol-viewer](https://github.com/ChromeDevTools/debugger-protocol-viewer) - Website for viewing the DevTools Protocol as defined in Chromium
 - [githubsatelliteworkshops/apps-with-graphql](https://github.com/githubsatelliteworkshops/apps-with-graphql) - Building automations with GitHub Apps and GraphQL
 - [keiranking/Phil](https://github.com/keiranking/Phil) - A crossword maker.
 - [arkime/arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
@@ -4206,6 +4206,7 @@
 - [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption.
 - [mapbox/delaunator](https://github.com/mapbox/delaunator) - An incredibly fast JavaScript library for Delaunay triangulation of 2D points
 - [captainsafia/giddy](https://github.com/captainsafia/giddy) - A CLI wrapper around git for an improved developer experience
+- [mathjax/MathJax-docs](https://github.com/mathjax/MathJax-docs) - MathJax documentation. Beautiful math in all browsers. Beautifully documented.
 - [zalando/zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
@@ -4284,6 +4285,7 @@
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [yeoman/yeoman-app](https://github.com/yeoman/yeoman-app) - A desktop app that scaffolds projects using Yeoman
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
+- [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [mathieudutour/git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin) - :gem::octocat: A Git client generating pretty diffs built right into Sketch.
 - [Khan/hivemind](https://github.com/Khan/hivemind) - Experimental knowledge-management system for Long-term Research references
 - [jellyfangs/messenger-bot-tutorial](https://github.com/jellyfangs/messenger-bot-tutorial) - Facebook Messenger bot 15 minute tutorial
@@ -4506,7 +4508,6 @@
 - [geerlingguy/time-pi](https://github.com/geerlingguy/time-pi) - Raspberry Pi stratum 1 PTP and NTP timeserver configuration.
 - [brianhanifin/Home-Assistant-Config](https://github.com/brianhanifin/Home-Assistant-Config) - Home Assistant configuration files.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [geerlingguy/drupal-vm](https://github.com/geerlingguy/drupal-vm) - A VM for Drupal development
 
 ## Jsonnet 
@@ -6089,7 +6090,6 @@
 - [mdo/jekyll-snippets](https://github.com/mdo/jekyll-snippets) - Library of commonly used snippets for Jekyll sites.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [marciok/CRuby](https://github.com/marciok/CRuby) - ruby.h on Swift.
-- [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [glotcode/glot](https://github.com/glotcode/glot) - Code playground
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
@@ -6564,7 +6564,7 @@
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
-- [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script that takes the game you're playing on steam and displays it on discord
+- [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script that actually displays the game you're playing on discord
 - [efabless/openlane2](https://github.com/efabless/openlane2) - The next generation of OpenLane, rewritten from scratch with a modular architecture
 - [ammaraskar/sphinx-action](https://github.com/ammaraskar/sphinx-action) - Github action that builds docs using sphinx and places errors inline
 - [zcutlip/prefsniff](https://github.com/zcutlip/prefsniff) - A utility to sniff preferences changes to macOS plist files
@@ -6598,7 +6598,7 @@
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [hashlookup/hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser) - Analyse a forensic target (such as a directory) to find and report files found and not found from CIRCL hashlookup public service - https://circl.lu/services/hashlookup/
 - [mapbox/mapbox-navigation-native-ios](https://github.com/mapbox/mapbox-navigation-native-ios) - 
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data aggregator for humans and AI agents.
 - [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) - 
 - [chipsalliance/fasm](https://github.com/chipsalliance/fasm) - FPGA Assembly (FASM) Parser and Generator
 - [ucb-art/BAG_framework](https://github.com/ucb-art/BAG_framework) - 
@@ -7195,7 +7195,6 @@
 - [conda/conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
-- [mathjax/MathJax-docs](https://github.com/mathjax/MathJax-docs) - MathJax documentation. Beautiful math in all browsers. Beautifully documented.
 - [ResidentMario/py_d3](https://github.com/ResidentMario/py_d3) - D3 block magic for Jupyter notebook.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [ScottfreeLLC/AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Python AutoML for Trading Systems and Sports Betting
@@ -7215,6 +7214,7 @@
 - [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
 - [python-bonobo/bonobo](https://github.com/python-bonobo/bonobo) - Extract Transform Load for Python 3.5+
 - [truenas/middleware](https://github.com/truenas/middleware) - TrueNAS CORE/Enterprise/SCALE Middleware Git Repository
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [QubesOS/qubes-secpack](https://github.com/QubesOS/qubes-secpack) - Qubes Security Pack
 - [Yelp/osxcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X
 - [jupyter/nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
@@ -7902,7 +7902,7 @@
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [JonasKruckenberg/k23](https://github.com/JonasKruckenberg/k23) - Experimental WASM Microkernel Operating System
-- [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - Simple Yet Powerful Browser Orchestrator 🍩
+- [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - Simple Yet Powerful Anti-Detect Browser 🍩
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [IBM/ACE-RISCV](https://github.com/IBM/ACE-RISCV) - Assured confidential execution (ACE) implements VM-based trusted execution environment (TEE) for embedded RISC-V systems with focus on a formally verified and auditable firmware.
 - [zero-sh/apply-user-defaults](https://github.com/zero-sh/apply-user-defaults) - A small utility to set macOS user defaults declaratively from a YAML file.
@@ -7942,7 +7942,7 @@
 - [awslabs/aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter) - Run web applications on AWS Lambda
 - [Eliah-Lakhin/lady-deirdre](https://github.com/Eliah-Lakhin/lady-deirdre) - Compiler front-end foundation technology.
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server]
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]
 - [amber-lang/heraclitus](https://github.com/amber-lang/heraclitus) - 🧱 Compiler frontend for developing great programming languages
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
