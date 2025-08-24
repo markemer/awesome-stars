@@ -1600,6 +1600,7 @@
 
 ## cli 
 
+- [clap-rs/clap-verbosity-flag](https://github.com/clap-rs/clap-verbosity-flag) - Easily add a --verbose flag to CLIs using Clap
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
@@ -2628,7 +2629,7 @@
 
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
+- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [paul-j-lucas/cdecl](https://github.com/paul-j-lucas/cdecl) - Composing and deciphering C (or C++) declarations or casts, aka ‘‘gibberish.’’
@@ -3653,7 +3654,6 @@
 - [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [jupyterlab/jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - A Git extension for JupyterLab
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [DataDog/yubikey](https://github.com/DataDog/yubikey) - ## Auto-archived due to inactivity. ## YubiKey at Datadog
@@ -3807,7 +3807,7 @@
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise your Go program runtime metrics in real time in the browser
+- [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise Go runtime metrics in real time
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [multycloud/multy](https://github.com/multycloud/multy) - Multy - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds
@@ -4015,7 +4015,7 @@
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise your Go program runtime metrics in real time in the browser
+- [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise Go runtime metrics in real time
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
@@ -4366,7 +4366,7 @@
 - [nova-labs/watto](https://github.com/nova-labs/watto) - wautils2: Rails app for wautils.nova-labs.org
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-- [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise your Go program runtime metrics in real time in the browser
+- [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise Go runtime metrics in real time
 - [WerWolv/PatternLanguage](https://github.com/WerWolv/PatternLanguage) - The Pattern Language used by the ImHex Hex Editor
 - [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [woodruffw/kbs2](https://github.com/woodruffw/kbs2) - A secret manager backed by age
@@ -5528,7 +5528,7 @@
 
 - [piecol/CM5_MINIMA_REV1](https://github.com/piecol/CM5_MINIMA_REV1) - CM5 LoRaWAN carrier board in a compact, feature-filled footprint
 - [whitecatboard/Lua-RTOS-ESP32](https://github.com/whitecatboard/Lua-RTOS-ESP32) - Lua RTOS for ESP32
-- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/
+- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Visualize embedded device data.
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
@@ -7294,7 +7294,7 @@
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [johnxnguyen/Down](https://github.com/johnxnguyen/Down) - Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark.
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
-- [haiwen/seafile](https://github.com/haiwen/seafile) - Beyong file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
+- [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [chmllr/notehub](https://github.com/chmllr/notehub) - A pastebin for markdown pages.
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
@@ -7434,7 +7434,7 @@
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
-- [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise your Go program runtime metrics in real time in the browser
+- [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise Go runtime metrics in real time
 - [cdklabs/cdk-monitoring-constructs](https://github.com/cdklabs/cdk-monitoring-constructs) - Easy-to-use CDK constructs for monitoring your AWS infrastructure
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -8076,6 +8076,9 @@
 
 ## others 
 
+- [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
+- [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query.
+- [adsnaider/qshell](https://github.com/adsnaider/qshell) - Command-running macro for Rust
 - [cypherfoundry/TMS9918-doc](https://github.com/cypherfoundry/TMS9918-doc) - Various documents for the TMS9918 VDP
 - [Speccery/StrangeCart-Doc](https://github.com/Speccery/StrangeCart-Doc) - StrangeCart project public documentation
 - [polpo/tms-adapter](https://github.com/polpo/tms-adapter) - Adapter that allows computers that use the TMS9118 or TMS9918 VDP to use a TMS9128 or TMS9928 and TMS-RGB for RGB output.
@@ -8087,7 +8090,7 @@
 - [eloqdata/eloqkv](https://github.com/eloqdata/eloqkv) - Redis/Valkey Compatible Distributed Transactional Key-Value Store
 - [SuperIlu/DOSDevelResources](https://github.com/SuperIlu/DOSDevelResources) - A short list of development resources for MS-DOS. Heavily influenced by my own projects and favorites
 - [git/git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
-- [NOAA-GSL/datavizhub](https://github.com/NOAA-GSL/datavizhub) - The Datavizhub project is a modular data visualization platform designed to streamline the processing, transfer, and interactive presentation of scientific data.
+- [NOAA-GSL/zyra](https://github.com/NOAA-GSL/zyra) - Modular workflows for reproducible science
 - [rezigned/tur](https://github.com/rezigned/tur) - Tur - A language for defining and executing Turing machines, complete with parser, interpreter, and multi-platform visualization tools.
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 - [LtBrain/MuBook](https://github.com/LtBrain/MuBook) - A x86 carrier board for the LattePanda Mu
@@ -8295,7 +8298,7 @@
 - [avdwerff/KMLParser](https://github.com/avdwerff/KMLParser) - Swift KML parser based on the (NS)XMLParser found in Foundation
 - [rmcelreath/rethinking](https://github.com/rmcelreath/rethinking) - Statistical Rethinking course and book package
 - [rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024) - 
-- [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C
+- [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
 - [kishikawakatsumi/SMBClient](https://github.com/kishikawakatsumi/SMBClient) - Swift SMB client library and iOS/macOS file browser applications.
 - [EngineersNeedArt/SoftDorothy-SharewareProjects](https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects) - Disk images (intended for emulators) containing code and tools for building Soft Dorothy Software games. Primarily vintage Pascal and C calling the vintage Macintosh Toolbox.
 - [rudyrucker/chaos](https://github.com/rudyrucker/chaos) - James Gleick's Chaos: The Software
@@ -8375,7 +8378,7 @@
 - [mvasilkov/board2024](https://github.com/mvasilkov/board2024) - King Thirteen for js13kGames–2024: Triskaidekaphobia
 - [shibatch/sleef](https://github.com/shibatch/sleef) - SIMD Library for Evaluating Elementary Functions, vectorized libm and DFT
 - [creativecommons/licensebuttons](https://github.com/creativecommons/licensebuttons) - Creative Commons badges, license Buttons, etc.
-- [divibanks/footnotes-made-easy](https://github.com/divibanks/footnotes-made-easy) - A WordPress plugin that allows post authors to easily add and manage footnotes in posts and pages.
+- [lumumbapl/footnotes-made-easy](https://github.com/lumumbapl/footnotes-made-easy) - A WordPress plugin that allows post authors to easily add and manage footnotes in posts and pages.
 - [xcodereleases/data](https://github.com/xcodereleases/data) - The data generator that powers xcodereleases.com
 - [orklann/hvf-examples](https://github.com/orklann/hvf-examples) - Hypervisor Framework examples
 - [opensource-apple/cctools](https://github.com/opensource-apple/cctools) - 
@@ -15325,6 +15328,7 @@
 
 ## rust 
 
+- [clap-rs/clap-verbosity-flag](https://github.com/clap-rs/clap-verbosity-flag) - Easily add a --verbose flag to CLIs using Clap
 - [rust-embedded/svd2rust](https://github.com/rust-embedded/svd2rust) - Generate Rust register maps (`struct`s) from SVD files
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [richardscollin/tmux-rs](https://github.com/richardscollin/tmux-rs) - A Rust port of tmux
@@ -16513,7 +16517,7 @@
 - [738/awesome-apple-watch](https://github.com/738/awesome-apple-watch) - ⌚A curated list of awesome watchOS frameworks, libraries, sample apps, including Objective-C and Swift Projects
 - [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk) - LaunchDarkly Client-side SDK for iOS (Swift and Obj-C)
 - [mixpanel/mixpanel-swift](https://github.com/mixpanel/mixpanel-swift) - Official iOS (Swift) Tracking Library for Mixpanel Analytics
-- [WeTransfer/Diagnostics](https://github.com/WeTransfer/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
+- [MatteoPreti/Diagnostics](https://github.com/MatteoPreti/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
 - [krzyzanowskim/reorder](https://github.com/krzyzanowskim/reorder) - Reorder Swift functions
 - [dillidon/alerts-and-pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...
 - [AppPear/ChartView](https://github.com/AppPear/ChartView) - ChartView made in SwiftUI
