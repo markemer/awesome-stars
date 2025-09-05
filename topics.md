@@ -1595,7 +1595,7 @@
 - [toggl/track-extension](https://github.com/toggl/track-extension) - Toggl Track browser extension for Chrome and Firefox
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [muan/github-gmail](https://github.com/muan/github-gmail) - [WebExtension] Open GitHub notifications with shortcuts in Gmail.
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 
 ## cli 
@@ -2125,6 +2125,7 @@
 
 ## cryptography 
 
+- [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) - Reference implementation of OpenPubkey
 - [Nitrokey/nethsm](https://github.com/Nitrokey/nethsm) - Nitrokey NetHSM system software
 - [apeman/awesome_computer_science](https://github.com/apeman/awesome_computer_science) - The complete syllabus of Computer Science and Engineering. Roadmap, Checklist for Beginners.
@@ -3788,6 +3789,7 @@
 
 ## go 
 
+- [sumup/typeid](https://github.com/sumup/typeid) - TypeIDs are type-safe, globally unique identifiers based on UUIDv7 and UUIDv4 standard.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [glasskube/distr](https://github.com/glasskube/distr) - The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.
@@ -4369,7 +4371,6 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [nova-labs/watto](https://github.com/nova-labs/watto) - wautils2: Rails app for wautils.nova-labs.org
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -5891,7 +5892,7 @@
 - [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [overleaf/web](https://github.com/overleaf/web) - The web front end for Overleaf, a web-based collaborative LaTeX editor
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) - A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
@@ -8088,6 +8089,9 @@
 
 ## others 
 
+- [antiflasher/NanoID](https://github.com/antiflasher/NanoID) - Secure, URL-friendly, flexible and unique string ID generator for Swift
+- [sigstore/docs](https://github.com/sigstore/docs) - Sigstore documentation
+- [the-litte-book-of/linear-algebra](https://github.com/the-litte-book-of/linear-algebra) - There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculati
 - [microsoft/BASIC-M6502](https://github.com/microsoft/BASIC-M6502) - Microsoft BASIC for 6502 Microprocessor - Version 1.1
 - [polarsys/b612](https://github.com/polarsys/b612) - Eclipse B612
 - [romankalyna/RFsquek](https://github.com/romankalyna/RFsquek) - ESP32 + CC1101 RF spectrum scanner and Morse communicator
@@ -8786,11 +8790,11 @@
 - [LeoNatan/LNTouchVisualizer](https://github.com/LeoNatan/LNTouchVisualizer) - Touch visualizing framework for iOS
 - [LeoNatan/LNIPCConnection](https://github.com/LeoNatan/LNIPCConnection) - An asynchronous, bidirectional inter-process remote invocation framework for Apple platforms, with an API similar to Apple's NSXPCConnection.
 - [LeoNatan/AppleSimulatorUtils](https://github.com/LeoNatan/AppleSimulatorUtils) - A collection of command-line utilities for Apple simulators.
-- [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK+ UI
-- [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - 
+- [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK UI
+- [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - Qalculate! Qt UI
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [google/typograms](https://github.com/google/typograms) - 
-- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight, open-source control tool for ASUS laptops and ROG Ally. Manage performance modes, fans, GPU, battery, and RGB lighting across Zephyrus, Flow, TUF, Strix, Scar, and other models.
 - [BradLarson/Molecules](https://github.com/BradLarson/Molecules) - Molecules is an open source 3-D molecular visualizer for iOS.
 - [gobby/libinfinity](https://github.com/gobby/libinfinity) - libinfinity collaborative editing library
 - [PassiveLogic/differentiable-swift-examples](https://github.com/PassiveLogic/differentiable-swift-examples) - Examples and documentation for the experimental differentiable Swift language feature
@@ -8995,7 +8999,7 @@
 - [BRL-CAD/brlcad](https://github.com/BRL-CAD/brlcad) - BRL-CAD is a powerful cross-platform open source combinatorial solid modeling system
 - [OpenTimer/OpenTimer](https://github.com/OpenTimer/OpenTimer) - A High-performance Timing Analysis Tool for VLSI Systems
 - [whatthefilament/Framework-AIO](https://github.com/whatthefilament/Framework-AIO) - AIO Mod for Framework Laptop
-- [swiftuiux/swift-async-corelocation-streamer](https://github.com/swiftuiux/swift-async-corelocation-streamer) - swift async await streamer asynclocation kit ios map swift tracker get user current geolocation and geocoding, gps, swiftui map example using MapKit address decoder Corelocation based service in swift
+- [swiftuiux/swift-async-corelocation-streamer](https://github.com/swiftuiux/swift-async-corelocation-streamer) - swift async await streamer asynclocation kit ios map swift tracker, user current geolocation and geocoding, gps, swiftui map example using MapKit address decoder Corelocation based service in swift As
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [shizmob/rpatool](https://github.com/shizmob/rpatool) - (migrated to https://codeberg.org/shiz/rpatool) A tool to work with Ren'Py archives.
 - [Jana-Marie/OtterCam-s3](https://github.com/Jana-Marie/OtterCam-s3) - Open source 1080p60Hz USB & IP camera based on Sochip s3 and OS05A10/OS05A20 (general MIPI CSI IP camera interface).
@@ -14303,7 +14307,7 @@
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 
 ## productivity 
 
@@ -16107,6 +16111,7 @@
 
 ## swift 
 
+- [jamesog/AgeKit](https://github.com/jamesog/AgeKit) - A simple, modern and secure encryption Swift library with small explicit keys, and no config options.
 - [johnfairh/swift-sass](https://github.com/johnfairh/swift-sass) - Embed the Dart Sass compiler in Swift with custom importers and functions
 - [protonpass/ios-authenticator](https://github.com/protonpass/ios-authenticator) - iOS client for Proton Authenticator
 - [davedufresne/SwiftParsec](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language.
