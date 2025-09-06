@@ -8089,6 +8089,9 @@
 
 ## others 
 
+- [DJBen/ObjcParser](https://github.com/DJBen/ObjcParser) - Parse Objective-C with Swift, powered by ANTLR4
+- [daquintero/piel](https://github.com/daquintero/piel) - Photonic Integrated ELectronics. Microservices to codesign photonics, electronics, quantum, and more.
+- [librelane/librelane](https://github.com/librelane/librelane) - ASIC implementation flow infrastructure
 - [antiflasher/NanoID](https://github.com/antiflasher/NanoID) - Secure, URL-friendly, flexible and unique string ID generator for Swift
 - [sigstore/docs](https://github.com/sigstore/docs) - Sigstore documentation
 - [the-litte-book-of/linear-algebra](https://github.com/the-litte-book-of/linear-algebra) - There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculati
@@ -9672,7 +9675,7 @@
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [rustdesk/rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo) - A working demo of RustDesk server implementation
 - [electronicarts/MELE_ModdingSupport](https://github.com/electronicarts/MELE_ModdingSupport) - 
-- [Automattic/_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out
+- [Automattic/_s](https://github.com/Automattic/_s) - Inactive project – please visit https://themeshaper.com/block-themes/ to learn more about the future of WordPress themes with Block Themes.
 - [Automattic/XCUITestHelpers](https://github.com/Automattic/XCUITestHelpers) - 
 - [DuncanMC/FireEmitter](https://github.com/DuncanMC/FireEmitter) - 
 - [azonenberg/sky130-validation](https://github.com/azonenberg/sky130-validation) - Silicon validation projects for SKY130 stuff
