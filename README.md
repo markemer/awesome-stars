@@ -319,6 +319,9 @@
 
 ## C 
 
+- [sqliteai/sqlite-sync](https://github.com/sqliteai/sqlite-sync) - SQLiteSync is a local-first SQLite extension using CRDTs for seamless, conflict-free data sync and real-time collaboration across devices.
+- [stateless-me/uuidv47](https://github.com/stateless-me/uuidv47) - ⚡ UUIDv47 = v4 privacy + v7 performance
+- [plan9foundation/plan9](https://github.com/plan9foundation/plan9) - Plan 9 History, from 1992-09-21 to 2015-01-10.
 - [Modos-Labs/Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
 - [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
@@ -1221,6 +1224,7 @@
 
 ## C# # 
 
+- [SteamDatabase/SteamAppInfo](https://github.com/SteamDatabase/SteamAppInfo) - Parser for appinfo.vdf and packageinfo.vdf files used by the Steam client
 - [pdfforge/PDFCreator](https://github.com/pdfforge/PDFCreator) - PDFCreator - The free PDF Converter
 - [clawsoftware/clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions.
 - [OpenRakis/Spice86](https://github.com/OpenRakis/Spice86) - Reverse engineer and rewrite real mode DOS programs!
@@ -1308,7 +1312,7 @@
 - [Emotiv/cortex-example](https://github.com/Emotiv/cortex-example) - Example with Cortex V2/V3 API
 - [HJLebbink/asm-dude](https://github.com/HJLebbink/asm-dude) - Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
 - [dotnet/wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [kowalej/BlueMuse](https://github.com/kowalej/BlueMuse) - Windows 10 app to stream data from Muse EEG headsets via LSL (Lab Streaming Layer).
 - [t1lang/t1bootstrap](https://github.com/t1lang/t1bootstrap) - Bootstrap compiler
@@ -2185,6 +2189,7 @@
 
 ## CSS 
 
+- [M17-Project/LinHT-rf-amp](https://github.com/M17-Project/LinHT-rf-amp) - Test board for the Guerrilla RF GRF5604 RF amplifier integrated circuit
 - [TryGhost/Casper](https://github.com/TryGhost/Casper) - The default theme for Ghost
 - [ImplFerris/esp32-book](https://github.com/ImplFerris/esp32-book) - Embedded Programming with ESP32 and Rust
 - [nova-labs/watto](https://github.com/nova-labs/watto) - wautils2: Rails app for wautils.nova-labs.org
@@ -2505,6 +2510,8 @@
 
 ## Go 
 
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
+- [jmpsec/osctrl](https://github.com/jmpsec/osctrl) - Fast and efficient osquery management
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
 - [sumup/typeid](https://github.com/sumup/typeid) - TypeIDs are type-safe, globally unique identifiers based on UUIDv7 and UUIDv4 standard.
@@ -2530,7 +2537,7 @@
 - [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) - Reference implementation of OpenPubkey
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
 - [znscli/zns](https://github.com/znscli/zns) - CLI tool for querying DNS records with readable, colored output.
-- [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers
+- [subtrace/subtrace](https://github.com/subtrace/subtrace) - Network inspector for your backend
 - [noperator/yknotify](https://github.com/noperator/yknotify) - Notify when YubiKey needs touch on macOS
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
@@ -2905,10 +2912,10 @@
 - [google/gapid](https://github.com/google/gapid) - Graphics API Debugger
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 - [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [divan/depscheck](https://github.com/divan/depscheck) - Dependency checker for Golang (Go) packages. Prints stats and suggests to remove small LeftPad-like imports if any.
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
@@ -3168,6 +3175,8 @@
 
 ## HTML 
 
+- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
+- [M17-Project/M17_3310](https://github.com/M17-Project/M17_3310) - Mainboard replacement for Nokia 3310
 - [sigstore/docs](https://github.com/sigstore/docs) - Sigstore documentation
 - [polarsys/b612](https://github.com/polarsys/b612) - Eclipse B612
 - [git/git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
@@ -3559,7 +3568,7 @@
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [SAP-archive/xliff-1-2](https://github.com/SAP-archive/xliff-1-2) - The XLIFF 1.2 Core library offers functionality for constructing, reading, modifying and writing XLIFF 1.2 files according to the OASIS specification.
 - [graalvm/sulong](https://github.com/graalvm/sulong) - Obsolete repository. Moved to oracle/graal.
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [openairplay/AirPlayAuth](https://github.com/openairplay/AirPlayAuth) - Since tvOS 10.2 AppleTV is enforcing the "Device verification" for AirPlay, which could be manually enabled/disabled before. This library allows to pair with an AppleTV and can be used in any app supp
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
@@ -3638,6 +3647,9 @@
 
 ## JavaScript 
 
+- [JNavas2/Archive-Page](https://github.com/JNavas2/Archive-Page) - Browser extension to archive webpages in Archive Today
+- [SteamDatabase/BrowserExtension](https://github.com/SteamDatabase/BrowserExtension) - 💻 SteamDB's extension for Steam websites
+- [M17-Project/LinHT-hw](https://github.com/M17-Project/LinHT-hw) - LinHT - Linux-based, SDR handheld transceiver.
 - [esp-rs/book](https://github.com/esp-rs/book) - The Rust on ESP Book
 - [apache/cordova-lib](https://github.com/apache/cordova-lib) - Apache Cordova Tooling Library
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -3980,6 +3992,7 @@
 - [mewo2/terrain](https://github.com/mewo2/terrain) - Fantasy map generator
 - [lettergram/AnyCrypt](https://github.com/lettergram/AnyCrypt) - A chrome extension that enables automatic encrypting and decryption of GPG messages over the web
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [firebase/functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [bbc/peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with audio waveforms
@@ -4034,7 +4047,7 @@
 - [stanford-oval/genie-cloud](https://github.com/stanford-oval/genie-cloud) - Genie As A Service and Thingpedia
 - [stanford-oval/thingengine-core](https://github.com/stanford-oval/thingengine-core) - A Modular, Powerful Virtual Assistant Engine
 - [watson/bonjour](https://github.com/watson/bonjour) - A Bonjour/Zeroconf protocol implementation in JavaScript
-- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
+- [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
 - [delacannon/ink-nlp-parser](https://github.com/delacannon/ink-nlp-parser) - Test ink with nlp compromise parser
 - [lilytastic/gel](https://github.com/lilytastic/gel) - An Angular 6 app for running ink
 - [marcbruederlin/particles.js](https://github.com/marcbruederlin/particles.js) - A lightweight, dependency-free and responsive javascript plugin for particle backgrounds.
@@ -4559,6 +4572,7 @@
 
 ## Jupyter Notebook 
 
+- [msuzen/isingLenzMC](https://github.com/msuzen/isingLenzMC) - isingLenzMC: Monte Carlo for Classical Ising Model (with core C library)
 - [bioinformatics-cdac/MolToxPred](https://github.com/bioinformatics-cdac/MolToxPred) - Machine Learning based toxicity prediction tool for small molecules.
 - [abeleinin/Metal-Puzzles](https://github.com/abeleinin/Metal-Puzzles) - Solve Puzzles. Learn Metal 🤘
 - [dssg/hitchhikers-guide](https://github.com/dssg/hitchhikers-guide) - The Hitchhiker's Guide to Data Science for Social Good
@@ -4753,7 +4767,6 @@
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [zserge/luash](https://github.com/zserge/luash) - Tiny lua module to write shell scripts with lua (inspired by Python's sh module)
 - [cloudflare/loom](https://github.com/cloudflare/loom) - Easier to read LuaJIT dumps
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [snabbco/snabb](https://github.com/snabbco/snabb) - Snabb: Simple and fast packet networking
 - [Igalia/pflua](https://github.com/Igalia/pflua) - Packet filtering in Lua
 - [cmusatyalab/openface](https://github.com/cmusatyalab/openface) - Face recognition with deep neural networks.
@@ -5218,7 +5231,7 @@
 - [nst/RuntimeBrowser](https://github.com/nst/RuntimeBrowser) - Objective-C Runtime Browser, for Mac OS X and iOS
 - [floriankugler/FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) - UIView category which makes it easy to create layout constraints in code
 - [mattt/NFPA704View](https://github.com/mattt/NFPA704View) - UIView Subclass for NFPA 704 "Fire Diamonds"
-- [luisobo/Xcode-RuntimeHeaders](https://github.com/luisobo/Xcode-RuntimeHeaders) - Class dump of all of the internals of Xcode
+- [lausobo/Xcode-RuntimeHeaders](https://github.com/lausobo/Xcode-RuntimeHeaders) - Class dump of all of the internals of Xcode
 - [mmackh/KEYPullDownMenu](https://github.com/mmackh/KEYPullDownMenu) - A pull down menu, similar to notification center on iOS that supports an unlimited number of items. Items can either be selected, deleted or reordered. The control is aimed at providing context for sw
 - [0xced/Polychromatic](https://github.com/0xced/Polychromatic) - Coloring with significance.
 - [mattt/CHChromaHashView](https://github.com/mattt/CHChromaHashView) - A classic password visualization concept, ported to iOS
@@ -5471,6 +5484,7 @@
 
 ## Others 
 
+- [henesy/awesome-plan9](https://github.com/henesy/awesome-plan9) - A curated list of awesome Plan9-related documents, libraries, and software
 - [aidansteele/osx-abi-macho-file-format-reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference) - Mirror of OS X ABI Mach-O File Format Reference
 - [suzuki-shunsuke/pinact-action](https://github.com/suzuki-shunsuke/pinact-action) - GitHub Actions to pin GitHub Actions by pinact
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
@@ -6065,7 +6079,7 @@
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [turbobabr/Sketch-Plugins-Cookbook](https://github.com/turbobabr/Sketch-Plugins-Cookbook) - A collection of recipes for Sketch App plugins developers
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
-- [leereilly/games](https://github.com/leereilly/games) - A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [cocoa-ai/ModelZoo](https://github.com/cocoa-ai/ModelZoo) - 🦁 A central GitHub repository for sharing Core ML models
 - [cocoa-ai/CocoaAI](https://github.com/cocoa-ai/CocoaAI) - 🤖 The Cocoa Artificial Intelligence Lab
 - [swissmobiclub/appbuilders17](https://github.com/swissmobiclub/appbuilders17) - The repo about the App Builders Switzerland 2017 conference
@@ -6092,6 +6106,7 @@
 - [ajam/2014_payday-nation-data](https://github.com/ajam/2014_payday-nation-data) - Data for the Payday Nation project.
 - [propublica/guides](https://github.com/propublica/guides) - ProPublica's News App and Data Style Guides
 - [benbalter/congressional-districts](https://github.com/benbalter/congressional-districts) - Historic and current US Congressional districts as GeoJSON, versioned within Git
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [rokudev/feed-specifications](https://github.com/rokudev/feed-specifications) - Direct Publisher Feed Specifications
 - [jirsbek/SSH-keys-in-macOS-Sierra-keychain](https://github.com/jirsbek/SSH-keys-in-macOS-Sierra-keychain) - Saving SSH keys in macOS Sierra keychain
 - [sparkfun/SparkFun-Eagle-Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) - SparkFun's Public Eagle PCB Footprints
@@ -6448,6 +6463,7 @@
 
 ## Python 
 
+- [glacierpiece/borderlands-4-save-utility](https://github.com/glacierpiece/borderlands-4-save-utility) - Can be used as a Borderlands 4 save editor. Decrypt encrypted Borderlands 4 saves, edit them as desired, then encrypt them back to be used in game.
 - [daquintero/piel](https://github.com/daquintero/piel) - Photonic Integrated ELectronics. Microservices to codesign photonics, electronics, quantum, and more.
 - [librelane/librelane](https://github.com/librelane/librelane) - ASIC implementation flow infrastructure
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
@@ -6688,7 +6704,7 @@
 - [d00mfish/NFC-Spotify-Player](https://github.com/d00mfish/NFC-Spotify-Player) - 
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
 - [dbr/tvnamer](https://github.com/dbr/tvnamer) - Automatic TV episode file renamer, uses data from thetvdb.com via tvdb_api
 - [greatscottgadgets/ViewSB](https://github.com/greatscottgadgets/ViewSB) - [Archived] open-source USB analyzer toolkit with support for a variety of capture hardware
 - [f4pga/prjxray](https://github.com/f4pga/prjxray) - Documenting the Xilinx 7-series bit-stream format.
@@ -7211,7 +7227,6 @@
 - [halilozercan/pget](https://github.com/halilozercan/pget) - Fast download in chunks
 - [herumi/fmath](https://github.com/herumi/fmath) - fast log and exp functions for AVX2/AVX-512
 - [eliben/pykaleidoscope](https://github.com/eliben/pykaleidoscope) - Implementation of the LLVM tutorial in Python using llvmlite
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [sony/nnabla](https://github.com/sony/nnabla) - Neural Network Libraries
@@ -7717,7 +7732,7 @@
 - [Wootenblatz/Jekyll-Admin](https://github.com/Wootenblatz/Jekyll-Admin) - Drop in code for Rails that allows you to edit your Jekyll.rb based blog.
 - [rfelix/jekyll_ext](https://github.com/rfelix/jekyll_ext) - My attempt to make Jekyll more extendable and to make extensions portable
 - [slack-ruby/slack-ruby-bot](https://github.com/slack-ruby/slack-ruby-bot) - The easiest way to write a Slack bot in Ruby.
-- [slack-ruby/slack-ruby-client](https://github.com/slack-ruby/slack-ruby-client) - A Ruby and command-line client for the Slack Web, Real Time Messaging and Event APIs.
+- [slack-ruby/slack-ruby-client](https://github.com/slack-ruby/slack-ruby-client) - A ruby client for the Slack Web and Event APIs.
 - [slack-samples/ruby-onboarding-events](https://github.com/slack-samples/ruby-onboarding-events) - An onboarding app for a welcoming workspace
 - [heartcombo/devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden.
 - [bblimke/webmock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests in Ruby.
@@ -7932,6 +7947,9 @@
 
 ## Rust 
 
+- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
+- [hermit-os/uhyve](https://github.com/hermit-os/uhyve) - A specialized hypervisor for Hermit.
+- [oxidecomputer/humility](https://github.com/oxidecomputer/humility) - Debugger for Hubris
 - [solokeys/solo2](https://github.com/solokeys/solo2) - Solo 2 firmware in Rust
 - [m4b/bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
 - [microsoft/demikernel](https://github.com/microsoft/demikernel) - Kernel-Bypass LibOS Architecture
@@ -8143,7 +8161,7 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [charsyam/hashids_rust](https://github.com/charsyam/hashids_rust) - rust hashids implements
-- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
+- [rust-postgres/rust-postgres](https://github.com/rust-postgres/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [smithy-lang/smithy-rs](https://github.com/smithy-lang/smithy-rs) - Code generation for the AWS SDK for Rust, as well as server and generic smithy client generation.
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
 - [blitz/clac](https://github.com/blitz/clac) - A reverse polish calculator - a modern replacement for dc
@@ -8607,11 +8625,12 @@
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
+- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
 - [cyrus-and/trace](https://github.com/cyrus-and/trace) - Start or attach to a process and monitor a customizable set of metrics (CPU, I/O, etc.)
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [hackmdio/docker-hackmd](https://github.com/hackmdio/docker-hackmd) - DEPRECATION: Please read our online documentation instead
 - [chipsalliance/chisel-template](https://github.com/chipsalliance/chisel-template) - A template project for beginning new Chisel work
 - [riscv-software-src/riscv-tools](https://github.com/riscv-software-src/riscv-tools) - RISC-V Tools (ISA Simulator and Tests)
@@ -10460,6 +10479,7 @@
 
 ## TypeScript 
 
+- [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [antlr-ng/antlr-ng](https://github.com/antlr-ng/antlr-ng) - The next generation of ANTLR, a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [damiant/vscode-webnative](https://github.com/damiant/vscode-webnative) - Create and maintain web and native projects
 - [rockfactory/civ7-mods-hub](https://github.com/rockfactory/civ7-mods-hub) - Unofficial Civ7 Mods Manager
@@ -10758,7 +10778,6 @@
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [alexandercerutti/passkit-generator](https://github.com/alexandercerutti/passkit-generator) - The easiest way to generate custom Apple Wallet passes in Node.js
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
