@@ -1652,7 +1652,7 @@
 - [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system
 - [ianpatt/f4se](https://github.com/ianpatt/f4se) - Fallout 4 Script Extender
 - [rtl-airband/RTLSDR-Airband](https://github.com/rtl-airband/RTLSDR-Airband) - Multichannel AM/NFM demodulator
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-16.0.0 [September 2025]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-16.0.0 [October 2025]
 - [robmikh/Win32CaptureSample](https://github.com/robmikh/Win32CaptureSample) - A simple sample using the Windows.Graphics.Capture APIs in a Win32 application.
 - [PixelRick/CyberpunkSaveEditor](https://github.com/PixelRick/CyberpunkSaveEditor) - A tool to edit Cyberpunk 2077 sav.dat files
 - [przemek83/volbx](https://github.com/przemek83/volbx) - Graphical tool for data manipulation written in C++/Qt.
@@ -2335,6 +2335,7 @@
 
 ## Cuda 
 
+- [philipfabianek/ptx-playground](https://github.com/philipfabianek/ptx-playground) - A simple environment for writing and experimenting with hand-written CUDA PTX kernels.
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [GooFit/GooFit](https://github.com/GooFit/GooFit) - Code repository for the massively-parallel framework for maximum-likelihood fits, implemented in CUDA/OpenMP
 - [gpufs/gpufs](https://github.com/gpufs/gpufs) - GPUfs - File system support for NVIDIA GPUs
@@ -4774,6 +4775,7 @@
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [zserge/luash](https://github.com/zserge/luash) - Tiny lua module to write shell scripts with lua (inspired by Python's sh module)
 - [cloudflare/loom](https://github.com/cloudflare/loom) - Easier to read LuaJIT dumps
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [snabbco/snabb](https://github.com/snabbco/snabb) - Snabb: Simple and fast packet networking
 - [Igalia/pflua](https://github.com/Igalia/pflua) - Packet filtering in Lua
 - [cmusatyalab/openface](https://github.com/cmusatyalab/openface) - Face recognition with deep neural networks.
@@ -6114,7 +6116,6 @@
 - [ajam/2014_payday-nation-data](https://github.com/ajam/2014_payday-nation-data) - Data for the Payday Nation project.
 - [propublica/guides](https://github.com/propublica/guides) - ProPublica's News App and Data Style Guides
 - [benbalter/congressional-districts](https://github.com/benbalter/congressional-districts) - Historic and current US Congressional districts as GeoJSON, versioned within Git
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [rokudev/feed-specifications](https://github.com/rokudev/feed-specifications) - Direct Publisher Feed Specifications
 - [jirsbek/SSH-keys-in-macOS-Sierra-keychain](https://github.com/jirsbek/SSH-keys-in-macOS-Sierra-keychain) - Saving SSH keys in macOS Sierra keychain
 - [sparkfun/SparkFun-Eagle-Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) - SparkFun's Public Eagle PCB Footprints
@@ -7729,7 +7730,7 @@
 - [theswiftdev/awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) - Awesome native Xcode extensions.
 - [BinaryBeard/fastlane-plugin-codecov_reporter](https://github.com/BinaryBeard/fastlane-plugin-codecov_reporter) - Fastlane plugin that uploads coverage reports to Codecov.io
 - [segiddins/cocoapods-dependencies](https://github.com/segiddins/cocoapods-dependencies) - Shows a project's CocoaPods dependency graph
-- [oracle/truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language, built on GraalVM.
+- [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby) - A high performance implementation of the Ruby programming language, built on GraalVM.
 - [licensee/licensee](https://github.com/licensee/licensee) - A Ruby Gem to detect under what license a project is distributed.
 - [typekit/slackbot](https://github.com/typekit/slackbot) - The laziest bot around.
 - [alloy/instruments](https://github.com/alloy/instruments) - 
@@ -8433,6 +8434,7 @@
 
 ## Shell 
 
+- [keith/xcode-man-pages](https://github.com/keith/xcode-man-pages) - A HTML export of Xcode's man pages
 - [andredestro/cordova-zsh-plugin](https://github.com/andredestro/cordova-zsh-plugin) - A lightweight oh-my-zsh plugin that adds git-style aliases for Apache Cordova commands.
 - [essandess/macOS-Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile
 - [typst-community/typst-package-template](https://github.com/typst-community/typst-package-template) - A template to start your Typst package repositories from
@@ -8453,7 +8455,7 @@
 - [crowbar/crowbar](https://github.com/crowbar/crowbar) - Cloud Operations Platform
 - [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-- [qt/qt5](https://github.com/qt/qt5) - Qt5 super module
+- [qt/qt5](https://github.com/qt/qt5) - Qt super module
 - [ph202107/nordlist](https://github.com/ph202107/nordlist) - Bash script to use with the NordVPN Linux CLI.
 - [lexbailey/compilerfax](https://github.com/lexbailey/compilerfax) - 
 - [tailscale/codespace](https://github.com/tailscale/codespace) - Tailscale for devcontainers and codespaces
@@ -10496,6 +10498,8 @@
 
 ## TypeScript 
 
+- [SocketDev/socket-sdk-js](https://github.com/SocketDev/socket-sdk-js) - Socket SDK for JavaScript / TypeScript
+- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [antlr-ng/antlr-ng](https://github.com/antlr-ng/antlr-ng) - The next generation of ANTLR, a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [damiant/vscode-webnative](https://github.com/damiant/vscode-webnative) - Create and maintain web and native projects
