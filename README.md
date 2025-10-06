@@ -128,6 +128,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SWIG](#swig)
 - [Sail](#sail)
 - [Sass](#sass)
 - [Scala](#scala)
@@ -1447,7 +1448,6 @@
 - [JanSimek/gecko](https://github.com/JanSimek/gecko) - Fallout 2 map editor
 - [xNVSE/NVSE](https://github.com/xNVSE/NVSE) - New Vegas Script Extender (NVSE)
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
-- [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [lip6/coriolis](https://github.com/lip6/coriolis) - Coriolis VLSI EDA Tool (LIP6)
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [Gcenx/DXVK-macOS](https://github.com/Gcenx/DXVK-macOS) - Vulkan-based implementation of D3D10 and D3D11 for macOS / Wine
@@ -1570,7 +1570,7 @@
 - [kebby/Capturinha](https://github.com/kebby/Capturinha) - A tool for real time screen and audio capture on Windows, using NVIDIA's NVENC and with an emphasis on performance, correctness (eg. frame rate stability) and configurability. Mostly made for demoscen
 - [swissmicros/DM42PGM](https://github.com/swissmicros/DM42PGM) - 
 - [swissmicros/free42](https://github.com/swissmicros/free42) - 
-- [SeriousCache/UABE](https://github.com/SeriousCache/UABE) - Asset Bundle Extractor
+- [SeriousCache/UABE](https://github.com/SeriousCache/UABE) - Asset Bundle Extractor. No longer supported. Consider using https://github.com/nesrak1/UABEA
 - [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
 - [WerWolv/Decompiler](https://github.com/WerWolv/Decompiler) - A WIP disassember and decompiler written in modern C++ with the goal to do as much work during compile time as possible
 - [Fleynaro/SDA](https://github.com/Fleynaro/SDA) - SDA is a rich cross-platform tool for reverse engineering that focused firstly on analysis of computer games. I'm trying to create a mix of the Ghidra, Cheat Engine and x64dbg. My tool will combine st
@@ -2383,6 +2383,7 @@
 
 ## Dockerfile 
 
+- [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Asahi Linux documentation
 - [mingchen/docker-android-build-box](https://github.com/mingchen/docker-android-build-box) - An optimized docker image includes Android, Kotlin, Flutter sdk.
 - [blacktop/docker-ghidra](https://github.com/blacktop/docker-ghidra) - Ghidra Client/Server Docker Image
@@ -2537,7 +2538,6 @@
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
-- [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) - Reference implementation of OpenPubkey
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
 - [znscli/zns](https://github.com/znscli/zns) - CLI tool for querying DNS records with readable, colored output.
@@ -3006,7 +3006,7 @@
 - [jedisct1/piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
 - [icecreammatt/hugo-gallery](https://github.com/icecreammatt/hugo-gallery) - A gallery generator for the Hugo static site generator
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
-- [1backend/1backend](https://github.com/1backend/1backend) - Self-hosted AI microservices platform & backend framework for building scalable, on-premise apps with built-in AI models. Language agnostic.
+- [1backend/1backend](https://github.com/1backend/1backend) - Build AI (or any) apps with scalable microservices & microfrontends.
 - [aws-samples/lambda-go-samples](https://github.com/aws-samples/lambda-go-samples) - An example of using AWS Lambda with Go
 - [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
@@ -4716,6 +4716,7 @@
 
 ## LLVM 
 
+- [lahiri-phdworks/LLVM-Examples](https://github.com/lahiri-phdworks/LLVM-Examples) - LLVM Repository and Code samples. LLVM Passes and quick bytes.
 - [tpde2/tpde](https://github.com/tpde2/tpde) - A fast framework for writing baseline compiler back-ends in C++
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [wsmoses/Tapir-LLVM](https://github.com/wsmoses/Tapir-LLVM) - Tapir extension to LLVM for optimizing Parallel Programs
@@ -6436,7 +6437,7 @@
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [parsec-cloud/Cloud-GPU-Updater](https://github.com/parsec-cloud/Cloud-GPU-Updater) - For updating P4000, P5000 and M60 GPU's
 - [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
-- [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
+- [jamesstringer90/Easy-GPU-PV](https://github.com/jamesstringer90/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
@@ -6471,6 +6472,7 @@
 
 ## Python 
 
+- [learn-llvm/awesome-llvm](https://github.com/learn-llvm/awesome-llvm) - A curated list of awesome LLVM (including Clang, etc) related resources.
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
 - [j-suey/bl4_save_editor](https://github.com/j-suey/bl4_save_editor) - A lightweight, Python-based save editor for BL4. Export saves to YAML, edit values, and write them back safely. No EXEs included — run it your way.
 - [keystone-engine/keypatch](https://github.com/keystone-engine/keypatch) - Multi-architecture assembler for IDA Pro. Powered by Keystone Engine.
@@ -8377,6 +8379,10 @@
 - [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 - [oddbird/susy](https://github.com/oddbird/susy) - Pre-grid responsive layout toolkit for Sass, now deprecated
 
+## SWIG 
+
+- [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
+
 ## Sail 
 
 - [riscv/sail-riscv](https://github.com/riscv/sail-riscv) - Sail RISC-V model
@@ -8445,6 +8451,7 @@
 - [Parallels/prlctl-scripts](https://github.com/Parallels/prlctl-scripts) - Somes useful scripts to use with Parallels command line to help in automation
 - [bpdegnan/redbash](https://github.com/bpdegnan/redbash) - Userland macports that is targeted at RHEL so that packages can be installed without root.
 - [systemd/particleos](https://github.com/systemd/particleos) - 
+- [OpenSwiftUIProject/UnsafeHeterogeneousBuffer](https://github.com/OpenSwiftUIProject/UnsafeHeterogeneousBuffer) - 
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 - [sapireli/AirPrint_Bridge](https://github.com/sapireli/AirPrint_Bridge) - AirPrint Bridge: Enable AirPrint for Unsupported Printers on macOS
 - [MarkLodato/git-reparent](https://github.com/MarkLodato/git-reparent) - Git command to recommit HEAD with a new set of parents
@@ -8455,7 +8462,7 @@
 - [crowbar/crowbar](https://github.com/crowbar/crowbar) - Cloud Operations Platform
 - [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-- [qt/qt5](https://github.com/qt/qt5) - Qt super module
+- [qt/qt5](https://github.com/qt/qt5) - Qt5 super module
 - [ph202107/nordlist](https://github.com/ph202107/nordlist) - Bash script to use with the NordVPN Linux CLI.
 - [lexbailey/compilerfax](https://github.com/lexbailey/compilerfax) - 
 - [tailscale/codespace](https://github.com/tailscale/codespace) - Tailscale for devcontainers and codespaces
@@ -8788,6 +8795,7 @@
 
 ## Swift 
 
+- [mattgallagher/CwlUtils](https://github.com/mattgallagher/CwlUtils) - A collection of Swift utilities as documented on cocoawithlove.com
 - [hummingbird-project/hummingbird-examples](https://github.com/hummingbird-project/hummingbird-examples) - Examples demonstrating various aspects of the Hummingbird swift server framework
 - [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift) - A toolkit to make debugging iOS applications easier 🚀
 - [MxIris-Reverse-Engineering/RuntimeViewer](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer) - Objective-C Runtime Viewer for macOS and iOS
@@ -8838,7 +8846,6 @@
 - [willhains/Kotoba](https://github.com/willhains/Kotoba) - Quickly search the built-in iOS dictionary to see definitions of words. Collect words you want to remember.
 - [square/workflow-swift](https://github.com/square/workflow-swift) - A Swift and Kotlin library for making composable state machines, and UIs driven by those state machines.
 - [danielsaidi/SystemNotification](https://github.com/danielsaidi/SystemNotification) - Mimic the native iOS system notification in SwiftUI.
-- [OpenSwiftUIProject/UnsafeHeterogeneousBuffer](https://github.com/OpenSwiftUIProject/UnsafeHeterogeneousBuffer) - 
 - [segment-integrations/swift-create-xcframework](https://github.com/segment-integrations/swift-create-xcframework) - A simple Command Line Tool to create XCFrameworks by wrapping xcodebuild.
 - [nathantannar4/Engine](https://github.com/nathantannar4/Engine) - Engine makes it easier to create idiomatic APIs and Views that feel natural in SwiftUI without sacrificing performance
 - [drewmccormack/Forked](https://github.com/drewmccormack/Forked) - It's like Git for your Swift data types.
@@ -10442,6 +10449,7 @@
 
 ## TeX 
 
+- [FedericoBruzzone/papers-on-compiler-optimizations](https://github.com/FedericoBruzzone/papers-on-compiler-optimizations) - A chronologically sorted list of influential papers on compiler optimization, from the seminal works of 1952 through the advanced techniques of 1994
 - [SynBioDex/SBOL-specification](https://github.com/SynBioDex/SBOL-specification) - The Synthetic Biology Open Language (SBOL)
 - [latex3/latex2e](https://github.com/latex3/latex2e) - The LaTeX2e kernel
 - [borisveytsman/nostarch](https://github.com/borisveytsman/nostarch) - LaTeX Style For No Starch Press
@@ -10498,6 +10506,7 @@
 
 ## TypeScript 
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [SocketDev/socket-sdk-js](https://github.com/SocketDev/socket-sdk-js) - Socket SDK for JavaScript / TypeScript
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
