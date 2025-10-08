@@ -320,6 +320,7 @@
 
 ## C 
 
+- [hamishcoleman/macos-vmnet](https://github.com/hamishcoleman/macos-vmnet) - Simple example for using the macos vmnet framework
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
 - [sqliteai/sqlite-sync](https://github.com/sqliteai/sqlite-sync) - SQLiteSync is a local-first SQLite extension using CRDTs for seamless, conflict-free data sync and real-time collaboration across devices.
 - [stateless-me/uuidv47](https://github.com/stateless-me/uuidv47) - ⚡ UUIDv47 = v4 privacy + v7 performance
@@ -3293,6 +3294,7 @@
 - [marqs85/ossc_pcb](https://github.com/marqs85/ossc_pcb) - ossc pcb design files
 - [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls) - Windows System Call Tables (NT/2000/XP/2003/Vista/7/8/10/11)
 - [glucometers-tech/glucometer-protocols](https://github.com/glucometers-tech/glucometer-protocols) - A shared repository to provide a description of reverse-engineered glucometer protocols
+- [ygzgxyz/awesome-sphinxdoc](https://github.com/ygzgxyz/awesome-sphinxdoc) - Awesome Sphinxdoc is a curated collection of valuable resources for Sphinx
 - [qcif/data-curator](https://github.com/qcif/data-curator) - Data Curator - share usable open data
 - [ultimachine/RAMBo-1.4](https://github.com/ultimachine/RAMBo-1.4) - RAMBo 1.3, but ported to Altium and added filters to more IO,
 - [microsoft/DirectX-Specs](https://github.com/microsoft/DirectX-Specs) - Engineering specs for DirectX features.
@@ -6964,7 +6966,6 @@
 - [python-cmd2/cmd2](https://github.com/python-cmd2/cmd2) - cmd2 - quickly build feature-rich and user-friendly interactive command line applications in Python
 - [googleworkspace/python-samples](https://github.com/googleworkspace/python-samples) - 🐍 Python samples for Google Workspace APIs
 - [dinoboff/github-tools](https://github.com/dinoboff/github-tools) - Helpers for hosting  python projects on GitHub
-- [yoloseem/awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc) - A curated list of awesome tools for Sphinx Python Documentation Generator
 - [macstadium/ansible-role-osx-ci](https://github.com/macstadium/ansible-role-osx-ci) - Ansible Role - OSX CI
 - [macstadium/ansible-role-xcode](https://github.com/macstadium/ansible-role-xcode) - Ansible Role - Xcode
 - [shaise/FreeCAD_FastenersWB](https://github.com/shaise/FreeCAD_FastenersWB) - A workbench to add/attach various fasteners to parts
@@ -7112,7 +7113,7 @@
 - [wdas/reposado](https://github.com/wdas/reposado) - Host Apple Software Updates on the hardware and OS of your choice.
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [danieldaeschle/swapy](https://github.com/danieldaeschle/swapy) - Easy and modular web development
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [Ericsson/codechecker](https://github.com/Ericsson/codechecker) - CodeChecker is an analyzer tooling, defect database and viewer extension for static and dynamic analyzer tools.
 - [awslabs/open-data-registry](https://github.com/awslabs/open-data-registry) - A registry of publicly available datasets on AWS
 - [frictionlessdata/frictionless-py](https://github.com/frictionlessdata/frictionless-py) - Data management framework for Python that provides functionality to describe, extract, validate, and transform tabular data
@@ -8795,6 +8796,7 @@
 
 ## Swift 
 
+- [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) - A modern, expressive testing package for Swift
 - [mattgallagher/CwlUtils](https://github.com/mattgallagher/CwlUtils) - A collection of Swift utilities as documented on cocoawithlove.com
 - [hummingbird-project/hummingbird-examples](https://github.com/hummingbird-project/hummingbird-examples) - Examples demonstrating various aspects of the Hummingbird swift server framework
 - [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift) - A toolkit to make debugging iOS applications easier 🚀
@@ -8904,7 +8906,7 @@
 - [danielsaidi/OnboardingKit](https://github.com/danielsaidi/OnboardingKit) - Create amazing onboarding experiences in SwiftUI.
 - [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite lan
 - [Moonif/MacBox](https://github.com/Moonif/MacBox) - MacBox for 86Box
-- [alessiorubicini/SFSymbolsPickerForSwiftUI](https://github.com/alessiorubicini/SFSymbolsPickerForSwiftUI) - A SwiftUI view for selecting SF symbols in your app
+- [alessiorubicini/SFSymbolsPickerForSwiftUI](https://github.com/alessiorubicini/SFSymbolsPickerForSwiftUI) - A picker to select SF Symbols in your SwiftUi app!
 - [AladinWay/TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation.
 - [WireGuard/wireguard-apple](https://github.com/WireGuard/wireguard-apple) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-apple
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
@@ -9333,7 +9335,7 @@
 - [Flight-School/MessagePack](https://github.com/Flight-School/MessagePack) - A MessagePack encoder and decoder for Codable types
 - [mortenbekditlevsen/SwiftGTKUI](https://github.com/mortenbekditlevsen/SwiftGTKUI) - A simple 'hello-world' app using SwiftGtk
 - [cx-org/CombineX](https://github.com/cx-org/CombineX) - Open source implementation of Apple's Combine
-- [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) - The official Sentry SDK for iOS, tvOS, macOS, watchOS.
+- [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) - The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.
 - [swift-server-community/mqtt-nio](https://github.com/swift-server-community/mqtt-nio) - A Swift NIO MQTT v3.1.1 and v5.0 Client
 - [dduan/Markra](https://github.com/dduan/Markra) - An open-source Markdown-to-JIRA syntax editor written in SwiftUI for macOS
 - [AvdLee/CustomSwiftOperators](https://github.com/AvdLee/CustomSwiftOperators) - Demonstrating custom Swift operators. Including prefix, postfix, infix, and compound assignment operators.
