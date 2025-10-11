@@ -1907,6 +1907,7 @@
 - [macosforge/alac](https://github.com/macosforge/alac) - The Apple Lossless Audio Codec (ALAC) is a lossless audio codec developed by Apple and deployed on all of its platforms and devices.
 - [terralang/terra](https://github.com/terralang/terra) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
 - [sfall-team/sfall](https://github.com/sfall-team/sfall) - sfall - Engine modifications for Fallout 2
+- [AcademySoftwareFoundation/OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) - Open Source API and interchange format for editorial timeline information.
 - [PixarAnimationStudios/OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) - Universal Scene Description
 - [LunarG/VulkanSamples](https://github.com/LunarG/VulkanSamples) - Vulkan Samples
 - [LunarG/LunarGLASS](https://github.com/LunarG/LunarGLASS) - LLVM IR and optimizer for shaders, including front-end adapters for GLSL and SPIR-V and back-end adapter for GLSL
@@ -2585,7 +2586,7 @@
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [Vanilla-OS/Prometheus](https://github.com/Vanilla-OS/Prometheus) - Prometheus is a simple and accessible library for pulling and mounting container images. It is designed to be used as a dependency in ABRoot and Albius.
 - [apple/pkl-go-examples](https://github.com/apple/pkl-go-examples) - Examples for using Pkl within Go applications
-- [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
+- [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is an experimental/abandoned GPU rendered terminal emulator designed for tiling window managers.
 - [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Forwarder is a production-ready, fast MITM proxy with PAC support. It's suitable for debugging, intercepting and manipulating HTTP traffic. It's used as a core component of Sauce Labs Sauce Connect Pr
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
@@ -7060,7 +7061,6 @@
 - [Beliar83/bGrease](https://github.com/Beliar83/bGrease) - The highly extensible game engine framework for Python, modified to make it easily usable with other libraries than pyglet.
 - [caseman/grease](https://github.com/caseman/grease) - The highly extensible game engine framework for Python
 - [stanford-oval/genie-parser](https://github.com/stanford-oval/genie-parser) - Neural Network Semantic Parser for Almond
-- [AcademySoftwareFoundation/OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) - Open Source API and interchange format for editorial timeline information.
 - [Befzz/blender3d_import_psk_psa](https://github.com/Befzz/blender3d_import_psk_psa) - import mesh, skeleton, animation from psk, psa files to blender3d
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [patchew-project/patchew](https://github.com/patchew-project/patchew) - A patch email tracking and testing system
@@ -7962,6 +7962,8 @@
 
 ## Rust 
 
+- [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider.
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [kvark/mint](https://github.com/kvark/mint) - Math Interoperability Types
 - [fu5ha/cint](https://github.com/fu5ha/cint) - A lean, minimal, and stable set of types for color interoperation between crates in Rust.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
