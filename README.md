@@ -320,6 +320,7 @@
 
 ## C 
 
+- [ZitaoTech/9981_BLE_USB_Keyboard_Pro](https://github.com/ZitaoTech/9981_BLE_USB_Keyboard_Pro) - Description about the 9981 BLE&USB Keyboard Pro with trackpad
 - [hamishcoleman/macos-vmnet](https://github.com/hamishcoleman/macos-vmnet) - Simple example for using the macos vmnet framework
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
 - [sqliteai/sqlite-sync](https://github.com/sqliteai/sqlite-sync) - SQLiteSync is a local-first SQLite extension using CRDTs for seamless, conflict-free data sync and real-time collaboration across devices.
@@ -9402,7 +9403,7 @@
 - [swift-server/swift-service-lifecycle](https://github.com/swift-server/swift-service-lifecycle) - Cleanly startup and shutdown server application, freeing resources in order before exiting.
 - [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
 - [swiftlang/swift-tools-support-core](https://github.com/swiftlang/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
-- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom keyboards with Swift & SwiftUI.
+- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
 - [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
 - [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) - Useful code around SwiftNIO.
 - [eleev/grid-compositional-layout](https://github.com/eleev/grid-compositional-layout) - 🧲 Grid Compositional Layout is a SwiftUI 2.0 view that lays out the supplied views in a grid. Easily configurable and lazily retained [Swift 5.3, iOS 14.0+, iPadOS 14.0+, macOS 11.0(10.16)+]
