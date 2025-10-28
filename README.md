@@ -57,6 +57,7 @@
 - [GLSL](#glsl)
 - [Game Maker Language](#game-maker-language)
 - [Gherkin](#gherkin)
+- [Gleam](#gleam)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -367,7 +368,6 @@
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - A realtime telemetry workbench for embedded systems.
 - [libgit2/libgit2-backends](https://github.com/libgit2/libgit2-backends) - Standalone ODB backends for the libgit2 library
-- [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
 - [rudyrucker/chaos](https://github.com/rudyrucker/chaos) - James Gleick's Chaos: The Software
 - [tidwall/geokit](https://github.com/tidwall/geokit) - Various geodesic calculations for C
 - [Florents-Tselai/pgpdf](https://github.com/Florents-Tselai/pgpdf) - pdf type for Postgres
@@ -1227,6 +1227,7 @@
 
 ## C# # 
 
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Redirect any Windows TCP and UDP traffic to HTTP/Socks5 proxy
 - [SteamDatabase/SteamAppInfo](https://github.com/SteamDatabase/SteamAppInfo) - Parser for appinfo.vdf and packageinfo.vdf files used by the Steam client
 - [pdfforge/PDFCreator](https://github.com/pdfforge/PDFCreator) - PDFCreator - The free PDF Converter
 - [clawsoftware/clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions.
@@ -1590,7 +1591,7 @@
 - [fredemmott/StreamDeck-CPPSDK](https://github.com/fredemmott/StreamDeck-CPPSDK) - A fork of Elgato's C++ StreamDeck SDK, focussing on reusability
 - [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
 - [Jyers/Marlin](https://github.com/Jyers/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
-- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
 - [Norbyte/ositools](https://github.com/Norbyte/ositools) - Advanced scripting and mod support for Divinity Original Sin 2
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [tihmstar/img4tool](https://github.com/tihmstar/img4tool) - A tool for manipulating IMG4, IM4M and IM4P files
@@ -2516,6 +2517,10 @@
 
 - [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
+## Gleam 
+
+- [lpil/gleescript](https://github.com/lpil/gleescript) - 🌮 Bundle your Gleam-on-Erlang project into an escript, a single executable file!
+
 ## Go 
 
 - [usbarmory/boot-transparency](https://github.com/usbarmory/boot-transparency) - Go library which enables interaction with transparency ecosystems for boot loading operations
@@ -2620,7 +2625,7 @@
 - [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go) - Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
 - [blacktop/go-apfs](https://github.com/blacktop/go-apfs) - APFS parser written in pure Go
 - [DHowett/go-plist](https://github.com/DHowett/go-plist) - A pure Go Apple Property List transcoder
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [usbarmory/imx-usbnet](https://github.com/usbarmory/imx-usbnet) - i.MX Ethernet over USB driver
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -2769,7 +2774,7 @@
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [usbarmory/crucible](https://github.com/usbarmory/crucible) - One-Time-Programmable (OTP) fusing tool
 - [anishathalye/periscope](https://github.com/anishathalye/periscope) - Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭
-- [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [FoundryApp/foundry-cli](https://github.com/FoundryApp/foundry-cli) - Foundry makes the development of Firebase Functions fast by giving you an out-of-the-box working cloud environment for your development with an access to your production data. It's a CLI tool that giv
@@ -3693,7 +3698,6 @@
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [piebro/factorio-blueprint-visualizer](https://github.com/piebro/factorio-blueprint-visualizer) - A python library to artfully visualize Factorio Blueprints and an interactive web demo for using it.
 - [gallmarch/fl-goat-farmer](https://github.com/gallmarch/fl-goat-farmer) - FLGF rewrite for the site redesign
-- [lukeslp/alt-text-local-ai](https://github.com/lukeslp/alt-text-local-ai) - 
 - [cmake-js/cmake-js](https://github.com/cmake-js/cmake-js) - CMake.js - a Node.js native addon build tool
 - [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
 - [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
@@ -4589,6 +4593,7 @@
 
 ## Jupyter Notebook 
 
+- [palewire/open-source-news-analysis](https://github.com/palewire/open-source-news-analysis) - How active are news nerds on GitHub?
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [msuzen/isingLenzMC](https://github.com/msuzen/isingLenzMC) - isingLenzMC: Monte Carlo for Classical Ising Model (with core C library)
 - [little-book-of/linear-algebra](https://github.com/little-book-of/linear-algebra) - A concise, beginner-friendly introduction to the core ideas of linear algebra.
@@ -5433,7 +5438,6 @@
 - [Mantle/Mantle](https://github.com/Mantle/Mantle) - Model framework for Cocoa and Cocoa Touch
 - [github/Rebel](https://github.com/github/Rebel) - Cocoa framework for improving AppKit
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
-- [Xcode-Snippets/Objective-C](https://github.com/Xcode-Snippets/Objective-C) - A few code snippets from my Xcode arsenal
 - [FormatterKit/FormatterKit](https://github.com/FormatterKit/FormatterKit) - `stringWithFormat:` for the sophisticated hacker set
 - [twitter-archive/twui](https://github.com/twitter-archive/twui) - A UI framework for Mac based on Core Animation
 - [kif-framework/KIF](https://github.com/kif-framework/KIF) - Keep It Functional - An iOS Functional Testing Framework
@@ -5509,6 +5513,10 @@
 
 ## Others 
 
+- [antmicro/hdmi-mipi-bridge](https://github.com/antmicro/hdmi-mipi-bridge) - Antmicro's open hardware HDMI into MIPI CSI-2 converter
+- [BMsemi/X1-NVM-open_IPs](https://github.com/BMsemi/X1-NVM-open_IPs) - Reference Open Source IPs using BM LABS X1
+- [wafer-space/chip-on-board-wire-bonded-pcbs](https://github.com/wafer-space/chip-on-board-wire-bonded-pcbs) - Wire bonded chip on board PCB designs.
+- [denis-g/steam-deck-optimization-guide](https://github.com/denis-g/steam-deck-optimization-guide) - 🎮  This guide contains descriptions of settings and utilities for safely improving the performance, and useful information for advanced Steam Deck users. All settings supported LCD and OLED versions.
 - [henesy/awesome-plan9](https://github.com/henesy/awesome-plan9) - A curated list of awesome Plan9-related documents, libraries, and software
 - [aidansteele/osx-abi-macho-file-format-reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference) - Mirror of OS X ABI Mach-O File Format Reference
 - [suzuki-shunsuke/pinact-action](https://github.com/suzuki-shunsuke/pinact-action) - GitHub Actions to pin GitHub Actions by pinact
@@ -5544,6 +5552,7 @@
 - [v5tech/awesome-ios-animation](https://github.com/v5tech/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries
 - [apple/device-management](https://github.com/apple/device-management) - Device management schema data for MDM.
 - [Nitrokey/nitrokey-3c-nfc-lpc55-hardware](https://github.com/Nitrokey/nitrokey-3c-nfc-lpc55-hardware) - Nitrokey 3 USB-C NFC LPC55 hardware
+- [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
 - [EngineersNeedArt/SoftDorothy-SharewareProjects](https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects) - Disk images (intended for emulators) containing code and tools for building Soft Dorothy Software games. Primarily vintage Pascal and C calling the vintage Macintosh Toolbox.
 - [rodneyknaap/atx-286at-v1-mainboard](https://github.com/rodneyknaap/atx-286at-v1-mainboard) - This project features a design for a 80286 ATX mainboard based on the IBM 5170 AT PC
 - [splorp/wordpress-comment-blocklist](https://github.com/splorp/wordpress-comment-blocklist) - A simple solution for WordPress comment spam.
@@ -6485,6 +6494,8 @@
 
 ## Python 
 
+- [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
+- [FarisZR/knocker](https://github.com/FarisZR/knocker) - Knocker, a knock based access control system for your homelab
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [agg111/nova](https://github.com/agg111/nova) - Real time file locking
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
@@ -6521,6 +6532,7 @@
 - [doronz88/DeveloperDiskImage](https://github.com/doronz88/DeveloperDiskImage) - Home for both DeveloperDiskImage files (iOS &lt; 17.0) and Personalized files (iOS &gt;= 17.0)
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [R-O-C-K-E-T/Factorio-SAT](https://github.com/R-O-C-K-E-T/Factorio-SAT) - Enhancing the Factorio experience with SAT solvers
+- [lukeslp/alt-text-local-ai](https://github.com/lukeslp/alt-text-local-ai) - 
 - [cooljjj33/PolyDye](https://github.com/cooljjj33/PolyDye) - Full Color Printer Mod for Marlin 3D Printers
 - [bowenchristopher/Fusion360_API](https://github.com/bowenchristopher/Fusion360_API) - Fusion 360 API Tools
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
@@ -7872,7 +7884,6 @@
 - [meltingice/git-lfs-s3](https://github.com/meltingice/git-lfs-s3) - A Git LFS server that uses S3 as the storage backend.
 - [vesan/omnifocus-trello](https://github.com/vesan/omnifocus-trello) - Plugin for omnifocus gem to provide Trello BTS synchronization
 - [grocer/grocer](https://github.com/grocer/grocer) - Pushing your Apple notifications since 2012.
-- [Xcode-Snippets/xcodesnippet](https://github.com/Xcode-Snippets/xcodesnippet) - A command-line interface for installing Xcode Snippets
 - [sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory) - Official Sketch Plugin directory
 - [fastlane/itc-api-docs](https://github.com/fastlane/itc-api-docs) - The unofficial documentation of the iTunes Connect JSON API
 - [Evernote/evernote-sdk-ruby](https://github.com/Evernote/evernote-sdk-ruby) - Evernote SDK for Ruby
@@ -7975,6 +7986,7 @@
 
 ## Rust 
 
+- [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
 - [DVDTSB/hexhog](https://github.com/DVDTSB/hexhog) - hex viewer/editor
 - [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider.
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
@@ -8101,7 +8113,7 @@
 - [graphql-rust/graphql-parser](https://github.com/graphql-rust/graphql-parser) - A graphql query language and schema definition language parser and formatter for rust
 - [kilork/openid](https://github.com/kilork/openid) - OpenID Connect Rust Library
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [henrikpersson/potatis](https://github.com/henrikpersson/potatis) - 🥔 MOS-6502 and NES emulator in Rust (SDL/WebAssembly/Android/Embedded/Cloud)
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
 - [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools) - CLI and Rust libraries for low-level manipulation of WebAssembly modules
@@ -8468,6 +8480,7 @@
 - [Parallels/prlctl-scripts](https://github.com/Parallels/prlctl-scripts) - Somes useful scripts to use with Parallels command line to help in automation
 - [bpdegnan/redbash](https://github.com/bpdegnan/redbash) - Userland macports that is targeted at RHEL so that packages can be installed without root.
 - [systemd/particleos](https://github.com/systemd/particleos) - 
+- [danielsaidi/SystemNotification](https://github.com/danielsaidi/SystemNotification) - Mimic the native iOS system notification in SwiftUI.
 - [OpenSwiftUIProject/UnsafeHeterogeneousBuffer](https://github.com/OpenSwiftUIProject/UnsafeHeterogeneousBuffer) - 
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 - [sapireli/AirPrint_Bridge](https://github.com/sapireli/AirPrint_Bridge) - AirPrint Bridge: Enable AirPrint for Unsupported Printers on macOS
@@ -8864,7 +8877,6 @@
 - [kieranb662/Sliders-SwiftUI](https://github.com/kieranb662/Sliders-SwiftUI) - Collection of unique fully customizable SwiftUI sliders, joysticks, trackpads and more!
 - [willhains/Kotoba](https://github.com/willhains/Kotoba) - Quickly search the built-in iOS dictionary to see definitions of words. Collect words you want to remember.
 - [square/workflow-swift](https://github.com/square/workflow-swift) - A Swift and Kotlin library for making composable state machines, and UIs driven by those state machines.
-- [danielsaidi/SystemNotification](https://github.com/danielsaidi/SystemNotification) - Mimic the native iOS system notification in SwiftUI.
 - [segment-integrations/swift-create-xcframework](https://github.com/segment-integrations/swift-create-xcframework) - A simple Command Line Tool to create XCFrameworks by wrapping xcodebuild.
 - [nathantannar4/Engine](https://github.com/nathantannar4/Engine) - Engine makes it easier to create idiomatic APIs and Views that feel natural in SwiftUI without sacrificing performance
 - [drewmccormack/Forked](https://github.com/drewmccormack/Forked) - It's like Git for your Swift data types.
@@ -10808,7 +10820,7 @@
 - [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira) - DEPRECATED (moved to private repository) - Connect your code with your project management in Jira
 - [patternhelloworld/url-knife](https://github.com/patternhelloworld/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with Area-Pattern-based modularity
 - [eavichay/microfronts](https://github.com/eavichay/microfronts) - Polyglot Front-End Solution for running multiple frameworks as one
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor) - Bitrise Workflow Editor
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
@@ -10998,6 +11010,7 @@
 
 ## Verilog 
 
+- [AUCOHL/DFFRAM](https://github.com/AUCOHL/DFFRAM) - Standard Cell Library based Memory Compiler using FF/Latch cells
 - [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door
 - [WangXuan95/FPGA-CAN](https://github.com/WangXuan95/FPGA-CAN) - An FPGA-based lightweight CAN bus controller. 基于FPGA的轻量级CAN总线控制器。
 - [WangXuan95/FPGA-SDfake](https://github.com/WangXuan95/FPGA-SDfake) - Imitate SDcard using FPGAs. 使用FPGA模拟伪装SD卡。
