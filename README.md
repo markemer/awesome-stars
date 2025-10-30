@@ -160,6 +160,7 @@
 - [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+- [Wren](#wren)
 - [XSLT](#xslt)
 - [YAML](#yaml)
 - [YARA](#yara)
@@ -4256,7 +4257,7 @@
 - [slack-samples/javascript-message-menus](https://github.com/slack-samples/javascript-message-menus) - Order coffee through interactive message menus
 - [slackapi/node-slack-interactive-messages](https://github.com/slackapi/node-slack-interactive-messages) - Slack Buttons, Menus, and Dialogs made simpler for Node
 - [slack-samples/botkit-easy-peasy-bot](https://github.com/slack-samples/botkit-easy-peasy-bot) - Create a bot with Botkit
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files, deflate64 decompression, and encryption.
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, web streams, zip64, split files, data encryption, and deflate64 decompression.
 - [mapbox/delaunator](https://github.com/mapbox/delaunator) - An incredibly fast JavaScript library for Delaunay triangulation of 2D points
 - [captainsafia/giddy](https://github.com/captainsafia/giddy) - A CLI wrapper around git for an improved developer experience
 - [mathjax/MathJax-docs](https://github.com/mathjax/MathJax-docs) - MathJax documentation. Beautiful math in all browsers. Beautifully documented.
@@ -4426,7 +4427,7 @@
 - [antipalindrome/Photoshop-Export-Layers-to-Files-Fast](https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast) - This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at LambdaTest
 - [hmaidasani/RadialChartImageGenerator](https://github.com/hmaidasani/RadialChartImageGenerator) - Radial Bar Chart Generator for Apple Watch -
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
@@ -6495,7 +6496,7 @@
 ## Python 
 
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
-- [FarisZR/knocker](https://github.com/FarisZR/knocker) - Knocker, a knock based access control system for your homelab
+- [FarisZR/knocker](https://github.com/FarisZR/knocker) - Knocker, a knock based access control service for your homelab
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [agg111/nova](https://github.com/agg111/nova) - Real time file locking
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
@@ -11135,6 +11136,10 @@
 - [danleh/wasabi](https://github.com/danleh/wasabi) - A dynamic analysis framework for WebAssembly programs.
 - [WebAssembly/spec](https://github.com/WebAssembly/spec) - WebAssembly specification, reference interpreter, and test suite.
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
+
+## Wren 
+
+- [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 
 ## XSLT 
 
