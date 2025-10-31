@@ -1409,6 +1409,7 @@
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
 - [tomverbeure/fake_parallel_printer](https://github.com/tomverbeure/fake_parallel_printer) - Capture traffic on parallel printer port to USB
+- [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
 - [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
 - [AndersBNielsen/Relatively-Universal-ROM-Programmer](https://github.com/AndersBNielsen/Relatively-Universal-ROM-Programmer) - Hardware to program W27C512 EEPROM or any 24/28/32 pin ROM requiring from 5V to 27V programming voltage.
 - [cisco/openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
@@ -5553,7 +5554,6 @@
 - [v5tech/awesome-ios-animation](https://github.com/v5tech/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries
 - [apple/device-management](https://github.com/apple/device-management) - Device management schema data for MDM.
 - [Nitrokey/nitrokey-3c-nfc-lpc55-hardware](https://github.com/Nitrokey/nitrokey-3c-nfc-lpc55-hardware) - Nitrokey 3 USB-C NFC LPC55 hardware
-- [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
 - [EngineersNeedArt/SoftDorothy-SharewareProjects](https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects) - Disk images (intended for emulators) containing code and tools for building Soft Dorothy Software games. Primarily vintage Pascal and C calling the vintage Macintosh Toolbox.
 - [rodneyknaap/atx-286at-v1-mainboard](https://github.com/rodneyknaap/atx-286at-v1-mainboard) - This project features a design for a 80286 ATX mainboard based on the IBM 5170 AT PC
 - [splorp/wordpress-comment-blocklist](https://github.com/splorp/wordpress-comment-blocklist) - A simple solution for WordPress comment spam.
@@ -5650,7 +5650,7 @@
 - [FrameworkComputer/ExpansionBay](https://github.com/FrameworkComputer/ExpansionBay) - CAD and documentation for the Expansion Bay module system in the Framework Laptop 16
 - [theleagueof/league-mono](https://github.com/theleagueof/league-mono) - A monospace typeface inspired by Fira Mono, Libertinus Mono, and Courier.
 - [JohnBlood/awesome-basic](https://github.com/JohnBlood/awesome-basic) - A curated list of awesome BASIC dialects, IDEs, and tutorials
-- [Cap-go/awesome-ionic](https://github.com/Cap-go/awesome-ionic) - An "awesome" list of Ionic resources
+- [Cap-go/awesome-ionic](https://github.com/Cap-go/awesome-ionic) - Awesome list of Ionic resources
 - [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
 - [vircon32/Vircon32Documents](https://github.com/vircon32/Vircon32Documents) - A collection of PDF documents related to the console. Mainly specifications and guides.
 - [bertjiazheng/Awesome-CAD](https://github.com/bertjiazheng/Awesome-CAD) - 😎 A list of awesome Computer-Aided Design (CAD) papers
