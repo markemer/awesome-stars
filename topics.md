@@ -549,6 +549,8 @@
 
 ## api 
 
+- [micromdm/apple-device-services](https://github.com/micromdm/apple-device-services) - API schema definitions for Apple's various device management web services.
+- [unfoldedcircle/core-api](https://github.com/unfoldedcircle/core-api) - API specifications for Remote Two/3 by Unfolded Circle
 - [SocketDev/socket-sdk-js](https://github.com/SocketDev/socket-sdk-js) - Socket SDK for JavaScript / TypeScript
 - [digitalocean/godo](https://github.com/digitalocean/godo) - DigitalOcean Go API client
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API
@@ -1629,6 +1631,7 @@
 
 ## cli 
 
+- [clean-css/clean-css-cli](https://github.com/clean-css/clean-css-cli) - The command line interface to clean-css CSS optimizer
 - [ByteNess/aws-vault](https://github.com/ByteNess/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
@@ -2062,6 +2065,7 @@
 - [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - config karabiner with ease
 - [rwbutler/FeatureFlags](https://github.com/rwbutler/FeatureFlags) - 🚩 Allows developers to configure feature flags, run multiple A/B tests or phase feature roll out using a JSON configuration file.
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
+- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [drduh/config](https://github.com/drduh/config) - Configuration files and scripts used in guides and for system setup.
 
@@ -2290,6 +2294,7 @@
 
 ## css 
 
+- [clean-css/clean-css-cli](https://github.com/clean-css/clean-css-cli) - The command line interface to clean-css CSS optimizer
 - [apeman/awesome_computer_science](https://github.com/apeman/awesome_computer_science) - The complete syllabus of Computer Science and Engineering. Roadmap, Checklist for Beginners.
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -2534,7 +2539,7 @@
 - [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
 - [chjj/liburkel](https://github.com/chjj/liburkel) - Authenticated key-value store (i.e. an urkel tree)
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [urban-health-labs/CombineFirebase](https://github.com/urban-health-labs/CombineFirebase) - Combine wrapper on Google's iOS Firebase library.
@@ -2995,6 +3000,7 @@
 
 ## documentation 
 
+- [unfoldedcircle/core-api](https://github.com/unfoldedcircle/core-api) - API specifications for Remote Two/3 by Unfolded Circle
 - [xPaw/SteamWebAPIDocumentation](https://github.com/xPaw/SteamWebAPIDocumentation) - 📃 An automatically generated list of Steam Web API interfaces, methods and parameters. Allows you to craft requests in the browser.
 - [readium/architecture](https://github.com/readium/architecture) - 📚 Documents the architecture of the Readium projects
 - [FreeCAD/DevelopersHandbook](https://github.com/FreeCAD/DevelopersHandbook) - A handbook about FreeCAD development
@@ -3184,6 +3190,7 @@
 
 ## embedded 
 
+- [apple/swift-mmio](https://github.com/apple/swift-mmio) - Define and operate on type safe MMIO
 - [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door
 - [johnfairh/swift-sass](https://github.com/johnfairh/swift-sass) - Embed the Dart Sass compiler in Swift with custom importers and functions
 - [ImplFerris/esp32-book](https://github.com/ImplFerris/esp32-book) - Embedded Programming with ESP32 and Rust
@@ -3288,7 +3295,7 @@
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
 - [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap) - Binary Analysis Platform
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
-- [AndreaOrru/LaiNES](https://github.com/AndreaOrru/LaiNES) - Cycle-accurate NES emulator in ~1000 lines of code
+- [AndreaOrru/LaiNES](https://github.com/AndreaOrru/LaiNES) - Compact cycle-accurate NES emulator
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 
 ## english 
@@ -4621,7 +4628,6 @@
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [pokanop/nostromo](https://github.com/pokanop/nostromo) - 👽 CLI for building powerful aliases and tools
 - [ghdl/ghdl](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [Cockatrice/Cockatrice](https://github.com/Cockatrice/Cockatrice) - A cross-platform virtual tabletop for multiplayer card games
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
@@ -5156,7 +5162,6 @@
 - [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 - [Ekhoo/Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 - [jessesquires/Foil](https://github.com/jessesquires/Foil) - A lightweight property wrapper for UserDefaults done right
-- [HaishinKit/HaishinKit.swift](https://github.com/HaishinKit/HaishinKit.swift) - Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS.
 - [googlemaps/google-maps-ios-utils](https://github.com/googlemaps/google-maps-ios-utils) - Google Maps SDK for iOS Utility Library
 - [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
 - [ionic-team/trapeze](https://github.com/ionic-team/trapeze) - The mobile project configuration toolbox. Manage native iOS, Android, Ionic/Capacitor, React Native, and Flutter apps through a simple YAML format.
@@ -7022,7 +7027,6 @@
 - [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 - [jessesquires/Foil](https://github.com/jessesquires/Foil) - A lightweight property wrapper for UserDefaults done right
 - [sindresorhus/DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon
-- [HaishinKit/HaishinKit.swift](https://github.com/HaishinKit/HaishinKit.swift) - Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS.
 - [DSchroer/dslcad](https://github.com/DSchroer/dslcad) - DSLCad is a programming language & interpreter for building 3D models.
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer) - OSX Optimizer: Optimize MacOS - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
@@ -7649,6 +7653,7 @@
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [digitalist/bash_database_history](https://github.com/digitalist/bash_database_history) - save your bash/zsh history to mysql or sqlite
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -8238,6 +8243,19 @@
 
 ## others 
 
+- [laprasdrum/ConcurrencyLab](https://github.com/laprasdrum/ConcurrencyLab) - Comparing multiple concurrency technologies like pthread, NSThread, GCD, Operation, Swift Concurrency
+- [zhuowei/FakeHVF](https://github.com/zhuowei/FakeHVF) - Useless learning project: simulates Hypervisor.framework APIs on top of Linux KVM
+- [DJBen/HoleDisplacement](https://github.com/DJBen/HoleDisplacement) - Dot grid and displacement upon touch in Metal
+- [ajb142/omap_loader](https://github.com/ajb142/omap_loader) - A USB BootROM uploading utility for TI ARM OMAP3 family processors. Rewrite of omap3_usbload. Supports USBLOAD functionality in TI's X-Loader.
+- [exploiteers/NestDFUAttack](https://github.com/exploiteers/NestDFUAttack) - Packages to attack the Google Nest's DFU mode.
+- [codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) - Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil!
+- [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
+- [cgutman/enet](https://github.com/cgutman/enet) - ENet reliable UDP networking library
+- [albaintor/integration-lgtv](https://github.com/albaintor/integration-lgtv) - Unfolded Circle Remote Two integration driver for LG TVs
+- [home-assistant-libs/aiowebostv](https://github.com/home-assistant-libs/aiowebostv) - Python library to control LG webOS based TV devices
+- [t2linux/apple-ib-drv](https://github.com/t2linux/apple-ib-drv) - Apple iBridge devices support (Touchbar/ALS) for MacBook Pro 2018 and onward.
+- [OpenSUSI/TR-1um](https://github.com/OpenSUSI/TR-1um) - 
+- [siddarthkay/react-native-go](https://github.com/siddarthkay/react-native-go) - A starter template with react-native and golang to demonstrate communication between a golang backend and a react-native client.
 - [antmicro/hdmi-mipi-bridge](https://github.com/antmicro/hdmi-mipi-bridge) - Antmicro's open hardware HDMI into MIPI CSI-2 converter
 - [BMsemi/X1-NVM-open_IPs](https://github.com/BMsemi/X1-NVM-open_IPs) - Reference Open Source IPs using BM LABS X1
 - [wafer-space/chip-on-board-wire-bonded-pcbs](https://github.com/wafer-space/chip-on-board-wire-bonded-pcbs) - Wire bonded chip on board PCB designs.
@@ -8319,7 +8337,7 @@
 - [SuperIlu/DOSDevelResources](https://github.com/SuperIlu/DOSDevelResources) - A short list of development resources for MS-DOS. Heavily influenced by my own projects and favorites
 - [git/git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
 - [NOAA-GSL/zyra](https://github.com/NOAA-GSL/zyra) - Modular workflows for reproducible science
-- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [LtBrain/MuBook](https://github.com/LtBrain/MuBook) - A x86 carrier board for the LattePanda Mu
 - [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
 - [NabuCasa/yellow](https://github.com/NabuCasa/yellow) - Home Assistant Yellow - hardware for Home Assistant which grows with your needs.
@@ -8544,7 +8562,6 @@
 - [cisco/openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
 - [tevelee/swift-graphs](https://github.com/tevelee/swift-graphs) - A composable, extensible library for graph structures with support for a wide range of algorithms
 - [krzyzanowskim/LanguageServerProtocol](https://github.com/krzyzanowskim/LanguageServerProtocol) - Swift library for working with Language Server Protocol (LSP)
-- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
 - [vmanot/Swallow](https://github.com/vmanot/Swallow) - A complement to the Swift standard library.
 - [sectordistrict/intentrace](https://github.com/sectordistrict/intentrace) - intentrace is strace with intent, it goes all the way for you instead of half the way. intentrace is currently in beta
@@ -8784,7 +8801,6 @@
 - [ALSchwalm/pISO](https://github.com/ALSchwalm/pISO) - Hardware and software source for the pISO
 - [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2/H4
 - [android/car-samples](https://github.com/android/car-samples) - Multiple samples showing best practices for car app development on both Android Auto and Android Automotive OS.
-- [turingmotors/swan](https://github.com/turingmotors/swan) - This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources.
 - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
 - [Le0Michine/FusionGridfinityGenerator](https://github.com/Le0Michine/FusionGridfinityGenerator) - 
 - [bkis/dice-or-die](https://github.com/bkis/dice-or-die) - :game_die: A simple, aesthetic dice rolling simulator featuring d4, d6, d8, d10, d12, d20, d100 and a pleasant but optional dice rolling sound
@@ -9179,6 +9195,7 @@
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+- [HaishinKit/HaishinKit.swift](https://github.com/HaishinKit/HaishinKit.swift) - Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS.
 - [rsms/llvmbox](https://github.com/rsms/llvmbox) - Self contained, fully static llvm tools & libs
 - [AcademySoftwareFoundation/MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) - MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.
 - [robbie-cahill/tunnelmole-service](https://github.com/robbie-cahill/tunnelmole-service) - Give local web servers a public URL
@@ -10740,7 +10757,7 @@
 - [FreeCAD/FreeCAD-render](https://github.com/FreeCAD/FreeCAD-render) - The Render workbench
 - [adafruit/Adafruit_nRF52_Bootloader](https://github.com/adafruit/Adafruit_nRF52_Bootloader) - USB-enabled bootloaders for the nRF52 BLE SoC chips
 - [heestand-xyz/SwiftMetal](https://github.com/heestand-xyz/SwiftMetal) - Write Metal in Swift
-- [kfrlib/kfr](https://github.com/kfrlib/kfr) - Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON)
+- [kfrlib/kfr](https://github.com/kfrlib/kfr) - Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON, RISC-V RVV)
 - [twostraws/SamplePackage](https://github.com/twostraws/SamplePackage) - A test package for Swift Package Manager.
 - [gregfjohnson/aplette](https://github.com/gregfjohnson/aplette) - This is a new take on an old language:  APL.  The goal is to pare APL down to its elegant essence.  This version of APL is oriented toward scripting within a Unix-style computing environment.
 - [patternhelloworld/url-knife](https://github.com/patternhelloworld/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with Area-Pattern-based modularity
@@ -11787,7 +11804,7 @@
 - [awslabs/open-data-registry](https://github.com/awslabs/open-data-registry) - A registry of publicly available datasets on AWS
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [kryptco/swift-pgp](https://github.com/kryptco/swift-pgp) - A pure Swift library for parsing and creating PGP RFC 4880 public keys, user ids, and signatures.
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [archagon/sensible-side-buttons](https://github.com/archagon/sensible-side-buttons) - A macOS menu bar app that enables system-wide navigation functionality for the side buttons on third-party mice.
 - [dustinrue/ControlPlane](https://github.com/dustinrue/ControlPlane) - ControlPlane - context-sensitive computing for OS X
 - [freechipsproject/firrtl-interpreter](https://github.com/freechipsproject/firrtl-interpreter) - A scala based simulator for circuits described by a LoFirrtl file
@@ -12422,7 +12439,6 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [alloy/instruments](https://github.com/alloy/instruments) - 
 - [capyvara/fastlane-plugin-store_sizer](https://github.com/capyvara/fastlane-plugin-store_sizer) - Fastlane plugin that estimates download and install sizes for your app
-- [lovettbarron/diy-mba](https://github.com/lovettbarron/diy-mba) - DIY MBA because I can probably get away with it
 - [terrierscript/gulp-unzip](https://github.com/terrierscript/gulp-unzip) - 
 - [Patrick-Kladek/Callisto](https://github.com/Patrick-Kladek/Callisto) - Parse Clang Static Analyzer messages and pass them to Slack
 - [spotify/apps-tutorial](https://github.com/spotify/apps-tutorial) - A Spotify App that contains working examples of the use of Spotify Apps API
@@ -13457,7 +13473,7 @@
 - [novus/nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 - [specta/expecta](https://github.com/specta/expecta) - A Matcher Framework for Objective-C/Cocoa
 - [orta/Snapshots](https://github.com/orta/Snapshots) - An Xcode Plugin to show the state of FBSnapshot Tests.
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
+- [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
 - [freebsdgirl/ggautoblocker](https://github.com/freebsdgirl/ggautoblocker) - Good Game Auto Blocker
 - [fastlane-old/sigh](https://github.com/fastlane-old/sigh) - Because you would rather spend your time building stuff than fighting provisioning
 - [timd/FirebasePlayground](https://github.com/timd/FirebasePlayground) - A minimal implementation of an app that talks to Firebase
@@ -14410,7 +14426,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
@@ -14454,6 +14470,7 @@
 
 ## privacy 
 
+- [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - Simple Yet Powerful Anti-Detect Browser 🍩
@@ -15199,6 +15216,7 @@
 - [tscircuit/cli](https://github.com/tscircuit/cli) - Create electronics with React with a local development server
 - [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
 - [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
@@ -15587,6 +15605,8 @@
 
 ## rust 
 
+- [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc
+- [quadrupleslap/scrap](https://github.com/quadrupleslap/scrap) - 📸 Screen capture made easy!
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [ImplFerris/esp32-book](https://github.com/ImplFerris/esp32-book) - Embedded Programming with ESP32 and Rust
@@ -15602,6 +15622,7 @@
 - [rsmpi/rsmpi](https://github.com/rsmpi/rsmpi) - MPI bindings for Rust
 - [hlorenzi/customasm](https://github.com/hlorenzi/customasm) - 💻 An assembler for custom, user-defined instruction sets! https://hlorenzi.github.io/customasm/web/
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [hemashushu/practice-mcu-bare-metal-rust](https://github.com/hemashushu/practice-mcu-bare-metal-rust) - A bare metal (register level) STM32F103C8T6/STM32F103 MCU program written in pure Rust without any IDE, SDK, HAL or library, and no assembly code, the only tool required is the Rust compiler.
 - [rust-embedded/cortex-m-quickstart](https://github.com/rust-embedded/cortex-m-quickstart) - Template to develop bare metal applications for Cortex-M microcontrollers
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -15738,7 +15759,7 @@
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -16020,6 +16041,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -16261,7 +16283,7 @@
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [vincent-pradeilles/KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit is a library that provides the standard functions to manipulate data along with a call-syntax that relies on typed keypaths to make the call sites as short and clean as possible.
@@ -16283,6 +16305,7 @@
 
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
 
@@ -16366,6 +16389,7 @@
 
 ## swift 
 
+- [apple/swift-mmio](https://github.com/apple/swift-mmio) - Define and operate on type safe MMIO
 - [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) - A modern, expressive testing package for Swift
 - [hummingbird-project/hummingbird-examples](https://github.com/hummingbird-project/hummingbird-examples) - Examples demonstrating various aspects of the Hummingbird swift server framework
 - [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift) - A toolkit to make debugging iOS applications easier 🚀
@@ -16483,7 +16507,6 @@
 - [MacPaw/OpenAI](https://github.com/MacPaw/OpenAI) - Swift community driven package for OpenAI public API
 - [shima11/FlexiblePageControl](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
-- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [ChimeHQ/UITestingPlus](https://github.com/ChimeHQ/UITestingPlus) - Utilities for working with XCUI testing
 - [devxoul/Toaster](https://github.com/devxoul/Toaster) - 🍞 Toast for Swift
 - [anupamchugh/iowncode](https://github.com/anupamchugh/iowncode) - A curated collection of iOS, ML, AR resources sprinkled with some UI additions
@@ -17270,7 +17293,6 @@
 - [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 - [V8tr/AsyncImage](https://github.com/V8tr/AsyncImage) - Asynchronous Image Loading from URL in SwiftUI
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
-- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [pointfreeco/swift-identified-collections](https://github.com/pointfreeco/swift-identified-collections) - A library of data structures for working with collections of identifiable elements in an ergonomic, performant way.
 - [anupamchugh/iowncode](https://github.com/anupamchugh/iowncode) - A curated collection of iOS, ML, AR resources sprinkled with some UI additions
 - [DominikButz/SwiftUIGraphs](https://github.com/DominikButz/SwiftUIGraphs) - As replacement for SwiftUI Charts, SwiftUIGraphs features a multi-line chart, stacked bar chart and pie chart with many customisable properties.
@@ -17899,6 +17921,7 @@
 
 ## virtual-reality 
 
+- [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc
 - [timdecode/LifeBrush](https://github.com/timdecode/LifeBrush) - A toolkit for painting agent-based mesoscale molecular simulations and illustrations.
 - [a2flo/floor](https://github.com/a2flo/floor) - A C++ Compute/Graphics Library and Toolchain enabling same-source CUDA/Host/Metal/OpenCL/Vulkan C++ programming and execution.
 
@@ -18145,6 +18168,7 @@
 
 ## windows 
 
+- [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc
 - [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Redirect any Windows TCP and UDP traffic to HTTP/Socks5 proxy
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [brianluft/heirloom](https://github.com/brianluft/heirloom) - Heirloom apps — Modernized File Manager and Program Manager for Windows
