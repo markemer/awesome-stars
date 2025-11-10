@@ -2908,7 +2908,7 @@
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [grocy/grocy-docker](https://github.com/grocy/grocy-docker) - ERP beyond your fridge - now containerized - this is the docker repo of https://github.com/grocy/grocy
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
@@ -4172,7 +4172,7 @@
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [logrusorgru/aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
 - [akash-network/node](https://github.com/akash-network/node) - Source code for Akash node, a secure, transparent, and peer-to-peer cloud computing network
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [blacktop/go-macho](https://github.com/blacktop/go-macho) - Package macho implements access to and creation of Mach-O object files.
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
@@ -4482,7 +4482,6 @@
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A feature-rich GraphQL Client for all platforms.
 - [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
-- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [drom/awesome-hdl](https://github.com/drom/awesome-hdl) - Hardware Description Languages
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [BG3-Community-Library-Team/BG3-Community-Library](https://github.com/BG3-Community-Library-Team/BG3-Community-Library) - Baldur's Gate 3 Community Library exists to provide a common collection of Spells, Scripts, Items, Statuses, Passives, and other useful material that will assist modders in creating new content.
@@ -4782,7 +4781,6 @@
 - [ruby/rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
-- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [geminabox/geminabox](https://github.com/geminabox/geminabox) - Really simple rubygem hosting
 - [xcpretty/xcode-install](https://github.com/xcpretty/xcode-install) - 🔽 Install and update your Xcodes
@@ -5078,7 +5076,7 @@
 - [cruxopen/openISP](https://github.com/cruxopen/openISP) - Image Signal Processor
 - [awesome-photogrammetry/awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - 😎 Awesome photogrammetry projects
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
 - [KnicKnic/WASM-ImageMagick](https://github.com/KnicKnic/WASM-ImageMagick) - Webassembly compilation of https://github.com/ImageMagick/ImageMagick & samples
@@ -6097,7 +6095,7 @@
 
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [librecores/librecores-ci-jenkins-server](https://github.com/librecores/librecores-ci-jenkins-server) - LibreCores Continuous Integration
-- [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs - Sweeeeet!
+- [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
 - [jenkinsci/gradle-jpi-plugin](https://github.com/jenkinsci/gradle-jpi-plugin) - Build Jenkins Plugins with Gradle
 - [github/janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -8658,7 +8656,7 @@
 - [gibbed/Gibbed.Borderlands3.Datamining](https://github.com/gibbed/Gibbed.Borderlands3.Datamining) - 
 - [gibbed/Borderlands3Dumps](https://github.com/gibbed/Borderlands3Dumps) - Borderlands 3 data dumps.
 - [tedpearson/edf-importer](https://github.com/tedpearson/edf-importer) - Tool to import .edf files (particularly from CPAP machines) to influxdb or victoriametrics.
-- [qt/qt5](https://github.com/qt/qt5) - Qt5 super module
+- [qt/qt5](https://github.com/qt/qt5) - Qt super module
 - [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website.
 - [raimue/docbookrx](https://github.com/raimue/docbookrx) - (An early version of) a DocBook to AsciiDoc converter written in Ruby.
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
@@ -8741,7 +8739,7 @@
 - [idea-fasoc/OpenFASOC](https://github.com/idea-fasoc/OpenFASOC) - Fully Open Source FASOC generators built on top of open-source EDA tools
 - [open-simh/simh](https://github.com/open-simh/simh) - The Open SIMH simulators package
 - [TinyTapeout/tt-demo-pcb](https://github.com/TinyTapeout/tt-demo-pcb) - Demo board for TT04 and beyond
-- [TinyTapeout/tt-support-tools](https://github.com/TinyTapeout/tt-support-tools) - tools used by project repos to test configuration, generate OpenLane run summaries and documentation
+- [TinyTapeout/tt-support-tools](https://github.com/TinyTapeout/tt-support-tools) - Tiny Tapeout project build tools + chip integration scripts
 - [seldridge/verilog](https://github.com/seldridge/verilog) - Repository for basic (and not so basic) Verilog blocks with high re-use potential
 - [hamsternz/DisplayPort_Verilog](https://github.com/hamsternz/DisplayPort_Verilog) - A Verilog implementation of DisplayPort protocol for FPGAs
 - [TinyTapeout/siliwiz](https://github.com/TinyTapeout/siliwiz) - Silicon Layout Wizard
@@ -11010,7 +11008,6 @@
 - [yob/pdf-reader](https://github.com/yob/pdf-reader) - The PDF::Reader library implements a PDF parser conforming as much as possible to the PDF specification from Adobe.
 - [baldengineer/bit-preserve](https://github.com/baldengineer/bit-preserve) - Project for capturing vintage, classic, aka old computer schematics in KiCad.
 - [mist-devel/mist-binaries](https://github.com/mist-devel/mist-binaries) - Firmware and core binaries for the MIST board
-- [LorenzHW/gnostic-grpc-deprecated](https://github.com/LorenzHW/gnostic-grpc-deprecated) - A gnostic plugin that generates proto definition files (.proto) for REST APIs
 - [googlearchive/firebase-dart](https://github.com/googlearchive/firebase-dart) - Dart wrapper for Firebase
 - [t1lang/t1bootstrap](https://github.com/t1lang/t1bootstrap) - Bootstrap compiler
 - [anandabits/SwiftUI-Processing](https://github.com/anandabits/SwiftUI-Processing) - 
