@@ -8241,6 +8241,7 @@
 
 ## others 
 
+- [valeman/Awesome_Math_Books](https://github.com/valeman/Awesome_Math_Books) - 
 - [laprasdrum/ConcurrencyLab](https://github.com/laprasdrum/ConcurrencyLab) - Comparing multiple concurrency technologies like pthread, NSThread, GCD, Operation, Swift Concurrency
 - [zhuowei/FakeHVF](https://github.com/zhuowei/FakeHVF) - Useless learning project: simulates Hypervisor.framework APIs on top of Linux KVM
 - [DJBen/HoleDisplacement](https://github.com/DJBen/HoleDisplacement) - Dot grid and displacement upon touch in Metal
@@ -8656,7 +8657,7 @@
 - [gibbed/Gibbed.Borderlands3.Datamining](https://github.com/gibbed/Gibbed.Borderlands3.Datamining) - 
 - [gibbed/Borderlands3Dumps](https://github.com/gibbed/Borderlands3Dumps) - Borderlands 3 data dumps.
 - [tedpearson/edf-importer](https://github.com/tedpearson/edf-importer) - Tool to import .edf files (particularly from CPAP machines) to influxdb or victoriametrics.
-- [qt/qt5](https://github.com/qt/qt5) - Qt super module
+- [qt/qt5](https://github.com/qt/qt5) - Qt5 super module
 - [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website.
 - [raimue/docbookrx](https://github.com/raimue/docbookrx) - (An early version of) a DocBook to AsciiDoc converter written in Ruby.
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
@@ -15602,6 +15603,7 @@
 
 ## rust 
 
+- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB Book Reader
 - [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc
 - [quadrupleslap/scrap](https://github.com/quadrupleslap/scrap) - 📸 Screen capture made easy!
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
