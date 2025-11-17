@@ -9283,7 +9283,7 @@
 - [historicalsource/leisure-suit-larry-1-alt](https://github.com/historicalsource/leisure-suit-larry-1-alt) - A game about a name with a quest, with some alternate materials.
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Asahi Linux documentation
 - [themittenmac/TrueTree](https://github.com/themittenmac/TrueTree) - A command line tool for pstree-like output on macOS with additional pid capturing capabilities
-- [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.
+- [plhery/node-twitter-api-v2](https://github.com/plhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.
 - [tweetback/tweetback-canonical](https://github.com/tweetback/tweetback-canonical) - A package to resolve twitter URLs to new canonically hosted twitter backups
 - [dariusk/twitter-archiver](https://github.com/dariusk/twitter-archiver) - Make your own simple, public, searchable Twitter archive
 - [tailscale/gitops-acl-action](https://github.com/tailscale/gitops-acl-action) - GitOps for your Tailscale ACLs
@@ -9739,7 +9739,7 @@
 - [StarDustCFW/Haku33](https://github.com/StarDustCFW/Haku33) - Perform a hard reset of the switch
 - [suchmememanyskill/TegraScript](https://github.com/suchmememanyskill/TegraScript) - The scripting language of TegraExplorer
 - [suchmememanyskill/TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer) - A payload-based file manager for your switch!
-- [d00telemental/ME1NativeTools](https://github.com/d00telemental/ME1NativeTools) - Some original ME1 native plugins, previously was at GitLab
+- [llamathings/ME1NativeTools](https://github.com/llamathings/ME1NativeTools) - Some original ME1 native plugins, previously was at GitLab
 - [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [mapmeld/fortran-machine](https://github.com/mapmeld/fortran-machine) - Finally a Fortran MVC web platform
@@ -9747,7 +9747,7 @@
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [ME3Tweaks/LE2-ASI-Plugins](https://github.com/ME3Tweaks/LE2-ASI-Plugins) - ASI plugins for Mass Effect 2 (Legendary Edition)
-- [d00telemental/LExSDKGenerator](https://github.com/d00telemental/LExSDKGenerator) - An adapted version of TheFeckless' UE3 SDK generator, targeted specifically at the games of Mass Effect Legendary Edition.
+- [llamathings/LExSDKGenerator](https://github.com/llamathings/LExSDKGenerator) - An adapted version of TheFeckless' UE3 SDK generator, targeted specifically at the games of Mass Effect Legendary Edition.
 - [ME3Tweaks/LE3-ASI-Plugins](https://github.com/ME3Tweaks/LE3-ASI-Plugins) - ASI plugins for Mass Effect 3 (Legendary Edition)
 - [OneLoneCoder/olcNES](https://github.com/OneLoneCoder/olcNES) - NES Emulator, and Tutorial Video Code
 - [rfbproto/rfbproto](https://github.com/rfbproto/rfbproto) - 
@@ -9853,14 +9853,14 @@
 - [mleiv/MEGameTracker](https://github.com/mleiv/MEGameTracker) - The source code for my Mass Effect tracking app.
 - [henbagle/LE1CommunityPatch](https://github.com/henbagle/LE1CommunityPatch) - Issue tracker for the Community Patch mod for Mass Effect 1: Legendary Edition
 - [mooltipass/minible_hw](https://github.com/mooltipass/minible_hw) - Repository for the Mini BLE Hardware
-- [d00telemental/LENativeExperiments](https://github.com/d00telemental/LENativeExperiments) - Some native modding experiments for Mass Effect (Legendary Edition).
+- [llamathings/LENativeExperiments](https://github.com/llamathings/LENativeExperiments) - Some native modding experiments for Mass Effect (Legendary Edition).
 - [Wolfgang-Spraul/fpgatools](https://github.com/Wolfgang-Spraul/fpgatools) - public domain tools for FPGAs
 - [lmanul/welltemperedtraveler](https://github.com/lmanul/welltemperedtraveler) - Well-Tempered Traveler
 - [avrae/d20](https://github.com/avrae/d20) - A fast, powerful, and extensible dice engine for D&D, d20 systems, and any other system that needs dice!
 - [ME3Tweaks/ME3TweaksModManager](https://github.com/ME3Tweaks/ME3TweaksModManager) - Mod Manager for Mass Effect Original Trilogy and Mass Effect Legendary Edition
 - [dineshsonachalam/markdown-autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - ✨ A GitHub Action that automatically generates & updates markdown content (like your README.md) from external or remote files.
 - [polivilas/UnrealEngineSDKGenerator](https://github.com/polivilas/UnrealEngineSDKGenerator) - Generate SDKs from Unreal Engine games (UE1 - 4 supported).
-- [d00telemental/LExSDK](https://github.com/d00telemental/LExSDK) - An SDK-like projection of UnrealScript-accessible code for Mass Effect 1, 2 and 3 (Legendary Edition)
+- [llamathings/LExSDK](https://github.com/llamathings/LExSDK) - An SDK-like projection of UnrealScript-accessible code for Mass Effect 1, 2 and 3 (Legendary Edition)
 - [Myself086/Project-Nested](https://github.com/Myself086/Project-Nested) - 
 - [ratanakvlun/deluge-ltconfig](https://github.com/ratanakvlun/deluge-ltconfig) - 
 - [tuist/tuist-action](https://github.com/tuist/tuist-action) - A GitHub action to run Tuist from GitHub workflows
@@ -9873,7 +9873,7 @@
 - [juliangruber/read-file-action](https://github.com/juliangruber/read-file-action) - Read file contents
 - [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
 - [ogra1/zoom-snap](https://github.com/ogra1/zoom-snap) - 
-- [d00telemental/LECoal](https://github.com/d00telemental/LECoal) - A DEPRECATED tool for packing and unpacking LE1/LE2 Coalesced_INT.bin files.
+- [llamathings/LECoal](https://github.com/llamathings/LECoal) - A DEPRECATED tool for packing and unpacking LE1/LE2 Coalesced_INT.bin files.
 - [efabless/sky130_sram_macros_old](https://github.com/efabless/sky130_sram_macros_old) - 
 - [jegnux/BackedCodable](https://github.com/jegnux/BackedCodable) - Powerful property wrapper to back codable properties.
 - [marksands/BetterCodable](https://github.com/marksands/BetterCodable) - Better Codable through Property Wrappers
@@ -9896,7 +9896,7 @@
 - [aws/session-manager-plugin](https://github.com/aws/session-manager-plugin) - This plugin helps you to use the AWS Command Line Interface (AWS CLI) to start and end sessions to your managed instances
 - [TeaWithLucas/DNDBeyond-DM-Screen](https://github.com/TeaWithLucas/DNDBeyond-DM-Screen) - The script aims to provide a simple DM screen by displaying handy stats and info on the campaign screen.
 - [crobi/rpg-cards](https://github.com/crobi/rpg-cards) - RPG spell/item/monster card generator
-- [d00telemental/LEBinkProxy](https://github.com/d00telemental/LEBinkProxy) - A multi-functional proxy DLL for Mass Effect Legendary Edition. Unlocks console, loads native plugins, provides an option for bypassing the launcher.
+- [llamathings/LEBinkProxy](https://github.com/llamathings/LEBinkProxy) - A multi-functional proxy DLL for Mass Effect Legendary Edition. Unlocks console, loads native plugins, provides an option for bypassing the launcher.
 - [Jason2Brownlee/CleverAlgorithms](https://github.com/Jason2Brownlee/CleverAlgorithms) - Clever Algorithms: Nature-Inspired Programming Recipes
 - [QMUI/LookinServer](https://github.com/QMUI/LookinServer) - Free macOS app for iOS view debugging.
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
