@@ -2533,6 +2533,9 @@
 
 ## Go 
 
+- [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS.
+- [Alia5/VIIPER](https://github.com/Alia5/VIIPER) - Virtual Input over IP Emulator - VIIPER is a tool to create virtual input devices using USBIP.
+- [Alia5/SISR](https://github.com/Alia5/SISR) - SISR (Steam Input System Redirector; pronounced "scissor") is a tool that allows users to redirect Steam Input configurations to a system level, either on localhost or even over the network.
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [usbarmory/boot-transparency](https://github.com/usbarmory/boot-transparency) - Go library which enables interaction with transparency ecosystems for boot loading operations
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
@@ -4761,6 +4764,7 @@
 
 ## Lua 
 
+- [ArkForgeLabs/Astra](https://github.com/ArkForgeLabs/Astra) - 🔥 Blazingly Fast 🔥 web server runtime for Lua
 - [franko/luajit-lang-toolkit](https://github.com/franko/luajit-lang-toolkit) - A Lua bytecode compiler written in Lua itself for didactic purposes or for new language implementations
 - [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)
 - [LaughingLeader/BG3ModdingTools](https://github.com/LaughingLeader/BG3ModdingTools) - A collection is miscellaneous snippets and scripts to make life easier when modding Baldur's Gate 3.
@@ -5158,7 +5162,6 @@
 - [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) - Plugin that adds CSS support to Sketch 3 for a faster design workflow.
 - [card-io/card.io-iOS-SDK](https://github.com/card-io/card.io-iOS-SDK) - card.io provides fast, easy credit card scanning in mobile apps
 - [alloy/clang-compilation-database-tool](https://github.com/alloy/clang-compilation-database-tool) - Tool that can be used to generate Clang Compilation DBs from Xcode.
-- [firebase/FirebaseUI-iOS](https://github.com/firebase/FirebaseUI-iOS) - iOS UI bindings for Firebase.
 - [thetron/StringScore](https://github.com/thetron/StringScore) - StringScore is an Objective-C library which provides super fast fuzzy string matching/scoring. Based on the JavaScript library of the same name.
 - [nek023/Lin](https://github.com/nek023/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString.
 - [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
@@ -6512,6 +6515,7 @@
 
 ## Python 
 
+- [Mic92/strace-macos](https://github.com/Mic92/strace-macos) - A clone of the strace command for macOS
 - [bbenchoff/OrthoRoute](https://github.com/bbenchoff/OrthoRoute) - OrthoRoute: A GPU-accelerated PCB autorouter for KiCad
 - [benroeder/nimbiestatemachine](https://github.com/benroeder/nimbiestatemachine) - Python driver and state machine for Acronova Nimbie NB21 CD/DVD duplicator
 - [albaintor/integration-lgtv](https://github.com/albaintor/integration-lgtv) - Unfolded Circle Remote Two integration driver for LG TVs
@@ -6929,7 +6933,7 @@
 - [DormyMo/SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) - admin ui for scrapy/open source scrapinghub
 - [nfstream/nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
 - [san089/goodreads_etl_pipeline](https://github.com/san089/goodreads_etl_pipeline) - An end-to-end GoodReads Data Pipeline for Building Data Lake, Data Warehouse and Analytics Platform.
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [myint/git-sweep](https://github.com/myint/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
@@ -8353,6 +8357,7 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust
 - [cloud-hypervisor/rust-hypervisor-firmware](https://github.com/cloud-hypervisor/rust-hypervisor-firmware) - 
+- [solanabull/Solana-Sniper-Bot](https://github.com/solanabull/Solana-Sniper-Bot) - Solana sniper bot for PumpFun & Raydium. Real-time copy trading, auto-selling, and lightning-fast execution. Solana sniper bot Solana sniper bot Solana sniper bot Solana sniper bot Solana sniper bot S
 - [org-rs/org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [gamozolabs/orange_slice](https://github.com/gamozolabs/orange_slice) - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost
 - [drewwyatt/git-tidy](https://github.com/drewwyatt/git-tidy) - Tidy up stale git branches.
@@ -9463,7 +9468,7 @@
 - [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
 - [swiftlang/swift-tools-support-core](https://github.com/swiftlang/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
 - [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
-- [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
+- [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - [Looking for active maintainers] SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
 - [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) - Useful code around SwiftNIO.
 - [eleev/grid-compositional-layout](https://github.com/eleev/grid-compositional-layout) - 🧲 Grid Compositional Layout is a SwiftUI 2.0 view that lays out the supplied views in a grid. Easily configurable and lazily retained [Swift 5.3, iOS 14.0+, iPadOS 14.0+, macOS 11.0(10.16)+]
 - [abhi-dave/ADDatePicker](https://github.com/abhi-dave/ADDatePicker) - A fully customizable iOS Horizontal PickerView library, written in pure swift
@@ -10302,6 +10307,7 @@
 - [nerdishbynature/octokit.swift](https://github.com/nerdishbynature/octokit.swift) - A Swift API Client for GitHub and GitHub Enterprise
 - [kylef/PathKit](https://github.com/kylef/PathKit) - Effortless path operations in Swift
 - [Abizern/xcode-snippets](https://github.com/Abizern/xcode-snippets) - Xcode Snippets for Swift 2, based on those by Mattt at https://github.com/Xcode-Snippets/Objective-C
+- [firebase/FirebaseUI-iOS](https://github.com/firebase/FirebaseUI-iOS) - iOS UI bindings for Firebase.
 - [duemunk/Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch
 - [rhummelmose/BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE
 - [shu223/watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler) - Code examples for new features of watchOS 2.
