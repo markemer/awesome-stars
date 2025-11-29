@@ -588,7 +588,7 @@
 - [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [AsahiLinux/gpu](https://github.com/AsahiLinux/gpu) - Dissecting the M1's GPU for 3D acceleration
-- [babbleberry/rpi4-osdev](https://github.com/babbleberry/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
+- [sypstraw/rpi4-osdev](https://github.com/sypstraw/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [aceinnolab/Inkycal](https://github.com/aceinnolab/Inkycal) - Create awesome e-paper dashboards within minutes! Modularity? Check! Python3? Check? Works on Raspberry Pi Zero W? Check! Support for own modules? Check!
 - [google/hiba](https://github.com/google/hiba) - HIBA is a system built on top of regular OpenSSH certificate-based authentication that allows to manage flexible authorization of principals on pools of target hosts without the need to push customize
 - [suchmememanyskill/TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer) - A payload-based file manager for your switch!
@@ -1237,6 +1237,7 @@
 
 ## C# # 
 
+- [xADDBx/ToyBox-RogueTrader](https://github.com/xADDBx/ToyBox-RogueTrader) - Toy Box is a cute and playful mod with 400+ cheats, tweaks and quality of life improvements for Pathfinder: WoTR. It was created in the spirit of Bag of Tricks & Cheat Menu but with a little different
 - [FabianFG/CUE4Parse](https://github.com/FabianFG/CUE4Parse) - 
 - [CrystalFerrai/UeSaveGame](https://github.com/CrystalFerrai/UeSaveGame) - A .NET library for reading and writing standard Unreal Engine save game files.
 - [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
@@ -1322,7 +1323,7 @@
 - [Norbyte/lslib](https://github.com/Norbyte/lslib) - Tools for manipulating Divinity Original Sin and Baldur's Gate 3 files
 - [nxrighthere/UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET 6 integration
 - [X2CommunityCore/X2SaveGameAnalyzer](https://github.com/X2CommunityCore/X2SaveGameAnalyzer) - Simple Windows application (and .NET library) that analyzes and displays some information from XCOM 2 savegame files.
-- [OpenRA/d2](https://github.com/OpenRA/d2) - A d2 mod for OpenRA
+- [OpenRA/d2](https://github.com/OpenRA/d2) - A Dune II mod for OpenRA
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [Emotiv/cortex-example](https://github.com/Emotiv/cortex-example) - Example with Cortex V2/V3 API
@@ -2213,7 +2214,6 @@
 - [MichiMolle/gtk3-eink](https://github.com/MichiMolle/gtk3-eink) - css for making gtk3-applications look better on eink devices
 - [MichiMolle/obsidian-eink](https://github.com/MichiMolle/obsidian-eink) - light, high-contrast theme for obsidian, intended for eink-displays
 - [MarketingPipeline/Markdown-Tag](https://github.com/MarketingPipeline/Markdown-Tag) - Render Markdown to HTML on any website using a md tag
-- [brettohland/fuckingformatstyle](https://github.com/brettohland/fuckingformatstyle) - The source code that runs fuckingformatstyle.com and goshdarnformatstyle.com
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [Automattic/_s](https://github.com/Automattic/_s) - Inactive project – please visit https://themeshaper.com/block-themes/ to learn more about the future of WordPress themes with Block Themes.
@@ -3107,7 +3107,7 @@
 - [google/grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [sourcegraph/checkup](https://github.com/sourcegraph/checkup) - Distributed, lock-free, self-hosted health checks and status pages
 - [sourcegraph/thyme](https://github.com/sourcegraph/thyme) - Automatically track which applications you use and for how long.
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [goadapp/goad](https://github.com/goadapp/goad) - Goad is an AWS Lambda powered, highly distributed, load testing tool
 - [C2SP/wycheproof](https://github.com/C2SP/wycheproof) - Project Wycheproof tests crypto libraries against known attacks.
@@ -6243,7 +6243,6 @@
 - [tylergaw/js-osx-app-examples](https://github.com/tylergaw/js-osx-app-examples) - Example OS X applications written in JavaScript.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
-- [paperwork/paperwork](https://github.com/paperwork/paperwork) - 
 - [objcio/issue-1-view-controller-containment](https://github.com/objcio/issue-1-view-controller-containment) - Small example app that shows a container view controller
 - [FirstBuild/ChillHub](https://github.com/FirstBuild/ChillHub) - A smart refrigerator with USB, Wi-Fi, and attachments
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
@@ -6958,7 +6957,7 @@
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
-- [openstenoproject/plover](https://github.com/openstenoproject/plover) - Open source stenotype engine
+- [opensteno/plover](https://github.com/opensteno/plover) - Open source stenotype engine
 - [lovasoa/bad_json_parsers](https://github.com/lovasoa/bad_json_parsers) - Exposing problems in json parsers of several programming languages.
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [googlefonts/science-gothic](https://github.com/googlefonts/science-gothic) - Science Gothic, a libre variable font
@@ -8564,6 +8563,7 @@
 - [dumrauf/serverless_static_website_with_basic_auth](https://github.com/dumrauf/serverless_static_website_with_basic_auth) - Builds a serverless infrastructure in AWS for hosting a static website protected with Basic Authentication and published on a subdomain registered via Route 53
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 - [Gnucash/gnucash-on-osx](https://github.com/Gnucash/gnucash-on-osx) - Gtk-OSX moduleset, gtk-mac-bundler bundles, and ancillary files for creating GnuCash OSX Application Bundle.
+- [brettohland/fuckingformatstyle](https://github.com/brettohland/fuckingformatstyle) - The source code that runs fuckingformatstyle.com and goshdarnformatstyle.com
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [skiselev/omega](https://github.com/skiselev/omega) - Omega Home Computer
@@ -8648,7 +8648,6 @@
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [pda/aws-keychain](https://github.com/pda/aws-keychain) - CLI manager for AWS IAM access keys in Mac OS X keychain; succeeded by https://github.com/99designs/aws-vault
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-- [RobotsAndPencils/stencil-xclangspec](https://github.com/RobotsAndPencils/stencil-xclangspec) - Xcode syntax highlighting for Stencil
 - [bacongravy/vagrant-box-macos](https://github.com/bacongravy/vagrant-box-macos) - Scripts for building Vagrant boxes for VMware Fusion that boot macOS
 - [NocturnalSolutions/KituraBook](https://github.com/NocturnalSolutions/KituraBook) - Kitura Until Dawn: A Kitura guidebook (WIP)
 - [homebridge/docker-homebridge](https://github.com/homebridge/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (ARM64). Includes ffmpeg + libfdk-aac.
@@ -10735,7 +10734,6 @@
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [aws-samples/automated-iam-access-analyzer](https://github.com/aws-samples/automated-iam-access-analyzer) - 
-- [RobotsAndPencils/1password-action](https://github.com/RobotsAndPencils/1password-action) - Import logins, passwords and documents from your 1Password vaults to use in your GitHub Action workflows.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
@@ -11218,7 +11216,7 @@
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 ## nesC 
 
