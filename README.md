@@ -1406,7 +1406,7 @@
 
 ## C++ 
 
-- [chili-chips-ba/openPCIE](https://github.com/chili-chips-ba/openPCIE) - Peripheral Component Interconnect (PCI) has taken the Express lane long ago, moving to xGbps SerDes... now for the first time in opensource on the Host side too! Our project roots for Root Port in 4 w
+- [chili-chips-ba/openPCIE](https://github.com/chili-chips-ba/openPCIE) - Peripheral Component Interconnect (PCI) has taken the Express lane long ago, moving to xGbps SerDes. Now for the first time in opensource on the Host side too. Our project roots for the Root Port in 4
 - [xADDBx/RE-UE4SS](https://github.com/xADDBx/RE-UE4SS) - Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games
 - [pdsink/pdsink](https://github.com/pdsink/pdsink) - USB PD Sink implemetation for embedded.
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
@@ -3529,6 +3529,7 @@
 
 ## Java 
 
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 - [LibraryOfCongress/api.congress.gov](https://github.com/LibraryOfCongress/api.congress.gov) - congress.gov API
 - [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
@@ -3592,7 +3593,7 @@
 - [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Go
 - [ananas-analytics/ananas-desktop](https://github.com/ananas-analytics/ananas-desktop) - A hackable data integration & analysis tool to enable non technical users to edit data processing jobs and visualise data on demand.
 - [NLPchina/elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) - Use SQL to query Elasticsearch
-- [bladecoder/blade-ink-java](https://github.com/bladecoder/blade-ink-java) - Inkle Ink runtime implementation in Java
+- [bladecoder/blade-ink-java](https://github.com/bladecoder/blade-ink-java) - Inkle Ink runtime and compiler implementation in Java
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [FoundationDB/fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) - A record-oriented store built on FoundationDB
 - [buildfarm/buildfarm](https://github.com/buildfarm/buildfarm) - Bazel remote caching and execution service
@@ -11083,6 +11084,7 @@
 
 ## Verilog 
 
+- [furrtek/SiliconRE](https://github.com/furrtek/SiliconRE) - Traces, schematics, and general infos about custom chips reverse-engineered from silicon
 - [AUCOHL/DFFRAM](https://github.com/AUCOHL/DFFRAM) - Standard Cell Library based Memory Compiler using FF/Latch cells
 - [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door
 - [WangXuan95/FPGA-CAN](https://github.com/WangXuan95/FPGA-CAN) - An FPGA-based lightweight CAN bus controller. 基于FPGA的轻量级CAN总线控制器。
