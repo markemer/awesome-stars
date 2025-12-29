@@ -1694,6 +1694,7 @@
 - [ksk001100/seahorse](https://github.com/ksk001100/seahorse) - A minimal CLI framework written in Rust
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [nicholaschiasson/fcidr](https://github.com/nicholaschiasson/fcidr) - Fragmented Classless Inter-Domain Routing (FCIDR)
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
@@ -2605,6 +2606,7 @@
 
 ## data-structures 
 
+- [arximboldi/immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++ — value semantics at scale
 - [apeman/awesome_computer_science](https://github.com/apeman/awesome_computer_science) - The complete syllabus of Computer Science and Engineering. Roadmap, Checklist for Beginners.
 - [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [pointfreeco/swift-identified-collections](https://github.com/pointfreeco/swift-identified-collections) - A library of data structures for working with collections of identifiable elements in an ergonomic, performant way.
@@ -7637,7 +7639,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
-- [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI
+- [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Maintenance mode — new development in Textual: https://github.com/gonzalezreal/textual
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [dduan/Markra](https://github.com/dduan/Markra) - An open-source Markdown-to-JIRA syntax editor written in SwiftUI for macOS
 - [kyle-n/HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - A SwiftUI view for dynamically highlighting user input
@@ -8478,6 +8480,8 @@
 
 ## others 
 
+- [OwlcatOpenSource/RTModificationTemplate](https://github.com/OwlcatOpenSource/RTModificationTemplate) - 
+- [dmitry-grechko/waycore](https://github.com/dmitry-grechko/waycore) - Modular, communications-first field computer designed for outdoors, EDC, survival, and trades/handyman use.
 - [FransFaase/MES-replacement](https://github.com/FransFaase/MES-replacement) - Investigation into replacing the MES compiler
 - [usbarmory/go-boot](https://github.com/usbarmory/go-boot) - The bare metal Go UEFI boot manager
 - [games-on-whales/gst-wayland-display](https://github.com/games-on-whales/gst-wayland-display) - A micro Wayland compositor that can be used as a Gstreamer plugin
@@ -16943,7 +16947,7 @@
 - [wlisac/environment](https://github.com/wlisac/environment) - Type-safe environment variables in Swift.
 - [icanzilb/Cancellor](https://github.com/icanzilb/Cancellor) - Bind multiple cancellables to the lifetime of another object like a view controller.
 - [SwiftyBeaver/SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient & secure logging during development & release in Swift 4 & 5
-- [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI
+- [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Maintenance mode — new development in Textual: https://github.com/gonzalezreal/textual
 - [hbang/Alderis](https://github.com/hbang/Alderis) - A fresh new color picker, with a gentle, fun, and dead simple user interface.
 - [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
 - [luximetr/AnyFormatKit](https://github.com/luximetr/AnyFormatKit) - Simple text formatting in Swift
@@ -17615,7 +17619,7 @@
 - [nathanborror/logger](https://github.com/nathanborror/logger) - Logger lets you quickly send messages to yourself as a means of fast note taking.
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [carson-katri/awesome-result-builders](https://github.com/carson-katri/awesome-result-builders) - A list of cool DSLs made with Swift 5.4’s @resultBuilder
-- [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI
+- [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Maintenance mode — new development in Textual: https://github.com/gonzalezreal/textual
 - [billp/TermiNetwork](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
 - [sindresorhus/Settings](https://github.com/sindresorhus/Settings) - ⚙ Add a settings window to your macOS app in minutes
 - [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
