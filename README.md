@@ -140,7 +140,6 @@
 - [Standard ML](#standard-ml)
 - [Starlark](#starlark)
 - [SuperCollider](#supercollider)
-- [SurrealQL](#surrealql)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [SystemVerilog](#systemverilog)
@@ -999,7 +998,7 @@
 - [FaradayRF/Faraday-Firmware](https://github.com/FaradayRF/Faraday-Firmware) - Faraday node firmware
 - [travisgoodspeed/goodwatch](https://github.com/travisgoodspeed/goodwatch) - Replacement board for Casio Calculator Watches using the CC430F6147
 - [codecat/ClawSearch](https://github.com/codecat/ClawSearch) - A memory scanner plugin for x64dbg, inspired by Cheat Engine.
-- [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷
+- [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷 🇷🇺
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide) - Hiding kernel-driver for x86/x64.
 - [jiixyj/libebur128](https://github.com/jiixyj/libebur128) - A library implementing the EBU R128 loudness standard.
@@ -1669,7 +1668,7 @@
 - [llamathings/LExSDK](https://github.com/llamathings/LExSDK) - An SDK-like projection of UnrealScript-accessible code for Mass Effect 1, 2 and 3 (Legendary Edition)
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
-- [SirCxyrtyx/AutoTOC-asi](https://github.com/SirCxyrtyx/AutoTOC-asi) - asi plugin to AutoTOC Mass Effect 3 and Mass Effect Legendary Edition
+- [ME3Tweaks/AutoTOC-asi](https://github.com/ME3Tweaks/AutoTOC-asi) - asi plugin to AutoTOC Mass Effect 3 and Mass Effect Legendary Edition
 - [JBenda/inkcpp](https://github.com/JBenda/inkcpp) - Inkle Ink C++ Runtime with JSON&gt;Binary Compiler
 - [azonenberg/sky130-validation](https://github.com/azonenberg/sky130-validation) - Silicon validation projects for SKY130 stuff
 - [llamathings/LEBinkProxy](https://github.com/llamathings/LEBinkProxy) - A multi-functional proxy DLL for Mass Effect Legendary Edition. Unlocks console, loads native plugins, provides an option for bypassing the launcher.
@@ -1802,7 +1801,6 @@
 - [c3d/xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
 - [cloudinary/fuif](https://github.com/cloudinary/fuif) - Free Universal Image Format
 - [Bareflank/hypervisor](https://github.com/Bareflank/hypervisor) - lightweight hypervisor SDK written in C++ with support for Windows, Linux and UEFI
-- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
@@ -2618,7 +2616,7 @@
 - [plunder-app/plunder](https://github.com/plunder-app/plunder) - A Modern automation platform
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [Backblaze/blazer](https://github.com/Backblaze/blazer) - A Go library for Backblaze's B2.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [macstadium/packer-plugin-macstadium-orka](https://github.com/macstadium/packer-plugin-macstadium-orka) - Builder for Orka in MacStadium. (originally https://github.com/AndrewFarley/packer-builder-macstadium-orka )
 - [tedpearson/edf-importer](https://github.com/tedpearson/edf-importer) - Tool to import .edf files (particularly from CPAP machines) to influxdb or victoriametrics.
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
@@ -2747,7 +2745,7 @@
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -3607,7 +3605,7 @@
 - [NLPchina/elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) - Use SQL to query Elasticsearch
 - [bladecoder/blade-ink-java](https://github.com/bladecoder/blade-ink-java) - Inkle Ink runtime and compiler implementation in Java
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [FoundationDB/fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) - A record-oriented store built on FoundationDB
+- [FoundationDB/fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) - A relational database with SQL support built on FoundationDB
 - [buildfarm/buildfarm](https://github.com/buildfarm/buildfarm) - Bazel remote caching and execution service
 - [google/google-authenticator](https://github.com/google/google-authenticator) - Open source version of Google Authenticator (except the Android app)
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
@@ -5882,6 +5880,7 @@
 - [slashmo/awesome-swift-nio](https://github.com/slashmo/awesome-swift-nio) - 📖 A collaborative list of all things Swift NIO
 - [linsa-io/alfred-workflows](https://github.com/linsa-io/alfred-workflows) - Amazing Alfred Workflows
 - [bridgetkromhout/devops-against-humanity](https://github.com/bridgetkromhout/devops-against-humanity) - DevOps Against Humanity
+- [relatedcode/RelatedChat](https://github.com/relatedcode/RelatedChat) - RelatedChat
 - [rtakehara/5e-Framework](https://github.com/rtakehara/5e-Framework) - A comprehensive 5th Edition Dungeons & Dragons Framework for MapTool.
 - [oldmanumby/DND.SRD.Wiki](https://github.com/oldmanumby/DND.SRD.Wiki) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
 - [swift-server/sswg](https://github.com/swift-server/sswg) - Swift Server Working Group (SSWG)
@@ -5920,6 +5919,7 @@
 - [0x4447/0x4447_product_s3_email](https://github.com/0x4447/0x4447_product_s3_email) - 📫 A serverless email server on AWS using S3 and SES
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
+- [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira) - DEPRECATED (moved to private repository) - Connect your code with your project management in Jira
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [davatron5000/awesome-standalones](https://github.com/davatron5000/awesome-standalones) - A curated list of awesome framework-agnostic standalone web components
 - [syntax-tree/hast](https://github.com/syntax-tree/hast) - Hypertext Abstract Syntax Tree format
@@ -6585,7 +6585,7 @@
 - [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Python FFmpeg wrappers support filters with typing and docs
 - [robbyzhaox/myocr](https://github.com/robbyzhaox/myocr) - A highly extensible and customizable framework for building OCR systems.
 - [Amourspirit/python_ooo_dev_tools](https://github.com/Amourspirit/python_ooo_dev_tools) - 
-- [rmkenv/disaster-data-replicator](https://github.com/rmkenv/disaster-data-replicator) - Data pipeline for replicating NOAA's Billion-Dollar Disasters Database using NWS and FEMA APIs
+- [rmkenv/climate-disaster-data-pipeline](https://github.com/rmkenv/climate-disaster-data-pipeline) - Automated pipeline for synchronizing NOAA Billion-Dollar Disasters data via NWS and FEMA APIs.
 - [Anemll/Anemll](https://github.com/Anemll/Anemll) - Artificial Neural Engine Machine Learning Library
 - [systemd/mkosi](https://github.com/systemd/mkosi) - 💽 Build Bespoke OS Images
 - [inickt/pam_wtid](https://github.com/inickt/pam_wtid) - Patch for Apple's pam_tid PAM Touch ID module to add sudo watch authentication
@@ -7036,7 +7036,7 @@
 - [hexway/apple_bleee](https://github.com/hexway/apple_bleee) - Apple BLE research
 - [rackerlabs/lambda-uploader](https://github.com/rackerlabs/lambda-uploader) - Helps package and upload Python lambda functions to AWS
 - [coreos/fedora-coreos-streams](https://github.com/coreos/fedora-coreos-streams) - Stream metadata and overrides for Fedora CoreOS
-- [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
+- [Kaggle/kaggle-cli](https://github.com/Kaggle/kaggle-cli) - Official Kaggle CLI
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [benedekrozemberczki/awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - A collection of important graph embedding, classification and representation learning papers with implementations.
 - [jasbur/RaspiWiFi](https://github.com/jasbur/RaspiWiFi) - Headless WiFi configuration for the Raspberry Pi (or most other devices running Linux) by using a temporary WiFi access point and web interface
@@ -7377,7 +7377,7 @@
 - [truenas/middleware](https://github.com/truenas/middleware) - TrueNAS CORE/Enterprise/SCALE Middleware Git Repository
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [QubesOS/qubes-secpack](https://github.com/QubesOS/qubes-secpack) - Qubes Security Pack
-- [Yelp/osxcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X
+- [YelpArchive/osxcollector](https://github.com/YelpArchive/osxcollector) - A forensic evidence collection & analysis toolkit for OS X
 - [jupyter/nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation and documentation
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
@@ -7723,6 +7723,7 @@
 - [jeffshantz/hyperkit](https://github.com/jeffshantz/hyperkit) - Hyperkit is a flat, Ruby-based API wrapper for LXD, the next-generation hypervisor.
 - [michaeleisel/barber](https://github.com/michaeleisel/barber) - Fast build times for big Swift projects
 - [fastlane-community/danger-xcov](https://github.com/fastlane-community/danger-xcov) - Danger plugin to validate the code coverage of the files changed in a pull request
+- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [amzn/oss-dashboard](https://github.com/amzn/oss-dashboard) - A dashboard for viewing many GitHub organizations at once.
 - [sglover/vagrant-hyperkit](https://github.com/sglover/vagrant-hyperkit) - An experimental xhyve/hyperkit provider for vagrant
 - [getsentry/sentry-fastlane-plugin](https://github.com/getsentry/sentry-fastlane-plugin) - Official fastlane plugin for Sentry
@@ -8052,8 +8053,9 @@
 
 ## Rust 
 
+- [mroboff/vm-curator](https://github.com/mroboff/vm-curator) - vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines for desktop use with working 3D acceleration (para-virtualized and pass-through.)
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded database for serverless and edge runtimes.
@@ -8552,6 +8554,7 @@
 
 ## Shell 
 
+- [wolegis/mkinitcpio-systemd-extras](https://github.com/wolegis/mkinitcpio-systemd-extras) - Collection of mkinitcpio install hooks for systemd based initramfs
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [games-on-whales/gow](https://github.com/games-on-whales/gow) - A collection of Dockerized games and apps like Steam, Firefox and Retroarch
 - [nguyen-v/KDT_Hierarchical_KiBot](https://github.com/nguyen-v/KDT_Hierarchical_KiBot) - Professional, automated workflow template for KiCad. This template uses KiBot in a CI/CD environment to automate fabrication and assembly document generation.
@@ -8900,10 +8903,6 @@
 ## SuperCollider 
 
 - [sluicebox/sci-scripts](https://github.com/sluicebox/sci-scripts) - 
-
-## SurrealQL 
-
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 
 ## Svelte 
 
@@ -9537,7 +9536,6 @@
 - [swiftwasm/carton](https://github.com/swiftwasm/carton) - [DEPRECATED] Use the new SwiftPM Plugin from JavaScriptKit instead. See https://forums.swift.org/t/deprecating-swiftwasm-carton-in-favor-of-javascriptkits-swiftpm-plugin/83460
 - [loiclec/FuzzCheck](https://github.com/loiclec/FuzzCheck) - Swift package fuzzing engine
 - [rileytestut/Clip](https://github.com/rileytestut/Clip) - Clip is a clipboard manager for iOS that can monitor your clipboard indefinitely in the background — no jailbreak required.
-- [relatedcode/RelatedChat](https://github.com/relatedcode/RelatedChat) - RelatedChat
 - [bscothern/Once](https://github.com/bscothern/Once) - A replacement for Dispatch Once in Swift
 - [erica/Swift-General-Utility](https://github.com/erica/Swift-General-Utility) - General utility types and functionality
 - [krzyzanowskim/CoreTextSwift](https://github.com/krzyzanowskim/CoreTextSwift) - CoreText Swift bindings
@@ -10901,6 +10899,7 @@
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [IvanMathy/CardsAwayFromHumanity](https://github.com/IvanMathy/CardsAwayFromHumanity) - A horrible codebase for a horrible time.
 - [swift-actions/setup-swift](https://github.com/swift-actions/setup-swift) - GitHub Action that setup a Swift environment
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [mathieudutour/svg-path-visualizer](https://github.com/mathieudutour/svg-path-visualizer) - Enter a SVG path data to visualize it and discover all its different commands
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL
 - [TheLartians/modern-wasm-starter](https://github.com/TheLartians/modern-wasm-starter) - 🛸 Run C++ code on web and create blazingly fast websites! A starter template to easily create WebAssembly packages using type-safe C++ bindings with automatic TypeScript declarations.
@@ -10929,7 +10928,6 @@
 - [actions/setup-ruby](https://github.com/actions/setup-ruby) - Set up your GitHub Actions workflow with a specific version of Ruby
 - [JordanMartin/harmonyhub-api](https://github.com/JordanMartin/harmonyhub-api) - Harmony Hub API that use the local websocket API of the hub
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira) - DEPRECATED (moved to private repository) - Connect your code with your project management in Jira
 - [patternhelloworld/url-knife](https://github.com/patternhelloworld/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with Area-Pattern-based modularity
 - [eavichay/microfronts](https://github.com/eavichay/microfronts) - Polyglot Front-End Solution for running multiple frameworks as one
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
