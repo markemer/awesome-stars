@@ -2991,7 +2991,6 @@
 - [vmware-archive/dispatch](https://github.com/vmware-archive/dispatch) - Dispatch is a framework for deploying and managing serverless style applications.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [penberg/go-osxhv](https://github.com/penberg/go-osxhv) - Go bindings for the OS X Hypervisor.framework API
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [Kitura/kitura-cli](https://github.com/Kitura/kitura-cli) - ⌨️ Kitura command-line interface
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
