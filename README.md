@@ -317,6 +317,8 @@
 
 ## C 
 
+- [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
+- [valdanylchuk/breezydemo](https://github.com/valdanylchuk/breezydemo) - BreezyBox shell demo for esp32s3
 - [sigmasternchen/sudo-shame](https://github.com/sigmasternchen/sudo-shame) - 
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
 - [stewartweiss/intro-linux-sys-prog](https://github.com/stewartweiss/intro-linux-sys-prog) - A repository of all code from Introduction to System Programming in Linux, by Stewart Weiss
@@ -1239,6 +1241,7 @@
 
 ## C# # 
 
+- [C7-Game/Prototype](https://github.com/C7-Game/Prototype) - OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with capabilities inspired by the best of the 4
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [thehambeard/Unity2Debug](https://github.com/thehambeard/Unity2Debug) - Converts Unity retail games to development mode
 - [OwlcatOpenSource/RTModificationTemplate](https://github.com/OwlcatOpenSource/RTModificationTemplate) - 
@@ -2426,7 +2429,7 @@
 - [QuickLogic-Corp/quicklogic-fpga-toolchain](https://github.com/QuickLogic-Corp/quicklogic-fpga-toolchain) - Open Source FPGA toolchain and documentation for QuickLogic devices and eFPGA IP
 - [asmaps/bepasty-docker](https://github.com/asmaps/bepasty-docker) - Docker automated build repository for the bepasty
 - [linuxserver/docker-grocy](https://github.com/linuxserver/docker-grocy) - A container for grocy - the ERP application for your kitchen https://grocy.info
-- [grocy/grocy-docker](https://github.com/grocy/grocy-docker) - ERP beyond your fridge - now containerized - this is the docker repo of https://github.com/grocy/grocy
+- [grocy/grocy-docker](https://github.com/grocy/grocy-docker) - [Outdated/Archived] Community contributed Docker container for https://github.com/grocy/grocy
 - [wajahatkarim3/hugo-on-fire](https://github.com/wajahatkarim3/hugo-on-fire) - 🔥 A Github Action to build a Hugo site and deploy it on Firebase Hosting.
 - [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs Win64 and Win32 applications on arm64 Linux
 - [taki-on/swift_codespaces](https://github.com/taki-on/swift_codespaces) - Swift 5 in GitHub Codespaces
@@ -8148,7 +8151,7 @@
 - [ALSchwalm/pISO](https://github.com/ALSchwalm/pISO) - Hardware and software source for the pISO
 - [yellowcake-org/libycresources](https://github.com/yellowcake-org/libycresources) - Rust library which implements reading resources used in Fallout™.
 - [pingw33n/vault13](https://github.com/pingw33n/vault13) - Reimplementation of Fallout 2 engine
-- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [tatut/pgprolog](https://github.com/tatut/pgprolog) - PostgreSQL Prolog language handler
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
 - [veryl-lang/veryl](https://github.com/veryl-lang/veryl) - Veryl: A Modern Hardware Description Language
@@ -8610,7 +8613,7 @@
 - [swift-server/swift-devcontainer-template](https://github.com/swift-server/swift-devcontainer-template) - Visual Studio Code Development Container for Swift
 - [cli/gh-extension-precompile](https://github.com/cli/gh-extension-precompile) - Action for publishing binary GitHub CLI extensions
 - [0cc4m/pinenote-misc](https://github.com/0cc4m/pinenote-misc) - 
-- [hmpthcs/WinkShell](https://github.com/hmpthcs/WinkShell) - Collected applications, configurations and scripts for using a wl-roots-based compositor with an EPD (aka e-ink). Currently supports sway only. Developed for Pinenote.
+- [hmpthcs/WinkShell](https://github.com/hmpthcs/WinkShell) - Collected applications, configurations and scripts for using a wl-roots-based compositor with an EPD (aka e-ink display). Currently supports sway only. Developed for Pinenote.
 - [sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer) - OSX Optimizer: Optimize MacOS - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
 - [XQuartz/XQuartz](https://github.com/XQuartz/XQuartz) - An X11 server and client libraries for macOS
 - [nikvdp/pbproxy](https://github.com/nikvdp/pbproxy) - 
