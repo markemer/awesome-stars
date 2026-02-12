@@ -2253,7 +2253,7 @@
 
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
-- [genodelabs/genode-rpi](https://github.com/genodelabs/genode-rpi) - Raspberry Pi family support for Genode OS framework
+- [genodelabs/genode-rpi](https://github.com/genodelabs/genode-rpi) - Raspberry Pi family support for Genode OS framework (migrated to codeberg.org)
 - [lahiri-phdworks/LLVM-Examples](https://github.com/lahiri-phdworks/LLVM-Examples) - LLVM Repository and Code samples. LLVM Passes and quick bytes.
 - [ZigRazor/CXXStateTree](https://github.com/ZigRazor/CXXStateTree) - A C++ Header-Only Hierarchical State Tree Library
 - [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware) - Advanced VM detection library and tool
@@ -4610,7 +4610,7 @@
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [holoviz/panel](https://github.com/holoviz/panel) - Panel: The powerful data exploration & web app framework for Python
-- [erickjung/SwiftGUI](https://github.com/erickjung/SwiftGUI) - SwiftGUI is an API inspired by SwiftUI DSL, using Dear ImGui as renderer and running on macOS 10.13+ and iOS 11+
+- [erickjung/SwiftGUI](https://github.com/erickjung/SwiftGUI) - Declarative UI framework bringing SwiftUI syntax to Dear ImGui - build beautiful cross-platform tools and editors with Swift 5.9+
 - [incomingstick/OpenRPG](https://github.com/incomingstick/OpenRPG) - A tool for someone to use to quickly create content for a tabletop RPG world. Libraries for making video games with the d20 system
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
@@ -7792,7 +7792,7 @@
 ## mcp 
 
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
+- [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -8556,6 +8556,7 @@
 
 ## others 
 
+- [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
 - [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
 - [valdanylchuk/breezydemo](https://github.com/valdanylchuk/breezydemo) - BreezyBox shell demo for esp32s3
 - [microsoft/litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
@@ -15488,7 +15489,7 @@
 ## raspberry-pi 
 
 - [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) - Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
-- [genodelabs/genode-rpi](https://github.com/genodelabs/genode-rpi) - Raspberry Pi family support for Genode OS framework
+- [genodelabs/genode-rpi](https://github.com/genodelabs/genode-rpi) - Raspberry Pi family support for Genode OS framework (migrated to codeberg.org)
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [cheyao/icepi-zero](https://github.com/cheyao/icepi-zero) - An ECP5 FPGA Dev Board in a Pi Zero form
 - [piecol/CM5_MINIMA_REV1](https://github.com/piecol/CM5_MINIMA_REV1) - CM5 LoRaWAN carrier board in a compact, feature-filled footprint
@@ -17093,7 +17094,7 @@
 - [viktorstrate/swift-tree-sitter](https://github.com/viktorstrate/swift-tree-sitter) - Swift bindings for the tree-sitter parsing library
 - [1024jp/GzipSwift](https://github.com/1024jp/GzipSwift) - Swift package that enables gzip/gunzip Data using zlib
 - [unsignedapps/Vexil](https://github.com/unsignedapps/Vexil) - Vexil (named for Vexillology) is a Swift package for managing feature flags (also called feature toggles) in a flexible, multi-provider way.
-- [erickjung/SwiftGUI](https://github.com/erickjung/SwiftGUI) - SwiftGUI is an API inspired by SwiftUI DSL, using Dear ImGui as renderer and running on macOS 10.13+ and iOS 11+
+- [erickjung/SwiftGUI](https://github.com/erickjung/SwiftGUI) - Declarative UI framework bringing SwiftUI syntax to Dear ImGui - build beautiful cross-platform tools and editors with Swift 5.9+
 - [SFSafeSymbols/SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
 - [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - 📅 Calendar for Apple platforms in Swift
 - [tuist/tuist](https://github.com/tuist/tuist) - A virtual platform team for mobile devs who ship
@@ -17734,7 +17735,7 @@
 - [kyle-n/HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - A SwiftUI view for dynamically highlighting user input
 - [tcldr/Entwine](https://github.com/tcldr/Entwine) - Testing tools and utilities for Apple's Combine framework.
 - [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
-- [erickjung/SwiftGUI](https://github.com/erickjung/SwiftGUI) - SwiftGUI is an API inspired by SwiftUI DSL, using Dear ImGui as renderer and running on macOS 10.13+ and iOS 11+
+- [erickjung/SwiftGUI](https://github.com/erickjung/SwiftGUI) - Declarative UI framework bringing SwiftUI syntax to Dear ImGui - build beautiful cross-platform tools and editors with Swift 5.9+
 - [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
 - [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
 - [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - [Looking for active maintainers] SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
@@ -18818,7 +18819,7 @@
 - [keith/xcode-man-pages](https://github.com/keith/xcode-man-pages) - A HTML export of Xcode's man pages
 - [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
-- [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
+- [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 - [swiftyfinch/Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 - [pointfreeco/swift-issue-reporting](https://github.com/pointfreeco/swift-issue-reporting) - Report issues in your application and library code as Xcode runtime warnings, breakpoints, assertions, and do so in a testable manner.
 - [jonkykong/SideMenu](https://github.com/jonkykong/SideMenu) - Simple side/slide menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.
