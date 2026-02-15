@@ -1951,7 +1951,7 @@
 - [agentejo/cockpit](https://github.com/agentejo/cockpit) - Add content management functionality to any site - plug & play / headless / api-first CMS
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [geerlingguy/drupal-vm](https://github.com/geerlingguy/drupal-vm) - A VM for Drupal development
-- [idno/known](https://github.com/idno/known) - A social publishing platform.
+- [idno/idno](https://github.com/idno/idno) - A social publishing platform.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 
 ## code 
@@ -8557,6 +8557,7 @@
 
 ## others 
 
+- [Geek-1001/arcmark](https://github.com/Geek-1001/arcmark) - macOS bookmark manager that attaches to any browser window as a sidebar
 - [lowobservable/oec](https://github.com/lowobservable/oec) - IBM 3270 terminal controller - IBM 3174 replacement
 - [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
 - [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
@@ -14715,7 +14716,7 @@
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust
 - [Alanaktion/phproject](https://github.com/Alanaktion/phproject) - A high performance full-featured project management system
 - [potsky/PimpMyLog](https://github.com/potsky/PimpMyLog) - 🍭 Log viewer for your web server
-- [idno/known](https://github.com/idno/known) - A social publishing platform.
+- [idno/idno](https://github.com/idno/idno) - A social publishing platform.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [drush-ops/drush](https://github.com/drush-ops/drush) - Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.
@@ -17135,7 +17136,7 @@
 - [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - AST visualizer for Swift source code
 - [line/rules_apple_line](https://github.com/line/rules_apple_line) - LINE's Apple rules for Bazel
 - [nerdsupremacist/GraphZahl](https://github.com/nerdsupremacist/GraphZahl) - A Framework to implement Declarative, Type-Safe GraphQL Server APIs using Runtime Magic 🎩
-- [markjamesm/bookmark-tester](https://github.com/markjamesm/bookmark-tester) - Broken link checker for browser bookmarks written in Swift. Visit the link below for the accompanying guide I wrote.
+- [markjamesm/bookmark-tester](https://github.com/markjamesm/bookmark-tester) - Broken link checker for browser bookmarks written in Swift.
 - [regexident/swift-watch](https://github.com/regexident/swift-watch) - Watches over your Swift project's source
 - [twostraws/Sourceful](https://github.com/twostraws/Sourceful) - A syntax highlighting source editor for iOS and macOS using UITextView and NSTextView.
 - [soto-project/soto](https://github.com/soto-project/soto) - Swift SDK for AWS that works on Linux, macOS and iOS
@@ -17886,7 +17887,7 @@
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [TerminalStudio/xterm.dart](https://github.com/TerminalStudio/xterm.dart) - 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms.
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and streams
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
 - [tboox/ltui](https://github.com/tboox/ltui) - 🍖 A cross-platform terminal ui library based on Lua
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
