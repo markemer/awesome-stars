@@ -216,6 +216,7 @@
 
 ## Assembly 
 
+- [TechPaula/LT6502](https://github.com/TechPaula/LT6502) - A 6502 based laptop design
 - [microsoft/BASIC-M6502](https://github.com/microsoft/BASIC-M6502) - Microsoft BASIC for 6502 Microprocessor - Version 1.1
 - [Speccery/StrangeCart-Doc](https://github.com/Speccery/StrangeCart-Doc) - StrangeCart project public documentation
 - [AndersBNielsen/65uino](https://github.com/AndersBNielsen/65uino) - 6502 learning platform in a familiar form factor
@@ -4801,7 +4802,7 @@
 
 ## Lua 
 
-- [ArkForgeLabs/Astra](https://github.com/ArkForgeLabs/Astra) - 🔥 Blazingly Fast 🔥 web server runtime for Lua
+- [ArkForgeLabs/Astra](https://github.com/ArkForgeLabs/Astra) - 🔥 Blazingly Fast 🔥 runtime environment for Lua
 - [franko/luajit-lang-toolkit](https://github.com/franko/luajit-lang-toolkit) - A Lua bytecode compiler written in Lua itself for didactic purposes or for new language implementations
 - [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)
 - [LaughingLeader/BG3ModdingTools](https://github.com/LaughingLeader/BG3ModdingTools) - A collection is miscellaneous snippets and scripts to make life easier when modding Baldur's Gate 3.
@@ -6413,7 +6414,7 @@
 - [potsky/PimpMyLog](https://github.com/potsky/PimpMyLog) - 🍭 Log viewer for your web server
 - [aramk/crayon-syntax-highlighter](https://github.com/aramk/crayon-syntax-highlighter) - Syntax Highlighter supporting multiple languages, themes, fonts, highlighting from a URL, local file or post text.
 - [JD-Billingham/twitter_shared_blocklist](https://github.com/JD-Billingham/twitter_shared_blocklist) - The Block Bot
-- [idno/known](https://github.com/idno/known) - A social publishing platform.
+- [idno/idno](https://github.com/idno/idno) - A social publishing platform.
 - [twilio/OpenVBX](https://github.com/twilio/OpenVBX) - OpenVBX is a web-based open source phone system for business.
 - [andyjy/Selective-Tweets](https://github.com/andyjy/Selective-Tweets) - The Selective Tweets Facebook app for selectively posting tweets to your Facebook profile and/or page(s)
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
@@ -6460,7 +6461,6 @@
 
 ## Perl 
 
-- [amachronic/echoplayer](https://github.com/amachronic/echoplayer) - Echo - Open Hardware Music Player
 - [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [perl-carton/carton](https://github.com/perl-carton/carton) - Bundler or pip freeze for Perl
 - [Perl/perl5](https://github.com/Perl/perl5) - 🐪 The Perl programming language
@@ -6601,6 +6601,7 @@
 - [Amourspirit/python_ooo_dev_tools](https://github.com/Amourspirit/python_ooo_dev_tools) - 
 - [rmkenv/climate-disaster-data-pipeline](https://github.com/rmkenv/climate-disaster-data-pipeline) - Automated pipeline for synchronizing NOAA Billion-Dollar Disasters data via NWS and FEMA APIs.
 - [Anemll/Anemll](https://github.com/Anemll/Anemll) - Artificial Neural Engine Machine Learning Library
+- [amachronic/echoplayer](https://github.com/amachronic/echoplayer) - Echo - Open Hardware Music Player
 - [systemd/mkosi](https://github.com/systemd/mkosi) - 💽 Build Bespoke OS Images
 - [inickt/pam_wtid](https://github.com/inickt/pam_wtid) - Patch for Apple's pam_tid PAM Touch ID module to add sudo watch authentication
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
@@ -10655,6 +10656,7 @@
 
 ## TypeScript 
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
 - [charles-m-knox/firefox-containers-helper](https://github.com/charles-m-knox/firefox-containers-helper) - Firefox multi-account containers are for power users. So is this. Adds bulk container interactivity features missing from the Mozilla Multi-Account Containers extension.
 - [rharel/webext-private-bookmarks](https://github.com/rharel/webext-private-bookmarks) - WebExtension that enables a special password-protected bookmark folder.
@@ -11018,7 +11020,7 @@
 - [phosphorjs/phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
 - [ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [davidedc/Algebrite](https://github.com/davidedc/Algebrite) - Computer Algebra System in Javascript (Typescript)
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
