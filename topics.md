@@ -2671,6 +2671,7 @@
 
 ## database 
 
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded database for serverless and edge runtimes.
 - [stateless-me/uuidv47](https://github.com/stateless-me/uuidv47) - ⚡ UUIDv47 = v4 privacy + v7 performance
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is a modern open source language for describing data relationships and transformations.
@@ -8559,6 +8560,7 @@
 
 ## others 
 
+- [kewonit/aeris](https://github.com/kewonit/aeris) - Aeris is a real-time 3D flight radar for the web
 - [TechPaula/LT6502](https://github.com/TechPaula/LT6502) - A 6502 based laptop design
 - [Geek-1001/arcmark](https://github.com/Geek-1001/arcmark) - macOS bookmark manager that attaches to any browser window as a sidebar
 - [lowobservable/oec](https://github.com/lowobservable/oec) - IBM 3270 terminal controller - IBM 3174 replacement
@@ -9346,7 +9348,7 @@
 - [Nexus-Mods/NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
 - [Mutagen-Modding/Synthesis](https://github.com/Mutagen-Modding/Synthesis) - A patcher pipeline framework and GUI.  Run collections of code-based mods to create content customized for your load order
 - [Mutagen-Modding/Mutagen.Bethesda.Analyzers](https://github.com/Mutagen-Modding/Mutagen.Bethesda.Analyzers) - A project to diagnose and analyze the health of a mod or a load order
-- [Mutagen-Modding/Mutagen](https://github.com/Mutagen-Modding/Mutagen) - A .NET library for analyzing, creating, and manipulating Bethesda mods
+- [Mutagen-Modding/Mutagen](https://github.com/Mutagen-Modding/Mutagen) - A library for analyzing, creating, and manipulating Bethesda mods written in .NET
 - [analgesicproductions/Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) - Anodyne 1 Source Code
 - [analgesicproductions/Even-The-Ocean-Open-Source](https://github.com/analgesicproductions/Even-The-Ocean-Open-Source) - 99%-Open Source code of Even the Ocean, a 2016 PC game.
 - [Mutagen-Modding/Spriggit](https://github.com/Mutagen-Modding/Spriggit) - A tool to facilitate converting Bethesda plugin files to a text based format that can be stored in Git
@@ -13810,7 +13812,7 @@
 - [webcomponents/polymer-boilerplate](https://github.com/webcomponents/polymer-boilerplate) - Fork this repo if you want to start your own Web Component using Polymer
 - [aidin36/tocc](https://github.com/aidin36/tocc) - A tag based file management system.
 - [facebookarchive/AsyncDisplayKit](https://github.com/facebookarchive/AsyncDisplayKit) - Smooth asynchronous user interfaces for iOS apps.
-- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.  See documentation for contribution instructions.
 - [googleapis/oauth2client](https://github.com/googleapis/oauth2client) - This is a Python library for accessing resources protected by OAuth 2.0.
 - [google/grr-doc](https://github.com/google/grr-doc) - Documentation for the GRR Rapid Reponse framework
 - [etsy/MIDAS](https://github.com/etsy/MIDAS) - Mac Intrusion Detection Analysis System
@@ -17844,6 +17846,7 @@
 
 ## terminal 
 
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [scriptingosx/utiluti](https://github.com/scriptingosx/utiluti) - A macOS command-line tool to work with default apps
