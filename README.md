@@ -1295,7 +1295,7 @@
 - [Nexus-Mods/NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
 - [Mutagen-Modding/Synthesis](https://github.com/Mutagen-Modding/Synthesis) - A patcher pipeline framework and GUI.  Run collections of code-based mods to create content customized for your load order
 - [Mutagen-Modding/Mutagen.Bethesda.Analyzers](https://github.com/Mutagen-Modding/Mutagen.Bethesda.Analyzers) - A project to diagnose and analyze the health of a mod or a load order
-- [Mutagen-Modding/Mutagen](https://github.com/Mutagen-Modding/Mutagen) - A .NET library for analyzing, creating, and manipulating Bethesda mods
+- [Mutagen-Modding/Mutagen](https://github.com/Mutagen-Modding/Mutagen) - A library for analyzing, creating, and manipulating Bethesda mods written in .NET
 - [Mutagen-Modding/Spriggit](https://github.com/Mutagen-Modding/Spriggit) - A tool to facilitate converting Bethesda plugin files to a text based format that can be stored in Git
 - [ShinyHobo/BG3-Modders-Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool) - Utility for quickly generating Baldur's Gate 3 mod packs from an unpacked workspace (among other things). This project is not open source; read the license.
 - [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight, open-source control tool for ASUS laptops and ROG Ally. Manage performance modes, fans, GPU, battery, and RGB lighting across Zephyrus, Flow, TUF, Strix, Scar, and other models.
@@ -2153,7 +2153,7 @@
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [aidin36/tocc](https://github.com/aidin36/tocc) - A tag based file management system.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.  See documentation for contribution instructions.
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [ducin/piet](https://github.com/ducin/piet) - Piet graphical programming language interpreter
 - [romitagl/shared](https://github.com/romitagl/shared) - Collection of C++ projects
@@ -6558,6 +6558,7 @@
 
 ## Python 
 
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [lowobservable/oec](https://github.com/lowobservable/oec) - IBM 3270 terminal controller - IBM 3174 replacement
 - [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
 - [thebrowsercompany/swift-build](https://github.com/thebrowsercompany/swift-build) - Swift toolchain builds by The Browser Company
@@ -10656,6 +10657,8 @@
 
 ## TypeScript 
 
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
+- [kewonit/aeris](https://github.com/kewonit/aeris) - Aeris is a real-time 3D flight radar for the web
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
 - [charles-m-knox/firefox-containers-helper](https://github.com/charles-m-knox/firefox-containers-helper) - Firefox multi-account containers are for power users. So is this. Adds bulk container interactivity features missing from the Mozilla Multi-Account Containers extension.
