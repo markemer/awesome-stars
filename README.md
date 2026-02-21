@@ -813,7 +813,7 @@
 - [NVIDIA/open-gpu-doc](https://github.com/NVIDIA/open-gpu-doc) - Documentation of NVIDIA chip/hardware interfaces
 - [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - Lua based interactive firmware for ESP8266, ESP8285 and ESP32
 - [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd) - A socket daemon to multiplex connections from and to iOS devices
-- [gtfunes/itransmission-ios](https://github.com/gtfunes/itransmission-ios) - iTransmission for iOS 8+
+- [gtfunes/itransmission-ios](https://github.com/gtfunes/itransmission-ios) - iTransmission for iOS 16+
 - [rbsec/sslscan](https://github.com/rbsec/sslscan) - sslscan tests SSL/TLS enabled services to discover supported cipher suites
 - [im-tomu/toboot](https://github.com/im-tomu/toboot) - Bootloader for the EFM32HG Tomu Board
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
@@ -3947,6 +3947,7 @@
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [rdeprey/web-bluetooth-starter](https://github.com/rdeprey/web-bluetooth-starter) - This is a simple React starter app that uses the Web Bluetooth API to get battery level information from a BLE device through the browser.
+- [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
@@ -4202,7 +4203,6 @@
 - [alexwforsythe/code-blocks](https://github.com/alexwforsythe/code-blocks) - Syntax highlighting for Google Docs
 - [lightning-viz/lightning](https://github.com/lightning-viz/lightning) - Data Visualization Server
 - [vigetlabs/blendid](https://github.com/vigetlabs/blendid) - A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder
-- [kantord/just-dashboard](https://github.com/kantord/just-dashboard) - :bar_chart: :clipboard: Dashboards using YAML or JSON files
 - [BoostIO/boostnote-mobile](https://github.com/BoostIO/boostnote-mobile) - Boostnote for iOS and Android 🚀
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
@@ -4628,7 +4628,6 @@
 - [GenieFramework/StippleUI.jl](https://github.com/GenieFramework/StippleUI.jl) - StippleUI is a library of reactive UI elements for Stipple.jl.
 - [JuliaPluto/PlutoUI.jl](https://github.com/JuliaPluto/PlutoUI.jl) - 
 - [microsoft/OpticSim.jl](https://github.com/microsoft/OpticSim.jl) - Optical Simulation software
-- [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [JuliaML/MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) - Utility package for accessing common Machine Learning datasets in Julia
 - [BioJulia/BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) - A Julia package to read, write and manipulate macromolecular structures
 - [JunoLab/Atom.jl](https://github.com/JunoLab/Atom.jl) - Julia Client for Atom
@@ -8586,7 +8585,7 @@
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
 - [Parallels/prlctl-scripts](https://github.com/Parallels/prlctl-scripts) - Somes useful scripts to use with Parallels command line to help in automation
 - [bpdegnan/redbash](https://github.com/bpdegnan/redbash) - Userland macports that is targeted at RHEL so that packages can be installed without root.
-- [systemd/particleos](https://github.com/systemd/particleos) - 
+- [systemd/particleos](https://github.com/systemd/particleos) - ⸭ An image-based, secure OS, built on top of various Linux distributions
 - [danielsaidi/SystemNotification](https://github.com/danielsaidi/SystemNotification) - Mimic the native iOS system notification in SwiftUI.
 - [OpenSwiftUIProject/UnsafeHeterogeneousBuffer](https://github.com/OpenSwiftUIProject/UnsafeHeterogeneousBuffer) - 
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
@@ -10656,6 +10655,7 @@
 
 ## TypeScript 
 
+- [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos) - Claude Code SDK Demos
 - [adamws/kle-ng](https://github.com/adamws/kle-ng) - Reimplementation of the Keyboard Layout Editor
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [kewonit/aeris](https://github.com/kewonit/aeris) - Aeris is a real-time 3D flight radar for the web
@@ -11027,6 +11027,7 @@
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
+- [kantord/just-dashboard](https://github.com/kantord/just-dashboard) - :bar_chart: :clipboard: Dashboards using YAML or JSON files
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, TypeScript module, and more!
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
