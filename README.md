@@ -1013,7 +1013,7 @@
 - [jiixyj/loudness-scanner](https://github.com/jiixyj/loudness-scanner) - A tool that scans your music files and tags them with loudness information.
 - [gleitz/npiet](https://github.com/gleitz/npiet) - a language where the programs are works of modern art (updated for OSX)
 - [raspberrypi/tools](https://github.com/raspberrypi/tools) - 
-- [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
+- [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver
 - [CoderionLabs/exoberry](https://github.com/CoderionLabs/exoberry) - An exokernel for the raspberry pi 3.
 - [lowRISC/lowrisc-fpga](https://github.com/lowRISC/lowrisc-fpga) - Untethered (stand-alone) FPGA implementation of the lowRISC SoC
 - [riscvarchive/riscv-newlib](https://github.com/riscvarchive/riscv-newlib) - RISC-V port of newlib
@@ -1775,7 +1775,7 @@
 - [michaeleisel/zld](https://github.com/michaeleisel/zld) - A faster version of Apple's linker
 - [ulfjack/ryu](https://github.com/ulfjack/ryu) - Converts floating point numbers to decimal strings
 - [ayoy/fontedit](https://github.com/ayoy/fontedit) - A desktop app to import, edit and export fonts as byte arrays for use in embedded systems
-- [preshing/plywood](https://github.com/preshing/plywood) - Build cross-platform native software in C++
+- [preshing/plywood](https://github.com/preshing/plywood) - A lightweight, durable, versatile runtime library for C++
 - [microsoft/GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [microsoft/cppwinrt](https://github.com/microsoft/cppwinrt) - C++/WinRT
@@ -4241,7 +4241,6 @@
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [Granjow/graphs-with-javascript](https://github.com/Granjow/graphs-with-javascript) - node.js module teaching some basics about graphs
 - [nationalparkservice/data](https://github.com/nationalparkservice/data) - An unofficial repository of National Park Service data.
-- [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A global repository of open address, building, and parcel data.
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [UB-Mannheim/ocr-fileformat](https://github.com/UB-Mannheim/ocr-fileformat) - Validate and transform various OCR file formats (hOCR, ALTO, PAGE, FineReader)
 - [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
@@ -4404,7 +4403,6 @@
 - [slap-editor/slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor
 - [agnat/node_mdns](https://github.com/agnat/node_mdns) - mdns/zeroconf/bonjour service discovery add-on for node.js
 - [timuric/Content-generator-sketch-plugin](https://github.com/timuric/Content-generator-sketch-plugin) - Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc
-- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [mafintosh/airpaste](https://github.com/mafintosh/airpaste) - A 1-1 network pipe that auto discovers other peers using mdns
 - [danhper/atomic-chrome](https://github.com/danhper/atomic-chrome) - Edit Chrome textareas in Atom
 - [FirstBuild/green-bean](https://github.com/FirstBuild/green-bean) - An Adapter for the Appliance Maker Community
@@ -4682,7 +4680,7 @@
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [f4pga/f4pga-arch-defs](https://github.com/f4pga/f4pga-arch-defs) - FOSS architecture definitions of FPGA hardware useful for doing PnR device generation.
 - [sdiehl/numpile](https://github.com/sdiehl/numpile) - A tiny 1000 line LLVM-based numeric specializer for scientific Python code.
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [NeuroTechX/eeg-notebooks_v0.1](https://github.com/NeuroTechX/eeg-notebooks_v0.1) - Previous version of eeg-notebooks
 - [makinarocks/awesome-industrial-machine-datasets](https://github.com/makinarocks/awesome-industrial-machine-datasets) - 
 - [tensorflow/docs](https://github.com/tensorflow/docs) - TensorFlow documentation
@@ -4959,6 +4957,7 @@
 
 ## OCaml 
 
+- [inhabitedtype/angstrom](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
 - [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio) - Effects-based direct-style IO for multicore OCaml
 - [RyanGibb/eon](https://github.com/RyanGibb/eon) - Effects-based OCaml Nameserver
 - [multikernel/kernelscript](https://github.com/multikernel/kernelscript) - KernelScript is a modern, type-safe, domain-specific programming language for eBPF-centric kernel customization
@@ -6558,6 +6557,7 @@
 
 ## Python 
 
+- [mole99/tt-fabulous-ihp-26a](https://github.com/mole99/tt-fabulous-ihp-26a) - A tiny FABulous fabric for TTIHP26a
 - [Tokariew/hb_downloader](https://github.com/Tokariew/hb_downloader) - Simple python script to download purchased items from humble bundle
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [lowobservable/oec](https://github.com/lowobservable/oec) - IBM 3270 terminal controller - IBM 3174 replacement
@@ -7293,6 +7293,7 @@
 - [lyft/confidant](https://github.com/lyft/confidant) - Confidant: your secret keeper. https://lyft.github.io/confidant
 - [riscv-non-isa/riscv-device-tree-doc](https://github.com/riscv-non-isa/riscv-device-tree-doc) - RISC-V Specific Device Tree Documentation
 - [RUB-SysSec/Microcode](https://github.com/RUB-SysSec/Microcode) - Microcode Updates for the USENIX 2017 paper: Reverse Engineering x86 Processor Microcode
+- [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A global repository of open address, building, and parcel data.
 - [chilcote/vfuse](https://github.com/chilcote/vfuse) - Convert bootable DMG images for use in VMware Fusion
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
@@ -8819,7 +8820,7 @@
 - [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
 - [imwally/battstat](https://github.com/imwally/battstat) - 🔋 CLI battery status indicator for macOS, Linux, and OpenBSD ⚡
 - [natejgreene/alexa_tivo](https://github.com/natejgreene/alexa_tivo) - Alexa Skill Tivo remote control.
-- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [zplug/zplug](https://github.com/zplug/zplug) - A next-generation plugin manager for zsh — manage plugins, commands, and themes from GitHub, Bitbucket, oh-my-zsh, prezto, and more with parallel installation and lazy loading.
 - [apollographql/xcode-graphql](https://github.com/apollographql/xcode-graphql) - 🛠 Xcode add-ons that add syntax highlighting for GraphQL query document files
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
@@ -8936,6 +8937,7 @@
 
 ## Swift 
 
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
 - [Geek-1001/arcmark](https://github.com/Geek-1001/arcmark) - macOS bookmark manager that attaches to any browser window as a sidebar
 - [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) - The official Swift SDK for Model Context Protocol servers and clients.
 - [alexsteinerde/graphql-kit](https://github.com/alexsteinerde/graphql-kit) - Easy setup of a GraphQL server with Vapor. It uses the GraphQL implementation of Graphiti.
@@ -10551,7 +10553,6 @@
 
 ## SystemVerilog 
 
-- [mole99/tt-fabulous-ihp-26a](https://github.com/mole99/tt-fabulous-ihp-26a) - A tiny FABulous fabric for TTIHP26a
 - [pulp-platform/common_cells](https://github.com/pulp-platform/common_cells) - Common SystemVerilog components
 - [pulp-platform/tech_cells_generic](https://github.com/pulp-platform/tech_cells_generic) - Technology dependent cells instantiated in the design for generic process (simulation, FPGA)
 - [openhwgroup/cv32e40x](https://github.com/openhwgroup/cv32e40x) - 4 stage, in-order, compute RISC-V core based on the CV32E40P
@@ -11091,6 +11092,7 @@
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [firebase/firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
+- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [eclipse-che/che](https://github.com/eclipse-che/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
