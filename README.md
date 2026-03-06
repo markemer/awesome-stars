@@ -5094,7 +5094,6 @@
 - [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
 - [tonsky/AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator
 - [beelsebob/CoreParse](https://github.com/beelsebob/CoreParse) - A shift/reduce parsing framework for Mac OS X and iOS
-- [twilio/voice-quickstart-ios](https://github.com/twilio/voice-quickstart-ios) - Twilio Voice Quickstart for iOS with Swift
 - [mmmulani/class-dump-o-tron](https://github.com/mmmulani/class-dump-o-tron) - 
 - [biscuitehh/MarzipanPlatter](https://github.com/biscuitehh/MarzipanPlatter) - UIKit + macOS
 - [objective-see/DoNotDisturb](https://github.com/objective-see/DoNotDisturb) - Detect Evil Maid Attacks
@@ -9998,6 +9997,7 @@
 - [twilio/twilio-voice-ios](https://github.com/twilio/twilio-voice-ios) - Programmable Voice SDK by Twilio
 - [twilio/twilio-chat-ios](https://github.com/twilio/twilio-chat-ios) - SPM releases
 - [twilio/twilio-video-ios](https://github.com/twilio/twilio-video-ios) - Programmable Video SDK by Twilio
+- [twilio/voice-quickstart-ios](https://github.com/twilio/voice-quickstart-ios) - Twilio Voice Quickstart for iOS with Swift
 - [GoogleyEyes/GoogleAPISwiftClient](https://github.com/GoogleyEyes/GoogleAPISwiftClient) - A Google API Client for Cocoa and Cocoa Touch in 2015
 - [Flight-School/CurrencyConverter](https://github.com/Flight-School/CurrencyConverter) - Utilities for doing currency conversion with the Money library
 - [Flight-School/Money](https://github.com/Flight-School/Money) - A precise, type-safe representation of a monetary amount in a given currency
@@ -10791,7 +10791,7 @@
 - [danielsogl/awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 - [microsoft/deoptexplorer-vscode](https://github.com/microsoft/deoptexplorer-vscode) - A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e., NodeJS, Edge, Chrome, etc.).
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - API access for agents & apps.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [SwiftFiddle/swiftfiddle-runner-functions-22](https://github.com/SwiftFiddle/swiftfiddle-runner-functions-22) - 
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
