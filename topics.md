@@ -379,7 +379,6 @@
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [robbyzhaox/myocr](https://github.com/robbyzhaox/myocr) - A highly extensible and customizable framework for building OCR systems.
-- [lukeslp/alt-text-local-ai](https://github.com/lukeslp/alt-text-local-ai) - Local tool for generating descriptive alt text for images using vision models
 - [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) - A curated list of awesome embedded programming.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [MacPaw/OpenAI](https://github.com/MacPaw/OpenAI) - Swift community driven package for OpenAI public API
@@ -1717,7 +1716,7 @@
 - [ksk001100/seahorse](https://github.com/ksk001100/seahorse) - A minimal CLI framework written in Rust
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [nicholaschiasson/fcidr](https://github.com/nicholaschiasson/fcidr) - Fragmented Classless Inter-Domain Routing (FCIDR)
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
@@ -2101,7 +2100,7 @@
 - [BitFunnel/NativeJIT](https://github.com/BitFunnel/NativeJIT) - A C++ expression -&gt; x64 JIT
 - [hlorenzi/customasm](https://github.com/hlorenzi/customasm) - 💻 An assembler for custom, user-defined instruction sets! https://hlorenzi.github.io/customasm/web/
 - [Redcrafter/verilog2factorio](https://github.com/Redcrafter/verilog2factorio) - This project will compile verilog (a hardware description language) into factorio blueprints.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [BaseMax/AwesomeCompiler](https://github.com/BaseMax/AwesomeCompiler) - The Big list of the github, open-source compilers.
 - [mikeroyal/LLVM-Guide](https://github.com/mikeroyal/LLVM-Guide) - LLVM (Low Level Virtual Machine) Guide. Learn all about the compiler infrastructure, which is designed for compile-time, link-time, run-time, and "idle-time" optimization of programs. Originally imple
 - [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust) - Create your own programming language with Rust
@@ -3070,7 +3069,7 @@
 - [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -3296,6 +3295,7 @@
 
 ## electron 
 
+- [lukeslp/alt-text-local-ai](https://github.com/lukeslp/alt-text-local-ai) - Local tool for generating descriptive alt text for images using vision models
 - [adamsol/GitQuill](https://github.com/adamsol/GitQuill) - Cross-platform GUI for Git. Built with Monaco Editor and Electron.
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
@@ -3622,7 +3622,7 @@
 
 - [robotools/robofab](https://github.com/robotools/robofab) - RoboFab
 - [robotools/fontParts](https://github.com/robotools/fontParts) - The replacement for RoboFab
-- [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a font released by the Internet Development Studio Company. SIL Open Font License 1.1
+- [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a typeface inspired by typewriters, Apple's San Francisco Mono, ASCII art, command-line interfaces, and programming tools.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [dy/wavefont](https://github.com/dy/wavefont) - Typeface for rendering waveform/data
 - [loregr/LGButton](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
@@ -4121,7 +4121,7 @@
 - [Code-Hex/vz](https://github.com/Code-Hex/vz) - Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.framework.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go) - Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
@@ -4888,7 +4888,7 @@
 - [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 - [salesforce/policy_sentry](https://github.com/salesforce/policy_sentry) - IAM Least Privilege Policy Generator
 - [Raku/nqp](https://github.com/Raku/nqp) - NQP
-- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 - [Cosmo/Clippy](https://github.com/Cosmo/Clippy) - Clippy from Microsoft Office is back and runs on macOS! Written in Swift.
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
@@ -5099,7 +5099,7 @@
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
 - [maddox/harmony-api](https://github.com/maddox/harmony-api) - 🗼 A simple server allowing you to query/control multiple local Harmony Home Hubs over HTTP or MQTT
 - [brianhanifin/Home-Assistant-Config](https://github.com/brianhanifin/Home-Assistant-Config) - Home Assistant configuration files.
-- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
 
 ## homebrew 
@@ -5938,7 +5938,7 @@
 - [renode/renode](https://github.com/renode/renode) - Renode - Antmicro's open source simulation and virtual development framework for complex embedded systems
 - [PureSwift/BluetoothLinux](https://github.com/PureSwift/BluetoothLinux) - Pure Swift Linux Bluetooth Stack
 - [brianhanifin/Home-Assistant-Config](https://github.com/brianhanifin/Home-Assistant-Config) - Home Assistant configuration files.
-- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - The easiest, full-featured wireless router setup for Debian-based devices. Period.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [wlisac/swift-on-balena](https://github.com/wlisac/swift-on-balena) - Docker images for Swift on Raspberry Pi and other ARM devices from balena's base images.
@@ -6052,7 +6052,7 @@
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [imteekay/crafting-an-interpreter](https://github.com/imteekay/crafting-an-interpreter) - Crafting an interpreter/compiler with TypeScript.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [js13kGames/king-thirteen](https://github.com/js13kGames/king-thirteen) - King Thirteen — a js13kGames 2024 game by @mvasilkov.
@@ -7692,7 +7692,7 @@
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
@@ -8575,6 +8575,10 @@
 
 ## others 
 
+- [brunogama/MacroTemplateKit](https://github.com/brunogama/MacroTemplateKit) - Type-safe, functional templating engine for Swift macro code generation
+- [Gemini2350/ptp-wallclock](https://github.com/Gemini2350/ptp-wallclock) - This is a simple Wallclock for Raspberry Pi with a LED Display
+- [ppp-one/astra](https://github.com/ppp-one/astra) - Astra: an open-source observatory control software.
+- [InvokeDev/xcode-dx-skills](https://github.com/InvokeDev/xcode-dx-skills) - AI skills to improve developer experience on Xcode projects - build analysis, error diagnosis, test insights, and dependency management
 - [ad-si/Woxi](https://github.com/ad-si/Woxi) - Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
 - [MichaelBell/rp1-hacking](https://github.com/MichaelBell/rp1-hacking) - 
 - [mithro/rp1-jtag](https://github.com/mithro/rp1-jtag) - High-speed JTAG via Raspberry Pi 5 RP1 PIO
@@ -14807,7 +14811,7 @@
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [fstudio/clangbuilder](https://github.com/fstudio/clangbuilder) - Building Clang ♡ Utility and Environment
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
@@ -14836,7 +14840,7 @@
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -15015,7 +15019,6 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [R-O-C-K-E-T/Factorio-SAT](https://github.com/R-O-C-K-E-T/Factorio-SAT) - Enhancing the Factorio experience with SAT solvers
 - [piebro/factorio-blueprint-visualizer](https://github.com/piebro/factorio-blueprint-visualizer) - A python library to artfully visualize Factorio Blueprints and an interactive web demo for using it.
-- [lukeslp/alt-text-local-ai](https://github.com/lukeslp/alt-text-local-ai) - Local tool for generating descriptive alt text for images using vision models
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -15162,7 +15165,7 @@
 - [vmware/vsphere-automation-sdk-python](https://github.com/vmware/vsphere-automation-sdk-python) - Python samples, language bindings, and API reference documentation for vSphere, VMC, and NSX-T using the VMware REST API
 - [Netflix/bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 - [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
-- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [mayan-edms/Mayan-EDMS](https://github.com/mayan-edms/Mayan-EDMS) - Free Open Source Document Management System (mirror, no pull request or issues)
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [hail-is/hail](https://github.com/hail-is/hail) - Cloud-native genomic dataframes and batch computing
@@ -15340,7 +15343,7 @@
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [graphite-project/graphite-web](https://github.com/graphite-project/graphite-web) - A highly scalable real-time graphing system
-- [googleapis/google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
+- [googleapis/google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Libraries for Python
 - [dnsimple/dnsimple-python](https://github.com/dnsimple/dnsimple-python) - The DNSimple API client for Python.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -15605,7 +15608,7 @@
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [tableflowhq/csv-import](https://github.com/tableflowhq/csv-import) - The open-source CSV importer, maintained by @tableflowhq
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -15998,7 +16001,7 @@
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [rsmpi/rsmpi](https://github.com/rsmpi/rsmpi) - MPI bindings for Rust
 - [hlorenzi/customasm](https://github.com/hlorenzi/customasm) - 💻 An assembler for custom, user-defined instruction sets! https://hlorenzi.github.io/customasm/web/
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [hemashushu/practice-mcu-bare-metal-rust](https://github.com/hemashushu/practice-mcu-bare-metal-rust) - A bare metal (register level) STM32F103C8T6/STM32F103 MCU program written in pure Rust without any IDE, SDK, HAL or library, and no assembly code, the only tool required is the Rust compiler.
 - [rust-embedded/cortex-m-quickstart](https://github.com/rust-embedded/cortex-m-quickstart) - Template to develop bare metal applications for Cortex-M microcontrollers
@@ -16435,7 +16438,7 @@
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
@@ -16708,7 +16711,7 @@
 - [vlcn-io/sqlite-rs-embedded](https://github.com/vlcn-io/sqlite-rs-embedded) - Rust bindings for SQLite that are no_std and wasm compatible
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [x2bool/xlite](https://github.com/x2bool/xlite) - Query Excel spredsheets (.xlsx, .xls, .ods) using SQLite
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
@@ -18123,7 +18126,7 @@
 - [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [davidnguyen11/web-extension-boilerplate](https://github.com/davidnguyen11/web-extension-boilerplate) - The web extension boilerplate help to set up project quickly using typescript, jest, webpack, githook, prettier and github actions
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [imteekay/crafting-an-interpreter](https://github.com/imteekay/crafting-an-interpreter) - Crafting an interpreter/compiler with TypeScript.
 - [LingDong-/wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀
@@ -18611,7 +18614,7 @@
 
 ## web 
 
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [jamonholmgren/qub](https://github.com/jamonholmgren/qub) - Qub is a CLI and QB64 web framework for building websites with QBasic. Star this repo!
 - [lyokha/nginx-haskell-module](https://github.com/lyokha/nginx-haskell-module) - A comprehensive web framework aimed at building custom Haskell handlers for the Nginx Web Server
@@ -18661,7 +18664,7 @@
 
 ## web-assembly 
 
-- [typst-community/wasm-minimal-protocol](https://github.com/typst-community/wasm-minimal-protocol) - A minimal protocol to write typst plugins.
+- [typst-community/wasm-minimal-protocol](https://github.com/typst-community/wasm-minimal-protocol) - A minimal protocol to write Typst plugins.
 
 ## web-components 
 
@@ -18696,7 +18699,7 @@
 
 - [davidnguyen11/web-extension-boilerplate](https://github.com/davidnguyen11/web-extension-boilerplate) - The web extension boilerplate help to set up project quickly using typescript, jest, webpack, githook, prettier and github actions
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [swiftwasm/carton](https://github.com/swiftwasm/carton) - [DEPRECATED] Use the new SwiftPM Plugin from JavaScriptKit instead. See https://forums.swift.org/t/deprecating-swiftwasm-carton-in-favor-of-javascriptkits-swiftpm-plugin/83460
 - [TheLartians/modern-wasm-starter](https://github.com/TheLartians/modern-wasm-starter) - 🛸 Run C++ code on web and create blazingly fast websites! A starter template to easily create WebAssembly packages using type-safe C++ bindings with automatic TypeScript declarations.
@@ -18751,7 +18754,7 @@
 - [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Forwarder is a production-ready, fast MITM proxy with PAC support. It's suitable for debugging, intercepting and manipulating HTTP traffic. It's used as a core component of Sauce Labs Sauce Connect Pr
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [tursilion/classic99](https://github.com/tursilion/classic99) - Classic99 TI-99/4A Emulator for Windows, QI3xx series
 - [Tom94/tev](https://github.com/Tom94/tev) - High dynamic range (HDR) image viewer for people who care about colors
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
