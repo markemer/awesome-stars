@@ -4004,7 +4004,6 @@
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [YOCKOW/Action-setup-swift](https://github.com/YOCKOW/Action-setup-swift) - GitHub Action that sets up Swift.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere.
 - [millette/oca](https://github.com/millette/oca) - OpenClipArt Explorer - Discover SVG cliparts with a few clicks and keywords.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [rsms/graphviz](https://github.com/rsms/graphviz) - Graphviz web app
@@ -4083,7 +4082,6 @@
 - [vladocar/screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
 - [wonderunit/characterizer](https://github.com/wonderunit/characterizer) - The best app to train character values and generate conflicts, dilemmas, and common ground between characters.
 - [BoostIO/Boostbot](https://github.com/BoostIO/Boostbot) - :robot:
-- [microsoft/vscode-markdown-tm-grammar](https://github.com/microsoft/vscode-markdown-tm-grammar) - VS Code built-in markdown extension's Textmate grammar
 - [chunpu/markdown2confluence](https://github.com/chunpu/markdown2confluence) - convert markdown to confluence markup
 - [sahilchaddha/homebridge-dafang](https://github.com/sahilchaddha/homebridge-dafang) - Homebridge Plugin for Xiaomi Dafang / Wyze Cam IP Camera =&gt; Hey Siri, Start Video Recording
 - [slifty/opened-captions](https://github.com/slifty/opened-captions) - A SocketIO API for live TV closed captions
@@ -8709,6 +8707,7 @@
 - [sii/sipcalc](https://github.com/sii/sipcalc) - Sipcalc is an advanced ip calculator supporting both IPv4 and IPv6.
 - [NSHipster/uti](https://github.com/NSHipster/uti) - A command-line utility that prints the Uniform Type Identifier for files.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere.
 - [DataDog/yubikey](https://github.com/DataDog/yubikey) - ## Auto-archived due to inactivity. ## YubiKey at Datadog
 - [f4pga/prjxray-db](https://github.com/f4pga/prjxray-db) - Project X-Ray Database: XC7 Series
 - [cooljeanius/macportsscripts](https://github.com/cooljeanius/macportsscripts) - Various little scripts for MacPorts. Forked to add more stuff to it and stuff.
@@ -11002,6 +11001,7 @@
 - [lit/lit-element](https://github.com/lit/lit-element) - LEGACY REPO. This repository is for maintenance of the legacy LitElement library. The LitElement base class is now part of the Lit library, which is developed in the lit monorepo.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [codesandbox/codesandbox-importers](https://github.com/codesandbox/codesandbox-importers) - All importers & exporters for CodeSandbox
+- [microsoft/vscode-markdown-tm-grammar](https://github.com/microsoft/vscode-markdown-tm-grammar) - VS Code built-in markdown extension's Textmate grammar
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
