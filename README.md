@@ -317,6 +317,7 @@
 
 ## C 
 
+- [carlini/printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
 - [MichaelBell/rp1-hacking](https://github.com/MichaelBell/rp1-hacking) - 
 - [mithro/rp1-jtag](https://github.com/mithro/rp1-jtag) - High-speed JTAG via Raspberry Pi 5 RP1 PIO
 - [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
@@ -2563,6 +2564,7 @@
 
 ## Go 
 
+- [basecamp/thruster](https://github.com/basecamp/thruster) - 
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -2677,7 +2679,7 @@
 - [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go) - Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
 - [blacktop/go-apfs](https://github.com/blacktop/go-apfs) - APFS parser written in pure Go
 - [DHowett/go-plist](https://github.com/DHowett/go-plist) - A pure Go Apple Property List transcoder
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [usbarmory/imx-usbnet](https://github.com/usbarmory/imx-usbnet) - i.MX Ethernet over USB driver
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -2856,7 +2858,6 @@
 - [aregm/nff-go](https://github.com/aregm/nff-go) - NFF-Go -Network Function Framework for GO (former YANFF)
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
@@ -3030,7 +3031,7 @@
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [apache/casbin](https://github.com/apache/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
+- [apache/casbin](https://github.com/apache/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC.
 - [vancluever/terraform-provider-acme-old](https://github.com/vancluever/terraform-provider-acme-old) - ACME (Let's Encrypt) Support for Terraform
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Provider for Google Cloud Platform
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources.
@@ -3904,7 +3905,6 @@
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [pidtuner/pidtuner.github.io](https://github.com/pidtuner/pidtuner.github.io) - Free PID Controller gains tuning tool
 - [github/tweetsodium](https://github.com/github/tweetsodium) - libsodium sealed cryptobox using tweetnacl
-- [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
 - [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
@@ -4545,7 +4545,7 @@
 - [jonathanpenn/ui-auto-monkey](https://github.com/jonathanpenn/ui-auto-monkey) - UI AutoMonkey is a simple stress testing script for iOS applications that runs in UI Automation and Instruments. Grass fed. Free range.
 - [bnoguchi/mongoose-auth](https://github.com/bnoguchi/mongoose-auth) - User authentication plugin for mongoose nodejs orm
 - [jslint-org/jslint](https://github.com/jslint-org/jslint) - JSLint, The JavaScript Code Quality and Coverage Tool
-- [SteamDatabase/SteamTracking](https://github.com/SteamDatabase/SteamTracking) - 🕵 Tracking things, so you don't have to
+- [SteamTracking/SteamTracking](https://github.com/SteamTracking/SteamTracking) - 🕵 Tracking things, so you don't have to
 - [ractivejs/ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation
 - [google/tracing-framework](https://github.com/google/tracing-framework) - Web Tracing Framework libraries and extensions.
 - [jshint/jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
@@ -7801,7 +7801,7 @@
 - [osowskit/atlassian-github-app-addon](https://github.com/osowskit/atlassian-github-app-addon) - Add a branch to GitHub from JIRA
 - [courts/ical2rem.rb](https://github.com/courts/ical2rem.rb) - ical2rem.rb converts iCalendar files to the Remind calendar syntax
 - [ryw/pinboard](https://github.com/ryw/pinboard) - Ruby wrapper for Pinboard API
-- [daveverwer/iOSDevDirectory](https://github.com/daveverwer/iOSDevDirectory) - The iOS Dev Directory
+- [iOSDevDirectory/iOSDevDirectory](https://github.com/iOSDevDirectory/iOSDevDirectory) - The iOS Dev Directory
 - [num42/n42-translation-ruby](https://github.com/num42/n42-translation-ruby) - 
 - [num42/fastlane-plugin-localize](https://github.com/num42/fastlane-plugin-localize) - Searches the code for extractable strings and allows interactive extraction to .strings file.
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
@@ -8202,7 +8202,7 @@
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
 - [psarna/edgemail](https://github.com/psarna/edgemail) - 
 - [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Implementation of the Cedar Policy Language
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [Eugeny/russh](https://github.com/Eugeny/russh) - Rust SSH client & server library
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
@@ -8668,7 +8668,7 @@
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [seemoo-lab/mobisys2018_nexmon_software_defined_radio](https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio) - Proof of concept project for operating Broadcom Wi-Fi chips as arbitrary signal transmitters similar to software-defined radios (SDRs)
-- [SteamDatabase/Protobufs](https://github.com/SteamDatabase/Protobufs) - 👑 Automatically tracked Steam, CS2, Dota 2, Deadlock, TF2 protobufs.
+- [SteamTracking/Protobufs](https://github.com/SteamTracking/Protobufs) - 👑 Automatically tracked Steam, CS2, Dota 2, Deadlock, TF2 protobufs.
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [japaric/rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
 - [alexchmykhalo/superconsole](https://github.com/alexchmykhalo/superconsole) - SuperConsole is a software collection based on ConEmu, MSYS2, Mintty, Zsh, Git for Windows, grml-zsh-config, Antigen and agkozak-zsh-theme projects, customized and configured for everyday use.
@@ -10891,6 +10891,7 @@
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 - [davidar/pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
+- [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [nick-fields/private-action-loader](https://github.com/nick-fields/private-action-loader) - Allows private GitHub Actions to be easily reused
 - [jupyterlab/jupyterlab-latex](https://github.com/jupyterlab/jupyterlab-latex) - JupyterLab extension for live editing of LaTeX documents
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
@@ -10956,6 +10957,7 @@
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [jupyterlab/jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - A Git extension for JupyterLab
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [DefinitelyTyped/dt-mergebot](https://github.com/DefinitelyTyped/dt-mergebot) - The bot which handles auto-merging your PRs
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [microsoft/vscode-cmake-tools](https://github.com/microsoft/vscode-cmake-tools) - CMake Tools provides a robust, convenient workflow for CMake projects in VS Code. It simplifies configurations with CMake presets, supports IntelliSense and built-in debugging for CMake scripts, and o
