@@ -55,7 +55,6 @@
 - [GDScript](#gdscript)
 - [GLSL](#glsl)
 - [Game Maker Language](#game-maker-language)
-- [Gherkin](#gherkin)
 - [Gleam](#gleam)
 - [Go](#go)
 - [Go Template](#go-template)
@@ -317,8 +316,10 @@
 
 ## C 
 
+- [dune3d/dune3d](https://github.com/dune3d/dune3d) - 3D CAD application
 - [libyal/libfsapfs](https://github.com/libyal/libfsapfs) - Library and tools to access the Apple File System (APFS)
 - [carlini/printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
+- [Dieu-de-l-elec/AngstromIO-devboard](https://github.com/Dieu-de-l-elec/AngstromIO-devboard) - AngstromIO, one of the smallest devboards out there, barely longer than a USB C connector, based on the Attiny1616 MCU. And a dual CH340 board for programming and debugging, and another devboard, base
 - [MichaelBell/rp1-hacking](https://github.com/MichaelBell/rp1-hacking) - 
 - [mithro/rp1-jtag](https://github.com/mithro/rp1-jtag) - High-speed JTAG via Raspberry Pi 5 RP1 PIO
 - [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
@@ -354,7 +355,6 @@
 - [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 - [stevedonovan/luabuild](https://github.com/stevedonovan/luabuild) - A highly customizable Lua 5.2 build system, allowing for common external modules to be linked in statically, and built-in modules to be excluded
 - [google/ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
-- [adobe-type-tools/afdko](https://github.com/adobe-type-tools/afdko) - Adobe Font Development Kit for OpenType
 - [Summa-Cogni/Mathpad](https://github.com/Summa-Cogni/Mathpad) - A mathematical keypad for students and professionals
 - [t2linux/apple-bce-drv](https://github.com/t2linux/apple-bce-drv) - Apple BCE (Buffer Copy Engine) and associated subsystems drivers for T2-based Macs
 - [libtom/tomsfastmath](https://github.com/libtom/tomsfastmath) - TomsFastMath is a fast public domain, open source, large integer arithmetic library written in portable ISO C.
@@ -484,7 +484,7 @@
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [dosemu2/dosemu2](https://github.com/dosemu2/dosemu2) - Run DOS programs under linux:
 - [paul-j-lucas/cdecl](https://github.com/paul-j-lucas/cdecl) - Composing and deciphering C (or C++) declarations or casts, aka ‘‘gibberish.’’
-- [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list h
+- [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
 - [aws/pg_tle](https://github.com/aws/pg_tle) - Framework for building trusted language extensions for PostgreSQL
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [mecparts/RetroWiFiModem](https://github.com/mecparts/RetroWiFiModem) - An ESP8266 based RS232 &lt;-&gt; WiFi modem with Hayes AT style commands and LED indicators
@@ -2556,10 +2556,6 @@
 
 - [JujuAdams/SNAP](https://github.com/JujuAdams/SNAP) - Data format converters for GameMaker LTS 2022
 
-## Gherkin 
-
-- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
-
 ## Gleam 
 
 - [lpil/gleescript](https://github.com/lpil/gleescript) - 🌮 Bundle your Gleam-on-Erlang project into an escript, a single executable file!
@@ -3343,7 +3339,6 @@
 - [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - AST visualizer for Swift source code
 - [kishikawakatsumi/swift-ast-explorer-playground](https://github.com/kishikawakatsumi/swift-ast-explorer-playground) - Online playground for Swift AST Explorer
 - [openscopeproject/InteractiveHtmlBomDemo](https://github.com/openscopeproject/InteractiveHtmlBomDemo) - Demo pages for InteractiveHtmlBom plugin
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [MichaelJCole/wiki.unrealengine.com](https://github.com/MichaelJCole/wiki.unrealengine.com) - A VuePress documentation site scraped from the internet archives:
 - [COVID19StatePolicy/SocialDistancing](https://github.com/COVID19StatePolicy/SocialDistancing) - 
@@ -5566,7 +5561,6 @@
 
 ## Others 
 
-- [Dieu-de-l-elec/AngstromIO-devboard](https://github.com/Dieu-de-l-elec/AngstromIO-devboard) - AngstromIO, one of the smallest devboards out there, barely longer than a USB C connector, based on the Attiny1616 MCU. And a dual CH340 board for programming and debugging, and another devboard, base
 - [walinchus/Bluesky](https://github.com/walinchus/Bluesky) - Fun things you can do with Bluesky
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [artemnovichkov/xcode-26-system-prompts](https://github.com/artemnovichkov/xcode-26-system-prompts) - Xcode 26 system prompts and internal documentation
@@ -6505,6 +6499,7 @@
 
 ## PostScript 
 
+- [adobe-type-tools/afdko](https://github.com/adobe-type-tools/afdko) - Adobe Font Development Kit for OpenType
 - [nst/bfps](https://github.com/nst/bfps) - A Brainfuck interpreter written in PostScript
 - [INTI-CMNB/KiAuto](https://github.com/INTI-CMNB/KiAuto) - A bunch of scripts to automate KiCad processes
 - [im-tomu/tomu-hardware](https://github.com/im-tomu/tomu-hardware) - A tiny ARM microprocessor which fits in your USB port.
@@ -6978,6 +6973,7 @@
 - [keybase/django-keybase-proofs](https://github.com/keybase/django-keybase-proofs) - Reference implementation and drop in library for keybase proof integration
 - [mpkasp/django-bom](https://github.com/mpkasp/django-bom) - A simple bill of materials app built using the django web framework.
 - [TomAnthony/itermocil](https://github.com/TomAnthony/itermocil) - Create pre-defined window/pane layouts and run commands in iTerm
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [kotartemiy/extract-news-api](https://github.com/kotartemiy/extract-news-api) - Flask code to deploy an API that pulls structured data from online news articles
 - [OpenCobolIDE/OpenCobolIDE](https://github.com/OpenCobolIDE/OpenCobolIDE) - A simple cobol IDE based on GnuCOBOL and pyQode
 - [minimaxir/imgmaker](https://github.com/minimaxir/imgmaker) - Create high-quality images programmatically with easily-hackable templates.
@@ -8863,6 +8859,7 @@
 - [rtrouton/create_os_x_vm_install_dmg](https://github.com/rtrouton/create_os_x_vm_install_dmg) - 
 - [timsutton/osx-vm-templates](https://github.com/timsutton/osx-vm-templates) - macOS templates for Packer and VeeWee.
 - [azu/Coveralls-iOS](https://github.com/azu/Coveralls-iOS) - iOS/Objective-C: minimum setup for Coveralls.
+- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [cytec/spksrc-vagrant](https://github.com/cytec/spksrc-vagrant) - 
 - [mor1/mirage-vagrant-vms](https://github.com/mor1/mirage-vagrant-vms) - Packer and Vagrant images for building Mirage
 - [MacMiniVault/Mac-Scripts](https://github.com/MacMiniVault/Mac-Scripts) - Automation scripts focused around Mac OS X Server
