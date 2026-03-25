@@ -3746,7 +3746,7 @@
 
 - [C7-Game/OpenCiv3](https://github.com/C7-Game/OpenCiv3) - OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with capabilities inspired by the best of the 4
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
-- [xhayper/COTL_API](https://github.com/xhayper/COTL_API) - A library to easily interact with Cult of the Lamb
+- [Khaomi/COTL_API](https://github.com/Khaomi/COTL_API) - A library to easily interact with Cult of the Lamb
 - [js13kGames/king-thirteen](https://github.com/js13kGames/king-thirteen) - King Thirteen — a js13kGames 2024 game by @mvasilkov.
 - [LostArtefacts/TRX](https://github.com/LostArtefacts/TRX) - Open source re-implementation of Tomb Raider I and Tomb Raider II, along with additional enhancements and bugfixes
 - [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
@@ -8597,6 +8597,9 @@
 
 ## others 
 
+- [elgatosf/streamdeck-plugin-samples](https://github.com/elgatosf/streamdeck-plugin-samples) - Sample code illustrating the Stream Deck SDK.
+- [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [mikhailmaslo/macro-codable-kit](https://github.com/mikhailmaslo/macro-codable-kit) - Efficient, flexible Codable with Swift Macros
 - [wegank/nixos-config](https://github.com/wegank/nixos-config) - NixOS configuration
 - [libyal/libfsapfs](https://github.com/libyal/libfsapfs) - Library and tools to access the Apple File System (APFS)
@@ -8936,7 +8939,7 @@
 - [bowenchristopher/Fusion360_API](https://github.com/bowenchristopher/Fusion360_API) - Fusion 360 API Tools
 - [drk1wi/Portspoof](https://github.com/drk1wi/Portspoof) - Portspoof
 - [Wheels35/CultoftheLamb](https://github.com/Wheels35/CultoftheLamb) - This is a collection of basic instructions for editing your unecrypted save game file.
-- [xhayper/cotl-save-editor](https://github.com/xhayper/cotl-save-editor) - Save file editor for Cult of the Lamb
+- [Khaomi/cotl-save-editor](https://github.com/Khaomi/cotl-save-editor) - Save file editor for Cult of the Lamb
 - [Moonkis/CoTLMindReader](https://github.com/Moonkis/CoTLMindReader) - A save-file encryptor/decryptor for Cult of the Lamb
 - [pentalex/COTL-SaveDecryptor](https://github.com/pentalex/COTL-SaveDecryptor) - Site to decrypt save files for modification in the game Cult of the Lamb
 - [abeleinin/Metal-Puzzles](https://github.com/abeleinin/Metal-Puzzles) - Solve Puzzles. Learn Metal 🤘
@@ -15616,6 +15619,7 @@
 
 ## react 
 
+- [lukeslp/orrery](https://github.com/lukeslp/orrery) - From Earth to the Oort Cloud. 41,000 stars, 88 constellations, real data, mostly live. Fake scales.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [damiant/vscode-webnative](https://github.com/damiant/vscode-webnative) - Create and maintain web and native projects
@@ -18152,6 +18156,7 @@
 
 ## typescript 
 
+- [lukeslp/orrery](https://github.com/lukeslp/orrery) - From Earth to the Oort Cloud. 41,000 stars, 88 constellations, real data, mostly live. Fake scales.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [SocketDev/socket-sdk-js](https://github.com/SocketDev/socket-sdk-js) - JavaScript SDK for Socket.dev API
@@ -18341,7 +18346,7 @@
 
 ## unity 
 
-- [xhayper/COTL_API](https://github.com/xhayper/COTL_API) - A library to easily interact with Cult of the Lamb
+- [Khaomi/COTL_API](https://github.com/Khaomi/COTL_API) - A library to easily interact with Cult of the Lamb
 - [pardeike/Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
@@ -18528,6 +18533,7 @@
 
 ## visualization 
 
+- [lukeslp/orrery](https://github.com/lukeslp/orrery) - From Earth to the Oort Cloud. 41,000 stars, 88 constellations, real data, mostly live. Fake scales.
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
