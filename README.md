@@ -336,14 +336,13 @@
 - [zhuowei/FakeHVF](https://github.com/zhuowei/FakeHVF) - Useless learning project: simulates Hypervisor.framework APIs on top of Linux KVM
 - [ajb142/omap_loader](https://github.com/ajb142/omap_loader) - A USB BootROM uploading utility for TI ARM OMAP3 family processors. Rewrite of omap3_usbload. Supports USBLOAD functionality in TI's X-Loader.
 - [exploiteers/NestDFUAttack](https://github.com/exploiteers/NestDFUAttack) - Packages to attack the Google Nest's DFU mode.
-- [codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) - Breathe fresh life into your bricked Nest, now with 100% less evil!
 - [cgutman/enet](https://github.com/cgutman/enet) - ENet reliable UDP networking library
 - [t2linux/apple-ib-drv](https://github.com/t2linux/apple-ib-drv) - Apple iBridge devices support (Touchbar/ALS) for MacBook Pro 2018 and onward.
 - [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
 - [ZitaoTech/9981_BLE_USB_Keyboard_Pro](https://github.com/ZitaoTech/9981_BLE_USB_Keyboard_Pro) - Description about the 9981 BLE&USB Keyboard Pro with trackpad
 - [hamishcoleman/macos-vmnet](https://github.com/hamishcoleman/macos-vmnet) - Simple example for using the macos vmnet framework
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
-- [sqliteai/sqlite-sync](https://github.com/sqliteai/sqlite-sync) - SQLiteSync is a local-first SQLite extension using CRDTs for seamless, conflict-free data sync and real-time collaboration across devices.
+- [sqliteai/sqlite-sync](https://github.com/sqliteai/sqlite-sync) - CRDT-based offline-first sync for SQLite. Syncs automatically with SQLite Cloud, PostgreSQL, and Supabase. No conflicts, no data loss, no backend to build. For offline-first apps and AI agents.
 - [stateless-me/uuidv47](https://github.com/stateless-me/uuidv47) - ⚡ UUIDv47 = v4 privacy + v7 performance
 - [plan9foundation/plan9](https://github.com/plan9foundation/plan9) - Plan 9 History, from 1992-09-21 to 2015-01-10.
 - [Modos-Labs/Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
@@ -1264,7 +1263,7 @@
 - [FabianFG/CUE4Parse](https://github.com/FabianFG/CUE4Parse) - 
 - [CrystalFerrai/UeSaveGame](https://github.com/CrystalFerrai/UeSaveGame) - A .NET library for reading and writing standard Unreal Engine save game files.
 - [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
-- [SteamDatabase/SteamAppInfo](https://github.com/SteamDatabase/SteamAppInfo) - Parser for appinfo.vdf and packageinfo.vdf files used by the Steam client
+- [ValveResourceFormat/SteamAppInfo](https://github.com/ValveResourceFormat/SteamAppInfo) - Parser for appinfo.vdf and packageinfo.vdf files used by the Steam client
 - [pdfforge/PDFCreator](https://github.com/pdfforge/PDFCreator) - PDFCreator - The free PDF Converter
 - [clawsoftware/clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions.
 - [OpenRakis/Spice86](https://github.com/OpenRakis/Spice86) - Reverse engineer and rewrite real mode DOS programs!
@@ -1342,7 +1341,7 @@
 - [WolvenKit/WolvenKit](https://github.com/WolvenKit/WolvenKit) - Community Mod editor/creator for REDengine games.
 - [MiloszKrajewski/K4os.Compression.LZ4](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) - LZ4/LH4HC compression for .NET Standard 1.6/2.0 (formerly known as lz4net)
 - [WolvenKit/CyberCAT](https://github.com/WolvenKit/CyberCAT) - CyberPunk 2077 Customization Assistant Tool. Work in progress Savegame editor.
-- [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games!
+- [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - The core compiler and engine-agnostic components for Yarn Spinner, the friendly dialogue tool.
 - [Norbyte/lslib](https://github.com/Norbyte/lslib) - Tools for manipulating Divinity Original Sin and Baldur's Gate 3 files
 - [nxrighthere/UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET 6 integration
 - [X2CommunityCore/X2SaveGameAnalyzer](https://github.com/X2CommunityCore/X2SaveGameAnalyzer) - Simple Windows application (and .NET library) that analyzes and displays some information from XCOM 2 savegame files.
@@ -1418,6 +1417,7 @@
 
 ## C++ 
 
+- [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based 
 - [Gemini2350/ptp-wallclock](https://github.com/Gemini2350/ptp-wallclock) - This is a simple Wallclock for Raspberry Pi with a LED Display
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
@@ -1899,7 +1899,7 @@
 - [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 - [oatpp/oatpp-examples](https://github.com/oatpp/oatpp-examples) - List of example projects of how to use oat++ framework
 - [rdkcmf/westeros](https://github.com/rdkcmf/westeros) - [DEPRECATED] repository mirror
-- [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Task-parallel Programming System using Modern C++
+- [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Task-parallel Programming System in C++
 - [alexsax/2D-3D-Semantics](https://github.com/alexsax/2D-3D-Semantics) - The data skeleton from Joint 2D-3D-Semantic Data for Indoor Scene Understanding
 - [microsoft/Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
 - [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver) - RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9
@@ -2301,6 +2301,7 @@
 - [sindresorhus/bower-components](https://github.com/sindresorhus/bower-components) - [DEPRECATED] Site to discover Bower components
 - [chromatic/modern_perl_book](https://github.com/chromatic/modern_perl_book) - Modern Perl: the book
 - [twitter-archive/recess](https://github.com/twitter-archive/recess) - A simple and attractive code quality tool for CSS built on top of LESS
+- [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://beautifulwebtype.com
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [redroot/holmes](https://github.com/redroot/holmes) - Holmes is stand-alone diagnostic CSS stylesheet that can highlight potentially invalid or erroneous HTML(5) markup by adding one class
 
@@ -2562,8 +2563,9 @@
 
 ## Go 
 
+- [sphireinc/Foundry](https://github.com/sphireinc/Foundry) - A Markdown-driven CMS written in Go
 - [basecamp/thruster](https://github.com/basecamp/thruster) - 
-- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
+- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
@@ -3225,7 +3227,6 @@
 
 - [librecores/librecores-ci-jenkins-server](https://github.com/librecores/librecores-ci-jenkins-server) - LibreCores Continuous Integration
 - [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
-- [jenkinsci/gradle-jpi-plugin](https://github.com/jenkinsci/gradle-jpi-plugin) - Build Jenkins Plugins with Gradle
 - [brendonanderson/wemocontrol](https://github.com/brendonanderson/wemocontrol) - Discover, find the status of, and control your WeMo outlet device.
 - [passy/build-time-tracker-plugin](https://github.com/passy/build-time-tracker-plugin) - Gradle plugin to continuously track and report your build times
 - [openbakery/gradle-xcodePlugin](https://github.com/openbakery/gradle-xcodePlugin) - gradle plugin for building Xcode Projects for iOS, watchOS, macOS or tvOS
@@ -3475,7 +3476,6 @@
 - [scotthmurray/d3-book](https://github.com/scotthmurray/d3-book) - Code examples for “Interactive Data Visualization for the Web”
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [umbrae/jsonlintdotcom](https://github.com/umbrae/jsonlintdotcom) - Source code for jsonlint.com
-- [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://beautifulwebtype.com
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [sikuli/sikuli](https://github.com/sikuli/sikuli) - Sikuli's official repository on github. Ask questions or report bugs at http://launchpad.net/sikuli.
 
@@ -3670,6 +3670,7 @@
 - [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 - [Backblaze/JavaReedSolomon](https://github.com/Backblaze/JavaReedSolomon) - Backblaze Reed-Solomon Implementation in Java
 - [janinko/ghprb](https://github.com/janinko/ghprb) - github pull requests builder plugin for Jenkins
+- [jenkinsci/gradle-jpi-plugin](https://github.com/jenkinsci/gradle-jpi-plugin) - Build Jenkins Plugins with Gradle
 - [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 - [JakeWharton/hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds.
 - [gwtproject/gwt](https://github.com/gwtproject/gwt) - GWT Open Source Project
@@ -3679,7 +3680,6 @@
 - [beatty/applepay_crypto_demo](https://github.com/beatty/applepay_crypto_demo) - 
 - [Watson-Explorer/wex-wdc-integration-samples](https://github.com/Watson-Explorer/wex-wdc-integration-samples) - Sample code and tutorials for integrating Watson Explorer with Watson Developer Cloud services on Bluemix
 - [sikuli/sikuli-slides](https://github.com/sikuli/sikuli-slides) - Sikuli-Slides is a visual automation tool that enables users to automate and test Graphical User Interfaces (GUIs) using presentation slides.
-- [RaiMan/SikuliX-2014](https://github.com/RaiMan/SikuliX-2014) - SikuliX version 1.1.2 (until February 2018)
 - [googleglass/gdk-level-sample](https://github.com/googleglass/gdk-level-sample) - Simple apk Glassware acting as a level.
 - [googleglass/gdk-compass-sample](https://github.com/googleglass/gdk-compass-sample) - Simple GDK example acting as a compass. In addition to the visual display, you can tap the touchpad to have Glass speak your current orientation aloud.
 - [monteslu/Face](https://github.com/monteslu/Face) - Side loadable app to bidirectionally communicate from Google Glass to a websocket
@@ -3714,6 +3714,7 @@
 
 ## JavaScript 
 
+- [Neguiolidas/Chrome2Fox](https://github.com/Neguiolidas/Chrome2Fox) - 🦊 Install Chrome Web Store extensions directly on Firefox
 - [raymelon/youtube-playlist-backup-apps-script](https://github.com/raymelon/youtube-playlist-backup-apps-script) - Back up your YouTube playlists into Google Sheets with Google Apps Script
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
@@ -3728,6 +3729,7 @@
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
 - [clean-css/clean-css-cli](https://github.com/clean-css/clean-css-cli) - The command line interface to clean-css CSS optimizer
+- [codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) - Breathe fresh life into your bricked Nest, now with 100% less evil!
 - [octokit/request-action](https://github.com/octokit/request-action) - A GitHub Action to send arbitrary requests to GitHub's REST API
 - [yomidevs/yomitan](https://github.com/yomidevs/yomitan) - Pop-up dictionary browser extension for language learning. Successor to Yomichan.
 - [digipres/awesome-digital-preservation](https://github.com/digipres/awesome-digital-preservation) - Carefully curated list of awesome digital preservation resources.
@@ -4152,6 +4154,7 @@
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [jessepeterson/margarita](https://github.com/jessepeterson/margarita) - Web frontend for reposado
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
+- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [TimboKZ/Rammy](https://github.com/TimboKZ/Rammy) - 📝🛠️ Command line assistant for LaTeX projects
@@ -4341,7 +4344,6 @@
 - [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
 - [usecanvas/realtime-v2](https://github.com/usecanvas/realtime-v2) - 
 - [usecanvas/web-v2](https://github.com/usecanvas/web-v2) - 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
@@ -4873,7 +4875,6 @@
 - [zaellis/continue_with_sv](https://github.com/zaellis/continue_with_sv) - Software and resources to help Purdue students (and others) continue developing with SystemVerilog after losing access to proprietary tools.
 - [mattvenn/magic-inverter](https://github.com/mattvenn/magic-inverter) - an inverter drawn in magic with makefile to simulate
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [foostan/kbd](https://github.com/foostan/kbd) - for building keyboard libraries
 - [linuxboot/heads](https://github.com/linuxboot/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops, workstations and servers.
 - [adobe-type-tools/cmap-resources](https://github.com/adobe-type-tools/cmap-resources) - CMap Resources
@@ -5821,6 +5822,7 @@
 - [Alarm-Siren/6502-kicad-library](https://github.com/Alarm-Siren/6502-kicad-library) - KiCad Symbol Library for a variety of MOS, CBM and WDC retro microchips, including the eponymous MOS Technology 6502.
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [fujitsu/A64FX](https://github.com/fujitsu/A64FX) - 
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [alexkaessner/macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) - :gem: The most detailed and accurate macOS UI Kit for Sketch. This Sketch Library includes common Mac interface elements, cursors, and a Touch Bar UI Kit.
 - [arturo182/kicad-modules](https://github.com/arturo182/kicad-modules) - A repository with all my custom footprints and 3d models for KiCad
@@ -6360,7 +6362,7 @@
 - [jmarmorato/Intranet-Home-Page](https://github.com/jmarmorato/Intranet-Home-Page) - Intranet Home Page is a highly-configurable self-hosted browser homepage with integrations for public and local data feeds.
 - [fantasycalendar/Fantasy-Calendar](https://github.com/fantasycalendar/Fantasy-Calendar) - Build a calendar that fits your world! Whether you're a GM just here to track your Forgotten Realms campaign with a preset calendar, or a fanciful world-builder with 12 moons (Like Eberron's) and zany
 - [vinkla/extended-acf](https://github.com/vinkla/extended-acf) - Register advanced custom fields with object-oriented PHP
-- [wpengine/wpackagist](https://github.com/wpengine/wpackagist) - WordPress Packagist — manage your plugins with Composer
+- [wpengine/wpackagist](https://github.com/wpengine/wpackagist) - WPackagist — manage your plugins with Composer
 - [vinkla/wordplate](https://github.com/vinkla/wordplate) - A boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [twilio/twilio-php](https://github.com/twilio/twilio-php) - A PHP library for communicating with the Twilio REST API and generating TwiML.
 - [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
@@ -6551,6 +6553,7 @@
 
 ## Python 
 
+- [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library
 - [jtsylve/spice-crypt](https://github.com/jtsylve/spice-crypt) - A Python library and CLI tool for decrypting encrypted SPICE model files, enabling engineers to use lawfully obtained models in any simulator.
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [ppp-one/astra](https://github.com/ppp-one/astra) - Astra: an open-source observatory control software.
@@ -6585,7 +6588,7 @@
 - [glacierpiece/borderlands-4-save-utility](https://github.com/glacierpiece/borderlands-4-save-utility) - Can be used as a Borderlands 4 save editor. Decrypt encrypted Borderlands 4 saves, edit them as desired, then encrypt them back to be used in game.
 - [daquintero/piel](https://github.com/daquintero/piel) - Photonic Integrated ELectronics. Microservices to codesign photonics, electronics, quantum, and more.
 - [librelane/librelane](https://github.com/librelane/librelane) - ASIC implementation flow infrastructure, successor to OpenLane
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS & firmware collection for retrogaming emulators. RetroArch, Batocera, Recalbox, Lakka, and more. Verified checksums, automated packs, 50+ systems.
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM. Verified checksums, 6700+ files, 300+ emulators profiled from source code.
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [NOAA-GSL/zyra](https://github.com/NOAA-GSL/zyra) - Modular workflows for reproducible science
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
@@ -6612,7 +6615,7 @@
 - [doronz88/DeveloperDiskImage](https://github.com/doronz88/DeveloperDiskImage) - Home for both DeveloperDiskImage files (iOS &lt; 17.0) and Personalized files (iOS &gt;= 17.0)
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [R-O-C-K-E-T/Factorio-SAT](https://github.com/R-O-C-K-E-T/Factorio-SAT) - Enhancing the Factorio experience with SAT solvers
-- [lukeslp/alt-text-local-ai](https://github.com/lukeslp/alt-text-local-ai) - Local tool for generating descriptive alt text for images using vision models
+- [lukeslp/alt-text-local-llm](https://github.com/lukeslp/alt-text-local-llm) - Local tool for generating descriptive alt text for images using vision models
 - [cooljjj33/PolyDye](https://github.com/cooljjj33/PolyDye) - Full Color Printer Mod for Marlin 3D Printers
 - [bowenchristopher/Fusion360_API](https://github.com/bowenchristopher/Fusion360_API) - Fusion 360 API Tools
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
@@ -7213,7 +7216,7 @@
 - [enjoy-digital/litescope](https://github.com/enjoy-digital/litescope) - Small footprint and configurable embedded FPGA logic analyzer
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [breathe-doc/breathe](https://github.com/breathe-doc/breathe) - ReStructuredText and Sphinx bridge to Doxygen
 - [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
 - [geopandas/geopandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
@@ -7223,7 +7226,6 @@
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 - [wdas/reposado](https://github.com/wdas/reposado) - Host Apple Software Updates on the hardware and OS of your choice.
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
-- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [danieldaeschle/swapy](https://github.com/danieldaeschle/swapy) - Easy and modular web development
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [Ericsson/codechecker](https://github.com/Ericsson/codechecker) - CodeChecker is an analyzer tooling, defect database and viewer extension for static and dynamic analyzer tools.
@@ -7499,7 +7501,6 @@
 - [Januzellij/hopperscripts](https://github.com/Januzellij/hopperscripts) - Collection of scripts I use in the Hopper disassembler
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [boldport/pcbmode](https://github.com/boldport/pcbmode) - A printed circuit board design tool with a twist
-- [palant/autoinstaller](https://github.com/palant/autoinstaller) - DEPRECATED: Firefox/SeaMonkey/Thunderbird extension that makes extension development easier: it allows automatically adding or updating browser extensions, e.g. via command line tools.
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 - [datadesk/python-elections](https://github.com/datadesk/python-elections) - A Python wrapper for the Associated Press' U.S. election data service.
 - [googleapis/oauth2client](https://github.com/googleapis/oauth2client) - This is a Python library for accessing resources protected by OAuth 2.0.
@@ -8153,7 +8154,7 @@
 - [ekiwi/wellen](https://github.com/ekiwi/wellen) - wellen: waveform datastructures in Rust. Fast VCD, FST and GHW parsing for waveform viewers.
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
-- [awslabs/aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter) - Run web applications on AWS Lambda
+- [aws/aws-lambda-web-adapter](https://github.com/aws/aws-lambda-web-adapter) - Run web applications on AWS Lambda
 - [Eliah-Lakhin/lady-deirdre](https://github.com/Eliah-Lakhin/lady-deirdre) - Compiler front-end foundation technology.
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]
@@ -8431,7 +8432,7 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust
 - [cloud-hypervisor/rust-hypervisor-firmware](https://github.com/cloud-hypervisor/rust-hypervisor-firmware) - 
-- [solanabull/Polymarket-Trading-Bot](https://github.com/solanabull/Polymarket-Trading-Bot) - polymarket trading bot https://t.me/solanabull0 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket tra
+- [solanabull/Polymarket-Trading-Bot](https://github.com/solanabull/Polymarket-Trading-Bot) - polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket tradi
 - [org-rs/org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [gamozolabs/orange_slice](https://github.com/gamozolabs/orange_slice) - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost
 - [drewwyatt/git-tidy](https://github.com/drewwyatt/git-tidy) - Tidy up stale git branches.
@@ -8900,7 +8901,6 @@
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [ryanb/dotfiles](https://github.com/ryanb/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
 
 ## Smalltalk 
 
@@ -8943,6 +8943,8 @@
 
 ## Swift 
 
+- [rderik/rdncat](https://github.com/rderik/rdncat) - A client-server command-line tool created using NWFramework
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [mikhailmaslo/macro-codable-kit](https://github.com/mikhailmaslo/macro-codable-kit) - Efficient, flexible Codable with Swift Macros
 - [sindresorhus/macos-trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash
 - [sindresorhus/DSStore](https://github.com/sindresorhus/DSStore) - Parse and write macOS .DS_Store files from Swift
@@ -9673,7 +9675,7 @@
 - [SlaunchaMan/ErrorAssertions](https://github.com/SlaunchaMan/ErrorAssertions) - Wrappers for Swift assertions that take Error instances instead of strings, and the means to test them in XCTest.
 - [okhanokbay/ExpyTableView](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method.
 - [niw/KeyboardGuide](https://github.com/niw/KeyboardGuide) - A modern, real iOS keyboard system notifications handler framework that Just Works.
-- [SwiftPackageIndex/SwiftPackageIndex-Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server) - The Swift Package Index is the place to find Swift packages!
+- [SwiftPackageIndex/SwiftPackageIndex-Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server) - The Swift Package Index is the place to find and explore Swift packages
 - [inket/MacSymbolicator](https://github.com/inket/MacSymbolicator) - Symbolicating macOS/iOS crash reports, easily.
 - [mattt/CommonMarkAttributedString](https://github.com/mattt/CommonMarkAttributedString) - Create NSAttributedStrings from Markdown Text
 - [timd/ComposableDiffableMVP](https://github.com/timd/ComposableDiffableMVP) - Being a minimally-viable UICollectionView using a composable layout and a diffable data source
@@ -9818,7 +9820,7 @@
 - [yonaskolb/NetworkRequest](https://github.com/yonaskolb/NetworkRequest) - Swift networking library for easily defining, executing, and mocking network requests
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [AvdLee/CombineSwiftPlayground](https://github.com/AvdLee/CombineSwiftPlayground) - A Swift playground explaining the concepts of the new Combine framework
-- [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList) - The master list of repositories for the Swift Package Index.
+- [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList) - The canonical list of repositories indexed by the Swift Package Index
 - [huggingface/swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT for Question answering. Other Transformers coming soon!
 - [Dimillian/MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
 - [noahsark769/CatalystPlayground](https://github.com/noahsark769/CatalystPlayground) - An example project demonstrating Mac Catalyst features
@@ -10275,6 +10277,7 @@
 - [onevcat/FengNiao](https://github.com/onevcat/FengNiao) - A command line tool for cleaning unused resources in Xcode.
 - [patchthecode/JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable
 - [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [1amageek/Bleu](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U🎁 Bleu is the best in the Bluetooth library.
 - [efremidze/Magnetic](https://github.com/efremidze/Magnetic) - SpriteKit Floating Bubble Picker (inspired by Apple Music) 🧲
 - [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QRCode in Swift, support iOS, macOS, watchOS, tvOS, and/or visionOS.
@@ -10938,7 +10941,7 @@
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [cgrevisse/swift-project-creation](https://github.com/cgrevisse/swift-project-creation) - VS Code Extension for Swift Project/Package creation.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [arnog/mathlive](https://github.com/arnog/mathlive) - Web components for math display and input
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -11283,6 +11286,7 @@
 - [thinkpixellab/flatland](https://github.com/thinkpixellab/flatland) - Flatland is a simple theme and accompanying color scheme for Sublime Text 2.
 - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
 - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath
+- [ryanb/dotfiles](https://github.com/ryanb/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
 
 ## Visual Basic .NET 
 
