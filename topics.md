@@ -80,6 +80,7 @@
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -333,6 +334,7 @@
 
 ## 3d 
 
+- [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library
 - [dune3d/dune3d](https://github.com/dune3d/dune3d) - 3D CAD application
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [chilaPCB/Altium-Library](https://github.com/chilaPCB/Altium-Library) - Altium Library with 4000 components, IPC compliant footprints, 3D step model
@@ -907,7 +909,7 @@
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 - [vapor-community/awesome-vapor](https://github.com/vapor-community/awesome-vapor) - A curated list of Vapor-related awesome projects.
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
@@ -1220,7 +1222,7 @@
 ## backend 
 
 - [subtrace/subtrace](https://github.com/subtrace/subtrace) - Network inspector for your backend
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -1330,7 +1332,7 @@
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of X/Twitter v1, v2, and GraphQL APIs
 - [SwiftcordApp/DiscordKit](https://github.com/SwiftcordApp/DiscordKit) - The Discord API implementation behind Swiftcord, implemented completely from scratch in Swift
-- [solanabull/Polymarket-Trading-Bot](https://github.com/solanabull/Polymarket-Trading-Bot) - polymarket trading bot https://t.me/solanabull0 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket tra
+- [solanabull/Polymarket-Trading-Bot](https://github.com/solanabull/Polymarket-Trading-Bot) - polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket tradi
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [PSPDFKit-labs/reviewbot](https://github.com/PSPDFKit-labs/reviewbot) - Reviewbot is a Slack bot that shows reviewable pull requests.
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
@@ -1948,10 +1950,11 @@
 
 ## cms 
 
+- [sphireinc/Foundry](https://github.com/sphireinc/Foundry) - A Markdown-driven CMS written in Go
 - [ExpressionEngine/ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine) - ExpressionEngine is a flexible, feature-rich, free open-source content management platform that empowers hundreds of thousands of individuals and organizations around the world to easily manage their 
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [aureleoules/core](https://github.com/aureleoules/core) - Backpulse's core. Backpulse is an API Based CMS. Build you own website without worrying about the content administration system.
 - [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [CannerCMS/cannercms](https://github.com/CannerCMS/cannercms) - ⚡️ Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
@@ -3031,6 +3034,25 @@
 - [SwiftcordApp/DiscordKit](https://github.com/SwiftcordApp/DiscordKit) - The Discord API implementation behind Swiftcord, implemented completely from scratch in Swift
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 
+## distributed-systems 
+
+- [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [p-org/P](https://github.com/p-org/P) - The P programming language.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL
+- [adilkhash/Data-Engineering-HowTo](https://github.com/adilkhash/Data-Engineering-HowTo) - A list of useful resources to learn Data Engineering from scratch
+- [absmach/supermq](https://github.com/absmach/supermq) - Event-driven Infrastructure for Modern Cloud
+- [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
+- [sandglass/sandglass](https://github.com/sandglass/sandglass) - Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [kochie/guardian](https://github.com/kochie/guardian) - A distributed SSH key management service.
+- [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
+- [keybase/kbfs](https://github.com/keybase/kbfs) - Keybase Filesystem (KBFS)
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
+- [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
+- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+
 ## django 
 
 - [usnistgov/NEMO](https://github.com/usnistgov/NEMO) - NEMO is a laboratory logistics web application. Use it to schedule reservations, control tool access, track maintenance issues, and more.
@@ -3304,7 +3326,7 @@
 
 ## electron 
 
-- [lukeslp/alt-text-local-ai](https://github.com/lukeslp/alt-text-local-ai) - Local tool for generating descriptive alt text for images using vision models
+- [lukeslp/alt-text-local-llm](https://github.com/lukeslp/alt-text-local-llm) - Local tool for generating descriptive alt text for images using vision models
 - [adamsol/GitQuill](https://github.com/adamsol/GitQuill) - Cross-platform GUI for Git. Built with Monaco Editor and Electron.
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
@@ -3445,6 +3467,7 @@
 ## emulator 
 
 - [Alia5/SISR](https://github.com/Alia5/SISR) - SISR (Steam Input System Redirector; pronounced "scissor") is a tool that allows users to redirect Steam Input configurations to a system level, either on localhost or even over the network.
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM. Verified checksums, 6700+ files, 300+ emulators profiled from source code.
 - [OpenRakis/Spice86](https://github.com/OpenRakis/Spice86) - Reverse engineer and rewrite real mode DOS programs!
 - [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
@@ -3544,7 +3567,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [firebase/fastlane-plugin-firebase_app_distribution](https://github.com/firebase/fastlane-plugin-firebase_app_distribution) - fastlane plugin for Firebase App Distribution. https://firebase.google.com/docs/app-distribution
 - [GitLiveApp/firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [FoundryApp/foundry-cli](https://github.com/FoundryApp/foundry-cli) - Foundry makes the development of Firebase Functions fast by giving you an out-of-the-box working cloud environment for your development with an access to your production data. It's a CLI tool that giv
 - [w9jds/firebase-action](https://github.com/w9jds/firebase-action) - GitHub Action for interacting with Firebase
 - [firebase/quickstart-ios](https://github.com/firebase/quickstart-ios) - Firebase Quickstart Samples for iOS
@@ -3765,7 +3788,7 @@
 - [AnthonyZJiang/D-OS-Save-Editor](https://github.com/AnthonyZJiang/D-OS-Save-Editor) - A save editor for Divinity Original Sin: Enhanced Edition
 - [AYasinAkalin/MELE_quickIniEditor](https://github.com/AYasinAkalin/MELE_quickIniEditor) - A terminal application allowing users and modders to modify .ini and Coalesced_*.bin files of ME Legendary Edition easily without replacing the whole file; losing possible early modifications in proce
 - [WolvenKit/WolvenKit](https://github.com/WolvenKit/WolvenKit) - Community Mod editor/creator for REDengine games.
-- [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games!
+- [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - The core compiler and engine-agnostic components for Yarn Spinner, the friendly dialogue tool.
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
@@ -3805,7 +3828,7 @@
 - [microsoft/GDK](https://github.com/microsoft/GDK) - Microsoft Public GDK
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
-- [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games!
+- [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - The core compiler and engine-agnostic components for Yarn Spinner, the friendly dialogue tool.
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
 - [nxrighthere/UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET 6 integration
@@ -3865,7 +3888,7 @@
 - [paulloz/godot-ink](https://github.com/paulloz/godot-ink) - Ink integration for Godot Engine.
 - [libtcod/libtcod](https://github.com/libtcod/libtcod) - A collection of tools and algorithms for developing traditional roguelikes.  Such as field-of-view, pathfinding, and a tile-based terminal emulator.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-- [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games!
+- [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - The core compiler and engine-agnostic components for Yarn Spinner, the friendly dialogue tool.
 - [nxrighthere/UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET 6 integration
 - [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on https://game-icons.net
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
@@ -4546,7 +4569,7 @@
 ## google-cloud 
 
 - [GoogleCloudPlatform/iap-desktop](https://github.com/GoogleCloudPlatform/iap-desktop) - IAP Desktop is a Windows application that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for installing and configuring the gcloud CLI.
 - [CodingDoug/universal-translator](https://github.com/CodingDoug/universal-translator) - Demo app using Firebase and Google Cloud products to implement a "universal translator"
 - [GoogleCloudPlatform/cloud-code-intellij](https://github.com/GoogleCloudPlatform/cloud-code-intellij) - Plugin to support the Google Cloud Platform in IntelliJ IDEA - Docs and Issues Repository
@@ -6616,7 +6639,7 @@
 - [jac3km4/redscript](https://github.com/jac3km4/redscript) - Compiler/decompiler toolkit for redscript
 - [mukul-rathi/bolt](https://github.com/mukul-rathi/bolt) - Bolt is a language with in-built data-race freedom!
 - [heysem-useinsider/Stringz](https://github.com/heysem-useinsider/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
-- [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games!
+- [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - The core compiler and engine-agnostic components for Yarn Spinner, the friendly dialogue tool.
 - [ArkScript-lang/Ark](https://github.com/ArkScript-lang/Ark) - ArkScript is a small, fast, functional and scripting language for C++ projects
 - [agroce/universalmutator](https://github.com/agroce/universalmutator) - Regexp based tool for mutating generic source code across numerous languages
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
@@ -7038,7 +7061,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 
 ## lua 
@@ -7247,6 +7270,7 @@
 
 ## macos 
 
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [sindresorhus/macos-trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash
 - [sindresorhus/DSStore](https://github.com/sindresorhus/DSStore) - Parse and write macOS .DS_Store files from Swift
@@ -7703,6 +7727,7 @@
 
 ## markdown 
 
+- [sphireinc/Foundry](https://github.com/sphireinc/Foundry) - A Markdown-driven CMS written in Go
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [avo-hq/marksmith](https://github.com/avo-hq/marksmith) - GitHub-style markdown editor for Ruby and Rails
@@ -8116,7 +8141,7 @@
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
 ## node 
@@ -8417,6 +8442,7 @@
 
 ## open-source 
 
+- [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -8597,6 +8623,9 @@
 
 ## others 
 
+- [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
+- [Neguiolidas/Chrome2Fox](https://github.com/Neguiolidas/Chrome2Fox) - 🦊 Install Chrome Web Store extensions directly on Firefox
+- [rderik/rdncat](https://github.com/rderik/rdncat) - A client-server command-line tool created using NWFramework
 - [elgatosf/streamdeck-plugin-samples](https://github.com/elgatosf/streamdeck-plugin-samples) - Sample code illustrating the Stream Deck SDK.
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
@@ -8749,7 +8778,7 @@
 - [MxIris-Reverse-Engineering/RuntimeViewer](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer) - Objective-C & Swift Runtime Viewer for macOS and iOS
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [JNavas2/Archive-Page](https://github.com/JNavas2/Archive-Page) - Browser extension to archive webpages in Archive Today
-- [sqliteai/sqlite-sync](https://github.com/sqliteai/sqlite-sync) - SQLiteSync is a local-first SQLite extension using CRDTs for seamless, conflict-free data sync and real-time collaboration across devices.
+- [sqliteai/sqlite-sync](https://github.com/sqliteai/sqlite-sync) - CRDT-based offline-first sync for SQLite. Syncs automatically with SQLite Cloud, PostgreSQL, and Supabase. No conflicts, no data loss, no backend to build. For offline-first apps and AI agents.
 - [glacierpiece/borderlands-4-save-utility](https://github.com/glacierpiece/borderlands-4-save-utility) - Can be used as a Borderlands 4 save editor. Decrypt encrypted Borderlands 4 saves, edit them as desired, then encrypt them back to be used in game.
 - [hermit-os/uhyve](https://github.com/hermit-os/uhyve) - A specialized hypervisor for Hermit.
 - [henesy/awesome-plan9](https://github.com/henesy/awesome-plan9) - A curated list of awesome Plan9-related documents, libraries, and software
@@ -9173,7 +9202,7 @@
 - [FDOS/fdisk](https://github.com/FDOS/fdisk) - Fixed Disk Setup Program - manages partitions using the MBR partitioning scheme
 - [FDOS/freecom](https://github.com/FDOS/freecom) - FreeDOS Command Shell (command.com)
 - [visrealm/keyboard4a99](https://github.com/visrealm/keyboard4a99) - Cherry MX compatible upgrade for your Texas Instruments TI-99/4A Mitsumi mylar keyboard
-- [awslabs/aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter) - Run web applications on AWS Lambda
+- [aws/aws-lambda-web-adapter](https://github.com/aws/aws-lambda-web-adapter) - Run web applications on AWS Lambda
 - [jpakkane/glyphtracer](https://github.com/jpakkane/glyphtracer) - Glyphtracer is an app for converting images of letters to a font
 - [jpakkane/capypdf](https://github.com/jpakkane/capypdf) - A fully color managed PDF generation library
 - [Eliah-Lakhin/lady-deirdre](https://github.com/Eliah-Lakhin/lady-deirdre) - Compiler front-end foundation technology.
@@ -11758,7 +11787,7 @@
 - [djmuhlestein/fx2lib](https://github.com/djmuhlestein/fx2lib) - Library routines for creating firmware for the Cypress FX2 (CY7C68013 and variants) with SDCC
 - [AlphamaxMedia/usb-mapping](https://github.com/AlphamaxMedia/usb-mapping) - Utility for mapping USB ports to physical device nodes
 - [tdelmas/website](https://github.com/tdelmas/website) - Let's Encrypt Website and Documentation
-- [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Task-parallel Programming System using Modern C++
+- [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Task-parallel Programming System in C++
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [MicrosoftDocs/windows-driver-docs-ddi](https://github.com/MicrosoftDocs/windows-driver-docs-ddi) - The official Windows Driver Kit DDI reference documentation sources
 - [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
@@ -13795,7 +13824,6 @@
 - [rowanj/gitx](https://github.com/rowanj/gitx) - Fork of Pieter's nice git GUI for OS X.  Includes branch/tag sidebar and various fixes. Current development focus is on removing legacy git command line usage in favour of libgit2 and objective-git.
 - [pieter/gitx](https://github.com/pieter/gitx) - A gitk clone for OS X
 - [remirobert/Tempo](https://github.com/remirobert/Tempo) - :watch: Date and time manager for iOS/OSX written in Swift
-- [palant/autoinstaller](https://github.com/palant/autoinstaller) - DEPRECATED: Firefox/SeaMonkey/Thunderbird extension that makes extension development easier: it allows automatically adding or updating browser extensions, e.g. via command line tools.
 - [onevcat/RandomColorSwift](https://github.com/onevcat/RandomColorSwift) - An attractive color generator for Swift. Ported from randomColor.js.
 - [dekatotoro/SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.  It is written in pure swift.
 - [mosen/spirit](https://github.com/mosen/spirit) - A drop in replacement for DeployStudio Server
@@ -13936,7 +13964,6 @@
 - [your-tools/pycp](https://github.com/your-tools/pycp) - cp and mv with a progress bar
 - [bluegraybox/bash_REST](https://github.com/bluegraybox/bash_REST) - Very simple REST services implemented in bash, just for educational purposes
 - [sikuli/sikuli-slides](https://github.com/sikuli/sikuli-slides) - Sikuli-Slides is a visual automation tool that enables users to automate and test Graphical User Interfaces (GUIs) using presentation slides.
-- [RaiMan/SikuliX-2014](https://github.com/RaiMan/SikuliX-2014) - SikuliX version 1.1.2 (until February 2018)
 - [timd/Adaptr](https://github.com/timd/Adaptr) - A quick demonstration of adaptive layouts using size classes, Interface Builder and AutoLayout
 - [ilyabelikin/Design-Patterns-Playground](https://github.com/ilyabelikin/Design-Patterns-Playground) - Swift way to explore OO and functional design patterns
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
@@ -14902,7 +14929,7 @@
 ## productivity 
 
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
-- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
+- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -15037,6 +15064,7 @@
 
 ## python 
 
+- [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [Tokariew/hb_downloader](https://github.com/Tokariew/hb_downloader) - Simple python script to download purchased items from humble bundle
 - [dropbox/stone](https://github.com/dropbox/stone) - The Official API Spec Language for Dropbox API V2
@@ -15259,7 +15287,7 @@
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [DistrictDataLabs/yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
 - [geopandas/geopandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
@@ -15536,7 +15564,6 @@
 - [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) - Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
 - [genodelabs/genode-rpi](https://github.com/genodelabs/genode-rpi) - Raspberry Pi family support for Genode OS framework (migrated to codeberg.org)
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS & firmware collection for retrogaming emulators. RetroArch, Batocera, Recalbox, Lakka, and more. Verified checksums, automated packs, 50+ systems.
 - [cheyao/icepi-zero](https://github.com/cheyao/icepi-zero) - An ECP5 FPGA Dev Board in a Pi Zero form
 - [piecol/CM5_MINIMA_REV1](https://github.com/piecol/CM5_MINIMA_REV1) - CM5 LoRaWAN carrier board in a compact, feature-filled footprint
 - [geerlingguy/time-pi](https://github.com/geerlingguy/time-pi) - Raspberry Pi stratum 1 PTP and NTP timeserver configuration.
@@ -15666,7 +15693,7 @@
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [Walker-TW/Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer) - View Algorithms in the Browser! - Built with ReactJs
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
@@ -15804,7 +15831,7 @@
 - [Vector35/debugger](https://github.com/Vector35/debugger) - Binary Ninja debugger
 - [keystone-engine/keypatch](https://github.com/keystone-engine/keypatch) - Multi-architecture assembler for IDA Pro. Powered by Keystone Engine.
 - [keystone-engine/keystone](https://github.com/keystone-engine/keystone) - Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings
-- [SteamDatabase/SteamAppInfo](https://github.com/SteamDatabase/SteamAppInfo) - Parser for appinfo.vdf and packageinfo.vdf files used by the Steam client
+- [ValveResourceFormat/SteamAppInfo](https://github.com/ValveResourceFormat/SteamAppInfo) - Parser for appinfo.vdf and packageinfo.vdf files used by the Steam client
 - [B2R2-org/B2R2](https://github.com/B2R2-org/B2R2) - B2R2 is a collection of useful algorithms, functions, and tools for binary analysis.
 - [p-x9/MachOKit](https://github.com/p-x9/MachOKit) - 🔬 A Swift library for parsing mach-o files to obtain various information.
 - [Alia5/PiCCANTE](https://github.com/Alia5/PiCCANTE) - PiCCANTE is a powerful tool for exploring and reversing CAN busses of vehicles, based on Raspberry Pi Pico (any model)
@@ -16816,6 +16843,7 @@
 
 ## swift 
 
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [sindresorhus/DSStore](https://github.com/sindresorhus/DSStore) - Parse and write macOS .DS_Store files from Swift
 - [Frizlab/FSEventsWrapper](https://github.com/Frizlab/FSEventsWrapper) - Easily use FSEvents in Swift
 - [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
@@ -17211,7 +17239,7 @@
 - [CombineCommunity/RxCombine](https://github.com/CombineCommunity/RxCombine) - Bi-directional type bridging between RxSwift and Apple's Combine framework
 - [okhanokbay/ExpyTableView](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method.
 - [niw/KeyboardGuide](https://github.com/niw/KeyboardGuide) - A modern, real iOS keyboard system notifications handler framework that Just Works.
-- [SwiftPackageIndex/SwiftPackageIndex-Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server) - The Swift Package Index is the place to find Swift packages!
+- [SwiftPackageIndex/SwiftPackageIndex-Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server) - The Swift Package Index is the place to find and explore Swift packages
 - [mattt/CommonMarkAttributedString](https://github.com/mattt/CommonMarkAttributedString) - Create NSAttributedStrings from Markdown Text
 - [mentalfaculty/LLVS](https://github.com/mentalfaculty/LLVS) - Low-Level Versioned Store
 - [Viktoo/Insert3D](https://github.com/Viktoo/Insert3D) - The fastest 🚀 way to embed a 3D model in Swift
@@ -17290,7 +17318,7 @@
 - [Cosmo/Clippy](https://github.com/Cosmo/Clippy) - Clippy from Microsoft Office is back and runs on macOS! Written in Swift.
 - [yonaskolb/NetworkRequest](https://github.com/yonaskolb/NetworkRequest) - Swift networking library for easily defining, executing, and mocking network requests
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
-- [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList) - The master list of repositories for the Swift Package Index.
+- [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList) - The canonical list of repositories indexed by the Swift Package Index
 - [composed-swift/ComposedUI](https://github.com/composed-swift/ComposedUI) - A Swift framework for building User Interfaces with the Composed framework.
 - [KarthikRIyer/swiftplot](https://github.com/KarthikRIyer/swiftplot) - Swift library for Data Visualization :bar_chart:
 - [vapor/postgres-nio](https://github.com/vapor/postgres-nio) - 🐘 Non-blocking, event-driven Swift client for PostgreSQL.
@@ -17693,6 +17721,7 @@
 
 ## swiftui 
 
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [iOmega8561/VirtualizationKit](https://github.com/iOmega8561/VirtualizationKit) - Powerful - Swift - macOS Virtualization Middleware used by Tesseract for managing virtual machines.
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [protonpass/ios-authenticator](https://github.com/protonpass/ios-authenticator) - iOS client for Proton Authenticator
@@ -17722,6 +17751,7 @@
 - [rechsteiner/Parchment](https://github.com/rechsteiner/Parchment) - A paging view with a highly customizable menu ✨
 - [exyte/ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI
 - [aheze/Setting](https://github.com/aheze/Setting) - Compose beautiful preference panels.
+- [efremidze/VisualEffectView](https://github.com/efremidze/VisualEffectView) - Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱
 - [ChimeHQ/Chime](https://github.com/ChimeHQ/Chime) - An editor for macOS
 - [jwd-ali/Switch-Animations](https://github.com/jwd-ali/Switch-Animations) - An animate switch collection, Add Beautiful Customise Switch in your application to boost UI and UX
 - [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS, macOS & visionOS in Swift. Native SwiftUI & UIKit views.
@@ -18214,7 +18244,7 @@
 - [ephread/ink-language-server](https://github.com/ephread/ink-language-server) - A language server for inkle's Ink.
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [arnog/mathlive](https://github.com/arnog/mathlive) - Web components for math display and input
 - [OpenCircuits/OpenCircuits](https://github.com/OpenCircuits/OpenCircuits) - A free, open source, online digital circuit/logic designer.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -18353,7 +18383,7 @@
 - [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
 - [SeriousCache/UABE](https://github.com/SeriousCache/UABE) - Asset Bundle Extractor. No longer supported. Consider using https://github.com/nesrak1/UABEA
 - [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
-- [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games!
+- [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - The core compiler and engine-agnostic components for Yarn Spinner, the friendly dialogue tool.
 - [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking) - A guide for hacking unity games
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
@@ -18903,6 +18933,7 @@
 
 ## wordpress 
 
+- [sphireinc/Foundry](https://github.com/sphireinc/Foundry) - A Markdown-driven CMS written in Go
 - [splorp/wordpress-comment-blocklist](https://github.com/splorp/wordpress-comment-blocklist) - A simple solution for WordPress comment spam.
 - [roots/wp-password-bcrypt](https://github.com/roots/wp-password-bcrypt) - WordPress plugin to implement secure bcrypt hashed passwords
 - [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, CrowdSec, Google OAuth2/Authelia, and LetsEncrypt. Built with Deployrr and UDMS guides/videos.
@@ -18916,7 +18947,7 @@
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [vinkla/extended-acf](https://github.com/vinkla/extended-acf) - Register advanced custom fields with object-oriented PHP
-- [wpengine/wpackagist](https://github.com/wpengine/wpackagist) - WordPress Packagist — manage your plugins with Composer
+- [wpengine/wpackagist](https://github.com/wpengine/wpackagist) - WPackagist — manage your plugins with Composer
 - [vinkla/wordplate](https://github.com/vinkla/wordplate) - A boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
 - [Jamesits/wp-keybase-verification](https://github.com/Jamesits/wp-keybase-verification) - Keybase.txt (Keybase.io Verification) file for WordPress.
