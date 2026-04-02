@@ -406,6 +406,7 @@
 
 ## ai-agents 
 
+- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
@@ -1361,7 +1362,7 @@
 - [mitcse/CSE-Labs](https://github.com/mitcse/CSE-Labs) - Lab programs and Assignments for MIT CSE dept.
 - [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book) - A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level langu
 - [umanovskis/baremetal-arm](https://github.com/umanovskis/baremetal-arm) - An ebook about bare-metal programming for ARM
-- [t4th/win32-gui-wrapper](https://github.com/t4th/win32-gui-wrapper) - Experimental win32 gui wrapper in C++
+- [adam-orcholski/win32-gui-wrapper](https://github.com/adam-orcholski/win32-gui-wrapper) - Experimental win32 gui wrapper in C++
 - [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 - [marzent/wine-msync](https://github.com/marzent/wine-msync) - A Mach semaphore-based synchronization mechanism for Wine on macOS. Built for speed, inspired by fsync.
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
@@ -1697,6 +1698,7 @@
 
 ## cli 
 
+- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
@@ -2277,7 +2279,7 @@
 - [mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.
 - [ra3xdh/qucsator_rf](https://github.com/ra3xdh/qucsator_rf) - Qucsator-RF is RF circuit simulation kernel for Qucs-S
 - [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
-- [t4th/win32-gui-wrapper](https://github.com/t4th/win32-gui-wrapper) - Experimental win32 gui wrapper in C++
+- [adam-orcholski/win32-gui-wrapper](https://github.com/adam-orcholski/win32-gui-wrapper) - Experimental win32 gui wrapper in C++
 - [dynamixel-community/dynamixel_hardware](https://github.com/dynamixel-community/dynamixel_hardware) - ros2_control packages for ROBOTIS Dynamixel
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
@@ -4636,7 +4638,7 @@
 - [adamsol/GitQuill](https://github.com/adamsol/GitQuill) - Cross-platform GUI for Git. Built with Monaco Editor and Electron.
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
-- [t4th/win32-gui-wrapper](https://github.com/t4th/win32-gui-wrapper) - Experimental win32 gui wrapper in C++
+- [adam-orcholski/win32-gui-wrapper](https://github.com/adam-orcholski/win32-gui-wrapper) - Experimental win32 gui wrapper in C++
 - [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) - Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [atenfyr/UAssetGUI](https://github.com/atenfyr/UAssetGUI) - A tool designed for low-level examination and modification of Unreal Engine game assets by hand.
@@ -7027,6 +7029,7 @@
 
 ## llm 
 
+- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [Dripfarm/SVDB](https://github.com/Dripfarm/SVDB) - Swift Vector Database. On-device, local vector database for building the next-generation of user experiences
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
@@ -7270,6 +7273,7 @@
 
 ## macos 
 
+- [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [sindresorhus/macos-trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash
@@ -8623,6 +8627,8 @@
 
 ## others 
 
+- [jeremyfa/loreline](https://github.com/jeremyfa/loreline) - Open-source scripting language for writing interactive fictions
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - 
 - [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 - [Neguiolidas/Chrome2Fox](https://github.com/Neguiolidas/Chrome2Fox) - 🦊 Install Chrome Web Store extensions directly on Firefox
 - [rderik/rdncat](https://github.com/rderik/rdncat) - A client-server command-line tool created using NWFramework
@@ -16042,6 +16048,8 @@
 
 ## rust 
 
+- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
+- [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded database for serverless and edge runtimes.
@@ -16328,6 +16336,7 @@
 
 ## security 
 
+- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
 - [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) - Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
 - [JakeHertenstein/bastion](https://github.com/JakeHertenstein/bastion) - Account risk tracking, deterministic username generation, and entropy management with 1Password integration.
@@ -16467,6 +16476,7 @@
 
 ## security-tools 
 
+- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
 - [JakeHertenstein/bastion](https://github.com/JakeHertenstein/bastion) - Account risk tracking, deterministic username generation, and entropy management with 1Password integration.
 - [jetify-com/envsec](https://github.com/jetify-com/envsec) - Securely store environment variables and secrets in the cloud of your choice.
