@@ -1486,7 +1486,7 @@
 - [sanni/cartreader](https://github.com/sanni/cartreader) - A shield for the Arduino Mega that can back up video game cartridges.
 - [ra3xdh/qucs_s](https://github.com/ra3xdh/qucs_s) - Qucs-S is a circuit simulation program with Qt-based GUI
 - [azonenberg/microkvs](https://github.com/azonenberg/microkvs) - Tiny key-value store for persisting configuration data on microcontrollers
-- [t4th/win32-gui-wrapper](https://github.com/t4th/win32-gui-wrapper) - Experimental win32 gui wrapper in C++
+- [adam-orcholski/win32-gui-wrapper](https://github.com/adam-orcholski/win32-gui-wrapper) - Experimental win32 gui wrapper in C++
 - [mike42/65816-computer](https://github.com/mike42/65816-computer) - A 65C816-based homebrew computer (prototype)
 - [FrancescoRigoni/Lib65816_Sample](https://github.com/FrancescoRigoni/Lib65816_Sample) - Sample application using the Lib65816 emulator library
 - [jpakkane/capypdf](https://github.com/jpakkane/capypdf) - A fully color managed PDF generation library
@@ -2563,6 +2563,7 @@
 
 ## Go 
 
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [sphireinc/Foundry](https://github.com/sphireinc/Foundry) - A Markdown-driven CMS written in Go
 - [basecamp/thruster](https://github.com/basecamp/thruster) - 
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
@@ -2866,7 +2867,7 @@
 - [liamg/shox](https://github.com/liamg/shox) - 🍫 A customisable, universally compatible terminal status bar
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [avast/apkverifier](https://github.com/avast/apkverifier) - APK Signature verification in Go. Supports scheme v1, v2 and v3 and passes Google apksig's testing suite.
-- [absmach/supermq](https://github.com/absmach/supermq) - Event-driven Infrastructure for Modern Cloud
+- [absmach/supermq](https://github.com/absmach/supermq) - IoT Platform Framework
 - [usbarmory/tamago-example](https://github.com/usbarmory/tamago-example) - TamaGo - example application
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
@@ -3526,6 +3527,7 @@
 
 ## Haxe 
 
+- [jeremyfa/loreline](https://github.com/jeremyfa/loreline) - Open-source scripting language for writing interactive fictions
 - [analgesicproductions/Even-The-Ocean-Open-Source](https://github.com/analgesicproductions/Even-The-Ocean-Open-Source) - 99%-Open Source code of Even the Ocean, a 2016 PC game.
 - [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
 - [watabou/RuneGeneratorOS](https://github.com/watabou/RuneGeneratorOS) - Simple rune generator
@@ -8073,6 +8075,8 @@
 
 ## Rust 
 
+- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
+- [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [heil-hydrant/zxc](https://github.com/heil-hydrant/zxc) - Terminal based intercepting proxy written in rust with tmux and vim as user interface.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
@@ -8112,7 +8116,6 @@
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [rezigned/tur](https://github.com/rezigned/tur) - Tur - A language for defining and executing Turing machines, complete with parser, interpreter, and multi-platform visualization tools.
 - [nginx/ngx-rust](https://github.com/nginx/ngx-rust) - Rust binding for NGINX
-- [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - 
 - [richardscollin/tmux-rs](https://github.com/richardscollin/tmux-rs) - A Rust port of tmux
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -9077,7 +9080,7 @@
 - [WireGuard/wireguard-apple](https://github.com/WireGuard/wireguard-apple) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-apple
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
 - [sindresorhus/LaunchAtLogin-Modern](https://github.com/sindresorhus/LaunchAtLogin-Modern) - Add “Launch at Login” functionality to your macOS app in seconds
-- [gohanlon/swift-memberwise-init-macro](https://github.com/gohanlon/swift-memberwise-init-macro) - Swift Macro for enhanced automatic inits.
+- [gohanlon/swift-memberwise-init-macro](https://github.com/gohanlon/swift-memberwise-init-macro) - Swift Macro for memberwise initializers at any access level, with default values and compile-time safety.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [LordLobo/WebPark](https://github.com/LordLobo/WebPark) - 
@@ -10680,6 +10683,7 @@
 
 ## TypeScript 
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [lukeslp/orrery](https://github.com/lukeslp/orrery) - From Earth to the Oort Cloud. 41,000 stars, 88 constellations, real data, mostly live. Fake scales.
 - [elgatosf/streamdeck-plugin-samples](https://github.com/elgatosf/streamdeck-plugin-samples) - Sample code illustrating the Stream Deck SDK.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
