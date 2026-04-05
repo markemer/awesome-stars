@@ -97,6 +97,7 @@
 - [english](#english)
 - [es6](#es6)
 - [eslint](#eslint)
+- [esp32](#esp32)
 - [ethereum](#ethereum)
 - [express](#express)
 - [facebook](#facebook)
@@ -475,6 +476,7 @@
 
 ## android 
 
+- [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [realm/realm-kotlin](https://github.com/realm/realm-kotlin) - Kotlin Multiplatform and Android SDK for the Realm Mobile Database: Build Better Apps Faster.
@@ -601,6 +603,7 @@
 
 ## api 
 
+- [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
 - [dropbox/stone](https://github.com/dropbox/stone) - The Official API Spec Language for Dropbox API V2
 - [micromdm/apple-device-services](https://github.com/micromdm/apple-device-services) - API schema definitions for Apple's various device management web services.
 - [unfoldedcircle/core-api](https://github.com/unfoldedcircle/core-api) - API specifications for Remote Two/3 by Unfolded Circle
@@ -674,6 +677,7 @@
 
 ## arduino 
 
+- [akshaybaweja/Smart-IC-Tester](https://github.com/akshaybaweja/Smart-IC-Tester) - 
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [sanni/cartreader](https://github.com/sanni/cartreader) - A shield for the Arduino Mega that can back up video game cartridges.
 - [wagiminator/ATmega-EEPROM-Programmer](https://github.com/wagiminator/ATmega-EEPROM-Programmer) - Parallel EEPROM Programmer for 28C64B and 28C256
@@ -1952,7 +1956,9 @@
 
 ## cms 
 
-- [sphireinc/Foundry](https://github.com/sphireinc/Foundry) - A Markdown-driven CMS written in Go
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
+- [sphireinc/Foundry](https://github.com/sphireinc/Foundry) - A Markdown-first CMS written in Go with themes, plugins, and an integrated admin UI
 - [ExpressionEngine/ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine) - ExpressionEngine is a flexible, feature-rich, free open-source content management platform that empowers hundreds of thousands of individuals and organizations around the world to easily manage their 
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -2266,6 +2272,7 @@
 
 ## cpp 
 
+- [akshaybaweja/Smart-IC-Tester](https://github.com/akshaybaweja/Smart-IC-Tester) - 
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [genodelabs/genode-rpi](https://github.com/genodelabs/genode-rpi) - Raspberry Pi family support for Genode OS framework (migrated to codeberg.org)
@@ -3043,7 +3050,7 @@
 - [p-org/P](https://github.com/p-org/P) - The P programming language.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL
 - [adilkhash/Data-Engineering-HowTo](https://github.com/adilkhash/Data-Engineering-HowTo) - A list of useful resources to learn Data Engineering from scratch
-- [absmach/supermq](https://github.com/absmach/supermq) - Event-driven Infrastructure for Modern Cloud
+- [absmach/supermq](https://github.com/absmach/supermq) - IoT Platform Framework
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [sandglass/sandglass](https://github.com/sandglass/sandglass) - Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.
@@ -3078,6 +3085,7 @@
 
 ## docker 
 
+- [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
 - [games-on-whales/gow](https://github.com/games-on-whales/gow) - A collection of Dockerized games and apps like Steam, Firefox and Retroarch
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
@@ -3530,6 +3538,23 @@
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [ericalli/static-site-boilerplate](https://github.com/ericalli/static-site-boilerplate) - A better workflow for building modern static websites.
 - [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
+
+## esp32 
+
+- [ImplFerris/esp32-book](https://github.com/ImplFerris/esp32-book) - Embedded Programming with ESP32 and Rust
+- [esp-rs/book](https://github.com/esp-rs/book) - The Rust on ESP Book
+- [whitecatboard/Lua-RTOS-ESP32](https://github.com/whitecatboard/Lua-RTOS-ESP32) - Lua RTOS for ESP32
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
+- [cpq/mdk](https://github.com/cpq/mdk) - A bare metal SDK for the ESP32 & ESP32C3
+- [OMOTE-Community/OMOTE-Firmware](https://github.com/OMOTE-Community/OMOTE-Firmware) - Open Source Remote - Firmware
+- [Jana-Marie/trainlog](https://github.com/Jana-Marie/trainlog) - simple position and movement tracker/logger.
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
+- [htruong/zenreader](https://github.com/htruong/zenreader) - Makes your M5Paper an E-ink RSS Reader with built-in Reader mode, to solve annoyances with the Kindle Experimental browser.
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - Lua based interactive firmware for ESP8266, ESP8285 and ESP32
+- [REDasmOrg/REDasm](https://github.com/REDasmOrg/REDasm) - The OpenSource Disassembler
 
 ## ethereum 
 
@@ -4134,6 +4159,7 @@
 
 ## go 
 
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
@@ -4436,7 +4462,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [cornelk/goscrape](https://github.com/cornelk/goscrape) - Web scraper that can create an offline readable version of a website
-- [absmach/supermq](https://github.com/absmach/supermq) - Event-driven Infrastructure for Modern Cloud
+- [absmach/supermq](https://github.com/absmach/supermq) - IoT Platform Framework
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [craigmulligan/sandy](https://github.com/craigmulligan/sandy) - A tiny "sandbox" to run untrusted code 🏖️
@@ -4711,6 +4737,7 @@
 
 ## hacktoberfest 
 
+- [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
@@ -5143,6 +5170,7 @@
 
 ## homebrew 
 
+- [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [denis-g/steam-deck-optimization-guide](https://github.com/denis-g/steam-deck-optimization-guide) - 🎮  This guide contains descriptions of settings and utilities for safely improving the performance, and useful information for advanced Steam Deck users. All settings supported LCD and OLED versions.
 - [Homebrew/ruby-macho](https://github.com/Homebrew/ruby-macho) - 🔩 A pure-Ruby library for parsing Mach-O files.
 - [geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac) - Collection of macOS automation tools for Ansible.
@@ -5695,6 +5723,7 @@
 - [alexandercerutti/passkit-generator](https://github.com/alexandercerutti/passkit-generator) - The easiest way to generate custom Apple Wallet passes in Node.js
 - [a2/shortcuts-swift](https://github.com/a2/shortcuts-swift) - Write Shortcuts in Playgrounds
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+- [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) - An xcodebuild formatter
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [sunshinejr/SwiftyUserDefaults](https://github.com/sunshinejr/SwiftyUserDefaults) - Modern Swift API for NSUserDefaults
 - [objectbox/objectbox-swift](https://github.com/objectbox/objectbox-swift) - Swift database - fast, simple and lightweight (iOS, macOS)
@@ -5972,7 +6001,7 @@
 - [PureSwift/GATT](https://github.com/PureSwift/GATT) - Bluetooth Generic Attribute Profile (GATT) for Swift
 - [kamailio/kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [absmach/supermq](https://github.com/absmach/supermq) - Event-driven Infrastructure for Modern Cloud
+- [absmach/supermq](https://github.com/absmach/supermq) - IoT Platform Framework
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [renode/renode](https://github.com/renode/renode) - Renode - Antmicro's open source simulation and virtual development framework for complex embedded systems
 - [PureSwift/BluetoothLinux](https://github.com/PureSwift/BluetoothLinux) - Pure Swift Linux Bluetooth Stack
@@ -6574,6 +6603,7 @@
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
@@ -6811,6 +6841,7 @@
 
 ## linux 
 
+- [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [mroboff/vm-curator](https://github.com/mroboff/vm-curator) - vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines for desktop use with working 3D acceleration (para-virtualized and pass-through.)
@@ -7275,6 +7306,7 @@
 
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
+- [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [sindresorhus/macos-trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash
 - [sindresorhus/DSStore](https://github.com/sindresorhus/DSStore) - Parse and write macOS .DS_Store files from Swift
@@ -7731,7 +7763,7 @@
 
 ## markdown 
 
-- [sphireinc/Foundry](https://github.com/sphireinc/Foundry) - A Markdown-driven CMS written in Go
+- [sphireinc/Foundry](https://github.com/sphireinc/Foundry) - A Markdown-first CMS written in Go with themes, plugins, and an integrated admin UI
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [avo-hq/marksmith](https://github.com/avo-hq/marksmith) - GitHub-style markdown editor for Ruby and Rails
@@ -7859,6 +7891,7 @@
 
 ## mcp 
 
+- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) - The official Swift SDK for Model Context Protocol servers and clients.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
@@ -8312,7 +8345,6 @@
 - [leptos-null/ClassDumpRuntime](https://github.com/leptos-null/ClassDumpRuntime) - Library to parse Objective-C classes at runtime
 - [apache/cordova-cli](https://github.com/apache/cordova-cli) - Apache Cordova CLI
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
-- [googlemaps-samples/maps-sdk-for-ios-samples](https://github.com/googlemaps-samples/maps-sdk-for-ios-samples) - Samples for the Google Maps and Places SDKs for iOS
 - [googlemaps/google-maps-ios-utils](https://github.com/googlemaps/google-maps-ios-utils) - Google Maps SDK for iOS Utility Library
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [efremidze/Animoji](https://github.com/efremidze/Animoji) - Animoji Generator 🦊
@@ -8627,13 +8659,14 @@
 
 ## others 
 
+- [cmc-labo/tinyos-rtos](https://github.com/cmc-labo/tinyos-rtos) - 
+- [moozzyk/MiniproUI](https://github.com/moozzyk/MiniproUI) - 
+- [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) - A pastebin for Tailscale users
 - [jeremyfa/loreline](https://github.com/jeremyfa/loreline) - Open-source scripting language for writing interactive fictions
-- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - 
 - [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 - [Neguiolidas/Chrome2Fox](https://github.com/Neguiolidas/Chrome2Fox) - 🦊 Install Chrome Web Store extensions directly on Firefox
 - [rderik/rdncat](https://github.com/rderik/rdncat) - A client-server command-line tool created using NWFramework
 - [elgatosf/streamdeck-plugin-samples](https://github.com/elgatosf/streamdeck-plugin-samples) - Sample code illustrating the Stream Deck SDK.
-- [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [mikhailmaslo/macro-codable-kit](https://github.com/mikhailmaslo/macro-codable-kit) - Efficient, flexible Codable with Swift Macros
 - [wegank/nixos-config](https://github.com/wegank/nixos-config) - NixOS configuration
@@ -8776,7 +8809,7 @@
 - [e18e/action-dependency-diff](https://github.com/e18e/action-dependency-diff) - A GitHub action to report dependency changes and potential problems
 - [franko/luajit-lang-toolkit](https://github.com/franko/luajit-lang-toolkit) - A Lua bytecode compiler written in Lua itself for didactic purposes or for new language implementations
 - [j-suey/bl4_save_editor](https://github.com/j-suey/bl4_save_editor) - A lightweight, Python-based save editor for BL4. Export saves to YAML, edit values, and write them back safely. No EXEs included — run it your way.
-- [es-tooling/module-replacements](https://github.com/es-tooling/module-replacements) - A manifest of JS modules and their more modern/active replacements
+- [e18e/module-replacements](https://github.com/e18e/module-replacements) - A manifest of JS modules and their more modern/active replacements
 - [e18e/e18e](https://github.com/e18e/e18e) - 
 - [joysofcode/svelte-deck](https://github.com/joysofcode/svelte-deck) - 🪄 Create beautiful presentations with Svelte
 - [kvark/mint](https://github.com/kvark/mint) - Math Interoperability Types
@@ -9058,7 +9091,6 @@
 - [gurugio/book_assembly_8086](https://github.com/gurugio/book_assembly_8086) - Learn 16bit x86 Assembly with emulator
 - [atmelcorp/atmel-software-package](https://github.com/atmelcorp/atmel-software-package) - Atmel Software Package
 - [fcayci/stm32f4-bare-metal](https://github.com/fcayci/stm32f4-bare-metal) - Bare metal STM32F4 examples for various modules
-- [cpq/mdk](https://github.com/cpq/mdk) - A bare metal SDK for the ESP32 & ESP32C3
 - [PacktPublishing/Dynamic-Story-Scripting-with-the-ink-Scripting-Language](https://github.com/PacktPublishing/Dynamic-Story-Scripting-with-the-ink-Scripting-Language) - Dynamic Story Scripting with Ink Scripting Language, published by Packt
 - [smwhr/tinta](https://github.com/smwhr/tinta) - Lua port of inkle's ink, a scripting language for writing interactive narrative
 - [ethomson/issue-dashboard](https://github.com/ethomson/issue-dashboard) - A customizable dashboard for GitHub issues and pull requests, using GitHub Pages and GitHub Actions
@@ -9483,7 +9515,6 @@
 - [gobby/libinfinity](https://github.com/gobby/libinfinity) - libinfinity collaborative editing library
 - [PassiveLogic/differentiable-swift-examples](https://github.com/PassiveLogic/differentiable-swift-examples) - Examples and documentation for the experimental differentiable Swift language feature
 - [prusa3d/libbgcode](https://github.com/prusa3d/libbgcode) - Prusa Block & Binary G-code reader / writer / converter
-- [OMOTE-Community/OMOTE-Firmware](https://github.com/OMOTE-Community/OMOTE-Firmware) - Open Source Remote - Firmware
 - [open-sdr/openofdm](https://github.com/open-sdr/openofdm) - Sythesizable, modular Verilog implementation of 802.11 OFDM decoder.
 - [GENIVI/CANdevStudio](https://github.com/GENIVI/CANdevStudio) - Development tool for CAN bus simulation
 - [osandov/drgn](https://github.com/osandov/drgn) - Programmable debugger
@@ -9585,7 +9616,6 @@
 - [tiffany352/rink-rs](https://github.com/tiffany352/rink-rs) - Unit conversion tool and library written in rust
 - [mafleming/HP48RamCard](https://github.com/mafleming/HP48RamCard) - Schematics and Gerbers for a 128K RAM card
 - [eliben/wasm-wat-samples](https://github.com/eliben/wasm-wat-samples) - Samples of WebAssembly Text programs
-- [Jana-Marie/trainlog](https://github.com/Jana-Marie/trainlog) - simple position and movement tracker/logger.
 - [DougGregor/swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
 - [iains/gcc-13-branch](https://github.com/iains/gcc-13-branch) - GCC 13 for Darwin with experimental Arm64 support.  Current release 13.4-darwin-r0 [June 2025]
 - [Blizzard/s2client-api](https://github.com/Blizzard/s2client-api) - StarCraft II Client - C++ library supported on Windows, Linux and Mac designed for building scripted bots and research using the SC2API.
@@ -9650,6 +9680,7 @@
 - [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools) - CLI and Rust libraries for low-level manipulation of WebAssembly modules
 - [mohammed90/caddy-ngrok-listener](https://github.com/mohammed90/caddy-ngrok-listener) - Caddy listener_wrapper to automatically listen on an ngrok tunnel
 - [TypeCellOS/TypeCell](https://github.com/TypeCellOS/TypeCell) - 
+- [googlemaps-samples/maps-sdk-for-ios-samples](https://github.com/googlemaps-samples/maps-sdk-for-ios-samples) - Samples for the Google Maps and Places SDKs for iOS
 - [ammaraskar/sphinx-action](https://github.com/ammaraskar/sphinx-action) - Github action that builds docs using sphinx and places errors inline
 - [tailscale/libtailscale](https://github.com/tailscale/libtailscale) - Tailscale C library
 - [fwdcloudsec/granted-containers](https://github.com/fwdcloudsec/granted-containers) - Firefox containers extension for Granted
@@ -10039,7 +10070,7 @@
 - [valvers/arm-tutorial-rpi](https://github.com/valvers/arm-tutorial-rpi) - Raspberry-Pi Bare Metal Tutorial
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 - [dtolnay/ryu](https://github.com/dtolnay/ryu) - Fast floating point to string conversion
-- [JuliaLang/juliaup](https://github.com/JuliaLang/juliaup) - Julia installer and version multiplexer
+- [JuliaLang/juliaup](https://github.com/JuliaLang/juliaup) - Julia installer and version manager
 - [mitre/hse-mwi](https://github.com/mitre/hse-mwi) - The Mental Wellness Index is a framework and dashboard tool that provides a picture of community-level mental wellness for each zip code in the nation
 - [raspberrypi/pico-examples](https://github.com/raspberrypi/pico-examples) - 
 - [saagarjha/unxip](https://github.com/saagarjha/unxip) - A fast Xcode unarchiver
@@ -10401,7 +10432,6 @@
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [standardnotes/syncing-server](https://github.com/standardnotes/syncing-server) - [Deprecated: Use our new Node server: https://github.com/standardnotes/syncing-server-js]
 - [Infineon/personalize-optiga-trust](https://github.com/Infineon/personalize-optiga-trust) - OPTIGA™ Trust personalization application note
-- [htruong/zenreader](https://github.com/htruong/zenreader) - Makes your M5Paper an E-ink RSS Reader with built-in Reader mode, to solve annoyances with the Kindle Experimental browser.
 - [parallaxinc/propeller](https://github.com/parallaxinc/propeller) - Propeller P1 & P2 multicore microcontroller development resources and example code.  See https://propeller.parallax.com for more.
 - [washingtonpost/data-school-shootings](https://github.com/washingtonpost/data-school-shootings) - The Washington Post is compiling a database of school shootings in the United States since Columbine.
 - [washingtonpost/data-police-shootings](https://github.com/washingtonpost/data-police-shootings) - The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since 2015.
@@ -13872,6 +13902,7 @@
 - [jquave/EasyCast](https://github.com/jquave/EasyCast) - Makes math operations in Swift easier by adding automatic casting between Int, Float, CGFloat, and Double. Use with care.
 - [linkedin/Hakawai](https://github.com/linkedin/Hakawai) - A powerful, extensible UITextView.
 - [djalmaaraujo/gravatar-image](https://github.com/djalmaaraujo/gravatar-image) - Web Component wrapper for Gravatar using Polymer
+- [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [webcomponents/xtag-boilerplate](https://github.com/webcomponents/xtag-boilerplate) - Fork this repo if you want to start your own Web Component using X-Tag
 - [webcomponents/element-boilerplate](https://github.com/webcomponents/element-boilerplate) - Fork this repo if you want to start your own Web Component using VanillaJS
 - [webcomponents/polymer-boilerplate](https://github.com/webcomponents/polymer-boilerplate) - Fork this repo if you want to start your own Web Component using Polymer
@@ -16493,6 +16524,7 @@
 
 ## self-hosted 
 
+- [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
@@ -16919,7 +16951,7 @@
 - [danielsaidi/OnboardingKit](https://github.com/danielsaidi/OnboardingKit) - Create amazing onboarding experiences in SwiftUI.
 - [AladinWay/TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation.
 - [sindresorhus/LaunchAtLogin-Modern](https://github.com/sindresorhus/LaunchAtLogin-Modern) - Add “Launch at Login” functionality to your macOS app in seconds
-- [gohanlon/swift-memberwise-init-macro](https://github.com/gohanlon/swift-memberwise-init-macro) - Swift Macro for enhanced automatic inits.
+- [gohanlon/swift-memberwise-init-macro](https://github.com/gohanlon/swift-memberwise-init-macro) - Swift Macro for memberwise initializers at any access level, with default values and compile-time safety.
 - [swiftlang/vscode-swift](https://github.com/swiftlang/vscode-swift) - Visual Studio Code Extension for Swift
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -16961,7 +16993,6 @@
 - [Ekhoo/Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 - [swiftlang/swiftly](https://github.com/swiftlang/swiftly) - A Swift toolchain installer and manager, written in Swift.
 - [heestand-xyz/AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) - Edit images and video with Swift concurrency, powered by Metal.
-- [googlemaps-samples/maps-sdk-for-ios-samples](https://github.com/googlemaps-samples/maps-sdk-for-ios-samples) - Samples for the Google Maps and Places SDKs for iOS
 - [jessesquires/Foil](https://github.com/jessesquires/Foil) - A lightweight property wrapper for UserDefaults done right
 - [apple/swift-certificates](https://github.com/apple/swift-certificates) - An implementation of X.509 for Swift
 - [apple/swift-asn1](https://github.com/apple/swift-asn1) - An implementation of ASN.1 for Swift
@@ -18196,6 +18227,7 @@
 
 ## typescript 
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [lukeslp/orrery](https://github.com/lukeslp/orrery) - From Earth to the Oort Cloud. 41,000 stars, 88 constellations, real data, mostly live. Fake scales.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -18755,7 +18787,6 @@
 
 - [MarketingPipeline/Markdown-Tag](https://github.com/MarketingPipeline/Markdown-Tag) - Render Markdown to HTML on any website using a md tag
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 
 ## web-development 
 
@@ -18943,7 +18974,7 @@
 
 ## wordpress 
 
-- [sphireinc/Foundry](https://github.com/sphireinc/Foundry) - A Markdown-driven CMS written in Go
+- [sphireinc/Foundry](https://github.com/sphireinc/Foundry) - A Markdown-first CMS written in Go with themes, plugins, and an integrated admin UI
 - [splorp/wordpress-comment-blocklist](https://github.com/splorp/wordpress-comment-blocklist) - A simple solution for WordPress comment spam.
 - [roots/wp-password-bcrypt](https://github.com/roots/wp-password-bcrypt) - WordPress plugin to implement secure bcrypt hashed passwords
 - [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, CrowdSec, Google OAuth2/Authelia, and LetsEncrypt. Built with Deployrr and UDMS guides/videos.
@@ -19180,6 +19211,7 @@
 
 ## zig 
 
+- [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
