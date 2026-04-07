@@ -2435,7 +2435,6 @@
 ## Dockerfile 
 
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
-- [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Asahi Linux documentation
 - [mingchen/docker-android-build-box](https://github.com/mingchen/docker-android-build-box) - An optimized docker image includes Android, Kotlin, Flutter sdk.
 - [blacktop/docker-ghidra](https://github.com/blacktop/docker-ghidra) - Ghidra Client/Server Docker Image
@@ -2614,6 +2613,7 @@
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
+- [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) - Reference implementation of OpenPubkey
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
 - [znscli/zns](https://github.com/znscli/zns) - CLI tool for querying DNS records with readable, colored output.
@@ -2874,7 +2874,7 @@
 - [liamg/shox](https://github.com/liamg/shox) - 🍫 A customisable, universally compatible terminal status bar
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [avast/apkverifier](https://github.com/avast/apkverifier) - APK Signature verification in Go. Supports scheme v1, v2 and v3 and passes Google apksig's testing suite.
-- [absmach/supermq](https://github.com/absmach/supermq) - IoT Platform Framework
+- [absmach/magistrala](https://github.com/absmach/magistrala) - IoT Platform Framework
 - [usbarmory/tamago-example](https://github.com/usbarmory/tamago-example) - TamaGo - example application
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
@@ -6366,7 +6366,7 @@
 - [nilovelez/machete](https://github.com/nilovelez/machete) - Machete is a simple suite of tools that solve common WordPress annoyances using as few resources as posible. Machete doesn't cover every single user case, but there is a huge amount of sites that woul
 - [luehrsenheinrich/wpm-citations](https://github.com/luehrsenheinrich/wpm-citations) - This WordPress Plugin introduces advanced citation capabilities to the WordPress Block Editor.
 - [lumumbapl/footnotes-made-easy](https://github.com/lumumbapl/footnotes-made-easy) - A WordPress plugin that allows post authors to easily add and manage footnotes in posts and pages.
-- [BinaryMoon/wp-toolbelt](https://github.com/BinaryMoon/wp-toolbelt) - A lightweight, multi-purpose, WordPress plugin with a focus on privacy and speed
+- [CoolPluginsTeam/wp-toolbelt](https://github.com/CoolPluginsTeam/wp-toolbelt) - A lightweight, multi-purpose, WordPress plugin with a focus on privacy and speed
 - [ExpressionEngine/ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine) - ExpressionEngine is a flexible, feature-rich, free open-source content management platform that empowers hundreds of thousands of individuals and organizations around the world to easily manage their 
 - [Automattic/jetpack](https://github.com/Automattic/jetpack) - Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
 - [aws-samples/aws-refarch-wordpress](https://github.com/aws-samples/aws-refarch-wordpress) - This reference architecture provides best practices and a set of YAML CloudFormation templates for deploying WordPress on AWS.
@@ -7692,7 +7692,7 @@
 ## Ruby 
 
 - [csquared/IMGKit](https://github.com/csquared/IMGKit) - Uses wkhtmltoimage to create JPGs and PNGs from HTML
-- [joelhawksley/timeframe](https://github.com/joelhawksley/timeframe) - An e-paper calendar, weather, and smart home family dashboard
+- [timeframe/timeframe](https://github.com/timeframe/timeframe) - An e-paper calendar, weather, and smart home family dashboard
 - [OpenSUSI/TR-1um](https://github.com/OpenSUSI/TR-1um) - 
 - [contraptionco/postcard](https://github.com/contraptionco/postcard) - Personal website + newsletter as an alternative to social media.
 - [ViewComponent/view_component](https://github.com/ViewComponent/view_component) - A framework for building reusable, testable & encapsulated view components in Ruby on Rails.
