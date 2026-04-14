@@ -88,6 +88,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Meson](#meson)
+- [Modula-2](#modula-2)
 - [Mustache](#mustache)
 - [NSIS](#nsis)
 - [Nim](#nim)
@@ -1419,6 +1420,7 @@
 
 ## C++ 
 
+- [rochus-keller/ActiveOberon](https://github.com/rochus-keller/ActiveOberon) - Parser and code browser for the ActiveOberon language (original version from 2004)
 - [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based 
 - [Gemini2350/ptp-wallclock](https://github.com/Gemini2350/ptp-wallclock) - This is a simple Wallclock for Raspberry Pi with a LED Display
@@ -4934,6 +4936,10 @@
 
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
+## Modula-2 
+
+- [rochus-keller/OberonSystem3Native](https://github.com/rochus-keller/OberonSystem3Native) - This is a version based on v2.3.7 supposed to eventually run natively on PC i386, Raspi Model 3b and Olimex ESP32-P4-PC, using existing bootloaders instead of Oberon0
+
 ## Mustache 
 
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
@@ -6597,6 +6603,7 @@
 - [agg111/nova](https://github.com/agg111/nova) - Real time file locking
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [learn-llvm/awesome-llvm](https://github.com/learn-llvm/awesome-llvm) - A curated list of awesome LLVM (including Clang, etc) related resources.
+- [keith/xcode-man-pages](https://github.com/keith/xcode-man-pages) - A HTML export of Xcode's man pages
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
 - [j-suey/bl4_save_editor](https://github.com/j-suey/bl4_save_editor) - A lightweight, Python-based save editor for BL4. Export saves to YAML, edit values, and write them back safely. No EXEs included — run it your way.
 - [keystone-engine/keypatch](https://github.com/keystone-engine/keypatch) - Multi-architecture assembler for IDA Pro. Powered by Keystone Engine.
@@ -8606,7 +8613,6 @@
 - [nguyen-v/KDT_Hierarchical_KiBot](https://github.com/nguyen-v/KDT_Hierarchical_KiBot) - Professional, automated workflow template for KiCad. This template uses KiBot in a CI/CD environment to automate fabrication and assembly document generation.
 - [unfoldedcircle/core-api](https://github.com/unfoldedcircle/core-api) - API specifications for Remote Two/3 by Unfolded Circle
 - [BGforgeNet/Fallout2-HQ-music](https://github.com/BGforgeNet/Fallout2-HQ-music) - HQ music for Fallout 1 and 2
-- [keith/xcode-man-pages](https://github.com/keith/xcode-man-pages) - A HTML export of Xcode's man pages
 - [andredestro/cordova-zsh-plugin](https://github.com/andredestro/cordova-zsh-plugin) - A lightweight oh-my-zsh plugin that adds git-style aliases for Apache Cordova commands.
 - [essandess/macOS-Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile
 - [typst-community/typst-package-template](https://github.com/typst-community/typst-package-template) - A template to start your Typst package repositories from
@@ -8729,7 +8735,7 @@
 - [sii/sipcalc](https://github.com/sii/sipcalc) - Sipcalc is an advanced ip calculator supporting both IPv4 and IPv6.
 - [NSHipster/uti](https://github.com/NSHipster/uti) - A command-line utility that prints the Uniform Type Identifier for files.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere.
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere, any way you like it.
 - [DataDog/yubikey](https://github.com/DataDog/yubikey) - ## Auto-archived due to inactivity. ## YubiKey at Datadog
 - [f4pga/prjxray-db](https://github.com/f4pga/prjxray-db) - Project X-Ray Database: XC7 Series
 - [cooljeanius/macportsscripts](https://github.com/cooljeanius/macportsscripts) - Various little scripts for MacPorts. Forked to add more stuff to it and stuff.
@@ -10707,7 +10713,7 @@
 - [adamws/kle-ng](https://github.com/adamws/kle-ng) - Reimplementation of the Keyboard Layout Editor
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [kewonit/aeris](https://github.com/kewonit/aeris) - Aeris is a real-time 3D flight radar for the web
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
 - [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
 - [charles-m-knox/firefox-containers-helper](https://github.com/charles-m-knox/firefox-containers-helper) - Firefox multi-account containers are for power users. So is this. Adds bulk container interactivity features missing from the Mozilla Multi-Account Containers extension.
 - [rharel/webext-private-bookmarks](https://github.com/rharel/webext-private-bookmarks) - WebExtension that enables a special password-protected bookmark folder.
