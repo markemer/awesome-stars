@@ -216,7 +216,6 @@
 
 ## Assembly 
 
-- [TechPaula/LT6502](https://github.com/TechPaula/LT6502) - A 6502 based laptop design
 - [microsoft/BASIC-M6502](https://github.com/microsoft/BASIC-M6502) - Microsoft BASIC for 6502 Microprocessor - Version 1.1
 - [Speccery/StrangeCart-Doc](https://github.com/Speccery/StrangeCart-Doc) - StrangeCart project public documentation
 - [AndersBNielsen/65uino](https://github.com/AndersBNielsen/65uino) - 6502 learning platform in a familiar form factor
@@ -516,6 +515,7 @@
 - [picolibc/picolibc](https://github.com/picolibc/picolibc) - picolibc - a C library designed for embedded 32- and 64- bit systems.
 - [suarezvictor/CflexHDL](https://github.com/suarezvictor/CflexHDL) - Design digital circuits in C. Simulate really fast with a regular compiler.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [xyphro/UsbGpib](https://github.com/xyphro/UsbGpib) - Versatile, cheap and portable USB to GPIB converter (USBTMC class based)
 - [juckettd/RaspberryPiCM4Handheld7Inch](https://github.com/juckettd/RaspberryPiCM4Handheld7Inch) - A single source for all of the information around my Raspberry Pi CM4 7" Handheld
 - [myriadrf/LimeSuite](https://github.com/myriadrf/LimeSuite) - Driver and GUI for LMS7002M-based SDR platforms
 - [danzeeeman/ofxMH871](https://github.com/danzeeeman/ofxMH871) - WIP openFrameworks addon to drive the US Cutter MH871 MKII and similar HPGL serial plotters
@@ -561,7 +561,6 @@
 - [QuickLogic-Corp/qorc-sdk](https://github.com/QuickLogic-Corp/qorc-sdk) - Open source FreeRTOS SDK for EOS S3 MCU+eFPGA SoC including gateware, software and documentation under QuickLogic Open Reconfigurable Computing (QORC) Initiative
 - [profburke/luablink](https://github.com/profburke/luablink) - Control your blink(1) from Lua.
 - [MaxDesiatov/Hleeb](https://github.com/MaxDesiatov/Hleeb) - Swift running on bare metal Raspberry Pi
-- [horsicq/PDBRipper](https://github.com/horsicq/PDBRipper) - PDBRipper is a utility for extract an information from PDB-files.
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040/RP2350).
 - [valvers/arm-tutorial-rpi](https://github.com/valvers/arm-tutorial-rpi) - Raspberry-Pi Bare Metal Tutorial
@@ -1644,6 +1643,7 @@
 - [WerWolv/libsteam](https://github.com/WerWolv/libsteam) - Simple C++ library to interact with Steam client file formats and the Steam Deck
 - [SpacehuhnTech/SimpleCLI](https://github.com/SpacehuhnTech/SimpleCLI) - Command Line Interface Library for Arduino
 - [tursilion/convert9918](https://github.com/tursilion/convert9918) - Converter for the TMS9918A's bitmap mode, and F18A enhanced bitmap modes.
+- [horsicq/PDBRipper](https://github.com/horsicq/PDBRipper) - PDBRipper is a utility for extract an information from PDB-files.
 - [mn416/QPULib](https://github.com/mn416/QPULib) - Language and compiler for the Raspberry Pi GPU
 - [fredemmott/StreamDeck-CPPSDK](https://github.com/fredemmott/StreamDeck-CPPSDK) - A fork of Elgato's C++ StreamDeck SDK, focussing on reusability
 - [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
@@ -3311,7 +3311,6 @@
 - [luigimannoni/stadia-controller-flasher](https://github.com/luigimannoni/stadia-controller-flasher) - Utility for flashing Stadia Controllers
 - [solderparty/bbq20kbd_hw](https://github.com/solderparty/bbq20kbd_hw) - 
 - [CRImier/NGFF](https://github.com/CRImier/NGFF) - M.2 NGFF接口标准
-- [xyphro/UsbGpib](https://github.com/xyphro/UsbGpib) - Versatile, cheap and portable USB to GPIB converter (USBTMC class based)
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [amazonlinux/amazon-linux-2023](https://github.com/amazonlinux/amazon-linux-2023) - Amazon Linux 2023
 - [myogpatterns/myogpatterns.github.io](https://github.com/myogpatterns/myogpatterns.github.io) - Make Your Own Gear (MYOG) patterns and calculators for the outdoor and ultralight enthusiast
@@ -5587,6 +5586,7 @@
 
 - [walinchus/Bluesky](https://github.com/walinchus/Bluesky) - Fun things you can do with Bluesky
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
+- [TechPaula/LT6502](https://github.com/TechPaula/LT6502) - A 6502 based laptop design
 - [artemnovichkov/xcode-26-system-prompts](https://github.com/artemnovichkov/xcode-26-system-prompts) - Xcode 26 system prompts and internal documentation
 - [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
@@ -5660,7 +5660,7 @@
 - [apple/swift-homomorphic-encryption-protobuf](https://github.com/apple/swift-homomorphic-encryption-protobuf) - Protocol buffers definitions for Swift Homomorphic Encryption
 - [Floppie209/Amiga2000-remake](https://github.com/Floppie209/Amiga2000-remake) - A recreation of the Amiga2000 motherboard using Sprint Layout
 - [efabless/chipignite-resources](https://github.com/efabless/chipignite-resources) - 
-- [shalan/Awesome-Sky130-IPs](https://github.com/shalan/Awesome-Sky130-IPs) - 
+- [shalan/Awesome-Sky130-IPs](https://github.com/shalan/Awesome-Sky130-IPs) - a curated "awesome list" of open-source hardware Intellectual Property (IP) blocks designed specifically for the SkyWater 130nm (SKY130) Process Design Kit (PDK).
 - [Redherring32/OpenTendo-TopLoader](https://github.com/Redherring32/OpenTendo-TopLoader) - An Open Source HardWare (OSHW) recreation of the 1993 toploading NES motherboard (Also known as NES-101)
 - [visrealm/keyboard4a99](https://github.com/visrealm/keyboard4a99) - Cherry MX compatible upgrade for your Texas Instruments TI-99/4A Mitsumi mylar keyboard
 - [ocaml-community/awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
@@ -10716,7 +10716,7 @@
 - [adamws/kle-ng](https://github.com/adamws/kle-ng) - Reimplementation of the Keyboard Layout Editor
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [kewonit/aeris](https://github.com/kewonit/aeris) - Aeris is a real-time 3D flight radar for the web
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
 - [charles-m-knox/firefox-containers-helper](https://github.com/charles-m-knox/firefox-containers-helper) - Firefox multi-account containers are for power users. So is this. Adds bulk container interactivity features missing from the Mozilla Multi-Account Containers extension.
 - [rharel/webext-private-bookmarks](https://github.com/rharel/webext-private-bookmarks) - WebExtension that enables a special password-protected bookmark folder.
