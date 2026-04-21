@@ -5909,7 +5909,7 @@
 - [bridgetkromhout/devops-against-humanity](https://github.com/bridgetkromhout/devops-against-humanity) - DevOps Against Humanity
 - [relatedcode/RelatedChat](https://github.com/relatedcode/RelatedChat) - RelatedChat
 - [rtakehara/5e-Framework](https://github.com/rtakehara/5e-Framework) - A comprehensive 5th Edition Dungeons & Dragons Framework for MapTool.
-- [oldmanumby/DND.SRD.Wiki](https://github.com/oldmanumby/DND.SRD.Wiki) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
+- [oldmanumby/dnd.srd](https://github.com/oldmanumby/dnd.srd) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
 - [swift-server/sswg](https://github.com/swift-server/sswg) - Swift Server Working Group (SSWG)
 - [hengestone/lua-languages](https://github.com/hengestone/lua-languages) - Languages that compile to Lua
 - [zoom/zoom-sdk-macos](https://github.com/zoom/zoom-sdk-macos) - Zoom macOS SDK
@@ -6576,6 +6576,8 @@
 
 ## Python 
 
+- [LiahimRatman/nhl-api-client](https://github.com/LiahimRatman/nhl-api-client) - A comprehensive Python client for accessing NHL statistics and data - 53+ API methods
+- [vgreg/faceoff](https://github.com/vgreg/faceoff) - Terminal tool to watch hockey games
 - [ImGajeed76/pg-xpatch](https://github.com/ImGajeed76/pg-xpatch) - PostgreSQL Table Access Method for delta-compressed versioned data
 - [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
 - [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library
@@ -9029,7 +9031,7 @@
 - [Kolos65/Mockable](https://github.com/Kolos65/Mockable) - A Swift macro driven auto-mocking library.
 - [obvios/Routing](https://github.com/obvios/Routing) - Routing library for abstracting navigation logic from SwiftUI views.
 - [pointfreeco/swift-issue-reporting](https://github.com/pointfreeco/swift-issue-reporting) - Report issues in your application and library code as Xcode runtime warnings, breakpoints, assertions, and do so in a testable manner.
-- [shapehq/spices](https://github.com/shapehq/spices) - 🫙🌶️ Spices makes it straightforward to create in-app debug menus by generating native UI from Swift.
+- [framna-dk/spices](https://github.com/framna-dk/spices) - 🫙🌶️ Spices makes it straightforward to create in-app debug menus by generating native UI from Swift.
 - [tuist/XcodeGraph](https://github.com/tuist/XcodeGraph) - ፨ A Swift Package with data structures to model Xcode workspaces and projects
 - [tuist/Noora](https://github.com/tuist/Noora) - 🎨 A design system for Swift CLIs and Phoenix apps
 - [tuist/SwiftyTailwind](https://github.com/tuist/SwiftyTailwind) - 💇 A Swift Package to pull and run Tailwind from a Swift process
@@ -9145,7 +9147,7 @@
 - [efremidze/VisualEffectView](https://github.com/efremidze/VisualEffectView) - Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱
 - [soto-project/soto-core](https://github.com/soto-project/soto-core) - Core framework of Soto the Swift SDK for AWS
 - [adamwulf/DrawUI](https://github.com/adamwulf/DrawUI) - A variety of methods for making a drawing canvas UIView for iPhone and iPad. Objective-C.
-- [shapehq/tartelet](https://github.com/shapehq/tartelet) - ⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job
+- [framna-dk/tartelet](https://github.com/framna-dk/tartelet) - ⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job
 - [pointfreeco/MacroKit](https://github.com/pointfreeco/MacroKit) - Exploring Swifts new macro system
 - [IanKeen/MacroKit](https://github.com/IanKeen/MacroKit) - Exploring Swifts new macro system
 - [groue/Semaphore](https://github.com/groue/Semaphore) - A Synchronization Primitive for Swift Concurrency
@@ -9588,7 +9590,7 @@
 - [KhaosT/SimpleVM](https://github.com/KhaosT/SimpleVM) - Sample code for Virtualization framework
 - [SFSafeSymbols/SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
 - [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - 📅 Calendar for Apple platforms in Swift
-- [tuist/tuist](https://github.com/tuist/tuist) - A virtual platform team for mobile devs who ship
+- [tuist/tuist](https://github.com/tuist/tuist) - Your mobile platform team, as a service
 - [swift-server/swift-service-lifecycle](https://github.com/swift-server/swift-service-lifecycle) - Cleanly startup and shutdown server application, freeing resources in order before exiting.
 - [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
 - [swiftlang/swift-tools-support-core](https://github.com/swiftlang/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
