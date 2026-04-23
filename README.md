@@ -1421,6 +1421,7 @@
 
 ## C++ 
 
+- [Arc1011/KernelUNO](https://github.com/Arc1011/KernelUNO) - KernelUNO - a light-weight unix-like shell for arduino UNO r3
 - [rochus-keller/ActiveOberon](https://github.com/rochus-keller/ActiveOberon) - Parser and code browser for the ActiveOberon language (original version from 2004)
 - [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based 
@@ -1723,7 +1724,7 @@
 - [wopss/RED4ext](https://github.com/wopss/RED4ext) - A script extender for REDengine 4 (Cyberpunk 2077).
 - [maximegmd/RED4ext](https://github.com/maximegmd/RED4ext) - A script extender for REDengine 4.
 - [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
-- [facontidavide/PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Time Series Visualization Tool that you deserve.
+- [PlotJuggler/PlotJuggler](https://github.com/PlotJuggler/PlotJuggler) - The Time Series Visualization Tool that you deserve.
 - [BrunoLevy/learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
 - [inducer/meshpy](https://github.com/inducer/meshpy) - 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -3368,7 +3369,7 @@
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [htmlstreamofficial/awesome-dashboard-ui-kit](https://github.com/htmlstreamofficial/awesome-dashboard-ui-kit) - Awesome Dashboard UI Kit is a beautiful Open Source Bootstrap 4 Dashboard UI Kit crafted by Htmlstream.
 - [aleszu/text-mining-course](https://github.com/aleszu/text-mining-course) - This O'Reilly course will introduce participants to the techniques and applications of text mining and sentiment analysis by training them in easy-to-use open-source tools and scalable, replicable met
-- [theNewDynamic/gohugo-theme-ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) - Ananke: A theme for Hugo Sites
+- [gohugo-ananke/theme](https://github.com/gohugo-ananke/theme) - Ananke: A theme for Hugo Sites
 - [baldengineer/bit-preserve](https://github.com/baldengineer/bit-preserve) - Project for capturing vintage, classic, aka old computer schematics in KiCad.
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [marqs85/ossc_pcb](https://github.com/marqs85/ossc_pcb) - ossc pcb design files
@@ -5503,7 +5504,7 @@
 - [jszumski/kvc-validation-pattern](https://github.com/jszumski/kvc-validation-pattern) - An iOS app demonstrating a KVC-based validation pattern.
 - [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing
 - [Rheeseyb/RBParallaxTableViewController](https://github.com/Rheeseyb/RBParallaxTableViewController) - 
-- [ShadoFlameX/PhotoCollectionView](https://github.com/ShadoFlameX/PhotoCollectionView) - A tutorial for creating a collection view with a custom layout  on iOS 6
+- [bryanehansen/PhotoCollectionView](https://github.com/bryanehansen/PhotoCollectionView) - A tutorial for creating a collection view with a custom layout  on iOS 6
 - [Shopify/superdb](https://github.com/Shopify/superdb) - The Super Debugger, a realtime wireless debugger for iOS
 - [Mantle/Mantle](https://github.com/Mantle/Mantle) - Model framework for Cocoa and Cocoa Touch
 - [github/Rebel](https://github.com/github/Rebel) - Cocoa framework for improving AppKit
@@ -6048,7 +6049,7 @@
 - [octopart/CPL-Data](https://github.com/octopart/CPL-Data) - 
 - [okzach/fallout_savegame_010_editor_binary_template](https://github.com/okzach/fallout_savegame_010_editor_binary_template) - A Binary Template describing Fallout 4 save game files for use with 010 Editor.
 - [blob42/awesome-explorables](https://github.com/blob42/awesome-explorables) - A curated list of awesome explorable explanations.
-- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
+- [wagtail/awesome-wagtail](https://github.com/wagtail/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [nwinkler/atom-keyboard-shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts) - A list of keyboard shortcuts for the Atom text editor
 - [struct/mms](https://github.com/struct/mms) - Modern Memory Safety in C/C++
 - [AlphamaxMedia/netv2-case](https://github.com/AlphamaxMedia/netv2-case) - Case design for NeTV2
@@ -6550,7 +6551,7 @@
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [parsec-cloud/Parsec-Cloud-Preparation-Tool](https://github.com/parsec-cloud/Parsec-Cloud-Preparation-Tool) - Launch Parsec enabled cloud computers via your own cloud provider account.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
-- [chocolatey/boxstarter](https://github.com/chocolatey/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
+- [chocolatey-community/boxstarter](https://github.com/chocolatey-community/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
 - [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [OfficeDev/VBA-content](https://github.com/OfficeDev/VBA-content) - All content in this repository has been migrated to a new repository (https://github.com/MicrosoftDocs/VBA-Docs). Please do not open issues or pull requests here. We are no longer monitoring this cont
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
@@ -6624,7 +6625,7 @@
 - [robotools/robofab](https://github.com/robotools/robofab) - RoboFab
 - [robotools/fontParts](https://github.com/robotools/fontParts) - The replacement for RoboFab
 - [usnistgov/NEMO](https://github.com/usnistgov/NEMO) - NEMO is a laboratory logistics web application. Use it to schedule reservations, control tool access, track maintenance issues, and more.
-- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
+- [lucemia/typed-ffmpeg](https://github.com/lucemia/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 - [robbyzhaox/myocr](https://github.com/robbyzhaox/myocr) - A highly extensible and customizable framework for building OCR systems.
 - [Amourspirit/python_ooo_dev_tools](https://github.com/Amourspirit/python_ooo_dev_tools) - 
 - [rmkenv/climate-disaster-data-pipeline](https://github.com/rmkenv/climate-disaster-data-pipeline) - Automated pipeline for synchronizing NOAA Billion-Dollar Disasters data via NWS and FEMA APIs.
@@ -10593,7 +10594,7 @@
 - [ashchan/mail-notifr](https://github.com/ashchan/mail-notifr) - Mail Notifr - Gmail Notifier for macOS
 - [nicktoumpelis/HiBeacons](https://github.com/nicktoumpelis/HiBeacons) - An iBeacons example app for iOS 10, with Apple Watch (watchOS 3.0) support, written in Swift 3.
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
-- [kylebrowning/waterwheel.swift](https://github.com/kylebrowning/waterwheel.swift) - The Waterwheel Swift SDK provides classes to natively connect iOS, macOS, tvOS, and watchOS applications to Drupal 7 and 8.
+- [kylebrowning/drupal-ios-sdk](https://github.com/kylebrowning/drupal-ios-sdk) - The Waterwheel Swift SDK provides classes to natively connect iOS, macOS, tvOS, and watchOS applications to Drupal 7 and 8.
 - [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps.
 - [glebd/cocoafob](https://github.com/glebd/cocoafob) - A set of registration code generation and verification helpers for Obj-C, Ruby (Potion Store), PHP and FastSpring
 
