@@ -3369,7 +3369,7 @@
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [htmlstreamofficial/awesome-dashboard-ui-kit](https://github.com/htmlstreamofficial/awesome-dashboard-ui-kit) - Awesome Dashboard UI Kit is a beautiful Open Source Bootstrap 4 Dashboard UI Kit crafted by Htmlstream.
 - [aleszu/text-mining-course](https://github.com/aleszu/text-mining-course) - This O'Reilly course will introduce participants to the techniques and applications of text mining and sentiment analysis by training them in easy-to-use open-source tools and scalable, replicable met
-- [gohugo-ananke/theme](https://github.com/gohugo-ananke/theme) - Ananke: A theme for Hugo Sites
+- [gohugo-ananke/ananke](https://github.com/gohugo-ananke/ananke) - Ananke: A theme for Hugo Sites
 - [baldengineer/bit-preserve](https://github.com/baldengineer/bit-preserve) - Project for capturing vintage, classic, aka old computer schematics in KiCad.
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [marqs85/ossc_pcb](https://github.com/marqs85/ossc_pcb) - ossc pcb design files
