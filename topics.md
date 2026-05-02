@@ -14047,7 +14047,7 @@
 - [chrisdone-archive/elisp-guide](https://github.com/chrisdone-archive/elisp-guide) - A quick guide to Emacs Lisp programming
 - [amazon-archives/aws-sdk-core-ruby](https://github.com/amazon-archives/aws-sdk-core-ruby) - This repository has moved to the master branch of aws/aws-sdk-ruby
 - [iluuu1994/Conway-s-Game-of-Life](https://github.com/iluuu1994/Conway-s-Game-of-Life) - Conway's Game of Life written in Swift
-- [evnaz/ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - A simple side menu for iOS written in Swift.
+- [devgenios/ENSwiftSideMenu](https://github.com/devgenios/ENSwiftSideMenu) - A simple side menu for iOS written in Swift.
 - [orta/cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing per-developer environment and application keys
 - [melvitax/DateHelper](https://github.com/melvitax/DateHelper) - A Swift Date extension helper
 - [enebo/rpiet](https://github.com/enebo/rpiet) - Piet language in Ruby
@@ -15593,7 +15593,7 @@
 - [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
-- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The
+- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF and write DXF/PDF/SVG files, with initial support for DWG reading. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitiv
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [visualfc/liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust
