@@ -1814,7 +1814,7 @@
 - [bsnes-emu/bsnes](https://github.com/bsnes-emu/bsnes) - bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [brettcvz/upnext](https://github.com/brettcvz/upnext) - A desktop calendar, based on a raspberry pi and e-ink display
-- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The
+- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF and write DXF/PDF/SVG files, with initial support for DWG reading. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitiv
 - [pisa-engine/pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes and Search for Academia
 - [akinomyoga/cxxmatrix](https://github.com/akinomyoga/cxxmatrix) - C++ Matrix: The Matrix Reloaded in Terminals (Number falls, Banners, Matrix rains, Conway's Game of Life and Mandelbrot set)
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
@@ -10584,7 +10584,7 @@
 - [p2/OAuth2](https://github.com/p2/OAuth2) - OAuth2 framework for macOS and iOS, written in Swift.
 - [ReactKit/SwiftState](https://github.com/ReactKit/SwiftState) - Elegant state machine for Swift.
 - [iluuu1994/Conway-s-Game-of-Life](https://github.com/iluuu1994/Conway-s-Game-of-Life) - Conway's Game of Life written in Swift
-- [evnaz/ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - A simple side menu for iOS written in Swift.
+- [devgenios/ENSwiftSideMenu](https://github.com/devgenios/ENSwiftSideMenu) - A simple side menu for iOS written in Swift.
 - [SwiftyJSON/SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 - [melvitax/DateHelper](https://github.com/melvitax/DateHelper) - A Swift Date extension helper
 - [mattt/Euler](https://github.com/mattt/Euler) - Swift Custom Operators for Mathematical Notation
