@@ -408,6 +408,7 @@
 - [1backend/1backend](https://github.com/1backend/1backend) - Build AI (or any) apps with scalable microservices & microfrontends.
 - [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development
 - [cocoa-ai/CocoaAI](https://github.com/cocoa-ai/CocoaAI) - 🤖 The Cocoa Artificial Intelligence Lab
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [facebookarchive/caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
@@ -1921,7 +1922,7 @@
 - [drush-ops/drush](https://github.com/drush-ops/drush) - Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.
 - [nomad-cli/houston](https://github.com/nomad-cli/houston) - Apple Push Notifications; No Dirigible Required
 - [twitter/twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## clojure 
 
@@ -8705,6 +8706,8 @@
 
 ## others 
 
+- [slic3r/Slic3r](https://github.com/slic3r/Slic3r) - Open Source toolpath generator for 3D printers
+- [oozebot/preFlight](https://github.com/oozebot/preFlight) - preFlight - a modern slicer built for precision and performance.
 - [Open-Document-Alliance/PDF-Tools](https://github.com/Open-Document-Alliance/PDF-Tools) - PDF Filler for Claude Desktop (using Claude Desktop Extensions)
 - [vivekg13186/Daisy-DAG](https://github.com/vivekg13186/Daisy-DAG) - 
 - [propublica/fakenator](https://github.com/propublica/fakenator) - 
@@ -9577,7 +9580,7 @@
 - [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - Qalculate! Qt UI
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [google/typograms](https://github.com/google/typograms) - 
-- [seerge/g-helper](https://github.com/seerge/g-helper) - Fast, native tool for tuning performance, fans, GPU, battery, and RGB on any Asus laptop or handheld - ROG Zephyrus, Flow, Strix, TUF, Vivobook, Zenbook, ProArt, Ally, and beyond.
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and many mo
 - [BradLarson/Molecules](https://github.com/BradLarson/Molecules) - Molecules is an open source 3-D molecular visualizer for iOS.
 - [gobby/libinfinity](https://github.com/gobby/libinfinity) - libinfinity collaborative editing library
 - [PassiveLogic/differentiable-swift-examples](https://github.com/PassiveLogic/differentiable-swift-examples) - Examples and documentation for the experimental differentiable Swift language feature
@@ -13263,7 +13266,6 @@
 - [ihabunek/github-vanity](https://github.com/ihabunek/github-vanity) - Write to your GitHub activity chart
 - [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
 - [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
-- [octo-technology/sonar-objective-c](https://github.com/octo-technology/sonar-objective-c) - Sonar Plugin for Objective C
 - [buildasaurs/XcodeServer-API-Docs](https://github.com/buildasaurs/XcodeServer-API-Docs) - Unofficial documentation of the Xcode Server API (Xcode 7 edition)
 - [algal/SwiftOnLambda](https://github.com/algal/SwiftOnLambda) - Use Swift to define an Amazon Lambda function, and an Alexa Custom Skill
 - [ceceradio/twitter-block-chain](https://github.com/ceceradio/twitter-block-chain) - Chrome extension to block all users on a followers/following page.
@@ -15062,7 +15064,7 @@
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## programming 
 
@@ -16796,7 +16798,7 @@
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [nojhan/colout](https://github.com/nojhan/colout) - Color text streams with a polished command line interface
 - [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## sketch 
 
@@ -18139,7 +18141,7 @@
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## terraform 
 
@@ -19325,7 +19327,7 @@
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [keith/zsh-xcode-completions](https://github.com/keith/zsh-xcode-completions) - Zsh completion for the Xcode command line tools
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
