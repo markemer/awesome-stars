@@ -1300,7 +1300,7 @@
 - [Mutagen-Modding/Mutagen](https://github.com/Mutagen-Modding/Mutagen) - A library for analyzing, creating, and manipulating Bethesda mods written in .NET
 - [Mutagen-Modding/Spriggit](https://github.com/Mutagen-Modding/Spriggit) - A tool to facilitate converting Bethesda plugin files to a text based format that can be stored in Git
 - [ShinyHobo/BG3-Modders-Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool) - Utility for quickly generating Baldur's Gate 3 mod packs from an unpacked workspace (among other things). This project is not open source; read the license.
-- [seerge/g-helper](https://github.com/seerge/g-helper) - Fast, native tool for tuning performance, fans, GPU, battery, and RGB on any Asus laptop or handheld - ROG Zephyrus, Flow, Strix, TUF, Vivobook, Zenbook, ProArt, Ally, and beyond.
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and many mo
 - [pardeike/Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [4sval/FModel](https://github.com/4sval/FModel) - Unreal Engine Archives Explorer
@@ -1423,6 +1423,8 @@
 
 ## C++ 
 
+- [slic3r/Slic3r](https://github.com/slic3r/Slic3r) - Open Source toolpath generator for 3D printers
+- [oozebot/preFlight](https://github.com/oozebot/preFlight) - preFlight - a modern slicer built for precision and performance.
 - [Arc1011/KernelUNO](https://github.com/Arc1011/KernelUNO) - KernelUNO - a light-weight unix-like shell for arduino UNO Rev3
 - [rochus-keller/ActiveOberon](https://github.com/rochus-keller/ActiveOberon) - Parser and code browser for the ActiveOberon language (original version from 2004)
 - [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
@@ -2951,7 +2953,6 @@
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [danihodovic/generate-ssh-configs](https://github.com/danihodovic/generate-ssh-configs) - Automatically generate ssh config files for your cloud servers
 - [akarki15/dbdot](https://github.com/akarki15/dbdot) - Generate DOT description for postgres db schema
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [aureleoules/core](https://github.com/aureleoules/core) - Backpulse's core. Backpulse is an API Based CMS. Build you own website without worrying about the content administration system.
 - [roboncode/shorty-go](https://github.com/roboncode/shorty-go) - Microservice that shortens urls like bit.ly written in Go
 - [gographics/imagick](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API
@@ -3672,7 +3673,6 @@
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
 - [zanata/zanata-platform](https://github.com/zanata/zanata-platform) - Zanata is a web-based system for translators to translate documentation and software online using a web browser.
 - [JetBrains/Grammar-Kit](https://github.com/JetBrains/Grammar-Kit) - Grammar files support & parser/PSI generation for IntelliJ IDEA
-- [octo-technology/sonar-objective-c](https://github.com/octo-technology/sonar-objective-c) - Sonar Plugin for Objective C
 - [Idean/sonar-swift](https://github.com/Idean/sonar-swift) - Open source Swift plugin for SonarQube (also supports Objective-C)
 - [alexa/alexa-skills-kit-sdk-for-java](https://github.com/alexa/alexa-skills-kit-sdk-for-java) - The Alexa Skills Kit SDK for Java helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 - [fflewddur/tivolibre](https://github.com/fflewddur/tivolibre) - Java app and library for decoding TiVo files to standard MPEG files.
@@ -4069,6 +4069,7 @@
 - [donghaoren/color-calculus](https://github.com/donghaoren/color-calculus) - A zero-dependency library of color conversion functions.
 - [cuckoosandbox/cuckoo](https://github.com/cuckoosandbox/cuckoo) - Cuckoo Sandbox is an automated dynamic malware analysis system
 - [idyll-lang/idyll-analytics](https://github.com/idyll-lang/idyll-analytics) - Tools to collect detailed usage analytics of Idyll articles.
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [FPGAwars/icestudio](https://github.com/FPGAwars/icestudio) - :snowflake: Visual editor for open FPGA boards
@@ -8940,7 +8941,7 @@
 - [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## Smalltalk 
 
