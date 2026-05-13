@@ -418,6 +418,7 @@
 
 ## ai-agents 
 
+- [vivekg13186/Daisy-workflow](https://github.com/vivekg13186/Daisy-workflow) - A low code workflow automation application
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -745,6 +746,7 @@
 
 ## automation 
 
+- [vivekg13186/Daisy-workflow](https://github.com/vivekg13186/Daisy-workflow) - A low code workflow automation application
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API + UI)
@@ -808,6 +810,7 @@
 
 ## awesome 
 
+- [awesome-rclone/awesome-rclone](https://github.com/awesome-rclone/awesome-rclone) - The awesome list for everything rclone.
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -980,6 +983,7 @@
 
 ## awesome-list 
 
+- [awesome-rclone/awesome-rclone](https://github.com/awesome-rclone/awesome-rclone) - The awesome list for everything rclone.
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -2146,6 +2150,7 @@
 
 ## compiler 
 
+- [graemeg/blaise](https://github.com/graemeg/blaise) - A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8.
 - [FedericoBruzzone/papers-on-compiler-optimizations](https://github.com/FedericoBruzzone/papers-on-compiler-optimizations) - A chronologically sorted list of influential papers on compiler optimization, from the seminal works of 1952 through the advanced techniques of 1994
 - [BitFunnel/NativeJIT](https://github.com/BitFunnel/NativeJIT) - A C++ expression -&gt; x64 JIT
 - [hlorenzi/customasm](https://github.com/hlorenzi/customasm) - 💻 An assembler for custom, user-defined instruction sets! https://hlorenzi.github.io/customasm/web/
@@ -2253,7 +2258,7 @@
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) - Face recognition using Tensorflow
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [symisc/sod](https://github.com/symisc/sod) - An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
@@ -2851,7 +2856,7 @@
 - [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.
 - [pedrohserrano/machine-learning-use-cases](https://github.com/pedrohserrano/machine-learning-use-cases) - Machine Learning Notebooks with Turicreate and Keras in a Docker Container
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) - Fast and flexible image augmentation library. Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
 - [XiaoMi/mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
 - [symisc/sod](https://github.com/symisc/sod) - An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
@@ -2916,7 +2921,7 @@
 
 ## design 
 
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [willowtreeapps/spruce-ios](https://github.com/willowtreeapps/spruce-ios) - Swift library for choreographing animations on the screen.
@@ -3834,7 +3839,7 @@
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [Khaomi/COTL_API](https://github.com/Khaomi/COTL_API) - A library to easily interact with Cult of the Lamb
 - [js13kGames/king-thirteen](https://github.com/js13kGames/king-thirteen) - King Thirteen — a js13kGames 2024 game by @mvasilkov.
-- [LostArtefacts/TRX](https://github.com/LostArtefacts/TRX) - Open source re-implementation of Tomb Raider I and Tomb Raider II, along with additional enhancements and bugfixes
+- [LostArtefacts/TRX](https://github.com/LostArtefacts/TRX) - Open source re-implementation of Tomb Raider I, Tomb Raider II and Tomb Raider III, along with additional enhancements and bugfixes
 - [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
 - [ModdingLinked/Viva-New-Vegas](https://github.com/ModdingLinked/Viva-New-Vegas) - A comprehensive Fallout New Vegas modding guide.
 - [darkf/darkfo](https://github.com/darkf/darkfo) - DarkFO, a post-nuclear RPG remake (of Fallout 2)
@@ -5269,7 +5274,6 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [wordpress-mobile/AztecEditor-iOS](https://github.com/wordpress-mobile/AztecEditor-iOS) - A reusable native iOS visual HTML text editor component.
-- [oldmanumby/dnd.srd](https://github.com/oldmanumby/dnd.srd) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
 - [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [SwiftDocOrg/Markup](https://github.com/SwiftDocOrg/Markup) - A Swift package for working with HTML, XML, and other markup languages, based on libxml2.
@@ -5427,7 +5431,7 @@
 
 ## image-processing 
 
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [clawsoftware/clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions.
 - [cruxopen/openISP](https://github.com/cruxopen/openISP) - Image Signal Processor
 - [awesome-photogrammetry/awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - 😎 Awesome photogrammetry projects
@@ -5995,6 +5999,7 @@
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [anaglik/ANDLineChartView](https://github.com/anaglik/ANDLineChartView) - ANDLineChartView is easy to use view-based class for displaying animated line chart.
 - [p2/OAuth2](https://github.com/p2/OAuth2) - OAuth2 framework for macOS and iOS, written in Swift.
+- [iziz/libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS) - iOS port of Google's libphonenumber with Objective-C core, Swift facade, SwiftUI input, and CocoaPods/SPM support
 - [libimobiledevice/libusbmuxd](https://github.com/libimobiledevice/libusbmuxd) - A client library to multiplex connections from and to iOS devices
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
@@ -6307,7 +6312,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [enactjs/enact](https://github.com/enactjs/enact) - An app development framework built atop React that’s easy to use, performant and customizable.
 - [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
-- [neocotic/convert-svg](https://github.com/neocotic/convert-svg) - Node.js packages for converting SVG into other formats using headless Chromium
+- [airmrcr/convert-svg](https://github.com/airmrcr/convert-svg) - Node.js packages for converting SVG into other formats using headless Chromium
 - [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [airtap/airtap](https://github.com/airtap/airtap) - Run TAP unit tests in 1789+ browsers.
@@ -7844,7 +7849,7 @@
 - [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-- [oldmanumby/dnd.srd](https://github.com/oldmanumby/dnd.srd) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
+- [oldmanumby/dnd.srd.5.1](https://github.com/oldmanumby/dnd.srd.5.1) - Dungeons & Dragons 5th Edition (2014) SRD v5.1 converted to Markdown.
 - [naturalcrit/homebrewery](https://github.com/naturalcrit/homebrewery) - Create authentic looking D&D homebrews using only markdown
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
@@ -8305,7 +8310,7 @@
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [TimboKZ/Rammy](https://github.com/TimboKZ/Rammy) - 📝🛠️ Command line assistant for LaTeX projects
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
-- [neocotic/convert-svg](https://github.com/neocotic/convert-svg) - Node.js packages for converting SVG into other formats using headless Chromium
+- [airmrcr/convert-svg](https://github.com/airmrcr/convert-svg) - Node.js packages for converting SVG into other formats using headless Chromium
 - [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [gribnoysup/wunderbar](https://github.com/gribnoysup/wunderbar) - Simple horizontal bar chart printer for your terminal
 - [airtap/airtap](https://github.com/airtap/airtap) - Run TAP unit tests in 1789+ browsers.
@@ -8472,7 +8477,7 @@
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
 - [Quick/Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
 - [anaglik/ANDLineChartView](https://github.com/anaglik/ANDLineChartView) - ANDLineChartView is easy to use view-based class for displaying animated line chart.
-- [iziz/libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS) - iOS port from libphonenumber (Google's phone number handling library)
+- [iziz/libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS) - iOS port of Google's libphonenumber with Objective-C core, Swift facade, SwiftUI input, and CocoaPods/SPM support
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [aws-amplify/aws-sdk-ios](https://github.com/aws-amplify/aws-sdk-ios) - AWS SDK for iOS. For more information, see our web site:
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
@@ -8501,14 +8506,14 @@
 ## obsidian 
 
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
-- [oldmanumby/dnd.srd](https://github.com/oldmanumby/dnd.srd) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
+- [oldmanumby/dnd.srd.5.1](https://github.com/oldmanumby/dnd.srd.5.1) - Dungeons & Dragons 5th Edition (2014) SRD v5.1 converted to Markdown.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## obsidian-md 
 
 - [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
-- [oldmanumby/dnd.srd](https://github.com/oldmanumby/dnd.srd) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
+- [oldmanumby/dnd.srd.5.1](https://github.com/oldmanumby/dnd.srd.5.1) - Dungeons & Dragons 5th Edition (2014) SRD v5.1 converted to Markdown.
 
 ## obsidian-plugin 
 
@@ -8596,7 +8601,6 @@
 
 ## openai 
 
-- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [exPHAT/SwiftWhisper](https://github.com/exPHAT/SwiftWhisper) - 🎤 The easiest way to transcribe audio in Swift
 - [MacPaw/OpenAI](https://github.com/MacPaw/OpenAI) - Swift community driven package for OpenAI public API
@@ -8706,16 +8710,17 @@
 
 ## others 
 
+- [specula-org/SysMoBench](https://github.com/specula-org/SysMoBench) - SysMoBench: Evaluating AI on Formally Modeling Complex Real-World Systems
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [slic3r/Slic3r](https://github.com/slic3r/Slic3r) - Open Source toolpath generator for 3D printers
-- [oozebot/preFlight](https://github.com/oozebot/preFlight) - preFlight - a modern slicer built for precision and performance.
+- [oozebot/preFlight](https://github.com/oozebot/preFlight) - preFlight slicer - no ordinary fork
 - [Open-Document-Alliance/PDF-Tools](https://github.com/Open-Document-Alliance/PDF-Tools) - PDF Filler for Claude Desktop (using Claude Desktop Extensions)
-- [vivekg13186/Daisy-DAG](https://github.com/vivekg13186/Daisy-DAG) - 
 - [propublica/fakenator](https://github.com/propublica/fakenator) - 
 - [Pomax/BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
 - [electricant/adblock-rust-manager](https://github.com/electricant/adblock-rust-manager) - A Firefox extension that enables and manages Firefox's built-in adblock-rust engine
 - [DOS-History/Paterson-Listings](https://github.com/DOS-History/Paterson-Listings) - Transcription of Tim Paterson's DOS printouts.
 - [NV404/gova](https://github.com/NV404/gova) - declarative GUI framework for Go
-- [akinloluwami/avnac](https://github.com/akinloluwami/avnac) - 
+- [akinloluwami/avnac](https://github.com/akinloluwami/avnac) - Free browser-based design software.
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple DirectMedia Layer
 - [adamgmakes/SplitFlapDisplay](https://github.com/adamgmakes/SplitFlapDisplay) - 
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
@@ -9153,7 +9158,7 @@
 - [ahmetsait/toolgit](https://github.com/ahmetsait/toolgit) - Git Productivity Toolkit
 - [BluDood/GlanceThing](https://github.com/BluDood/GlanceThing) - Your CarThing as a glanceable action pad!
 - [bishopdynamics/superbird-tool](https://github.com/bishopdynamics/superbird-tool) - Cross-Platform Spotify Car Thing (superbird) hacking toolkit
-- [thinglabsoss/superbird-tool](https://github.com/thinglabsoss/superbird-tool) - Cross-Platform Spotify Car Thing (superbird) hacking toolkit
+- [ThingLabsOSS/superbird-tool](https://github.com/ThingLabsOSS/superbird-tool) - Cross-Platform Spotify Car Thing (superbird) hacking toolkit
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [ronkok/Hurmet](https://github.com/ronkok/Hurmet) - Rich text editor on the web, featuring live calculations.
@@ -9343,7 +9348,7 @@
 - [pa3gsb/Radioberry-2.x](https://github.com/pa3gsb/Radioberry-2.x) - Ham Radio hat for Raspberry PI
 - [dekuNukem/PicoRC](https://github.com/dekuNukem/PicoRC) - PicoPSU adaptor for retro computers
 - [leswright1977/PySpectrometer](https://github.com/leswright1977/PySpectrometer) - Raspberry Pi Spectrometer
-- [thinglabsoss/wiki](https://github.com/thinglabsoss/wiki) - Collection of general information about the Spotify CarThing and the various ways in which it can be modified
+- [ThingLabsOSS/wiki](https://github.com/ThingLabsOSS/wiki) - Collection of general information about the Spotify CarThing and the various ways in which it can be modified
 - [makerslocal/localplot](https://github.com/makerslocal/localplot) - Qt HPGL plotting software
 - [ArtifexSoftware/ghostpdl](https://github.com/ArtifexSoftware/ghostpdl) - This is a mirror: the canonical repo is: git.ghostscript.com/ghostpdl.git https://www.ghostscript.com
 - [fsphil/hacktv](https://github.com/fsphil/hacktv) - Analogue TV transmitter for the HackRF
@@ -12183,7 +12188,7 @@
 - [gojuno/hexgridgeo-py](https://github.com/gojuno/hexgridgeo-py) - GEO wrapper for HexGrid
 - [gojuno/hexgrid-py](https://github.com/gojuno/hexgrid-py) - Configurable hex grid on abstract surface
 - [observablehq/stdlib](https://github.com/observablehq/stdlib) - The Observable standard library.
-- [observablehq/runtime](https://github.com/observablehq/runtime) - The reactive dataflow runtime that powers Observable Framework and Observable notebooks
+- [observablehq/runtime](https://github.com/observablehq/runtime) - The reactive dataflow runtime that powers Observable Notebooks
 - [mirage/qubes-mirage-skeleton](https://github.com/mirage/qubes-mirage-skeleton) - An example Mirage unikernel that runs as a Qubes AppVM
 - [mirage/mirage-qubes](https://github.com/mirage/mirage-qubes) - Mirage support for writing QubesOS AppVM unikernels
 - [codePrincess/ARStarter](https://github.com/codePrincess/ARStarter) - get started with ARKit - a little exercise for beginners
@@ -15142,7 +15147,7 @@
 ## publishing 
 
 - [TryGhost/Casper](https://github.com/TryGhost/Casper) - A classic theme for Ghost
-- [oldmanumby/dnd.srd](https://github.com/oldmanumby/dnd.srd) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
+- [oldmanumby/dnd.srd.5.1](https://github.com/oldmanumby/dnd.srd.5.1) - Dungeons & Dragons 5th Edition (2014) SRD v5.1 converted to Markdown.
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - The SILE Typesetter — Simon’s Improved Layout Engine
 - [manubot/manubot](https://github.com/manubot/manubot) - Python utilities for Manubot: Manuscripts, open and automated
 - [chmllr/notehub](https://github.com/chmllr/notehub) - A pastebin for markdown pages.
@@ -15577,7 +15582,7 @@
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [fastai/course-v3](https://github.com/fastai/course-v3) - The 3rd edition of course.fast.ai
 - [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [ryfeus/lambda-packs](https://github.com/ryfeus/lambda-packs) - Precompiled packages for AWS Lambda
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
@@ -15605,7 +15610,7 @@
 - [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
-- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF and write DXF/PDF/SVG files, with initial support for DWG reading. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitiv
+- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF and write DXF/PDF/SVG files, with basic support for DWG reading. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [visualfc/liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust
@@ -15943,7 +15948,7 @@
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
 - [mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.
-- [LostArtefacts/TRX](https://github.com/LostArtefacts/TRX) - Open source re-implementation of Tomb Raider I and Tomb Raider II, along with additional enhancements and bugfixes
+- [LostArtefacts/TRX](https://github.com/LostArtefacts/TRX) - Open source re-implementation of Tomb Raider I, Tomb Raider II and Tomb Raider III, along with additional enhancements and bugfixes
 - [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) - Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [commaai/opendbc](https://github.com/commaai/opendbc) - a Python API for your car
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
@@ -17816,6 +17821,7 @@
 - [mattt/Euler](https://github.com/mattt/Euler) - Swift Custom Operators for Mathematical Notation
 - [ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 📖 Design Patterns implemented in Swift 5.0
 - [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
+- [iziz/libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS) - iOS port of Google's libphonenumber with Objective-C core, Swift facade, SwiftUI input, and CocoaPods/SPM support
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [realm/jazzy](https://github.com/realm/jazzy) - Soulful docs for Swift & Objective-C
 - [aws-amplify/aws-sdk-ios](https://github.com/aws-amplify/aws-sdk-ios) - AWS SDK for iOS. For more information, see our web site:
@@ -17965,6 +17971,7 @@
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) - SwiftUI 2.0 Cheat Sheet
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+- [iziz/libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS) - iOS port of Google's libphonenumber with Objective-C core, Swift facade, SwiftUI input, and CocoaPods/SPM support
 - [ashchan/mail-notifr](https://github.com/ashchan/mail-notifr) - Mail Notifr - Gmail Notifier for macOS
 
 ## symfony 
@@ -18016,7 +18023,7 @@
 - [raghakot/keras-text](https://github.com/raghakot/keras-text) - Text Classification Library in Keras
 - [tensorflow/swift](https://github.com/tensorflow/swift) - Swift for TensorFlow
 - [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [ryfeus/lambda-packs](https://github.com/ryfeus/lambda-packs) - Precompiled packages for AWS Lambda
 - [NifTK/NiftyNet](https://github.com/NifTK/NiftyNet) - [unmaintained] An open-source convolutional neural networks platform for research in medical image analysis and image-guided therapy
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
