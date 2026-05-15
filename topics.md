@@ -8710,6 +8710,7 @@
 
 ## others 
 
+- [keybase/book-content](https://github.com/keybase/book-content) - 
 - [specula-org/SysMoBench](https://github.com/specula-org/SysMoBench) - SysMoBench: Evaluating AI on Formally Modeling Complex Real-World Systems
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [slic3r/Slic3r](https://github.com/slic3r/Slic3r) - Open Source toolpath generator for 3D printers
@@ -9458,7 +9459,6 @@
 - [ThisIsNotRocketScience/GerberTools](https://github.com/ThisIsNotRocketScience/GerberTools) - Tools to load/edit/create/panelizer sets of gerber files
 - [nutanix/libvfio-user](https://github.com/nutanix/libvfio-user) - framework for emulating devices in userspace
 - [ARM-software/LLVM-embedded-toolchain-for-Arm](https://github.com/ARM-software/LLVM-embedded-toolchain-for-Arm) - A project dedicated to building LLVM toolchain for Arm and AArch64 embedded targets.
-- [WLJSTeam/wljs-interpreter](https://github.com/WLJSTeam/wljs-interpreter) - 
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [GregoryCannon/StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
 - [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot!
