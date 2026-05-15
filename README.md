@@ -3819,7 +3819,6 @@
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
-- [WLJSTeam/wljs-interpreter](https://github.com/WLJSTeam/wljs-interpreter) - 
 - [Page-Replica/page-replica](https://github.com/Page-Replica/page-replica) - Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost
 - [ahmed-agiza/EDAViewer](https://github.com/ahmed-agiza/EDAViewer) - EDAV: Open-Source EDA Viewer; render design LEF/DEF files in your browser!
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
@@ -4640,6 +4639,7 @@
 
 ## Jinja 
 
+- [keybase/book-content](https://github.com/keybase/book-content) - 
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [brianhanifin/Home-Assistant-Config](https://github.com/brianhanifin/Home-Assistant-Config) - Home Assistant configuration files.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
@@ -5227,7 +5227,6 @@
 - [alloy/clang-compilation-database-tool](https://github.com/alloy/clang-compilation-database-tool) - Tool that can be used to generate Clang Compilation DBs from Xcode.
 - [thetron/StringScore](https://github.com/thetron/StringScore) - StringScore is an Objective-C library which provides super fast fuzzy string matching/scoring. Based on the JavaScript library of the same name.
 - [nek023/Lin](https://github.com/nek023/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString.
-- [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
 - [catehstn/ios-unit-testing](https://github.com/catehstn/ios-unit-testing) - 
 - [lmirosevic/GBDeviceInfo](https://github.com/lmirosevic/GBDeviceInfo) - Detects the hardware, software and display of the current iOS or Mac OS X device at runtime.
 - [x2on/GBDeviceInfo](https://github.com/x2on/GBDeviceInfo) - Detects the hardware, software and display of the current iOS or Mac OS X device at runtime.
@@ -8234,6 +8233,7 @@
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [paritytech/polkavm](https://github.com/paritytech/polkavm) - A fast and secure RISC-V based virtual machine
@@ -10461,6 +10461,7 @@
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
 - [oisdk/SwiftSequence](https://github.com/oisdk/SwiftSequence) - A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools, Haskell's standard library, and other things.
 - [shu223/iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler) - Code examples for the new features of iOS 9.
+- [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
 - [takuoka/TKSubmitTransition](https://github.com/takuoka/TKSubmitTransition) - Animated UIButton of Loading Animation and Transition Animation. Inspired by  https://dribbble.com/shots/1945593-Login-Home-Screen
 - [wojteklu/Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread
 - [soffes/RateLimit](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
@@ -11404,7 +11405,6 @@
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 ## nesC 
