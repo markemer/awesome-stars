@@ -1512,6 +1512,7 @@
 - [JanSimek/gecko](https://github.com/JanSimek/gecko) - Fallout 2 map editor
 - [xNVSE/NVSE](https://github.com/xNVSE/NVSE) - New Vegas Script Extender (NVSE)
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
+- [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) - Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [lip6/coriolis](https://github.com/lip6/coriolis) - Coriolis VLSI EDA Tool (LIP6)
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [Gcenx/DXVK-macOS](https://github.com/Gcenx/DXVK-macOS) - Vulkan-based implementation of D3D10 and D3D11 for macOS / Wine
@@ -1816,7 +1817,7 @@
 - [bsnes-emu/bsnes](https://github.com/bsnes-emu/bsnes) - bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [brettcvz/upnext](https://github.com/brettcvz/upnext) - A desktop calendar, based on a raspberry pi and e-ink display
-- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF and write DXF/PDF/SVG files, with basic support for DWG reading. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives
+- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and read/write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly cu
 - [pisa-engine/pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes and Search for Academia
 - [akinomyoga/cxxmatrix](https://github.com/akinomyoga/cxxmatrix) - C++ Matrix: The Matrix Reloaded in Terminals (Number falls, Banners, Matrix rains, Conway's Game of Life and Mandelbrot set)
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
@@ -2270,6 +2271,7 @@
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 - [Fmstrat/diy-ipmi](https://github.com/Fmstrat/diy-ipmi) - A DIY IPMI / IP KVM system utilizing the Raspberry Pi
 - [heapwolf/levelui](https://github.com/heapwolf/levelui) - A GUI for LevelDB management based on atom-shell.
+- [gohugo-ananke/ananke](https://github.com/gohugo-ananke/ananke) - Ananke: A theme for Hugo Sites
 - [riscvarchive/risc-v-getting-started-guide](https://github.com/riscvarchive/risc-v-getting-started-guide) - The official RISC-V getting started guide
 - [tiran/pki-vagans](https://github.com/tiran/pki-vagans) - Vagrant + Ansible for Dogtag PKI (WIP and highly experimental)
 - [Ryshackleton/idyll-template](https://github.com/Ryshackleton/idyll-template) - A React app that mimics the basic template project provided by Idyll-lang.org
@@ -3378,7 +3380,6 @@
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [htmlstreamofficial/awesome-dashboard-ui-kit](https://github.com/htmlstreamofficial/awesome-dashboard-ui-kit) - Awesome Dashboard UI Kit is a beautiful Open Source Bootstrap 4 Dashboard UI Kit crafted by Htmlstream.
 - [aleszu/text-mining-course](https://github.com/aleszu/text-mining-course) - This O'Reilly course will introduce participants to the techniques and applications of text mining and sentiment analysis by training them in easy-to-use open-source tools and scalable, replicable met
-- [gohugo-ananke/ananke](https://github.com/gohugo-ananke/ananke) - Ananke: A theme for Hugo Sites
 - [baldengineer/bit-preserve](https://github.com/baldengineer/bit-preserve) - Project for capturing vintage, classic, aka old computer schematics in KiCad.
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [marqs85/ossc_pcb](https://github.com/marqs85/ossc_pcb) - ossc pcb design files
@@ -3732,13 +3733,12 @@
 - [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous Http and WebSocket Client library for Java
 - [mobl/mobl](https://github.com/mobl/mobl) - Domain-specific language for mobile (web) applications. This repository contains the compiler sources and Eclipse project.
 - [rstudio/rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
-- [ether/pad](https://github.com/ether/pad) - Etherpad Open-Source Repository
 - [apache/cassandra](https://github.com/apache/cassandra) - Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.
 - [facebookarchive/cassandra](https://github.com/facebookarchive/cassandra) - A distributed storage system for managing structured data while providing reliability at scale.
 
 ## JavaScript 
 
-- [vivekg13186/Daisy-workflow](https://github.com/vivekg13186/Daisy-workflow) - A low code workflow automation application
+- [daisy-workflow/Daisy-workflow](https://github.com/daisy-workflow/Daisy-workflow) - A low code workflow automation application
 - [Neguiolidas/Chrome2Fox](https://github.com/Neguiolidas/Chrome2Fox) - 🦊 Install Chrome Web Store extensions directly on Firefox
 - [raymelon/youtube-playlist-backup-apps-script](https://github.com/raymelon/youtube-playlist-backup-apps-script) - Back up your YouTube playlists into Google Sheets with Google Apps Script
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
@@ -4788,7 +4788,6 @@
 - [h0tk3y/better-parse](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
 - [Thomvis/better-parse](https://github.com/Thomvis/better-parse) - A nice parser combinator library for Kotlin
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
-- [smithy-lang/smithy-swift](https://github.com/smithy-lang/smithy-swift) - 
 - [jpd236/kotwords](https://github.com/jpd236/kotwords) - Collection of crossword puzzle file format converters and other utilities, written in Kotlin.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [GitLiveApp/firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase
@@ -5128,7 +5127,6 @@
 - [objective-see/ProcInfo](https://github.com/objective-see/ProcInfo) - process info/monitoring library for macOS
 - [colloquy/colloquy](https://github.com/colloquy/colloquy) - Colloquy is an advanced IRC, SILC & ICB client for macOS and iOS! Latest Mac builds: https://github.com/colloquy/colloquy/releases
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native macOS applications from command line scripts.
-- [dustinrue/ControlPlane](https://github.com/dustinrue/ControlPlane) - ControlPlane - context-sensitive computing for OS X
 - [dsward2/macSVG](https://github.com/dsward2/macSVG) - macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤
 - [lanayotech/vagrant-manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for OS X
 - [dcsch/macho-browser](https://github.com/dcsch/macho-browser) - Mac browser for Mach-O binaries (macOS, iOS, watchOS, and tvOS)
@@ -5282,7 +5280,7 @@
 - [rsms/peertalk](https://github.com/rsms/peertalk) - iOS and Mac Cocoa library for communicating over USB
 - [pjebs/EasySocial](https://github.com/pjebs/EasySocial) - The Easiest and Simplest iOS library for Twitter and Facebook. Just Drop in and Use!
 - [davidmuzi/DMRemoteRequest](https://github.com/davidmuzi/DMRemoteRequest) - iOS library which structures the handling of requests originating from an Watch
-- [mutualmobile/MMWormhole](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions.
+- [griddynamics/MMWormhole](https://github.com/griddynamics/MMWormhole) - Message passing between iOS apps and extensions.
 - [mamaral/Organic](https://github.com/mamaral/Organic) - The intuitive UITableViewController.
 - [core-plot/core-plot](https://github.com/core-plot/core-plot) - Core Plot source code and example applications
 - [rowanj/gitx](https://github.com/rowanj/gitx) - Fork of Pieter's nice git GUI for OS X.  Includes branch/tag sidebar and various fixes. Current development focus is on removing legacy git command line usage in favour of libgit2 and objective-git.
@@ -5440,7 +5438,7 @@
 - [lhunath/UbiquityStoreManager](https://github.com/lhunath/UbiquityStoreManager) - Implements Core Data + iCloud, deals with all the nasty stuff and gives you a clean API.
 - [Overcoat/Overcoat](https://github.com/Overcoat/Overcoat) - The perfect accessory for Mantle and AFNetworking.
 - [OliverLetterer/SLRESTfulCoreData](https://github.com/OliverLetterer/SLRESTfulCoreData) - Objc naming conventions, autogenerated accessors at runtime, URL substitutions and intelligent attribute mapping
-- [mutualmobile/MMRecord](https://github.com/mutualmobile/MMRecord) - Seamless Web Service Integration and Core Data Model Population
+- [griddynamics/MMRecord](https://github.com/griddynamics/MMRecord) - Seamless Web Service Integration and Core Data Model Population
 - [apparentsoft/ReactiveCoreData](https://github.com/apparentsoft/ReactiveCoreData) - Core Data with ReactiveCocoa
 - [martydill/ios-queryable](https://github.com/martydill/ios-queryable) - ios-queryable is an implementation of IQueryable/IEnumerable for Core Data
 - [soffes/ssdatakit](https://github.com/soffes/ssdatakit) - Eliminate your Core Data boilerplate code
@@ -6722,7 +6720,6 @@
 - [kevinpt/symbolator](https://github.com/kevinpt/symbolator) - HDL symbol generator
 - [fastmail/JMAP-Samples](https://github.com/fastmail/JMAP-Samples) - sample code for beginning JMAP developers
 - [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath) - Inspect and refine PATH environment variable on Windows, Linux and MacOS.
-- [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) - Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [greenblat/vlsistuff](https://github.com/greenblat/vlsistuff) - ideas and eda software for vlsi design
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste) - The Django project driving dpaste.org
@@ -7560,7 +7557,7 @@
 - [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [viewfinderco/viewfinder](https://github.com/viewfinderco/viewfinder) - Viewfinder client and server code
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [xyz2tex/dot2tex](https://github.com/xyz2tex/dot2tex) - Convert graphs generated by Graphviz to LaTeX friendly formats
+- [sagemath/dot2tex](https://github.com/sagemath/dot2tex) - Convert graphs generated by Graphviz to LaTeX friendly formats
 - [nvidia-compiler-sdk/pynvvm](https://github.com/nvidia-compiler-sdk/pynvvm) - Python bindings for libNVVM
 - [m-labs/migen](https://github.com/m-labs/migen) - A Python toolbox for building complex digital hardware
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
@@ -8627,6 +8624,7 @@
 
 ## Shell 
 
+- [sfiorini/NordVPN-Wireguard](https://github.com/sfiorini/NordVPN-Wireguard) - A bash scripts that generates Wireguard configuration file for a NordVPN connection.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [wolegis/mkinitcpio-systemd-extras](https://github.com/wolegis/mkinitcpio-systemd-extras) - Collection of mkinitcpio install hooks for systemd based initramfs
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -8987,6 +8985,7 @@
 
 ## Swift 
 
+- [Kosikowski/swift-executors](https://github.com/Kosikowski/swift-executors) - A set of different swift executors.
 - [fluffypony/yojam](https://github.com/fluffypony/yojam) - open links on macOS in whatever browser, app, or profile you need - whatever yo jam is
 - [paniclock/paniclock](https://github.com/paniclock/paniclock) - Instantly disable Touch ID and lock your Mac with one click or keyboard shortcut.
 - [moozzyk/MiniproUI](https://github.com/moozzyk/MiniproUI) - 
@@ -9431,6 +9430,7 @@
 - [lucaszischka/BottomSheet](https://github.com/lucaszischka/BottomSheet) - A sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI.
 - [hhas/Swift-AppleScriptObjC](https://github.com/hhas/Swift-AppleScriptObjC) - How to call AppleScript handlers from Swift via AppleScript-ObjC bridge.
 - [DataDog/dd-sdk-swift-testing](https://github.com/DataDog/dd-sdk-swift-testing) - Datadog Test Optimisation framework for Swift / ObjC
+- [smithy-lang/smithy-swift](https://github.com/smithy-lang/smithy-swift) - 
 - [MaxDesiatov/SwiftPie](https://github.com/MaxDesiatov/SwiftPie) - A Swift rewrite of "A Tutorial Implementation of a Dependently Typed Lambda Calculus"
 - [mkrd/Swift-BigInt](https://github.com/mkrd/Swift-BigInt) - A lightweight, Arbitrary Precision Arithmetic Library for Swift!
 - [ArtSabintsev/FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS, macOS and tvOS app.
@@ -9489,7 +9489,7 @@
 - [apple/swift-collections](https://github.com/apple/swift-collections) - Commonly used data structures for Swift
 - [mfcollins3/SwiftMonacoEditor](https://github.com/mfcollins3/SwiftMonacoEditor) - Visual Studio Code's Monaco text editor packaged as a host-able UIKit or SwiftUI component.
 - [sunshinejr/Pouch](https://github.com/sunshinejr/Pouch) - Secret management tool.
-- [swiftontap/swiftontap](https://github.com/swiftontap/swiftontap) - Complete SwiftUI Docs with Examples
+- [unionst/swiftontap](https://github.com/unionst/swiftontap) - Complete SwiftUI Docs with Examples
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [danielmartin/swift-helpful](https://github.com/danielmartin/swift-helpful) - A Self-Documenting Emacs Programming Environment for Swift. Includes curated Swift 5.6 documentation and reference in GNU Info format, with cross-references, and keyword/topic indices.
 - [FlineDev/BartyCrouch](https://github.com/FlineDev/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
@@ -10100,6 +10100,7 @@
 - [kryptco/swift-pgp](https://github.com/kryptco/swift-pgp) - A pure Swift library for parsing and creating PGP RFC 4880 public keys, user ids, and signatures.
 - [kryptco/krypton-ios](https://github.com/kryptco/krypton-ios) - DEPRECATED Krypton turns your iOS device into a WebAuthn/U2F Authenticator: strong, unphishable 2FA.
 - [MemeMaker/Meme-Maker-Mac](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker open source macOS app made in Swift.
+- [dustinrue/ControlPlane](https://github.com/dustinrue/ControlPlane) - ControlPlane - context-sensitive computing for OS X
 - [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - A tool for tagging files and archiving tasks.
 - [tuxu/nbviewer-app](https://github.com/tuxu/nbviewer-app) - A Jupyter notebook viewer for macOS
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
