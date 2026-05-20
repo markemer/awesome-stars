@@ -1465,7 +1465,7 @@
 - [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware) - Advanced VM detection library and tool
 - [LaurieWired/SantaClausProblem](https://github.com/LaurieWired/SantaClausProblem) - C++ solution and demonstration of the Santa Claus concurrency problem
 - [drk1wi/Portspoof](https://github.com/drk1wi/Portspoof) - Portspoof
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux Userspace Emulator
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [tomverbeure/fake_parallel_printer](https://github.com/tomverbeure/fake_parallel_printer) - Capture traffic on parallel printer port to USB
@@ -1817,7 +1817,7 @@
 - [bsnes-emu/bsnes](https://github.com/bsnes-emu/bsnes) - bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [brettcvz/upnext](https://github.com/brettcvz/upnext) - A desktop calendar, based on a raspberry pi and e-ink display
-- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and read/write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly cu
+- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customi
 - [pisa-engine/pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes and Search for Academia
 - [akinomyoga/cxxmatrix](https://github.com/akinomyoga/cxxmatrix) - C++ Matrix: The Matrix Reloaded in Terminals (Number falls, Banners, Matrix rains, Conway's Game of Life and Mandelbrot set)
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
@@ -2110,7 +2110,7 @@
 - [0x55555555/lldb-example](https://github.com/0x55555555/lldb-example) - 
 - [swiftlang/swift-llbuild](https://github.com/swiftlang/swift-llbuild) - A low-level build system, used by Xcode and the Swift Package Manager
 - [MythTV/mythtv](https://github.com/MythTV/mythtv) - The official MythTV repository
-- [genodelabs/genode](https://github.com/genodelabs/genode) - Genode OS Framework
+- [genodelabs/genode](https://github.com/genodelabs/genode) - Genode OS Framework (migrated to https://codeberg.org/genodelabs/genode)
 - [wmcbrine/tivodecode-ng](https://github.com/wmcbrine/tivodecode-ng) - The "next generation" of tivodecode, to handle transport streams. Not fully working yet.
 - [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
 - [ROCm/hip](https://github.com/ROCm/hip) - HIP: C++ Heterogeneous-Compute Interface for Portability
@@ -2524,7 +2524,7 @@
 
 ## F# # 
 
-- [B2R2-org/B2R2](https://github.com/B2R2-org/B2R2) - B2R2 is a collection of useful algorithms, functions, and tools for binary analysis.
+- [B2R2-org/B2R2](https://github.com/B2R2-org/B2R2) - B2R2 is a fully managed binary analysis framework written in F#. It provides a rich set of algorithms, functions, and tools for reverse engineering, program analysis, and binary-level inspection.
 - [fsharp/fsharp](https://github.com/fsharp/fsharp) - Please file issues or pull requests here: https://github.com/dotnet/fsharp
 
 ## Factor 
@@ -6584,6 +6584,7 @@
 
 ## Python 
 
+- [royvou/humblebundle-downloader](https://github.com/royvou/humblebundle-downloader) - A python based CLI to download everything from Humble bundle
 - [specula-org/SysMoBench](https://github.com/specula-org/SysMoBench) - SysMoBench: Evaluating AI on Formally Modeling Complex Real-World Systems
 - [LiahimRatman/nhl-api-client](https://github.com/LiahimRatman/nhl-api-client) - A comprehensive Python client for accessing NHL statistics and data - 53+ API methods
 - [vgreg/faceoff](https://github.com/vgreg/faceoff) - Terminal tool to watch hockey games
@@ -7055,7 +7056,6 @@
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [opensteno/plover](https://github.com/opensteno/plover) - Open source stenotype engine
 - [lovasoa/bad_json_parsers](https://github.com/lovasoa/bad_json_parsers) - Exposing problems in json parsers of several programming languages.
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [googlefonts/science-gothic](https://github.com/googlefonts/science-gothic) - Science Gothic, a libre variable font
 - [agroce/universalmutator](https://github.com/agroce/universalmutator) - Regexp based tool for mutating generic source code across numerous languages
@@ -7644,6 +7644,7 @@
 
 - [cutiepi-io/cutiepi-shell](https://github.com/cutiepi-io/cutiepi-shell) - A mobile shell for Raspberry Pi OS
 - [Yubico/yubikey-manager-qt](https://github.com/Yubico/yubikey-manager-qt) - Cross-platform application for configuring any YubiKey over all USB interfaces.
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 
 ## QMake 
 
