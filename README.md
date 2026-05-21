@@ -2579,6 +2579,7 @@
 
 ## Go 
 
+- [Shopify/goluago](https://github.com/Shopify/goluago) - Lua wrappers for the Go standard library
 - [NV404/gova](https://github.com/NV404/gova) - declarative GUI framework for Go
 - [ImGajeed76/pgit](https://github.com/ImGajeed76/pgit) - Git-like version control CLI backed by PostgreSQL with pg-xpatch delta compression
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -7056,6 +7057,7 @@
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [opensteno/plover](https://github.com/opensteno/plover) - Open source stenotype engine
 - [lovasoa/bad_json_parsers](https://github.com/lovasoa/bad_json_parsers) - Exposing problems in json parsers of several programming languages.
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [googlefonts/science-gothic](https://github.com/googlefonts/science-gothic) - Science Gothic, a libre variable font
 - [agroce/universalmutator](https://github.com/agroce/universalmutator) - Regexp based tool for mutating generic source code across numerous languages
@@ -7644,7 +7646,6 @@
 
 - [cutiepi-io/cutiepi-shell](https://github.com/cutiepi-io/cutiepi-shell) - A mobile shell for Raspberry Pi OS
 - [Yubico/yubikey-manager-qt](https://github.com/Yubico/yubikey-manager-qt) - Cross-platform application for configuring any YubiKey over all USB interfaces.
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 
 ## QMake 
 
@@ -10759,7 +10760,7 @@
 - [siddarthkay/react-native-go](https://github.com/siddarthkay/react-native-go) - A starter template with react-native and golang to demonstrate communication between a golang backend and a react-native client.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [SocketDev/socket-sdk-js](https://github.com/SocketDev/socket-sdk-js) - JavaScript SDK for Socket.dev API
+- [SocketDev/socket-sdk-js](https://github.com/SocketDev/socket-sdk-js) - JavaScript SDK for the socket.dev API
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [e18e/module-replacements](https://github.com/e18e/module-replacements) - A manifest of JS modules and their more modern/active replacements
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
