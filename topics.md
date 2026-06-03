@@ -692,6 +692,7 @@
 
 ## arduino 
 
+- [krauseler/muxcard](https://github.com/krauseler/muxcard) - A literal credit-card sized computer with E-Paper display,  ESP32 and NFC.
 - [akshaybaweja/Smart-IC-Tester](https://github.com/akshaybaweja/Smart-IC-Tester) - 
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [sanni/cartreader](https://github.com/sanni/cartreader) - A shield for the Arduino Mega that can back up video game cartridges.
@@ -2079,7 +2080,7 @@
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
-- [jlevy/repren](https://github.com/jlevy/repren) - Power rename/refactor tool (now with Claude Code skill support!)
+- [jlevy/repren](https://github.com/jlevy/repren) - Power rename/refactor tool (now with agent skill support!)
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [scottrhoyt/SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) - A lightweight library for generating text tables.
@@ -3172,7 +3173,7 @@
 - [ottomatica/slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [grocy/grocy-docker](https://github.com/grocy/grocy-docker) - [Outdated/Archived] Community contributed Docker container for https://github.com/grocy/grocy
@@ -3592,6 +3593,7 @@
 
 ## esp32 
 
+- [krauseler/muxcard](https://github.com/krauseler/muxcard) - A literal credit-card sized computer with E-Paper display,  ESP32 and NFC.
 - [ImplFerris/esp32-book](https://github.com/ImplFerris/esp32-book) - Embedded Programming with ESP32 and Rust
 - [esp-rs/book](https://github.com/esp-rs/book) - The Rust on ESP Book
 - [whitecatboard/Lua-RTOS-ESP32](https://github.com/whitecatboard/Lua-RTOS-ESP32) - Lua RTOS for ESP32
@@ -4773,6 +4775,7 @@
 
 ## hacking 
 
+- [krauseler/muxcard](https://github.com/krauseler/muxcard) - A literal credit-card sized computer with E-Paper display,  ESP32 and NFC.
 - [mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
@@ -6659,7 +6662,7 @@
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated.
@@ -6971,7 +6974,7 @@
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [grassator/mass](https://github.com/grassator/mass) - A compiler for a new language focusing on compile-time execution and no LLVM dependency.
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
@@ -8547,6 +8550,7 @@
 ## open-source 
 
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
+- [kewonit/aeris](https://github.com/kewonit/aeris) - Aeris is a real-time 3D flight radar for the web
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -8727,6 +8731,8 @@
 
 ## others 
 
+- [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
+- [NishantJoshi00/flipper-template](https://github.com/NishantJoshi00/flipper-template) - 
 - [alanhuang122/FLWikiRedirector](https://github.com/alanhuang122/FLWikiRedirector) - A Chrome extension that redirects Fallen London Wikia/Fandom links to the Fallen London Wiki
 - [An-Individual/fl-sheetifier](https://github.com/An-Individual/fl-sheetifier) - A simple browser extension for the game Fallen London that lets you export your character data to CSV.
 - [rousbound/typst-lua](https://github.com/rousbound/typst-lua) - Lua binding for Typst, a new markup-based typesetting system that is powerful and easy to learn.
@@ -11418,7 +11424,6 @@
 - [nooverviewavailable/NoOverviewAvailable.com](https://github.com/nooverviewavailable/NoOverviewAvailable.com) - A survey of Apple developer documentation.
 - [buildasaurs/satellite](https://github.com/buildasaurs/satellite) - Node.js server for providing build status badges for GitHub branches.
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
-- [oxplot/fabpide2](https://github.com/oxplot/fabpide2) - STUSB4500 Breakout — Stand-alone USB PD Sink Controller
 - [timburks/graphql-showcase](https://github.com/timburks/graphql-showcase) - An experimental GraphQL wrapper of the GAPIC Showcase API
 - [InfiniteLoopDK/ILTesting](https://github.com/InfiniteLoopDK/ILTesting) - Various helper classes to assist when testing for iOS and Mac OS X
 - [neverpanic/cctrie](https://github.com/neverpanic/cctrie) - A CTrie implementation in C
@@ -14931,7 +14936,7 @@
 
 - [msuzen/isingLenzMC](https://github.com/msuzen/isingLenzMC) - isingLenzMC: Monte Carlo for Classical Ising Model (with core C library)
 - [Summa-Cogni/Mathpad](https://github.com/Summa-Cogni/Mathpad) - A mathematical keypad for students and professionals
-- [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica) - A modern computer algebra library for Python and Rust.
+- [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica) - Symbolica is a high-performance computer algebra library for Python and Rust. Manipulate large expressions, match patterns, and generate optimized numerical code — at unprecedented speed.
 - [mentat-collective/emmy](https://github.com/mentat-collective/emmy) - The Emmy Computer Algebra System.
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
 - [psi4/psi4](https://github.com/psi4/psi4) - Open-Source Quantum Chemistry – an electronic structure package in C++ driven by Python
@@ -15269,7 +15274,7 @@
 - [chipfoundry/volare](https://github.com/chipfoundry/volare) - Version manager (and builder) for the Google sky130 and gf180mcu open-source PDKs
 - [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone. Follow and ★ to show your support!
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [jlevy/repren](https://github.com/jlevy/repren) - Power rename/refactor tool (now with Claude Code skill support!)
+- [jlevy/repren](https://github.com/jlevy/repren) - Power rename/refactor tool (now with agent skill support!)
 - [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
