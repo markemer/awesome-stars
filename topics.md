@@ -4228,7 +4228,7 @@
 - [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services.
 - [kostaspt/go-datamuse](https://github.com/kostaspt/go-datamuse) - Go library for Datamuse API
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -4431,7 +4431,7 @@
 - [kostaspt/go-datamuse](https://github.com/kostaspt/go-datamuse) - Go library for Datamuse API
 - [erkkah/git-private](https://github.com/erkkah/git-private) - Store private data inside a git repository.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [WillAbides/octo-go](https://github.com/WillAbides/octo-go) - A generated go client for GitHub's REST API
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
@@ -7123,7 +7123,7 @@
 
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [Dripfarm/SVDB](https://github.com/Dripfarm/SVDB) - Swift Vector Database. On-device, local vector database for building the next-generation of user experiences
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied tra
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
@@ -8557,7 +8557,7 @@
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [antlr-ng/antlr-ng](https://github.com/antlr-ng/antlr-ng) - The next generation of ANTLR, a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
-- [IHP-GmbH/IHP-Open-DesignLib](https://github.com/IHP-GmbH/IHP-Open-DesignLib) - Open source designs developed with IHP 130nm BiCMOS Open Source PDK. Documentation at https://ihp-open-ip.readthedocs.io/en/latest/
+- [IHP-GmbH/IHP-Open-DesignLib](https://github.com/IHP-GmbH/IHP-Open-DesignLib) - Open source designs developed with the IHP 130nm BiCMOS Open PDK in the FMD_QNC project. Documentation at https://ihp-open-ip.readthedocs.io/en/latest/
 - [electronicarts/CnC_Modding_Support](https://github.com/electronicarts/CnC_Modding_Support) - Command and Conquer: Modding Support
 - [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) - Command and Conquer: Generals - Zero Hour
 - [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert
@@ -8731,6 +8731,7 @@
 
 ## others 
 
+- [rokudev/lt-sdk](https://github.com/rokudev/lt-sdk) - 
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [NishantJoshi00/flipper-template](https://github.com/NishantJoshi00/flipper-template) - 
 - [alanhuang122/FLWikiRedirector](https://github.com/alanhuang122/FLWikiRedirector) - A Chrome extension that redirects Fallen London Wikia/Fandom links to the Fallen London Wiki
@@ -8782,6 +8783,7 @@
 - [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 - [Neguiolidas/Chrome2Fox](https://github.com/Neguiolidas/Chrome2Fox) - 🦊 Install Chrome Web Store extensions directly on Firefox
 - [rderik/rdncat](https://github.com/rderik/rdncat) - A client-server command-line tool created using NWFramework
+- [ionic-team/capacitor-skills](https://github.com/ionic-team/capacitor-skills) - 
 - [elgatosf/streamdeck-plugin-samples](https://github.com/elgatosf/streamdeck-plugin-samples) - Sample code illustrating the Stream Deck SDK.
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [mikhailmaslo/macro-codable-kit](https://github.com/mikhailmaslo/macro-codable-kit) - Efficient, flexible Codable with Swift Macros
