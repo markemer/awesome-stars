@@ -766,7 +766,7 @@
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [puppeteer/replay](https://github.com/puppeteer/replay) - Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder
-- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
+- [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [SiarheiFedartsou/fastlane-plugin-versioning](https://github.com/SiarheiFedartsou/fastlane-plugin-versioning) - Extends fastlane versioning actions. Allows to set/get versions without using agvtool and do some other small tricks.
 - [jdee/settings-bundle](https://github.com/jdee/settings-bundle) - Fastlane plugin to update static settings in an iOS settings bundle
@@ -1377,6 +1377,7 @@
 
 ## c 
 
+- [tsupplis/cpm86-crossdev](https://github.com/tsupplis/cpm86-crossdev) - CP/M-86 cross development environment
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a 
 - [randrew/uxn32](https://github.com/randrew/uxn32) - Uxn emulator for Windows and Wine
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
@@ -2827,7 +2828,7 @@
 
 - [msuzen/isingLenzMC](https://github.com/msuzen/isingLenzMC) - isingLenzMC: Monte Carlo for Classical Ising Model (with core C library)
 - [wvabrinskas/Neuron](https://github.com/wvabrinskas/Neuron) - A neural network library for Swift
-- [flaport/sax](https://github.com/flaport/sax) - S + Autograd + XLA :: S-parameter based frequency domain circuit simulations and optimizations using JAX.
+- [gdsfactory/sax](https://github.com/gdsfactory/sax) - S + Autograd + XLA :: S-parameter based frequency domain circuit simulations and optimizations using JAX.
 - [bertjiazheng/Awesome-CAD](https://github.com/bertjiazheng/Awesome-CAD) - 😎 A list of awesome Computer-Aided Design (CAD) papers
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
@@ -2949,7 +2950,6 @@
 - [dataliterate/data-populator](https://github.com/dataliterate/data-populator) - A plugin for Sketch and Adobe XD to populate your design mockups with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) - List of all tools (apps, services) that startups should use.
-- [willowtreeapps/Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS) - In-app design review tool to inspect measurements, attributes, and animations.
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [yapstudios/YapAnimator](https://github.com/yapstudios/YapAnimator) - Your fast and friendly physics-based animation system.
@@ -3796,7 +3796,6 @@
 - [twitter/ios-twitter-network-layer](https://github.com/twitter/ios-twitter-network-layer) - Twitter Network Layer is a scalable and feature rich network layer built on top of NSURLSession for Apple platforms
 - [armbian/build](https://github.com/armbian/build) - The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configur
 - [google/promises](https://github.com/google/promises) - Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
-- [willowtreeapps/Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS) - In-app design review tool to inspect measurements, attributes, and animations.
 - [mattlawer/FaceLandmarksDetection](https://github.com/mattlawer/FaceLandmarksDetection) - Finds facial features such as face contour, eyes, mouth and nose in an image.
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
@@ -5857,7 +5856,6 @@
 - [kharrison/Xcode-Templates](https://github.com/kharrison/Xcode-Templates) - Xcode File And Project Templates
 - [Serchinastico/Kin](https://github.com/Serchinastico/Kin) - Sane PBXProj files
 - [remirobert/Dotzu](https://github.com/remirobert/Dotzu) - :iphone::eyes: In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.
-- [willowtreeapps/Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS) - In-app design review tool to inspect measurements, attributes, and animations.
 - [josh-/DictionaryPlusPlus](https://github.com/josh-/DictionaryPlusPlus) - Dictionary++ is a simple interface to iOS's system dictionary.
 - [Ramotion/fluid-slider](https://github.com/Ramotion/fluid-slider) - :octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Swift UI library made by @Ramotion
 - [cocoa-ai/NamesCoreMLDemo](https://github.com/cocoa-ai/NamesCoreMLDemo) - 🏷 iOS11 demo application for predicting gender from first names.
@@ -6876,7 +6874,6 @@
 - [gribnoysup/wunderbar](https://github.com/gribnoysup/wunderbar) - Simple horizontal bar chart printer for your terminal
 - [libexpat/libexpat](https://github.com/libexpat/libexpat) - :herb: Fast streaming XML parser written in C99 with &gt;90% test coverage; moved from SourceForge to GitHub
 - [google/promises](https://github.com/google/promises) - Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
-- [willowtreeapps/Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS) - In-app design review tool to inspect measurements, attributes, and animations.
 - [Ramotion/fluid-slider](https://github.com/Ramotion/fluid-slider) - :octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Swift UI library made by @Ramotion
 - [tensor-compiler/taco](https://github.com/tensor-compiler/taco) - The Tensor Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
@@ -7446,7 +7443,7 @@
 - [mitchellh/gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [brunophilipe/LiquidKit](https://github.com/brunophilipe/LiquidKit) - Liquid template language parser engine in Swift.
 - [sveinbjornt/hear](https://github.com/sveinbjornt/hear) - Command line interface for the built-in speech recognition and transcription capabilities in macOS.
-- [cirruslabs/orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
+- [openai/orchard](https://github.com/openai/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 - [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script that actually displays the game you're playing on discord
 - [Ekhoo/Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 - [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
@@ -7494,7 +7491,7 @@
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [deeje/CloudCore](https://github.com/deeje/CloudCore) - Robust CoreData-CloudKit synchronization: offline editing, relationships, private, shared and public databases, field-level deltas, encrypted values, cacheable assets, and more.
 - [cirruslabs/packer-plugin-tart](https://github.com/cirruslabs/packer-plugin-tart) - Packer builder for Tart VMs
-- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
+- [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [scottrhoyt/SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) - A lightweight library for generating text tables.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [trilemma-dev/SecureXPC](https://github.com/trilemma-dev/SecureXPC) - A simple and secure XPC framework for Swift
@@ -8731,6 +8728,7 @@
 
 ## others 
 
+- [remysucre/prela](https://github.com/remysucre/prela) - 
 - [rokudev/lt-sdk](https://github.com/rokudev/lt-sdk) - 
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [NishantJoshi00/flipper-template](https://github.com/NishantJoshi00/flipper-template) - 
@@ -15279,7 +15277,6 @@
 - [jlevy/repren](https://github.com/jlevy/repren) - Power rename/refactor tool (now with agent skill support!)
 - [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
