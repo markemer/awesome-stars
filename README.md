@@ -2699,7 +2699,7 @@
 - [mitchellh/gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [osteele/liquid](https://github.com/osteele/liquid) - A Liquid template engine in Go
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
-- [cirruslabs/orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
+- [openai/orchard](https://github.com/openai/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 - [mohammed90/caddy-ngrok-listener](https://github.com/mohammed90/caddy-ngrok-listener) - Caddy listener_wrapper to automatically listen on an ngrok tunnel
 - [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go) - Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
 - [blacktop/go-apfs](https://github.com/blacktop/go-apfs) - APFS parser written in pure Go
@@ -4660,6 +4660,7 @@
 
 ## Julia 
 
+- [remysucre/prela](https://github.com/remysucre/prela) - 
 - [GenieFramework/StippleUI.jl](https://github.com/GenieFramework/StippleUI.jl) - StippleUI is a library of reactive UI elements for Stipple.jl.
 - [JuliaPluto/PlutoUI.jl](https://github.com/JuliaPluto/PlutoUI.jl) - 
 - [microsoft/OpticSim.jl](https://github.com/microsoft/OpticSim.jl) - Optical Simulation software
@@ -5158,7 +5159,6 @@
 - [BonzaiThePenguin/Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for macOS
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 - [ConfusedVorlon/ProjectFileTool](https://github.com/ConfusedVorlon/ProjectFileTool) - tool for extracting the paths of files included in xcode project targets
-- [willowtreeapps/Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS) - In-app design review tool to inspect measurements, attributes, and animations.
 - [Avnet/hdl](https://github.com/Avnet/hdl) - 
 - [Daij-Djan/xsd2cocoa](https://github.com/Daij-Djan/xsd2cocoa) - Parses XSD files and generates Swift (or Objective-C) classes for IOS (or OSX) -- uses libxml only
 - [pojala/termipal](https://github.com/pojala/termipal) - Instant, native micro-GUIs for shell scripts and command line apps
@@ -6709,7 +6709,7 @@
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [virtualsquare/virtualbricks](https://github.com/virtualsquare/virtualbricks) - A GTK frontend for VDE and QEMU/KVM. Supports multiple network on the same host, tunneling between hosts networks, a fully featured configuration interface.
-- [flaport/sax](https://github.com/flaport/sax) - S + Autograd + XLA :: S-parameter based frequency domain circuit simulations and optimizations using JAX.
+- [gdsfactory/sax](https://github.com/gdsfactory/sax) - S + Autograd + XLA :: S-parameter based frequency domain circuit simulations and optimizations using JAX.
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [rejunity/tt05-psg-ay8913](https://github.com/rejunity/tt05-psg-ay8913) - TinyTapeout submission with the AY-3-8913 a 3-voice programmable sound generator (PSG) chip from General Instruments.
 - [jpakkane/glyphtracer](https://github.com/jpakkane/glyphtracer) - Glyphtracer is an app for converting images of letters to a font
@@ -8638,6 +8638,7 @@
 
 ## Shell 
 
+- [tsupplis/cpm86-crossdev](https://github.com/tsupplis/cpm86-crossdev) - CP/M-86 cross development environment
 - [sfiorini/NordVPN-Wireguard](https://github.com/sfiorini/NordVPN-Wireguard) - A bash scripts that generates Wireguard configuration file for a NordVPN connection.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [ionic-team/capacitor-skills](https://github.com/ionic-team/capacitor-skills) - 
@@ -9357,7 +9358,7 @@
 - [Actomaton/ActoCrawler](https://github.com/Actomaton/ActoCrawler) - 🕸️ Swift Concurrency-powered crawler engine on top of Actomaton.
 - [Actomaton/Actomaton](https://github.com/Actomaton/Actomaton) - 🎭 Swift async/await & Actor-powered effectful state-management framework.
 - [ChiliLabs/CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls written in Swift to replace boring UIPageControl. Mady by @ChiliLabs - https://chililabs.io
-- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
+- [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [typelift/SwiftCheck](https://github.com/typelift/SwiftCheck) - QuickCheck for Swift
 - [jflinter/Dwifft](https://github.com/jflinter/Dwifft) - Swift Diff
 - [insidegui/ocrit](https://github.com/insidegui/ocrit) - Simple command-line utility for performing OCR using Apple's Vision framework
