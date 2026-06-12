@@ -8726,6 +8726,10 @@
 
 ## others 
 
+- [Rahix/FusedFilamentDesign](https://github.com/Rahix/FusedFilamentDesign) - A FreeCAD PartDesign addon for FFF/FDM 3D-printing design.
+- [DesignWeaver3D/Detessellate](https://github.com/DesignWeaver3D/Detessellate) - FreeCAD workbench of tools to reverse engineer mesh, point cloud, & STEP imports.
+- [chbergmann/OpticsWorkbench](https://github.com/chbergmann/OpticsWorkbench) - 
+- [dhanson-wp/tufte-blocks](https://github.com/dhanson-wp/tufte-blocks) - A WordPress block theme inspired by Edward Tufte's design principles. Typography-first, with generous margins, ET Book serif type, and minimal ornamentation. Features dark mode by default with a light
 - [luke8086/gentleos32](https://github.com/luke8086/gentleos32) - Hobby operating system for vintage 32-bit PCs
 - [rlfordon/the-missing-link](https://github.com/rlfordon/the-missing-link) - Firefox extension: find the case the article didn't link. Uses Claude to identify the case, then searches CourtListener.
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -19101,6 +19105,7 @@
 
 ## wordpress 
 
+- [roots/wp-packages](https://github.com/roots/wp-packages) - Manage your WordPress plugins and themes with Composer
 - [sphireinc/Foundry](https://github.com/sphireinc/Foundry) - A Markdown-first CMS written in Go with themes, plugins, and an integrated admin UI
 - [splorp/wordpress-comment-blocklist](https://github.com/splorp/wordpress-comment-blocklist) - A simple solution for WordPress comment spam.
 - [roots/wp-password-bcrypt](https://github.com/roots/wp-password-bcrypt) - WordPress plugin to implement secure bcrypt hashed passwords
