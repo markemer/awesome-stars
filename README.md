@@ -2691,7 +2691,7 @@
 - [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Forwarder is a production-ready, fast MITM proxy with PAC support. It's suitable for debugging, intercepting and manipulating HTTP traffic. It's used as a core component of Sauce Labs Sauce Connect Pr
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
-- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [philippta/flyscrape](https://github.com/philippta/flyscrape) - Flyscrape is a command-line web scraping tool designed for those without advanced programming skills.
 - [tcnksm/ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
 - [dropbox/godropbox](https://github.com/dropbox/godropbox) - Common libraries for writing Go services/applications.
@@ -5792,6 +5792,7 @@
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [timburgan/timburgan](https://github.com/timburgan/timburgan) - Play chess via GitHub
 - [OpenEVSE/OpenEVSE_PLUS](https://github.com/OpenEVSE/OpenEVSE_PLUS) - OpenEVSE Hardware
+- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [docker/extensions-sdk](https://github.com/docker/extensions-sdk) - Desktop Extensions SDK
 - [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 - [sparkfunX/Satellite_Transceiver_Breakout__Swarm_M138](https://github.com/sparkfunX/Satellite_Transceiver_Breakout__Swarm_M138) - Satellite Transceiver Breakout - Swarm M138
@@ -9370,7 +9371,6 @@
 - [marcosgriselli/SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
 - [yusadogru/CardTabBar](https://github.com/yusadogru/CardTabBar) - This library is for adding animation to iOS tabbar items, which is inherited from UITabBarController.
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
-- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [SwiftcordApp/DiscordKit](https://github.com/SwiftcordApp/DiscordKit) - The Discord API implementation behind Swiftcord, implemented completely from scratch in Swift
 - [deeje/CloudCore](https://github.com/deeje/CloudCore) - Robust CoreData-CloudKit synchronization: offline editing, relationships, private, shared and public databases, field-level deltas, encrypted values, cacheable assets, and more.
 - [Actomaton/ActoCrawler](https://github.com/Actomaton/ActoCrawler) - 🕸️ Swift Concurrency-powered crawler engine on top of Actomaton.
