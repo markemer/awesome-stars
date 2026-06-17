@@ -461,7 +461,7 @@
 - [mirage/mirage-crypto](https://github.com/mirage/mirage-crypto) - Cryptographic primitives for OCaml, in OCaml (also used in MirageOS)
 - [gerbv/gerbv](https://github.com/gerbv/gerbv) - Maintained fork of gerbv, carrying mostly bugfixes
 - [nutanix/libvfio-user](https://github.com/nutanix/libvfio-user) - framework for emulating devices in userspace
-- [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
+- [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [LibreDWG/libredwg](https://github.com/LibreDWG/libredwg) - Official mirror of libredwg. With CI hooks and nightly releases. PR's ok
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [tillitis/tillitis-key1](https://github.com/tillitis/tillitis-key1) - FPGA verilog and firmware for TKey, the flexible and open USB security key 🔑
@@ -1836,7 +1836,6 @@
 - [c3d/xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
 - [cloudinary/fuif](https://github.com/cloudinary/fuif) - Free Universal Image Format
 - [Bareflank/hypervisor](https://github.com/Bareflank/hypervisor) - lightweight hypervisor SDK written in C++ with support for Windows, Linux and UEFI
-- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
@@ -2072,6 +2071,7 @@
 - [numworks/epsilon](https://github.com/numworks/epsilon) - Modern graphing calculator operating system.
 - [cmu-sei/pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
 - [rcorcs/llvm-heat-printer](https://github.com/rcorcs/llvm-heat-printer) - LLVM Profiling Visualization
+- [GooFit/GooFit](https://github.com/GooFit/GooFit) - Code repository for the massively-parallel framework for maximum-likelihood fits, implemented in CUDA/OpenMP
 - [emmericp/FlowScope](https://github.com/emmericp/FlowScope) - FlowScope is an oscilloscope for your network traffic. It records all traffic continuously in a ring buffer and dumps specific flows to disk on trigger events.
 - [google/redgrep](https://github.com/google/redgrep) - ♥ Janusz Brzozowski
 - [acaudwell/Logstalgia](https://github.com/acaudwell/Logstalgia) - replay or stream website access logs as a retro arcade game
@@ -2409,7 +2409,6 @@
 
 - [philipfabianek/ptx-playground](https://github.com/philipfabianek/ptx-playground) - A simple environment for writing and experimenting with hand-written CUDA PTX kernels.
 - [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
-- [GooFit/GooFit](https://github.com/GooFit/GooFit) - Code repository for the massively-parallel framework for maximum-likelihood fits, implemented in CUDA/OpenMP
 - [gpufs/gpufs](https://github.com/gpufs/gpufs) - GPUfs - File system support for NVIDIA GPUs
 
 ## Cython 
@@ -3596,6 +3595,7 @@
 - [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
 - [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
 - [stipple-effect/stipple-effect](https://github.com/stipple-effect/stipple-effect) - Stipple Effect is a pixel art editor that supports animation and scripting (available on Windows, macOS and Linux)
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [mike42/6502-assembly-intellij](https://github.com/mike42/6502-assembly-intellij) - An Intellij plugin for 6502 assembly projects (ca65 syntax)
@@ -3644,7 +3644,7 @@
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
-- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied tra
+- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures. It supports HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP and more o
 - [six-ddc/mirage](https://github.com/six-ddc/mirage) - A web DSL and command-line tool for easily writing simple HTTP server
 - [Backblaze/b2-sdk-java](https://github.com/Backblaze/b2-sdk-java) - The official Java SDK for using Backblaze's B2 Storage APIs
 - [Floobits/floobits-intellij](https://github.com/Floobits/floobits-intellij) - Real-time collaborative editing plugin for IntelliJ
@@ -3842,7 +3842,6 @@
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [EricWay1024/tikzcd-editor](https://github.com/EricWay1024/tikzcd-editor) - Drawing commutative diagrams for Typst commute
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
-- [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [kitzeller/barbara](https://github.com/kitzeller/barbara) - A virtual machine for creating visual live coding languages
 - [dy/linefont](https://github.com/dy/linefont) - Font for rendering line chart data
@@ -3874,7 +3873,7 @@
 - [backblaze-b2-samples/cloudflare-b2](https://github.com/backblaze-b2-samples/cloudflare-b2) - Provide access to a private Backblaze B2 bucket via a Cloudflare Worker
 - [fouita/form-editor](https://github.com/fouita/form-editor) - NoCode form builder built with Svelte and Tailwindcss https://fouita.com/explore/form-builder
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
-- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+- [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [tweetback/tweetback-canonical](https://github.com/tweetback/tweetback-canonical) - A package to resolve twitter URLs to new canonically hosted twitter backups
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [dariusk/twitter-archiver](https://github.com/dariusk/twitter-archiver) - Make your own simple, public, searchable Twitter archive
@@ -4647,7 +4646,7 @@
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
-- [audreyt/socialcalc](https://github.com/audreyt/socialcalc) - Multiplayer SocialCalc with WebSocket - Also see https://github.com/audreyt/ethercalc
+- [audreyt/socialcalc](https://github.com/audreyt/socialcalc) - In-browser spreadsheet editor — also see https://github.com/audreyt/ethercalc
 - [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [DanBricklin/socialcalc](https://github.com/DanBricklin/socialcalc) - SocialCalc for Socialtext
@@ -6603,6 +6602,7 @@
 
 ## Python 
 
+- [WolframResearch/WolframWebEngineForPython](https://github.com/WolframResearch/WolframWebEngineForPython) - Integrates the Wolfram Language seamlessly with Python AIOHTTP
 - [Rahix/FusedFilamentDesign](https://github.com/Rahix/FusedFilamentDesign) - A FreeCAD PartDesign addon for FFF/FDM 3D-printing design.
 - [DesignWeaver3D/Detessellate](https://github.com/DesignWeaver3D/Detessellate) - FreeCAD workbench of tools to reverse engineer mesh, point cloud, & STEP imports.
 - [chbergmann/OpticsWorkbench](https://github.com/chbergmann/OpticsWorkbench) - 
@@ -7806,6 +7806,7 @@
 - [jeffshantz/hyperkit](https://github.com/jeffshantz/hyperkit) - Hyperkit is a flat, Ruby-based API wrapper for LXD, the next-generation hypervisor.
 - [michaeleisel/barber](https://github.com/michaeleisel/barber) - Fast build times for big Swift projects
 - [fastlane-community/danger-xcov](https://github.com/fastlane-community/danger-xcov) - Danger plugin to validate the code coverage of the files changed in a pull request
+- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [amzn/oss-dashboard](https://github.com/amzn/oss-dashboard) - A dashboard for viewing many GitHub organizations at once.
 - [sglover/vagrant-hyperkit](https://github.com/sglover/vagrant-hyperkit) - An experimental xhyve/hyperkit provider for vagrant
 - [getsentry/sentry-fastlane-plugin](https://github.com/getsentry/sentry-fastlane-plugin) - Official fastlane plugin for Sentry
@@ -9012,6 +9013,7 @@
 - [joysofcode/svelte-deck](https://github.com/joysofcode/svelte-deck) - 🪄 Create beautiful presentations with Svelte
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [kjj6198/build-your-own-x](https://github.com/kjj6198/build-your-own-x) - (forked) 🤓 Build your own (insert technology here) - added issue and website. PR welcome
+- [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [sdl60660/river-runner](https://github.com/sdl60660/river-runner) - Uses USGS/MERIT Basin data to visualize the path of a rain droplet to its endpoint.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -9019,6 +9021,7 @@
 
 ## Swift 
 
+- [kabiroberai/node-swift](https://github.com/kabiroberai/node-swift) - Create Node modules in Swift
 - [huseyinaslim/macos-keyboardblocker](https://github.com/huseyinaslim/macos-keyboardblocker) - 🔒 Lock your Mac's keyboard while cleaning - prevents accidental keypresse
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [SwiftyLua/SwiftyLua](https://github.com/SwiftyLua/SwiftyLua) - Swift bridge for Lua
@@ -10861,7 +10864,6 @@
 - [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a typeface inspired by typewriters, Apple's San Francisco Mono, ASCII art, command-line interfaces, and programming tools.
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [StreamPot/StreamPot](https://github.com/StreamPot/StreamPot) - Run FFmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [kjk/edna](https://github.com/kjk/edna) - Note taking with super powers
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
