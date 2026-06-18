@@ -1526,7 +1526,7 @@
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [Gcenx/DXVK-macOS](https://github.com/Gcenx/DXVK-macOS) - Vulkan-based implementation of D3D10 and D3D11 for macOS / Wine
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
-- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
+- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows, macOS and Haiku. With Stellarium, you really see what you can see wit
 - [GregoryCannon/StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
 - [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
 - [VirtualGL/virtualgl](https://github.com/VirtualGL/virtualgl) - Main VirtualGL repository
@@ -3365,6 +3365,7 @@
 - [fcoury/kbpcb](https://github.com/fcoury/kbpcb) - Automated Keyboard PCB generator for KiCad
 - [alex/nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
 - [brendena/MathEquationsGoogleSlide](https://github.com/brendena/MathEquationsGoogleSlide) - convert latex to img on google slides
+- [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 - [revspace/cipherlist.eu](https://github.com/revspace/cipherlist.eu) - (migrated to https://codeberg.org/revspace/cipherlist.eu) Ciplerli.st - strong ciphers for NGINX, Apache and Lighttpd
 - [atomicbird/tomlehrersongs.com](https://github.com/atomicbird/tomlehrersongs.com) - Mirror of tomlehrersongs.com
 - [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
@@ -3463,6 +3464,7 @@
 - [henrythemes/jekyll-bootstrap-theme](https://github.com/henrythemes/jekyll-bootstrap-theme) - jekyll starter theme w/ bootstrap (sass version)
 - [keitaoouchi/MarkdownView](https://github.com/keitaoouchi/MarkdownView) - Markdown View for iOS.
 - [jekyllt/sustain](https://github.com/jekyllt/sustain) - 🎹 Personal blog powered by Jekyll
+- [rubygems/guides](https://github.com/rubygems/guides) - An effort to provide awesome documentation for the RubyGems ecosystem.
 - [bannzai/SpreadsheetView](https://github.com/bannzai/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.
 - [Pomax/bezierinfo](https://github.com/Pomax/bezierinfo) - A Primer on Bezier Curves
 - [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) - Auto Layout for Sketch
@@ -3982,7 +3984,6 @@
 - [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo:
 - [microsoft/uf2](https://github.com/microsoft/uf2) - UF2 file format specification
 - [opendnd/opendnd](https://github.com/opendnd/opendnd) - This is the main collection of OpenDnD Tools with generators for persons, dynasties, cities, towns, and more
-- [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 - [tholian-network/stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
@@ -5298,7 +5299,7 @@
 - [schneiderandre/popping](https://github.com/schneiderandre/popping) - A collection of animation examples for iOS apps.
 - [rsms/peertalk](https://github.com/rsms/peertalk) - iOS and Mac Cocoa library for communicating over USB
 - [pjebs/EasySocial](https://github.com/pjebs/EasySocial) - The Easiest and Simplest iOS library for Twitter and Facebook. Just Drop in and Use!
-- [griddynamics/MMWormhole](https://github.com/griddynamics/MMWormhole) - Message passing between iOS apps and extensions.
+- [griddynamics-archive/MMWormhole](https://github.com/griddynamics-archive/MMWormhole) - Message passing between iOS apps and extensions.
 - [mamaral/Organic](https://github.com/mamaral/Organic) - The intuitive UITableViewController.
 - [core-plot/core-plot](https://github.com/core-plot/core-plot) - Core Plot source code and example applications
 - [rowanj/gitx](https://github.com/rowanj/gitx) - Fork of Pieter's nice git GUI for OS X.  Includes branch/tag sidebar and various fixes. Current development focus is on removing legacy git command line usage in favour of libgit2 and objective-git.
@@ -5456,7 +5457,7 @@
 - [lhunath/UbiquityStoreManager](https://github.com/lhunath/UbiquityStoreManager) - Implements Core Data + iCloud, deals with all the nasty stuff and gives you a clean API.
 - [Overcoat/Overcoat](https://github.com/Overcoat/Overcoat) - The perfect accessory for Mantle and AFNetworking.
 - [OliverLetterer/SLRESTfulCoreData](https://github.com/OliverLetterer/SLRESTfulCoreData) - Objc naming conventions, autogenerated accessors at runtime, URL substitutions and intelligent attribute mapping
-- [griddynamics/MMRecord](https://github.com/griddynamics/MMRecord) - Seamless Web Service Integration and Core Data Model Population
+- [griddynamics-archive/MMRecord](https://github.com/griddynamics-archive/MMRecord) - Seamless Web Service Integration and Core Data Model Population
 - [apparentsoft/ReactiveCoreData](https://github.com/apparentsoft/ReactiveCoreData) - Core Data with ReactiveCocoa
 - [martydill/ios-queryable](https://github.com/martydill/ios-queryable) - ios-queryable is an implementation of IQueryable/IEnumerable for Core Data
 - [soffes/ssdatakit](https://github.com/soffes/ssdatakit) - Eliminate your Core Data boilerplate code
@@ -8136,6 +8137,7 @@
 
 ## Rust 
 
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source revision control system
 - [remysucre/prela](https://github.com/remysucre/prela) - 
 - [rousbound/typst-lua](https://github.com/rousbound/typst-lua) - Lua binding for Typst, a new markup-based typesetting system that is powerful and easy to learn.
 - [cars10/simprox](https://github.com/cars10/simprox) - Simprox is a fast and simple local proxy server
@@ -8587,7 +8589,6 @@
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [usds/playbook](https://github.com/usds/playbook) - The Digital Services Playbook
 - [lumenwrites/nulis](https://github.com/lumenwrites/nulis) - Mind-mapping software that helps writers collect and organize their knowledge, develop their ideas. Built with React, Redux, Node.js, hosted on Digital Ocean.
-- [rubygems/guides](https://github.com/rubygems/guides) - An effort to provide awesome documentation for the RubyGems ecosystem.
 - [twbs/bootstrap-rubygem](https://github.com/twbs/bootstrap-rubygem) - Bootstrap rubygem for Rails / Sprockets / Hanami / etc
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
@@ -9310,7 +9311,7 @@
 - [EricRabil/EnumMagic](https://github.com/EricRabil/EnumMagic) - Dynamically initialize enums in Swift
 - [Automattic/pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) - Pocket Casts iOS app 🎧
 - [GEOSwift/GEOSwift](https://github.com/GEOSwift/GEOSwift) - The Swift Geometry Engine.
-- [macmade/XcodeFormat](https://github.com/macmade/XcodeFormat) - 
+- [macmade/XcodeFormat](https://github.com/macmade/XcodeFormat) - macOS menu-bar app and Xcode Source Editor extension that formats Swift (SwiftFormat) and C/C++/Objective-C (uncrustify) on save — with named, shareable, auto-updating configurations and a command-lin
 - [donnywals/SwiftUIPropertyWrapperTalk](https://github.com/donnywals/SwiftUIPropertyWrapperTalk) - 
 - [judoapp/judo-ios](https://github.com/judoapp/judo-ios) - ⛔️ DEPRECATED. Replaced with https://github.com/judoapp/judo-swiftui
 - [mtj0928/SlideKit](https://github.com/mtj0928/SlideKit) - SwiftUI framework for presentation slides
