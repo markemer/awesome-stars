@@ -1394,7 +1394,7 @@
 - [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 - [marzent/wine-msync](https://github.com/marzent/wine-msync) - A Mach semaphore-based synchronization mechanism for Wine on macOS. Built for speed, inspired by fsync.
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
-- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
+- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows, macOS and Haiku. With Stellarium, you really see what you can see wit
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [AndreRenaud/PDFGen](https://github.com/AndreRenaud/PDFGen) - Simple C PDF Writer/Generation library
 - [libimobiledevice/libimobiledevice-glue](https://github.com/libimobiledevice/libimobiledevice-glue) - A library with common code used by libraries and tools around the libimobiledevice project
@@ -1549,7 +1549,7 @@
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [qt/qtbase](https://github.com/qt/qtbase) - Qt Base (Core, Gui, Widgets, Network, ...)
 - [cvet/fonline](https://github.com/cvet/fonline) - FOnline Engine is a flexible cross-platform isometric game engine
-- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
+- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows, macOS and Haiku. With Stellarium, you really see what you can see wit
 - [tpaviot/oce](https://github.com/tpaviot/oce) - OpenCASCADE Community Edition (OCE): a community driven fork of the Open CASCADE library.
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -1792,6 +1792,7 @@
 - [konrad1977/loco](https://github.com/konrad1977/loco) - A linter for Swift Localizations
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - PDF tooling for Go and the command line.
+- [macmade/XcodeFormat](https://github.com/macmade/XcodeFormat) - macOS menu-bar app and Xcode Source Editor extension that formats Swift (SwiftFormat) and C/C++/Objective-C (uncrustify) on save — with named, shareable, auto-updating configurations and a command-lin
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
@@ -2973,6 +2974,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [paul-j-lucas/cdecl](https://github.com/paul-j-lucas/cdecl) - Composing and deciphering C (or C++) declarations or casts, aka ‘‘gibberish.’’
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [macmade/XcodeFormat](https://github.com/macmade/XcodeFormat) - macOS menu-bar app and Xcode Source Editor extension that formats Swift (SwiftFormat) and C/C++/Objective-C (uncrustify) on save — with named, shareable, auto-updating configurations and a command-lin
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -5110,7 +5112,6 @@
 - [rakudo/rakudo](https://github.com/rakudo/rakudo) - 🦋 Rakudo – Raku on MoarVM, JVM, and JS
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A global repository of open address, building, and parcel data.
-- [JuliaGPU/GPUArrays.jl](https://github.com/JuliaGPU/GPUArrays.jl) - Reusable array functionality for Julia's various GPU backends.
 - [MessageKit/MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 - [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive) - Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
@@ -7467,6 +7468,7 @@
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac) - Collection of macOS automation tools for Ansible.
 - [GEOSwift/GEOSwift](https://github.com/GEOSwift/GEOSwift) - The Swift Geometry Engine.
+- [macmade/XcodeFormat](https://github.com/macmade/XcodeFormat) - macOS menu-bar app and Xcode Source Editor extension that formats Swift (SwiftFormat) and C/C++/Objective-C (uncrustify) on save — with named, shareable, auto-updating configurations and a command-lin
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
 - [shaps80/MarkdownText](https://github.com/shaps80/MarkdownText) - A native SwiftUI view for rendering Markdown text in an iOS or macOS app
@@ -8415,6 +8417,7 @@
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [googlemaps/google-maps-ios-utils](https://github.com/googlemaps/google-maps-ios-utils) - Google Maps SDK for iOS Utility Library
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
+- [macmade/XcodeFormat](https://github.com/macmade/XcodeFormat) - macOS menu-bar app and Xcode Source Editor extension that formats Swift (SwiftFormat) and C/C++/Objective-C (uncrustify) on save — with named, shareable, auto-updating configurations and a command-lin
 - [efremidze/Animoji](https://github.com/efremidze/Animoji) - Animoji Generator 🦊
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [ChristianKienle/Core-Data-Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. Core Data Editor is compatible with Mac and iOS applications and supports XML, SQLite and binary stores, visualizes all rela
@@ -8547,6 +8550,7 @@
 
 ## open-source 
 
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source revision control system
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [kewonit/aeris](https://github.com/kewonit/aeris) - Aeris is a real-time 3D flight radar for the web
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -9955,7 +9959,6 @@
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [Apress/programming-with-64-bit-ARM-assembly-language](https://github.com/Apress/programming-with-64-bit-ARM-assembly-language) - Source Code for 'Programming with 64-Bit ARM Assembly Language: Single Board Computer Development for Raspberry Pi and Mobile Devices' by Stephen Smith
 - [lezer-parser/markdown](https://github.com/lezer-parser/markdown) - A lezer-integrated Markdown parser
-- [macmade/XcodeFormat](https://github.com/macmade/XcodeFormat) - 
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [JulianKemmerer/PipelineC-Graphics](https://github.com/JulianKemmerer/PipelineC-Graphics) - Graphics demos
 - [suarezvictor/CflexHDL](https://github.com/suarezvictor/CflexHDL) - Design digital circuits in C. Simulate really fast with a regular compiler.
@@ -13955,7 +13958,7 @@
 - [rsms/peertalk](https://github.com/rsms/peertalk) - iOS and Mac Cocoa library for communicating over USB
 - [pjebs/EasySocial](https://github.com/pjebs/EasySocial) - The Easiest and Simplest iOS library for Twitter and Facebook. Just Drop in and Use!
 - [adafruit/Adafruit-Pi-Kernel-o-Matic](https://github.com/adafruit/Adafruit-Pi-Kernel-o-Matic) - 
-- [griddynamics/MMWormhole](https://github.com/griddynamics/MMWormhole) - Message passing between iOS apps and extensions.
+- [griddynamics-archive/MMWormhole](https://github.com/griddynamics-archive/MMWormhole) - Message passing between iOS apps and extensions.
 - [MengTo/Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
 - [rsms/cmdr](https://github.com/rsms/cmdr) - Helps writing command-line programs with subcommands in Go
 - [mamaral/Organic](https://github.com/mamaral/Organic) - The intuitive UITableViewController.
@@ -14467,7 +14470,7 @@
 - [lhunath/UbiquityStoreManager](https://github.com/lhunath/UbiquityStoreManager) - Implements Core Data + iCloud, deals with all the nasty stuff and gives you a clean API.
 - [Overcoat/Overcoat](https://github.com/Overcoat/Overcoat) - The perfect accessory for Mantle and AFNetworking.
 - [OliverLetterer/SLRESTfulCoreData](https://github.com/OliverLetterer/SLRESTfulCoreData) - Objc naming conventions, autogenerated accessors at runtime, URL substitutions and intelligent attribute mapping
-- [griddynamics/MMRecord](https://github.com/griddynamics/MMRecord) - Seamless Web Service Integration and Core Data Model Population
+- [griddynamics-archive/MMRecord](https://github.com/griddynamics-archive/MMRecord) - Seamless Web Service Integration and Core Data Model Population
 - [AFNetworking/AFIncrementalStore](https://github.com/AFNetworking/AFIncrementalStore) - 
 - [apparentsoft/ReactiveCoreData](https://github.com/apparentsoft/ReactiveCoreData) - Core Data with ReactiveCocoa
 - [martydill/ios-queryable](https://github.com/martydill/ios-queryable) - ios-queryable is an implementation of IQueryable/IEnumerable for Core Data
@@ -17154,6 +17157,7 @@
 - [Sherlouk/swift-snapshot-testing-stitch](https://github.com/Sherlouk/swift-snapshot-testing-stitch) - Combine SnapshotTesting images into a single asset
 - [konrad1977/loco](https://github.com/konrad1977/loco) - A linter for Swift Localizations
 - [GEOSwift/GEOSwift](https://github.com/GEOSwift/GEOSwift) - The Swift Geometry Engine.
+- [macmade/XcodeFormat](https://github.com/macmade/XcodeFormat) - macOS menu-bar app and Xcode Source Editor extension that formats Swift (SwiftFormat) and C/C++/Objective-C (uncrustify) on save — with named, shareable, auto-updating configurations and a command-lin
 - [mtj0928/SlideKit](https://github.com/mtj0928/SlideKit) - SwiftUI framework for presentation slides
 - [seanhenry/SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode) - An Xcode extension (plugin) to generate Swift test doubles automatically.
 - [fredyshox/PageView](https://github.com/fredyshox/PageView) - SwiftUI view enabling navigation between pages of content, imitating the behaviour of UIPageViewController for iOS and watchOS
@@ -19166,6 +19170,7 @@
 - [touchlab/KMMBridge](https://github.com/touchlab/KMMBridge) - KMMBridge is a tool that helps publish Kotlin Multiplatform (KMP) Xcode binaries for use from Swift Package Manager (SPM) and CocoaPods.
 - [konrad1977/loco](https://github.com/konrad1977/loco) - A linter for Swift Localizations
 - [GEOSwift/GEOSwift](https://github.com/GEOSwift/GEOSwift) - The Swift Geometry Engine.
+- [macmade/XcodeFormat](https://github.com/macmade/XcodeFormat) - macOS menu-bar app and Xcode Source Editor extension that formats Swift (SwiftFormat) and C/C++/Objective-C (uncrustify) on save — with named, shareable, auto-updating configurations and a command-lin
 - [seanhenry/SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode) - An Xcode extension (plugin) to generate Swift test doubles automatically.
 - [joshdholtz/DeckUI](https://github.com/joshdholtz/DeckUI) - Swift DSL for writing slide decks in Xcode
 - [hmlongco/Factory](https://github.com/hmlongco/Factory) - A modern approach to Container-Based Dependency Injection for Swift and SwiftUI.
