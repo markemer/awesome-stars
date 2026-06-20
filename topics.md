@@ -258,6 +258,7 @@
 - [react-native](#react-native)
 - [reactiveui](#reactiveui)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [redux](#redux)
 - [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
@@ -7601,7 +7602,6 @@
 - [pqrs-org/Karabiner-DriverKit-VirtualHIDDevice](https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice) - 
 - [microsoft/plcrashreporter](https://github.com/microsoft/plcrashreporter) - Reliable, open-source crash reporting for iOS, macOS and tvOS
 - [Impedimenta/Suitcase](https://github.com/Impedimenta/Suitcase) - A flexible command line tool for instantly deploying user interfaces for simple commands and scripts.
-- [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [twostraws/Sourceful](https://github.com/twostraws/Sourceful) - A syntax highlighting source editor for iOS and macOS using UITextView and NSTextView.
 - [akeru-inc/xcnotary](https://github.com/akeru-inc/xcnotary) - the missing macOS app notarization helper, built with Rust
 - [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift
@@ -8550,7 +8550,7 @@
 
 ## open-source 
 
-- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source revision control system
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [kewonit/aeris](https://github.com/kewonit/aeris) - Aeris is a real-time 3D flight radar for the web
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -14002,7 +14002,7 @@
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [ScottLogic/iOS8-day-by-day](https://github.com/ScottLogic/iOS8-day-by-day) - Selection of projects accompanying the iOS8-Day-by-Day blog series
 - [muhammadbassio/MABCardsView](https://github.com/muhammadbassio/MABCardsView) - A Swift port for https://github.com/zhxnlai/ZLSwipeableView
-- [kimar/PulsingLayer](https://github.com/kimar/PulsingLayer) - Adds a customizable CALayer halo effect to any arbitrary UIView. Completely written in Swift.
+- [DK1DA/PulsingLayer](https://github.com/DK1DA/PulsingLayer) - Adds a customizable CALayer halo effect to any arbitrary UIView. Completely written in Swift.
 - [jenkinsci/xcode-plugin](https://github.com/jenkinsci/xcode-plugin) - Xcode integration for mobile/iOS developments (iPhone, iPad, ...).
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [mirage/mirage-www](https://github.com/mirage/mirage-www) - Website infrastructure and content for mirage.io
@@ -15934,6 +15934,10 @@
 - [enactjs/enact](https://github.com/enactjs/enact) - An app development framework built atop React that’s easy to use, performant and customizable.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard) - [UNMAINTAINED] A goal, task & habit tracker + personal dashboard to focus on what matters
+
+## redteam 
+
+- [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 
 ## redux 
 
