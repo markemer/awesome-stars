@@ -1157,7 +1157,6 @@
 - [jncronin/rpi-boot](https://github.com/jncronin/rpi-boot) - A second stage bootloader for the Raspberry Pi
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
 - [LuaDist/luajit](https://github.com/LuaDist/luajit) - LuaJIT is JIT compiler for the Lua language.
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [simh/simh](https://github.com/simh/simh) - The Computer History Simulation Project
 - [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
@@ -3194,6 +3193,7 @@
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [cpmech/gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, 
 - [schollz/find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [unigornel/unigornel](https://github.com/unigornel/unigornel) - A library operating system for Go
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
@@ -3323,6 +3323,7 @@
 - [will127534/OneInchEye](https://github.com/will127534/OneInchEye) - A One Inch CMOS sensor (IMX283) camera board designed for Raspberry Pi
 - [thpoll83/PolyKybd](https://github.com/thpoll83/PolyKybd) - PolyKybd
 - [dy/wavefont](https://github.com/dy/wavefont) - Typeface for rendering waveform/data
+- [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [larsbrinkhoff/awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - All CPU and MCU documentation in one place
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [joesinghaus/Blades-template](https://github.com/joesinghaus/Blades-template) - A template/guide for creating roll20 sheets based on the Blades in the Dark sheet
@@ -3607,7 +3608,6 @@
 - [MxAriadne/BG3SaveManager](https://github.com/MxAriadne/BG3SaveManager) - A tool that allows you to export and import save files for Baldurs Gate 3. Still compatible with Patch 8!
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [techyourchance/android-architecture-course-old](https://github.com/techyourchance/android-architecture-course-old) - 
 - [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 - [DMaroo/GhidRust](https://github.com/DMaroo/GhidRust) - GhidRust: Rust decompiler plugin for Ghidra
@@ -7325,6 +7325,7 @@
 - [comp-imaging/ProxImaL](https://github.com/comp-imaging/ProxImaL) - A domain-specific language for image optimization.
 - [chasingbob/keras-visuals](https://github.com/chasingbob/keras-visuals) - Tools to help you visualise the training of your Keras model
 - [google/capirca](https://github.com/google/capirca) - Multi-platform ACL generation system
+- [opencardev/crankshaft](https://github.com/opencardev/crankshaft) - Crankshaft: A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
@@ -8137,7 +8138,7 @@
 
 ## Rust 
 
-- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source revision control system
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [remysucre/prela](https://github.com/remysucre/prela) - 
 - [rousbound/typst-lua](https://github.com/rousbound/typst-lua) - Lua binding for Typst, a new markup-based typesetting system that is powerful and easy to learn.
 - [cars10/simprox](https://github.com/cars10/simprox) - Simprox is a fast and simple local proxy server
@@ -8859,7 +8860,6 @@
 - [munki/bootstrappr](https://github.com/munki/bootstrappr) - A bare-bones tool to install a set of packages on a target volume.
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [zachcurry/emacs-anywhere](https://github.com/zachcurry/emacs-anywhere) - Configurable automation + hooks called with application information
-- [opencardev/crankshaft](https://github.com/opencardev/crankshaft) - Crankshaft: A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
 - [PlanetAPL/APLkeyboard](https://github.com/PlanetAPL/APLkeyboard) - 
 - [cytoscape/cytoscape](https://github.com/cytoscape/cytoscape) - Cytoscape: an open source platform for network analysis and visualization
 - [armbian/build](https://github.com/armbian/build) - The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configur
@@ -10614,7 +10614,7 @@
 - [marcelofabri/BigBrother](https://github.com/marcelofabri/BigBrother) - Automatically sets the network activity indicator for any performed request.
 - [ScottLogic/iOS8-day-by-day](https://github.com/ScottLogic/iOS8-day-by-day) - Selection of projects accompanying the iOS8-Day-by-Day blog series
 - [muhammadbassio/MABCardsView](https://github.com/muhammadbassio/MABCardsView) - A Swift port for https://github.com/zhxnlai/ZLSwipeableView
-- [kimar/PulsingLayer](https://github.com/kimar/PulsingLayer) - Adds a customizable CALayer halo effect to any arbitrary UIView. Completely written in Swift.
+- [DK1DA/PulsingLayer](https://github.com/DK1DA/PulsingLayer) - Adds a customizable CALayer halo effect to any arbitrary UIView. Completely written in Swift.
 - [GJNilsen/YPDrawSignatureView](https://github.com/GJNilsen/YPDrawSignatureView) - Capture signature view in Swift and export it as a vector graphics or bitmap
 - [lexrus/VPNOn](https://github.com/lexrus/VPNOn) - Turn On your VPN like a hero.
 - [jquave/EasyCast](https://github.com/jquave/EasyCast) - Makes math operations in Swift easier by adding automatic casting between Int, Float, CGFloat, and Double. Use with care.
