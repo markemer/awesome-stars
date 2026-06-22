@@ -6171,7 +6171,7 @@
 - [apache/cordova-weinre](https://github.com/apache/cordova-weinre) - Mirror of Apache Weinre
 - [lucky-bai/MSolver](https://github.com/lucky-bai/MSolver) - A small, self-contained minesweeper solver written in Java
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
-- [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous Http and WebSocket Client library for Java
+- [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - High-Performance Asynchronous HTTP and WebSocket Client Library for Java
 - [apache/cassandra](https://github.com/apache/cassandra) - Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.
 
 ## javascript 
@@ -6598,7 +6598,7 @@
 - [fastai/nbdev_template](https://github.com/fastai/nbdev_template) - Template for nbdev projects
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [tensorflow/lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
-- [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
+- [jupytext/jupytext](https://github.com/jupytext/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [pkmital/CADL](https://github.com/pkmital/CADL) - ARCHIVED: Contains historical course materials/Homework materials for the FREE MOOC course on "Creative Applications of Deep Learning w/ Tensorflow" #CADL
 - [Dyalog/dyalog-jupyter-notebooks](https://github.com/Dyalog/dyalog-jupyter-notebooks) - Jupyter notebooks for Dyalog APL
 - [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.
@@ -7890,7 +7890,7 @@
 - [nea/MarkdownViewerPlusPlus](https://github.com/nea/MarkdownViewerPlusPlus) - A Notepad++ Plugin to view a Markdown file rendered on-the-fly
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [johnxnguyen/Down](https://github.com/johnxnguyen/Down) - Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark.
-- [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
+- [jupytext/jupytext](https://github.com/jupytext/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [chmllr/notehub](https://github.com/chmllr/notehub) - A pastebin for markdown pages.
@@ -14048,7 +14048,7 @@
 - [specta/expecta](https://github.com/specta/expecta) - A Matcher Framework for Objective-C/Cocoa
 - [orta/Snapshots](https://github.com/orta/Snapshots) - An Xcode Plugin to show the state of FBSnapshot Tests.
 - [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
-- [freebsdgirl/ggautoblocker](https://github.com/freebsdgirl/ggautoblocker) - Good Game Auto Blocker
+- [randileeharper/ggautoblocker](https://github.com/randileeharper/ggautoblocker) - Good Game Auto Blocker
 - [fastlane-old/sigh](https://github.com/fastlane-old/sigh) - Because you would rather spend your time building stuff than fighting provisioning
 - [timd/FirebasePlayground](https://github.com/timd/FirebasePlayground) - A minimal implementation of an app that talks to Firebase
 - [frosty/Flipbook](https://github.com/frosty/Flipbook) - A Swift tool to render UIViews to image sequences for use with WatchKit, and accompanying sample WatchKit project.
@@ -15420,7 +15420,7 @@
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
 - [tleonhardt/practical_cryptography_engineering](https://github.com/tleonhardt/practical_cryptography_engineering) - Cryptography code examples using libsodium and mbedtls C libraries and Python cryptography and PyNaCl modules
 - [tkrajina/gpxpy](https://github.com/tkrajina/gpxpy) - gpx-py is a python GPX parser. GPX (GPS eXchange Format) is an XML based file format for GPS tracks.
-- [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
+- [jupytext/jupytext](https://github.com/jupytext/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [calebmadrigal/trackerjacker](https://github.com/calebmadrigal/trackerjacker) - Like nmap for mapping wifi networks you're not connected to, plus device tracking
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
@@ -17017,6 +17017,7 @@
 
 ## swift 
 
+- [tmandry/AXSwift](https://github.com/tmandry/AXSwift) - Swift wrapper for accessibility clients
 - [huseyinaslim/macos-keyboardblocker](https://github.com/huseyinaslim/macos-keyboardblocker) - 🔒 Lock your Mac's keyboard while cleaning - prevents accidental keypresse
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [SwiftyLua/SwiftyLua](https://github.com/SwiftyLua/SwiftyLua) - Swift bridge for Lua
