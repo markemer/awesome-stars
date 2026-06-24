@@ -1978,7 +1978,6 @@
 - [macosforge/alac](https://github.com/macosforge/alac) - The Apple Lossless Audio Codec (ALAC) is a lossless audio codec developed by Apple and deployed on all of its platforms and devices.
 - [terralang/terra](https://github.com/terralang/terra) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
 - [sfall-team/sfall](https://github.com/sfall-team/sfall) - sfall - Engine modifications for Fallout 2
-- [AcademySoftwareFoundation/OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) - Open Source API and interchange format for editorial timeline information.
 - [PixarAnimationStudios/OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) - Universal Scene Description
 - [LunarG/VulkanSamples](https://github.com/LunarG/VulkanSamples) - Vulkan Samples
 - [LunarG/LunarGLASS](https://github.com/LunarG/LunarGLASS) - LLVM IR and optimizer for shaders, including front-end adapters for GLSL and SPIR-V and back-end adapter for GLSL
@@ -3600,6 +3599,7 @@
 - [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
 - [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
 - [stipple-effect/stipple-effect](https://github.com/stipple-effect/stipple-effect) - Stipple Effect is a pixel art editor that supports animation and scripting (available on Windows, macOS and Linux)
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [mike42/6502-assembly-intellij](https://github.com/mike42/6502-assembly-intellij) - An Intellij plugin for 6502 assembly projects (ca65 syntax)
@@ -3988,6 +3988,7 @@
 - [tholian-network/stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
+- [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [drake7707/paintbynumbersgenerator](https://github.com/drake7707/paintbynumbersgenerator) - Paint by numbers generator
 - [anvaka/nb](https://github.com/anvaka/nb) - Neighborhood beautification: Graph layout through message passing
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
@@ -6635,7 +6636,6 @@
 - [benroeder/nimbiestatemachine](https://github.com/benroeder/nimbiestatemachine) - Python driver and state machine for Acronova Nimbie NB21 CD/DVD duplicator
 - [albaintor/integration-lgtv](https://github.com/albaintor/integration-lgtv) - Unfolded Circle Remote Two integration driver for LG TVs
 - [home-assistant-libs/aiowebostv](https://github.com/home-assistant-libs/aiowebostv) - Python library to control LG webOS based TV devices
-- [BMsemi/X1-NVM-open_IPs](https://github.com/BMsemi/X1-NVM-open_IPs) - Reference Open Source IPs using BM LABS X1
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
 - [FarisZR/knocker](https://github.com/FarisZR/knocker) - Knocker, a knock based access control service for your homelab
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
@@ -7235,6 +7235,7 @@
 - [Beliar83/bGrease](https://github.com/Beliar83/bGrease) - The highly extensible game engine framework for Python, modified to make it easily usable with other libraries than pyglet.
 - [caseman/grease](https://github.com/caseman/grease) - The highly extensible game engine framework for Python
 - [stanford-oval/genie-parser](https://github.com/stanford-oval/genie-parser) - Neural Network Semantic Parser for Almond
+- [AcademySoftwareFoundation/OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) - Open Source API and interchange format for editorial timeline information.
 - [Befzz/blender3d_import_psk_psa](https://github.com/Befzz/blender3d_import_psk_psa) - import mesh, skeleton, animation from psk, psa files to blender3d
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [patchew-project/patchew](https://github.com/patchew-project/patchew) - A patch email tracking and testing system
@@ -9883,7 +9884,7 @@
 - [joshbirnholz/JBCalendarDatePicker](https://github.com/joshbirnholz/JBCalendarDatePicker) - A replacement for UIDatePicker made for Catalyst.
 - [paololeonardi/WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI.
 - [bloomberg/xcdiff](https://github.com/bloomberg/xcdiff) - A tool which helps you diff xcodeproj files.
-- [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Retroactive has been discontinued. You should transition from Retroactive to supported apps such as Music, iTunes for Windows, iMazing, Photos, Darktable, Lightroom Classic, and DaVinci Resolve.
+- [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, and iTunes on macOS Golden Gate, macOS Tahoe, macOS Sequoia, macOS Sonoma, macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut
 - [yahoo/YMTreeMap](https://github.com/yahoo/YMTreeMap) - High performance Swift treemap layout engine for iOS and macOS.
 - [ChimeHQ/NicerTouchBar](https://github.com/ChimeHQ/NicerTouchBar) - Utilities for a more pleasant NSTouchBar development experience
 - [slackhq/PanModal](https://github.com/slackhq/PanModal) - An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.
@@ -10865,7 +10866,6 @@
 - [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a typeface inspired by typewriters, Apple's San Francisco Mono, ASCII art, command-line interfaces, and programming tools.
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [StreamPot/StreamPot](https://github.com/StreamPot/StreamPot) - Run FFmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [kjk/edna](https://github.com/kjk/edna) - Note taking with super powers
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -11040,7 +11040,6 @@
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [arnog/mathlive](https://github.com/arnog/mathlive) - Web components for math display and input
-- [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [caddyserver/vscode-caddyfile](https://github.com/caddyserver/vscode-caddyfile) - Rich Caddyfile support for Visual Studio Code
 - [vknabel/vscode-swift-development-environment](https://github.com/vknabel/vscode-swift-development-environment) - New home of Swift Development Environment for VS Code
