@@ -320,6 +320,7 @@
 
 ## C 
 
+- [dmtrKovalenko/ffs](https://github.com/dmtrKovalenko/ffs) - F*ck file system - cli file search tool that bypasses OS kernel and reads your disc directlry
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
 - [luke8086/gentleos32](https://github.com/luke8086/gentleos32) - Hobby operating system for vintage 32-bit PCs
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -2420,7 +2421,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
+- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [rosera/flutter-and-dart-cookbook](https://github.com/rosera/flutter-and-dart-cookbook) - Flutter and Dart Cookbook  O'Reilly Companion repository
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
@@ -8139,6 +8140,7 @@
 
 ## Rust 
 
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [remysucre/prela](https://github.com/remysucre/prela) - 
 - [rousbound/typst-lua](https://github.com/rousbound/typst-lua) - Lua binding for Typst, a new markup-based typesetting system that is powerful and easy to learn.
