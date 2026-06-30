@@ -320,6 +320,7 @@
 
 ## C 
 
+- [outergroup/outershell](https://github.com/outergroup/outershell) - Servers and edge devices should have an "outer" graphical shell
 - [dmtrKovalenko/ffs](https://github.com/dmtrKovalenko/ffs) - F*ck file system - cli file search tool that bypasses OS kernel and reads your disc directlry
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
 - [luke8086/gentleos32](https://github.com/luke8086/gentleos32) - Hobby operating system for vintage 32-bit PCs
@@ -1258,6 +1259,7 @@
 
 ## C# # 
 
+- [jaygumji/ArcemiPathfinderKingmakerTools](https://github.com/jaygumji/ArcemiPathfinderKingmakerTools) - 
 - [C7-Game/OpenCiv3](https://github.com/C7-Game/OpenCiv3) - OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with capabilities inspired by the best of the 4
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [thehambeard/Unity2Debug](https://github.com/thehambeard/Unity2Debug) - Converts Unity retail games to development mode
@@ -1471,7 +1473,7 @@
 - [electronicarts/CnC_Tiberian_Dawn](https://github.com/electronicarts/CnC_Tiberian_Dawn) - Command and Conquer Tiberian Dawn
 - [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
-- [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware) - Advanced VM detection library and tool
+- [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) - Advanced VM detection library and tool
 - [LaurieWired/SantaClausProblem](https://github.com/LaurieWired/SantaClausProblem) - C++ solution and demonstration of the Santa Claus concurrency problem
 - [drk1wi/Portspoof](https://github.com/drk1wi/Portspoof) - Portspoof
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
@@ -1490,8 +1492,7 @@
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [shibatch/tlfloat](https://github.com/shibatch/tlfloat) - C++ template library for floating point operations
 - [ra3xdh/qucsator_rf](https://github.com/ra3xdh/qucsator_rf) - Qucsator-RF is RF circuit simulation kernel for Qucs-S
-- [matyler/mtCellEdit](https://github.com/matyler/mtCellEdit) - Mark Tyler's Spreadsheet Program
-- [iains/gcc-14-branch](https://github.com/iains/gcc-14-branch) - GCC 14 for Darwin with experimental Arm64 support.  Current release 14.2-darwin-r2 [October 2024]
+- [iains/gcc-14-branch](https://github.com/iains/gcc-14-branch) - GCC 14 for Darwin with experimental Arm64 support.  Current release 14.4-darwin-r0 [June 2026]
 - [Robotips/uConfig](https://github.com/Robotips/uConfig) - Datasheet pinout extractor from PDF and library Stylizer for Kicad.
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [nodejs/nan](https://github.com/nodejs/nan) - Native Abstractions for Node.js
@@ -4527,7 +4528,7 @@
 - [antipalindrome/Photoshop-Export-Layers-to-Files-Fast](https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast) - This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [hmaidasani/RadialChartImageGenerator](https://github.com/hmaidasani/RadialChartImageGenerator) - Radial Bar Chart Generator for Apple Watch -
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
@@ -4848,7 +4849,6 @@
 ## Lua 
 
 - [cheat-engine/UnrealEngineTools](https://github.com/cheat-engine/UnrealEngineTools) - Tool for Cheat Engine to collect information about Unreal Engine games
-- [ArkForgeLabs/Astra](https://github.com/ArkForgeLabs/Astra) - 🔥 Blazingly Fast 🔥 runtime environment for Lua
 - [franko/luajit-lang-toolkit](https://github.com/franko/luajit-lang-toolkit) - A Lua bytecode compiler written in Lua itself for didactic purposes or for new language implementations
 - [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)
 - [LaughingLeader/BG3ModdingTools](https://github.com/LaughingLeader/BG3ModdingTools) - A collection is miscellaneous snippets and scripts to make life easier when modding Baldur's Gate 3.
@@ -5677,6 +5677,7 @@
 - [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - Collection of resources about Virtualization
 - [microsoftarchive/msdn-code-gallery-microsoft](https://github.com/microsoftarchive/msdn-code-gallery-microsoft) - Samples from Microsoft teams for the MSDN Code Gallery
 - [duckyb/eternal-keypad](https://github.com/duckyb/eternal-keypad) - A 36 key gaming keypad, for both right and left handed mouse users.
+- [matyler/mtCellEdit](https://github.com/matyler/mtCellEdit) - Mark Tyler's Spreadsheet Program
 - [sketchfab/unreal-plugin](https://github.com/sketchfab/unreal-plugin) - 
 - [joanbono/awesome-kicad](https://github.com/joanbono/awesome-kicad) - A curated list of awesome KiCad plugins and resources
 - [macstadium/orka-desktop](https://github.com/macstadium/orka-desktop) - Orka Desktop is a free, no obligation, virtualization tool, which is designed to be deployed on individual macOS workstations.
@@ -6883,7 +6884,7 @@
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses.
 - [jspricke/radicale-remind](https://github.com/jspricke/radicale-remind) - Radicale storage backends for Remind and Abook
-- [RTimothyEdwards/open_pdks](https://github.com/RTimothyEdwards/open_pdks) - PDK installer for open-source EDA tools and toolchains.  Distributed with setups for the SkyWater 130nm and Global Foundries 180nm open processes.
+- [fossi-foundation/open-pdks](https://github.com/fossi-foundation/open-pdks) - PDK installer for open-source EDA tools and toolchains.  Distributed with setups for the SkyWater 130nm and Global Foundries 180nm open processes.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
@@ -8140,6 +8141,7 @@
 
 ## Rust 
 
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [remysucre/prela](https://github.com/remysucre/prela) - 
@@ -8161,11 +8163,12 @@
 - [microsoft/litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
 - [mroboff/vm-curator](https://github.com/mroboff/vm-curator) - vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines for desktop use with working 3D acceleration (para-virtualized and pass-through.)
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded database for serverless and edge runtimes.
 - [games-on-whales/gst-wayland-display](https://github.com/games-on-whales/gst-wayland-display) - A micro Wayland compositor that can be used as a Gstreamer plugin
+- [ArkForgeLabs/Astra](https://github.com/ArkForgeLabs/Astra) - 🔥 Blazingly Fast 🔥 runtime environment for Lua
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [trumank/uesave](https://github.com/trumank/uesave) - Rust library and CLI to read and write Unreal Engine save files
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
@@ -8555,7 +8558,7 @@
 - [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 - [cryfs/cryfs](https://github.com/cryfs/cryfs) - Cryptographic filesystem for the cloud
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
+- [nikivdev/code](https://github.com/nikivdev/code) - 
 - [rusticata/rusticata](https://github.com/rusticata/rusticata) - Rusticata: Rust parsers for Suricata (test code)
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
@@ -9025,6 +9028,10 @@
 
 ## Swift 
 
+- [outergroup/hello-outerframe-macOS-swift](https://github.com/outergroup/hello-outerframe-macOS-swift) - Jumping off point for macOS outerframe apps
+- [outergroup/outerframe](https://github.com/outergroup/outerframe) - Like a web view, but native
+- [ChrisGVE/NumericSwift](https://github.com/ChrisGVE/NumericSwift) - Scientific computing library for Swift - distributions, integration, optimization, interpolation
+- [ChrisGVE/LuaSwift](https://github.com/ChrisGVE/LuaSwift) - Lightweight Swift wrapper for Lua 5.1-5.5 (default 5.4) with optional extensions
 - [tmandry/AXSwift](https://github.com/tmandry/AXSwift) - Swift wrapper for accessibility clients
 - [kabiroberai/node-swift](https://github.com/kabiroberai/node-swift) - Create Node modules in Swift
 - [huseyinaslim/macos-keyboardblocker](https://github.com/huseyinaslim/macos-keyboardblocker) - 🔒 Lock your Mac's keyboard while cleaning - prevents accidental keypresse
@@ -9164,7 +9171,7 @@
 - [danielsaidi/OnboardingKit](https://github.com/danielsaidi/OnboardingKit) - Create amazing SwiftUI onboarding experiences.
 - [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite lan
 - [Moonif/MacBox](https://github.com/Moonif/MacBox) - MacBox for 86Box
-- [alessiorubicini/SFSymbolsPickerForSwiftUI](https://github.com/alessiorubicini/SFSymbolsPickerForSwiftUI) - A picker to select SF Symbols in your SwiftUi app!
+- [alessiorubicini/SFSymbolsPickerForSwiftUI](https://github.com/alessiorubicini/SFSymbolsPickerForSwiftUI) - A simple, highly customizable SwiftUI component for picking Apple's SF Symbols in iOS and macOS applications.
 - [AladinWay/TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation.
 - [WireGuard/wireguard-apple](https://github.com/WireGuard/wireguard-apple) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-apple
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
@@ -9442,7 +9449,7 @@
 - [AnyImageKit/AnyImageKit](https://github.com/AnyImageKit/AnyImageKit) - A toolbox for pick/edit/capture photo or video. Written in Swift.
 - [willowtreeapps/spruce-ios](https://github.com/willowtreeapps/spruce-ios) - Swift library for choreographing animations on the screen.
 - [awslabs/aws-sdk-swift](https://github.com/awslabs/aws-sdk-swift) - 
-- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, SwiftUI, support subtitles.
+- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support HLG、HDR10、 HDR10+、Dolby Vision、Dolby Atmos、Text/Image subtitle.
 - [ThasianX/ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 - [gmarm/BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - An easy to use, customizable replacement for UISegmentedControl & UISwitch.
 - [hussc/PTCardTabBar](https://github.com/hussc/PTCardTabBar) - Card-Style TabBarController for iOS
@@ -10774,7 +10781,6 @@
 ## TypeScript 
 
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
-- [eigenpal/docx-editor](https://github.com/eigenpal/docx-editor) - Open-source WYSIWYG .docx editor library with canonical OOXML, tracked changes, and real-time collaboration. Agent-ready.
 - [xt42io/avnac](https://github.com/xt42io/avnac) - Free browser-based design software.
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
