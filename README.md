@@ -2340,7 +2340,7 @@
 - [mentat-collective/emmy](https://github.com/mentat-collective/emmy) - The Emmy Computer Algebra System.
 - [narimiran/AdventOfCode2022](https://github.com/narimiran/AdventOfCode2022) - My solutions for AoC 2022
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - config karabiner with ease
 - [Orcpub/orcpub](https://github.com/Orcpub/orcpub) - Code for Dungeon Master's Vault Community Edition
 - [keybase/colorbase](https://github.com/keybase/colorbase) - Example proof service in Clojure - colors for everyone!
@@ -2559,7 +2559,7 @@
 
 - [prusa3d/libbgcode](https://github.com/prusa3d/libbgcode) - Prusa Block & Binary G-code reader / writer / converter
 - [danwerner21/we816](https://github.com/danwerner21/we816) - The WE816 is a 16-bit 65816 based system with 512K of System RAM, 96K of System ROM, 32K of video RAM, a TMS9918 graphics processor and an AY-3-8910 Sound chip. The system runs a custom version of BAS
-- [FaqT0tum/Orbion_Space_Mouse_OLD](https://github.com/FaqT0tum/Orbion_Space_Mouse_OLD) - ORBION the OpenSource Space Mouse 3D
+- [sedmenti/Orbion_Space_Mouse_OLD](https://github.com/sedmenti/Orbion_Space_Mouse_OLD) - ORBION the OpenSource Space Mouse 3D
 - [macchina/m2-enclosures](https://github.com/macchina/m2-enclosures) - 3D-printable M2 enclosures designed by Macchina
 
 ## GDScript 
@@ -4002,7 +4002,7 @@
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [handsontable/formula-parser](https://github.com/handsontable/formula-parser) - Javascript Library parsing Excel Formulas and more
 - [lucienmaloney/civ6save-editing](https://github.com/lucienmaloney/civ6save-editing) - A work in progress collection of tools and information related to editing .Civ6save files
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and streams
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and live streams
 - [potrudeau/homebridge-messenger](https://github.com/potrudeau/homebridge-messenger) - Send HomeKit messages with HomeBridge (Pushover / IFTTT / Email)
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [Walker-TW/Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer) - View Algorithms in the Browser! - Built with ReactJs
@@ -9796,7 +9796,7 @@
 - [twostraws/watchOS](https://github.com/twostraws/watchOS) - The project source code for Hacking with watchOS.
 - [Ramotion/swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) - Swift UI libraries, iOS components and animations by @Ramotion
 - [macmade/Xclean](https://github.com/macmade/Xclean) - Xclean is a macOS menu bar app that provides a convenient way to clear Xcode's derived data or module cache.
-- [apple/swift-standard-library-preview](https://github.com/apple/swift-standard-library-preview) - 
+- [swiftlang/swift-standard-library-preview](https://github.com/swiftlang/swift-standard-library-preview) - 
 - [insidegui/TwitterPublishPlugin](https://github.com/insidegui/TwitterPublishPlugin) - A plugin for Publish that let's you easily embed tweets in your posts.
 - [composed-swift/ComposedLayouts](https://github.com/composed-swift/ComposedLayouts) - A Swift framework that provides conveniences for using Composed with UICollectionViewCompositionalLayout and UICollectionViewFlowLayout.
 - [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - 📋 Inspect the system pasteboards on macOS
@@ -10403,7 +10403,7 @@
 - [philackm/ScrollableGraphView](https://github.com/philackm/ScrollableGraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
 - [Kitura/Kitura](https://github.com/Kitura/Kitura) - A Swift web framework and HTTP server.
 - [swiftlang/swift-corelibs-xctest](https://github.com/swiftlang/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support
-- [apple/swift-xcode-playground-support](https://github.com/apple/swift-xcode-playground-support) - Logging and communication to allow Swift toolchains to communicate with Xcode.
+- [swiftlang/swift-xcode-playground-support](https://github.com/swiftlang/swift-xcode-playground-support) - Logging and communication to allow Swift toolchains to communicate with Xcode.
 - [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [kylef/Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift
 - [QueryKit/querykit-cli](https://github.com/QueryKit/querykit-cli) - QueryKit command line tool to produce type-safe accessors
