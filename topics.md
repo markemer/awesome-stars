@@ -175,6 +175,7 @@
 - [languages](#languages)
 - [laravel](#laravel)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -1452,7 +1453,7 @@
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) - Open Source Introductory Systems Programming Textbook for the University of Illinois
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [shiyanhui/libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
+- [yann-shi/libcsp](https://github.com/yann-shi/libcsp) - A concurrency C library 10x faster than Golang.
 - [waveshareteam/e-Paper](https://github.com/waveshareteam/e-Paper) - 
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
@@ -1953,7 +1954,7 @@
 - [Deep-Symmetry/bytefield-svg](https://github.com/Deep-Symmetry/bytefield-svg) - Node module that generates byte field diagrams in SVG format
 - [mentat-collective/emmy](https://github.com/mentat-collective/emmy) - The Emmy Computer Algebra System.
 - [narimiran/AdventOfCode2022](https://github.com/narimiran/AdventOfCode2022) - My solutions for AoC 2022
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [Orcpub/orcpub](https://github.com/Orcpub/orcpub) - Code for Dungeon Master's Vault Community Edition
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
@@ -2948,7 +2949,7 @@
 - [softhausHQ/CircleBar](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
 - [GettEngineering/Prism](https://github.com/GettEngineering/Prism) - Gett's Design System code generator. Use Zeplin Styleguides as your R&D's Single Source of Truth.
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [alexkaessner/macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) - :gem: The most detailed and accurate macOS UI Kit for Sketch. This Sketch Library includes common Mac interface elements, cursors, and a Touch Bar UI Kit.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
@@ -4523,7 +4524,7 @@
 - [nytimes/gziphandler](https://github.com/nytimes/gziphandler) - Go middleware to gzip HTTP responses
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [Merovius/srvfb](https://github.com/Merovius/srvfb) - Stream a framebuffer device over HTTP
-- [shiyanhui/libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
+- [yann-shi/libcsp](https://github.com/yann-shi/libcsp) - A concurrency C library 10x faster than Golang.
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [aregm/nff-go](https://github.com/aregm/nff-go) - NFF-Go -Network Function Framework for GO (former YANFF)
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
@@ -6819,6 +6820,11 @@
 - [overleaf/web](https://github.com/overleaf/web) - The web front end for Overleaf, a web-based collaborative LaTeX editor
 - [SublimeText/LaTeXTools](https://github.com/SublimeText/LaTeXTools) - LaTeX plugin for Sublime Text
 
+## learn-to-code 
+
+- [endbasic/endbasic](https://github.com/endbasic/endbasic) - BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust
+- [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
+
 ## learning 
 
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language.
@@ -8748,6 +8754,7 @@
 
 ## others 
 
+- [ChrisGVE/PlotSwift](https://github.com/ChrisGVE/PlotSwift) - Data visualization library for Swift
 - [outergroup/hello-outerframe-macOS-swift](https://github.com/outergroup/hello-outerframe-macOS-swift) - Jumping off point for macOS outerframe apps
 - [outergroup/outershell](https://github.com/outergroup/outershell) - Servers and edge devices should have an "outer" graphical shell
 - [outergroup/outerframe](https://github.com/outergroup/outerframe) - Like a web view, but native
@@ -8827,7 +8834,6 @@
 - [libyal/libfsapfs](https://github.com/libyal/libfsapfs) - Library and tools to access the Apple File System (APFS)
 - [heil-hydrant/zxc.vim](https://github.com/heil-hydrant/zxc.vim) - Vim plugin for zxc proxy.
 - [heil-hydrant/zxc](https://github.com/heil-hydrant/zxc) - Terminal based intercepting proxy written in rust with tmux and vim as user interface.
-- [jtsylve/spice-crypt](https://github.com/jtsylve/spice-crypt) - A Python library and CLI tool for decrypting encrypted SPICE model files, enabling engineers to use lawfully obtained models in any simulator.
 - [basecamp/thruster](https://github.com/basecamp/thruster) - 
 - [carlini/printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
 - [Dieu-de-l-elec/AngstromIO-devboard](https://github.com/Dieu-de-l-elec/AngstromIO-devboard) - AngstromIO, one of the smallest devboards out there, barely longer than a USB C connector, based on the Attiny1616 MCU. And a dual CH340 board for programming and debugging, and another devboard, base
@@ -8855,7 +8861,7 @@
 - [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
 - [valdanylchuk/breezydemo](https://github.com/valdanylchuk/breezydemo) - BreezyBox shell demo for esp32s3
 - [microsoft/litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
-- [artemnovichkov/xcode-27-system-prompts](https://github.com/artemnovichkov/xcode-27-system-prompts) - Xcode 27 beta 1 system prompts and internal documentation
+- [artemnovichkov/xcode-27-system-prompts](https://github.com/artemnovichkov/xcode-27-system-prompts) - Xcode 27 beta 2 system prompts and internal documentation
 - [CaptureContext/swift-associated-objects](https://github.com/CaptureContext/swift-associated-objects) - Associated objects utils
 - [gridfinity-unofficial/gridfinity-unofficial.github.io](https://github.com/gridfinity-unofficial/gridfinity-unofficial.github.io) - The homepage of the unofficial gridfinity site.
 - [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources
@@ -10302,7 +10308,7 @@
 - [htfab/rotfpga](https://github.com/htfab/rotfpga) - A reconfigurable logic circuit made of identical rotatable tiles.
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
 - [spotify/XCRemoteCache](https://github.com/spotify/XCRemoteCache) - 
-- [FaqT0tum/Orbion_Space_Mouse_OLD](https://github.com/FaqT0tum/Orbion_Space_Mouse_OLD) - ORBION the OpenSource Space Mouse 3D
+- [sedmenti/Orbion_Space_Mouse_OLD](https://github.com/sedmenti/Orbion_Space_Mouse_OLD) - ORBION the OpenSource Space Mouse 3D
 - [prismicio/awesome-prismic](https://github.com/prismicio/awesome-prismic) - A curated list of awesome things related to Prismic
 - [pieeg-club/ironbci](https://github.com/pieeg-club/ironbci) - Wearable (BLE) Brain-Computer Interface, ADS1299 and STM32 with SDK for mobile application
 - [luvolondon/fvtt-module-jitsiwebrtc](https://github.com/luvolondon/fvtt-module-jitsiwebrtc) - Jitsi WebRTC client for FVTT
@@ -11251,7 +11257,7 @@
 - [Smile4ever/Neat-URL](https://github.com/Smile4ever/Neat-URL) - Neat URL cleans URLs, removing parameters such as Google Analytics' utm parameters.
 - [twostraws/watchOS](https://github.com/twostraws/watchOS) - The project source code for Hacking with watchOS.
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
-- [apple/swift-standard-library-preview](https://github.com/apple/swift-standard-library-preview) - 
+- [swiftlang/swift-standard-library-preview](https://github.com/swiftlang/swift-standard-library-preview) - 
 - [fulgerul/nvidia-kvm-patcher](https://github.com/fulgerul/nvidia-kvm-patcher) - Fixes "Bug" in Nvidia Driver preventing "Unsupported Configurations" from being used on KVM
 - [insidegui/TwitterPublishPlugin](https://github.com/insidegui/TwitterPublishPlugin) - A plugin for Publish that let's you easily embed tweets in your posts.
 - [myint/git-sweep](https://github.com/myint/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master
@@ -13299,7 +13305,7 @@
 - [swiftlang/swift-corelibs-xctest](https://github.com/swiftlang/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support
 - [swiftlang/swift-corelibs-libdispatch](https://github.com/swiftlang/swift-corelibs-libdispatch) - The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
 - [swiftlang/swift-corelibs-foundation](https://github.com/swiftlang/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
-- [apple/swift-xcode-playground-support](https://github.com/apple/swift-xcode-playground-support) - Logging and communication to allow Swift toolchains to communicate with Xcode.
+- [swiftlang/swift-xcode-playground-support](https://github.com/swiftlang/swift-xcode-playground-support) - Logging and communication to allow Swift toolchains to communicate with Xcode.
 - [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [kylef/Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift
 - [QueryKit/querykit-cli](https://github.com/QueryKit/querykit-cli) - QueryKit command line tool to produce type-safe accessors
@@ -16281,6 +16287,7 @@
 - [AstroTechies/unrealmodding](https://github.com/AstroTechies/unrealmodding) - Tools for making and loading Unreal Engine Mods. Originally developed for Astroneer.
 - [ksk001100/seahorse](https://github.com/ksk001100/seahorse) - A minimal CLI framework written in Rust
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [vlcn-io/sqlite-rs-embedded](https://github.com/vlcn-io/sqlite-rs-embedded) - Rust bindings for SQLite that are no_std and wasm compatible
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv
@@ -18174,7 +18181,7 @@
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [TerminalStudio/xterm.dart](https://github.com/TerminalStudio/xterm.dart) - 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms.
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and streams
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and live streams
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
 - [tboox/ltui](https://github.com/tboox/ltui) - 🍖 A cross-platform terminal ui library based on Lua
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -18533,7 +18540,7 @@
 - [softhausHQ/CircleBar](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [maustinstar/swiftui-drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
 - [compnerd/swift-win32](https://github.com/compnerd/swift-win32) - A Windows application framework for Swift
 - [exyte/fan-menu](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw
@@ -19383,7 +19390,6 @@
 ## zig 
 
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 ## zsh 
