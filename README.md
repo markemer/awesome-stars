@@ -1259,6 +1259,10 @@
 
 ## C# # 
 
+- [spiderofmean/roguetradertools](https://github.com/spiderofmean/roguetradertools) - Set of tools for working with Rogue Trader data.
+- [cstamford/RogueTraderUnityToolkit](https://github.com/cstamford/RogueTraderUnityToolkit) - From-scratch library/tooling to process Unity 2022.3.44f1 built data (e.g. asset bundles, serialized files) in a type-safe way. Also contains a server to stream scenes/meshes/textures to the editor vi
+- [LaughingLeader/RogueTraderMods](https://github.com/LaughingLeader/RogueTraderMods) - Various mods for the game Warhammer 40,000: Rogue Trader
+- [Kyew/w40k-rt-build-planner](https://github.com/Kyew/w40k-rt-build-planner) - A build planner for W40K Rogue Trader
 - [jaygumji/ArcemiPathfinderKingmakerTools](https://github.com/jaygumji/ArcemiPathfinderKingmakerTools) - 
 - [C7-Game/OpenCiv3](https://github.com/C7-Game/OpenCiv3) - OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with capabilities inspired by the best of the 4
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
@@ -1837,6 +1841,7 @@
 - [c3d/xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
 - [cloudinary/fuif](https://github.com/cloudinary/fuif) - Free Universal Image Format
 - [Bareflank/hypervisor](https://github.com/Bareflank/hypervisor) - lightweight hypervisor SDK written in C++ with support for Windows, Linux and UEFI
+- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
@@ -3274,6 +3279,7 @@
 - [Parallels/packer-examples](https://github.com/Parallels/packer-examples) - Packer Templates and examples to use with Parallels Desktop provider
 - [jdhollis/bastions-on-demand](https://github.com/jdhollis/bastions-on-demand) - Create and destroy bastions on demand with Fargate.
 - [jcolemorrison/vault-on-aws](https://github.com/jcolemorrison/vault-on-aws) - A secure HashiCorp Vault for secrets, tokens, keys,  passwords, and more.  Automated deployment with Terraform on AWS.  Configurable options for security and scalability.  Usable with any applications
+- [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
 - [hashicorp/terraform-guides](https://github.com/hashicorp/terraform-guides) - Example usage of HashiCorp Terraform
 - [joshuamkite/terraform-aws-ssh-bastion-service](https://github.com/joshuamkite/terraform-aws-ssh-bastion-service) - Terraform plan to deploy ssh bastion as a containerised, stateless service on AWS with IAM based authentication
 
@@ -3749,7 +3755,7 @@
 - [github/maven-plugins](https://github.com/github/maven-plugins) - Official GitHub Maven Plugins
 - [travisdesell/salsa_lite](https://github.com/travisdesell/salsa_lite) - The SALSA Lite (SALSA 2.0 Alpha) Programing Language
 - [vmware-archive/springsource-cloudfoundry-samples](https://github.com/vmware-archive/springsource-cloudfoundry-samples) - Samples for Cloud Foundry
-- [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - High-Performance Asynchronous HTTP and WebSocket Client Library for Java
+- [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous, non-blocking HTTP & WebSocket client for the JVM
 - [mobl/mobl](https://github.com/mobl/mobl) - Domain-specific language for mobile (web) applications. This repository contains the compiler sources and Eclipse project.
 - [rstudio/rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
 - [apache/cassandra](https://github.com/apache/cassandra) - Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.
@@ -3782,6 +3788,7 @@
 - [octokit/request-action](https://github.com/octokit/request-action) - A GitHub Action to send arbitrary requests to GitHub's REST API
 - [yomidevs/yomitan](https://github.com/yomidevs/yomitan) - Pop-up dictionary browser extension for language learning. Successor to Yomichan.
 - [digipres/awesome-digital-preservation](https://github.com/digipres/awesome-digital-preservation) - Carefully curated list of awesome digital preservation resources.
+- [SocketDev/socket-sdk-js](https://github.com/SocketDev/socket-sdk-js) - JavaScript SDK for the socket.dev API
 - [e18e/action-dependency-diff](https://github.com/e18e/action-dependency-diff) - A GitHub action to report dependency changes and potential problems
 - [e18e/e18e](https://github.com/e18e/e18e) - 
 - [JNavas2/Archive-Page](https://github.com/JNavas2/Archive-Page) - Browser extension to archive webpages in Archive Today
@@ -4650,7 +4657,6 @@
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
-- [audreyt/socialcalc](https://github.com/audreyt/socialcalc) - In-browser spreadsheet editor — also see https://github.com/audreyt/ethercalc
 - [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [DanBricklin/socialcalc](https://github.com/DanBricklin/socialcalc) - SocialCalc for Socialtext
@@ -4849,6 +4855,7 @@
 ## Lua 
 
 - [cheat-engine/UnrealEngineTools](https://github.com/cheat-engine/UnrealEngineTools) - Tool for Cheat Engine to collect information about Unreal Engine games
+- [ArkForgeLabs/Astra](https://github.com/ArkForgeLabs/Astra) - 🔥 Blazingly Fast 🔥 runtime environment for Lua
 - [franko/luajit-lang-toolkit](https://github.com/franko/luajit-lang-toolkit) - A Lua bytecode compiler written in Lua itself for didactic purposes or for new language implementations
 - [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)
 - [LaughingLeader/BG3ModdingTools](https://github.com/LaughingLeader/BG3ModdingTools) - A collection is miscellaneous snippets and scripts to make life easier when modding Baldur's Gate 3.
@@ -5610,6 +5617,7 @@
 
 ## Others 
 
+- [ThatDetroitAndy/mutiny](https://github.com/ThatDetroitAndy/mutiny) - Mutiny Motors - The open source affordable truck
 - [krauseler/muxcard](https://github.com/krauseler/muxcard) - A literal credit-card sized computer with E-Paper display,  ESP32 and NFC.
 - [mixpeek/awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) - A curated, opinionated guide to S3-compatible object storage — 21 providers, pricing, features, gotchas, and an interactive comparison tool.
 - [walinchus/Bluesky](https://github.com/walinchus/Bluesky) - Fun things you can do with Bluesky
@@ -6102,7 +6110,6 @@
 - [GoogleCloudPlatform/cloud-code-intellij](https://github.com/GoogleCloudPlatform/cloud-code-intellij) - Plugin to support the Google Cloud Platform in IntelliJ IDEA - Docs and Issues Repository
 - [Netflix/titus](https://github.com/Netflix/titus) - 
 - [openmoko/openmoko-usb-oui](https://github.com/openmoko/openmoko-usb-oui) - USB Product ID allocations for Free Software / Open Hardware
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [oz123/awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [AlgoryL/Projects-from-Scratch](https://github.com/AlgoryL/Projects-from-Scratch) - Read and do projects.
 - [cweagans/awesome-diy-software](https://github.com/cweagans/awesome-diy-software) - A curated list of awesome DIY software.
@@ -6561,6 +6568,7 @@
 
 ## PowerShell 
 
+- [SysAdminDoc/MonitorControl](https://github.com/SysAdminDoc/MonitorControl) - A comprehensive Windows GUI utility for controlling monitor settings via DDC/CI protocol. Adjust brightness, contrast, color temperature, input sources, and more — all without touching your monitor's 
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [circuitdiagram/components](https://github.com/circuitdiagram/components) - Library of components for Circuit Diagram.
@@ -6837,7 +6845,7 @@
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [hashlookup/hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser) - Analyse a forensic target (such as a directory) to find and report files found and not found from CIRCL hashlookup public service - https://circl.lu/services/hashlookup/
 - [mapbox/mapbox-navigation-native-ios](https://github.com/mapbox/mapbox-navigation-native-ios) - 
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) - 
 - [chipsalliance/fasm](https://github.com/chipsalliance/fasm) - FPGA Assembly (FASM) Parser and Generator
 - [ucb-art/BAG_framework](https://github.com/ucb-art/BAG_framework) - 
@@ -7267,6 +7275,7 @@
 - [vyos/vyos-build](https://github.com/vyos/vyos-build) - VyOS image build scripts
 - [vyos/vyos-1x](https://github.com/vyos/vyos-1x) - VyOS command definitions, scripts, and utilities
 - [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [newsdev/who-the-hill](https://github.com/newsdev/who-the-hill) - Who The Hill: An MMS-based facial recognition service for members of Congress.
 - [zhuowei/MarzipanTool](https://github.com/zhuowei/MarzipanTool) - Tools for running iOSMac apps on macOS 10.14 Beta
 - [clayshieh/django-imessage](https://github.com/clayshieh/django-imessage) - Django project to read the contents of iOS iMessage sqlite databases
@@ -7810,7 +7819,6 @@
 - [jeffshantz/hyperkit](https://github.com/jeffshantz/hyperkit) - Hyperkit is a flat, Ruby-based API wrapper for LXD, the next-generation hypervisor.
 - [michaeleisel/barber](https://github.com/michaeleisel/barber) - Fast build times for big Swift projects
 - [fastlane-community/danger-xcov](https://github.com/fastlane-community/danger-xcov) - Danger plugin to validate the code coverage of the files changed in a pull request
-- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [amzn/oss-dashboard](https://github.com/amzn/oss-dashboard) - A dashboard for viewing many GitHub organizations at once.
 - [sglover/vagrant-hyperkit](https://github.com/sglover/vagrant-hyperkit) - An experimental xhyve/hyperkit provider for vagrant
 - [getsentry/sentry-fastlane-plugin](https://github.com/getsentry/sentry-fastlane-plugin) - Official fastlane plugin for Sentry
@@ -8140,6 +8148,7 @@
 
 ## Rust 
 
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
@@ -8167,7 +8176,6 @@
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded database for serverless and edge runtimes.
 - [games-on-whales/gst-wayland-display](https://github.com/games-on-whales/gst-wayland-display) - A micro Wayland compositor that can be used as a Gstreamer plugin
-- [ArkForgeLabs/Astra](https://github.com/ArkForgeLabs/Astra) - 🔥 Blazingly Fast 🔥 runtime environment for Lua
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [trumank/uesave](https://github.com/trumank/uesave) - Rust library and CLI to read and write Unreal Engine save files
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
@@ -8661,6 +8669,7 @@
 
 ## Shell 
 
+- [warpdotdev-demos/cloud-factory-demo](https://github.com/warpdotdev-demos/cloud-factory-demo) - 
 - [tsupplis/cpm86-crossdev](https://github.com/tsupplis/cpm86-crossdev) - CP/M-86 cross development environment
 - [sfiorini/NordVPN-Wireguard](https://github.com/sfiorini/NordVPN-Wireguard) - A bash scripts that generates Wireguard configuration file for a NordVPN connection.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -8779,7 +8788,6 @@
 - [OpenRA/OpenRAModSDK](https://github.com/OpenRA/OpenRAModSDK) - Software Development Kit for building your own games using the OpenRA engine.
 - [Cleafy/sxkdvm](https://github.com/Cleafy/sxkdvm) - SXKDVM - OSX Docker KVM / Run an OSX KVM virtual machine inside a Docker container.
 - [getditto/rust-bitcode](https://github.com/getditto/rust-bitcode) - Rust toolchain for Xcode-compatible iOS bitcode
-- [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
 - [daradib/sidedoor](https://github.com/daradib/sidedoor) - SSH connection daemon for Debian/Raspbian/Ubuntu/etc
 - [elpy1/ssh-over-ssm](https://github.com/elpy1/ssh-over-ssm) - SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
@@ -8793,7 +8801,7 @@
 - [sii/sipcalc](https://github.com/sii/sipcalc) - Sipcalc is an advanced ip calculator supporting both IPv4 and IPv6.
 - [NSHipster/uti](https://github.com/NSHipster/uti) - A command-line utility that prints the Uniform Type Identifier for files.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere, any way you like it.
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it.
 - [DataDog/yubikey](https://github.com/DataDog/yubikey) - ## Auto-archived due to inactivity. ## YubiKey at Datadog
 - [f4pga/prjxray-db](https://github.com/f4pga/prjxray-db) - Project X-Ray Database: XC7 Series
 - [cooljeanius/macportsscripts](https://github.com/cooljeanius/macportsscripts) - Various little scripts for MacPorts. Forked to add more stuff to it and stuff.
@@ -10806,7 +10814,6 @@
 - [siddarthkay/react-native-go](https://github.com/siddarthkay/react-native-go) - A starter template with react-native and golang to demonstrate communication between a golang backend and a react-native client.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [SocketDev/socket-sdk-js](https://github.com/SocketDev/socket-sdk-js) - JavaScript SDK for the socket.dev API
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [e18e/module-replacements](https://github.com/e18e/module-replacements) - A manifest of JS modules and their more modern/active replacements
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
@@ -11241,6 +11248,7 @@
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
+- [audreyt/socialcalc](https://github.com/audreyt/socialcalc) - In-browser spreadsheet editor — also see https://github.com/audreyt/ethercalc
 
 ## Typst 
 
