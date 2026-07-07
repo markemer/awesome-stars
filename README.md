@@ -7960,7 +7960,6 @@
 - [hakirisec/hakiri_toolbelt](https://github.com/hakirisec/hakiri_toolbelt) - Secure Ruby apps with Hakiri
 - [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 - [strongself/fabricio](https://github.com/strongself/fabricio) - Fetch Fabric.io statistics like never before
-- [transifex/txgh](https://github.com/transifex/txgh) - A server that integrates Transifex with GitHub
 - [valeriomazzeo/danger-xcodebuild](https://github.com/valeriomazzeo/danger-xcodebuild) - Exposes warnings, errors and test results.
 - [PierreRambaud/gemirro](https://github.com/PierreRambaud/gemirro) - Gem to automatically make a rubygems mirror.
 - [librariesio/required_files](https://github.com/librariesio/required_files) - :open_file_folder: Ensure some files exist in all your repos
@@ -9408,7 +9407,7 @@
 - [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide) - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Sili
 - [tuist/tuist-up](https://github.com/tuist/tuist-up) - A CLI too powered by Swift to provision environments using an up.toml manifest file
 - [weitieda/bottom-sheet](https://github.com/weitieda/bottom-sheet) - ⬆️ A SwiftUI view component sliding in from bottom
-- [guoyingtao/Mantis](https://github.com/guoyingtao/Mantis) - An iOS Image cropping library, which mimics the Photo App written in Swift.
+- [guoyingtao/Mantis](https://github.com/guoyingtao/Mantis) - An iOS image cropping library for UIKit and SwiftUI, mimicking the Photos app — crop shapes, rotation, flip, perspective correction, undo/redo. iOS & Mac Catalyst.
 - [ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [trilemma-dev/SecureXPC](https://github.com/trilemma-dev/SecureXPC) - A simple and secure XPC framework for Swift
@@ -9578,7 +9577,7 @@
 - [luximetr/AnyFormatKit](https://github.com/luximetr/AnyFormatKit) - Simple text formatting in Swift
 - [liufengting/FTPopOverMenu_Swift](https://github.com/liufengting/FTPopOverMenu_Swift) - FTPopOverMenu_Swift, swift version of FTPopOverMenu. FTPopOverMenu is a pop over menu for iOS which is maybe the easiest one to use. Supports both portrait and landscape. It can show from any UIView, 
 - [CoreOffice/CoreXLSX](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format parser written in pure Swift
-- [yysskk/SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
+- [yysskk/SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - Swipe-based paging UI for iOS
 - [billp/TermiNetwork](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
 - [sindresorhus/Settings](https://github.com/sindresorhus/Settings) - ⚙ Add a settings window to your macOS app in minutes
 - [olivaresf/amazingcloudkit](https://github.com/olivaresf/amazingcloudkit) - A smart way to use CloudKit
