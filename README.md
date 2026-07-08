@@ -3763,6 +3763,7 @@
 
 ## JavaScript 
 
+- [Shpigford/knockoff](https://github.com/Shpigford/knockoff) - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.
 - [rlfordon/the-missing-link](https://github.com/rlfordon/the-missing-link) - Browser extension: find the case the article didn't link. Uses Claude to identify the case, then searches CourtListener.
 - [alanhuang122/FLWikiRedirector](https://github.com/alanhuang122/FLWikiRedirector) - A Chrome extension that redirects Fallen London Wikia/Fandom links to the Fallen London Wiki
 - [An-Individual/fl-sheetifier](https://github.com/An-Individual/fl-sheetifier) - A simple browser extension for the game Fallen London that lets you export your character data to CSV.
@@ -6632,7 +6633,7 @@
 - [Tokariew/hb_downloader](https://github.com/Tokariew/hb_downloader) - Simple python script to download purchased items from humble bundle
 - [lowobservable/oec](https://github.com/lowobservable/oec) - IBM 3270 terminal controller - IBM 3174 replacement
 - [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
-- [artemnovichkov/xcode-27-system-prompts](https://github.com/artemnovichkov/xcode-27-system-prompts) - Xcode 27 beta 2 system prompts and internal documentation
+- [artemnovichkov/xcode-27-system-prompts](https://github.com/artemnovichkov/xcode-27-system-prompts) - Xcode 27 beta 3 system prompts and internal documentation
 - [thebrowsercompany/swift-build](https://github.com/thebrowsercompany/swift-build) - Swift toolchain builds by The Browser Company
 - [dropbox/stone](https://github.com/dropbox/stone) - The Official API Spec Language for Dropbox API V2
 - [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) - Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
@@ -9034,6 +9035,7 @@
 
 ## Swift 
 
+- [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple's platform
 - [ChrisGVE/PlotSwift](https://github.com/ChrisGVE/PlotSwift) - Data visualization library for Swift
 - [outergroup/hello-outerframe-macOS-swift](https://github.com/outergroup/hello-outerframe-macOS-swift) - Jumping off point for macOS outerframe apps
 - [outergroup/outerframe](https://github.com/outergroup/outerframe) - Like a web view, but native
