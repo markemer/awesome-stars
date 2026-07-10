@@ -333,6 +333,7 @@
 - [windows](#windows)
 - [wordplate](#wordplate)
 - [wordpress](#wordpress)
+- [workflow](#workflow)
 - [xamarin](#xamarin)
 - [xcode](#xcode)
 - [xml](#xml)
@@ -883,7 +884,7 @@
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
-- [InQuest/awesome-yara](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
+- [pedramamini/awesome-yara](https://github.com/pedramamini/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
@@ -1060,7 +1061,7 @@
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
-- [InQuest/awesome-yara](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
+- [pedramamini/awesome-yara](https://github.com/pedramamini/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
@@ -1714,6 +1715,7 @@
 
 ## chrome-extension 
 
+- [Shpigford/knockoff](https://github.com/Shpigford/knockoff) - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [yomidevs/yomitan](https://github.com/yomidevs/yomitan) - Pop-up dictionary browser extension for language learning. Successor to Yomichan.
 - [SteamDatabase/BrowserExtension](https://github.com/SteamDatabase/BrowserExtension) - 💻 SteamDB's extension for Steam websites
@@ -5471,6 +5473,7 @@
 - [clawsoftware/clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions.
 - [cruxopen/openISP](https://github.com/cruxopen/openISP) - Image Signal Processor
 - [awesome-photogrammetry/awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - 😎 Awesome photogrammetry projects
+- [guoyingtao/Mantis](https://github.com/guoyingtao/Mantis) - An iOS image cropping library for UIKit and SwiftUI, mimicking the Photos app — crop shapes, rotation, flip, perspective correction, undo/redo. iOS & Mac Catalyst.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
@@ -8763,6 +8766,8 @@
 
 ## others 
 
+- [joshdholtz/disform](https://github.com/joshdholtz/disform) - Terraform-like CLI for declarative Discord server management (channels, roles, permissions)
+- [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple's platform
 - [spiderofmean/roguetradertools](https://github.com/spiderofmean/roguetradertools) - Set of tools for working with Rogue Trader data.
 - [cstamford/RogueTraderUnityToolkit](https://github.com/cstamford/RogueTraderUnityToolkit) - From-scratch library/tooling to process Unity 2022.3.44f1 built data (e.g. asset bundles, serialized files) in a type-safe way. Also contains a server to stream scenes/meshes/textures to the editor vi
 - [LaughingLeader/RogueTraderMods](https://github.com/LaughingLeader/RogueTraderMods) - Various mods for the game Warhammer 40,000: Rogue Trader
@@ -8874,7 +8879,7 @@
 - [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
 - [valdanylchuk/breezydemo](https://github.com/valdanylchuk/breezydemo) - BreezyBox shell demo for esp32s3
 - [microsoft/litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
-- [artemnovichkov/xcode-27-system-prompts](https://github.com/artemnovichkov/xcode-27-system-prompts) - Xcode 27 beta 2 system prompts and internal documentation
+- [artemnovichkov/xcode-27-system-prompts](https://github.com/artemnovichkov/xcode-27-system-prompts) - Xcode 27 beta 3 system prompts and internal documentation
 - [CaptureContext/swift-associated-objects](https://github.com/CaptureContext/swift-associated-objects) - Associated objects utils
 - [gridfinity-unofficial/gridfinity-unofficial.github.io](https://github.com/gridfinity-unofficial/gridfinity-unofficial.github.io) - The homepage of the unofficial gridfinity site.
 - [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources
@@ -8910,7 +8915,6 @@
 - [xADDBx/ModFinder](https://github.com/xADDBx/ModFinder) - A tool for installing Pathfinder: Wrath of the Righteous mods and their dependencies.
 - [xADDBx/RE-UE4SS](https://github.com/xADDBx/RE-UE4SS) - Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games
 - [xADDBx/ReDress-WH40K-Rogue-Trader](https://github.com/xADDBx/ReDress-WH40K-Rogue-Trader) - Mod that somewhat enabled modifying visuals
-- [nguyen-v/KDT_Hierarchical_KiBot](https://github.com/nguyen-v/KDT_Hierarchical_KiBot) - Professional, automated workflow template for KiCad. This template uses KiBot in a CI/CD environment to automate fabrication and assembly document generation.
 - [pdsink/pdsink](https://github.com/pdsink/pdsink) - USB PD Sink implemetation for embedded.
 - [airbus-seclab/qemu_blog](https://github.com/airbus-seclab/qemu_blog) - A series of posts about QEMU internals:
 - [anvc/scalar](https://github.com/anvc/scalar) - Born-digital, open source, media-rich scholarly publishing that’s as easy as blogging.
@@ -8969,7 +8973,7 @@
 - [DVDTSB/hexhog](https://github.com/DVDTSB/hexhog) - hex viewer/editor
 - [BGforgeNet/Fallout2-HQ-music](https://github.com/BGforgeNet/Fallout2-HQ-music) - HQ music for Fallout 1 and 2
 - [ZitaoTech/9981_BLE_USB_Keyboard_Pro](https://github.com/ZitaoTech/9981_BLE_USB_Keyboard_Pro) - Description about the 9981 BLE&USB Keyboard Pro with trackpad
-- [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider.
+- [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere.
 - [hamishcoleman/macos-vmnet](https://github.com/hamishcoleman/macos-vmnet) - Simple example for using the macos vmnet framework
 - [mattgallagher/CwlUtils](https://github.com/mattgallagher/CwlUtils) - A collection of Swift utilities as documented on cocoawithlove.com
 - [philipfabianek/ptx-playground](https://github.com/philipfabianek/ptx-playground) - A simple environment for writing and experimenting with hand-written CUDA PTX kernels.
@@ -12924,7 +12928,6 @@
 - [openelections/openelections-core](https://github.com/openelections/openelections-core) - Core repo for election results data acquisition, transformation and output.
 - [tnich/honssh](https://github.com/tnich/honssh) - HonSSH is designed to log all SSH communications between a client and server.
 - [ishkawa/DIKit](https://github.com/ishkawa/DIKit) - A statically typed dependency injector for Swift.
-- [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [GoogleChromeLabs/howto-components](https://github.com/GoogleChromeLabs/howto-components) - Literate code examples for common UI patterns.
 - [ainame/Swift-Daemon](https://github.com/ainame/Swift-Daemon) - daemonize your swift scripts
 - [norio-nomura/SwiftLintForXcode](https://github.com/norio-nomura/SwiftLintForXcode) - a sample of Xcode Extension that runs `swiftlint autocorrect`
@@ -19196,6 +19199,24 @@
 - [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration for developing with WordPress
+
+## workflow 
+
+- [daisy-workflow/daisy-engine](https://github.com/daisy-workflow/daisy-engine) - AI orchestration platform
+- [nguyen-v/KDT_Hierarchical_KiBot](https://github.com/nguyen-v/KDT_Hierarchical_KiBot) - Professional, automated workflow template for KiCad. This template uses KiBot in a CI/CD environment to automate fabrication and assembly document generation.
+- [square/workflow-swift](https://github.com/square/workflow-swift) - A Swift and Kotlin library for making composable state machines, and UIs driven by those state machines.
+- [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
+- [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
+- [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
+- [ugeneunipro/ugene](https://github.com/ugeneunipro/ugene) - UGENE is free open-source cross-platform bioinformatics software
+- [LucianoPAlmeida/variable-injector](https://github.com/LucianoPAlmeida/variable-injector) - Continuous Integration Tool for Swift Projects
+- [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
+- [a2/shortcuts-swift](https://github.com/a2/shortcuts-swift) - Write Shortcuts in Playgrounds
+- [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
+- [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 
 ## xamarin 
 
