@@ -2593,6 +2593,7 @@
 
 ## Go 
 
+- [joshdholtz/disform](https://github.com/joshdholtz/disform) - Terraform-like CLI for declarative Discord server management (channels, roles, permissions)
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [roots/wp-packages](https://github.com/roots/wp-packages) - Manage your WordPress plugins and themes with Composer
 - [OutlineFoundation/outline-sdk](https://github.com/OutlineFoundation/outline-sdk) - SDK to build network tools based on Outline components.
@@ -5908,7 +5909,7 @@
 - [keebio/Keebio-Parts.pretty](https://github.com/keebio/Keebio-Parts.pretty) - Various KiCAD footprints for mechanical keyboard parts
 - [shaps80/ActivityView](https://github.com/shaps80/ActivityView) - Moved to SwiftUI-Plus/ActivityView
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
-- [InQuest/awesome-yara](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
+- [pedramamini/awesome-yara](https://github.com/pedramamini/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 - [MaloufSleep/ME-ESP8266](https://github.com/MaloufSleep/ME-ESP8266) - Malouf Electronics - ESP8266 Dev Board
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
@@ -8183,7 +8184,7 @@
 - [quadrupleslap/scrap](https://github.com/quadrupleslap/scrap) - 📸 Screen capture made easy!
 - [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
 - [DVDTSB/hexhog](https://github.com/DVDTSB/hexhog) - hex viewer/editor
-- [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider.
+- [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere.
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [kvark/mint](https://github.com/kvark/mint) - Math Interoperability Types
 - [fu5ha/cint](https://github.com/fu5ha/cint) - A lean, minimal, and stable set of types for color interoperation between crates in Rust.
