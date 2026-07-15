@@ -1988,6 +1988,7 @@
 - [macosforge/alac](https://github.com/macosforge/alac) - The Apple Lossless Audio Codec (ALAC) is a lossless audio codec developed by Apple and deployed on all of its platforms and devices.
 - [terralang/terra](https://github.com/terralang/terra) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
 - [sfall-team/sfall](https://github.com/sfall-team/sfall) - sfall - Engine modifications for Fallout 2
+- [AcademySoftwareFoundation/OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) - Open Source API and interchange format for editorial timeline information.
 - [PixarAnimationStudios/OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) - Universal Scene Description
 - [LunarG/VulkanSamples](https://github.com/LunarG/VulkanSamples) - Vulkan Samples
 - [LunarG/LunarGLASS](https://github.com/LunarG/LunarGLASS) - LLVM IR and optimizer for shaders, including front-end adapters for GLSL and SPIR-V and back-end adapter for GLSL
@@ -2610,7 +2611,6 @@
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
 - [facebookincubator/sks](https://github.com/facebookincubator/sks) - Secure Key Storage (SKS) is a library for Go that abstracts Security Hardware on laptops.
 - [usbarmory/go-boot](https://github.com/usbarmory/go-boot) - The bare metal Go UEFI boot manager
@@ -6469,7 +6469,7 @@
 - [dhobsd/asciitosvg](https://github.com/dhobsd/asciitosvg) - DANGER, WILL ROBINSON: THIS REPOSITORY IS IN MAINTENANCE MODE! I will not be continuing feature development or fixing bugs in this codebase. I will continue to review and accept pull requests that do 
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [Shapeways/shapeways-api](https://github.com/Shapeways/shapeways-api) - Shapeways API Reference Clients
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [docker-archive-public/docker.labs](https://github.com/docker-archive-public/docker.labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [sagebind/slackyboy](https://github.com/sagebind/slackyboy) - A helpful, programmable chat bot for Slack
@@ -7260,7 +7260,6 @@
 - [Beliar83/bGrease](https://github.com/Beliar83/bGrease) - The highly extensible game engine framework for Python, modified to make it easily usable with other libraries than pyglet.
 - [caseman/grease](https://github.com/caseman/grease) - The highly extensible game engine framework for Python
 - [stanford-oval/genie-parser](https://github.com/stanford-oval/genie-parser) - Neural Network Semantic Parser for Almond
-- [AcademySoftwareFoundation/OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) - Open Source API and interchange format for editorial timeline information.
 - [Befzz/blender3d_import_psk_psa](https://github.com/Befzz/blender3d_import_psk_psa) - import mesh, skeleton, animation from psk, psa files to blender3d
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [patchew-project/patchew](https://github.com/patchew-project/patchew) - A patch email tracking and testing system
@@ -10820,6 +10819,7 @@
 - [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
 - [charles-m-knox/firefox-containers-helper](https://github.com/charles-m-knox/firefox-containers-helper) - Firefox multi-account containers are for power users. So is this. Adds bulk container interactivity features missing from the Mozilla Multi-Account Containers extension.
 - [rharel/webext-private-bookmarks](https://github.com/rharel/webext-private-bookmarks) - WebExtension that enables a special password-protected bookmark folder.
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [hjinco/mdto](https://github.com/hjinco/mdto) - Turn markdown into shareable pages
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
