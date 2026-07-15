@@ -6787,7 +6787,7 @@
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
@@ -14982,7 +14982,7 @@
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [agentejo/cockpit](https://github.com/agentejo/cockpit) - Add content management functionality to any site - plug & play / headless / api-first CMS
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker) - Docker container for Caddy
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -16757,7 +16757,7 @@
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [sandstorm-io/vagrant-spk](https://github.com/sandstorm-io/vagrant-spk) - Packaging tool for Sandstorm, a self-hosting platform for web apps!
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [1backend/1backend](https://github.com/1backend/1backend) - Build AI (or any) apps with scalable microservices & microfrontends.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
