@@ -486,7 +486,7 @@
 - [ChimeHQ/Meter](https://github.com/ChimeHQ/Meter) - Library for interacting with MetricKit
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [mixpanel/mixpanel-swift](https://github.com/mixpanel/mixpanel-swift) - Official iOS (Swift) Tracking Library for Mixpanel Analytics
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [ananas-analytics/ananas-desktop](https://github.com/ananas-analytics/ananas-desktop) - A hackable data integration & analysis tool to enable non technical users to edit data processing jobs and visualise data on demand.
@@ -503,7 +503,7 @@
 
 - [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+- [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) - A meticulous HTTP client for the JVM, Android, and GraalVM.
 - [realm/realm-kotlin](https://github.com/realm/realm-kotlin) - Kotlin Multiplatform and Android SDK for the Realm Mobile Database: Build Better Apps Faster.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
@@ -597,7 +597,7 @@
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
-- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 - [ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -825,6 +825,7 @@
 
 ## awesome 
 
+- [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
 - [mixpeek/awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) - A curated, opinionated guide to S3-compatible object storage — 21 providers, pricing, features, gotchas, and an interactive comparison tool.
 - [awesome-rclone/awesome-rclone](https://github.com/awesome-rclone/awesome-rclone) - The awesome list for everything rclone.
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
@@ -999,6 +1000,7 @@
 
 ## awesome-list 
 
+- [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
 - [mixpeek/awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) - A curated, opinionated guide to S3-compatible object storage — 21 providers, pricing, features, gotchas, and an interactive comparison tool.
 - [awesome-rclone/awesome-rclone](https://github.com/awesome-rclone/awesome-rclone) - The awesome list for everything rclone.
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
@@ -1474,7 +1476,6 @@
 - [pfultz2/cget](https://github.com/pfultz2/cget) - C++ package retrieval
 - [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd) - A socket daemon to multiplex connections from and to iOS devices
 - [westes/flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
-- [redasm-dev/redasm](https://github.com/redasm-dev/redasm) - The OpenSource Disassembler
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [RIOT-OS/RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -1556,6 +1557,7 @@
 
 ## c-plus-plus 
 
+- [rusefi/rusefi](https://github.com/rusefi/rusefi) - rusefi - GPL internal combustion engine control unit
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a 
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [qt/qtbase](https://github.com/qt/qtbase) - Qt Base (Core, Gui, Widgets, Network, ...)
@@ -1760,6 +1762,7 @@
 
 ## claude-code 
 
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
 ## cli 
@@ -2769,6 +2772,7 @@
 
 ## database 
 
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded database for serverless and edge runtimes.
 - [stateless-me/uuidv47](https://github.com/stateless-me/uuidv47) - ⚡ UUIDv47 = v4 privacy + v7 performance
@@ -3482,6 +3486,7 @@
 
 ## embedded 
 
+- [rusefi/rusefi](https://github.com/rusefi/rusefi) - rusefi - GPL internal combustion engine control unit
 - [ariel-os/ariel-os](https://github.com/ariel-os/ariel-os) - Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust
 - [apple/swift-mmio](https://github.com/apple/swift-mmio) - Define and operate on type safe MMIO
 - [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door
@@ -4236,6 +4241,7 @@
 
 ## go 
 
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
@@ -4441,6 +4447,7 @@
 
 ## golang 
 
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
@@ -6117,10 +6124,11 @@
 
 ## java 
 
+- [rusefi/rusefi](https://github.com/rusefi/rusefi) - rusefi - GPL internal combustion engine control unit
 - [apache/cordova-cli](https://github.com/apache/cordova-cli) - Apache Cordova CLI
 - [mitcse/CSE-Labs](https://github.com/mitcse/CSE-Labs) - Lab programs and Assignments for MIT CSE dept.
 - [LingDong-/wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+- [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) - A meticulous HTTP client for the JVM, Android, and GraalVM.
 - [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
 - [stipple-effect/stipple-effect](https://github.com/stipple-effect/stipple-effect) - Stipple Effect is a pixel art editor that supports animation and scripting (available on Windows, macOS and Linux)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
@@ -6288,7 +6296,7 @@
 - [arkime/arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
 - [capnmidnight/Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
 - [chrispsn/mesh](https://github.com/chrispsn/mesh) - Old version. Visualise data and edit JavaScript code using a spreadsheet interface.
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [haukex/webperl](https://github.com/haukex/webperl) - Run Perl in the browser with WebPerl!
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
@@ -6641,7 +6649,7 @@
 ## kotlin 
 
 - [microsoft/ts-gyb](https://github.com/microsoft/ts-gyb) - Generating native code interfaces from TypeScript
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+- [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) - A meticulous HTTP client for the JVM, Android, and GraalVM.
 - [realm/realm-kotlin](https://github.com/realm/realm-kotlin) - Kotlin Multiplatform and Android SDK for the Realm Mobile Database: Build Better Apps Faster.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [touchlab/SKIE](https://github.com/touchlab/SKIE) - SKIE - Swift Kotlin Interface Enhancer
@@ -7860,6 +7868,7 @@
 
 ## markdown 
 
+- [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
 - [sphireinc/Foundry](https://github.com/sphireinc/Foundry) - A Markdown-first CMS written in Go with themes, plugins, and an integrated admin UI
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -7988,6 +7997,7 @@
 
 ## mcp 
 
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) - The official Swift SDK for Model Context Protocol servers and clients.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
@@ -8141,6 +8151,7 @@
 
 ## mysql 
 
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [Part-DB/Part-DB-server](https://github.com/Part-DB/Part-DB-server) - Part-DB is an Open source inventory management system for your electronic components
@@ -8769,6 +8780,8 @@
 
 ## others 
 
+- [chipfoundry/sky130_ef_ip__adc3v_12bit](https://github.com/chipfoundry/sky130_ef_ip__adc3v_12bit) - 
+- [wixtoolset/wix](https://github.com/wixtoolset/wix) - WiX Toolset Code
 - [Free-Ink/freeink-sdk](https://github.com/Free-Ink/freeink-sdk) - A hardware-independent SDK for building e-paper reader firmware.
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X3 and X4 e-readers
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
@@ -10579,7 +10592,7 @@
 - [chip-red-pill/uCodeDisasm](https://github.com/chip-red-pill/uCodeDisasm) - 
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
 - [gogcom/galaxy-ue-oss-plugin](https://github.com/gogcom/galaxy-ue-oss-plugin) - OnlineSubsystem interface implementation for GOG Galaxy platform
-- [gogcom/galaxy-integrations-python-api](https://github.com/gogcom/galaxy-integrations-python-api) - NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the Galaxy Client 2.0 shall be sent via Galaxy Client menu
+- [gogcom/galaxy-integrations-python-api](https://github.com/gogcom/galaxy-integrations-python-api) - NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the GALAXY Client shall be sent via GALAXY Client menu
 - [seemoo-lab/mobisys2018_nexmon_software_defined_radio](https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio) - Proof of concept project for operating Broadcom Wi-Fi chips as arbitrary signal transmitters similar to software-defined radios (SDRs)
 - [schlae/graphics-gremlin](https://github.com/schlae/graphics-gremlin) - Open source retro ISA video card
 - [DarylBuckle/dnd-character-sheets](https://github.com/DarylBuckle/dnd-character-sheets) - Dungeons and Dragons 5th Edition character sheets created in ReactJS.
@@ -13141,7 +13154,6 @@
 - [net-ssh/net-ssh](https://github.com/net-ssh/net-ssh) - Pure Ruby implementation of an SSH (protocol 2) client
 - [Wootenblatz/Jekyll-Admin](https://github.com/Wootenblatz/Jekyll-Admin) - Drop in code for Rails that allows you to edit your Jekyll.rb based blog.
 - [rfelix/jekyll_ext](https://github.com/rfelix/jekyll_ext) - My attempt to make Jekyll more extendable and to make extensions portable
-- [static-publisher/static-publisher](https://github.com/static-publisher/static-publisher) - Automated deployment server for static site generators
 - [henrythemes/jekyll-bootstrap-theme](https://github.com/henrythemes/jekyll-bootstrap-theme) - jekyll starter theme w/ bootstrap (sass version)
 - [slack-samples/python-onboarding-events](https://github.com/slack-samples/python-onboarding-events) - An onboarding app for a welcoming workspace
 - [slack-samples/ruby-onboarding-events](https://github.com/slack-samples/ruby-onboarding-events) - An onboarding app for a welcoming workspace
@@ -15034,6 +15046,7 @@
 
 ## postgresql 
 
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
@@ -15140,6 +15153,7 @@
 
 ## productivity 
 
+- [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
 - [huseyinaslim/macos-keyboardblocker](https://github.com/huseyinaslim/macos-keyboardblocker) - 🔒 Lock your Mac's keyboard while cleaning - prevents accidental keypresse
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
@@ -15245,7 +15259,7 @@
 ## project-management 
 
 - [bbatsov/projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
-- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 - [Alanaktion/phproject](https://github.com/Alanaktion/phproject) - A high performance full-featured project management system
 
 ## publishing 
@@ -15420,7 +15434,7 @@
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [nfstream/nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
 - [san089/goodreads_etl_pipeline](https://github.com/san089/goodreads_etl_pipeline) - An end-to-end GoodReads Data Pipeline for Building Data Lake, Data Warehouse and Analytics Platform.
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [alan-turing-institute/CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - CleverCSV is a Python package for handling messy CSV files. It provides a drop-in replacement for the builtin CSV module with improved dialect detection, and comes with a handy command line applicatio
 - [cantools/cantools](https://github.com/cantools/cantools) - CAN bus tools.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
@@ -15913,7 +15927,7 @@
 - [Walker-TW/Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer) - View Algorithms in the Browser! - Built with ReactJs
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
@@ -16191,7 +16205,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 - [publify/publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 - [yoshimkd/swift-auto-diagram](https://github.com/yoshimkd/swift-auto-diagram) - A Ruby script that scans all swift code from the specified folders and files and automatically generates an entity diagram (similar to a class diagram) which can be viewed in a browser.
 - [piotrmurach/strings](https://github.com/piotrmurach/strings) - A set of useful functions for transforming strings.
@@ -16712,6 +16726,7 @@
 
 ## self-hosted 
 
+- [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
 - [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
@@ -16845,7 +16860,7 @@
 - [IBM/tnz](https://github.com/IBM/tnz) - Tn3270 to Z Python library
 - [matan-h/adb-shell](https://github.com/matan-h/adb-shell) - better `adb shell`
 - [cweagans/dotfiles](https://github.com/cweagans/dotfiles) - My personal config files.
-- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Control and manipulate a command's effects before modifying your live system
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -16959,6 +16974,7 @@
 
 ## sql 
 
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is a modern open source language for describing data relationships and transformations.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
@@ -17000,6 +17016,7 @@
 
 ## sqlite 
 
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
@@ -18504,7 +18521,7 @@
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [as-pect/as-pect](https://github.com/as-pect/as-pect) - 🔥Blazing🔥 fast testing with AssemblyScript
