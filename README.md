@@ -2497,7 +2497,7 @@
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language.
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 - [leesharma/metaprogramming_elixir](https://github.com/leesharma/metaprogramming_elixir) - My notes and exercise solutions for Metaprogramming Elixir. This book was read as part of the DC Elixir Bookclub.
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
 - [usecanvas/api-v2](https://github.com/usecanvas/api-v2) - 
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
@@ -2679,7 +2679,7 @@
 - [plunder-app/plunder](https://github.com/plunder-app/plunder) - A Modern automation platform
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [Backblaze/blazer](https://github.com/Backblaze/blazer) - A Go library for Backblaze's B2.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [macstadium/packer-plugin-macstadium-orka](https://github.com/macstadium/packer-plugin-macstadium-orka) - Builder for Orka in MacStadium. (originally https://github.com/AndrewFarley/packer-builder-macstadium-orka )
 - [tedpearson/edf-importer](https://github.com/tedpearson/edf-importer) - Tool to import .edf files (particularly from CPAP machines) to influxdb or victoriametrics.
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
@@ -2881,7 +2881,6 @@
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
-- [FoundryApp/foundry-cli](https://github.com/FoundryApp/foundry-cli) - Foundry makes the development of Firebase Functions fast by giving you an out-of-the-box working cloud environment for your development with an access to your production data. It's a CLI tool that giv
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [cloudflare/xdpcap](https://github.com/cloudflare/xdpcap) - tcpdump like XDP packet capture
 - [whytheplatypus/switchboard](https://github.com/whytheplatypus/switchboard) - Simple mDNS based reverse proxy for personal infrastructure.
@@ -3303,7 +3302,7 @@
 - [adamgmakes/SplitFlapDisplay](https://github.com/adamgmakes/SplitFlapDisplay) - 
 - [6502org/obelisk](https://github.com/6502org/obelisk) - Andrew Jacobs' (BitWise on the 6502.org forum) website formerly at www.obelisk.me.uk and before that www.obelisk.demon.co.uk
 - [gridfinity-unofficial/gridfinity-unofficial.github.io](https://github.com/gridfinity-unofficial/gridfinity-unofficial.github.io) - The homepage of the unofficial gridfinity site.
-- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [M17-Project/M17_3310](https://github.com/M17-Project/M17_3310) - Mainboard replacement for Nokia 3310
 - [sigstore/docs](https://github.com/sigstore/docs) - Sigstore documentation
@@ -8166,6 +8165,7 @@
 
 ## Rust 
 
+- [openvm-org/openvm](https://github.com/openvm-org/openvm) - A performant and modular zkVM framework built for customization and extensibility.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
