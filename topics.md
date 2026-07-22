@@ -766,6 +766,7 @@
 
 ## automation 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [daisy-workflow/daisy-engine](https://github.com/daisy-workflow/daisy-engine) - AI orchestration platform
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
@@ -2350,6 +2351,7 @@
 
 ## cpp 
 
+- [openlab-x/OpenCircuitX](https://github.com/openlab-x/OpenCircuitX) - Free, open-source EDA platform for VHDL and Verilog. HDL editor, circuit   canvas, RTL viewer, waveform viewer, and FPGA toolchain in one window.
 - [akshaybaweja/Smart-IC-Tester](https://github.com/akshaybaweja/Smart-IC-Tester) - 
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
@@ -2935,7 +2937,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, web streams, zip64, split files, data encryption, and deflate64 decompression.
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting parallel compression, web streams, zip64, split files, data encryption, and deflate64 decompression.
 
 ## dependency-management 
 
@@ -2991,6 +2993,7 @@
 
 ## developer-tools 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
@@ -4073,6 +4076,7 @@
 
 ## git 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
@@ -6209,6 +6213,7 @@
 
 ## javascript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [raymelon/youtube-playlist-backup-apps-script](https://github.com/raymelon/youtube-playlist-backup-apps-script) - Back up your YouTube playlists into Google Sheets with Google Apps Script
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
@@ -6406,7 +6411,7 @@
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [travis-ci/travis-web](https://github.com/travis-ci/travis-web) - The Ember web client for Travis CI
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, web streams, zip64, split files, data encryption, and deflate64 decompression.
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting parallel compression, web streams, zip64, split files, data encryption, and deflate64 decompression.
 - [mapbox/delaunator](https://github.com/mapbox/delaunator) - An incredibly fast JavaScript library for Delaunay triangulation of 2D points
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
@@ -8399,7 +8404,7 @@
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [desktop/dugite](https://github.com/desktop/dugite) - Elegant bindings for working with Git in your Node applications
 - [slackapi/node-slack-events-api](https://github.com/slackapi/node-slack-events-api) - Slack Events API for Node
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, web streams, zip64, split files, data encryption, and deflate64 decompression.
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting parallel compression, web streams, zip64, split files, data encryption, and deflate64 decompression.
 - [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
@@ -8601,6 +8606,7 @@
 
 ## open-source 
 
+- [openlab-x/OpenCircuitX](https://github.com/openlab-x/OpenCircuitX) - Free, open-source EDA platform for VHDL and Verilog. HDL editor, circuit   canvas, RTL viewer, waveform viewer, and FPGA toolchain in one window.
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [kewonit/aeris](https://github.com/kewonit/aeris) - Aeris is a real-time 3D flight radar for the web
@@ -8912,7 +8918,7 @@
 - [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
 - [valdanylchuk/breezydemo](https://github.com/valdanylchuk/breezydemo) - BreezyBox shell demo for esp32s3
 - [microsoft/litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
-- [artemnovichkov/xcode-27-system-prompts](https://github.com/artemnovichkov/xcode-27-system-prompts) - Xcode 27 beta 3 system prompts and internal documentation
+- [artemnovichkov/xcode-27-system-prompts](https://github.com/artemnovichkov/xcode-27-system-prompts) - Xcode 27 beta 4 system prompts and internal documentation
 - [CaptureContext/swift-associated-objects](https://github.com/CaptureContext/swift-associated-objects) - Associated objects utils
 - [gridfinity-unofficial/gridfinity-unofficial.github.io](https://github.com/gridfinity-unofficial/gridfinity-unofficial.github.io) - The homepage of the unofficial gridfinity site.
 - [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources
@@ -16042,6 +16048,7 @@
 
 ## rest-api 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [octokit/request-action](https://github.com/octokit/request-action) - A GitHub Action to send arbitrary requests to GitHub's REST API
 - [octokit/rest.js](https://github.com/octokit/rest.js) - GitHub REST API client for JavaScript
@@ -18333,6 +18340,7 @@
 
 ## testing 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) - A modern, expressive testing package for Swift
 - [pointfreeco/swift-macro-testing](https://github.com/pointfreeco/swift-macro-testing) - Magical testing tools for Swift macros.
 - [kishikawakatsumi/swift-power-assert](https://github.com/kishikawakatsumi/swift-power-assert) - Power Assert in Swift.
@@ -18704,6 +18712,7 @@
 
 ## verilog 
 
+- [openlab-x/OpenCircuitX](https://github.com/openlab-x/OpenCircuitX) - Free, open-source EDA platform for VHDL and Verilog. HDL editor, circuit   canvas, RTL viewer, waveform viewer, and FPGA toolchain in one window.
 - [bodsvei/2D-systolic-array](https://github.com/bodsvei/2D-systolic-array) - A parameterizable Weight-Stationary 2D Systolic Array implemented in Verilog for hardware-accelerated matrix multiplication
 - [furrtek/SiliconRE](https://github.com/furrtek/SiliconRE) - Traces, schematics, and general infos about custom chips reverse-engineered from silicon
 - [AUCOHL/DFFRAM](https://github.com/AUCOHL/DFFRAM) - Standard Cell Library based Memory Compiler using FF/Latch cells
