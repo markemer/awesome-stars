@@ -1441,6 +1441,7 @@
 
 ## C++ 
 
+- [openlab-x/OpenCircuitX](https://github.com/openlab-x/OpenCircuitX) - Free, open-source EDA platform for VHDL and Verilog. HDL editor, circuit   canvas, RTL viewer, waveform viewer, and FPGA toolchain in one window.
 - [Free-Ink/freeink-sdk](https://github.com/Free-Ink/freeink-sdk) - A hardware-independent SDK for building e-paper reader firmware.
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
@@ -3771,6 +3772,7 @@
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [Shpigford/knockoff](https://github.com/Shpigford/knockoff) - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.
 - [rlfordon/the-missing-link](https://github.com/rlfordon/the-missing-link) - Browser extension: find the case the article didn't link. Uses Claude to identify the case, then searches CourtListener.
@@ -4376,7 +4378,7 @@
 - [slack-samples/javascript-message-menus](https://github.com/slack-samples/javascript-message-menus) - Order coffee through interactive message menus
 - [slackapi/node-slack-interactive-messages](https://github.com/slackapi/node-slack-interactive-messages) - Slack Buttons, Menus, and Dialogs made simpler for Node
 - [slack-samples/botkit-easy-peasy-bot](https://github.com/slack-samples/botkit-easy-peasy-bot) - Create a bot with Botkit
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, web streams, zip64, split files, data encryption, and deflate64 decompression.
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting parallel compression, web streams, zip64, split files, data encryption, and deflate64 decompression.
 - [mapbox/delaunator](https://github.com/mapbox/delaunator) - An incredibly fast JavaScript library for Delaunay triangulation of 2D points
 - [captainsafia/giddy](https://github.com/captainsafia/giddy) - A CLI wrapper around git for an improved developer experience
 - [mathjax/MathJax-docs](https://github.com/mathjax/MathJax-docs) - MathJax documentation. Beautiful math in all browsers. Beautifully documented.
@@ -6653,7 +6655,7 @@
 - [Tokariew/hb_downloader](https://github.com/Tokariew/hb_downloader) - Simple python script to download purchased items from humble bundle
 - [lowobservable/oec](https://github.com/lowobservable/oec) - IBM 3270 terminal controller - IBM 3174 replacement
 - [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
-- [artemnovichkov/xcode-27-system-prompts](https://github.com/artemnovichkov/xcode-27-system-prompts) - Xcode 27 beta 3 system prompts and internal documentation
+- [artemnovichkov/xcode-27-system-prompts](https://github.com/artemnovichkov/xcode-27-system-prompts) - Xcode 27 beta 4 system prompts and internal documentation
 - [thebrowsercompany/swift-build](https://github.com/thebrowsercompany/swift-build) - Swift toolchain builds by The Browser Company
 - [dropbox/stone](https://github.com/dropbox/stone) - The Official API Spec Language for Dropbox API V2
 - [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) - Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
