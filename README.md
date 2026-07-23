@@ -322,6 +322,7 @@
 
 ## C 
 
+- [openwch/ch569](https://github.com/openwch/ch569) - SDK sch&layout reference design and datasheet documention
 - [rusefi/rusefi](https://github.com/rusefi/rusefi) - rusefi - GPL internal combustion engine control unit
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X3 and X4 e-readers
 - [morganstanley/hobbes](https://github.com/morganstanley/hobbes) - A language and an embedded JIT compiler
@@ -2446,7 +2447,6 @@
 - [flutter/devtools](https://github.com/flutter/devtools) - Developer tools for Flutter & Dart
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
 - [huextrat/Taskist](https://github.com/huextrat/Taskist) - Flutter ToDo App with Firebase
-- [dart-lang/dart-pad](https://github.com/dart-lang/dart-pad) - An online Dart editor with support for console, web, and Flutter apps.
 - [TerminalStudio/xterm.dart](https://github.com/TerminalStudio/xterm.dart) - 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms.
 - [flutter-team-archive/gallery](https://github.com/flutter-team-archive/gallery) - Flutter Gallery was a resource to help developers evaluate and use Flutter
 - [diegoveloper/flutter-samples](https://github.com/diegoveloper/flutter-samples) - Flutter Samples
@@ -2601,6 +2601,7 @@
 
 ## Go 
 
+- [caarlos0/svu](https://github.com/caarlos0/svu) - semantic version utility
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [joshdholtz/disform](https://github.com/joshdholtz/disform) - Terraform-like CLI for declarative Discord server management (channels, roles, permissions)
@@ -3976,6 +3977,7 @@
 - [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
+- [dart-lang/dart-pad](https://github.com/dart-lang/dart-pad) - An online Dart editor with support for console, web, and Flutter apps.
 - [adventurerscodex/adventurerscodex](https://github.com/adventurerscodex/adventurerscodex) - Experience the next step in tabletop RPGs
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [RetroReversing/retroReversing](https://github.com/RetroReversing/retroReversing) - Awesome website for reverse engineering retro games:
@@ -6634,6 +6636,7 @@
 
 ## Python 
 
+- [o7-machinehum/kicad-vault](https://github.com/o7-machinehum/kicad-vault) - Part Procurement systems for KiCad
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [schlae/BeavisUltrasound](https://github.com/schlae/BeavisUltrasound) - Open source clone of the Gravis Ultrasound PnP
 - [warpdotdev-demos/cloud-factory-demo](https://github.com/warpdotdev-demos/cloud-factory-demo) - 
@@ -9300,7 +9303,7 @@
 - [KarimEbrahemAbdelaziz/SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - Simple and Elegant Drop down menu for iOS 🔥💥
 - [johnpatrickmorgan/NavigationBackport](https://github.com/johnpatrickmorgan/NavigationBackport) - Backported SwiftUI navigation APIs introduced in WWDC22
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
-- [VODGroup/VoiceOverDesigner](https://github.com/VODGroup/VoiceOverDesigner) - macOS app to help design accessibility for an iOS app
+- [AccessibilityTools/VoiceOverDesigner](https://github.com/AccessibilityTools/VoiceOverDesigner) - macOS app to help design accessibility for an iOS app
 - [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 - [andrewzimmer906/Swift3D](https://github.com/andrewzimmer906/Swift3D) - A SwiftUI like 3D engine backed by Metal
 - [Ekhoo/Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
@@ -10815,6 +10818,9 @@
 
 ## TypeScript 
 
+- [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
+- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
+- [arduino/setup-task](https://github.com/arduino/setup-task) - GitHub Actions action to make Task available for use in your workflow
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [xt42io/avnac](https://github.com/xt42io/avnac) - Free browser-based design software.
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
