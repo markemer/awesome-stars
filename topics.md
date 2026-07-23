@@ -4455,6 +4455,7 @@
 
 ## golang 
 
+- [caarlos0/svu](https://github.com/caarlos0/svu) - semantic version utility
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -4843,6 +4844,7 @@
 
 ## hacktoberfest 
 
+- [caarlos0/svu](https://github.com/caarlos0/svu) - semantic version utility
 - [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
@@ -8790,6 +8792,11 @@
 
 ## others 
 
+- [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
+- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
+- [arduino/setup-task](https://github.com/arduino/setup-task) - GitHub Actions action to make Task available for use in your workflow
+- [o7-machinehum/kicad-vault](https://github.com/o7-machinehum/kicad-vault) - Part Procurement systems for KiCad
+- [openwch/ch569](https://github.com/openwch/ch569) - SDK sch&layout reference design and datasheet documention
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [caldwell/build-emacs](https://github.com/caldwell/build-emacs) - Build scripts for www.emacsformacosx.com
 - [openvm-org/openvm](https://github.com/openvm-org/openvm) - A performant and modular zkVM framework built for customization and extensibility.
@@ -9868,7 +9875,7 @@
 - [johnpatrickmorgan/NavigationBackport](https://github.com/johnpatrickmorgan/NavigationBackport) - Backported SwiftUI navigation APIs introduced in WWDC22
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [mathieudutour/timezone-butler](https://github.com/mathieudutour/timezone-butler) - ⏰🤵 A Slack butler who will take care of the timezone differences in your team.
-- [VODGroup/VoiceOverDesigner](https://github.com/VODGroup/VoiceOverDesigner) - macOS app to help design accessibility for an iOS app
+- [AccessibilityTools/VoiceOverDesigner](https://github.com/AccessibilityTools/VoiceOverDesigner) - macOS app to help design accessibility for an iOS app
 - [err4o4/spotify-car-thing-reverse-engineering](https://github.com/err4o4/spotify-car-thing-reverse-engineering) - 
 - [ZipCPU/wbsata](https://github.com/ZipCPU/wbsata) - Wishbone SATA Controller
 - [ZipCPU/eth10g](https://github.com/ZipCPU/eth10g) - 10Gb Ethernet Switch
