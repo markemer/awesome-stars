@@ -4870,6 +4870,7 @@
 
 ## Lua 
 
+- [nonissue/hammerspoon](https://github.com/nonissue/hammerspoon) - A hammerspoon config with a bunch of custom spoons (window management with undo, sleep timer, resolution changer, safari hotkey utilities, etc).
 - [cheat-engine/UnrealEngineTools](https://github.com/cheat-engine/UnrealEngineTools) - Tool for Cheat Engine to collect information about Unreal Engine games
 - [ArkForgeLabs/Astra](https://github.com/ArkForgeLabs/Astra) - 🔥 Blazingly Fast 🔥 runtime environment for Lua
 - [franko/luajit-lang-toolkit](https://github.com/franko/luajit-lang-toolkit) - A Lua bytecode compiler written in Lua itself for didactic purposes or for new language implementations
@@ -5083,6 +5084,7 @@
 
 ## Objective-C 
 
+- [oabdrabo/DisplayDeck](https://github.com/oabdrabo/DisplayDeck) - 🖥️ Tiny macOS menu-bar app for total display & window control — disable screens, Force HiDPI, brightness boost, warmth (auto-night), window tiling, transparency/blur/pin/PiP, remote access, keep-awake
 - [datatheorem/TrustKit](https://github.com/datatheorem/TrustKit) - Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.
 - [leptos-null/ClassDumpRuntime](https://github.com/leptos-null/ClassDumpRuntime) - Library to parse Objective-C classes at runtime
 - [ViennaRSS/MMTabBarView](https://github.com/ViennaRSS/MMTabBarView) - 
@@ -9064,6 +9066,12 @@
 
 ## Swift 
 
+- [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
+- [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - Native SVG parser and renderer for SwiftUI, UIKit and AppKit, with tools for PNG, PDF, SF Symbols and Swift source.
+- [stevenselcuk/Barmaid](https://github.com/stevenselcuk/Barmaid) - SwiftUI Ready macOS menubar app boilerplate. Starting point for your next menubar app. Save hours!
+- [nodes-app/swift-markdown-engine](https://github.com/nodes-app/swift-markdown-engine) - A native AppKit Markdown editor for macOS, built on TextKit 2 and bridged to SwiftUI.
+- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
+- [lx2026/RelayBar](https://github.com/lx2026/RelayBar) - Tiny native macOS menu-bar manager for SSH local port forwards
 - [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple's platform
 - [ChrisGVE/PlotSwift](https://github.com/ChrisGVE/PlotSwift) - Data visualization library for Swift
 - [outergroup/hello-outerframe-macOS-swift](https://github.com/outergroup/hello-outerframe-macOS-swift) - Jumping off point for macOS outerframe apps
