@@ -12452,7 +12452,7 @@
 - [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [insidegui/CloudKitCodable](https://github.com/insidegui/CloudKitCodable) - An encoder and decoder for CKRecord
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
-- [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) - Fast and simple homebrew save manager for 3DS and Switch.
+- [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) - Fast and simple homebrew save management framework for 3DS and Switch.
 - [authorblues/smwrandomizer](https://github.com/authorblues/smwrandomizer) - Generate randomized Super Mario World roms.
 - [MrCheeze/botw-object-map](https://github.com/MrCheeze/botw-object-map) - A map of every single object in Zelda: Breath of the Wild. https://mrcheeze.github.io/botw-object-map
 - [MrCheeze/botw-tools](https://github.com/MrCheeze/botw-tools) - Some datamining stuff for The Legend of Zelda: Breath of the Wild
