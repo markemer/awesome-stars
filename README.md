@@ -1443,6 +1443,8 @@
 
 ## C++ 
 
+- [akshar001/Maypole_firmware](https://github.com/akshar001/Maypole_firmware) - Wireless pen-drive to deliver anything to your USB PORT.
+- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [openlab-x/OpenCircuitX](https://github.com/openlab-x/OpenCircuitX) - Free, open-source EDA platform for VHDL and Verilog. HDL editor, circuit   canvas, RTL viewer, waveform viewer, and FPGA toolchain in one window.
 - [Free-Ink/freeink-sdk](https://github.com/Free-Ink/freeink-sdk) - A hardware-independent SDK for building e-paper reader firmware.
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
@@ -1965,7 +1967,7 @@
 - [tpoechtrager/apple-libtapi](https://github.com/tpoechtrager/apple-libtapi) - Apple TAPI Library
 - [TanninOne/modorganizer](https://github.com/TanninOne/modorganizer) - Mod manager for various PC games (currently: Skyrim, Oblivion, Fallout 3, Fallout NV)
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
-- [NightQuest/SKSE](https://github.com/NightQuest/SKSE) - Archive of SKSE, in Git form
+- [Amelinyaa/SKSE](https://github.com/Amelinyaa/SKSE) - Archive of SKSE, in Git form
 - [himika/libSkyrim](https://github.com/himika/libSkyrim) - A library to make SKSE plugin easy
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 - [kashimAstro/ofxGPIO](https://github.com/kashimAstro/ofxGPIO) - Library C++ for raspberrypi and orangepi, GPIO interfaces compatible with openframeworks.
@@ -3305,7 +3307,7 @@
 ## HTML 
 
 - [awesome-rclone/awesome-rclone](https://github.com/awesome-rclone/awesome-rclone) - The awesome list for everything rclone.
-- [Open-Document-Alliance/PDF-Tools](https://github.com/Open-Document-Alliance/PDF-Tools) - PDF Filler for Claude Desktop (using Claude Desktop Extensions)
+- [Open-Document-Alliance/PDF-Tools](https://github.com/Open-Document-Alliance/PDF-Tools) - Fill, sign, merge, split, and extract PDFs from Claude Desktop and other MCP hosts. Maintained by the Open Document Alliance.
 - [Pomax/BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
 - [adamgmakes/SplitFlapDisplay](https://github.com/adamgmakes/SplitFlapDisplay) - 
 - [6502org/obelisk](https://github.com/6502org/obelisk) - Andrew Jacobs' (BitWise on the 6502.org forum) website formerly at www.obelisk.me.uk and before that www.obelisk.demon.co.uk
@@ -3614,6 +3616,8 @@
 
 ## Java 
 
+- [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
+- [martinpaljak/GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) - Manage applets and keys on JavaCard-s like a pro 🌐 🔐
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
@@ -3777,6 +3781,7 @@
 
 ## JavaScript 
 
+- [letsseal/letsseal](https://github.com/letsseal/letsseal) - The open standard for proving any file is real, unaltered and sealed
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [Shpigford/knockoff](https://github.com/Shpigford/knockoff) - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.
@@ -4423,7 +4428,7 @@
 - [sbidolach/mobile-gamepad](https://github.com/sbidolach/mobile-gamepad) - Mobile wifi gamepad for RetroPie
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [icai/crxautoreload](https://github.com/icai/crxautoreload) - chrome extension development runtime auto reload
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [AtomLinter/linter-rubocop](https://github.com/AtomLinter/linter-rubocop) - Linter plugin for Ruby, using rubocop
 - [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers https://aneesiqbal.ai/2017-03-13-linter-v2-released
 - [guerrero/generator-sketch-plugin](https://github.com/guerrero/generator-sketch-plugin) - Scaffold out a sketch plugin
@@ -6642,6 +6647,7 @@
 
 ## Python 
 
+- [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [o7-machinehum/kicad-vault](https://github.com/o7-machinehum/kicad-vault) - Part Procurement systems for KiCad
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [schlae/BeavisUltrasound](https://github.com/schlae/BeavisUltrasound) - Open source clone of the Gravis Ultrasound PnP
@@ -8219,7 +8225,7 @@
 - [quadrupleslap/scrap](https://github.com/quadrupleslap/scrap) - 📸 Screen capture made easy!
 - [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
 - [DVDTSB/hexhog](https://github.com/DVDTSB/hexhog) - hex viewer/editor
-- [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere.
+- [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider.
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [kvark/mint](https://github.com/kvark/mint) - Math Interoperability Types
 - [fu5ha/cint](https://github.com/fu5ha/cint) - A lean, minimal, and stable set of types for color interoperation between crates in Rust.
@@ -8705,6 +8711,8 @@
 
 ## Shell 
 
+- [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
+- [akshar001/Maypole_PCB](https://github.com/akshar001/Maypole_PCB) - Wireless file storage from anywhere
 - [tsupplis/cpm86-crossdev](https://github.com/tsupplis/cpm86-crossdev) - CP/M-86 cross development environment
 - [sfiorini/NordVPN-Wireguard](https://github.com/sfiorini/NordVPN-Wireguard) - A bash scripts that generates Wireguard configuration file for a NordVPN connection.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -9070,6 +9078,8 @@
 
 ## Swift 
 
+- [samhenrigold/MenuBarExtraAccess](https://github.com/samhenrigold/MenuBarExtraAccess) - Show/hide SwiftUI MenuBarExtra menu using Bindings, access the underlying status item, and more.
+- [orchetect/MacControlCenterUI](https://github.com/orchetect/MacControlCenterUI) - SwiftUI menu builder DSL & controls that mimic macOS Control Center.
 - [MasterJ93/ATProtoKit](https://github.com/MasterJ93/ATProtoKit) - A straightforward solution for using the AT Protocol and Bluesky, written in Swift.
 - [nnabeyang/swift-atproto](https://github.com/nnabeyang/swift-atproto) - AT Protocol implementation in Swift
 - [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
@@ -9095,7 +9105,7 @@
 - [paniclock/paniclock](https://github.com/paniclock/paniclock) - Instantly disable Touch ID and lock your Mac with one click or keyboard shortcut.
 - [moozzyk/MiniproUI](https://github.com/moozzyk/MiniproUI) - 
 - [rderik/rdncat](https://github.com/rderik/rdncat) - A client-server command-line tool created using NWFramework
-- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
 - [mikhailmaslo/macro-codable-kit](https://github.com/mikhailmaslo/macro-codable-kit) - Efficient, flexible Codable with Swift Macros
 - [sindresorhus/macos-trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash
 - [sindresorhus/DSStore](https://github.com/sindresorhus/DSStore) - Parse and write macOS .DS_Store files from Swift
@@ -10733,7 +10743,7 @@
 - [verilator/verilator](https://github.com/verilator/verilator) - Verilator open-source SystemVerilog simulator and lint system
 - [chipsalliance/Cores-VeeR-EL2](https://github.com/chipsalliance/Cores-VeeR-EL2) - VeeR EL2 Core
 - [hdl-util/hdmi](https://github.com/hdl-util/hdmi) - Send video/audio over HDMI on an FPGA
-- [lowRISC/ibex](https://github.com/lowRISC/ibex) - Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.
+- [lowRISC/ibex](https://github.com/lowRISC/ibex) - Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)
 - [lowRISC/opentitan](https://github.com/lowRISC/opentitan) - OpenTitan: Open source silicon root of trust
 - [syntacore/scr1](https://github.com/syntacore/scr1) - SCR1 is a high-quality open-source RISC-V MCU core in Verilog
 - [chipsalliance/Cores-VeeR-EH1](https://github.com/chipsalliance/Cores-VeeR-EH1) - VeeR EH1 core
