@@ -2713,7 +2713,7 @@
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is an experimental/abandoned GPU rendered terminal emulator designed for tiling window managers.
 - [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Forwarder is a production-ready, fast MITM proxy with PAC support. It's suitable for debugging, intercepting and manipulating HTTP traffic. It's used as a core component of Sauce Labs Sauce Connect Pr
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [philippta/flyscrape](https://github.com/philippta/flyscrape) - Flyscrape is a command-line web scraping tool designed for those without advanced programming skills.
 - [tcnksm/ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
@@ -3956,7 +3956,6 @@
 - [max-mapper/xml-json](https://github.com/max-mapper/xml-json) - convert xml to json on the command line. not streaming, pure javascript
 - [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
 - [johnelm/node-jxa](https://github.com/johnelm/node-jxa) - Use your favorite node.js modules (and JS editor) for your Javascript OSX automation scripts
-- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [opencomputeproject/CADCloud](https://github.com/opencomputeproject/CADCloud) - CADCloud is a cloud based sharing infrastructure dedicates to CAD engineers. It allows users to share design files, browse them interactively through a simple web interface, and support native file fo
 - [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins) - Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
@@ -4428,7 +4427,6 @@
 - [sbidolach/mobile-gamepad](https://github.com/sbidolach/mobile-gamepad) - Mobile wifi gamepad for RetroPie
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [icai/crxautoreload](https://github.com/icai/crxautoreload) - chrome extension development runtime auto reload
-- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [AtomLinter/linter-rubocop](https://github.com/AtomLinter/linter-rubocop) - Linter plugin for Ruby, using rubocop
 - [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers https://aneesiqbal.ai/2017-03-13-linter-v2-released
 - [guerrero/generator-sketch-plugin](https://github.com/guerrero/generator-sketch-plugin) - Scaffold out a sketch plugin
@@ -5647,6 +5645,7 @@
 
 ## Others 
 
+- [Keychron/Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) - Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories withi
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
 - [DARPA-TRACTOR-Program/Reports](https://github.com/DARPA-TRACTOR-Program/Reports) - Publicly released reports for the DARPA TRACTOR program
 - [amber-lang/awesome-amberlang](https://github.com/amber-lang/awesome-amberlang) - 😎 The best projects around the web about Amber language!
@@ -11066,6 +11065,7 @@
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [Nexus-Mods/discord-bot](https://github.com/Nexus-Mods/discord-bot) - Nexus Mods Discord Bot
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [octokit/auth-oauth-app.js](https://github.com/octokit/auth-oauth-app.js) - GitHub OAuth App authentication for JavaScript
 - [joplin/plugin-abc-sheet-music](https://github.com/joplin/plugin-abc-sheet-music) - ABC Sheet Music Plugin for Joplin
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
