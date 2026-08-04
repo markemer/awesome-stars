@@ -294,7 +294,6 @@
 ## Batchfile 
 
 - [dockur/windows-arm](https://github.com/dockur/windows-arm) - Windows for ARM in a Docker container.
-- [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
@@ -324,6 +323,10 @@
 
 ## C 
 
+- [dnotq/decNumber](https://github.com/dnotq/decNumber) - Decimal Floating Point decNumber C Library by IBM Fellow Mike Cowlishaw
+- [RaymiiOrg/prinux-prinux](https://github.com/RaymiiOrg/prinux-prinux) - HP Prime G2 Linux
+- [RaymiiOrg/prinux-uboot](https://github.com/RaymiiOrg/prinux-uboot) - HP Prime G2 Linux
+- [RaymiiOrg/prinux-linux](https://github.com/RaymiiOrg/prinux-linux) - HP Prime G2 Linux
 - [crossbar-inc/daric-sdk](https://github.com/crossbar-inc/daric-sdk) - SDK for developing firmware on Daric embedded platforms, featuring a Secure Crypto Engine (SCE) with hardware-accelerated cryptography (AES, ECDSA, EdDSA, ZKP), HAL drivers, ThreadX RTOS support, and 
 - [openwch/ch569](https://github.com/openwch/ch569) - SDK sch&layout reference design and datasheet documention
 - [rusefi/rusefi](https://github.com/rusefi/rusefi) - rusefi - GPL internal combustion engine control unit
@@ -1589,6 +1592,7 @@
 - [bitbank2/SmartResponseXE](https://github.com/bitbank2/SmartResponseXE) - Arduino library with LCD, Keyboard and SPI Flash support for the SMART Response XE classroom communicator
 - [icefallgames/SCICompanion](https://github.com/icefallgames/SCICompanion) - SCI Companion - an editor for Sierra SCI games
 - [FrancescoRigoni/Lib65816](https://github.com/FrancescoRigoni/Lib65816) - Emulator library for the 65816 CPU
+- [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [opencodewin/MediaEditor](https://github.com/opencodewin/MediaEditor) - A non-linear editing software that helps you to make nice video.
 - [MicroCoreLabs/Projects](https://github.com/MicroCoreLabs/Projects) - Ted Fried's MicroCore Labs Projects - FPGA CPU cores and emulators for the 8088, 8086, 8051, 6502, 68000, Z80, Risc-V, and also Typewriter and EPROM Emulator projects.  MCL51, MCL64, MCL65, MCL65+, MC
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
@@ -1746,7 +1750,7 @@
 - [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system (mirror)
 - [ianpatt/f4se](https://github.com/ianpatt/f4se) - Fallout 4 Script Extender
 - [rtl-airband/RTLSDR-Airband](https://github.com/rtl-airband/RTLSDR-Airband) - Multichannel AM/NFM demodulator
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-17.0.0 [June 2026]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-17.0.0 [August 2026]
 - [robmikh/Win32CaptureSample](https://github.com/robmikh/Win32CaptureSample) - A simple sample using the Windows.Graphics.Capture APIs in a Win32 application.
 - [PixelRick/CyberpunkSaveEditor](https://github.com/PixelRick/CyberpunkSaveEditor) - A tool to edit Cyberpunk 2077 sav.dat files
 - [przemek83/volbx](https://github.com/przemek83/volbx) - Graphical tool for data manipulation written in C++/Qt.
@@ -4429,6 +4433,7 @@
 - [sbidolach/mobile-gamepad](https://github.com/sbidolach/mobile-gamepad) - Mobile wifi gamepad for RetroPie
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [icai/crxautoreload](https://github.com/icai/crxautoreload) - chrome extension development runtime auto reload
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [AtomLinter/linter-rubocop](https://github.com/AtomLinter/linter-rubocop) - Linter plugin for Ruby, using rubocop
 - [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers https://aneesiqbal.ai/2017-03-13-linter-v2-released
 - [guerrero/generator-sketch-plugin](https://github.com/guerrero/generator-sketch-plugin) - Scaffold out a sketch plugin
@@ -4949,6 +4954,7 @@
 
 ## Makefile 
 
+- [RaymiiOrg/prinux-buildroot](https://github.com/RaymiiOrg/prinux-buildroot) - HP Prime G2 Linux
 - [bodsvei/2D-systolic-array](https://github.com/bodsvei/2D-systolic-array) - A parameterizable Weight-Stationary 2D Systolic Array implemented in Verilog for hardware-accelerated matrix multiplication
 - [mroi/apple-internals](https://github.com/mroi/apple-internals) - information and tools to understand the internals of Apple’s operating systems
 - [NabuCasa/buildroot-installer](https://github.com/NabuCasa/buildroot-installer) - Buildroot for Yellow Installer and Tester
@@ -5647,6 +5653,7 @@
 
 ## Others 
 
+- [flipperdevices/flipperone-hardware](https://github.com/flipperdevices/flipperone-hardware) - Flipper One hardware
 - [Keychron/Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) - Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories withi
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
 - [DARPA-TRACTOR-Program/Reports](https://github.com/DARPA-TRACTOR-Program/Reports) - Publicly released reports for the DARPA TRACTOR program
@@ -6703,7 +6710,7 @@
 - [NOAA-GSL/zyra](https://github.com/NOAA-GSL/zyra) - Modular workflows for reproducible science
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [aedrax/opasm](https://github.com/aedrax/opasm) - Assembly REPL
-- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted certificate lifecycle management: issue, renew, discover, inventory and deploy TLS certificates across your estate
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted certificate lifecycle management: issue, renew, discover, inventory and deploy TLS certificates across your infrastructure
 - [HelgeGehring/gdshelpers](https://github.com/HelgeGehring/gdshelpers) - GDSHelpers is an open-source package for automatized pattern generation for nano-structuring.
 - [robotools/robofab](https://github.com/robotools/robofab) - RoboFab
 - [robotools/fontParts](https://github.com/robotools/fontParts) - The replacement for RoboFab
