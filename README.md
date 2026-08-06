@@ -1448,6 +1448,7 @@
 
 ## C++ 
 
+- [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [symless/synergy](https://github.com/symless/synergy) - Use the keyboard, mouse, or trackpad of one computer to control nearby computers, and work seamlessly between them.
 - [akshar001/Maypole_firmware](https://github.com/akshar001/Maypole_firmware) - Wireless pen-drive to deliver anything to your USB PORT.
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
@@ -2516,6 +2517,8 @@
 
 ## Emacs Lisp 
 
+- [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
+- [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [alpha22jp/atomic-chrome](https://github.com/alpha22jp/atomic-chrome) - Edit text area on Chrome with Emacs using Atomic Chrome
@@ -3143,7 +3146,7 @@
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
 - [hacdias/caddy-v1-service](https://github.com/hacdias/caddy-v1-service) - :black_large_square: Run Caddy as a service
-- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [caddyserver/forwardproxy](https://github.com/caddyserver/forwardproxy) - Forward proxy plugin for the Caddy web server
 - [otiai10/gosseract](https://github.com/otiai10/gosseract) - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library
@@ -3315,6 +3318,7 @@
 
 ## HTML 
 
+- [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 - [awesome-rclone/awesome-rclone](https://github.com/awesome-rclone/awesome-rclone) - The awesome list for everything rclone.
 - [Pomax/BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
 - [adamgmakes/SplitFlapDisplay](https://github.com/adamgmakes/SplitFlapDisplay) - 
@@ -5101,7 +5105,7 @@
 
 ## Objective-C 
 
-- [oabdrabo/DisplayDeck](https://github.com/oabdrabo/DisplayDeck) - 🖥️ Tiny macOS menu-bar app for total display & window control — disable screens, Force HiDPI, brightness boost, warmth (auto-night), window tiling, transparency/blur/pin/PiP, remote access, keep-awake
+- [pyxis3-ai/displaydeck](https://github.com/pyxis3-ai/displaydeck) - 🖥️ Tiny macOS menu-bar app for total display & window control — disable screens, Force HiDPI, brightness boost, warmth (auto-night), window tiling, transparency/blur/pin/PiP, remote access, keep-awake
 - [datatheorem/TrustKit](https://github.com/datatheorem/TrustKit) - Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.
 - [leptos-null/ClassDumpRuntime](https://github.com/leptos-null/ClassDumpRuntime) - Library to parse Objective-C classes at runtime
 - [ViennaRSS/MMTabBarView](https://github.com/ViennaRSS/MMTabBarView) - 
@@ -5655,6 +5659,7 @@
 
 ## Others 
 
+- [jimeh/emacs-builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support.
 - [flipperdevices/flipperone-hardware](https://github.com/flipperdevices/flipperone-hardware) - Flipper One hardware
 - [Keychron/Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) - Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories withi
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
@@ -9089,6 +9094,7 @@
 
 ## Swift 
 
+- [hbowie/notenik-swift](https://github.com/hbowie/notenik-swift) - Notenik ported to Swift
 - [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
 - [rokib16x/listnr](https://github.com/rokib16x/listnr) - Local meeting listener for macOS. Captures your mic and system audio as two separate lanes, transcribes both on-device with WhisperKit, and labels You plus remote Speaker 1..N. Nothing leaves your mac
 - [samhenrigold/MenuBarExtraAccess](https://github.com/samhenrigold/MenuBarExtraAccess) - Show/hide SwiftUI MenuBarExtra menu using Bindings, access the underlying status item, and more.
@@ -11066,7 +11072,7 @@
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [aws-samples/cloud-gaming-on-ec2-instances](https://github.com/aws-samples/cloud-gaming-on-ec2-instances) - Use Amazon EC2 for cost-efficient cloud gaming with pay-as-you-go pricing
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
-- [bring-shrubbery/SVG-to-SwiftUI](https://github.com/bring-shrubbery/SVG-to-SwiftUI) - Convert SVG to SwiftUI's Shape
+- [bring-shrubbery/SVG-to-SwiftUI](https://github.com/bring-shrubbery/SVG-to-SwiftUI) - SVG to SwiftUI Compiler
 - [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
