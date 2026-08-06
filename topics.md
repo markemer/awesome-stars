@@ -2219,6 +2219,7 @@
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [mn416/QPULib](https://github.com/mn416/QPULib) - Language and compiler for the Raspberry Pi GPU
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
+- [bring-shrubbery/SVG-to-SwiftUI](https://github.com/bring-shrubbery/SVG-to-SwiftUI) - SVG to SwiftUI Compiler
 - [grassator/mass](https://github.com/grassator/mass) - A compiler for a new language focusing on compile-time execution and no LLVM dependency.
 - [katef/kgt](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams
 - [jac3km4/redscript](https://github.com/jac3km4/redscript) - Compiler/decompiler toolkit for redscript
@@ -2286,6 +2287,7 @@
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) — browse & search it at tpn.github.io/pdfs
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -2976,6 +2978,7 @@
 
 ## design 
 
+- [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
@@ -3493,6 +3496,9 @@
 
 ## emacs 
 
+- [jimeh/emacs-builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support.
+- [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
+- [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [amake/macports.el](https://github.com/amake/macports.el) - An Emacs porcelain for MacPorts
 - [tefkah/emacs-docs](https://github.com/tefkah/emacs-docs) - The documentation website Emacs deserves
 - [JAremko/docker-emacs](https://github.com/JAremko/docker-emacs) - Dockerized Emacs (GUI)
@@ -3786,6 +3792,7 @@
 
 ## font 
 
+- [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 - [robotools/robofab](https://github.com/robotools/robofab) - RoboFab
 - [robotools/fontParts](https://github.com/robotools/fontParts) - The replacement for RoboFab
 - [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a typeface inspired by typewriters, Apple's San Francisco Mono, ASCII art, command-line interfaces, and programming tools.
@@ -4063,6 +4070,7 @@
 
 ## gaming 
 
+- [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [Keychron/Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) - Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories withi
 - [hhc97/steam_achievement_tracker](https://github.com/hhc97/steam_achievement_tracker) - A web application that uses the Steamworks Web API to provide data visualizations on achievement and playtime progress of Steam games. Built using a MERN (MongoDB, Express, React, NodeJS) stack.
 - [ZigRazor/CXXStateTree](https://github.com/ZigRazor/CXXStateTree) - A C++ Header-Only Hierarchical State Tree Library
@@ -5539,6 +5547,7 @@
 
 ## ios 
 
+- [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
 - [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - Native SVG parser and renderer for SwiftUI, UIKit and AppKit, with tools for PNG, PDF, SF Symbols and Swift source.
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [datatheorem/TrustKit](https://github.com/datatheorem/TrustKit) - Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.
@@ -5853,7 +5862,7 @@
 - [kalanyuz/SwiftR](https://github.com/kalanyuz/SwiftR) - A Swift framework for Real-time time series data visualization
 - [messeb/ios-project-template](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger
 - [kharrison/albookcode](https://github.com/kharrison/albookcode) - Modern Auto Layout Book Sample Code And Solutions
-- [everettjf/AppleTrace](https://github.com/everettjf/AppleTrace) - 🍎Objective C Method Tracing Call Chart
+- [everettjf/appletrace](https://github.com/everettjf/appletrace) - 🍎Objective C Method Tracing Call Chart
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [marcosgriselli/Sizes](https://github.com/marcosgriselli/Sizes) - View your app on different device and font sizes
 - [ceeK/Solar](https://github.com/ceeK/Solar) - A Swift micro library for generating Sunrise and Sunset times.
@@ -6150,7 +6159,7 @@
 ## ipfs 
 
 - [brendoncarroll/webfs](https://github.com/brendoncarroll/webfs) - A Filesystem Built On Top of the Web.
-- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 
 ## java 
@@ -7442,10 +7451,13 @@
 
 ## macos 
 
+- [jimeh/emacs-builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support.
+- [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
+- [rokib16x/listnr](https://github.com/rokib16x/listnr) - Local meeting listener for macOS. Captures your mic and system audio as two separate lanes, transcribes both on-device with WhisperKit, and labels You plus remote Speaker 1..N. Nothing leaves your mac
 - [orchetect/MacControlCenterUI](https://github.com/orchetect/MacControlCenterUI) - SwiftUI menu builder DSL & controls that mimic macOS Control Center.
 - [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
 - [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - Native SVG parser and renderer for SwiftUI, UIKit and AppKit, with tools for PNG, PDF, SF Symbols and Swift source.
-- [oabdrabo/DisplayDeck](https://github.com/oabdrabo/DisplayDeck) - 🖥️ Tiny macOS menu-bar app for total display & window control — disable screens, Force HiDPI, brightness boost, warmth (auto-night), window tiling, transparency/blur/pin/PiP, remote access, keep-awake
+- [pyxis3-ai/displaydeck](https://github.com/pyxis3-ai/displaydeck) - 🖥️ Tiny macOS menu-bar app for total display & window control — disable screens, Force HiDPI, brightness boost, warmth (auto-night), window tiling, transparency/blur/pin/PiP, remote access, keep-awake
 - [nonissue/hammerspoon](https://github.com/nonissue/hammerspoon) - A hammerspoon config with a bunch of custom spoons (window management with undo, sleep timer, resolution changer, safari hotkey utilities, etc).
 - [stevenselcuk/Barmaid](https://github.com/stevenselcuk/Barmaid) - SwiftUI Ready macOS menubar app boilerplate. Starting point for your next menubar app. Save hours!
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
@@ -7758,7 +7770,7 @@
 - [subethaedit/SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.
 - [macmade/Notarize](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts.
 - [kalanyuz/SwiftR](https://github.com/kalanyuz/SwiftR) - A Swift framework for Real-time time series data visualization
-- [everettjf/AppleTrace](https://github.com/everettjf/AppleTrace) - 🍎Objective C Method Tracing Call Chart
+- [everettjf/appletrace](https://github.com/everettjf/appletrace) - 🍎Objective C Method Tracing Call Chart
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
 - [ceeK/Solar](https://github.com/ceeK/Solar) - A Swift micro library for generating Sunrise and Sunset times.
@@ -8504,7 +8516,7 @@
 
 ## objective-c 
 
-- [oabdrabo/DisplayDeck](https://github.com/oabdrabo/DisplayDeck) - 🖥️ Tiny macOS menu-bar app for total display & window control — disable screens, Force HiDPI, brightness boost, warmth (auto-night), window tiling, transparency/blur/pin/PiP, remote access, keep-awake
+- [pyxis3-ai/displaydeck](https://github.com/pyxis3-ai/displaydeck) - 🖥️ Tiny macOS menu-bar app for total display & window control — disable screens, Force HiDPI, brightness boost, warmth (auto-night), window tiling, transparency/blur/pin/PiP, remote access, keep-awake
 - [ronaldoussoren/pyobjc](https://github.com/ronaldoussoren/pyobjc) - The Python &lt;-&gt; Objective-C Bridge with bindings for macOS frameworks
 - [datatheorem/TrustKit](https://github.com/datatheorem/TrustKit) - Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.
 - [leptos-null/ClassDumpRuntime](https://github.com/leptos-null/ClassDumpRuntime) - Library to parse Objective-C classes at runtime
@@ -8830,6 +8842,8 @@
 
 ## others 
 
+- [hbowie/notenik-swift](https://github.com/hbowie/notenik-swift) - Notenik ported to Swift
+- [symless/synergy](https://github.com/symless/synergy) - Use the keyboard, mouse, or trackpad of one computer to control nearby computers, and work seamlessly between them.
 - [dnotq/decNumber](https://github.com/dnotq/decNumber) - Decimal Floating Point decNumber C Library by IBM Fellow Mike Cowlishaw
 - [RaymiiOrg/prinux-prinux](https://github.com/RaymiiOrg/prinux-prinux) - HP Prime G2 Linux
 - [RaymiiOrg/prinux-uboot](https://github.com/RaymiiOrg/prinux-uboot) - HP Prime G2 Linux
@@ -12689,7 +12703,6 @@
 - [uber/uberalls](https://github.com/uber/uberalls) - Track code coverage metrics with Jenkins and Phabricator
 - [Ramblurr/giro](https://github.com/Ramblurr/giro) - QR code powered, User-Agent based link redirection
 - [benzman81/homebridge-http-webhooks](https://github.com/benzman81/homebridge-http-webhooks) - A http plugin with support of webhooks for Homebridge: https://github.com/nfarina/homebridge
-- [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [racket/drracket](https://github.com/racket/drracket) - DrRacket, IDE for Racket
 - [racket/racket](https://github.com/racket/racket) - The Racket repository
 - [mist-devel/mist-board](https://github.com/mist-devel/mist-board) - Core sources and tools for the MIST board
@@ -15191,6 +15204,7 @@
 
 ## privacy 
 
+- [rokib16x/listnr](https://github.com/rokib16x/listnr) - Local meeting listener for macOS. Captures your mic and system audio as two separate lanes, transcribes both on-device with WhisperKit, and labels You plus remote Speaker 1..N. Nothing leaves your mac
 - [charles-m-knox/firefox-containers-helper](https://github.com/charles-m-knox/firefox-containers-helper) - Firefox multi-account containers are for power users. So is this. Adds bulk container interactivity features missing from the Mozilla Multi-Account Containers extension.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
@@ -16141,7 +16155,7 @@
 
 ## reverse-engineering 
 
-- [oabdrabo/DisplayDeck](https://github.com/oabdrabo/DisplayDeck) - 🖥️ Tiny macOS menu-bar app for total display & window control — disable screens, Force HiDPI, brightness boost, warmth (auto-night), window tiling, transparency/blur/pin/PiP, remote access, keep-awake
+- [pyxis3-ai/displaydeck](https://github.com/pyxis3-ai/displaydeck) - 🖥️ Tiny macOS menu-bar app for total display & window control — disable screens, Force HiDPI, brightness boost, warmth (auto-night), window tiling, transparency/blur/pin/PiP, remote access, keep-awake
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
 - [furrtek/SiliconRE](https://github.com/furrtek/SiliconRE) - Traces, schematics, and general infos about custom chips reverse-engineered from silicon
 - [Vector35/debugger](https://github.com/Vector35/debugger) - Binary Ninja debugger
@@ -16652,6 +16666,7 @@
 
 ## security 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [suzuki-shunsuke/ghalint](https://github.com/suzuki-shunsuke/ghalint) - GitHub Actions linter
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
@@ -17183,6 +17198,8 @@
 
 ## swift 
 
+- [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
+- [rokib16x/listnr](https://github.com/rokib16x/listnr) - Local meeting listener for macOS. Captures your mic and system audio as two separate lanes, transcribes both on-device with WhisperKit, and labels You plus remote Speaker 1..N. Nothing leaves your mac
 - [MasterJ93/ATProtoKit](https://github.com/MasterJ93/ATProtoKit) - A straightforward solution for using the AT Protocol and Bluesky, written in Swift.
 - [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
 - [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - Native SVG parser and renderer for SwiftUI, UIKit and AppKit, with tools for PNG, PDF, SF Symbols and Swift source.
@@ -17418,7 +17435,7 @@
 - [kareman/FileSmith](https://github.com/kareman/FileSmith) - A strongly typed Swift library for working with local files and directories.
 - [kareman/Patterns](https://github.com/kareman/Patterns) - A Swift PEG parser
 - [willowtreeapps/spruce-ios](https://github.com/willowtreeapps/spruce-ios) - Swift library for choreographing animations on the screen.
-- [bring-shrubbery/SVG-to-SwiftUI](https://github.com/bring-shrubbery/SVG-to-SwiftUI) - Convert SVG to SwiftUI's Shape
+- [bring-shrubbery/SVG-to-SwiftUI](https://github.com/bring-shrubbery/SVG-to-SwiftUI) - SVG to SwiftUI Compiler
 - [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support HLG、HDR10、 HDR10+、Dolby Vision、Dolby Atmos、Text/Image subtitle.
 - [gmarm/BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - An easy to use, customizable replacement for UISegmentedControl & UISwitch.
 - [danielsaidi/MockingKit](https://github.com/danielsaidi/MockingKit) - Mock protocols and classes in Swift.
@@ -18149,7 +18166,7 @@
 - [dagronf/DSFDockTile](https://github.com/dagronf/DSFDockTile) - Easily display images, animations, badges and alerts to your macOS application's dock icon
 - [nmandica/DirectedGraph](https://github.com/nmandica/DirectedGraph) - SwiftUI package for displaying directed graphs
 - [ZeeZide/CodeEditor](https://github.com/ZeeZide/CodeEditor) - A SwiftUI TextEditor with syntax highlighting using Highlight.js
-- [bring-shrubbery/SVG-to-SwiftUI](https://github.com/bring-shrubbery/SVG-to-SwiftUI) - Convert SVG to SwiftUI's Shape
+- [bring-shrubbery/SVG-to-SwiftUI](https://github.com/bring-shrubbery/SVG-to-SwiftUI) - SVG to SwiftUI Compiler
 - [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support HLG、HDR10、 HDR10+、Dolby Vision、Dolby Atmos、Text/Image subtitle.
 - [ThasianX/ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 - [chinsyo/awesome-swiftui](https://github.com/chinsyo/awesome-swiftui) - A curated list of awesome SwiftUI tutorials, libraries, videos and articles.
@@ -18476,6 +18493,7 @@
 
 ## text-to-speech 
 
+- [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
