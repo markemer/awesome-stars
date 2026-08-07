@@ -323,6 +323,7 @@
 
 ## C 
 
+- [rewhile/CatNvim](https://github.com/rewhile/CatNvim) - C at Nvim
 - [dnotq/decNumber](https://github.com/dnotq/decNumber) - Decimal Floating Point decNumber C Library by IBM Fellow Mike Cowlishaw
 - [RaymiiOrg/prinux-prinux](https://github.com/RaymiiOrg/prinux-prinux) - HP Prime G2 Linux
 - [RaymiiOrg/prinux-uboot](https://github.com/RaymiiOrg/prinux-uboot) - HP Prime G2 Linux
@@ -1448,6 +1449,7 @@
 
 ## C++ 
 
+- [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [symless/synergy](https://github.com/symless/synergy) - Use the keyboard, mouse, or trackpad of one computer to control nearby computers, and work seamlessly between them.
 - [akshar001/Maypole_firmware](https://github.com/akshar001/Maypole_firmware) - Wireless pen-drive to deliver anything to your USB PORT.
@@ -2517,6 +2519,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
@@ -4890,6 +4893,7 @@
 
 ## Lua 
 
+- [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
 - [nonissue/hammerspoon](https://github.com/nonissue/hammerspoon) - A hammerspoon config with a bunch of custom spoons (window management with undo, sleep timer, resolution changer, safari hotkey utilities, etc).
 - [cheat-engine/UnrealEngineTools](https://github.com/cheat-engine/UnrealEngineTools) - Tool for Cheat Engine to collect information about Unreal Engine games
 - [ArkForgeLabs/Astra](https://github.com/ArkForgeLabs/Astra) - 🔥 Blazingly Fast 🔥 runtime environment for Lua
@@ -7606,7 +7610,7 @@
 - [FauxPasApp/fauxpas-converter](https://github.com/FauxPasApp/fauxpas-converter) - Convert Faux Pas diagnostics set JSON to different formats
 - [avinassh/rockstar](https://github.com/avinassh/rockstar) - Makes you a Rockstar C++ Programmer in 2 minutes
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [google/jacs](https://github.com/google/jacs) - 
@@ -7809,6 +7813,7 @@
 
 ## Ruby 
 
+- [fog/fog-aws](https://github.com/fog/fog-aws) - Module for the 'fog' gem to support Amazon Web Services http://aws.amazon.com/
 - [fog/fog-backblaze](https://github.com/fog/fog-backblaze) - Integration library for gem fog and Backblaze B2 Cloud Storage
 - [fog/fog](https://github.com/fog/fog) - The Ruby cloud services library.
 - [csquared/IMGKit](https://github.com/csquared/IMGKit) - Uses wkhtmltoimage to create JPGs and PNGs from HTML
@@ -8204,6 +8209,7 @@
 
 ## Rust 
 
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [openvm-org/openvm](https://github.com/openvm-org/openvm) - A performant and modular zkVM framework built for customization and extensibility.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
@@ -8728,6 +8734,7 @@
 
 ## Shell 
 
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [akshar001/Maypole_PCB](https://github.com/akshar001/Maypole_PCB) - Wireless file storage from anywhere
 - [tsupplis/cpm86-crossdev](https://github.com/tsupplis/cpm86-crossdev) - CP/M-86 cross development environment
@@ -9094,6 +9101,7 @@
 
 ## Swift 
 
+- [ryzenixx/proxmoxbar-macos](https://github.com/ryzenixx/proxmoxbar-macos) - Native macOS menu bar app for monitoring and controlling Proxmox VE resources.
 - [hbowie/notenik-swift](https://github.com/hbowie/notenik-swift) - Notenik ported to Swift
 - [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
 - [rokib16x/listnr](https://github.com/rokib16x/listnr) - Local meeting listener for macOS. Captures your mic and system audio as two separate lanes, transcribes both on-device with WhisperKit, and labels You plus remote Speaker 1..N. Nothing leaves your mac
@@ -10862,6 +10870,7 @@
 
 ## TypeScript 
 
+- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [coddingtonbear/icloud-md](https://github.com/coddingtonbear/icloud-md) - Your Apple Notes as real Markdown files, on any OS, bidirectionally synced with a `git`-flavored CLI
 - [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
