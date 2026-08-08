@@ -331,7 +331,7 @@
 - [crossbar-inc/daric-sdk](https://github.com/crossbar-inc/daric-sdk) - SDK for developing firmware on Daric embedded platforms, featuring a Secure Crypto Engine (SCE) with hardware-accelerated cryptography (AES, ECDSA, EdDSA, ZKP), HAL drivers, ThreadX RTOS support, and 
 - [openwch/ch569](https://github.com/openwch/ch569) - SDK sch&layout reference design and datasheet documention
 - [rusefi/rusefi](https://github.com/rusefi/rusefi) - rusefi - GPL internal combustion engine control unit
-- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X3 and X4 e-readers
+- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware
 - [morganstanley/hobbes](https://github.com/morganstanley/hobbes) - A language and an embedded JIT compiler
 - [outergroup/outershell](https://github.com/outergroup/outershell) - Servers and edge devices should have an "outer" graphical shell
 - [dmtrKovalenko/ffs](https://github.com/dmtrKovalenko/ffs) - F*ck file system - cli file search tool that bypasses OS kernel and reads your disc directlry
@@ -6716,7 +6716,7 @@
 - [glacierpiece/borderlands-4-save-utility](https://github.com/glacierpiece/borderlands-4-save-utility) - Can be used as a Borderlands 4 save editor. Decrypt encrypted Borderlands 4 saves, edit them as desired, then encrypt them back to be used in game.
 - [daquintero/piel](https://github.com/daquintero/piel) - Photonic Integrated ELectronics. Microservices to codesign photonics, electronics, quantum, and more.
 - [librelane/librelane](https://github.com/librelane/librelane) - ASIC implementation flow infrastructure, successor to OpenLane
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM. Verified checksums, 6700+ files, 300+ emulators profiled from source code.
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with em
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [NOAA-GSL/zyra](https://github.com/NOAA-GSL/zyra) - Modular workflows for reproducible science
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
@@ -10798,6 +10798,8 @@
 
 ## Tcl 
 
+- [suewonjp/tclsh-wrapper](https://github.com/suewonjp/tclsh-wrapper) - A tiny wrapper for Tcl/Tk's tclsh and wish
+- [ActiveState/tdk](https://github.com/ActiveState/tdk) - Tcl Dev Kit (TDK)
 - [eloqdata/eloqkv](https://github.com/eloqdata/eloqkv) - High Performance Redis-API Compatible Distributed Database with Persistency, Scalability, Full ACID Transactions, and Tiered S3 Storage Cost Efficiency
 - [tcltk/tcllib](https://github.com/tcltk/tcllib) - tcllib (Mirror of core.tcl-lang.org).
 - [BRL-CAD/brlcad](https://github.com/BRL-CAD/brlcad) - BRL-CAD is a powerful cross-platform open source combinatorial solid modeling system
