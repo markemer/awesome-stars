@@ -323,6 +323,7 @@
 
 ## C 
 
+- [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) - Racing to the bottom of CPU performance
 - [rewhile/CatNvim](https://github.com/rewhile/CatNvim) - C at Nvim
 - [dnotq/decNumber](https://github.com/dnotq/decNumber) - Decimal Floating Point decNumber C Library by IBM Fellow Mike Cowlishaw
 - [RaymiiOrg/prinux-prinux](https://github.com/RaymiiOrg/prinux-prinux) - HP Prime G2 Linux
@@ -922,7 +923,7 @@
 - [jpbruyere/vkvg](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library
 - [torch/torch7](https://github.com/torch/torch7) - http://torch.ch
 - [github/glb-director](https://github.com/github/glb-director) - GitHub Load Balancer Director and supporting tooling.
-- [xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge) - Hardware backdoors in some x86 CPUs
+- [xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge) - Hardware backdoors in x86 CPUs
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [azonenberg/integralstick](https://github.com/azonenberg/integralstick) - STM32F7 + Artix-7 SoM
 - [eduardsui/tlse](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library
@@ -1407,7 +1408,7 @@
 - [dotnet/macios](https://github.com/dotnet/macios) - .NET for iOS, Mac Catalyst, macOS, and tvOS provide open-source bindings of the Apple SDKs for use with .NET managed languages such as C#
 - [xamarin/Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - Xamarin.Forms is no longer supported. Migrate your apps to .NET MAUI.
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
-- [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
+- [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - A modern, cross-platform, 2D Graphics library for .NET
 - [getraid/SHAIO](https://github.com/getraid/SHAIO) - Switch Hacks All In One
 - [Ulterius/server](https://github.com/Ulterius/server) - [WIP] Ulterius™ server where all the magic happens :rocket: :feelsgood:
 - [kypp/mass-effect-3-audio-extractor](https://github.com/kypp/mass-effect-3-audio-extractor) - A tool for extracting audio files from the Mass Effect 2 and 3 games files
@@ -7942,7 +7943,7 @@
 - [iOSDevDirectory/iOSDevDirectory](https://github.com/iOSDevDirectory/iOSDevDirectory) - The iOS Dev Directory
 - [num42/n42-translation-ruby](https://github.com/num42/n42-translation-ruby) - 
 - [num42/fastlane-plugin-localize](https://github.com/num42/fastlane-plugin-localize) - Searches the code for extractable strings and allows interactive extraction to .strings file.
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 - [revolter/fastlane-plugin-icon_versioning](https://github.com/revolter/fastlane-plugin-icon_versioning) - Overlay build information on top of your app icon
 - [plu/simctl](https://github.com/plu/simctl) - Ruby interface to xcrun simctl
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
