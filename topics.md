@@ -5099,7 +5099,6 @@
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira
 - [microsoft/QuantumLibraries](https://github.com/microsoft/QuantumLibraries) - Q# libraries for the Quantum Development Kit
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [aaronpk/Overland-iOS](https://github.com/aaronpk/Overland-iOS) - 📌 GPS logger for iOS devices
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
@@ -5247,7 +5246,6 @@
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
@@ -8849,6 +8847,9 @@
 
 ## others 
 
+- [sarahnorthway/Exoscript](https://github.com/sarahnorthway/Exoscript) - Scripting system for I Was a Teenage Exocolonist
+- [Pandemonium14/ExoLoader](https://github.com/Pandemonium14/ExoLoader) - Mod for I Was a Teenage Exocolonist that makes adding custom characters easier.
+- [mthines/sync-tray](https://github.com/mthines/sync-tray) - Native macOS menu bar app for rclone sync monitoring. Real-time status, smart notifications, clickable file history, and external drive detection. Pure SwiftUI, no dependencies
 - [amake/macports-fonts](https://github.com/amake/macports-fonts) - A MacPorts portfile repository for system fonts
 - [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) - Racing to the bottom of CPU performance
 - [ActiveState/tdk](https://github.com/ActiveState/tdk) - Tcl Dev Kit (TDK)
@@ -9628,7 +9629,7 @@
 - [MxAriadne/BG3SaveManager](https://github.com/MxAriadne/BG3SaveManager) - A tool that allows you to export and import save files for Baldurs Gate 3. Still compatible with Patch 8!
 - [Liareth/BG3LootTableGenerator](https://github.com/Liareth/BG3LootTableGenerator) - Dumps all items to .json, and creates treasure tables for armours
 - [Frencil/eclipsetracks](https://github.com/Frencil/eclipsetracks) - EclipseTracks.org - Interactive solar eclipse track modeling with Cesium
-- [leiless/emptyfs](https://github.com/leiless/emptyfs) - macOS empty file system driver(VFS layer)
+- [sp1ke26/emptyfs](https://github.com/sp1ke26/emptyfs) - macOS empty file system driver(VFS layer)
 - [grahamgilbert/crypt](https://github.com/grahamgilbert/crypt) - 
 - [grahamgilbert/Crypt-Server](https://github.com/grahamgilbert/Crypt-Server) - A Django webapp to escrow filevault keys sent by the Crypt client app.
 - [keybase/managed-bots](https://github.com/keybase/managed-bots) - Keybase managed bots
@@ -9756,7 +9757,7 @@
 - [astronexus/HYG-Database](https://github.com/astronexus/HYG-Database) - Current version of the HYG Stellar database
 - [Nexus-Mods/NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
 - [Mutagen-Modding/Synthesis](https://github.com/Mutagen-Modding/Synthesis) - A patcher pipeline framework and GUI.  Run collections of code-based mods to create content customized for your load order
-- [Mutagen-Modding/Mutagen.Bethesda.Analyzers](https://github.com/Mutagen-Modding/Mutagen.Bethesda.Analyzers) - A project to diagnose and analyze the health of a mod or a load order
+- [Mutagen-Modding/Antigen](https://github.com/Mutagen-Modding/Antigen) - A project to diagnose and analyze the health of a mod or a load order
 - [Mutagen-Modding/Mutagen](https://github.com/Mutagen-Modding/Mutagen) - A library for analyzing, creating, and manipulating Bethesda mods written in .NET
 - [analgesicproductions/Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) - Anodyne 1 Source Code
 - [analgesicproductions/Even-The-Ocean-Open-Source](https://github.com/analgesicproductions/Even-The-Ocean-Open-Source) - 99%-Open Source code of Even the Ocean, a 2016 PC game.
