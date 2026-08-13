@@ -467,7 +467,7 @@
 - [BGforgeNet/Fallout2_Restoration_Project](https://github.com/BGforgeNet/Fallout2_Restoration_Project) - Fallout 2 Restoration Project, updated
 - [migueletto/PumpkinOS](https://github.com/migueletto/PumpkinOS) - PumpkinOS is a re-implementation of PalmOS.
 - [ttrftech/NanoVNA](https://github.com/ttrftech/NanoVNA) - Very Tiny Palmtop Vector Network Analyzer
-- [leiless/emptyfs](https://github.com/leiless/emptyfs) - macOS empty file system driver(VFS layer)
+- [sp1ke23/emptyfs](https://github.com/sp1ke23/emptyfs) - macOS empty file system driver(VFS layer)
 - [xairy/raw-gadget](https://github.com/xairy/raw-gadget) - USB Raw Gadget — a low-level interface for the Linux USB Gadget subsystem
 - [schlae/BreadboardGadgets](https://github.com/schlae/BreadboardGadgets) - Convenient little boards that plug into your solderless breadboard
 - [StefanSchippers/xschem](https://github.com/StefanSchippers/xschem) - A schematic editor for VLSI/Asic/Analog custom designs, netlist backends for VHDL, Spice and Verilog. The tool is focused on hierarchy and parametric designs, to maximize circuit reuse.
@@ -1272,6 +1272,8 @@
 
 ## C# # 
 
+- [sarahnorthway/Exoscript](https://github.com/sarahnorthway/Exoscript) - Scripting system for I Was a Teenage Exocolonist
+- [Pandemonium14/ExoLoader](https://github.com/Pandemonium14/ExoLoader) - Mod for I Was a Teenage Exocolonist that makes adding custom characters easier.
 - [wixtoolset/wix](https://github.com/wixtoolset/wix) - WiX Toolset Code
 - [spiderofmean/roguetradertools](https://github.com/spiderofmean/roguetradertools) - Set of tools for working with Rogue Trader data.
 - [cstamford/RogueTraderUnityToolkit](https://github.com/cstamford/RogueTraderUnityToolkit) - From-scratch library/tooling to process Unity 2022.3.44f1 built data (e.g. asset bundles, serialized files) in a type-safe way. Also contains a server to stream scenes/meshes/textures to the editor vi
@@ -1324,7 +1326,7 @@
 - [LaughingLeader/BG3ModManager](https://github.com/LaughingLeader/BG3ModManager) - A mod manager for Baldur's Gate 3. This is the only official source!
 - [Nexus-Mods/NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
 - [Mutagen-Modding/Synthesis](https://github.com/Mutagen-Modding/Synthesis) - A patcher pipeline framework and GUI.  Run collections of code-based mods to create content customized for your load order
-- [Mutagen-Modding/Mutagen.Bethesda.Analyzers](https://github.com/Mutagen-Modding/Mutagen.Bethesda.Analyzers) - A project to diagnose and analyze the health of a mod or a load order
+- [Mutagen-Modding/Antigen](https://github.com/Mutagen-Modding/Antigen) - A project to diagnose and analyze the health of a mod or a load order
 - [Mutagen-Modding/Mutagen](https://github.com/Mutagen-Modding/Mutagen) - A library for analyzing, creating, and manipulating Bethesda mods written in .NET
 - [Mutagen-Modding/Spriggit](https://github.com/Mutagen-Modding/Spriggit) - A tool to facilitate converting Bethesda plugin files to a text based format that can be stored in Git
 - [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and many mo
@@ -3332,6 +3334,7 @@
 - [M17-Project/M17_3310](https://github.com/M17-Project/M17_3310) - Mainboard replacement for Nokia 3310
 - [sigstore/docs](https://github.com/sigstore/docs) - Sigstore documentation
 - [polarsys/b612](https://github.com/polarsys/b612) - Eclipse B612
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with em
 - [git/git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
 - [cheyao/icepi-zero](https://github.com/cheyao/icepi-zero) - An ECP5 FPGA Dev Board in a Pi Zero form
 - [SynBioDex/SBOL-visual](https://github.com/SynBioDex/SBOL-visual) - The reference implementation of the SBOL Visual standard
@@ -3869,7 +3872,6 @@
 - [opendevise/asciidoc-parsing-lab](https://github.com/opendevise/asciidoc-parsing-lab) - An incubator for the development of a grammar formalism and parser for the AsciiDoc Language.
 - [LaserWeb/LaserWeb4](https://github.com/LaserWeb/LaserWeb4) - Collaborative effort on the next version of LaserWeb / CNCWeb
 - [dfederspiel/ti-sprite-maker](https://github.com/dfederspiel/ti-sprite-maker) - Visual HEX encoder for ASCII character mapping on the TI-99/4A
-- [weetmuts/ti994a_basic](https://github.com/weetmuts/ti994a_basic) - Edit TI-99/4a basic programs. Upload/Download TIFILES. Play sounds for transfer of basic program to actual TI-99/4a computer.
 - [TinyTapeout/siliwiz](https://github.com/TinyTapeout/siliwiz) - Silicon Layout Wizard
 - [nytimes/ice](https://github.com/nytimes/ice) - track changes with javascript
 - [fullcalendar/fullcalendar-vue](https://github.com/fullcalendar/fullcalendar-vue) - The official Vue 3 component for FullCalendar
@@ -3996,6 +3998,7 @@
 - [pidtuner/pidtuner.github.io](https://github.com/pidtuner/pidtuner.github.io) - Free PID Controller gains tuning tool
 - [github/tweetsodium](https://github.com/github/tweetsodium) - libsodium sealed cryptobox using tweetnacl
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [0x4447/0x4447-cli-node-grapes](https://github.com/0x4447/0x4447-cli-node-grapes) - 🍇 This is a small framework to make it easier to work with AWS CloudFormation files.
 - [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
@@ -4570,7 +4573,7 @@
 - [antipalindrome/Photoshop-Export-Layers-to-Files-Fast](https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast) - This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
 - [hmaidasani/RadialChartImageGenerator](https://github.com/hmaidasani/RadialChartImageGenerator) - Radial Bar Chart Generator for Apple Watch -
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
@@ -5075,7 +5078,6 @@
 - [robur-coop/unikernels](https://github.com/robur-coop/unikernels) - MirageOS unikernels
 - [robur-coop/dns-primary-git](https://github.com/robur-coop/dns-primary-git) - A MirageOS unikernel acting as primary DNS server, data stored in a remote git repository
 - [mirage/qubes-mirage-firewall](https://github.com/mirage/qubes-mirage-firewall) - A Mirage firewall VM for QubesOS
-- [rems-project/sail](https://github.com/rems-project/sail) - Sail architecture definition language
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [janestreet/hardcaml](https://github.com/janestreet/hardcaml) - Hardcaml is an OCaml library for designing hardware.
@@ -5782,7 +5784,6 @@
 - [Klaus2m5/6502_65C02_functional_tests](https://github.com/Klaus2m5/6502_65C02_functional_tests) - Tests for all valid opcodes of the 6502 and 65C02 processor
 - [fdufnews/SMART-Response-XE-schematics](https://github.com/fdufnews/SMART-Response-XE-schematics) - Schematics of the SMART Response XE terminal
 - [ebastler/zmk-designguide](https://github.com/ebastler/zmk-designguide) - A short hardware-designguide for ZMK keyboards
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [icebreaker-fpga/icebreaker](https://github.com/icebreaker-fpga/icebreaker) - Small and low cost FPGA educational and development board
 - [wiesl/ti99-rgb](https://github.com/wiesl/ti99-rgb) - ti99-rgb
@@ -6466,6 +6467,7 @@
 - [luehrsenheinrich/wpm-citations](https://github.com/luehrsenheinrich/wpm-citations) - This WordPress Plugin introduces advanced citation capabilities to the WordPress Block Editor.
 - [altvisewp/footnotes-made-easy](https://github.com/altvisewp/footnotes-made-easy) - A WordPress plugin that allows post authors to easily add and manage footnotes in posts and pages.
 - [CoolPluginsTeam/wp-toolbelt](https://github.com/CoolPluginsTeam/wp-toolbelt) - A lightweight, multi-purpose, WordPress plugin with a focus on privacy and speed
+- [weetmuts/ti994a_basic](https://github.com/weetmuts/ti994a_basic) - Edit TI-99/4a basic programs. Upload/Download TIFILES. Play sounds for transfer of basic program to actual TI-99/4a computer.
 - [ExpressionEngine/ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine) - ExpressionEngine is a flexible, feature-rich, free open-source content management platform that empowers hundreds of thousands of individuals and organizations around the world to easily manage their 
 - [Automattic/jetpack](https://github.com/Automattic/jetpack) - Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
 - [aws-samples/aws-refarch-wordpress](https://github.com/aws-samples/aws-refarch-wordpress) - This reference architecture provides best practices and a set of YAML CloudFormation templates for deploying WordPress on AWS.
@@ -6716,7 +6718,6 @@
 - [glacierpiece/borderlands-4-save-utility](https://github.com/glacierpiece/borderlands-4-save-utility) - Can be used as a Borderlands 4 save editor. Decrypt encrypted Borderlands 4 saves, edit them as desired, then encrypt them back to be used in game.
 - [daquintero/piel](https://github.com/daquintero/piel) - Photonic Integrated ELectronics. Microservices to codesign photonics, electronics, quantum, and more.
 - [librelane/librelane](https://github.com/librelane/librelane) - ASIC implementation flow infrastructure, successor to OpenLane
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with em
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [NOAA-GSL/zyra](https://github.com/NOAA-GSL/zyra) - Modular workflows for reproducible science
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
@@ -6842,6 +6843,7 @@
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [commaai/opendbc](https://github.com/commaai/opendbc) - a Python API for your car
 - [osandov/drgn](https://github.com/osandov/drgn) - Programmable debugger
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [endlos99/xdt99](https://github.com/endlos99/xdt99) - xdt99: TMS 99xx Cross-Development Tools
 - [YosysHQ/prjtrellis](https://github.com/YosysHQ/prjtrellis) - Documenting the Lattice ECP5 bit-stream format.
 - [alanhuang122/fl-utils](https://github.com/alanhuang122/fl-utils) - Tools for accessing and working with data from the Fallen London database.
@@ -7406,7 +7408,7 @@
 - [rakhimov/cppdep](https://github.com/rakhimov/cppdep) - C/C++ Dependency Analyzer: a rewrite of John Lakos' dep_utils (adep/cdep/ldep) from "Large-Scale C++ Software Design"
 - [nst/objc_dep](https://github.com/nst/objc_dep) - Graph the import dependancies in an Objective-C project
 - [cmdmnt/commandment](https://github.com/cmdmnt/commandment) - Open Source Apple MDM implemented in Python
-- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral is a high-visibility platform for controlling Apple endpoints in enterprises. It brings great observability to IT and makes tracking & reporting compliance much less manual.
+- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral is a platform for controlling Apple endpoints in enterprises with Terraform. It brings great observability to IT and makes tracking & reporting compliance much less manual.
 - [project-imas/mdm-server](https://github.com/project-imas/mdm-server) - Sample iOS MDM server
 - [pearl-core/pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessibl
 - [iawia002/Lulu](https://github.com/iawia002/Lulu) - [Unmaintained] A simple and clean video/music/image downloader 👾
@@ -7813,6 +7815,7 @@
 
 ## Ruby 
 
+- [soveran/mote](https://github.com/soveran/mote) - Minimum Operational Template
 - [fog/fog-aws](https://github.com/fog/fog-aws) - Module for the 'fog' gem to support Amazon Web Services http://aws.amazon.com/
 - [fog/fog-backblaze](https://github.com/fog/fog-backblaze) - Integration library for gem fog and Backblaze B2 Cloud Storage
 - [fog/fog](https://github.com/fog/fog) - The Ruby cloud services library.
@@ -8681,6 +8684,7 @@
 ## Sail 
 
 - [riscv/sail-riscv](https://github.com/riscv/sail-riscv) - Sail RISC-V model
+- [rems-project/sail](https://github.com/rems-project/sail) - Sail architecture definition language
 
 ## Sass 
 
@@ -8783,7 +8787,7 @@
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [ebastler/marbastlib](https://github.com/ebastler/marbastlib) - A library collecting MX and Choc style footprints, as well as various other parts used to design custom keyboards
 - [simonbs/xctemplates](https://github.com/simonbs/xctemplates) - ⚙️ Opinionated Xcode templates
-- [binpash/try](https://github.com/binpash/try) - Control and manipulate a command's effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Inspect, control, and manipulate a command's effects before modifying your live system.
 - [superdesk/superdesk](https://github.com/superdesk/superdesk) - Superdesk is an end-to-end news creation, production, curation, distribution, and publishing platform.
 - [err4o4/spotify-car-thing-reverse-engineering](https://github.com/err4o4/spotify-car-thing-reverse-engineering) - 
 - [ValveSoftware/steam-runtime](https://github.com/ValveSoftware/steam-runtime) - A runtime environment for Steam applications
@@ -9096,11 +9100,11 @@
 - [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [sdl60660/river-runner](https://github.com/sdl60660/river-runner) - Uses USGS/MERIT Basin data to visualize the path of a rain droplet to its endpoint.
-- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
 
 ## Swift 
 
+- [mthines/sync-tray](https://github.com/mthines/sync-tray) - Native macOS menu bar app for rclone sync monitoring. Real-time status, smart notifications, clickable file history, and external drive detection. Pure SwiftUI, no dependencies
 - [ryzenixx/proxmoxbar-macos](https://github.com/ryzenixx/proxmoxbar-macos) - Control and monitor your Proxmox VE servers from the macOS menu bar
 - [hbowie/notenik-swift](https://github.com/hbowie/notenik-swift) - Notenik ported to Swift
 - [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
