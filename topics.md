@@ -4285,6 +4285,7 @@
 
 ## go 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [cuonglm/gogi](https://github.com/cuonglm/gogi) - Go client for gitignore.io
 - [Huseyinnurbaki/mocktail](https://github.com/Huseyinnurbaki/mocktail) - Free, 10.5MB, containerized, self-hosted mock server.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
@@ -6698,6 +6699,7 @@
 
 ## kotlin 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [microsoft/ts-gyb](https://github.com/microsoft/ts-gyb) - Generating native code interfaces from TypeScript
 - [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) - A meticulous HTTP client for the JVM, Android, and GraalVM.
 - [realm/realm-kotlin](https://github.com/realm/realm-kotlin) - Kotlin Multiplatform and Android SDK for the Realm Mobile Database: Build Better Apps Faster.
@@ -8222,6 +8224,7 @@
 
 ## mysql 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
@@ -8861,6 +8864,7 @@
 
 ## others 
 
+- [schlae/engelbart-keyset](https://github.com/schlae/engelbart-keyset) - Reproduction Douglas Engelbart keyset
 - [mozharovsky/xcode](https://github.com/mozharovsky/xcode) - Super fast Xcode .pbxproj parser and serializer written in Rust
 - [open-templates/github-repo-template](https://github.com/open-templates/github-repo-template) - Stack-agnostic GitHub repository template with docs, Dependabot, CODEOWNERS, and GitHub UI templates.
 - [open-templates/npm-package-template](https://github.com/open-templates/npm-package-template) - A comprehensive, production-ready TypeScript npm package template with automated publishing, testing, and modern tooling.
@@ -15167,6 +15171,7 @@
 
 ## postgresql 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
@@ -15414,6 +15419,7 @@
 
 ## python 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [WolframResearch/WolframWebEngineForPython](https://github.com/WolframResearch/WolframWebEngineForPython) - Integrates the Wolfram Language seamlessly with Python AIOHTTP
@@ -17114,6 +17120,7 @@
 
 ## sql 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is a modern open source language for describing data relationships and transformations.
@@ -17156,6 +17163,7 @@
 
 ## sqlite 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
