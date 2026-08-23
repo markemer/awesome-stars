@@ -850,6 +850,7 @@
 - [mist-devel/mist-binaries](https://github.com/mist-devel/mist-binaries) - Firmware and core binaries for the MIST board
 - [debugdump/Ingenic-T10_20](https://github.com/debugdump/Ingenic-T10_20) - Ingenic T10 T20 SDK 3.9.0 20161209
 - [beihuijie/Ingenic-kernel](https://github.com/beihuijie/Ingenic-kernel) - 
+- [vmware/photon](https://github.com/vmware/photon) - Minimal Linux container host
 - [srg-imperial/SaBRe](https://github.com/srg-imperial/SaBRe) - Load-time selective binary rewriting
 - [litchie/dospad](https://github.com/litchie/dospad) - iDOS - DOSBox port on iOS
 - [KhronosGroup/Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
@@ -1449,6 +1450,7 @@
 
 ## C++ 
 
+- [bodnjenie14/Tsto---Simpsons-Tapped-Out---Private-Server](https://github.com/bodnjenie14/Tsto---Simpsons-Tapped-Out---Private-Server) - A attempt to remake the game server
 - [schlae/engelbart-keyset](https://github.com/schlae/engelbart-keyset) - Reproduction Douglas Engelbart keyset
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
@@ -3800,6 +3802,7 @@
 
 ## JavaScript 
 
+- [hookdeck/omnitext](https://github.com/hookdeck/omnitext) - Have conversations across SMS and Email with Vonage and Postmark using Hookdeck as a serverless message router
 - [open-templates/github-repo-template](https://github.com/open-templates/github-repo-template) - Stack-agnostic GitHub repository template with docs, Dependabot, CODEOWNERS, and GitHub UI templates.
 - [open-templates/npm-package-template](https://github.com/open-templates/npm-package-template) - A comprehensive, production-ready TypeScript npm package template with automated publishing, testing, and modern tooling.
 - [letsseal/letsseal](https://github.com/letsseal/letsseal) - The open standard for proving any file is real, unaltered and sealed
@@ -5751,7 +5754,7 @@
 - [gibbed/Borderlands3Dumps](https://github.com/gibbed/Borderlands3Dumps) - Borderlands 3 data dumps.
 - [riscv/learn](https://github.com/riscv/learn) - Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc.
 - [cinepi/cinepi-sdk](https://github.com/cinepi/cinepi-sdk) - Collection of software components for development of open source cinema camera using raspberry pi hardware and software.
-- [LattePandaTeam/LattePanda-Mu](https://github.com/LattePandaTeam/LattePanda-Mu) - All about LattePanda Mu
+- [LattePandaTeam/LattePanda-Mu](https://github.com/LattePandaTeam/LattePanda-Mu) - All About LattePanda Mu N100/N305 Compute Module
 - [apple/swift-homomorphic-encryption-protobuf](https://github.com/apple/swift-homomorphic-encryption-protobuf) - Protocol buffers definitions for Swift Homomorphic Encryption
 - [Floppie209/Amiga2000-remake](https://github.com/Floppie209/Amiga2000-remake) - A recreation of the Amiga2000 motherboard using Sprint Layout
 - [efabless/chipignite-resources](https://github.com/efabless/chipignite-resources) - 
@@ -6374,7 +6377,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [philipamour/ios9-uikit](https://github.com/philipamour/ios9-uikit) - iOS 9 UIKit for Sketch
 - [fastlane-old/spaceship](https://github.com/fastlane-old/spaceship) - Ruby library to access the Apple Dev Center and iTunes Connect
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [0ax1/MPI-Checker](https://github.com/0ax1/MPI-Checker) - Checks to verify the usage of the MPI API in C and C++ code, based on Clang’s Static Analyzer and Clang-Tidy.
 - [keen/keen-js](https://github.com/keen/keen-js) - https://keen.io/ JavaScript SDKs. Track users and visualise the results. Demo http://keen.github.io/keen-dataviz.js/
 - [EFForg/phantom-of-the-capitol](https://github.com/EFForg/phantom-of-the-capitol) - 
@@ -7204,7 +7207,6 @@
 - [macports/macports-webapp](https://github.com/macports/macports-webapp) - Web application to display information about ports, build history and installation statistics
 - [oliverhu/simctl](https://github.com/oliverhu/simctl) - Python interface to xcrun simctl
 - [vmware/pyvmomi](https://github.com/vmware/pyvmomi) - VMware vSphere API Python Bindings
-- [vmware/photon](https://github.com/vmware/photon) - Minimal Linux container host
 - [jaredks/rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps
 - [laffra/happymac](https://github.com/laffra/happymac) - A Python Mac app to suspend background processes
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
@@ -8219,6 +8221,7 @@
 
 ## Rust 
 
+- [BandarLabs/Cobalt](https://github.com/BandarLabs/Cobalt) - An SDK for building real apps for your Kobo eInk reader
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [mozharovsky/xcode](https://github.com/mozharovsky/xcode) - Super fast Xcode .pbxproj parser and serializer written in Rust
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
@@ -8404,7 +8407,6 @@
 - [RustCrypto/MACs](https://github.com/RustCrypto/MACs) - Message authentication code algorithms written in pure Rust
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
@@ -8667,6 +8669,7 @@
 
 ## SCSS 
 
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 - [asciidoctor/asciidoctor.org](https://github.com/asciidoctor/asciidoctor.org) - :globe_with_meridians: Asciidoctor project site. Composed in AsciiDoc. Baked with Awestruct.
 - [MichiMolle/gtk4-eink](https://github.com/MichiMolle/gtk4-eink) - css for making gtk4-applications look better on eink devices
 - [fujimo-t/gnome-shell-theme-e-ink](https://github.com/fujimo-t/gnome-shell-theme-e-ink) - A GNOME Shell theme for E-Ink displays
@@ -8899,7 +8902,7 @@
 - [macstadium/ansible-playbook-osx-ci-setup](https://github.com/macstadium/ansible-playbook-osx-ci-setup) - Ansible Playbook: OSX CI Setup
 - [Dafang-Hacks/rootfs](https://github.com/Dafang-Hacks/rootfs) - 
 - [klange/taylor](https://github.com/klange/taylor) - Swift on bare metal. Explorations of compiling Swift code without a standard library.
-- [ROCm/ROCm](https://github.com/ROCm/ROCm) - AMD ROCm™ Software - GitHub Home
+- [ROCm/legacy-rocm-build](https://github.com/ROCm/legacy-rocm-build) - AMD ROCm™ Software - GitHub Home
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [pda/aws-keychain](https://github.com/pda/aws-keychain) - CLI manager for AWS IAM access keys in Mac OS X keychain; succeeded by https://github.com/99designs/aws-vault
@@ -9116,6 +9119,8 @@
 
 ## Swift 
 
+- [sfsam/Nvmm](https://github.com/sfsam/Nvmm) - Neovim GUI for Mac
+- [hisaac/XCConfig](https://github.com/hisaac/XCConfig) - xcconfig file parsing and evaluation
 - [vapor/toolbox](https://github.com/vapor/toolbox) - 🧰 A CLI tool to easily create new Vapor projects.
 - [mthines/sync-tray](https://github.com/mthines/sync-tray) - Native macOS menu bar app for rclone sync monitoring. Real-time status, smart notifications, clickable file history, and external drive detection. Pure SwiftUI, no dependencies
 - [ryzenixx/proxmoxbar-macos](https://github.com/ryzenixx/proxmoxbar-macos) - Control and monitor your Proxmox VE servers from the macOS menu bar
@@ -10289,7 +10294,7 @@
 - [kcastellano/SwiftyPi](https://github.com/kcastellano/SwiftyPi) - Repo that contains the App, Server and Embedded code for my try! Swift Tokyo presentation
 - [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 - [ThumbWorks/AugmentedSolarSystem](https://github.com/ThumbWorks/AugmentedSolarSystem) - An Augmented reality experience to explore planets in our Solar System
-- [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
+- [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Fast Markdown note-taking app for Mac and iPhone
 - [milend/hmap](https://github.com/milend/hmap) - hmap is a command line tool written in Swift to work with Clang header maps produced by Xcode.
 - [Automattic/simplenote-macos](https://github.com/Automattic/simplenote-macos) - Simplenote for macOS
 - [yanagiba/swift-ast](https://github.com/yanagiba/swift-ast) - A Swift AST parser and visitor that is written in Swift.
@@ -10890,6 +10895,7 @@
 
 ## TypeScript 
 
+- [Parallels/parallels-vscode-extension](https://github.com/Parallels/parallels-vscode-extension) - Parallels Visual Studio Code
 - [Huseyinnurbaki/mocktail](https://github.com/Huseyinnurbaki/mocktail) - Free, 10.5MB, containerized, self-hosted mock server.
 - [Obsidian-TTRPG-Community/fantasy-statblocks](https://github.com/Obsidian-TTRPG-Community/fantasy-statblocks) - Create Dungeons and Dragons style statblocks for Obsidian.md
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
@@ -11497,6 +11503,7 @@
 
 ## Vim Script 
 
+- [ap/vim-buftabline](https://github.com/ap/vim-buftabline) - Forget Vim tabs – now you can have buffer tabs
 - [heil-hydrant/zxc.vim](https://github.com/heil-hydrant/zxc.vim) - Vim plugin for zxc proxy.
 - [mkasberg/dotfiles](https://github.com/mkasberg/dotfiles) - 🛠️ Mike's dotfiles. Managed with https://www.chezmoi.io/
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
@@ -11552,6 +11559,7 @@
 
 ## YARA 
 
+- [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [ghidraninja/ghidra_scripts](https://github.com/ghidraninja/ghidra_scripts) - Scripts for the Ghidra software reverse engineering suite.
 - [rednaga/APKiD](https://github.com/rednaga/APKiD) - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
 
