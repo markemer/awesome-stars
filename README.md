@@ -276,7 +276,6 @@
 - [hxlnt/connectedNES](https://github.com/hxlnt/connectedNES) - 📡 A WiFi "modem" that connects your NES to the internet. Includes sample Twitter client.
 - [zarkzork/servasm](https://github.com/zarkzork/servasm) - X86_64 Linux webserver in assembler
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
-- [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for Linux x86_64
 
 ## Astro 
 
@@ -1390,6 +1389,7 @@
 - [kowalej/BlueMuse](https://github.com/kowalej/BlueMuse) - Windows app to stream data from Muse EEG headsets via LSL (Lab Streaming Layer).
 - [t1lang/t1bootstrap](https://github.com/t1lang/t1bootstrap) - Bootstrap compiler
 - [fdorg/flashdevelop](https://github.com/fdorg/flashdevelop) - FlashDevelop is a free and open source code editor.
+- [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - ARCHIVE - New Repo: https://aka.ms/toolkit/windows
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [pgina/pgina](https://github.com/pgina/pgina) - pGina: Open Source Windows Authentication
@@ -1502,7 +1502,7 @@
 - [electronicarts/CnC_Tiberian_Dawn](https://github.com/electronicarts/CnC_Tiberian_Dawn) - Command and Conquer Tiberian Dawn
 - [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
-- [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) - Advanced VM detection library and tool
+- [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) - State-of-the-art virtual machine detection
 - [LaurieWired/SantaClausProblem](https://github.com/LaurieWired/SantaClausProblem) - C++ solution and demonstration of the Santa Claus concurrency problem
 - [drk1wi/Portspoof](https://github.com/drk1wi/Portspoof) - Portspoof
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
@@ -1910,7 +1910,6 @@
 - [sifive/freedom-devicetree-tools](https://github.com/sifive/freedom-devicetree-tools) - A linker script generator for SiFive's Freedom platform
 - [Slamtec/rplidar_ros](https://github.com/Slamtec/rplidar_ros) - 
 - [microsoft/DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples) - This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
-- [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [a2flo/floor](https://github.com/a2flo/floor) - A C++ Compute/Graphics Library and Toolchain enabling same-source CUDA/Host/Metal/OpenCL/Vulkan C++ programming and execution.
 - [spevans/swift-kstdlib](https://github.com/spevans/swift-kstdlib) - Fork of apple/swift with modifications to the stdlib to use in a bare metal kernel for use with swift-project1. See KERNEL_LIB.md for details
 - [microsoft/BlingFire](https://github.com/microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
@@ -5751,7 +5750,6 @@
 - [duckyb/eternal-keypad](https://github.com/duckyb/eternal-keypad) - A 36 key gaming keypad, for both right and left handed mouse users.
 - [matyler/mtCellEdit](https://github.com/matyler/mtCellEdit) - Mark Tyler's Spreadsheet Program
 - [sketchfab/unreal-plugin](https://github.com/sketchfab/unreal-plugin) - 
-- [joanbono/awesome-kicad](https://github.com/joanbono/awesome-kicad) - A curated list of awesome KiCad plugins and resources
 - [macstadium/orka-desktop](https://github.com/macstadium/orka-desktop) - Orka Desktop is a free, no obligation, virtualization tool, which is designed to be deployed on individual macOS workstations.
 - [gibbed/Borderlands3Dumps](https://github.com/gibbed/Borderlands3Dumps) - Borderlands 3 data dumps.
 - [riscv/learn](https://github.com/riscv/learn) - Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc.
@@ -6787,6 +6785,7 @@
 - [creativecommons/licensebuttons](https://github.com/creativecommons/licensebuttons) - Creative Commons badges, license Buttons, etc.
 - [kiswitch/kiswitch](https://github.com/kiswitch/kiswitch) - Footprints for popular keyboard switches
 - [efabless/cace](https://github.com/efabless/cace) - Circuit Automatic Characterization Engine
+- [joanbono/awesome-kicad](https://github.com/joanbono/awesome-kicad) - A curated list of awesome KiCad plugins and resources
 - [mherrmann/fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
@@ -9043,6 +9042,7 @@
 - [notwaldorf/.not-quite-dotfiles](https://github.com/notwaldorf/.not-quite-dotfiles) - :moneybag: NO JUDGING
 - [adafruit/Adafruit-Pi-Kernel-o-Matic](https://github.com/adafruit/Adafruit-Pi-Kernel-o-Matic) - 
 - [0xAX/git-cheat](https://github.com/0xAX/git-cheat) - git cheat sheets in your command line
+- [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for Linux x86_64
 - [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
 - [freeipa/freeipa-container](https://github.com/freeipa/freeipa-container) - FreeIPA server in containers — images at https://quay.io/repository/freeipa/freeipa-server?tab=tags
 - [google/grr-doc](https://github.com/google/grr-doc) - Documentation for the GRR Rapid Reponse framework
