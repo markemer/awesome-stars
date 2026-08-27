@@ -66,6 +66,7 @@
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
+- [ImHex Pattern Language](#imhex-pattern-language)
 - [Ink](#ink)
 - [Inno Setup](#inno-setup)
 - [Io](#io)
@@ -310,6 +311,7 @@
 
 ## Blade 
 
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
 ## Bluespec 
@@ -911,7 +913,7 @@
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [tleonhardt/practical_cryptography_engineering](https://github.com/tleonhardt/practical_cryptography_engineering) - Cryptography code examples using libsodium and mbedtls C libraries and Python cryptography and PyNaCl modules
 - [void-linux/musl-fts](https://github.com/void-linux/musl-fts) - Implementation of fts(3) for musl libc packages in Void Linux
-- [editfmah/sharkorm](https://github.com/editfmah/sharkorm) - Shark ORM for iOS/macOS/tvOS/watchOS
+- [DisheveledDev/sharkorm](https://github.com/DisheveledDev/sharkorm) - Shark ORM for iOS/macOS/tvOS/watchOS
 - [gfx-rs/portability](https://github.com/gfx-rs/portability) - Vulkan Portability Implementation
 - [jnz/q3vm](https://github.com/jnz/q3vm) - Q3VM - Single file (vm.c) bytecode virtual machine/interpreter for C-language input
 - [iqiyi/dpvs](https://github.com/iqiyi/dpvs) - DPVS is a high performance Layer-4 load balancer based on DPDK.
@@ -3624,6 +3626,10 @@
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
 - [openfl/openfl](https://github.com/openfl/openfl) - An open source library for creative expression on the web, desktop, mobile and consoles. Inspired by the classic Flash and AIR APIs.
 
+## ImHex Pattern Language 
+
+- [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
+
 ## Ink 
 
 - [inkle/ink-library](https://github.com/inkle/ink-library) - A collection of ink samples, tools and a list of projects that use ink
@@ -4238,7 +4244,6 @@
 - [mathisonian/idyll-chartjs-example](https://github.com/mathisonian/idyll-chartjs-example) - Idyll chartjs example
 - [marcrobledo/savegame-editors](https://github.com/marcrobledo/savegame-editors) - A compilation of console savegame editors made with HTML5 technologies.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [dataliterate/data-populator](https://github.com/dataliterate/data-populator) - A plugin for Sketch and Adobe XD to populate your design mockups with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 - [josh-/automating-macOS-with-JXA-presentation](https://github.com/josh-/automating-macOS-with-JXA-presentation) - Slides & sample code from the "Automating macOS with Javascript for Automation" talk, given at the MelbJS meetup
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
@@ -4376,7 +4381,7 @@
 - [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [esbenp/pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features a
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . Translations as PRs to imports/i18n/da
 - [GoogleTrends/data](https://github.com/GoogleTrends/data) - An index of all open-source data
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
@@ -4413,7 +4418,7 @@
 - [slack-samples/javascript-message-menus](https://github.com/slack-samples/javascript-message-menus) - Order coffee through interactive message menus
 - [slackapi/node-slack-interactive-messages](https://github.com/slackapi/node-slack-interactive-messages) - Slack Buttons, Menus, and Dialogs made simpler for Node
 - [slack-samples/botkit-easy-peasy-bot](https://github.com/slack-samples/botkit-easy-peasy-bot) - Create a bot with Botkit
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting parallel compression, web streams, zip64, split files, data encryption, and deflate64 decompression.
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting parallel compression, web streams, pluggable compression engines, zip64, split files, data encryption, and deflate64 decompression.
 - [mapbox/delaunator](https://github.com/mapbox/delaunator) - An incredibly fast JavaScript library for Delaunay triangulation of 2D points
 - [captainsafia/giddy](https://github.com/captainsafia/giddy) - A CLI wrapper around git for an improved developer experience
 - [mathjax/MathJax-docs](https://github.com/mathjax/MathJax-docs) - MathJax documentation. Beautiful math in all browsers. Beautifully documented.
@@ -5001,7 +5006,6 @@
 - [hyperbox/hyperbox](https://github.com/hyperbox/hyperbox) - Virtual Infrastructure Manager for VirtualBox
 - [klaaspieter/chxcode](https://github.com/klaaspieter/chxcode) - Changes the current Xcode
 - [libretro/Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [cwalker/android_vendor_ouya_cardhu](https://github.com/cwalker/android_vendor_ouya_cardhu) - Android 5.0 for OUYA (vendor tree)
 - [everpeace/kube-openmpi](https://github.com/everpeace/kube-openmpi) - Open MPI jobs on Kubernetes
 - [cloudflare/hellogopher](https://github.com/cloudflare/hellogopher) - Hellogopher: "just clone and make" your conventional Go project
@@ -6179,6 +6183,7 @@
 - [nikgraf/awesome-draft-js](https://github.com/nikgraf/awesome-draft-js) - Awesome list of Draft.js resources
 - [mehcode/awesome-atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources.
 - [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
+- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
@@ -6676,6 +6681,7 @@
 
 ## Python 
 
+- [fzakaria/selfdb](https://github.com/fzakaria/selfdb) - 
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [o7-machinehum/kicad-vault](https://github.com/o7-machinehum/kicad-vault) - Part Procurement systems for KiCad
@@ -7385,7 +7391,6 @@
 - [litex-hub/litevideo](https://github.com/litex-hub/litevideo) - Small footprint and configurable video cores (Deprecated)
 - [enjoy-digital/litedram](https://github.com/enjoy-digital/litedram) - Small footprint and configurable DRAM core
 - [enjoy-digital/litepcie](https://github.com/enjoy-digital/litepcie) - Small footprint and configurable PCIe core
-- [enjoy-digital/litex](https://github.com/enjoy-digital/litex) - Build your hardware, easily!
 - [bunnie/litex-buildenv](https://github.com/bunnie/litex-buildenv) - An environment for building LiteX based FPGA designs. Makes it easy to get everything you need!
 - [timvideos/litex-buildenv](https://github.com/timvideos/litex-buildenv) - An environment for building LiteX based FPGA designs. Makes it easy to get everything you need!
 - [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
@@ -8335,6 +8340,7 @@
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
+- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica) - Symbolica is a high-performance computer algebra library for Python and Rust. Manipulate large expressions, match patterns, and generate optimized numerical code — at unprecedented speed.
 - [ALSchwalm/pISO](https://github.com/ALSchwalm/pISO) - Hardware and software source for the pISO
 - [yellowcake-org/libycresources](https://github.com/yellowcake-org/libycresources) - Rust library which implements reading resources used in Fallout™.
@@ -11014,7 +11020,6 @@
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Pyramids of map tiles in a single file on static storage
 - [serverlessmaps/serverlessmaps](https://github.com/serverlessmaps/serverlessmaps) - Creating and hosting serverless maps
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
-- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [srt4rulez/fallout-new-vegas-interactive-map](https://github.com/srt4rulez/fallout-new-vegas-interactive-map) - An interactive map of the Mojave Wasteland in Fallout: New Vegas.
 - [darkf/darkfo](https://github.com/darkf/darkfo) - DarkFO, a post-nuclear RPG remake (of Fallout 2)
 - [League-of-Foundry-Developers/foundry-vtt-types](https://github.com/League-of-Foundry-Developers/foundry-vtt-types) - Unofficial type declarations for the Foundry Virtual Tabletop API
@@ -11493,6 +11498,7 @@
 - [ZipCPU/fftdemo](https://github.com/ZipCPU/fftdemo) - A demonstration showing how several components can be compsed to build a simulated spectrogram
 - [VerticalResearchGroup/miaow](https://github.com/VerticalResearchGroup/miaow) - An open source GPU based off of the AMD Southern Islands ISA.
 - [openrisc/mor1kx](https://github.com/openrisc/mor1kx) - mor1kx - an OpenRISC 1000 processor IP core
+- [enjoy-digital/litex](https://github.com/enjoy-digital/litex) - Build your hardware, easily!
 - [FPGAwars/icezum](https://github.com/FPGAwars/icezum) - :star2: IceZUM Alhambra: an Arduino-like Open FPGA electronic board
 - [aolofsson/oh](https://github.com/aolofsson/oh) - Verilog library for ASIC and FPGA designers
 - [ZipCPU/dpll](https://github.com/ZipCPU/dpll) - A collection of phase locked loop (PLL) related projects
@@ -11561,7 +11567,6 @@
 
 ## YARA 
 
-- [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [ghidraninja/ghidra_scripts](https://github.com/ghidraninja/ghidra_scripts) - Scripts for the Ghidra software reverse engineering suite.
 - [rednaga/APKiD](https://github.com/rednaga/APKiD) - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
 
