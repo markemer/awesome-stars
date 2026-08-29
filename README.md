@@ -1099,7 +1099,7 @@
 - [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 - [kosua20/herebedragons](https://github.com/kosua20/herebedragons) - A basic 3D scene implemented with various engines, frameworks or APIs.
 - [ctz/cifra](https://github.com/ctz/cifra) - A collection of cryptographic primitives targeted at embedded use.
-- [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting FPU, MMX, SSE (1-4), AVX (1-2, 512), APX, and AVX10.2
+- [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting the latest instruction set extensions such as AVX10.2 and ACE
 - [pmem/vltrace](https://github.com/pmem/vltrace) - Tool tracing syscalls in a fast way using eBPF linux kernel feature
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [libimobiledevice/ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller) - Manage apps of iOS devices
@@ -4383,7 +4383,7 @@
 - [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [esbenp/pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . Translations as PRs to imports/i18n/da
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/
 - [GoogleTrends/data](https://github.com/GoogleTrends/data) - An index of all open-source data
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
