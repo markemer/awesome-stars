@@ -342,6 +342,7 @@
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [Xinyuan-LilyGO/LilyGo-EPD47](https://github.com/Xinyuan-LilyGO/LilyGo-EPD47) - 
 - [Xinyuan-LilyGO/T-Embed-CC1101](https://github.com/Xinyuan-LilyGO/T-Embed-CC1101) - 
+- [tsupplis/cpm86-crossdev](https://github.com/tsupplis/cpm86-crossdev) - CP/M-86 cross development environment
 - [rokudev/lt-sdk](https://github.com/rokudev/lt-sdk) - 
 - [MicrochipTech/fpga-hls-examples](https://github.com/MicrochipTech/fpga-hls-examples) - Open-Source HLS Examples for Microchip FPGAs
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple DirectMedia Layer
@@ -1758,7 +1759,7 @@
 - [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system (mirror)
 - [ianpatt/f4se](https://github.com/ianpatt/f4se) - Fallout 4 Script Extender
 - [rtl-airband/RTLSDR-Airband](https://github.com/rtl-airband/RTLSDR-Airband) - Multichannel AM/NFM demodulator
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-17.0.0 [August 2026]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-17.0.0 [September 2026]
 - [robmikh/Win32CaptureSample](https://github.com/robmikh/Win32CaptureSample) - A simple sample using the Windows.Graphics.Capture APIs in a Win32 application.
 - [PixelRick/CyberpunkSaveEditor](https://github.com/PixelRick/CyberpunkSaveEditor) - A tool to edit Cyberpunk 2077 sav.dat files
 - [przemek83/volbx](https://github.com/przemek83/volbx) - Graphical tool for data manipulation written in C++/Qt.
@@ -2849,7 +2850,6 @@
 - [mholt/acmez](https://github.com/mholt/acmez) - Premier ACME client library for Go
 - [logrusorgru/aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
 - [akash-network/node](https://github.com/akash-network/node) - Source code for Akash node, a secure, transparent, and peer-to-peer cloud computing network
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [caddy-dns/namecheap](https://github.com/caddy-dns/namecheap) - 
 - [swill/kad](https://github.com/swill/kad) - Keyboard Automated Design (KAD) is a Golang library for designing mechanical keyboards
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
@@ -5911,6 +5911,7 @@
 - [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository
 - [AllsafeCyberSecurity/awesome-ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra) - A curated list of awesome Ghidra materials
 - [bobeff/programming-math-science](https://github.com/bobeff/programming-math-science) - This is a list of links to different freely available learning resources about computer programming, math, and science.
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [tailscale/tailscale-synology](https://github.com/tailscale/tailscale-synology) - Synology packages for tailscale.com
 - [TimoSalomaki/awesome-dear-imgui](https://github.com/TimoSalomaki/awesome-dear-imgui) - A collection of awesome dear imgui bindings, extensions and resources
 - [scholtzm/awesome-steam](https://github.com/scholtzm/awesome-steam) - 😎 A curated list of packages and resources regarding Steam development
@@ -7182,7 +7183,7 @@
 - [jgehrcke/goeffel](https://github.com/jgehrcke/goeffel) - A tool for measuring the resource utilization of a specific process over time
 - [greatscottgadgets/facedancer](https://github.com/greatscottgadgets/facedancer) - Implement your own USB device in Python, supported by a hardware peripheral such as Cynthion or GreatFET
 - [rndusr/torf](https://github.com/rndusr/torf) - Python module to create, parse and edit torrent files and magnet links
-- [vmware/vsphere-automation-sdk-python](https://github.com/vmware/vsphere-automation-sdk-python) - Python samples, language bindings, and API reference documentation for vSphere, VMC, and NSX-T using the VMware REST API
+- [vmware-archive/vsphere-automation-sdk-python](https://github.com/vmware-archive/vsphere-automation-sdk-python) - Python samples, language bindings, and API reference documentation for vSphere, VMC, and NSX-T using the VMware REST API
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [wmcbrine/pytivo](https://github.com/wmcbrine/pytivo) - pyTivo is both an HMO and GoBack server. Similar to TiVo Desktop pyTivo loads many standard video compression codecs and outputs mpeg2 video to the TiVo. However, pyTivo is able to load MANY more file
 - [Netflix/bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
@@ -8767,7 +8768,6 @@
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [akshar001/Maypole_PCB](https://github.com/akshar001/Maypole_PCB) - Wireless file storage from anywhere
-- [tsupplis/cpm86-crossdev](https://github.com/tsupplis/cpm86-crossdev) - CP/M-86 cross development environment
 - [sfiorini/NordVPN-Wireguard](https://github.com/sfiorini/NordVPN-Wireguard) - A bash scripts that generates Wireguard configuration file for a NordVPN connection.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [ionic-team/capacitor-skills](https://github.com/ionic-team/capacitor-skills) - 
@@ -8799,7 +8799,7 @@
 - [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, CrowdSec, Google OAuth2/Authelia, and LetsEncrypt. Built with Deployrr and UDMS guides/videos.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [macstadium/orka-images](https://github.com/macstadium/orka-images) - Public images for Apple silicon-based Orka virtual machines
-- [qt/qt5](https://github.com/qt/qt5) - Qt5 super module
+- [qt/qt5](https://github.com/qt/qt5) - Qt super module
 - [ph202107/nordlist](https://github.com/ph202107/nordlist) - Bash script to use with the NordVPN Linux CLI.
 - [lexbailey/compilerfax](https://github.com/lexbailey/compilerfax) - 
 - [tailscale/codespace](https://github.com/tailscale/codespace) - Tailscale for devcontainers and codespaces
@@ -10500,7 +10500,7 @@
 - [algorithmiaio/algorithmia-swift](https://github.com/algorithmiaio/algorithmia-swift) - A Swift/iOS client library for the Algorithmia API
 - [onevcat/FengNiao](https://github.com/onevcat/FengNiao) - A command line tool for cleaning unused resources in Xcode.
 - [patchthecode/JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable
-- [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
+- [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect) - Legacy Perfect - Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [1amageek/Bleu](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U🎁 Bleu is the best in the Bluetooth library.
 - [efremidze/Magnetic](https://github.com/efremidze/Magnetic) - SpriteKit Floating Bubble Picker (inspired by Apple Music) 🧲
@@ -11381,6 +11381,7 @@
 
 ## Typst 
 
+- [l2dy/ports-dev-notes](https://github.com/l2dy/ports-dev-notes) - MacPorts ports tree development notes
 - [oldrev/tids](https://github.com/oldrev/tids) - A Typst template for creating TI-style datasheets
 - [typst/templates](https://github.com/typst/templates) - Templates that are directly maintained by the Typst team.
 - [Leedehai/typst-physics](https://github.com/Leedehai/typst-physics) - physica: vectors, fields, differentials, derivatives, Dirac brakets, tensors, and more. See examples in the manual PDF.
