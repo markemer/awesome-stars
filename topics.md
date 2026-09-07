@@ -774,6 +774,7 @@
 
 - [nonissue/hammerspoon](https://github.com/nonissue/hammerspoon) - A hammerspoon config with a bunch of custom spoons (window management with undo, sleep timer, resolution changer, safari hotkey utilities, etc).
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+- [SysAdminDoc/MonitorControl](https://github.com/SysAdminDoc/MonitorControl) - Control brightness, color, inputs, profiles, and automation for DDC/CI monitors on Windows.
 - [daisy-workflow/daisy-engine](https://github.com/daisy-workflow/daisy-engine) - AI orchestration platform
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
@@ -4813,7 +4814,7 @@
 ## gui 
 
 - [djeada/Qt-Widgets](https://github.com/djeada/Qt-Widgets) - A collection of examples and reusable elements created with Qt6 widgets.
-- [SysAdminDoc/MonitorControl](https://github.com/SysAdminDoc/MonitorControl) - A comprehensive Windows GUI utility for controlling monitor settings via DDC/CI protocol. Adjust brightness, contrast, color temperature, input sources, and more — all without touching your monitor's 
+- [SysAdminDoc/MonitorControl](https://github.com/SysAdminDoc/MonitorControl) - Control brightness, color, inputs, profiles, and automation for DDC/CI monitors on Windows.
 - [games-on-whales/gow](https://github.com/games-on-whales/gow) - A collection of Dockerized games and apps like Steam, Firefox and Retroarch
 - [adamsol/GitQuill](https://github.com/adamsol/GitQuill) - Cross-platform GUI for Git. Built with Monaco Editor and Electron.
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
@@ -8882,6 +8883,7 @@
 
 ## others 
 
+- [scastiel/kado](https://github.com/scastiel/kado) - Kadō — A privacy-first habit tracker for iPhone and iPad.
 - [l2dy/ports-dev-notes](https://github.com/l2dy/ports-dev-notes) - MacPorts ports tree development notes
 - [WinWorldPC/adventure](https://github.com/WinWorldPC/adventure) - WinWorld's open library management system
 - [os-fpga/open-source-fpga-resource](https://github.com/os-fpga/open-source-fpga-resource) - A list of resources related to the open-source FPGA projects
@@ -8895,7 +8897,7 @@
 - [ap/vim-buftabline](https://github.com/ap/vim-buftabline) - Forget Vim tabs – now you can have buffer tabs
 - [sfsam/Nvmm](https://github.com/sfsam/Nvmm) - Neovim GUI for Mac
 - [hisaac/XCConfig](https://github.com/hisaac/XCConfig) - xcconfig file parsing and evaluation
-- [BandarLabs/Cobalt](https://github.com/BandarLabs/Cobalt) - An SDK for building real apps for your Kobo eInk reader
+- [BandarLabs/Cobalt](https://github.com/BandarLabs/Cobalt) - SDK for building apps & an app store for your Kobo eInk reader
 - [schlae/engelbart-keyset](https://github.com/schlae/engelbart-keyset) - Reproduction Douglas Engelbart keyset
 - [mozharovsky/xcode](https://github.com/mozharovsky/xcode) - Super fast Xcode .pbxproj parser and serializer written in Rust
 - [open-templates/github-repo-template](https://github.com/open-templates/github-repo-template) - Stack-agnostic GitHub repository template with docs, Dependabot, CODEOWNERS, and GitHub UI templates.
@@ -15257,7 +15259,7 @@
 
 ## powershell 
 
-- [SysAdminDoc/MonitorControl](https://github.com/SysAdminDoc/MonitorControl) - A comprehensive Windows GUI utility for controlling monitor settings via DDC/CI protocol. Adjust brightness, contrast, color temperature, input sources, and more — all without touching your monitor's 
+- [SysAdminDoc/MonitorControl](https://github.com/SysAdminDoc/MonitorControl) - Control brightness, color, inputs, profiles, and automation for DDC/CI monitors on Windows.
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
@@ -19292,7 +19294,7 @@
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
-- [SysAdminDoc/MonitorControl](https://github.com/SysAdminDoc/MonitorControl) - A comprehensive Windows GUI utility for controlling monitor settings via DDC/CI protocol. Adjust brightness, contrast, color temperature, input sources, and more — all without touching your monitor's 
+- [SysAdminDoc/MonitorControl](https://github.com/SysAdminDoc/MonitorControl) - Control brightness, color, inputs, profiles, and automation for DDC/CI monitors on Windows.
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a 
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
