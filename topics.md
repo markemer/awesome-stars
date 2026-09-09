@@ -839,6 +839,7 @@
 
 ## awesome 
 
+- [michaelbrusegard/awesome-wezterm](https://github.com/michaelbrusegard/awesome-wezterm) - Collections of awesome WezTerm plugins.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
 - [mixpeek/awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) - A curated, opinionated guide to S3-compatible object storage — 21 providers, pricing, features, gotchas, and an interactive comparison tool.
@@ -1017,6 +1018,7 @@
 
 ## awesome-list 
 
+- [michaelbrusegard/awesome-wezterm](https://github.com/michaelbrusegard/awesome-wezterm) - Collections of awesome WezTerm plugins.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
 - [mixpeek/awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) - A curated, opinionated guide to S3-compatible object storage — 21 providers, pricing, features, gotchas, and an interactive comparison tool.
@@ -1913,7 +1915,7 @@
 - [craigmulligan/sandy](https://github.com/craigmulligan/sandy) - A tiny "sandbox" to run untrusted code 🏖️
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [yonaskolb/SwagGen](https://github.com/yonaskolb/SwagGen) - OpenAPI/Swagger 3.0 Parser and Swift code generator
-- [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
+- [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - 🆕 Sentry CLI ➡️ https://github.com/getsentry/cli
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
@@ -4816,6 +4818,7 @@
 - [djeada/Qt-Widgets](https://github.com/djeada/Qt-Widgets) - A collection of examples and reusable elements created with Qt6 widgets.
 - [SysAdminDoc/MonitorControl](https://github.com/SysAdminDoc/MonitorControl) - Control brightness, color, inputs, profiles, and automation for DDC/CI monitors on Windows.
 - [games-on-whales/gow](https://github.com/games-on-whales/gow) - A collection of Dockerized games and apps like Steam, Firefox and Retroarch
+- [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [adamsol/GitQuill](https://github.com/adamsol/GitQuill) - Cross-platform GUI for Git. Built with Monaco Editor and Electron.
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
@@ -5111,7 +5114,6 @@
 - [getsentry/sentry-fastlane-plugin](https://github.com/getsentry/sentry-fastlane-plugin) - Official fastlane plugin for Sentry
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [opensteno/plover](https://github.com/opensteno/plover) - Open source stenotype engine
-- [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 - [salesforce/policy_sentry](https://github.com/salesforce/policy_sentry) - IAM Least Privilege Policy Generator
 - [Raku/nqp](https://github.com/Raku/nqp) - NQP
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
@@ -7498,7 +7500,7 @@
 - [SwiftyLua/SwiftyLua](https://github.com/SwiftyLua/SwiftyLua) - Swift bridge for Lua
 - [paniclock/paniclock](https://github.com/paniclock/paniclock) - Instantly disable Touch ID and lock your Mac with one click or keyboard shortcut.
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [sindresorhus/macos-trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash
@@ -8708,6 +8710,7 @@
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [antlr-ng/antlr-ng](https://github.com/antlr-ng/antlr-ng) - The next generation of ANTLR, a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+- [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
 - [IHP-GmbH/IHP-Open-FMD_QNC-Tapeouts](https://github.com/IHP-GmbH/IHP-Open-FMD_QNC-Tapeouts) - Open source designs developed with the IHP 130nm BiCMOS Open PDK in the FMD_QNC project. Documentation at https://ihp-open-designlib.readthedocs.io/en/latest/
 - [electronicarts/CnC_Modding_Support](https://github.com/electronicarts/CnC_Modding_Support) - Command and Conquer: Modding Support
@@ -8883,6 +8886,8 @@
 
 ## others 
 
+- [yashi/quilt](https://github.com/yashi/quilt) - This is a clone of Quilt, a tool to work with series of patches.  The official site is at GNU Savannah.
+- [obinexus/mmuko-boot](https://github.com/obinexus/mmuko-boot) - MMUKO Boot Sequence
 - [scastiel/kado](https://github.com/scastiel/kado) - Kadō — A privacy-first habit tracker for iPhone and iPad.
 - [l2dy/ports-dev-notes](https://github.com/l2dy/ports-dev-notes) - MacPorts ports tree development notes
 - [WinWorldPC/adventure](https://github.com/WinWorldPC/adventure) - WinWorld's open library management system
@@ -9857,7 +9862,7 @@
 - [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - Qalculate! Qt UI
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [google/typograms](https://github.com/google/typograms) - 
-- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and many mo
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.
 - [BradLarson/Molecules](https://github.com/BradLarson/Molecules) - Molecules is an open source 3-D molecular visualizer for iOS.
 - [gobby/libinfinity](https://github.com/gobby/libinfinity) - libinfinity collaborative editing library
 - [PassiveLogic/differentiable-swift-examples](https://github.com/PassiveLogic/differentiable-swift-examples) - Examples and documentation for the experimental differentiable Swift language feature
@@ -12374,7 +12379,6 @@
 - [AlphamaxMedia/netv2-dvt-mainboard](https://github.com/AlphamaxMedia/netv2-dvt-mainboard) - NeTV2 mainboard design files
 - [AlphamaxMedia/netv2-fpga](https://github.com/AlphamaxMedia/netv2-fpga) - Quickstart for building FPGA code for NeTV2
 - [AlphamaxMedia/netv2-mainboard](https://github.com/AlphamaxMedia/netv2-mainboard) - Release directory for NeTV2 main PCBA files
-- [parpg/parpg](https://github.com/parpg/parpg) - Post Apocalyptic RPG
 - [Beliar83/bGrease](https://github.com/Beliar83/bGrease) - The highly extensible game engine framework for Python, modified to make it easily usable with other libraries than pyglet.
 - [caseman/grease](https://github.com/caseman/grease) - The highly extensible game engine framework for Python
 - [shaps80/SVGRenderer](https://github.com/shaps80/SVGRenderer) - An SVG renderer using the familiar GraphicsRenderer API.
@@ -16653,7 +16657,7 @@
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style. (Now with support for macOS 26 Tahoe!)
 - [samuela/rustybox](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust 🦀
-- [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
+- [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - 🆕 Sentry CLI ➡️ https://github.com/getsentry/cli
 - [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) - Awesome Rust
 - [agroce/universalmutator](https://github.com/agroce/universalmutator) - Regexp based tool for mutating generic source code across numerous languages
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
@@ -17304,7 +17308,7 @@
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [SwiftyLua/SwiftyLua](https://github.com/SwiftyLua/SwiftyLua) - Swift bridge for Lua
 - [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [sindresorhus/DSStore](https://github.com/sindresorhus/DSStore) - Parse and write macOS .DS_Store files from Swift
 - [Frizlab/FSEventsWrapper](https://github.com/Frizlab/FSEventsWrapper) - Easily use FSEvents in Swift
 - [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
@@ -18193,7 +18197,7 @@
 - [huseyinaslim/macos-keyboardblocker](https://github.com/huseyinaslim/macos-keyboardblocker) - 🔒 Lock your Mac's keyboard while cleaning - prevents accidental keypresse
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [iOmega8561/VirtualizationKit](https://github.com/iOmega8561/VirtualizationKit) - Powerful - Swift - macOS Virtualization Middleware used by Tesseract for managing virtual machines.
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
@@ -18603,6 +18607,7 @@
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
+- [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
 - [IBM/tnz](https://github.com/IBM/tnz) - Tn3270 to Z Python library
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
