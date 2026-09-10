@@ -3273,7 +3273,7 @@
 - [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
-- [google/docsy-example](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
+- [docsydev/docsy-example](https://github.com/docsydev/docsy-example) - An example documentation site using the Docsy Hugo theme
 - [qubole/afctl](https://github.com/qubole/afctl) - afctl helps to manage and deploy Apache Airflow projects faster and smoother.
 - [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
@@ -4524,7 +4524,7 @@
 - [ngrok/ngrok-api-go](https://github.com/ngrok/ngrok-api-go) - ngrok API client library for Golang
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
+- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! build your own beacon using Xiao-BLE
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [digitalocean/godo](https://github.com/digitalocean/godo) - DigitalOcean Go API client
 - [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services.
@@ -7027,6 +7027,7 @@
 - [systemd/particleos](https://github.com/systemd/particleos) - ⸭ An image-based, secure OS, built on top of various Linux distributions
 - [OpenRakis/Spice86](https://github.com/OpenRakis/Spice86) - Reverse engineer and rewrite real mode DOS programs!
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
+- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! build your own beacon using Xiao-BLE
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [matyler/mtCellEdit](https://github.com/matyler/mtCellEdit) - Mark Tyler's Spreadsheet Program
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
@@ -8886,6 +8887,7 @@
 
 ## others 
 
+- [scheme/scsh](https://github.com/scheme/scsh) - A Unix shell embedded in scheme
 - [yashi/quilt](https://github.com/yashi/quilt) - This is a clone of Quilt, a tool to work with series of patches.  The official site is at GNU Savannah.
 - [obinexus/mmuko-boot](https://github.com/obinexus/mmuko-boot) - MMUKO Boot Sequence
 - [scastiel/kado](https://github.com/scastiel/kado) - Kadō — A privacy-first habit tracker for iPhone and iPad.
@@ -9068,7 +9070,7 @@
 - [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
 - [valdanylchuk/breezydemo](https://github.com/valdanylchuk/breezydemo) - BreezyBox shell demo for esp32s3
 - [microsoft/litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
-- [artemnovichkov/xcode-27-system-prompts](https://github.com/artemnovichkov/xcode-27-system-prompts) - Xcode 27 beta 6 system prompts and internal documentation
+- [artemnovichkov/xcode-27-system-prompts](https://github.com/artemnovichkov/xcode-27-system-prompts) - Xcode 27 system prompts and internal documentation
 - [CaptureContext/swift-associated-objects](https://github.com/CaptureContext/swift-associated-objects) - Associated objects utils
 - [gridfinity-unofficial/gridfinity-unofficial.github.io](https://github.com/gridfinity-unofficial/gridfinity-unofficial.github.io) - The homepage of the unofficial gridfinity site.
 - [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources
@@ -11684,7 +11686,7 @@
 - [openbmc/openbmc-tools](https://github.com/openbmc/openbmc-tools) - Collection of useful tools to interact with openbmc
 - [google-research/swift-tfp](https://github.com/google-research/swift-tfp) - Find shape errors before you run your code!
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
-- [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation
+- [docsydev/docsy](https://github.com/docsydev/docsy) - Hugo theme for open source documentation
 - [twostraws/SwiftGD](https://github.com/twostraws/SwiftGD) - A simple Swift wrapper for libgd
 - [usbarmory/interlock](https://github.com/usbarmory/interlock) - INTERLOCK - file encryption and HSM front-end
 - [usbarmory/mxs-dcp](https://github.com/usbarmory/mxs-dcp) - NXP Data Co-Processor (DCP) - Linux driver
@@ -16461,6 +16463,7 @@
 
 ## rust 
 
+- [zsh-rs/zsh-module](https://github.com/zsh-rs/zsh-module) - A High-level framework for creating dynamically-loadable ZSH modules in Rust
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
@@ -19695,6 +19698,7 @@
 
 ## zsh 
 
+- [zsh-rs/zsh-module](https://github.com/zsh-rs/zsh-module) - A High-level framework for creating dynamically-loadable ZSH modules in Rust
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
