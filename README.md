@@ -2695,7 +2695,7 @@
 - [subtrace/subtrace](https://github.com/subtrace/subtrace) - Network inspector for your backend
 - [noperator/yknotify](https://github.com/noperator/yknotify) - Notify when YubiKey needs touch on macOS
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
+- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! build your own beacon using Xiao-BLE
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [ahalbert/ted](https://github.com/ahalbert/ted) - A tool for editing files according to the rules of a provided Turing Machine
@@ -2848,6 +2848,7 @@
 - [mholt/acmez](https://github.com/mholt/acmez) - Premier ACME client library for Go
 - [logrusorgru/aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
 - [akash-network/node](https://github.com/akash-network/node) - Source code for Akash node, a secure, transparent, and peer-to-peer cloud computing network
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [caddy-dns/namecheap](https://github.com/caddy-dns/namecheap) - 
 - [swill/kad](https://github.com/swill/kad) - Keyboard Automated Design (KAD) is a Golang library for designing mechanical keyboards
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
@@ -3329,7 +3330,6 @@
 ## HTML 
 
 - [Keychron/zgm](https://github.com/Keychron/zgm) - Open source gaming mouse firmware built on Zephyr RTOS. Low latency, full customization, extensible driver model.
-- [awesome-rclone/awesome-rclone](https://github.com/awesome-rclone/awesome-rclone) - The awesome list for everything rclone.
 - [Pomax/BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
 - [adamgmakes/SplitFlapDisplay](https://github.com/adamgmakes/SplitFlapDisplay) - 
 - [6502org/obelisk](https://github.com/6502org/obelisk) - Andrew Jacobs' (BitWise on the 6502.org forum) website formerly at www.obelisk.me.uk and before that www.obelisk.demon.co.uk
@@ -4083,7 +4083,7 @@
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 - [PaulTaykalo/xcode-build-times-rendering](https://github.com/PaulTaykalo/xcode-build-times-rendering) - Xcode build times visualization per target
 - [buba447/Lottie-Sketch-Export](https://github.com/buba447/Lottie-Sketch-Export) - Native Sketch plugin for exporting Artboards and Symbols into Lottie JSON
-- [google/docsy-example](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
+- [docsydev/docsy-example](https://github.com/docsydev/docsy-example) - An example documentation site using the Docsy Hugo theme
 - [capnmidnight/Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
 - [luisiam/homebridge-liftmaster2](https://github.com/luisiam/homebridge-liftmaster2) - LiftMaster Plugin for HomeBridge (API 2.0): https://github.com/nfarina/homebridge
 - [GitbookIO/gitbook-cli](https://github.com/GitbookIO/gitbook-cli) - GitBook's command line interface
@@ -4118,7 +4118,7 @@
 - [rsms/graphviz](https://github.com/rsms/graphviz) - Graphviz web app
 - [buildasaurs/satellite](https://github.com/buildasaurs/satellite) - Node.js server for providing build status badges for GitHub branches.
 - [timburks/graphql-showcase](https://github.com/timburks/graphql-showcase) - An experimental GraphQL wrapper of the GAPIC Showcase API
-- [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation
+- [docsydev/docsy](https://github.com/docsydev/docsy) - Hugo theme for open source documentation
 - [usbarmory/interlock](https://github.com/usbarmory/interlock) - INTERLOCK - file encryption and HSM front-end
 - [gallmarch/fl-conversion-helper](https://github.com/gallmarch/fl-conversion-helper) - Fallen London Conversion Helper
 - [shortstuffsushi/Universal-Link-Validator](https://github.com/shortstuffsushi/Universal-Link-Validator) - A simple node app for testing your Apple App Site Association file setup.
@@ -4529,7 +4529,6 @@
 - [gembarrett/coconduct-builder](https://github.com/gembarrett/coconduct-builder) - An online tool for building a thorough and well-supported Code of Conduct specific to a community's online and/or offline environment.
 - [kbitdk/kbsslenforcer](https://github.com/kbitdk/kbsslenforcer) - Automatic security, browse encrypted
 - [guardian/scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [Lascorbe/CocoaConferences](https://github.com/Lascorbe/CocoaConferences) - List of conferences for iOS, visionOS, macOS, watchOS & tvOS developers
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [h2non/toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
@@ -5905,7 +5904,6 @@
 - [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository
 - [AllsafeCyberSecurity/awesome-ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra) - A curated list of awesome Ghidra materials
 - [bobeff/programming-math-science](https://github.com/bobeff/programming-math-science) - This is a list of links to different freely available learning resources about computer programming, math, and science.
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [tailscale/tailscale-synology](https://github.com/tailscale/tailscale-synology) - Synology packages for tailscale.com
 - [TimoSalomaki/awesome-dear-imgui](https://github.com/TimoSalomaki/awesome-dear-imgui) - A collection of awesome dear imgui bindings, extensions and resources
 - [scholtzm/awesome-steam](https://github.com/scholtzm/awesome-steam) - 😎 A curated list of packages and resources regarding Steam development
@@ -6693,6 +6691,7 @@
 - [ronaldoussoren/pyobjc](https://github.com/ronaldoussoren/pyobjc) - The Python &lt;-&gt; Objective-C Bridge with bindings for macOS frameworks
 - [HelsinkiTypeStudio/valley-sans](https://github.com/HelsinkiTypeStudio/valley-sans) - 
 - [royvou/humblebundle-downloader](https://github.com/royvou/humblebundle-downloader) - A python based CLI to download everything from Humble bundle
+- [awesome-rclone/awesome-rclone](https://github.com/awesome-rclone/awesome-rclone) - The awesome list for everything rclone.
 - [specula-org/SysMoBench](https://github.com/specula-org/SysMoBench) - SysMoBench: Evaluating AI on Formally Modeling Complex Real-World Systems
 - [LiahimRatman/nhl-api-client](https://github.com/LiahimRatman/nhl-api-client) - A comprehensive Python client for accessing NHL statistics and data - 53+ API methods
 - [vgreg/faceoff](https://github.com/vgreg/faceoff) - Terminal tool to watch hockey games
@@ -6704,7 +6703,7 @@
 - [Tokariew/hb_downloader](https://github.com/Tokariew/hb_downloader) - Simple python script to download purchased items from humble bundle
 - [lowobservable/oec](https://github.com/lowobservable/oec) - IBM 3270 terminal controller - IBM 3174 replacement
 - [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
-- [artemnovichkov/xcode-27-system-prompts](https://github.com/artemnovichkov/xcode-27-system-prompts) - Xcode 27 beta 6 system prompts and internal documentation
+- [artemnovichkov/xcode-27-system-prompts](https://github.com/artemnovichkov/xcode-27-system-prompts) - Xcode 27 system prompts and internal documentation
 - [thebrowsercompany/swift-build](https://github.com/thebrowsercompany/swift-build) - Swift toolchain builds by The Browser Company
 - [dropbox/stone](https://github.com/dropbox/stone) - The Official API Spec Language for Dropbox API V2
 - [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) - Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
@@ -7314,7 +7313,6 @@
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
 - [m-labs/artiq](https://github.com/m-labs/artiq) - A leading-edge control system for quantum information experiments
-- [parpg/parpg](https://github.com/parpg/parpg) - Post Apocalyptic RPG
 - [Beliar83/bGrease](https://github.com/Beliar83/bGrease) - The highly extensible game engine framework for Python, modified to make it easily usable with other libraries than pyglet.
 - [caseman/grease](https://github.com/caseman/grease) - The highly extensible game engine framework for Python
 - [stanford-oval/genie-parser](https://github.com/stanford-oval/genie-parser) - Neural Network Semantic Parser for Almond
@@ -7620,6 +7618,7 @@
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [gutomaia/pyNES](https://github.com/gutomaia/pyNES) - Python programming for Nintendo 8 bits
 - [simonwagner/mergepbx](https://github.com/simonwagner/mergepbx) - script for merging XCode project files in git
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [mhagger/git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
@@ -8227,6 +8226,7 @@
 
 ## Rust 
 
+- [zsh-rs/zsh-module](https://github.com/zsh-rs/zsh-module) - A High-level framework for creating dynamically-loadable ZSH modules in Rust
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [BandarLabs/Cobalt](https://github.com/BandarLabs/Cobalt) - SDK for building apps & an app store for your Kobo eInk reader
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
@@ -8596,7 +8596,7 @@
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust
 - [samuela/rustybox](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust 🦀
 - [getsentry/symbolicator](https://github.com/getsentry/symbolicator) - Native Symbolication as a Service
-- [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
+- [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - 🆕 Sentry CLI ➡️ https://github.com/getsentry/cli
 - [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) - Awesome Rust
 - [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
@@ -8755,10 +8755,12 @@
 
 ## Scheme 
 
+- [scheme/scsh](https://github.com/scheme/scsh) - A Unix shell embedded in scheme
 - [eholk/harlan](https://github.com/eholk/harlan) - A language for GPU computing.
 
 ## Shell 
 
+- [yashi/quilt](https://github.com/yashi/quilt) - This is a clone of Quilt, a tool to work with series of patches.  The official site is at GNU Savannah.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
