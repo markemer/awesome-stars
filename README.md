@@ -728,6 +728,7 @@
 - [drewcrawford/blitcurve](https://github.com/drewcrawford/blitcurve) - A fast, GPU-ready bezier-curve implementation
 - [mind04/mod-ruid2](https://github.com/mind04/mod-ruid2) - mod_ruid2 is a suexec module for apache which takes advantage of POSIX.1e capabilities to increase performance.
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [gshahbazian/SwiftGumbo](https://github.com/gshahbazian/SwiftGumbo) - A Swift wrapper and CSS like query library for the gumbo-parser HTML library
 - [maxdev1/ghost](https://github.com/maxdev1/ghost) - Ghost, a micro-kernel based hobby operating system.
 - [lhoursquentin/sed-bin](https://github.com/lhoursquentin/sed-bin) - sed to C translator written in sed
@@ -3524,7 +3525,6 @@
 - [Igalia/snabbwall-website](https://github.com/Igalia/snabbwall-website) - Snabbwall website
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [mkiser/WTFJHT](https://github.com/mkiser/WTFJHT) - Logging the daily shock and awe in national politics. Read in moderation.
-- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) - Make it a fun to create spec for developers and teammates
 - [alexa-samples/skill-sample-nodejs-adventure-game](https://github.com/alexa-samples/skill-sample-nodejs-adventure-game) - This tool provides an easy to use front-end that allows developers to instantly deploy code for your story, or use the generated code as a starting point for more complex projects.
@@ -4083,7 +4083,7 @@
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 - [PaulTaykalo/xcode-build-times-rendering](https://github.com/PaulTaykalo/xcode-build-times-rendering) - Xcode build times visualization per target
 - [buba447/Lottie-Sketch-Export](https://github.com/buba447/Lottie-Sketch-Export) - Native Sketch plugin for exporting Artboards and Symbols into Lottie JSON
-- [docsydev/docsy-example](https://github.com/docsydev/docsy-example) - An example documentation site using the Docsy Hugo theme
+- [docsy/docsy-example](https://github.com/docsy/docsy-example) - An example documentation site using the Docsy Hugo theme
 - [capnmidnight/Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
 - [luisiam/homebridge-liftmaster2](https://github.com/luisiam/homebridge-liftmaster2) - LiftMaster Plugin for HomeBridge (API 2.0): https://github.com/nfarina/homebridge
 - [GitbookIO/gitbook-cli](https://github.com/GitbookIO/gitbook-cli) - GitBook's command line interface
@@ -4118,7 +4118,7 @@
 - [rsms/graphviz](https://github.com/rsms/graphviz) - Graphviz web app
 - [buildasaurs/satellite](https://github.com/buildasaurs/satellite) - Node.js server for providing build status badges for GitHub branches.
 - [timburks/graphql-showcase](https://github.com/timburks/graphql-showcase) - An experimental GraphQL wrapper of the GAPIC Showcase API
-- [docsydev/docsy](https://github.com/docsydev/docsy) - Hugo theme for open source documentation
+- [docsy/docsy](https://github.com/docsy/docsy) - Hugo theme for open source documentation
 - [usbarmory/interlock](https://github.com/usbarmory/interlock) - INTERLOCK - file encryption and HSM front-end
 - [gallmarch/fl-conversion-helper](https://github.com/gallmarch/fl-conversion-helper) - Fallen London Conversion Helper
 - [shortstuffsushi/Universal-Link-Validator](https://github.com/shortstuffsushi/Universal-Link-Validator) - A simple node app for testing your Apple App Site Association file setup.
@@ -5089,7 +5089,6 @@
 - [robur-coop/unikernels](https://github.com/robur-coop/unikernels) - MirageOS unikernels
 - [robur-coop/dns-primary-git](https://github.com/robur-coop/dns-primary-git) - A MirageOS unikernel acting as primary DNS server, data stored in a remote git repository
 - [mirage/qubes-mirage-firewall](https://github.com/mirage/qubes-mirage-firewall) - A Mirage firewall VM for QubesOS
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [janestreet/hardcaml](https://github.com/janestreet/hardcaml) - Hardcaml is an OCaml library for designing hardware.
 - [mirage/qubes-mirage-skeleton](https://github.com/mirage/qubes-mirage-skeleton) - An example Mirage unikernel that runs as a Qubes AppVM
@@ -6973,7 +6972,7 @@
 - [Bigdrea6/winapi-ghidra](https://github.com/Bigdrea6/winapi-ghidra) - Make the Windows API in Ghidra easy to read and informative.
 - [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
 - [d00mfish/NFC-Spotify-Player](https://github.com/d00mfish/NFC-Spotify-Player) - 
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [dbr/tvnamer](https://github.com/dbr/tvnamer) - Automatic TV episode file renamer, uses data from thetvdb.com via tvdb_api
 - [greatscottgadgets/ViewSB](https://github.com/greatscottgadgets/ViewSB) - [Archived] open-source USB analyzer toolkit with support for a variety of capture hardware
@@ -11347,6 +11346,7 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [nteract/archived-desktop-app](https://github.com/nteract/archived-desktop-app) - The old electron based nteract notebook
 - [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [lgpage/nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [danger/peril](https://github.com/danger/peril) - ☢️ Serious and immediate danger.
 - [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
