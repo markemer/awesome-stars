@@ -3309,6 +3309,7 @@
 
 - [librecores/librecores-ci-jenkins-server](https://github.com/librecores/librecores-ci-jenkins-server) - LibreCores Continuous Integration
 - [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
+- [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 - [brendonanderson/wemocontrol](https://github.com/brendonanderson/wemocontrol) - Discover, find the status of, and control your WeMo outlet device.
 - [passy/build-time-tracker-plugin](https://github.com/passy/build-time-tracker-plugin) - Gradle plugin to continuously track and report your build times
 - [openbakery/gradle-xcodePlugin](https://github.com/openbakery/gradle-xcodePlugin) - gradle plugin for building Xcode Projects for iOS, watchOS, macOS or tvOS
@@ -3768,7 +3769,6 @@
 - [Backblaze/JavaReedSolomon](https://github.com/Backblaze/JavaReedSolomon) - Backblaze Reed-Solomon Implementation in Java
 - [janinko/ghprb](https://github.com/janinko/ghprb) - github pull requests builder plugin for Jenkins
 - [jenkinsci/gradle-jpi-plugin](https://github.com/jenkinsci/gradle-jpi-plugin) - Build Jenkins Plugins with Gradle
-- [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 - [JakeWharton/hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds.
 - [gwtproject/gwt](https://github.com/gwtproject/gwt) - GWT Open Source Project
 - [facebook/stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
@@ -4529,6 +4529,7 @@
 - [gembarrett/coconduct-builder](https://github.com/gembarrett/coconduct-builder) - An online tool for building a thorough and well-supported Code of Conduct specific to a community's online and/or offline environment.
 - [kbitdk/kbsslenforcer](https://github.com/kbitdk/kbsslenforcer) - Automatic security, browse encrypted
 - [guardian/scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [Lascorbe/CocoaConferences](https://github.com/Lascorbe/CocoaConferences) - List of conferences for iOS, visionOS, macOS, watchOS & tvOS developers
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [h2non/toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
@@ -6784,7 +6785,7 @@
 - [Mr-FuzzyPenguin/manim-circuit](https://github.com/Mr-FuzzyPenguin/manim-circuit) - 
 - [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
 - [lifeiteng/OmniSenseVoice](https://github.com/lifeiteng/OmniSenseVoice) - Omni SenseVoice: High-Speed Speech Recognition with words timestamps 🗣️🎯
-- [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
+- [apple-aiml-research/ml-depth-pro](https://github.com/apple-aiml-research/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
 - [creativecommons/licensebuttons](https://github.com/creativecommons/licensebuttons) - Creative Commons badges, license Buttons, etc.
 - [kiswitch/kiswitch](https://github.com/kiswitch/kiswitch) - Footprints for popular keyboard switches
 - [efabless/cace](https://github.com/efabless/cace) - Circuit Automatic Characterization Engine
@@ -6879,7 +6880,7 @@
 - [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of X/Twitter v1, v2, and GraphQL APIs
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
-- [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
+- [apple-aiml-research/ml-ane-transformers](https://github.com/apple-aiml-research/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script that actually displays the game you're playing on discord
 - [chipfoundry/openlane2](https://github.com/chipfoundry/openlane2) - The next generation of OpenLane, rewritten from scratch with a modular architecture
@@ -6923,7 +6924,7 @@
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [m-weigand/mw_pinenote_misc](https://github.com/m-weigand/mw_pinenote_misc) - Pinenote notes and patches
 - [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
-- [apple/ml-fct](https://github.com/apple/ml-fct) - Research publication code for "Forward Compatible Training for Large-Scale Embedding Retrieval Systems", CVPR 2022, and "FastFill: Efficient Compatible Model Update", ICLR 2023
+- [apple-aiml-research/ml-fct](https://github.com/apple-aiml-research/ml-fct) - Research publication code for "Forward Compatible Training for Large-Scale Embedding Retrieval Systems", CVPR 2022, and "FastFill: Efficient Compatible Model Update", ICLR 2023
 - [dropbox/dropbox-sdk-python](https://github.com/dropbox/dropbox-sdk-python) - The Official Dropbox API V2 SDK for Python
 - [madzen/LazarusTools](https://github.com/madzen/LazarusTools) - Toolkit for the game Vampire The Masquerade: Bloodlines
 - [RoboticsNut/IBM-6094-DIALS](https://github.com/RoboticsNut/IBM-6094-DIALS) - PYTHON IBM Dials interface
@@ -7617,7 +7618,6 @@
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [gutomaia/pyNES](https://github.com/gutomaia/pyNES) - Python programming for Nintendo 8 bits
 - [simonwagner/mergepbx](https://github.com/simonwagner/mergepbx) - script for merging XCode project files in git
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [mhagger/git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
@@ -8533,7 +8533,7 @@
 - [rustls/rustls-ffi](https://github.com/rustls/rustls-ffi) - Use Rustls from any language
 - [servo/pathfinder](https://github.com/servo/pathfinder) - A fast, practical GPU rasterizer for fonts and vector graphics
 - [nical/lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
-- [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio) - virtio implementation
+- [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio) - This is a public archive. The code now lives in the mono-repo: https://github.com/rust-vmm/rust-vmm/
 - [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [keith/diff-grep](https://github.com/keith/diff-grep) - Filter matching hunks in diffs
@@ -9130,6 +9130,7 @@
 
 ## Swift 
 
+- [mackid1993/Barometer](https://github.com/mackid1993/Barometer) - 
 - [scastiel/kado](https://github.com/scastiel/kado) - Kadō — A privacy-first habit tracker for iPhone and iPad.
 - [sfsam/Nvmm](https://github.com/sfsam/Nvmm) - Neovim GUI for Mac
 - [hisaac/XCConfig](https://github.com/hisaac/XCConfig) - xcconfig file parsing and evaluation
