@@ -2352,7 +2352,7 @@
 ## continuous-integration 
 
 - [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster) - CI at Scale
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [buildkite/iam-ssh-agent](https://github.com/buildkite/iam-ssh-agent) - Keyless SSH Agent for IAM Entities
 - [LucianoPAlmeida/variable-injector](https://github.com/LucianoPAlmeida/variable-injector) - Continuous Integration Tool for Swift Projects
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
@@ -2624,6 +2624,7 @@
 - [mattt/Ono](https://github.com/mattt/Ono) - A sensible way to deal with XML & HTML for iOS & macOS
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+- [foundation/yeti](https://github.com/foundation/yeti) - A CSS-first, native, zero-build layout and styling framework for web designers.
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -3246,7 +3247,7 @@
 - [blacktop/docker-ghidra](https://github.com/blacktop/docker-ghidra) - Ghidra Client/Server Docker Image
 - [ottomatica/slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
@@ -3273,7 +3274,7 @@
 - [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
-- [docsydev/docsy-example](https://github.com/docsydev/docsy-example) - An example documentation site using the Docsy Hugo theme
+- [docsy/docsy-example](https://github.com/docsy/docsy-example) - An example documentation site using the Docsy Hugo theme
 - [qubole/afctl](https://github.com/qubole/afctl) - afctl helps to manage and deploy Apache Airflow projects faster and smoother.
 - [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
@@ -3400,6 +3401,7 @@
 
 ## dotfiles 
 
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [xvzc/chezmoi.nvim](https://github.com/xvzc/chezmoi.nvim) - A neovim plugin for chezmoi
 - [nonissue/hammerspoon](https://github.com/nonissue/hammerspoon) - A hammerspoon config with a bunch of custom spoons (window management with undo, sleep timer, resolution changer, safari hotkey utilities, etc).
 - [zero-sh/apply-user-defaults](https://github.com/zero-sh/apply-user-defaults) - A small utility to set macOS user defaults declaratively from a YAML file.
@@ -3517,6 +3519,7 @@
 
 ## emacs 
 
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [jimeh/emacs-builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support.
 - [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
@@ -4524,7 +4527,7 @@
 - [ngrok/ngrok-api-go](https://github.com/ngrok/ngrok-api-go) - ngrok API client library for Golang
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! build your own beacon using Xiao-BLE
+- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! Build your own beacon using Xiao-BLE
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [digitalocean/godo](https://github.com/digitalocean/godo) - DigitalOcean Go API client
 - [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services.
@@ -5013,7 +5016,7 @@
 - [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [horsicq/XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
 - [lucaszischka/BottomSheet](https://github.com/lucaszischka/BottomSheet) - A sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI.
 - [rizinorg/rz-ghidra](https://github.com/rizinorg/rz-ghidra) - Deep ghidra decompiler and sleigh disassembler integration for rizin
@@ -5435,6 +5438,7 @@
 - [mattt/Ono](https://github.com/mattt/Ono) - A sensible way to deal with XML & HTML for iOS & macOS
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
+- [foundation/yeti](https://github.com/foundation/yeti) - A CSS-first, native, zero-build layout and styling framework for web designers.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
 ## html-css-javascript 
@@ -5792,7 +5796,7 @@
 - [tanhakabir/SwiftAudioPlayer](https://github.com/tanhakabir/SwiftAudioPlayer) - Streaming and realtime audio manipulation with AVAudioEngine
 - [playbook-ui/playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically taking snapshots of them.
 - [Kharauzov/SwipeableCards](https://github.com/Kharauzov/SwipeableCards) - Demonstration of draggable transition for UIViewController with swipeable UICollectionView cells inside.
-- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift
+- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator library in Swift with AppKit, UIKit, WebAssembly, Web, headless frontends.
 - [saoudrizwan/Disk](https://github.com/saoudrizwan/Disk) - Easily persist structs, images, and data on iOS
 - [mhdhejazi/CoronaTracker](https://github.com/mhdhejazi/CoronaTracker) - Coronavirus tracker app for iOS & macOS with maps & charts
 - [urban-health-labs/CombineFirebase](https://github.com/urban-health-labs/CombineFirebase) - Combine wrapper on Google's iOS Firebase library.
@@ -7027,7 +7031,7 @@
 - [systemd/particleos](https://github.com/systemd/particleos) - ⸭ An image-based, secure OS, built on top of various Linux distributions
 - [OpenRakis/Spice86](https://github.com/OpenRakis/Spice86) - Reverse engineer and rewrite real mode DOS programs!
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
-- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! build your own beacon using Xiao-BLE
+- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! Build your own beacon using Xiao-BLE
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [matyler/mtCellEdit](https://github.com/matyler/mtCellEdit) - Mark Tyler's Spreadsheet Program
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
@@ -7479,6 +7483,7 @@
 
 ## macos 
 
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [ryzenixx/proxmoxbar-macos](https://github.com/ryzenixx/proxmoxbar-macos) - Control and monitor your Proxmox VE servers from the macOS menu bar
@@ -7734,7 +7739,7 @@
 - [twostraws/Sourceful](https://github.com/twostraws/Sourceful) - A syntax highlighting source editor for iOS and macOS using UITextView and NSTextView.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [akeru-inc/xcnotary](https://github.com/akeru-inc/xcnotary) - the missing macOS app notarization helper, built with Rust
-- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift
+- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator library in Swift with AppKit, UIKit, WebAssembly, Web, headless frontends.
 - [fermoya/SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Native Pager in SwiftUI
 - [CombineCommunity/RxCombine](https://github.com/CombineCommunity/RxCombine) - Bi-directional type bridging between RxSwift and Apple's Combine framework
 - [inket/MacSymbolicator](https://github.com/inket/MacSymbolicator) - Symbolicating macOS/iOS crash reports, easily.
@@ -8887,6 +8892,8 @@
 
 ## others 
 
+- [colbytimm/nix-config](https://github.com/colbytimm/nix-config) - ✨ Nix configuration for macOS ✨
+- [mackid1993/Barometer](https://github.com/mackid1993/Barometer) - 
 - [scheme/scsh](https://github.com/scheme/scsh) - A Unix shell embedded in scheme
 - [yashi/quilt](https://github.com/yashi/quilt) - This is a clone of Quilt, a tool to work with series of patches.  The official site is at GNU Savannah.
 - [obinexus/mmuko-boot](https://github.com/obinexus/mmuko-boot) - MMUKO Boot Sequence
@@ -9483,7 +9490,7 @@
 - [Backblaze/blazer](https://github.com/Backblaze/blazer) - A Go library for Backblaze's B2.
 - [YubicoLabs/YubiKit-iOS-Starter](https://github.com/YubicoLabs/YubiKit-iOS-Starter) - iOS Swift starter app integrated with Yubico SDK for iOS
 - [apple/pir-service-example](https://github.com/apple/pir-service-example) - Example PIR service & documentation for Live Caller ID Lookup & NEURLFilter
-- [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
+- [apple-aiml-research/ml-depth-pro](https://github.com/apple-aiml-research/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [mvasilkov/board2024](https://github.com/mvasilkov/board2024) - King Thirteen for js13kGames–2024: Triskaidekaphobia
 - [shibatch/sleef](https://github.com/shibatch/sleef) - SIMD Library for Evaluating Elementary Functions, vectorized libm and DFT
@@ -10011,7 +10018,7 @@
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
 - [jordibruin/FromScratch](https://github.com/jordibruin/FromScratch) - A simple app to reset your macOS app permissions
 - [FrameworkComputer/ExpansionBay](https://github.com/FrameworkComputer/ExpansionBay) - CAD and documentation for the Expansion Bay module system in the Framework Laptop 16
-- [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
+- [apple-aiml-research/ml-ane-transformers](https://github.com/apple-aiml-research/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
 - [johnpatrickmorgan/NavigationBackport](https://github.com/johnpatrickmorgan/NavigationBackport) - Backported SwiftUI navigation APIs introduced in WWDC22
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [mathieudutour/timezone-butler](https://github.com/mathieudutour/timezone-butler) - ⏰🤵 A Slack butler who will take care of the timezone differences in your team.
@@ -10353,7 +10360,7 @@
 - [julianfssen/tweetkit](https://github.com/julianfssen/tweetkit) - ⚠️ WIP: Twitter v2 API client for Ruby
 - [kkaempf/ruida](https://github.com/kkaempf/ruida) - Decoder and tooling for the RDWorks .rd file format
 - [fadden/6502bench](https://github.com/fadden/6502bench) - A workbench for developing 6502 code.
-- [apple/ml-fct](https://github.com/apple/ml-fct) - Research publication code for "Forward Compatible Training for Large-Scale Embedding Retrieval Systems", CVPR 2022, and "FastFill: Efficient Compatible Model Update", ICLR 2023
+- [apple-aiml-research/ml-fct](https://github.com/apple-aiml-research/ml-fct) - Research publication code for "Forward Compatible Training for Large-Scale Embedding Retrieval Systems", CVPR 2022, and "FastFill: Efficient Compatible Model Update", ICLR 2023
 - [sparkfunX/Satellite_Transceiver_Breakout__Swarm_M138](https://github.com/sparkfunX/Satellite_Transceiver_Breakout__Swarm_M138) - Satellite Transceiver Breakout - Swarm M138
 - [FrameworkComputer/ExpansionCards](https://github.com/FrameworkComputer/ExpansionCards) - Reference designs and documentation to create Expansion Cards for the Framework Laptop
 - [madzen/LazarusTools](https://github.com/madzen/LazarusTools) - Toolkit for the game Vampire The Masquerade: Bloodlines
@@ -11007,7 +11014,7 @@
 - [cx-org/CombineX](https://github.com/cx-org/CombineX) - Open source implementation of Apple's Combine
 - [getsentry/action-release](https://github.com/getsentry/action-release) - GitHub Action for creating a release on Sentry
 - [getsentry/sentry-round-robin](https://github.com/getsentry/sentry-round-robin) - Sample internal integration for Sentry that assigns new issues to users, round-robin style
-- [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio) - virtio implementation
+- [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio) - This is a public archive. The code now lives in the mono-repo: https://github.com/rust-vmm/rust-vmm/
 - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
 - [keyboardio/keyswitch_documentation](https://github.com/keyboardio/keyswitch_documentation) - A shared public repository of datasheets and other public documentation of keyswitches, both current and historical
 - [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) - SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
@@ -11686,7 +11693,7 @@
 - [openbmc/openbmc-tools](https://github.com/openbmc/openbmc-tools) - Collection of useful tools to interact with openbmc
 - [google-research/swift-tfp](https://github.com/google-research/swift-tfp) - Find shape errors before you run your code!
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
-- [docsydev/docsy](https://github.com/docsydev/docsy) - Hugo theme for open source documentation
+- [docsy/docsy](https://github.com/docsy/docsy) - Hugo theme for open source documentation
 - [twostraws/SwiftGD](https://github.com/twostraws/SwiftGD) - A simple Swift wrapper for libgd
 - [usbarmory/interlock](https://github.com/usbarmory/interlock) - INTERLOCK - file encryption and HSM front-end
 - [usbarmory/mxs-dcp](https://github.com/usbarmory/mxs-dcp) - NXP Data Co-Processor (DCP) - Linux driver
@@ -14868,7 +14875,6 @@
 - [sutajiokousagi/netv-android](https://github.com/sutajiokousagi/netv-android) - Android app for NeTV
 - [sutajiokousagi/netv-recovery](https://github.com/sutajiokousagi/netv-recovery) - Standalone recovery mode for NeTV
 - [sutajiokousagi/netv-controlpanel](https://github.com/sutajiokousagi/netv-controlpanel) - Control Panel UI for NeTV product
-- [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [liftoff/GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
 - [Paratron/SimpLESS](https://github.com/Paratron/SimpLESS) - A simple LESS compiler for Windows and mac
 - [nathanmarz/storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
@@ -15565,7 +15571,7 @@
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [aceinnolab/Inkycal](https://github.com/aceinnolab/Inkycal) - Create awesome e-paper dashboards within minutes! Modularity? Check! Python3? Check? Works on Raspberry Pi Zero W? Check! Support for own modules? Check!
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [FPGA-Research/FABulous](https://github.com/FPGA-Research/FABulous) - An easy-to-use, silicon-proven (e)FPGA generator with an integrated CAD toolchain 🏗️
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
@@ -16096,7 +16102,7 @@
 - [todbot/Blink1Control2](https://github.com/todbot/Blink1Control2) - Blink1Control GUI to control blink(1) USB RGB LED devices.
 - [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) - Server for the MusicBrainz project (website, API, database tools)
 - [ekzhang/composing.studio](https://github.com/ekzhang/composing.studio) - Collaborative music composition for everyone.
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
@@ -16949,7 +16955,7 @@
 - [jmarmorato/Intranet-Home-Page](https://github.com/jmarmorato/Intranet-Home-Page) - Intranet Home Page is a highly-configurable self-hosted browser homepage with integrations for public and local data feeds.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [grocy/grocy-docker](https://github.com/grocy/grocy-docker) - [Outdated/Archived] Community contributed Docker container for https://github.com/grocy/grocy
@@ -17694,7 +17700,7 @@
 - [SwiftDocOrg/Swift-Semantic-Icons](https://github.com/SwiftDocOrg/Swift-Semantic-Icons) - Icons used by swift-doc to represent Swift code symbols.
 - [akeru-inc/xcnotary](https://github.com/akeru-inc/xcnotary) - the missing macOS app notarization helper, built with Rust
 - [Kharauzov/SwipeableCards](https://github.com/Kharauzov/SwipeableCards) - Demonstration of draggable transition for UIViewController with swipeable UICollectionView cells inside.
-- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift
+- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator library in Swift with AppKit, UIKit, WebAssembly, Web, headless frontends.
 - [SwiftDocOrg/GraphViz](https://github.com/SwiftDocOrg/GraphViz) - A Swift package for working with GraphViz
 - [FlineDev/AnyLint](https://github.com/FlineDev/AnyLint) - Lint anything by combining the power of scripts & regular expressions.
 - [migueldeicaza/TermKit](https://github.com/migueldeicaza/TermKit) - Terminal Kit - Console UI toolkit for Swift applications
@@ -18058,6 +18064,7 @@
 - [onevcat/FengNiao](https://github.com/onevcat/FengNiao) - A command line tool for cleaning unused resources in Xcode.
 - [patchthecode/JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable
 - [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect) - Legacy Perfect - Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [1amageek/Bleu](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U🎁 Bleu is the best in the Bluetooth library.
 - [efremidze/Magnetic](https://github.com/efremidze/Magnetic) - SpriteKit Floating Bubble Picker (inspired by Apple Music) 🧲
 - [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QRCode in Swift, support iOS, macOS, watchOS, tvOS, and/or visionOS.
@@ -18332,6 +18339,7 @@
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) - SwiftUI 2.0 Cheat Sheet
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [iziz/libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS) - iOS port of Google's libphonenumber with Objective-C core, Swift facade, SwiftUI input, and CocoaPods/SPM support
 - [ashchan/mail-notifr](https://github.com/ashchan/mail-notifr) - Mail Notifr - Gmail Notifier for macOS
 
@@ -19296,6 +19304,7 @@
 - [schollz/hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [sindresorhus/bower-components](https://github.com/sindresorhus/bower-components) - [DEPRECATED] Site to discover Bower components
+- [foundation/yeti](https://github.com/foundation/yeti) - A CSS-first, native, zero-build layout and styling framework for web designers.
 
 ## windows 
 
