@@ -2624,6 +2624,7 @@
 
 ## Go 
 
+- [picosh/patchbin](https://github.com/picosh/patchbin) - A pastebin for patches, supercharged for git collaboration
 - [Parallels/terraform-provider-parallels-desktop](https://github.com/Parallels/terraform-provider-parallels-desktop) - 
 - [twilio/twilio-go](https://github.com/twilio/twilio-go) - A Go package for communicating with the Twilio API.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
@@ -2715,7 +2716,7 @@
 - [plunder-app/plunder](https://github.com/plunder-app/plunder) - A Modern automation platform
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [Backblaze/blazer](https://github.com/Backblaze/blazer) - A Go library for Backblaze's B2.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [macstadium/packer-plugin-macstadium-orka](https://github.com/macstadium/packer-plugin-macstadium-orka) - Builder for Orka in MacStadium. (originally https://github.com/AndrewFarley/packer-builder-macstadium-orka )
 - [tedpearson/edf-importer](https://github.com/tedpearson/edf-importer) - Tool to import .edf files (particularly from CPAP machines) to influxdb or victoriametrics.
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
@@ -2731,7 +2732,7 @@
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [token2/authy-migration](https://github.com/token2/authy-migration) - Migrating from Authy to Token2 hardware tokens or alternative TOTP Apps, including WinAuth or Raivo OTP
 - [caddyserver/pkl-adapter](https://github.com/caddyserver/pkl-adapter) - Configure Caddy with Pkl format
-- [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
+- [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: The Golden Swiss Army Knife for markdown processing. 100% CommonMark compliant, AST w/ CST, Extensible, Fast, CJK-friendly.
 - [Vanilla-OS/Prometheus](https://github.com/Vanilla-OS/Prometheus) - Prometheus is a simple and accessible library for pulling and mounting container images. It is designed to be used as a dependency in ABRoot and Albius.
 - [apple/pkl-go-examples](https://github.com/apple/pkl-go-examples) - Examples for using Pkl within Go applications
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is an experimental/abandoned GPU rendered terminal emulator designed for tiling window managers.
@@ -4599,7 +4600,6 @@
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [novus/nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 - [NeilFraser/JS-Interpreter](https://github.com/NeilFraser/JS-Interpreter) - A sandboxed JavaScript interpreter in JavaScript.
-- [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [Ericsson/exchangecalendar](https://github.com/Ericsson/exchangecalendar) - Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider.
 - [mbostock/solar-calculator](https://github.com/mbostock/solar-calculator) - Equations for computing the position of the Sun.
@@ -4905,6 +4905,7 @@
 
 ## Lua 
 
+- [mrjones2014/op.nvim](https://github.com/mrjones2014/op.nvim) - 🔑 1Password for Neovim! Built using the 1Password CLI, Go, and Lua.
 - [xvzc/chezmoi.nvim](https://github.com/xvzc/chezmoi.nvim) - A neovim plugin for chezmoi
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
@@ -5677,6 +5678,7 @@
 
 ## Others 
 
+- [marc2o/Neovide-macOS-Icon](https://github.com/marc2o/Neovide-macOS-Icon) - Alternative app icon for the Neovide neovim front-end.
 - [michaelbrusegard/awesome-wezterm](https://github.com/michaelbrusegard/awesome-wezterm) - Collections of awesome WezTerm plugins.
 - [os-fpga/open-source-fpga-resource](https://github.com/os-fpga/open-source-fpga-resource) - A list of resources related to the open-source FPGA projects
 - [jimeh/emacs-builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support.
@@ -6278,7 +6280,6 @@
 - [dwillis/nyc-maps](https://github.com/dwillis/nyc-maps) - Maps of New York City geodata
 - [openelections/openelections-data-va](https://github.com/openelections/openelections-data-va) - Pre-processed election results for Virginia
 - [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules and examples.
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [gergo-/missed-optimizations](https://github.com/gergo-/missed-optimizations) - Missed optimizations in C compilers
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [jgraph/drawio-diagrams](https://github.com/jgraph/drawio-diagrams) - Diagrams for draw.io
@@ -7656,7 +7657,7 @@
 - [mkeeter/kokopelli](https://github.com/mkeeter/kokopelli) - Script-based CAD/CAM in Python (deprecated)
 - [TheBeachLab/alphabets](https://github.com/TheBeachLab/alphabets) - Open Source Mechanical Split Flap Display, AKA Solari display
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
+- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python (Boto3)
 - [boto/botocore](https://github.com/boto/botocore) - The low-level, core functionality of boto3 and the AWS CLI.
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
 - [nate-parrott/Flashlight](https://github.com/nate-parrott/Flashlight) - The missing Spotlight plugin system
@@ -7994,6 +7995,7 @@
 - [openjournals/joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
 - [ashkan18/graphlient](https://github.com/ashkan18/graphlient) - Ruby GraphQL Client
 - [fastlane-community/xcov](https://github.com/fastlane-community/xcov) - Nice code coverage reporting without hassle
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [flyerhzm/bullet](https://github.com/flyerhzm/bullet) - help to kill N+1 queries and unused eager loading
 - [yorickpeterse/oga](https://github.com/yorickpeterse/oga) - Oga is an XML/HTML parser written in Ruby.
 - [rails/webpacker](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails
@@ -11378,6 +11380,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [kiswa/TaskBoard](https://github.com/kiswa/TaskBoard) - A Kanban-inspired app for keeping track of things that need to get done. (Don't forget to read the Wiki page!)
+- [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
 - [NarrativeScience-old/log.io](https://github.com/NarrativeScience-old/log.io) - Real-time log monitoring in your browser
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
@@ -11597,6 +11600,7 @@
 
 ## Zig 
 
+- [jedisct1/turbocrypt](https://github.com/jedisct1/turbocrypt) - A fast, easy-to-use, and secure command-line tool for encrypting and decrypting files , git repositories and directory trees.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps
 - [NishantJoshi00/flipper-template](https://github.com/NishantJoshi00/flipper-template) - 
