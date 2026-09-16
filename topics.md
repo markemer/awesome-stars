@@ -509,6 +509,7 @@
 
 ## android 
 
+- [codemagic-ci-cd/cli-tools](https://github.com/codemagic-ci-cd/cli-tools) - Various utilities to managing Android and iOS app builds, code signing, and deployment.
 - [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) - A meticulous HTTP client for the JVM, Android, and GraalVM.
@@ -1295,6 +1296,7 @@
 
 ## bash 
 
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (https://gogh-co.githu
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, s
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
@@ -2387,7 +2389,7 @@
 - [ZigRazor/CXXStateTree](https://github.com/ZigRazor/CXXStateTree) - A C++ Header-Only Hierarchical State Tree Library
 - [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) - State-of-the-art virtual machine detection
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
-- [isuckatcs/how-to-compile-your-language](https://github.com/isuckatcs/how-to-compile-your-language) - An introduction to language design through building a compiler frontend and completing a self-paced exercise on top of LLVM.
+- [isuckatcs/how-to-compile-your-language](https://github.com/isuckatcs/how-to-compile-your-language) - An introduction to language design through building a compiler frontend on top of LLVM.
 - [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book) - A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level langu
 - [cortexm/baremetal](https://github.com/cortexm/baremetal) - ARM Cortex-M bare-metal example code in C++ and CMake build
 - [mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.
@@ -3105,6 +3107,7 @@
 
 ## devops 
 
+- [codemagic-ci-cd/cli-tools](https://github.com/codemagic-ci-cd/cli-tools) - Various utilities to managing Android and iOS app builds, code signing, and deployment.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [macstadium/packer-plugin-macstadium-orka](https://github.com/macstadium/packer-plugin-macstadium-orka) - Builder for Orka in MacStadium. (originally https://github.com/AndrewFarley/packer-builder-macstadium-orka )
 - [nanovms/ops-examples](https://github.com/nanovms/ops-examples) - A repository of basic and advanced examples using Ops
@@ -5575,6 +5578,8 @@
 
 ## ios 
 
+- [codemagic-ci-cd/cli-tools](https://github.com/codemagic-ci-cd/cli-tools) - Various utilities to managing Android and iOS app builds, code signing, and deployment.
+- [TheAcharya/XLKit](https://github.com/TheAcharya/XLKit) - A modern Swift library for creating Excel (.xlsx) files on macOS with image embedding
 - [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
 - [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - Native SVG parser and renderer for SwiftUI, UIKit and AppKit, with tools for PNG, PDF, SF Symbols and Swift source.
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
@@ -6856,7 +6861,7 @@
 
 ## languages 
 
-- [isuckatcs/how-to-compile-your-language](https://github.com/isuckatcs/how-to-compile-your-language) - An introduction to language design through building a compiler frontend and completing a self-paced exercise on top of LLVM.
+- [isuckatcs/how-to-compile-your-language](https://github.com/isuckatcs/how-to-compile-your-language) - An introduction to language design through building a compiler frontend on top of LLVM.
 - [kitzeller/barbara](https://github.com/kitzeller/barbara) - A virtual machine for creating visual live coding languages
 - [analang/como-lang-ng](https://github.com/analang/como-lang-ng) - como-lang-ng is now ana-lang, located at https://github.com/analang/ana
 
@@ -7009,6 +7014,7 @@
 
 ## linux 
 
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (https://gogh-co.githu
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -7487,6 +7493,7 @@
 
 ## macos 
 
+- [TheAcharya/XLKit](https://github.com/TheAcharya/XLKit) - A modern Swift library for creating Excel (.xlsx) files on macOS with image embedding
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
@@ -8146,6 +8153,7 @@
 
 ## mobile 
 
+- [codemagic-ci-cd/cli-tools](https://github.com/codemagic-ci-cd/cli-tools) - Various utilities to managing Android and iOS app builds, code signing, and deployment.
 - [apache/cordova-lib](https://github.com/apache/cordova-lib) - Apache Cordova Tooling Library
 - [apache/cordova-cli](https://github.com/apache/cordova-cli) - Apache Cordova CLI
 - [js13kGames/king-thirteen](https://github.com/js13kGames/king-thirteen) - King Thirteen — a js13kGames 2024 game by @mvasilkov.
@@ -17058,6 +17066,7 @@
 
 ## shell 
 
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (https://gogh-co.githu
 - [suewonjp/tclsh-wrapper](https://github.com/suewonjp/tclsh-wrapper) - A tiny wrapper for Tcl/Tk's tclsh and wish
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -17309,6 +17318,7 @@
 
 ## swift 
 
+- [TheAcharya/XLKit](https://github.com/TheAcharya/XLKit) - A modern Swift library for creating Excel (.xlsx) files on macOS with image embedding
 - [vapor/toolbox](https://github.com/vapor/toolbox) - 🧰 A CLI tool to easily create new Vapor projects.
 - [ryzenixx/proxmoxbar-macos](https://github.com/ryzenixx/proxmoxbar-macos) - Control and monitor your Proxmox VE servers from the macOS menu bar
 - [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
@@ -18414,6 +18424,7 @@
 
 ## terminal 
 
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (https://gogh-co.githu
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
