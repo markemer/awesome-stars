@@ -264,7 +264,7 @@
 - [Xkeeper0/smb2](https://github.com/Xkeeper0/smb2) - Super Mario Bros. 2, discombobulated
 - [richardjrossiii/iOSAppInAssembly](https://github.com/richardjrossiii/iOSAppInAssembly) - An iOS app in assembly
 - [corsix/pigz](https://github.com/corsix/pigz) - Optimised x86-64 gzip decompressor
-- [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.
+- [openhwfoundation/cva6](https://github.com/openhwfoundation/cva6) - The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.
 - [dwelch67/raspberrypi](https://github.com/dwelch67/raspberrypi) - Raspberry Pi ARM based bare metal examples
 - [Apress/low-level-programming](https://github.com/Apress/low-level-programming) - Source code for 'Low-Level Programming' by Igor Zhirkov
 - [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
@@ -1698,7 +1698,6 @@
 - [Jyers/Marlin](https://github.com/Jyers/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
 - [Norbyte/ositools](https://github.com/Norbyte/ositools) - Advanced scripting and mod support for Divinity Original Sin 2
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [tihmstar/img4tool](https://github.com/tihmstar/img4tool) - A tool for manipulating IMG4, IM4M and IM4P files
 - [CoatiSoftware/SourcetrailDB](https://github.com/CoatiSoftware/SourcetrailDB) - Library to export Sourcetrail compatible database files for writing custom indexers
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
@@ -2441,7 +2440,7 @@
 ## Cuda 
 
 - [philipfabianek/ptx-playground](https://github.com/philipfabianek/ptx-playground) - A simple environment for writing and experimenting with hand-written CUDA PTX kernels.
-- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM1](https://github.com/HigherOrderCO/HVM1) - HVM1 (2022): a massively parallel, optimal functional runtime in Rust
 - [gpufs/gpufs](https://github.com/gpufs/gpufs) - GPUfs - File system support for NVIDIA GPUs
 
 ## Cython 
@@ -2517,6 +2516,7 @@
 - [dashbitco/nimble_publisher](https://github.com/dashbitco/nimble_publisher) - A minimal filesystem-based publishing engine with Markdown support and code highlighting
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language.
+- [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 - [leesharma/metaprogramming_elixir](https://github.com/leesharma/metaprogramming_elixir) - My notes and exercise solutions for Metaprogramming Elixir. This book was read as part of the DC Elixir Bookclub.
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
@@ -3350,7 +3350,7 @@
 - [Wheels35/CultoftheLamb](https://github.com/Wheels35/CultoftheLamb) - This is a collection of basic instructions for editing your unecrypted save game file.
 - [pentalex/COTL-SaveDecryptor](https://github.com/pentalex/COTL-SaveDecryptor) - Site to decrypt save files for modification in the game Cult of the Lamb
 - [Spirit-of-Oberon/wirth-personal](https://github.com/Spirit-of-Oberon/wirth-personal) - This is mirror of
-- [isuckatcs/how-to-compile-your-language](https://github.com/isuckatcs/how-to-compile-your-language) - An introduction to language design through building a compiler frontend and completing a self-paced exercise on top of LLVM.
+- [isuckatcs/how-to-compile-your-language](https://github.com/isuckatcs/how-to-compile-your-language) - An introduction to language design through building a compiler frontend on top of LLVM.
 - [cookiengineer/cookie.engineer](https://github.com/cookiengineer/cookie.engineer) - :construction: My static website dump, for the lulz and interwebz. Not for 4/8 chan though.
 - [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
 - [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website.
@@ -5772,7 +5772,6 @@
 - [swiftlang/swift-community-hosted-continuous-integration](https://github.com/swiftlang/swift-community-hosted-continuous-integration) - Swift Community-Hosted Continuous Integration
 - [beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
 - [ThingLabsOSS/wiki](https://github.com/ThingLabsOSS/wiki) - Collection of general information about the Spotify CarThing and the various ways in which it can be modified
-- [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [sts10/rust-command-line-utilities](https://github.com/sts10/rust-command-line-utilities) - A curated list of command-line utilities written in Rust
 - [nlimper/Mini-AP-v4](https://github.com/nlimper/Mini-AP-v4) - Universal ESP32-C6 and ESP32-S3 based access point, usable as IEEE 802.15.4 &lt;-&gt; WiFi gateway and as OpenEpaperlink AP
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
@@ -6680,6 +6679,8 @@
 
 ## Python 
 
+- [Amourspirit/python_libre_pythonista_ext](https://github.com/Amourspirit/python_libre_pythonista_ext) - 
+- [codemagic-ci-cd/cli-tools](https://github.com/codemagic-ci-cd/cli-tools) - Various utilities to managing Android and iOS app builds, code signing, and deployment.
 - [djeada/Qt-Widgets](https://github.com/djeada/Qt-Widgets) - A collection of examples and reusable elements created with Qt6 widgets.
 - [fzakaria/selfdb](https://github.com/fzakaria/selfdb) - 
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
@@ -7574,7 +7575,7 @@
 - [alexa-pi/AlexaPi](https://github.com/alexa-pi/AlexaPi) - Alexa client for all your devices! # No active development. PRs welcome # consider https://github.com/respeaker/avs instead
 - [initialstate/pi-process-dashboard](https://github.com/initialstate/pi-process-dashboard) - How to remotely monitor your Raspberry Pi processes and IP addresses
 - [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
-- [dit/dit](https://github.com/dit/dit) - Python package for information theory.
+- [dit/dit](https://github.com/dit/dit) - **dit** is a Python package for information theory.
 - [awslabs/route53-dynamic-dns-with-lambda](https://github.com/awslabs/route53-dynamic-dns-with-lambda) - A Dynamic DNS system built with API Gateway, Lambda & Route 53.
 - [intelxed/xed](https://github.com/intelxed/xed) - The X86 Encoder Decoder (XED), is a software library for encoding and decoding X86 (IA32 and Intel64) instructions
 - [leegao/readme2tex](https://github.com/leegao/readme2tex) - Renders TeXy Math for Github Readme - No longer needed with official MathTex support on GH
@@ -8344,7 +8345,6 @@
 - [dalance/amber](https://github.com/dalance/amber) - A code search / replace tool
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica) - Symbolica is a high-performance computer algebra library for Python and Rust. Manipulate large expressions, match patterns, and generate optimized numerical code — at unprecedented speed.
 - [ALSchwalm/pISO](https://github.com/ALSchwalm/pISO) - Hardware and software source for the pISO
@@ -8451,6 +8451,7 @@
 - [JuliaLang/juliaup](https://github.com/JuliaLang/juliaup) - Julia installer and version manager
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [redox-os/tfs](https://github.com/redox-os/tfs) - Mirror of https://gitlab.redox-os.org/redox-os/tfs
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
@@ -8764,6 +8765,7 @@
 
 ## Shell 
 
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (https://gogh-co.githu
 - [yashi/quilt](https://github.com/yashi/quilt) - This is a clone of Quilt, a tool to work with series of patches.  The official site is at GNU Savannah.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -9135,6 +9137,8 @@
 
 ## Swift 
 
+- [apple/xcode-project-format](https://github.com/apple/xcode-project-format) - A Swift library for reading, writing, and manipulating Xcode's JSON-based project.xcproj format.
+- [TheAcharya/XLKit](https://github.com/TheAcharya/XLKit) - A modern Swift library for creating Excel (.xlsx) files on macOS with image embedding
 - [mackid1993/Barometer](https://github.com/mackid1993/Barometer) - 
 - [scastiel/kado](https://github.com/scastiel/kado) - Kadō — A privacy-first habit tracker for iPhone and iPad.
 - [sfsam/Nvmm](https://github.com/sfsam/Nvmm) - Neovim GUI for Mac
@@ -9789,7 +9793,6 @@
 - [KhaosT/SimpleVM](https://github.com/KhaosT/SimpleVM) - Sample code for Virtualization framework
 - [SFSafeSymbols/SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
 - [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - 📅 Calendar for Apple platforms in Swift
-- [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
 - [swift-server/swift-service-lifecycle](https://github.com/swift-server/swift-service-lifecycle) - Cleanly startup and shutdown server application, freeing resources in order before exiting.
 - [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
 - [swiftlang/swift-tools-support-core](https://github.com/swiftlang/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
@@ -10803,10 +10806,10 @@
 - [baochip/baochip-1x](https://github.com/baochip/baochip-1x) - Baochip 1x Silicon
 - [pulp-platform/common_cells](https://github.com/pulp-platform/common_cells) - Common SystemVerilog components
 - [pulp-platform/tech_cells_generic](https://github.com/pulp-platform/tech_cells_generic) - Technology dependent cells instantiated in the design for generic process (simulation, FPGA)
-- [openhwgroup/cv32e40x](https://github.com/openhwgroup/cv32e40x) - 4 stage, in-order, compute RISC-V core based on the CV32E40P
+- [openhwfoundation/cv32e40x](https://github.com/openhwfoundation/cv32e40x) - 4 stage, in-order, compute RISC-V core based on the CV32E40P
 - [mole99/greyhound-ihp](https://github.com/mole99/greyhound-ihp) - Greyhound on IHP SG13G2 0.13 μm BiCMOS process
 - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
-- [openhwgroup/cvw](https://github.com/openhwgroup/cvw) - CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches,
+- [openhwfoundation/cvw](https://github.com/openhwfoundation/cvw) - CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches,
 - [azonenberg/starshipraider](https://github.com/azonenberg/starshipraider) - Open hardware test equipment
 - [projf/projf-explore](https://github.com/projf/projf-explore) - Project F brings FPGAs to life with exciting open-source designs you can build on.
 - [verilator/verilator](https://github.com/verilator/verilator) - Verilator open-source SystemVerilog simulator and lint system
@@ -10816,13 +10819,13 @@
 - [lowRISC/opentitan](https://github.com/lowRISC/opentitan) - OpenTitan: Open source silicon root of trust
 - [syntacore/scr1](https://github.com/syntacore/scr1) - SCR1 is a high-quality open-source RISC-V MCU core in Verilog
 - [chipsalliance/Cores-VeeR-EH1](https://github.com/chipsalliance/Cores-VeeR-EH1) - VeeR EH1 core
-- [openhwgroup/cvfpu](https://github.com/openhwgroup/cvfpu) - Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.
+- [openhwfoundation/cvfpu](https://github.com/openhwfoundation/cvfpu) - Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.
 - [pulp-platform/bigpulp](https://github.com/pulp-platform/bigpulp) - ⛔ DEPRECATED ⛔ RISC-V manycore accelerator for HERO, bigPULP hardware platform
 - [westerndigitalcorporation/swerv_eh1](https://github.com/westerndigitalcorporation/swerv_eh1) - A directory of Western Digital’s RISC-V SweRV Cores
 - [MiSTer-devel/NES_MiSTer](https://github.com/MiSTer-devel/NES_MiSTer) - 
 - [pulp-platform/pulpissimo](https://github.com/pulp-platform/pulpissimo) - This is the top-level project for the PULPissimo Platform. It instantiates a PULPissimo open-source system with a PULP SoC domain, but no cluster.
 - [lowRISC/socip](https://github.com/lowRISC/socip) - Collection of IP cores usable to lowRISC SoC
-- [openhwgroup/cv32e40p](https://github.com/openhwgroup/cv32e40p) - CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform
+- [openhwfoundation/cv32e40p](https://github.com/openhwfoundation/cv32e40p) - CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform
 - [RoaLogic/RV12](https://github.com/RoaLogic/RV12) - RISC-V CPU Core
 - [lowRISC/lowrisc-chip](https://github.com/lowRISC/lowrisc-chip) - The root repo for lowRISC project and FPGA demos.
 - [aws/aws-fpga](https://github.com/aws/aws-fpga) - Official repository of the AWS EC2 FPGA Hardware and Software Development Kit
@@ -10849,6 +10852,7 @@
 - [efabless/foss-asic-tools](https://github.com/efabless/foss-asic-tools) - FOSS-ASIC-TOOLS is all in one container for SKY130 based design both Analog and Digital. Below is a list of the current tools already installed and ready to use.
 - [Xilinx/XilinxTclStore](https://github.com/Xilinx/XilinxTclStore) - Xilinx Tcl Store
 - [westonb/open-pmic](https://github.com/westonb/open-pmic) - A current mode buck converter on the SKY130 PDK
+- [analogdevicesinc/hdl](https://github.com/analogdevicesinc/hdl) - HDL libraries and projects
 - [schoeberl/chisel-examples](https://github.com/schoeberl/chisel-examples) - Chisel examples and code snippets
 - [westerndigitalcorporation/swerv_eh1_fpga](https://github.com/westerndigitalcorporation/swerv_eh1_fpga) - FPGA reference design for the the Swerv EH1 Core
 - [level44/design-patterns-in-tcl](https://github.com/level44/design-patterns-in-tcl) - A collection of popular design patterns implemented in TCL language with TclOO package
@@ -11032,6 +11036,7 @@
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Pyramids of map tiles in a single file on static storage
 - [serverlessmaps/serverlessmaps](https://github.com/serverlessmaps/serverlessmaps) - Creating and hosting serverless maps
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 - [srt4rulez/fallout-new-vegas-interactive-map](https://github.com/srt4rulez/fallout-new-vegas-interactive-map) - An interactive map of the Mojave Wasteland in Fallout: New Vegas.
 - [darkf/darkfo](https://github.com/darkf/darkfo) - DarkFO, a post-nuclear RPG remake (of Fallout 2)
 - [League-of-Foundry-Developers/foundry-vtt-types](https://github.com/League-of-Foundry-Developers/foundry-vtt-types) - Unofficial type declarations for the Foundry Virtual Tabletop API
@@ -11491,7 +11496,6 @@
 - [StefanSchippers/xschem_sky130](https://github.com/StefanSchippers/xschem_sky130) - XSCHEM symbol libraries for the Google-Skywater 130nm process design kit.
 - [efabless/caravel_mpw-one](https://github.com/efabless/caravel_mpw-one) - Caravel is a standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space.
 - [AndresNavarro82/vt52-fpga](https://github.com/AndresNavarro82/vt52-fpga) - 
-- [analogdevicesinc/hdl](https://github.com/analogdevicesinc/hdl) - HDL libraries and projects
 - [1801BM1/vm80a](https://github.com/1801BM1/vm80a) - i8080 precise replica in Verilog, based on reverse engineering of real die
 - [chipsalliance/aib-phy-hardware](https://github.com/chipsalliance/aib-phy-hardware) - Advanced Interface Bus (AIB) die-to-die hardware open source
 - [The-OpenROAD-Project/OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) - OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/
