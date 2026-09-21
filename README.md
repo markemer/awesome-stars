@@ -342,6 +342,7 @@
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [Xinyuan-LilyGO/LilyGo-EPD47](https://github.com/Xinyuan-LilyGO/LilyGo-EPD47) - 
 - [Xinyuan-LilyGO/T-Embed-CC1101](https://github.com/Xinyuan-LilyGO/T-Embed-CC1101) - 
+- [tsupplis/cpm86-crossdev](https://github.com/tsupplis/cpm86-crossdev) - CP/M-86 cross development environment
 - [rokudev/lt-sdk](https://github.com/rokudev/lt-sdk) - 
 - [MicrochipTech/fpga-hls-examples](https://github.com/MicrochipTech/fpga-hls-examples) - Open-Source HLS Examples for Microchip FPGAs
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple DirectMedia Layer
@@ -934,7 +935,6 @@
 - [intel/libipt](https://github.com/intel/libipt) - libipt - an Intel(R) Processor Trace decoder library
 - [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
 - [raspberrypi/hats](https://github.com/raspberrypi/hats) - 
-- [ohler55/ox](https://github.com/ohler55/ox) - Ruby Optimized XML Parser
 - [Neopallium/llvm-lua](https://github.com/Neopallium/llvm-lua) - Automatically exported from code.google.com/p/llvm-lua
 - [google/google-authenticator-libpam](https://github.com/google/google-authenticator-libpam) - Google Authenticator PAM module
 - [madler/pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
@@ -1300,7 +1300,7 @@
 - [FabianFG/CUE4Parse](https://github.com/FabianFG/CUE4Parse) - 
 - [CrystalFerrai/UeSaveGame](https://github.com/CrystalFerrai/UeSaveGame) - A .NET library for reading and writing standard Unreal Engine save game files.
 - [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
-- [ValveResourceFormat/SteamAppInfo](https://github.com/ValveResourceFormat/SteamAppInfo) - Parser for appinfo.vdf and packageinfo.vdf files used by the Steam client
+- [xPaw/SteamAppInfo](https://github.com/xPaw/SteamAppInfo) - Parser for appinfo.vdf and packageinfo.vdf files used by the Steam client
 - [pdfforge/PDFCreator](https://github.com/pdfforge/PDFCreator) - PDFCreator - The free PDF Converter
 - [clawsoftware/clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions.
 - [OpenRakis/Spice86](https://github.com/OpenRakis/Spice86) - Reverse engineer and rewrite real mode DOS programs!
@@ -2356,7 +2356,6 @@
 - [sindresorhus/bower-components](https://github.com/sindresorhus/bower-components) - [DEPRECATED] Site to discover Bower components
 - [chromatic/modern_perl_book](https://github.com/chromatic/modern_perl_book) - Modern Perl: the book
 - [twitter-archive/recess](https://github.com/twitter-archive/recess) - A simple and attractive code quality tool for CSS built on top of LESS
-- [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://www.beautifulwebtype.com
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [redroot/holmes](https://github.com/redroot/holmes) - Holmes is stand-alone diagnostic CSS stylesheet that can highlight potentially invalid or erroneous HTML(5) markup by adding one class
 
@@ -2624,6 +2623,7 @@
 
 ## Go 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [picosh/patchbin](https://github.com/picosh/patchbin) - A pastebin for patches, supercharged for git collaboration
 - [Parallels/terraform-provider-parallels-desktop](https://github.com/Parallels/terraform-provider-parallels-desktop) - 
 - [twilio/twilio-go](https://github.com/twilio/twilio-go) - A Go package for communicating with the Twilio API.
@@ -3569,6 +3569,7 @@
 - [scotthmurray/d3-book](https://github.com/scotthmurray/d3-book) - Code examples for “Interactive Data Visualization for the Web”
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [umbrae/jsonlintdotcom](https://github.com/umbrae/jsonlintdotcom) - Source code for jsonlint.com
+- [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://www.beautifulwebtype.com
 - [sikuli/sikuli](https://github.com/sikuli/sikuli) - Sikuli's official repository on github. Ask questions or report bugs at http://launchpad.net/sikuli.
 
 ## Handlebars 
@@ -3951,7 +3952,6 @@
 - [lensvol/fl-masquerade](https://github.com/lensvol/fl-masquerade) - 
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [foundryvtt/dnd5e](https://github.com/foundryvtt/dnd5e) - An implementation of the 5th Edition game system for Foundry Virtual Tabletop (http://foundryvtt.com).
 - [xcesco/ic_launcher_exporter](https://github.com/xcesco/ic_launcher_exporter) - Script for Photoshop to create directly from a PSD file the collection of ic_launcher necessary for android applications developed by eclipse or android studio IDE.
@@ -4527,7 +4527,6 @@
 - [gembarrett/coconduct-builder](https://github.com/gembarrett/coconduct-builder) - An online tool for building a thorough and well-supported Code of Conduct specific to a community's online and/or offline environment.
 - [kbitdk/kbsslenforcer](https://github.com/kbitdk/kbsslenforcer) - Automatic security, browse encrypted
 - [guardian/scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [Lascorbe/CocoaConferences](https://github.com/Lascorbe/CocoaConferences) - List of conferences for iOS, visionOS, macOS, watchOS & tvOS developers
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [h2non/toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
@@ -6679,6 +6678,7 @@
 
 ## Python 
 
+- [freelawproject/courtlistener](https://github.com/freelawproject/courtlistener) - A fully-searchable and accessible archive of court data including growing repositories of opinions, oral arguments, judges, judicial financial records, and federal filings.
 - [Amourspirit/python_libre_pythonista_ext](https://github.com/Amourspirit/python_libre_pythonista_ext) - 
 - [codemagic-ci-cd/cli-tools](https://github.com/codemagic-ci-cd/cli-tools) - Various utilities to managing Android and iOS app builds, code signing, and deployment.
 - [djeada/Qt-Widgets](https://github.com/djeada/Qt-Widgets) - A collection of examples and reusable elements created with Qt6 widgets.
@@ -7623,6 +7623,7 @@
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [gutomaia/pyNES](https://github.com/gutomaia/pyNES) - Python programming for Nintendo 8 bits
 - [simonwagner/mergepbx](https://github.com/simonwagner/mergepbx) - script for merging XCode project files in git
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [mhagger/git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
@@ -7938,6 +7939,7 @@
 - [microsoft/macos-cookbook](https://github.com/microsoft/macos-cookbook) - A Chef cookbook used to provision macOS
 - [thisredone/rb](https://github.com/thisredone/rb) - Turns Ruby into a versatile command line utility
 - [superarts/swift-source-kit](https://github.com/superarts/swift-source-kit) - Swift source code helpers
+- [ohler55/ox](https://github.com/ohler55/ox) - Ruby Optimized XML Parser
 - [sirn/vagrant-xhyve](https://github.com/sirn/vagrant-xhyve) - Vagrant plugin for Xhyve. Work in progress.
 - [oldpatricka/vagrant-xhyve](https://github.com/oldpatricka/vagrant-xhyve) - An experimental xhyve/hyperkit provider for vagrant
 - [IBM-Swift/swift-buildpack](https://github.com/IBM-Swift/swift-buildpack) - IBM Cloud buildpack for Swift
@@ -8451,7 +8453,7 @@
 - [JuliaLang/juliaup](https://github.com/JuliaLang/juliaup) - Julia installer and version manager
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
+- [rui314/mold](https://github.com/rui314/mold) - mold 🦠: A Modern Linker in Rust 🦀
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [redox-os/tfs](https://github.com/redox-os/tfs) - Mirror of https://gitlab.redox-os.org/redox-os/tfs
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
@@ -8595,7 +8597,7 @@
 - [tessi/rpiet](https://github.com/tessi/rpiet) - The Piet interpreter written in Rust 🖼
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [kryptco/ssh-wire](https://github.com/kryptco/ssh-wire) - 
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style. (Now with support for macOS 26 Tahoe!)
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust
@@ -8771,7 +8773,6 @@
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [akshar001/Maypole_PCB](https://github.com/akshar001/Maypole_PCB) - Wireless file storage from anywhere
-- [tsupplis/cpm86-crossdev](https://github.com/tsupplis/cpm86-crossdev) - CP/M-86 cross development environment
 - [sfiorini/NordVPN-Wireguard](https://github.com/sfiorini/NordVPN-Wireguard) - A bash scripts that generates Wireguard configuration file for a NordVPN connection.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [ionic-team/capacitor-skills](https://github.com/ionic-team/capacitor-skills) - 
@@ -11110,6 +11111,7 @@
 - [cdklabs/markmac](https://github.com/cdklabs/markmac) - Embed program outputs in markdown
 - [cdklabs/cdk-pipelines-github](https://github.com/cdklabs/cdk-pipelines-github) - 
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [aws-samples/automated-iam-access-analyzer](https://github.com/aws-samples/automated-iam-access-analyzer) - 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
