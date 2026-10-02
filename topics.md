@@ -2678,7 +2678,7 @@
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [przemek83/volbx](https://github.com/przemek83/volbx) - Graphical tool for data manipulation written in C++/Qt.
 - [vincent-pradeilles/KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit is a library that provides the standard functions to manipulate data along with a call-syntax that relies on typed keypaths to make the call sites as short and clean as possible.
-- [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
+- [superdb/zui](https://github.com/superdb/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
@@ -10419,7 +10419,7 @@
 - [SKGleba/VitaDeploy](https://github.com/SKGleba/VitaDeploy) - Toolbox that makes homebrewing the PS Vita easier
 - [Scene-Collective/ps4-payload-repo](https://github.com/Scene-Collective/ps4-payload-repo) - Auto generates payloads and packages when they're updated
 - [macstadium/orka-integrations](https://github.com/macstadium/orka-integrations) - CI/CD Integrations for Orka by MacStadium
-- [brimdata/super](https://github.com/brimdata/super) - An analytics database that puts JSON and relational tables on equal footing
+- [superdb/super](https://github.com/superdb/super) - An analytics database that puts JSON and relational tables on equal footing
 - [AquaTerm/AquaTerm](https://github.com/AquaTerm/AquaTerm) - Mac OS X graphics terminal
 - [tuist/tuist-plugin-lint](https://github.com/tuist/tuist-plugin-lint) - A plugin that extends Tuist with SwiftLint functionalities.
 - [aolofsson/awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware) - List of awesome open source hardware tools, generators, and reusable designs
@@ -13687,7 +13687,7 @@
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [arecker/bennedetto](https://github.com/arecker/bennedetto) - the turn-based budget
-- [stevestreza/Relayout](https://github.com/stevestreza/Relayout) - Swift microframework for declaring Auto Layout constraints functionally
+- [sarahstreza/Relayout](https://github.com/sarahstreza/Relayout) - Swift microframework for declaring Auto Layout constraints functionally
 - [eddiezane/lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl
 - [krzysztofzablocki/KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - A micro-framework for observing file changes, both local and remote. Helpful in building developer tools.
 - [aws/aws-record-ruby](https://github.com/aws/aws-record-ruby) - Official repository for the aws-record gem, an abstraction for Amazon DynamoDB.
@@ -14685,7 +14685,7 @@
 - [BelkinWemo/Wemo-Discovery-SDK](https://github.com/BelkinWemo/Wemo-Discovery-SDK) - Belkin Wemo Digital Home Automation, Device Discovery & Control SDK for iOS Devices.
 - [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live) - For more information, please see http://smartos.org/  For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
 - [mrackwitz/MRProgress](https://github.com/mrackwitz/MRProgress) - Collection of iOS drop-in components to visualize progress
-- [stevestreza/DerpKit](https://github.com/stevestreza/DerpKit) - Objective-C categories and subclasses of things that should be in Foundation and other frameworks
+- [sarahstreza/DerpKit](https://github.com/sarahstreza/DerpKit) - Objective-C categories and subclasses of things that should be in Foundation and other frameworks
 - [nschum/Gitifier](https://github.com/nschum/Gitifier) - Git commit notifier for MacOSX
 - [jsvine/mplstyle](https://github.com/jsvine/mplstyle) - A simple API for setting matplotlib styles, as well as a repository of nice styles.
 - [oclint/oclint](https://github.com/oclint/oclint) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
