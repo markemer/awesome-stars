@@ -518,6 +518,7 @@
 
 ## android 
 
+- [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs
 - [codemagic-ci-cd/cli-tools](https://github.com/codemagic-ci-cd/cli-tools) - Various utilities to managing Android and iOS app builds, code signing, and deployment.
 - [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
@@ -1427,7 +1428,7 @@
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a 
 - [randrew/uxn32](https://github.com/randrew/uxn32) - Uxn emulator for Windows and Wine
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [stateless-me/uuidv47](https://github.com/stateless-me/uuidv47) - ⚡ UUIDv47 = v4 privacy + v7 performance
 - [berry-lang/berry](https://github.com/berry-lang/berry) - A ultra-lightweight embedded scripting language optimized for microcontrollers.
 - [libtom/tomsfastmath](https://github.com/libtom/tomsfastmath) - TomsFastMath is a fast public domain, open source, large integer arithmetic library written in portable ISO C.
@@ -2644,7 +2645,7 @@
 
 ## cybersecurity 
 
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) - A curated list of awesome resources related to executable packing
@@ -3251,7 +3252,7 @@
 - [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -4356,7 +4357,7 @@
 - [Code-Hex/vz](https://github.com/Code-Hex/vz) - Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.framework.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go) - Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
@@ -7044,7 +7045,7 @@
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
@@ -7510,6 +7511,7 @@
 
 ## macos 
 
+- [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs
 - [bbodi/tinywm](https://github.com/bbodi/tinywm) - A scrolling window manager for macOS, inspired by niri
 - [Saffsanity/sill](https://github.com/Saffsanity/sill) - Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
@@ -7550,7 +7552,7 @@
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [datatheorem/TrustKit](https://github.com/datatheorem/TrustKit) - Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
 - [essandess/macOS-Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
@@ -8008,7 +8010,7 @@
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: The Golden Swiss Army Knife for markdown processing. 100% CommonMark compliant, AST w/ CST, Extensible, Fast, CJK-friendly.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
@@ -8771,7 +8773,7 @@
 - [PCRE2Project/pcre2](https://github.com/PCRE2Project/pcre2) - PCRE2 is a library implementing regular expression pattern matching with a C API
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -8927,6 +8929,8 @@
 
 ## others 
 
+- [FreeWebber/SyncedJSONtoOnetab](https://github.com/FreeWebber/SyncedJSONtoOnetab) - Firefox Synced JSON of tabs to Onetab format
+- [anthropics/ClaudeForFoundationModels](https://github.com/anthropics/ClaudeForFoundationModels) - Claude support for Apple Foundation Models
 - [harrisj/local-llm-stack](https://github.com/harrisj/local-llm-stack) - Other people have their local LLM stacks, this is mine
 - [omnipty-terminal/omnipty](https://github.com/omnipty-terminal/omnipty) - Opinionated terminal emulator for macOS and Linux: splits, workspaces, file tree and prompt built in. GPU-rendered, written in Rust
 - [antirez/c64-hw-simulator](https://github.com/antirez/c64-hw-simulator) - Commodore 64 hardware simulator
@@ -9336,7 +9340,7 @@
 - [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) - Access to Anthropic's safety-first language model APIs in TypeScript
 - [netbymatt/ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
-- [TheRoccoB/hetzner-billing-auto-shutdown-and-notif](https://github.com/TheRoccoB/hetzner-billing-auto-shutdown-and-notif) - github cron job that sends slack alerts and kills hetzner if necessary
+- [TheRoccoB/hetzner-billing-auto-shutdown-and-notif](https://github.com/TheRoccoB/hetzner-billing-auto-shutdown-and-notif) - Archived. v2 lives at github.com/simmer-io/hetzner-billing-guard (systemd timer, not a GitHub cron)
 - [dalathegreat/Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters
 - [lottie/lottie-spec](https://github.com/lottie/lottie-spec) - Lottie Animation format documentation and tools
 - [jdx/mise-action](https://github.com/jdx/mise-action) - 
@@ -16132,7 +16136,7 @@
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [tableflowhq/csv-import](https://github.com/tableflowhq/csv-import) - The open-source CSV importer, maintained by @tableflowhq
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -16991,7 +16995,7 @@
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
@@ -17277,7 +17281,7 @@
 - [vlcn-io/sqlite-rs-embedded](https://github.com/vlcn-io/sqlite-rs-embedded) - Rust bindings for SQLite that are no_std and wasm compatible
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [x2bool/xlite](https://github.com/x2bool/xlite) - Query Excel spredsheets (.xlsx, .xls, .ods) using SQLite
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
@@ -19374,7 +19378,7 @@
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [brianluft/heirloom](https://github.com/brianluft/heirloom) - Heirloom apps — Modernized File Manager and Program Manager for Windows
 - [clawsoftware/clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions.
