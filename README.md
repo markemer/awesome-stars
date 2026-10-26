@@ -6745,7 +6745,7 @@
 - [NOAA-GSL/zyra](https://github.com/NOAA-GSL/zyra) - Modular workflows for reproducible science
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [aedrax/opasm](https://github.com/aedrax/opasm) - Assembly REPL
-- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted certificate lifecycle management: issue, renew, discover, inventory and deploy TLS certificates across your infrastructure
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted control plane for TLS certificates, ready for 47-day certificates: issue, renew, discover, inventory and deploy them, and serve ACME for internal names and IPv4 addresses
 - [HelgeGehring/gdshelpers](https://github.com/HelgeGehring/gdshelpers) - GDSHelpers is an open-source package for automatized pattern generation for nano-structuring.
 - [robotools/robofab](https://github.com/robotools/robofab) - RoboFab
 - [robotools/fontParts](https://github.com/robotools/fontParts) - The replacement for RoboFab
